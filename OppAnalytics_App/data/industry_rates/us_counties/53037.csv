@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kittitas,751,0.49558514987673885,Overall
+Kittitas,HiTech,96,0.0016147771662787802,Sector
+Kittitas,Agriculture,14,0.16021656690663555,Sector
+Kittitas,Transportation,67,0.3502424891962972,Sector
+Kittitas,Consumer_Products,63,0.6651487188602925,Sector
+Kittitas,Unassigned,96,0.8710349445537144,Sector
+Kittitas,Communication,31,0.9331898327126947,Sector
+Kittitas,Trade,26,0.5361007621212207,Sector
+Kittitas,Business_Services,52,0.9049136968717357,Sector
+Kittitas,Business_Products,12,0.2153964108005917,Sector
+Kittitas,Construction,24,0.8897800584349462,Sector
+Kittitas,Services,69,0.11938747900430702,Sector
+Kittitas,Mining,56,0.3468742761906596,Sector
+Kittitas,Health_Care,97,0.9997175935433327,Sector
+Kittitas,EnergyExpL_Prod,38,0.3593873829985824,Sector
+Kittitas,Utilities,10,0.08077225878979488,Sector

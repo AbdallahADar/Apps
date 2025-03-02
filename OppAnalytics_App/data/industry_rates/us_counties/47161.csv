@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stewart,732,0.6089486972675182,Overall
+Stewart,HiTech,6,0.556277222882627,Sector
+Stewart,Agriculture,45,0.1037679719790573,Sector
+Stewart,Transportation,89,0.7794657628680953,Sector
+Stewart,Consumer_Products,31,0.5810006671505691,Sector
+Stewart,Unassigned,70,0.8376864479094992,Sector
+Stewart,Communication,76,0.45155366094661853,Sector
+Stewart,Trade,24,0.650639922242511,Sector
+Stewart,Business_Services,82,0.46210038884861326,Sector
+Stewart,Business_Products,40,0.6153680447234925,Sector
+Stewart,Construction,63,0.5600052643608167,Sector
+Stewart,Services,11,0.1394962798712872,Sector
+Stewart,Mining,88,0.9802392852699832,Sector
+Stewart,Health_Care,83,0.812199013665576,Sector
+Stewart,EnergyExpL_Prod,7,0.678934026769006,Sector
+Stewart,Utilities,17,0.9254964995250203,Sector

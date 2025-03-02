@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kent,988,0.4713194351678315,Overall
+Kent,HiTech,54,0.13397489869744572,Sector
+Kent,Agriculture,58,0.8988887782030756,Sector
+Kent,Transportation,74,0.9084353052562192,Sector
+Kent,Consumer_Products,94,0.065879698026723,Sector
+Kent,Unassigned,75,0.2735378551313926,Sector
+Kent,Communication,78,0.08929956680427331,Sector
+Kent,Trade,92,0.15847606709302986,Sector
+Kent,Business_Services,89,0.578153364928594,Sector
+Kent,Business_Products,77,0.4886976541330206,Sector
+Kent,Construction,61,0.7637640216362217,Sector
+Kent,Services,8,0.595832998600353,Sector
+Kent,Mining,55,0.5341559605037343,Sector
+Kent,Health_Care,72,0.765866030236758,Sector
+Kent,EnergyExpL_Prod,29,0.809031606395299,Sector
+Kent,Utilities,72,0.005797721871331096,Sector

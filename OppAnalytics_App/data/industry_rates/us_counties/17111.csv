@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McHenry,687,0.6394645146318749,Overall
+McHenry,HiTech,60,0.18896495197484564,Sector
+McHenry,Agriculture,22,0.6210466145637322,Sector
+McHenry,Transportation,47,0.8037846989747846,Sector
+McHenry,Consumer_Products,75,0.8053445327751309,Sector
+McHenry,Unassigned,96,0.18206856837141938,Sector
+McHenry,Communication,53,0.502528416633725,Sector
+McHenry,Trade,43,0.8680962943771531,Sector
+McHenry,Business_Services,19,0.9561527526970689,Sector
+McHenry,Business_Products,28,0.9893998496074685,Sector
+McHenry,Construction,6,0.4585043581742234,Sector
+McHenry,Services,16,0.9496878115567156,Sector
+McHenry,Mining,80,0.35145238885361163,Sector
+McHenry,Health_Care,27,0.3881998967772641,Sector
+McHenry,EnergyExpL_Prod,55,0.8444893282272501,Sector
+McHenry,Utilities,60,0.6822472559137294,Sector

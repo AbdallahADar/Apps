@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yellowstone,838,0.6032570935457339,Overall
+Yellowstone,HiTech,85,0.15798881339231952,Sector
+Yellowstone,Agriculture,37,0.3637199350557372,Sector
+Yellowstone,Transportation,87,0.791070083822048,Sector
+Yellowstone,Consumer_Products,17,0.9305547255913973,Sector
+Yellowstone,Unassigned,63,0.19944679728328651,Sector
+Yellowstone,Communication,41,0.2653374323285206,Sector
+Yellowstone,Trade,82,0.8519446787293554,Sector
+Yellowstone,Business_Services,41,0.6179054055313657,Sector
+Yellowstone,Business_Products,33,0.7096141714460291,Sector
+Yellowstone,Construction,47,0.5746376494892692,Sector
+Yellowstone,Services,40,0.9564133628950402,Sector
+Yellowstone,Mining,82,0.8317856052971597,Sector
+Yellowstone,Health_Care,43,0.5820103488579152,Sector
+Yellowstone,EnergyExpL_Prod,72,0.7302139320128525,Sector
+Yellowstone,Utilities,68,0.486213461453711,Sector

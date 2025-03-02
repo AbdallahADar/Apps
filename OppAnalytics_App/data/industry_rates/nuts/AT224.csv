@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oststeiermark,778,0.5176065829977038,Overall
+Oststeiermark,HiTech,71,0.7732582403308391,Sector
+Oststeiermark,Agriculture,35,0.5924040721304512,Sector
+Oststeiermark,Transportation,0,0.5631257978682632,Sector
+Oststeiermark,Consumer_Products,31,0.013683305623419462,Sector
+Oststeiermark,Unassigned,47,0.7134110840331713,Sector
+Oststeiermark,Communication,92,0.9248279433520302,Sector
+Oststeiermark,Trade,54,0.2871140781835171,Sector
+Oststeiermark,Business_Services,59,0.09592967752004566,Sector
+Oststeiermark,Business_Products,87,0.020946428268538986,Sector
+Oststeiermark,Construction,72,0.6022443891101015,Sector
+Oststeiermark,Services,10,0.4334630968473283,Sector
+Oststeiermark,Mining,20,0.8284997735140603,Sector
+Oststeiermark,Health_Care,89,0.6293427482113351,Sector
+Oststeiermark,EnergyExpL_Prod,47,0.7952643268061572,Sector
+Oststeiermark,Utilities,64,0.4905837831662968,Sector

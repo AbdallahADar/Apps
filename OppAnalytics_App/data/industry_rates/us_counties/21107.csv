@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hopkins,675,0.5656413185363438,Overall
+Hopkins,HiTech,36,0.18829280676842441,Sector
+Hopkins,Agriculture,67,0.8208203864465734,Sector
+Hopkins,Transportation,52,0.7182347544012028,Sector
+Hopkins,Consumer_Products,53,0.21324430191539434,Sector
+Hopkins,Unassigned,47,0.9283854271451499,Sector
+Hopkins,Communication,18,0.8527232181172939,Sector
+Hopkins,Trade,62,0.4340112313268649,Sector
+Hopkins,Business_Services,75,0.9367636005025448,Sector
+Hopkins,Business_Products,73,0.19260459944544572,Sector
+Hopkins,Construction,68,0.1625461230808256,Sector
+Hopkins,Services,21,0.5152495146034937,Sector
+Hopkins,Mining,7,0.6641187768712917,Sector
+Hopkins,Health_Care,23,0.8275927989548829,Sector
+Hopkins,EnergyExpL_Prod,17,0.7087728685363665,Sector
+Hopkins,Utilities,56,0.3212593699294026,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sanilac,641,0.6054778408073763,Overall
+Sanilac,HiTech,10,0.9611164066824438,Sector
+Sanilac,Agriculture,43,0.9279675761792591,Sector
+Sanilac,Transportation,93,0.8663577633730508,Sector
+Sanilac,Consumer_Products,86,0.6059465085754485,Sector
+Sanilac,Unassigned,17,0.3132662506183741,Sector
+Sanilac,Communication,53,0.37502553938606353,Sector
+Sanilac,Trade,2,0.48410755443238696,Sector
+Sanilac,Business_Services,18,0.6473614129940032,Sector
+Sanilac,Business_Products,98,0.6679088778530329,Sector
+Sanilac,Construction,9,0.8554195923541005,Sector
+Sanilac,Services,13,0.08234145335636933,Sector
+Sanilac,Mining,26,0.8403016056785587,Sector
+Sanilac,Health_Care,71,0.7720406652826433,Sector
+Sanilac,EnergyExpL_Prod,92,0.4651718971569302,Sector
+Sanilac,Utilities,10,0.21783450818798067,Sector

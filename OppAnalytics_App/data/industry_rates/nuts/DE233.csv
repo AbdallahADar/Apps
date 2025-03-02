@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Weiden i. d. Opf, Kreisfreie Stadt",493,0.46801870502337656,Overall
+"Weiden i. d. Opf, Kreisfreie Stadt",HiTech,57,0.26929860223934987,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Agriculture,0,0.10093111916446851,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Transportation,2,0.28648312027971423,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Consumer_Products,50,0.4404858480426629,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Unassigned,21,0.18328488769405948,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Communication,64,0.8770830279271709,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Trade,16,0.4341624869676114,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Business_Services,63,0.7431525268289744,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Business_Products,10,0.9441659581014327,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Construction,75,0.6587008769093904,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Services,4,0.32914803115318014,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Mining,19,0.5023408895702766,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Health_Care,52,0.6273943693664868,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",EnergyExpL_Prod,17,0.11751564938047265,Sector
+"Weiden i. d. Opf, Kreisfreie Stadt",Utilities,43,0.5061331817253983,Sector

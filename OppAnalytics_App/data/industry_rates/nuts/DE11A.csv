@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Schwäbisch Hall,625,0.5087851261500628,Overall
+Schwäbisch Hall,HiTech,94,0.8536927690943987,Sector
+Schwäbisch Hall,Agriculture,27,0.424165557592604,Sector
+Schwäbisch Hall,Transportation,58,0.9002399570851689,Sector
+Schwäbisch Hall,Consumer_Products,18,0.8747014959479334,Sector
+Schwäbisch Hall,Unassigned,14,0.7386119804282365,Sector
+Schwäbisch Hall,Communication,61,0.10946909562083251,Sector
+Schwäbisch Hall,Trade,43,0.5559954606149562,Sector
+Schwäbisch Hall,Business_Services,50,0.054219408040362294,Sector
+Schwäbisch Hall,Business_Products,2,0.83997417268155,Sector
+Schwäbisch Hall,Construction,88,0.15106157454050528,Sector
+Schwäbisch Hall,Services,52,0.4640356086140909,Sector
+Schwäbisch Hall,Mining,14,0.40420207285306153,Sector
+Schwäbisch Hall,Health_Care,5,0.3626018820839291,Sector
+Schwäbisch Hall,EnergyExpL_Prod,21,0.15506535130450605,Sector
+Schwäbisch Hall,Utilities,78,0.7437405057488069,Sector

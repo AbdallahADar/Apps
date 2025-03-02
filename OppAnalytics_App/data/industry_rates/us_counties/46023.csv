@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Charles Mix,686,0.5873663275203963,Overall
+Charles Mix,HiTech,49,0.8422365961423636,Sector
+Charles Mix,Agriculture,28,0.9472363003126116,Sector
+Charles Mix,Transportation,42,0.704022220999583,Sector
+Charles Mix,Consumer_Products,51,0.8740688710316695,Sector
+Charles Mix,Unassigned,86,0.942778052412458,Sector
+Charles Mix,Communication,19,0.5715739955103455,Sector
+Charles Mix,Trade,75,0.41064039618969894,Sector
+Charles Mix,Business_Services,9,0.36890639375398226,Sector
+Charles Mix,Business_Products,16,0.007792027625950992,Sector
+Charles Mix,Construction,14,0.6944969060312778,Sector
+Charles Mix,Services,50,0.1159144664458237,Sector
+Charles Mix,Mining,88,0.09272943725624794,Sector
+Charles Mix,Health_Care,99,0.6941411542870367,Sector
+Charles Mix,EnergyExpL_Prod,47,0.8989789821849477,Sector
+Charles Mix,Utilities,13,0.644979112621948,Sector

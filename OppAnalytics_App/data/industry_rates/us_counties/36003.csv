@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Allegany,1017,0.4601839277253367,Overall
+Allegany,HiTech,41,0.8857263247503193,Sector
+Allegany,Agriculture,64,0.8145070030868867,Sector
+Allegany,Transportation,80,0.23592482944513782,Sector
+Allegany,Consumer_Products,72,0.31607014748777973,Sector
+Allegany,Unassigned,71,0.5645923465824276,Sector
+Allegany,Communication,42,0.22020506103186388,Sector
+Allegany,Trade,95,0.644964617629363,Sector
+Allegany,Business_Services,77,0.6262481499679492,Sector
+Allegany,Business_Products,96,0.25173842299833293,Sector
+Allegany,Construction,89,0.17119942226761853,Sector
+Allegany,Services,31,0.27056326215169535,Sector
+Allegany,Mining,55,0.9175079222855299,Sector
+Allegany,Health_Care,93,0.5434626749148571,Sector
+Allegany,EnergyExpL_Prod,74,0.40510311977947877,Sector
+Allegany,Utilities,37,0.0349456115008111,Sector

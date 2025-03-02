@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,DeKalb,808,0.4163509502479034,Overall
+DeKalb,HiTech,30,0.026394479562456774,Sector
+DeKalb,Agriculture,69,0.6669130127218256,Sector
+DeKalb,Transportation,61,0.9679786212268093,Sector
+DeKalb,Consumer_Products,55,0.28555766162182805,Sector
+DeKalb,Unassigned,33,0.08574201200495124,Sector
+DeKalb,Communication,30,0.42392560239390387,Sector
+DeKalb,Trade,17,0.02090237749657231,Sector
+DeKalb,Business_Services,92,0.670983687043427,Sector
+DeKalb,Business_Products,80,0.010470502724697073,Sector
+DeKalb,Construction,66,0.5129759237261693,Sector
+DeKalb,Services,15,0.9219909739378224,Sector
+DeKalb,Mining,11,0.9716958391922956,Sector
+DeKalb,Health_Care,85,0.6134900764926119,Sector
+DeKalb,EnergyExpL_Prod,86,0.032214921319945966,Sector
+DeKalb,Utilities,78,0.03402856225323514,Sector

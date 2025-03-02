@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mardin,800,0.5366060637521316,Overall
+Mardin,HiTech,76,0.91032200802494,Sector
+Mardin,Agriculture,97,0.07403832617887696,Sector
+Mardin,Transportation,65,0.7235781426904578,Sector
+Mardin,Consumer_Products,42,0.31534223773180037,Sector
+Mardin,Unassigned,70,0.34497078570899964,Sector
+Mardin,Communication,50,0.5156012328631348,Sector
+Mardin,Trade,10,0.6181126902657388,Sector
+Mardin,Business_Services,52,0.21074922837398824,Sector
+Mardin,Business_Products,46,0.6054129056539777,Sector
+Mardin,Construction,25,0.6120545708702295,Sector
+Mardin,Services,72,0.9547969326429584,Sector
+Mardin,Mining,73,0.8837105251907453,Sector
+Mardin,Health_Care,38,0.424603153738783,Sector
+Mardin,EnergyExpL_Prod,30,0.5455790759907581,Sector
+Mardin,Utilities,54,0.3102191403565866,Sector

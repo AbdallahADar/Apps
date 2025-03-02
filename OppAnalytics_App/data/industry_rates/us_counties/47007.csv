@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bledsoe,785,0.5064158461428311,Overall
+Bledsoe,HiTech,88,0.9754165047445945,Sector
+Bledsoe,Agriculture,72,0.45403097002445714,Sector
+Bledsoe,Transportation,9,0.8660051780044044,Sector
+Bledsoe,Consumer_Products,29,0.21065260144658526,Sector
+Bledsoe,Unassigned,28,0.6103720377786461,Sector
+Bledsoe,Communication,13,0.33835041107946284,Sector
+Bledsoe,Trade,33,0.9277536245935505,Sector
+Bledsoe,Business_Services,59,0.5172798992986546,Sector
+Bledsoe,Business_Products,34,0.8206642568399288,Sector
+Bledsoe,Construction,99,0.4704471806791729,Sector
+Bledsoe,Services,47,0.005812371224155566,Sector
+Bledsoe,Mining,96,0.16715451451553098,Sector
+Bledsoe,Health_Care,25,0.03151328525393915,Sector
+Bledsoe,EnergyExpL_Prod,83,0.8657658576304036,Sector
+Bledsoe,Utilities,70,0.33501899902898036,Sector

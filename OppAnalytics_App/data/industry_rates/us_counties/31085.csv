@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hayes,790,0.5216066566815293,Overall
+Hayes,HiTech,3,0.03727298599261053,Sector
+Hayes,Agriculture,58,0.8136720339145829,Sector
+Hayes,Transportation,62,0.8345587055185046,Sector
+Hayes,Consumer_Products,55,0.3558677159108915,Sector
+Hayes,Unassigned,10,0.4419348793922959,Sector
+Hayes,Communication,33,0.1560540730781348,Sector
+Hayes,Trade,75,0.9853077569893232,Sector
+Hayes,Business_Services,59,0.48293403873462193,Sector
+Hayes,Business_Products,75,0.010776137073549852,Sector
+Hayes,Construction,37,0.7919396265622496,Sector
+Hayes,Services,29,0.8575489912514687,Sector
+Hayes,Mining,42,0.5617535136133444,Sector
+Hayes,Health_Care,63,0.48956389536062417,Sector
+Hayes,EnergyExpL_Prod,93,0.9772889924486763,Sector
+Hayes,Utilities,96,0.02762650438206049,Sector

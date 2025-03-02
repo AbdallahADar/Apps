@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arthur,606,0.5067772471224752,Overall
+Arthur,HiTech,94,0.4663428836119463,Sector
+Arthur,Agriculture,29,0.7117751073494191,Sector
+Arthur,Transportation,7,0.7811919208233654,Sector
+Arthur,Consumer_Products,10,0.7438991133021884,Sector
+Arthur,Unassigned,25,0.8044381438290009,Sector
+Arthur,Communication,74,0.5663965612946713,Sector
+Arthur,Trade,50,0.21917682254018778,Sector
+Arthur,Business_Services,42,0.5657599349526632,Sector
+Arthur,Business_Products,21,0.04385589154804559,Sector
+Arthur,Construction,56,0.5999091889189258,Sector
+Arthur,Services,43,0.9856741530406953,Sector
+Arthur,Mining,34,0.47430411499957925,Sector
+Arthur,Health_Care,66,0.2760566670835175,Sector
+Arthur,EnergyExpL_Prod,3,0.14816409355767668,Sector
+Arthur,Utilities,52,0.21471410998524398,Sector

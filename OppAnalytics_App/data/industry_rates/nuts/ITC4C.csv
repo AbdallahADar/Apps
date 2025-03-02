@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Milano,732,0.657224934888044,Overall
+Milano,HiTech,63,0.15318232847159874,Sector
+Milano,Agriculture,35,0.21886456497707896,Sector
+Milano,Transportation,8,0.992492481481596,Sector
+Milano,Consumer_Products,19,0.9065945194074724,Sector
+Milano,Unassigned,60,0.4166043946514767,Sector
+Milano,Communication,36,0.9268057371795257,Sector
+Milano,Trade,31,0.6898685098407508,Sector
+Milano,Business_Services,64,0.7863019400963868,Sector
+Milano,Business_Products,8,0.7372888879992489,Sector
+Milano,Construction,48,0.6825278188563464,Sector
+Milano,Services,50,0.7696022170710461,Sector
+Milano,Mining,93,0.8400711573962341,Sector
+Milano,Health_Care,68,0.09477924762870227,Sector
+Milano,EnergyExpL_Prod,84,0.8188680424185257,Sector
+Milano,Utilities,65,0.8245221758446711,Sector

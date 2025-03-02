@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Buckingham,939,0.4621623617256558,Overall
+Buckingham,HiTech,92,0.23185829979952632,Sector
+Buckingham,Agriculture,62,0.12804043067172888,Sector
+Buckingham,Transportation,98,0.2482355568490523,Sector
+Buckingham,Consumer_Products,24,0.8711431227769245,Sector
+Buckingham,Unassigned,31,0.7514491061047088,Sector
+Buckingham,Communication,61,0.8646525403334178,Sector
+Buckingham,Trade,60,0.8995403185349852,Sector
+Buckingham,Business_Services,73,0.05059816532189998,Sector
+Buckingham,Business_Products,70,0.7503132266362473,Sector
+Buckingham,Construction,93,0.7626794294754095,Sector
+Buckingham,Services,16,0.39421602603103234,Sector
+Buckingham,Mining,68,0.14869055802917364,Sector
+Buckingham,Health_Care,49,0.2958194994900678,Sector
+Buckingham,EnergyExpL_Prod,51,0.44788162435229073,Sector
+Buckingham,Utilities,91,0.08731752147837246,Sector

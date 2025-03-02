@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stara Zagora,681,0.5462440777738816,Overall
+Stara Zagora,HiTech,53,0.8375013815011765,Sector
+Stara Zagora,Agriculture,31,0.09702382976797896,Sector
+Stara Zagora,Transportation,54,0.7985037294453772,Sector
+Stara Zagora,Consumer_Products,17,0.2546439445586012,Sector
+Stara Zagora,Unassigned,43,0.9574796058342572,Sector
+Stara Zagora,Communication,46,0.4528892236848209,Sector
+Stara Zagora,Trade,30,0.4135218240776749,Sector
+Stara Zagora,Business_Services,82,0.38474305557684374,Sector
+Stara Zagora,Business_Products,36,0.6592974811712383,Sector
+Stara Zagora,Construction,85,0.6791088793113942,Sector
+Stara Zagora,Services,57,0.408268155062132,Sector
+Stara Zagora,Mining,76,0.6362440981285054,Sector
+Stara Zagora,Health_Care,36,0.5940680254817152,Sector
+Stara Zagora,EnergyExpL_Prod,28,0.18426210663225528,Sector
+Stara Zagora,Utilities,7,0.8361058263742535,Sector

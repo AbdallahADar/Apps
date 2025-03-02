@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McDuffie,853,0.4121814087629699,Overall
+McDuffie,HiTech,40,0.2985623182708994,Sector
+McDuffie,Agriculture,48,0.06729416634972318,Sector
+McDuffie,Transportation,57,0.1513381383966096,Sector
+McDuffie,Consumer_Products,53,0.44593927072779804,Sector
+McDuffie,Unassigned,67,0.1420841294766071,Sector
+McDuffie,Communication,69,0.639387020271075,Sector
+McDuffie,Trade,9,0.4959008931985015,Sector
+McDuffie,Business_Services,76,0.03244000165161043,Sector
+McDuffie,Business_Products,71,0.9775384287030867,Sector
+McDuffie,Construction,33,0.26899437345001664,Sector
+McDuffie,Services,92,0.6292775284173125,Sector
+McDuffie,Mining,91,0.07776843618178253,Sector
+McDuffie,Health_Care,5,0.5880141462415525,Sector
+McDuffie,EnergyExpL_Prod,62,0.6343996035188625,Sector
+McDuffie,Utilities,80,0.7337826765891119,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Guánica,960,0.3811580311083832,Overall
+Guánica,HiTech,71,0.21639434859796614,Sector
+Guánica,Agriculture,83,0.07555914656694662,Sector
+Guánica,Transportation,94,0.506663341979937,Sector
+Guánica,Consumer_Products,32,0.6979695048148018,Sector
+Guánica,Unassigned,53,0.7749805437093349,Sector
+Guánica,Communication,82,0.12427944990206563,Sector
+Guánica,Trade,67,0.8207404967946059,Sector
+Guánica,Business_Services,88,0.0873029518481987,Sector
+Guánica,Business_Products,45,0.8674401512922884,Sector
+Guánica,Construction,58,0.2598478205148945,Sector
+Guánica,Services,42,0.565643218688918,Sector
+Guánica,Mining,61,0.33289863340527603,Sector
+Guánica,Health_Care,42,0.17786635533156048,Sector
+Guánica,EnergyExpL_Prod,95,0.09660503677818677,Sector
+Guánica,Utilities,47,0.1131794664007657,Sector

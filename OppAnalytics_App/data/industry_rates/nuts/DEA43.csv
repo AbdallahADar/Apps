@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Herford,608,0.5857595303487041,Overall
+Herford,HiTech,89,0.34541882410219815,Sector
+Herford,Agriculture,49,0.3775603298012544,Sector
+Herford,Transportation,23,0.05018136054982458,Sector
+Herford,Consumer_Products,67,0.8969245576641739,Sector
+Herford,Unassigned,37,0.5892603199445813,Sector
+Herford,Communication,65,0.282385353938887,Sector
+Herford,Trade,57,0.8012199787060171,Sector
+Herford,Business_Services,6,0.6797486166845064,Sector
+Herford,Business_Products,49,0.7217782385101169,Sector
+Herford,Construction,52,0.8897937564275742,Sector
+Herford,Services,2,0.5767673197236665,Sector
+Herford,Mining,10,0.5802020725860829,Sector
+Herford,Health_Care,48,0.20249730640715546,Sector
+Herford,EnergyExpL_Prod,48,0.8024162727435767,Sector
+Herford,Utilities,6,0.9902386474409451,Sector

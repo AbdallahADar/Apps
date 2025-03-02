@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pendleton,865,0.6164690476570343,Overall
+Pendleton,HiTech,55,0.9268594360046272,Sector
+Pendleton,Agriculture,42,0.6578837483062003,Sector
+Pendleton,Transportation,4,0.25470009223061896,Sector
+Pendleton,Consumer_Products,8,0.6049441579931598,Sector
+Pendleton,Unassigned,68,0.44522816531021303,Sector
+Pendleton,Communication,72,0.548045866512099,Sector
+Pendleton,Trade,85,0.8153129026692737,Sector
+Pendleton,Business_Services,76,0.6663292104009242,Sector
+Pendleton,Business_Products,63,0.7313456918085703,Sector
+Pendleton,Construction,71,0.135312030804553,Sector
+Pendleton,Services,68,0.35151469716544437,Sector
+Pendleton,Mining,26,0.8132629842609771,Sector
+Pendleton,Health_Care,55,0.8503105394124503,Sector
+Pendleton,EnergyExpL_Prod,89,0.46764255064115323,Sector
+Pendleton,Utilities,83,0.9783436413352485,Sector

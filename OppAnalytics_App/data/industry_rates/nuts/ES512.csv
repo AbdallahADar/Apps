@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Girona,733,0.5683921417623536,Overall
+Girona,HiTech,74,0.5649184560501829,Sector
+Girona,Agriculture,29,0.6199514275815732,Sector
+Girona,Transportation,33,0.39546911578129296,Sector
+Girona,Consumer_Products,59,0.5661291264084156,Sector
+Girona,Unassigned,82,0.671597726919964,Sector
+Girona,Communication,41,0.6715297841781476,Sector
+Girona,Trade,16,0.5091563280808477,Sector
+Girona,Business_Services,56,0.49253889300796727,Sector
+Girona,Business_Products,87,0.7927505246542019,Sector
+Girona,Construction,17,0.2229513698560598,Sector
+Girona,Services,47,0.5163492879993838,Sector
+Girona,Mining,95,0.642749631696324,Sector
+Girona,Health_Care,14,0.9386020456453187,Sector
+Girona,EnergyExpL_Prod,9,0.4270956848946277,Sector
+Girona,Utilities,74,0.4940927236809973,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Thomas,694,0.4358366571498323,Overall
+Thomas,HiTech,45,0.4766404813649996,Sector
+Thomas,Agriculture,42,0.21975693067489832,Sector
+Thomas,Transportation,11,0.22671436285150837,Sector
+Thomas,Consumer_Products,81,0.8639503624361229,Sector
+Thomas,Unassigned,51,0.8813861928698714,Sector
+Thomas,Communication,75,0.18441589017075588,Sector
+Thomas,Trade,15,0.8505234268655822,Sector
+Thomas,Business_Services,44,0.45749361748649076,Sector
+Thomas,Business_Products,61,0.8402315001343341,Sector
+Thomas,Construction,79,0.22175978117235018,Sector
+Thomas,Services,68,0.6586099846672785,Sector
+Thomas,Mining,92,0.14026037099144162,Sector
+Thomas,Health_Care,26,0.0981064278045477,Sector
+Thomas,EnergyExpL_Prod,1,0.05888666090978223,Sector
+Thomas,Utilities,3,0.3588138668475199,Sector

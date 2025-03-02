@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chariton,702,0.4269260973423575,Overall
+Chariton,HiTech,69,0.19553656003861708,Sector
+Chariton,Agriculture,31,0.24081986451071957,Sector
+Chariton,Transportation,20,0.48546494828427766,Sector
+Chariton,Consumer_Products,19,0.5587406370467919,Sector
+Chariton,Unassigned,59,0.646341021483998,Sector
+Chariton,Communication,90,0.38339221860006323,Sector
+Chariton,Trade,74,0.005079858047026042,Sector
+Chariton,Business_Services,49,0.4052310568412416,Sector
+Chariton,Business_Products,65,0.4786341150738732,Sector
+Chariton,Construction,5,0.5997051800802042,Sector
+Chariton,Services,16,0.17452336530916823,Sector
+Chariton,Mining,3,0.84687272688705,Sector
+Chariton,Health_Care,49,0.34252832564450153,Sector
+Chariton,EnergyExpL_Prod,68,0.32594731266657573,Sector
+Chariton,Utilities,85,0.7150742696212559,Sector

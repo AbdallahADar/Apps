@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Blue Earth,1057,0.5014800014815912,Overall
+Blue Earth,HiTech,81,0.9610992986656224,Sector
+Blue Earth,Agriculture,87,0.15919514148685654,Sector
+Blue Earth,Transportation,46,0.1967227708901318,Sector
+Blue Earth,Consumer_Products,91,0.9972512825703232,Sector
+Blue Earth,Unassigned,75,0.7409542127124035,Sector
+Blue Earth,Communication,89,0.0710663019264336,Sector
+Blue Earth,Trade,77,0.3744284019247768,Sector
+Blue Earth,Business_Services,85,0.24931098506691696,Sector
+Blue Earth,Business_Products,30,0.002598575527027136,Sector
+Blue Earth,Construction,39,0.27798602780586645,Sector
+Blue Earth,Services,79,0.5640191711045748,Sector
+Blue Earth,Mining,53,0.884958905401797,Sector
+Blue Earth,Health_Care,75,0.7513047514824386,Sector
+Blue Earth,EnergyExpL_Prod,68,0.6178252849125865,Sector
+Blue Earth,Utilities,82,0.6734789107461132,Sector

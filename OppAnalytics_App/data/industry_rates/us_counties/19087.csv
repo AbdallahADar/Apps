@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Henry,762,0.614076714260417,Overall
+Henry,HiTech,81,0.9340360048203815,Sector
+Henry,Agriculture,88,0.457824311688124,Sector
+Henry,Transportation,55,0.7874587972917408,Sector
+Henry,Consumer_Products,41,0.9457859568011522,Sector
+Henry,Unassigned,46,0.886374748405135,Sector
+Henry,Communication,93,0.7042810718992352,Sector
+Henry,Trade,25,0.7747325863030884,Sector
+Henry,Business_Services,0,0.3151795037462518,Sector
+Henry,Business_Products,14,0.16269283389138334,Sector
+Henry,Construction,42,0.42152597970877703,Sector
+Henry,Services,43,0.8053422501509339,Sector
+Henry,Mining,67,0.0629675635892617,Sector
+Henry,Health_Care,92,0.2927432833000153,Sector
+Henry,EnergyExpL_Prod,13,0.8410738752426956,Sector
+Henry,Utilities,62,0.8191319470680791,Sector

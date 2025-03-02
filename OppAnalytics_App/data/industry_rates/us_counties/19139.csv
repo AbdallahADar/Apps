@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Muscatine,610,0.38073342063342125,Overall
+Muscatine,HiTech,91,0.0735250152543353,Sector
+Muscatine,Agriculture,23,0.8235975786014876,Sector
+Muscatine,Transportation,21,0.48253427059910237,Sector
+Muscatine,Consumer_Products,4,0.0895739999164682,Sector
+Muscatine,Unassigned,17,0.2647228184232874,Sector
+Muscatine,Communication,23,0.05412563189850794,Sector
+Muscatine,Trade,84,0.08963196373028615,Sector
+Muscatine,Business_Services,58,0.37491241263039377,Sector
+Muscatine,Business_Products,0,0.5124679889482132,Sector
+Muscatine,Construction,73,0.7400971270924289,Sector
+Muscatine,Services,37,0.1711635866686626,Sector
+Muscatine,Mining,34,0.9850986927098154,Sector
+Muscatine,Health_Care,24,0.5985569187929888,Sector
+Muscatine,EnergyExpL_Prod,71,0.16478835911572198,Sector
+Muscatine,Utilities,50,0.2862049451196187,Sector

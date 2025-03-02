@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,665,0.47709702891325106,Overall
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,HiTech,90,0.3668619544451819,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Agriculture,66,0.47248618297467304,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Transportation,41,0.8027060181842041,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Consumer_Products,20,0.8759783825976337,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Unassigned,24,0.7225597550696232,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Communication,40,0.0006966467250013597,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Trade,5,0.25259480985437344,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Business_Services,31,0.7184555363847995,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Business_Products,22,0.9115861947207414,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Construction,59,0.14051887100366556,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Services,83,0.09095657168294258,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Mining,38,0.04217596277002156,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Health_Care,96,0.1478679117858518,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,EnergyExpL_Prod,18,0.9169966657650162,Sector
+Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad,Utilities,32,0.6940139697350359,Sector

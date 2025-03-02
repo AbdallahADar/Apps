@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sivas,850,0.43672217043300426,Overall
+Sivas,HiTech,65,0.5593827260701768,Sector
+Sivas,Agriculture,3,0.575145926321176,Sector
+Sivas,Transportation,5,0.702254227102399,Sector
+Sivas,Consumer_Products,98,0.336201398417623,Sector
+Sivas,Unassigned,42,0.10113966501131355,Sector
+Sivas,Communication,24,0.036191278227904355,Sector
+Sivas,Trade,99,0.8836758992789244,Sector
+Sivas,Business_Services,93,0.9014900929211923,Sector
+Sivas,Business_Products,91,0.009171661984092694,Sector
+Sivas,Construction,28,0.6309921860492669,Sector
+Sivas,Services,35,0.4286124473541868,Sector
+Sivas,Mining,59,0.6273946509423299,Sector
+Sivas,Health_Care,81,0.3842100366211748,Sector
+Sivas,EnergyExpL_Prod,64,0.08674689684026671,Sector
+Sivas,Utilities,63,0.2882234633530373,Sector

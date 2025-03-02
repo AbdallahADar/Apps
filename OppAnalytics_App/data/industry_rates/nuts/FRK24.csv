@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Isère,737,0.4443515581389975,Overall
+Isère,HiTech,10,0.9059560922832668,Sector
+Isère,Agriculture,51,0.35990417419524223,Sector
+Isère,Transportation,60,0.05525916706026113,Sector
+Isère,Consumer_Products,36,0.3441644666357401,Sector
+Isère,Unassigned,52,0.16408136630862513,Sector
+Isère,Communication,68,0.544427066608215,Sector
+Isère,Trade,72,0.46382120444469,Sector
+Isère,Business_Services,94,0.830032814316023,Sector
+Isère,Business_Products,53,0.5326219283392166,Sector
+Isère,Construction,89,0.023088584424672876,Sector
+Isère,Services,5,0.4111979619502678,Sector
+Isère,Mining,45,0.9795531622983009,Sector
+Isère,Health_Care,18,0.0976049238513984,Sector
+Isère,EnergyExpL_Prod,1,0.06495167768638066,Sector
+Isère,Utilities,83,0.8886087816826623,Sector

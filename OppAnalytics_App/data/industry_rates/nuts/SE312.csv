@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dalarnas län,818,0.4058868797025553,Overall
+Dalarnas län,HiTech,63,0.14355774751346706,Sector
+Dalarnas län,Agriculture,88,0.7290255932685494,Sector
+Dalarnas län,Transportation,30,0.015200911639658199,Sector
+Dalarnas län,Consumer_Products,40,0.962011469056128,Sector
+Dalarnas län,Unassigned,35,0.2507640649931594,Sector
+Dalarnas län,Communication,69,0.11737935809839417,Sector
+Dalarnas län,Trade,16,0.42562245477511695,Sector
+Dalarnas län,Business_Services,52,0.2392471669855858,Sector
+Dalarnas län,Business_Products,66,0.28986936956380227,Sector
+Dalarnas län,Construction,95,0.8082406597368458,Sector
+Dalarnas län,Services,94,0.4178028645348618,Sector
+Dalarnas län,Mining,23,0.20345729237650334,Sector
+Dalarnas län,Health_Care,6,0.4682485333728028,Sector
+Dalarnas län,EnergyExpL_Prod,90,0.5428621660010721,Sector
+Dalarnas län,Utilities,51,0.47501354362238357,Sector

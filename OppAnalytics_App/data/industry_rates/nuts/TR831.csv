@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Samsun,751,0.5969843787592737,Overall
+Samsun,HiTech,25,0.7617081452653701,Sector
+Samsun,Agriculture,78,0.386336849762307,Sector
+Samsun,Transportation,53,0.5699118129256424,Sector
+Samsun,Consumer_Products,37,0.8190748555621837,Sector
+Samsun,Unassigned,70,0.2465719856439409,Sector
+Samsun,Communication,1,0.5281190135848282,Sector
+Samsun,Trade,66,0.6342055435582238,Sector
+Samsun,Business_Services,40,0.9587360908987875,Sector
+Samsun,Business_Products,19,0.7405320056143982,Sector
+Samsun,Construction,26,0.6157168248587159,Sector
+Samsun,Services,52,0.0611675013977826,Sector
+Samsun,Mining,48,0.6548852656415547,Sector
+Samsun,Health_Care,59,0.7368109126345166,Sector
+Samsun,EnergyExpL_Prod,82,0.4086161318907918,Sector
+Samsun,Utilities,95,0.8323727421500613,Sector

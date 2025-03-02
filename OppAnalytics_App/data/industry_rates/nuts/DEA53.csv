@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Hagen, Kreisfreie Stadt",615,0.4225974240770769,Overall
+"Hagen, Kreisfreie Stadt",HiTech,52,0.30446856728234795,Sector
+"Hagen, Kreisfreie Stadt",Agriculture,77,0.3703619786020149,Sector
+"Hagen, Kreisfreie Stadt",Transportation,16,0.913134489255952,Sector
+"Hagen, Kreisfreie Stadt",Consumer_Products,97,0.6355923010119077,Sector
+"Hagen, Kreisfreie Stadt",Unassigned,54,0.40813633687464856,Sector
+"Hagen, Kreisfreie Stadt",Communication,44,0.5292344188477218,Sector
+"Hagen, Kreisfreie Stadt",Trade,33,0.6871944912257111,Sector
+"Hagen, Kreisfreie Stadt",Business_Services,34,0.2397604493119263,Sector
+"Hagen, Kreisfreie Stadt",Business_Products,2,0.4675384397164515,Sector
+"Hagen, Kreisfreie Stadt",Construction,9,0.011723062168053078,Sector
+"Hagen, Kreisfreie Stadt",Services,88,0.6744004655770708,Sector
+"Hagen, Kreisfreie Stadt",Mining,14,0.03512560238354845,Sector
+"Hagen, Kreisfreie Stadt",Health_Care,4,0.20086393248074874,Sector
+"Hagen, Kreisfreie Stadt",EnergyExpL_Prod,23,0.2922963261763404,Sector
+"Hagen, Kreisfreie Stadt",Utilities,68,0.5691305002417102,Sector

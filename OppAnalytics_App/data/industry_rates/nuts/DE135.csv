@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rottweil,745,0.5272634269940408,Overall
+Rottweil,HiTech,85,0.7819088450141529,Sector
+Rottweil,Agriculture,78,0.7193842773015792,Sector
+Rottweil,Transportation,45,0.6951270707566026,Sector
+Rottweil,Consumer_Products,34,0.8407681488493436,Sector
+Rottweil,Unassigned,60,0.0010460801554210697,Sector
+Rottweil,Communication,29,0.23053582539539286,Sector
+Rottweil,Trade,46,0.1507595809074186,Sector
+Rottweil,Business_Services,15,0.9742143657916202,Sector
+Rottweil,Business_Products,77,0.9979897894963802,Sector
+Rottweil,Construction,33,0.7351134653348892,Sector
+Rottweil,Services,28,0.3162986935559816,Sector
+Rottweil,Mining,63,0.4361494777552636,Sector
+Rottweil,Health_Care,9,0.31877816091066014,Sector
+Rottweil,EnergyExpL_Prod,66,0.2995512044498595,Sector
+Rottweil,Utilities,77,0.4113264192360472,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Groot-Amsterdam,682,0.363149676983655,Overall
+Groot-Amsterdam,HiTech,45,0.3346989462477,Sector
+Groot-Amsterdam,Agriculture,62,0.8694672162283975,Sector
+Groot-Amsterdam,Transportation,78,0.2744642423552006,Sector
+Groot-Amsterdam,Consumer_Products,47,0.05995717781979215,Sector
+Groot-Amsterdam,Unassigned,44,0.13433998017419824,Sector
+Groot-Amsterdam,Communication,45,0.007441090829443775,Sector
+Groot-Amsterdam,Trade,6,0.5007586235733745,Sector
+Groot-Amsterdam,Business_Services,67,0.8880479664372825,Sector
+Groot-Amsterdam,Business_Products,23,0.4806818003444846,Sector
+Groot-Amsterdam,Construction,84,0.12809192378508416,Sector
+Groot-Amsterdam,Services,11,0.15300686346591175,Sector
+Groot-Amsterdam,Mining,45,0.3358442083642885,Sector
+Groot-Amsterdam,Health_Care,24,0.06026450688323326,Sector
+Groot-Amsterdam,EnergyExpL_Prod,22,0.4490220045178648,Sector
+Groot-Amsterdam,Utilities,79,0.7711586037285704,Sector

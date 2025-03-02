@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tarnowski,756,0.4945148392603915,Overall
+Tarnowski,HiTech,74,0.3007813185235658,Sector
+Tarnowski,Agriculture,88,0.038708703027193314,Sector
+Tarnowski,Transportation,98,0.839145391543595,Sector
+Tarnowski,Consumer_Products,23,0.048713532579285124,Sector
+Tarnowski,Unassigned,23,0.3228624048914799,Sector
+Tarnowski,Communication,64,0.2766707861234411,Sector
+Tarnowski,Trade,44,0.571206511707886,Sector
+Tarnowski,Business_Services,65,0.2950453225986698,Sector
+Tarnowski,Business_Products,27,0.16398232607576768,Sector
+Tarnowski,Construction,45,0.46676059894115474,Sector
+Tarnowski,Services,46,0.6832538239832678,Sector
+Tarnowski,Mining,57,0.6793956778473883,Sector
+Tarnowski,Health_Care,68,0.932230756634573,Sector
+Tarnowski,EnergyExpL_Prod,2,0.9022646219610958,Sector
+Tarnowski,Utilities,32,0.8967008124675097,Sector

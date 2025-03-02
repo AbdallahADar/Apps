@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lorain,795,0.522917570989639,Overall
+Lorain,HiTech,99,0.6220338181221788,Sector
+Lorain,Agriculture,27,0.08100935378382323,Sector
+Lorain,Transportation,38,0.891524682391495,Sector
+Lorain,Consumer_Products,74,0.19585446822789065,Sector
+Lorain,Unassigned,4,0.5411611704923265,Sector
+Lorain,Communication,89,0.873132474681313,Sector
+Lorain,Trade,73,0.08758059521891137,Sector
+Lorain,Business_Services,36,0.924505534863118,Sector
+Lorain,Business_Products,62,0.6449310274155847,Sector
+Lorain,Construction,37,0.2900096936975407,Sector
+Lorain,Services,70,0.7856291812444252,Sector
+Lorain,Mining,36,0.9635661281295679,Sector
+Lorain,Health_Care,10,0.2437237284120417,Sector
+Lorain,EnergyExpL_Prod,63,0.24799173464281332,Sector
+Lorain,Utilities,77,0.4511099735215537,Sector

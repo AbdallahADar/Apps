@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cataño,661,0.6654679853599459,Overall
+Cataño,HiTech,37,0.31948511923056344,Sector
+Cataño,Agriculture,50,0.4770983747788794,Sector
+Cataño,Transportation,81,0.8173468805749499,Sector
+Cataño,Consumer_Products,59,0.31961341503861884,Sector
+Cataño,Unassigned,46,0.10842622143600233,Sector
+Cataño,Communication,5,0.8256020914887059,Sector
+Cataño,Trade,52,0.7492735248778323,Sector
+Cataño,Business_Services,27,0.759833767487549,Sector
+Cataño,Business_Products,96,0.9120376330553381,Sector
+Cataño,Construction,56,0.6917259082935834,Sector
+Cataño,Services,5,0.802422511241721,Sector
+Cataño,Mining,44,0.8300949176508683,Sector
+Cataño,Health_Care,4,0.6052334243343773,Sector
+Cataño,EnergyExpL_Prod,52,0.891791758629924,Sector
+Cataño,Utilities,47,0.8720342322802745,Sector

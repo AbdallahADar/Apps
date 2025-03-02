@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gotha,563,0.5837936591158,Overall
+Gotha,HiTech,65,0.716294929664863,Sector
+Gotha,Agriculture,4,0.24385754738262455,Sector
+Gotha,Transportation,75,0.02736589602370343,Sector
+Gotha,Consumer_Products,70,0.6048097005246046,Sector
+Gotha,Unassigned,11,0.443007925136367,Sector
+Gotha,Communication,6,0.9238335773364894,Sector
+Gotha,Trade,85,0.6408097180505951,Sector
+Gotha,Business_Services,21,0.3345082608319384,Sector
+Gotha,Business_Products,5,0.9762519442374114,Sector
+Gotha,Construction,87,0.6254134888576292,Sector
+Gotha,Services,34,0.6866716211461907,Sector
+Gotha,Mining,40,0.6701565184623719,Sector
+Gotha,Health_Care,42,0.3226443094533583,Sector
+Gotha,EnergyExpL_Prod,18,0.5450243352755031,Sector
+Gotha,Utilities,0,0.9962551143533488,Sector

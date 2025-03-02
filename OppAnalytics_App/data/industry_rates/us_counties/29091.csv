@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Howell,766,0.42414142451311876,Overall
+Howell,HiTech,96,0.11554244330697283,Sector
+Howell,Agriculture,23,0.40517485063145087,Sector
+Howell,Transportation,86,0.26930036746244024,Sector
+Howell,Consumer_Products,69,0.5568069541684445,Sector
+Howell,Unassigned,92,0.10245082878897083,Sector
+Howell,Communication,4,0.28477208789613495,Sector
+Howell,Trade,34,0.2991702268580121,Sector
+Howell,Business_Services,82,0.9383994804353926,Sector
+Howell,Business_Products,87,0.7638959941848044,Sector
+Howell,Construction,1,0.4251177900697155,Sector
+Howell,Services,45,0.546748797458332,Sector
+Howell,Mining,71,0.8195242906281239,Sector
+Howell,Health_Care,7,0.014891129444866036,Sector
+Howell,EnergyExpL_Prod,55,0.07931624140612936,Sector
+Howell,Utilities,14,0.7410098849569909,Sector

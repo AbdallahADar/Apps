@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Person,740,0.3959784050563187,Overall
+Person,HiTech,84,0.23142371937344797,Sector
+Person,Agriculture,26,0.8794362972939825,Sector
+Person,Transportation,58,0.09386823074326434,Sector
+Person,Consumer_Products,69,0.12699869683495646,Sector
+Person,Unassigned,34,0.1470153341871232,Sector
+Person,Communication,8,0.22867925390107446,Sector
+Person,Trade,31,0.33028096699304277,Sector
+Person,Business_Services,78,0.20942436169284262,Sector
+Person,Business_Products,27,0.28382936746602816,Sector
+Person,Construction,66,0.6814067153502478,Sector
+Person,Services,83,0.928472211954097,Sector
+Person,Mining,87,0.3646083973399493,Sector
+Person,Health_Care,33,0.5772366202698256,Sector
+Person,EnergyExpL_Prod,19,0.08117745004990318,Sector
+Person,Utilities,37,0.7758184523949954,Sector

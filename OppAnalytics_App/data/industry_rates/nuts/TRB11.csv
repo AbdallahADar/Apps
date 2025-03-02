@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Malatya,704,0.40056339248178874,Overall
+Malatya,HiTech,24,0.8291202676696975,Sector
+Malatya,Agriculture,55,0.4956667763814563,Sector
+Malatya,Transportation,71,0.3686705158371577,Sector
+Malatya,Consumer_Products,60,0.43740902796703407,Sector
+Malatya,Unassigned,33,0.009395816102496957,Sector
+Malatya,Communication,1,0.29649192327430585,Sector
+Malatya,Trade,1,0.18891379384982632,Sector
+Malatya,Business_Services,72,0.2721414774562225,Sector
+Malatya,Business_Products,57,0.40933165584734277,Sector
+Malatya,Construction,67,0.5052324609254748,Sector
+Malatya,Services,74,0.06003495050447083,Sector
+Malatya,Mining,47,0.5270641038918967,Sector
+Malatya,Health_Care,81,0.7992066074502608,Sector
+Malatya,EnergyExpL_Prod,55,0.009064206946856057,Sector
+Malatya,Utilities,6,0.8007073031223323,Sector

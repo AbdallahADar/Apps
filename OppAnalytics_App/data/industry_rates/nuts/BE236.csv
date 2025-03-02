@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Sint-Niklaas,626,0.49878840925753276,Overall
+Arr. Sint-Niklaas,HiTech,14,0.2462757299499192,Sector
+Arr. Sint-Niklaas,Agriculture,35,0.07110736556801656,Sector
+Arr. Sint-Niklaas,Transportation,47,0.4777283049246984,Sector
+Arr. Sint-Niklaas,Consumer_Products,8,0.30999217810403523,Sector
+Arr. Sint-Niklaas,Unassigned,15,0.7943060756960609,Sector
+Arr. Sint-Niklaas,Communication,73,0.6350461230119405,Sector
+Arr. Sint-Niklaas,Trade,33,0.893796526530061,Sector
+Arr. Sint-Niklaas,Business_Services,91,0.883668968378117,Sector
+Arr. Sint-Niklaas,Business_Products,26,0.157426254490448,Sector
+Arr. Sint-Niklaas,Construction,14,0.1888658264899058,Sector
+Arr. Sint-Niklaas,Services,71,0.5462685431195236,Sector
+Arr. Sint-Niklaas,Mining,46,0.09551879379860728,Sector
+Arr. Sint-Niklaas,Health_Care,16,0.7831716934644668,Sector
+Arr. Sint-Niklaas,EnergyExpL_Prod,72,0.6069339425965328,Sector
+Arr. Sint-Niklaas,Utilities,65,0.7917198127406584,Sector

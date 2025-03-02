@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Baraga,663,0.4521156226004368,Overall
+Baraga,HiTech,94,0.41855017096167446,Sector
+Baraga,Agriculture,42,0.5135899521255333,Sector
+Baraga,Transportation,0,0.46185701360048703,Sector
+Baraga,Consumer_Products,56,0.2689647009310233,Sector
+Baraga,Unassigned,73,0.7218428150087638,Sector
+Baraga,Communication,2,0.07112295023765192,Sector
+Baraga,Trade,17,0.2232427616208703,Sector
+Baraga,Business_Services,12,0.30766571140941357,Sector
+Baraga,Business_Products,68,0.34939245304855493,Sector
+Baraga,Construction,90,0.6445095143868693,Sector
+Baraga,Services,3,0.5265780476689293,Sector
+Baraga,Mining,17,0.3661127140516499,Sector
+Baraga,Health_Care,32,0.3940022549169675,Sector
+Baraga,EnergyExpL_Prod,58,0.6593486722597895,Sector
+Baraga,Utilities,99,0.8549546067783728,Sector

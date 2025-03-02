@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Canóvanas,729,0.469788501628047,Overall
+Canóvanas,HiTech,44,0.5009475032196443,Sector
+Canóvanas,Agriculture,87,0.9208444285674454,Sector
+Canóvanas,Transportation,46,0.4239422066330736,Sector
+Canóvanas,Consumer_Products,82,0.35866054943120174,Sector
+Canóvanas,Unassigned,17,0.2480248128449063,Sector
+Canóvanas,Communication,11,0.35658907267678897,Sector
+Canóvanas,Trade,7,0.8849476807547224,Sector
+Canóvanas,Business_Services,79,0.40993621997442165,Sector
+Canóvanas,Business_Products,80,0.6120575518514813,Sector
+Canóvanas,Construction,73,0.4532926011794556,Sector
+Canóvanas,Services,60,0.11443943490528052,Sector
+Canóvanas,Mining,3,0.8265404783618763,Sector
+Canóvanas,Health_Care,80,0.002098670509898759,Sector
+Canóvanas,EnergyExpL_Prod,10,0.5363697992791178,Sector
+Canóvanas,Utilities,50,0.3981365142313902,Sector

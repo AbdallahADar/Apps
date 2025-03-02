@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Doubs,930,0.3681119168724597,Overall
+Doubs,HiTech,82,0.5281843607874257,Sector
+Doubs,Agriculture,7,0.02327334980119078,Sector
+Doubs,Transportation,49,0.2108909052704766,Sector
+Doubs,Consumer_Products,95,0.3418385233278657,Sector
+Doubs,Unassigned,59,0.3332173148985883,Sector
+Doubs,Communication,82,0.07373986234570296,Sector
+Doubs,Trade,79,0.3078668287305347,Sector
+Doubs,Business_Services,45,0.5017468603219258,Sector
+Doubs,Business_Products,99,0.8878130925808869,Sector
+Doubs,Construction,70,0.5126469940552658,Sector
+Doubs,Services,49,0.16003120006653404,Sector
+Doubs,Mining,0,0.417563610547358,Sector
+Doubs,Health_Care,54,0.6765459232305565,Sector
+Doubs,EnergyExpL_Prod,67,0.44146948230472083,Sector
+Doubs,Utilities,93,0.10485044481786165,Sector

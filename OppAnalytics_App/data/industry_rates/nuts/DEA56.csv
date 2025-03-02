@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ennepe-Ruhr-Kreis,627,0.5194740127998417,Overall
+Ennepe-Ruhr-Kreis,HiTech,37,0.8067876942913507,Sector
+Ennepe-Ruhr-Kreis,Agriculture,26,0.11594441044843418,Sector
+Ennepe-Ruhr-Kreis,Transportation,17,0.3485637553374742,Sector
+Ennepe-Ruhr-Kreis,Consumer_Products,14,0.8559238911510453,Sector
+Ennepe-Ruhr-Kreis,Unassigned,35,0.45875957589237404,Sector
+Ennepe-Ruhr-Kreis,Communication,69,0.6485427127860478,Sector
+Ennepe-Ruhr-Kreis,Trade,14,0.952575293606856,Sector
+Ennepe-Ruhr-Kreis,Business_Services,61,0.937092686427672,Sector
+Ennepe-Ruhr-Kreis,Business_Products,55,0.7153192619629234,Sector
+Ennepe-Ruhr-Kreis,Construction,41,0.25132721360642063,Sector
+Ennepe-Ruhr-Kreis,Services,52,0.43222327923961523,Sector
+Ennepe-Ruhr-Kreis,Mining,90,0.2354764522213213,Sector
+Ennepe-Ruhr-Kreis,Health_Care,28,0.48408974440314856,Sector
+Ennepe-Ruhr-Kreis,EnergyExpL_Prod,34,0.07263726040780849,Sector
+Ennepe-Ruhr-Kreis,Utilities,54,0.47684696021513384,Sector

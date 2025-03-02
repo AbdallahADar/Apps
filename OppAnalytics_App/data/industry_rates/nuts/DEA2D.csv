@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Städteregion Aachen,905,0.5353044461597753,Overall
+Städteregion Aachen,HiTech,94,0.3744221086551327,Sector
+Städteregion Aachen,Agriculture,53,0.6363523928506019,Sector
+Städteregion Aachen,Transportation,97,0.7391966633253706,Sector
+Städteregion Aachen,Consumer_Products,92,0.7826354994629189,Sector
+Städteregion Aachen,Unassigned,16,0.6877574338758669,Sector
+Städteregion Aachen,Communication,84,0.7134341408791923,Sector
+Städteregion Aachen,Trade,76,0.9586401662485249,Sector
+Städteregion Aachen,Business_Services,96,0.5672913217766057,Sector
+Städteregion Aachen,Business_Products,42,0.2843829910321437,Sector
+Städteregion Aachen,Construction,65,0.901471700249535,Sector
+Städteregion Aachen,Services,35,6.45256703052377e-05,Sector
+Städteregion Aachen,Mining,64,0.04159897009533997,Sector
+Städteregion Aachen,Health_Care,9,0.19776389296955277,Sector
+Städteregion Aachen,EnergyExpL_Prod,58,0.7421324538334751,Sector
+Städteregion Aachen,Utilities,24,0.4024224314720649,Sector

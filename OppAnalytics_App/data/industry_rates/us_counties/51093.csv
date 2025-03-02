@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Isle of Wight,783,0.4697764578299743,Overall
+Isle of Wight,HiTech,44,0.4634107679821262,Sector
+Isle of Wight,Agriculture,44,0.2771297356423539,Sector
+Isle of Wight,Transportation,45,0.8799131627209318,Sector
+Isle of Wight,Consumer_Products,32,0.3535098091667934,Sector
+Isle of Wight,Unassigned,46,0.7182126119393467,Sector
+Isle of Wight,Communication,58,0.024026202857536205,Sector
+Isle of Wight,Trade,74,0.02796357658907367,Sector
+Isle of Wight,Business_Services,41,0.7438271265329232,Sector
+Isle of Wight,Business_Products,54,0.6039698535616372,Sector
+Isle of Wight,Construction,84,0.6772249316954785,Sector
+Isle of Wight,Services,67,0.3999555667442056,Sector
+Isle of Wight,Mining,52,0.6867345893969811,Sector
+Isle of Wight,Health_Care,13,0.530241995111758,Sector
+Isle of Wight,EnergyExpL_Prod,91,0.1559197804557948,Sector
+Isle of Wight,Utilities,38,0.5046071570526731,Sector

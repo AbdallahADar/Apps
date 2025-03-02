@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Whitley,647,0.5013849388616559,Overall
+Whitley,HiTech,69,0.06908152879650142,Sector
+Whitley,Agriculture,28,0.4329963284222351,Sector
+Whitley,Transportation,87,0.7179147032835479,Sector
+Whitley,Consumer_Products,60,0.08540264856706214,Sector
+Whitley,Unassigned,30,0.7438657262596203,Sector
+Whitley,Communication,41,0.37280359135356667,Sector
+Whitley,Trade,28,0.15473349971595407,Sector
+Whitley,Business_Services,62,0.8475138316380041,Sector
+Whitley,Business_Products,53,0.4756239585599449,Sector
+Whitley,Construction,22,0.35731453958400283,Sector
+Whitley,Services,11,0.9111248887621928,Sector
+Whitley,Mining,84,0.2078333648527918,Sector
+Whitley,Health_Care,31,0.436731554941279,Sector
+Whitley,EnergyExpL_Prod,14,0.9772255939936603,Sector
+Whitley,Utilities,27,0.7306083241944745,Sector

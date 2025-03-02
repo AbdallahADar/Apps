@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Neustadt an der Weinstraße, Kreisfreie Stadt",811,0.5160063411690913,Overall
+"Neustadt an der Weinstraße, Kreisfreie Stadt",HiTech,58,0.48506436411322307,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Agriculture,91,0.6953903181890424,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Transportation,64,0.342709442246814,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Consumer_Products,63,0.6112201473642274,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Unassigned,43,0.683233960450659,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Communication,61,0.6737453319483842,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Trade,79,0.5983518044499677,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Business_Services,42,0.829046043250651,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Business_Products,24,0.574944024167732,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Construction,96,0.08716987095651563,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Services,0,0.14776575296505934,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Mining,7,0.07283091612930837,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Health_Care,73,0.6066480232057634,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",EnergyExpL_Prod,64,0.9020207989820116,Sector
+"Neustadt an der Weinstraße, Kreisfreie Stadt",Utilities,46,0.4299543191170101,Sector

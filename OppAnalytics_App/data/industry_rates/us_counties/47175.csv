@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Van Buren,760,0.4720978656799964,Overall
+Van Buren,HiTech,16,0.22006582415100617,Sector
+Van Buren,Agriculture,55,0.21210479400173,Sector
+Van Buren,Transportation,56,0.5202513167522338,Sector
+Van Buren,Consumer_Products,90,0.023558884912448508,Sector
+Van Buren,Unassigned,63,0.8679683641317253,Sector
+Van Buren,Communication,47,0.23998211282053605,Sector
+Van Buren,Trade,48,0.7904152810607398,Sector
+Van Buren,Business_Services,54,0.21773725814749623,Sector
+Van Buren,Business_Products,31,0.07543477448227243,Sector
+Van Buren,Construction,60,0.9445558582252527,Sector
+Van Buren,Services,57,0.04339745905670789,Sector
+Van Buren,Mining,33,0.883769802651949,Sector
+Van Buren,Health_Care,22,0.8739827629788105,Sector
+Van Buren,EnergyExpL_Prod,94,0.243567583998629,Sector
+Van Buren,Utilities,34,0.9246759078284078,Sector

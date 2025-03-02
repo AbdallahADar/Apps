@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Elk,869,0.38280706295674055,Overall
+Elk,HiTech,41,0.14234432561222432,Sector
+Elk,Agriculture,80,0.8526782759130906,Sector
+Elk,Transportation,74,0.14328566789478492,Sector
+Elk,Consumer_Products,44,0.3458166949948267,Sector
+Elk,Unassigned,34,0.0938357472599145,Sector
+Elk,Communication,30,0.5725384699268383,Sector
+Elk,Trade,59,0.8351709860910137,Sector
+Elk,Business_Services,71,0.14278480049140663,Sector
+Elk,Business_Products,67,0.562098569128908,Sector
+Elk,Construction,57,0.7321110124283821,Sector
+Elk,Services,43,0.11102980914093119,Sector
+Elk,Mining,82,0.008313487367285988,Sector
+Elk,Health_Care,80,0.6063701200143385,Sector
+Elk,EnergyExpL_Prod,37,0.015637025849705388,Sector
+Elk,Utilities,70,0.5780909522374578,Sector

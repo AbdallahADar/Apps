@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Taos,666,0.4016817487938341,Overall
+Taos,HiTech,1,0.3925345903020946,Sector
+Taos,Agriculture,5,0.25726227068811935,Sector
+Taos,Transportation,95,0.4671463143903455,Sector
+Taos,Consumer_Products,84,0.5918709467596809,Sector
+Taos,Unassigned,46,0.3592149890611638,Sector
+Taos,Communication,73,0.9081022494287199,Sector
+Taos,Trade,57,0.590155153362281,Sector
+Taos,Business_Services,48,0.5374509267495148,Sector
+Taos,Business_Products,32,0.1726137645350433,Sector
+Taos,Construction,65,0.29537429221214806,Sector
+Taos,Services,4,0.020308556130827715,Sector
+Taos,Mining,39,0.4381366904536975,Sector
+Taos,Health_Care,2,0.07950176921860963,Sector
+Taos,EnergyExpL_Prod,72,0.7734458058108878,Sector
+Taos,Utilities,43,0.14210791280437673,Sector

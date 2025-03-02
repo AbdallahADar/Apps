@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yazoo,691,0.4704075638237202,Overall
+Yazoo,HiTech,2,0.9246109175927624,Sector
+Yazoo,Agriculture,99,0.4071202522903721,Sector
+Yazoo,Transportation,31,0.38091649241588044,Sector
+Yazoo,Consumer_Products,26,0.07391679006958352,Sector
+Yazoo,Unassigned,37,0.2235336535912138,Sector
+Yazoo,Communication,95,0.6903339854706826,Sector
+Yazoo,Trade,69,0.5996511884695715,Sector
+Yazoo,Business_Services,51,0.5563000784400212,Sector
+Yazoo,Business_Products,16,0.6657158066310779,Sector
+Yazoo,Construction,3,0.07996322902115505,Sector
+Yazoo,Services,16,0.16214593504027108,Sector
+Yazoo,Mining,41,0.8117044596906723,Sector
+Yazoo,Health_Care,96,0.7076088184988851,Sector
+Yazoo,EnergyExpL_Prod,20,0.6834209709450356,Sector
+Yazoo,Utilities,89,0.08917087918861921,Sector

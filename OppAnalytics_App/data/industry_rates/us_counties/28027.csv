@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Coahoma,588,0.41148291000239207,Overall
+Coahoma,HiTech,22,0.41103236510086805,Sector
+Coahoma,Agriculture,43,0.7132897796405528,Sector
+Coahoma,Transportation,25,0.19244244244003783,Sector
+Coahoma,Consumer_Products,45,0.7465210092093872,Sector
+Coahoma,Unassigned,89,0.694995796547004,Sector
+Coahoma,Communication,65,0.1829261730491416,Sector
+Coahoma,Trade,10,0.7266338705211202,Sector
+Coahoma,Business_Services,20,0.1438637560791156,Sector
+Coahoma,Business_Products,55,0.062176178653237546,Sector
+Coahoma,Construction,85,0.7511025672334491,Sector
+Coahoma,Services,3,0.2438112247280011,Sector
+Coahoma,Mining,8,0.19185304135505288,Sector
+Coahoma,Health_Care,42,0.24447396277581324,Sector
+Coahoma,EnergyExpL_Prod,55,0.11435431298179377,Sector
+Coahoma,Utilities,21,0.7527671697213063,Sector

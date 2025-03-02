@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Herkimer,644,0.5196031856913026,Overall
+Herkimer,HiTech,23,0.6905597000152481,Sector
+Herkimer,Agriculture,89,0.733778291012493,Sector
+Herkimer,Transportation,97,0.6851765882308256,Sector
+Herkimer,Consumer_Products,71,0.657924528535117,Sector
+Herkimer,Unassigned,95,0.3758201220326044,Sector
+Herkimer,Communication,8,0.9737257181536353,Sector
+Herkimer,Trade,63,0.024925171504642907,Sector
+Herkimer,Business_Services,11,0.16126350068857553,Sector
+Herkimer,Business_Products,13,0.195827579873603,Sector
+Herkimer,Construction,57,0.7799487307453963,Sector
+Herkimer,Services,17,0.44083260881140085,Sector
+Herkimer,Mining,19,0.6453666131471159,Sector
+Herkimer,Health_Care,71,0.11955432553734247,Sector
+Herkimer,EnergyExpL_Prod,5,0.7861685983834271,Sector
+Herkimer,Utilities,5,0.5231757086981108,Sector

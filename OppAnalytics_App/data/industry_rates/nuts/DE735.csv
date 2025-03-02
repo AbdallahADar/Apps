@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Schwalm-Eder-Kreis,722,0.5358978666671778,Overall
+Schwalm-Eder-Kreis,HiTech,86,0.5541250061918627,Sector
+Schwalm-Eder-Kreis,Agriculture,55,0.4108623031406019,Sector
+Schwalm-Eder-Kreis,Transportation,87,0.5899399368372629,Sector
+Schwalm-Eder-Kreis,Consumer_Products,37,0.498242859814764,Sector
+Schwalm-Eder-Kreis,Unassigned,34,0.9466257274817832,Sector
+Schwalm-Eder-Kreis,Communication,4,0.2548564829997618,Sector
+Schwalm-Eder-Kreis,Trade,42,0.7666922017740831,Sector
+Schwalm-Eder-Kreis,Business_Services,19,0.5317649300267148,Sector
+Schwalm-Eder-Kreis,Business_Products,46,0.588580775410853,Sector
+Schwalm-Eder-Kreis,Construction,23,0.748109206946961,Sector
+Schwalm-Eder-Kreis,Services,64,0.1567688079134384,Sector
+Schwalm-Eder-Kreis,Mining,74,0.4170548164564495,Sector
+Schwalm-Eder-Kreis,Health_Care,66,0.16825983812299483,Sector
+Schwalm-Eder-Kreis,EnergyExpL_Prod,22,0.5421831824908108,Sector
+Schwalm-Eder-Kreis,Utilities,63,0.8644019243993241,Sector

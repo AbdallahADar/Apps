@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Columbia,846,0.4142816028493293,Overall
+Columbia,HiTech,19,0.40979161778591866,Sector
+Columbia,Agriculture,11,0.18772562804875292,Sector
+Columbia,Transportation,71,0.6506958634213615,Sector
+Columbia,Consumer_Products,97,0.5702434081011825,Sector
+Columbia,Unassigned,4,0.01778781997970369,Sector
+Columbia,Communication,58,0.1590473256109699,Sector
+Columbia,Trade,22,0.9437273945713502,Sector
+Columbia,Business_Services,59,0.4983212314631037,Sector
+Columbia,Business_Products,84,0.9646486806038711,Sector
+Columbia,Construction,69,0.7237308470198822,Sector
+Columbia,Services,54,0.26245599865859326,Sector
+Columbia,Mining,84,0.07838959858028904,Sector
+Columbia,Health_Care,55,0.03734615969819832,Sector
+Columbia,EnergyExpL_Prod,90,0.5454600930927389,Sector
+Columbia,Utilities,69,0.1648523761040237,Sector

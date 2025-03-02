@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bath,656,0.41067640652221077,Overall
+Bath,HiTech,48,0.3425936478973872,Sector
+Bath,Agriculture,31,0.29758551351127294,Sector
+Bath,Transportation,63,0.11805632197576887,Sector
+Bath,Consumer_Products,73,0.05488757175883863,Sector
+Bath,Unassigned,6,0.6785227726599624,Sector
+Bath,Communication,5,0.7243082120911947,Sector
+Bath,Trade,33,0.040063086056570274,Sector
+Bath,Business_Services,61,0.36139858584305506,Sector
+Bath,Business_Products,12,0.0470513190902625,Sector
+Bath,Construction,97,0.8383302324602717,Sector
+Bath,Services,14,0.6415964967856429,Sector
+Bath,Mining,68,0.49208793704483766,Sector
+Bath,Health_Care,4,0.780466653221321,Sector
+Bath,EnergyExpL_Prod,74,0.14520612648504405,Sector
+Bath,Utilities,67,0.5979916209517311,Sector

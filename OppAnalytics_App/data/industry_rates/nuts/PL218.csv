@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nowosądecki,656,0.5332245045971706,Overall
+Nowosądecki,HiTech,41,0.9806162538492442,Sector
+Nowosądecki,Agriculture,24,0.8407635286936618,Sector
+Nowosądecki,Transportation,10,0.9390209137871984,Sector
+Nowosądecki,Consumer_Products,95,0.48790865435648756,Sector
+Nowosądecki,Unassigned,50,0.11632422824892286,Sector
+Nowosądecki,Communication,6,0.5041249914290789,Sector
+Nowosądecki,Trade,59,0.13732999667076495,Sector
+Nowosądecki,Business_Services,59,0.18856949212852148,Sector
+Nowosądecki,Business_Products,68,0.4711047238857988,Sector
+Nowosądecki,Construction,36,0.33415552920926384,Sector
+Nowosądecki,Services,8,0.4506100472415937,Sector
+Nowosądecki,Mining,92,0.20583478618436601,Sector
+Nowosądecki,Health_Care,23,0.6724287987181318,Sector
+Nowosądecki,EnergyExpL_Prod,59,0.9039820408601865,Sector
+Nowosądecki,Utilities,26,0.7655935836943402,Sector

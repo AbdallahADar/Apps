@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Finney,584,0.5048315315254273,Overall
+Finney,HiTech,12,0.2159252997190303,Sector
+Finney,Agriculture,16,0.23312709372443796,Sector
+Finney,Transportation,61,0.39413211859688524,Sector
+Finney,Consumer_Products,0,0.3975428262223144,Sector
+Finney,Unassigned,67,0.45068223809149066,Sector
+Finney,Communication,17,0.6473576221067954,Sector
+Finney,Trade,90,0.679957639550596,Sector
+Finney,Business_Services,91,0.541971948059791,Sector
+Finney,Business_Products,47,0.7118410062593523,Sector
+Finney,Construction,67,0.26552468846822375,Sector
+Finney,Services,20,0.510346660458306,Sector
+Finney,Mining,15,0.509373876773976,Sector
+Finney,Health_Care,22,0.9740617986376633,Sector
+Finney,EnergyExpL_Prod,16,0.25518046390578764,Sector
+Finney,Utilities,43,0.7854476923067594,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mathews,955,0.5506745728465192,Overall
+Mathews,HiTech,68,0.9909626498627477,Sector
+Mathews,Agriculture,98,0.57639180275747,Sector
+Mathews,Transportation,94,0.43883480106728745,Sector
+Mathews,Consumer_Products,55,0.8389334339092439,Sector
+Mathews,Unassigned,34,0.6891052043270453,Sector
+Mathews,Communication,72,0.5759908240146058,Sector
+Mathews,Trade,88,0.23516296693195293,Sector
+Mathews,Business_Services,76,0.37956344995395797,Sector
+Mathews,Business_Products,86,0.21731438145525628,Sector
+Mathews,Construction,48,0.4659522509328893,Sector
+Mathews,Services,93,0.9096602927886098,Sector
+Mathews,Mining,60,0.9298771368820606,Sector
+Mathews,Health_Care,6,0.24666737492315782,Sector
+Mathews,EnergyExpL_Prod,53,0.41069025288806593,Sector
+Mathews,Utilities,24,0.35501177000343576,Sector

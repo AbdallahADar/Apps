@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Preston,709,0.4582001897394569,Overall
+Preston,HiTech,10,0.4423182696029647,Sector
+Preston,Agriculture,21,0.3902979160063801,Sector
+Preston,Transportation,8,0.09254410845693906,Sector
+Preston,Consumer_Products,3,0.8411822671134699,Sector
+Preston,Unassigned,99,0.6504250956087513,Sector
+Preston,Communication,8,0.6839786466016669,Sector
+Preston,Trade,20,0.09256337325760111,Sector
+Preston,Business_Services,64,0.403523426411699,Sector
+Preston,Business_Products,81,0.7567209108440468,Sector
+Preston,Construction,95,0.502537144454673,Sector
+Preston,Services,87,0.14104245004913252,Sector
+Preston,Mining,99,0.24932732430055815,Sector
+Preston,Health_Care,31,0.9386045480617762,Sector
+Preston,EnergyExpL_Prod,23,0.2272469248292941,Sector
+Preston,Utilities,60,0.46069044049290175,Sector

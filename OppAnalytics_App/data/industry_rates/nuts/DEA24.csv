@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Leverkusen, Kreisfreie Stadt",798,0.48439975910171523,Overall
+"Leverkusen, Kreisfreie Stadt",HiTech,51,0.6450076868017811,Sector
+"Leverkusen, Kreisfreie Stadt",Agriculture,95,0.2965131930342205,Sector
+"Leverkusen, Kreisfreie Stadt",Transportation,92,0.32452743546905494,Sector
+"Leverkusen, Kreisfreie Stadt",Consumer_Products,73,0.08068092422499462,Sector
+"Leverkusen, Kreisfreie Stadt",Unassigned,11,0.8326751851461127,Sector
+"Leverkusen, Kreisfreie Stadt",Communication,60,0.23263086907305752,Sector
+"Leverkusen, Kreisfreie Stadt",Trade,37,0.6659163397468986,Sector
+"Leverkusen, Kreisfreie Stadt",Business_Services,20,0.14421846620476486,Sector
+"Leverkusen, Kreisfreie Stadt",Business_Products,90,0.5391610705009776,Sector
+"Leverkusen, Kreisfreie Stadt",Construction,46,0.37451144465941855,Sector
+"Leverkusen, Kreisfreie Stadt",Services,89,0.941040992503517,Sector
+"Leverkusen, Kreisfreie Stadt",Mining,40,0.24977103648628007,Sector
+"Leverkusen, Kreisfreie Stadt",Health_Care,21,0.89087805230981,Sector
+"Leverkusen, Kreisfreie Stadt",EnergyExpL_Prod,49,0.9041548822800326,Sector
+"Leverkusen, Kreisfreie Stadt",Utilities,24,0.14430880808480895,Sector

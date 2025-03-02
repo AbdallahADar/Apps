@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Piute,779,0.5455316953303322,Overall
+Piute,HiTech,16,0.7816718808836074,Sector
+Piute,Agriculture,53,0.177120999041117,Sector
+Piute,Transportation,48,0.7158728737894949,Sector
+Piute,Consumer_Products,70,0.1971501076479678,Sector
+Piute,Unassigned,82,0.9827607642961393,Sector
+Piute,Communication,77,0.9253741205493339,Sector
+Piute,Trade,91,0.42258797370520984,Sector
+Piute,Business_Services,48,0.6646984587139643,Sector
+Piute,Business_Products,3,0.4388012874820405,Sector
+Piute,Construction,77,0.8797833756242615,Sector
+Piute,Services,44,0.11685983068900818,Sector
+Piute,Mining,29,0.08844642072625342,Sector
+Piute,Health_Care,22,0.939194446766568,Sector
+Piute,EnergyExpL_Prod,75,0.08330038022901898,Sector
+Piute,Utilities,44,0.7693525098109967,Sector

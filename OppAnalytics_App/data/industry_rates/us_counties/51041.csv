@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chesterfield,728,0.4491971904509674,Overall
+Chesterfield,HiTech,2,0.8021150562823519,Sector
+Chesterfield,Agriculture,14,0.11775412943637353,Sector
+Chesterfield,Transportation,97,0.3146454682404711,Sector
+Chesterfield,Consumer_Products,20,0.8976313492215015,Sector
+Chesterfield,Unassigned,20,0.6538706752876751,Sector
+Chesterfield,Communication,16,0.06277897163873436,Sector
+Chesterfield,Trade,87,0.09111554068339078,Sector
+Chesterfield,Business_Services,14,0.839387979214056,Sector
+Chesterfield,Business_Products,89,0.46791971800555254,Sector
+Chesterfield,Construction,35,0.5583862570956692,Sector
+Chesterfield,Services,99,0.10091015204450104,Sector
+Chesterfield,Mining,68,0.703515439417659,Sector
+Chesterfield,Health_Care,7,0.18979080600282094,Sector
+Chesterfield,EnergyExpL_Prod,91,0.7463599847286875,Sector
+Chesterfield,Utilities,69,0.19177632946506507,Sector

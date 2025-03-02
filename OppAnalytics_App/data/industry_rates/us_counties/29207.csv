@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stoddard,766,0.5046727801885738,Overall
+Stoddard,HiTech,27,0.38458746758006945,Sector
+Stoddard,Agriculture,43,0.9992738710114681,Sector
+Stoddard,Transportation,3,0.02881147465347711,Sector
+Stoddard,Consumer_Products,67,0.6298380737355914,Sector
+Stoddard,Unassigned,82,0.7165921420202939,Sector
+Stoddard,Communication,50,0.3589240637032921,Sector
+Stoddard,Trade,0,0.1021844124591037,Sector
+Stoddard,Business_Services,79,0.5058302750470691,Sector
+Stoddard,Business_Products,98,0.35498448963835105,Sector
+Stoddard,Construction,11,0.12259351151152331,Sector
+Stoddard,Services,78,0.8952913189280547,Sector
+Stoddard,Mining,35,0.35664278972818686,Sector
+Stoddard,Health_Care,46,0.8291514639370532,Sector
+Stoddard,EnergyExpL_Prod,63,0.7382367062581604,Sector
+Stoddard,Utilities,84,0.547149642616912,Sector

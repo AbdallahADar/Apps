@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vestjylland,716,0.3654094935502945,Overall
+Vestjylland,HiTech,17,0.8930109468637615,Sector
+Vestjylland,Agriculture,87,0.3967473791315268,Sector
+Vestjylland,Transportation,53,0.4930059670882162,Sector
+Vestjylland,Consumer_Products,42,0.43045435310190594,Sector
+Vestjylland,Unassigned,10,0.1766576431763075,Sector
+Vestjylland,Communication,22,0.2155004168803789,Sector
+Vestjylland,Trade,60,0.2284645802974964,Sector
+Vestjylland,Business_Services,29,0.932461140724815,Sector
+Vestjylland,Business_Products,14,0.4052550721228584,Sector
+Vestjylland,Construction,90,0.291866867809772,Sector
+Vestjylland,Services,16,3.996835193131876e-05,Sector
+Vestjylland,Mining,74,0.12006063924174404,Sector
+Vestjylland,Health_Care,53,0.10369089028725642,Sector
+Vestjylland,EnergyExpL_Prod,54,0.2929139068507617,Sector
+Vestjylland,Utilities,95,0.5010126313256846,Sector

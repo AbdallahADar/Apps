@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bernkastel-Wittlich,745,0.4433264288859468,Overall
+Bernkastel-Wittlich,HiTech,61,0.9523044741146777,Sector
+Bernkastel-Wittlich,Agriculture,28,0.04942953623925894,Sector
+Bernkastel-Wittlich,Transportation,85,0.6614808179732475,Sector
+Bernkastel-Wittlich,Consumer_Products,60,0.2122722633857671,Sector
+Bernkastel-Wittlich,Unassigned,61,0.14172199986755518,Sector
+Bernkastel-Wittlich,Communication,22,0.270706899255192,Sector
+Bernkastel-Wittlich,Trade,45,0.3367114091016429,Sector
+Bernkastel-Wittlich,Business_Services,76,0.8843639904881233,Sector
+Bernkastel-Wittlich,Business_Products,37,0.6728588061458981,Sector
+Bernkastel-Wittlich,Construction,25,0.4362837181814433,Sector
+Bernkastel-Wittlich,Services,26,0.7011325854361865,Sector
+Bernkastel-Wittlich,Mining,21,0.42643901868087086,Sector
+Bernkastel-Wittlich,Health_Care,52,0.4708421367800236,Sector
+Bernkastel-Wittlich,EnergyExpL_Prod,60,0.20326384647366724,Sector
+Bernkastel-Wittlich,Utilities,86,0.23008493116564732,Sector

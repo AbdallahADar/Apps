@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Greenwood,712,0.5486971196987623,Overall
+Greenwood,HiTech,77,0.9599554057335234,Sector
+Greenwood,Agriculture,44,0.02848340885359535,Sector
+Greenwood,Transportation,58,0.7884571023609468,Sector
+Greenwood,Consumer_Products,33,0.5186552742661071,Sector
+Greenwood,Unassigned,66,0.22462974369960376,Sector
+Greenwood,Communication,84,0.523678369129345,Sector
+Greenwood,Trade,35,0.3817741895103801,Sector
+Greenwood,Business_Services,43,0.4597073839241701,Sector
+Greenwood,Business_Products,58,0.3935993204044419,Sector
+Greenwood,Construction,69,0.2109276206917834,Sector
+Greenwood,Services,36,0.8101335566763931,Sector
+Greenwood,Mining,38,0.9336195824472058,Sector
+Greenwood,Health_Care,24,0.6722581501338474,Sector
+Greenwood,EnergyExpL_Prod,43,0.8314950167580598,Sector
+Greenwood,Utilities,4,0.49308267089203184,Sector

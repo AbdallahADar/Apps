@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Poinsett,434,0.4589203445245026,Overall
+Poinsett,HiTech,19,0.010996393268060678,Sector
+Poinsett,Agriculture,2,0.2686435877044665,Sector
+Poinsett,Transportation,71,0.9840178010464415,Sector
+Poinsett,Consumer_Products,9,0.22838089844290899,Sector
+Poinsett,Unassigned,35,0.20860005026049022,Sector
+Poinsett,Communication,4,0.33565487947586037,Sector
+Poinsett,Trade,45,0.49699030193053395,Sector
+Poinsett,Business_Services,66,0.3835343728809968,Sector
+Poinsett,Business_Products,62,0.37910268959689797,Sector
+Poinsett,Construction,15,0.2887478112088554,Sector
+Poinsett,Services,20,0.626487327507632,Sector
+Poinsett,Mining,30,0.8861293887763799,Sector
+Poinsett,Health_Care,29,0.9919047612752393,Sector
+Poinsett,EnergyExpL_Prod,14,0.44846637257341104,Sector
+Poinsett,Utilities,13,0.3461485319193648,Sector

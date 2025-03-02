@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Østsjælland,724,0.31686041811723553,Overall
+Østsjælland,HiTech,8,0.12037747967090306,Sector
+Østsjælland,Agriculture,67,0.12741068979090564,Sector
+Østsjælland,Transportation,44,0.04779684794558181,Sector
+Østsjælland,Consumer_Products,24,0.3547341426482743,Sector
+Østsjælland,Unassigned,45,0.3431905305173282,Sector
+Østsjælland,Communication,19,0.197107535410174,Sector
+Østsjælland,Trade,95,0.6801952361754369,Sector
+Østsjælland,Business_Services,41,0.06019284501298028,Sector
+Østsjælland,Business_Products,80,0.32010837337084497,Sector
+Østsjælland,Construction,81,0.06298788021507973,Sector
+Østsjælland,Services,29,0.7585689970733462,Sector
+Østsjælland,Mining,95,0.3963550618095072,Sector
+Østsjælland,Health_Care,17,0.7448087781927633,Sector
+Østsjælland,EnergyExpL_Prod,60,0.19015486607094345,Sector
+Østsjælland,Utilities,19,0.348917007854465,Sector

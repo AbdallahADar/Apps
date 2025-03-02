@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tattnall,801,0.3789206034526181,Overall
+Tattnall,HiTech,61,0.17274246203301136,Sector
+Tattnall,Agriculture,33,0.2833982177643226,Sector
+Tattnall,Transportation,24,0.23874324172125228,Sector
+Tattnall,Consumer_Products,56,0.18282971252463565,Sector
+Tattnall,Unassigned,59,0.19299404765052863,Sector
+Tattnall,Communication,80,0.687237726412093,Sector
+Tattnall,Trade,65,0.374788362981875,Sector
+Tattnall,Business_Services,39,0.4932255681946921,Sector
+Tattnall,Business_Products,46,0.42671564354935376,Sector
+Tattnall,Construction,64,0.9074078010001828,Sector
+Tattnall,Services,49,0.0974763385489621,Sector
+Tattnall,Mining,15,0.5794553954493686,Sector
+Tattnall,Health_Care,63,0.27987451799718854,Sector
+Tattnall,EnergyExpL_Prod,60,0.7377072214350738,Sector
+Tattnall,Utilities,87,0.029212794526730534,Sector

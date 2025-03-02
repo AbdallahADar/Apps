@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,IJmond,936,0.51796457238803,Overall
+IJmond,HiTech,36,0.48178971893873,Sector
+IJmond,Agriculture,44,0.6728014374017102,Sector
+IJmond,Transportation,98,0.20419668617014308,Sector
+IJmond,Consumer_Products,32,0.2593557163789656,Sector
+IJmond,Unassigned,85,0.5080724893972324,Sector
+IJmond,Communication,75,0.013952230493459838,Sector
+IJmond,Trade,2,0.8644626889619256,Sector
+IJmond,Business_Services,85,0.7778565442818917,Sector
+IJmond,Business_Products,88,0.5969015213428109,Sector
+IJmond,Construction,81,0.48515798543011013,Sector
+IJmond,Services,52,0.20784189615175008,Sector
+IJmond,Mining,8,0.7255809864672831,Sector
+IJmond,Health_Care,77,0.49232323286687985,Sector
+IJmond,EnergyExpL_Prod,93,0.7386216443768502,Sector
+IJmond,Utilities,80,0.7405538071607071,Sector

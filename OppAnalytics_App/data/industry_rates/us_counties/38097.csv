@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Traill,640,0.5478928386636822,Overall
+Traill,HiTech,63,0.7588800576936141,Sector
+Traill,Agriculture,5,0.37852035513076787,Sector
+Traill,Transportation,28,0.9408291116611113,Sector
+Traill,Consumer_Products,5,0.9954753734482044,Sector
+Traill,Unassigned,86,0.10857615350370797,Sector
+Traill,Communication,19,0.19479364027554202,Sector
+Traill,Trade,42,0.8270957733004938,Sector
+Traill,Business_Services,50,0.1920031908083606,Sector
+Traill,Business_Products,28,0.4799004501949228,Sector
+Traill,Construction,3,0.7689559755997777,Sector
+Traill,Services,87,0.46175971328451204,Sector
+Traill,Mining,36,0.8441899009772758,Sector
+Traill,Health_Care,74,0.37813504150617205,Sector
+Traill,EnergyExpL_Prod,40,0.17537664233530204,Sector
+Traill,Utilities,74,0.7139012002354683,Sector

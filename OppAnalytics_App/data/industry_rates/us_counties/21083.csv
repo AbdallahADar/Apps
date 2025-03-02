@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Graves,586,0.5603914863577982,Overall
+Graves,HiTech,60,0.4496264856266837,Sector
+Graves,Agriculture,56,0.39541537691909046,Sector
+Graves,Transportation,44,0.09283791649199902,Sector
+Graves,Consumer_Products,81,0.6424424409356079,Sector
+Graves,Unassigned,2,0.26951892892661766,Sector
+Graves,Communication,71,0.22922176979172848,Sector
+Graves,Trade,19,0.024896781604059393,Sector
+Graves,Business_Services,11,0.9454908571274387,Sector
+Graves,Business_Products,70,0.7518800726659791,Sector
+Graves,Construction,9,0.5308411543050223,Sector
+Graves,Services,14,0.8794335321354924,Sector
+Graves,Mining,34,0.7190442083499579,Sector
+Graves,Health_Care,22,0.6948151020532061,Sector
+Graves,EnergyExpL_Prod,13,0.9304178004877234,Sector
+Graves,Utilities,80,0.8499898679463677,Sector

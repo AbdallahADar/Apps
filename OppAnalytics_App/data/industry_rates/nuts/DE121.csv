@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Baden-Baden, Stadtkreis",833,0.49988029014552887,Overall
+"Baden-Baden, Stadtkreis",HiTech,87,0.950735804174364,Sector
+"Baden-Baden, Stadtkreis",Agriculture,89,0.2607155442868264,Sector
+"Baden-Baden, Stadtkreis",Transportation,58,0.21853048537537578,Sector
+"Baden-Baden, Stadtkreis",Consumer_Products,80,0.3737434815764932,Sector
+"Baden-Baden, Stadtkreis",Unassigned,93,0.30475226948476974,Sector
+"Baden-Baden, Stadtkreis",Communication,43,0.7274350672469246,Sector
+"Baden-Baden, Stadtkreis",Trade,21,0.06236701524602373,Sector
+"Baden-Baden, Stadtkreis",Business_Services,55,0.49896684031372873,Sector
+"Baden-Baden, Stadtkreis",Business_Products,17,0.5802252241669248,Sector
+"Baden-Baden, Stadtkreis",Construction,56,0.33498202965699164,Sector
+"Baden-Baden, Stadtkreis",Services,79,0.9074684565237794,Sector
+"Baden-Baden, Stadtkreis",Mining,17,0.3952118752759942,Sector
+"Baden-Baden, Stadtkreis",Health_Care,68,0.799382119767901,Sector
+"Baden-Baden, Stadtkreis",EnergyExpL_Prod,44,0.7443597120120203,Sector
+"Baden-Baden, Stadtkreis",Utilities,26,0.33932842707481514,Sector

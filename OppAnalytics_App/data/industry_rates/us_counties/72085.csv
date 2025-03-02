@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Las Piedras,730,0.562394403754865,Overall
+Las Piedras,HiTech,34,0.8157394125595102,Sector
+Las Piedras,Agriculture,3,0.613319358428661,Sector
+Las Piedras,Transportation,52,0.2580394810879981,Sector
+Las Piedras,Consumer_Products,92,0.6180474606879125,Sector
+Las Piedras,Unassigned,93,0.694755098061319,Sector
+Las Piedras,Communication,43,0.014151488942707457,Sector
+Las Piedras,Trade,18,0.5660961514226519,Sector
+Las Piedras,Business_Services,84,0.8189087600781707,Sector
+Las Piedras,Business_Products,5,0.707501257070631,Sector
+Las Piedras,Construction,99,0.4526557459732363,Sector
+Las Piedras,Services,14,0.10233122251857574,Sector
+Las Piedras,Mining,81,0.44054894741048867,Sector
+Las Piedras,Health_Care,70,0.7486111532610226,Sector
+Las Piedras,EnergyExpL_Prod,38,0.9681036909722673,Sector
+Las Piedras,Utilities,4,0.6171068278478234,Sector

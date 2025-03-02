@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bergen,795,0.3657770108048234,Overall
+Bergen,HiTech,84,0.17916895116763287,Sector
+Bergen,Agriculture,36,0.30047076556642327,Sector
+Bergen,Transportation,61,0.4156417877785702,Sector
+Bergen,Consumer_Products,29,0.13187862416496987,Sector
+Bergen,Unassigned,60,0.6224300654328249,Sector
+Bergen,Communication,50,0.09377688567264597,Sector
+Bergen,Trade,90,0.446602116122797,Sector
+Bergen,Business_Services,52,0.6429222792201722,Sector
+Bergen,Business_Products,21,0.05821661904972464,Sector
+Bergen,Construction,64,0.4183843509480355,Sector
+Bergen,Services,2,0.3244463482260799,Sector
+Bergen,Mining,79,0.1626202337660715,Sector
+Bergen,Health_Care,62,0.47222961058114454,Sector
+Bergen,EnergyExpL_Prod,80,0.2836788875367955,Sector
+Bergen,Utilities,25,0.9341876368384631,Sector

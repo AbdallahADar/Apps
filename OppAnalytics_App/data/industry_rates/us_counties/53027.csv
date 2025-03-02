@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Grays Harbor,555,0.5250465610572644,Overall
+Grays Harbor,HiTech,12,0.36433998636723786,Sector
+Grays Harbor,Agriculture,36,0.8351179912865526,Sector
+Grays Harbor,Transportation,72,0.35225130459551324,Sector
+Grays Harbor,Consumer_Products,20,0.9114192758411916,Sector
+Grays Harbor,Unassigned,21,0.006880578782960556,Sector
+Grays Harbor,Communication,6,0.3818683237986885,Sector
+Grays Harbor,Trade,96,0.34006730724601486,Sector
+Grays Harbor,Business_Services,17,0.4438558876058155,Sector
+Grays Harbor,Business_Products,98,0.8889906527073146,Sector
+Grays Harbor,Construction,13,0.3484724537201288,Sector
+Grays Harbor,Services,21,0.8202501864566571,Sector
+Grays Harbor,Mining,4,0.07057880194867494,Sector
+Grays Harbor,Health_Care,56,0.7943902457475415,Sector
+Grays Harbor,EnergyExpL_Prod,37,0.8555153062408422,Sector
+Grays Harbor,Utilities,46,0.4617001135138319,Sector

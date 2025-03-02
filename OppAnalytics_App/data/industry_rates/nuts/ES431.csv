@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Badajoz,871,0.5425475972475581,Overall
+Badajoz,HiTech,59,0.992064469395882,Sector
+Badajoz,Agriculture,69,0.07124739428917026,Sector
+Badajoz,Transportation,52,0.9495065684990415,Sector
+Badajoz,Consumer_Products,25,0.024291195942651944,Sector
+Badajoz,Unassigned,81,0.9479679318156643,Sector
+Badajoz,Communication,19,0.022567900669225982,Sector
+Badajoz,Trade,97,0.022281094165175097,Sector
+Badajoz,Business_Services,82,0.3346974656288265,Sector
+Badajoz,Business_Products,47,0.9911210612708624,Sector
+Badajoz,Construction,86,0.40687710936872623,Sector
+Badajoz,Services,61,0.5110277581726291,Sector
+Badajoz,Mining,43,0.4587527482089311,Sector
+Badajoz,Health_Care,44,0.8728119482214225,Sector
+Badajoz,EnergyExpL_Prod,35,0.5683601102425634,Sector
+Badajoz,Utilities,71,0.9646392028225975,Sector

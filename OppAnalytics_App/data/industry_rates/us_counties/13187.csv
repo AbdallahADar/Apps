@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lumpkin,682,0.453893113649331,Overall
+Lumpkin,HiTech,46,0.48606909615610017,Sector
+Lumpkin,Agriculture,55,0.5189639179066351,Sector
+Lumpkin,Transportation,19,0.9902720765926024,Sector
+Lumpkin,Consumer_Products,51,0.5013311453691486,Sector
+Lumpkin,Unassigned,2,0.9593529408209864,Sector
+Lumpkin,Communication,11,0.8728268169096951,Sector
+Lumpkin,Trade,97,0.3485339475429584,Sector
+Lumpkin,Business_Services,94,0.06003062849840879,Sector
+Lumpkin,Business_Products,93,0.28222272668121984,Sector
+Lumpkin,Construction,24,0.05521952455989709,Sector
+Lumpkin,Services,23,0.24682112364018371,Sector
+Lumpkin,Mining,46,0.5460138330542857,Sector
+Lumpkin,Health_Care,36,0.017504614860849643,Sector
+Lumpkin,EnergyExpL_Prod,24,0.15966413530024226,Sector
+Lumpkin,Utilities,61,0.7635701768467508,Sector

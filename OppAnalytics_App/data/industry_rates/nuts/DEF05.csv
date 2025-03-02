@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dithmarschen,756,0.5244816535368432,Overall
+Dithmarschen,HiTech,53,0.14339395986925407,Sector
+Dithmarschen,Agriculture,93,0.08955439680392985,Sector
+Dithmarschen,Transportation,48,0.786312558243235,Sector
+Dithmarschen,Consumer_Products,8,0.7867567342737991,Sector
+Dithmarschen,Unassigned,40,0.7524694748552382,Sector
+Dithmarschen,Communication,62,0.11076129286888847,Sector
+Dithmarschen,Trade,20,0.7669409949305989,Sector
+Dithmarschen,Business_Services,74,0.4241051772071275,Sector
+Dithmarschen,Business_Products,86,0.8913894671853471,Sector
+Dithmarschen,Construction,12,0.5072452691802034,Sector
+Dithmarschen,Services,71,0.02939761881227476,Sector
+Dithmarschen,Mining,19,0.7933736689795015,Sector
+Dithmarschen,Health_Care,48,0.05131097240389393,Sector
+Dithmarschen,EnergyExpL_Prod,26,0.80077626516746,Sector
+Dithmarschen,Utilities,96,0.9334369522718953,Sector

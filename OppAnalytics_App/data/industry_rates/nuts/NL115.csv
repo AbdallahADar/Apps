@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Overig Groningen,840,0.48660654992794145,Overall
+Overig Groningen,HiTech,73,0.8419289235607963,Sector
+Overig Groningen,Agriculture,83,0.5348571468592626,Sector
+Overig Groningen,Transportation,72,0.5473255317358582,Sector
+Overig Groningen,Consumer_Products,55,0.9404981140254122,Sector
+Overig Groningen,Unassigned,33,0.2069411334394109,Sector
+Overig Groningen,Communication,91,0.7905832175393629,Sector
+Overig Groningen,Trade,13,0.0972826632407916,Sector
+Overig Groningen,Business_Services,99,0.29310271011149935,Sector
+Overig Groningen,Business_Products,20,0.20172565482950366,Sector
+Overig Groningen,Construction,92,0.981397512371674,Sector
+Overig Groningen,Services,69,0.3222712474605398,Sector
+Overig Groningen,Mining,21,0.08838234869853878,Sector
+Overig Groningen,Health_Care,10,0.5447460160556261,Sector
+Overig Groningen,EnergyExpL_Prod,80,0.03746363513701645,Sector
+Overig Groningen,Utilities,29,0.8705923938538281,Sector

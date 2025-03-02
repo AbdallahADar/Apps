@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Waldeck-Frankenberg,813,0.39043344619914755,Overall
+Waldeck-Frankenberg,HiTech,96,0.4084392179687857,Sector
+Waldeck-Frankenberg,Agriculture,42,0.2142729169533144,Sector
+Waldeck-Frankenberg,Transportation,99,0.6949625690823671,Sector
+Waldeck-Frankenberg,Consumer_Products,67,0.9249659502932064,Sector
+Waldeck-Frankenberg,Unassigned,15,0.36347322387744485,Sector
+Waldeck-Frankenberg,Communication,47,0.7193527266651443,Sector
+Waldeck-Frankenberg,Trade,67,0.5712697273895083,Sector
+Waldeck-Frankenberg,Business_Services,72,0.27311700745710443,Sector
+Waldeck-Frankenberg,Business_Products,23,0.15524143443729554,Sector
+Waldeck-Frankenberg,Construction,29,0.02994958322154795,Sector
+Waldeck-Frankenberg,Services,18,0.49774984496603003,Sector
+Waldeck-Frankenberg,Mining,82,0.014935209756004375,Sector
+Waldeck-Frankenberg,Health_Care,62,0.6817087287161592,Sector
+Waldeck-Frankenberg,EnergyExpL_Prod,54,0.058005578528896984,Sector
+Waldeck-Frankenberg,Utilities,40,0.24905797367440352,Sector

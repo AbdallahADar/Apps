@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Modena,905,0.5307434949525732,Overall
+Modena,HiTech,93,0.07790209157646155,Sector
+Modena,Agriculture,67,0.744898144805876,Sector
+Modena,Transportation,12,0.5740495959621776,Sector
+Modena,Consumer_Products,21,0.4378497363946702,Sector
+Modena,Unassigned,48,0.2023228477836193,Sector
+Modena,Communication,69,0.8049249977146099,Sector
+Modena,Trade,26,0.06040755359922467,Sector
+Modena,Business_Services,89,0.46055822861366413,Sector
+Modena,Business_Products,66,0.36834044053064574,Sector
+Modena,Construction,89,0.8033359315819261,Sector
+Modena,Services,51,0.0927756942749256,Sector
+Modena,Mining,86,0.9906675308010531,Sector
+Modena,Health_Care,26,0.878318402018717,Sector
+Modena,EnergyExpL_Prod,67,0.6904976066441777,Sector
+Modena,Utilities,95,0.7743036219868511,Sector

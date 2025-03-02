@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Archuleta,720,0.4771395957124991,Overall
+Archuleta,HiTech,18,0.5943040884575199,Sector
+Archuleta,Agriculture,76,0.392394077345004,Sector
+Archuleta,Transportation,11,0.7373885408260203,Sector
+Archuleta,Consumer_Products,99,0.23167175906081294,Sector
+Archuleta,Unassigned,69,0.47716539231027477,Sector
+Archuleta,Communication,30,0.83607606719033,Sector
+Archuleta,Trade,59,0.21385110213619218,Sector
+Archuleta,Business_Services,33,0.941881658647561,Sector
+Archuleta,Business_Products,44,0.03609351059142396,Sector
+Archuleta,Construction,37,0.9754156103686725,Sector
+Archuleta,Services,1,0.8954498504978436,Sector
+Archuleta,Mining,59,0.2551579171782945,Sector
+Archuleta,Health_Care,45,0.0587544943989291,Sector
+Archuleta,EnergyExpL_Prod,91,0.26506943414043127,Sector
+Archuleta,Utilities,48,0.2464204325381738,Sector

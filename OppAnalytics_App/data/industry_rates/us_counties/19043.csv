@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Clayton,741,0.5111572504544334,Overall
+Clayton,HiTech,6,0.5220002466825597,Sector
+Clayton,Agriculture,83,0.8001090384580128,Sector
+Clayton,Transportation,59,0.043511313470960156,Sector
+Clayton,Consumer_Products,56,0.760365989754894,Sector
+Clayton,Unassigned,87,0.5568193317625585,Sector
+Clayton,Communication,92,0.6673058406954696,Sector
+Clayton,Trade,46,0.6508533579052167,Sector
+Clayton,Business_Services,87,0.8138052941754588,Sector
+Clayton,Business_Products,33,0.2413211623400079,Sector
+Clayton,Construction,25,0.13496402398254104,Sector
+Clayton,Services,46,0.4539150029515826,Sector
+Clayton,Mining,57,0.3578623979715986,Sector
+Clayton,Health_Care,13,0.7956715982419785,Sector
+Clayton,EnergyExpL_Prod,28,0.8229733688522217,Sector
+Clayton,Utilities,23,0.04588078957143937,Sector

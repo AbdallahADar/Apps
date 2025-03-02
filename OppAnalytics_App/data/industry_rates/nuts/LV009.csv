@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zemgale,783,0.5564590106976894,Overall
+Zemgale,HiTech,43,0.29903004938190847,Sector
+Zemgale,Agriculture,42,0.3708640402108567,Sector
+Zemgale,Transportation,54,0.4219788317328328,Sector
+Zemgale,Consumer_Products,30,0.6747278545030683,Sector
+Zemgale,Unassigned,18,0.492444739851574,Sector
+Zemgale,Communication,40,0.3651164707569695,Sector
+Zemgale,Trade,32,0.8176895669762526,Sector
+Zemgale,Business_Services,95,0.8131966017358156,Sector
+Zemgale,Business_Products,42,0.37294698117411795,Sector
+Zemgale,Construction,89,0.14412298173616045,Sector
+Zemgale,Services,99,0.639421228217628,Sector
+Zemgale,Mining,59,0.9742178312384213,Sector
+Zemgale,Health_Care,77,0.7827697317847994,Sector
+Zemgale,EnergyExpL_Prod,31,0.20739834666261214,Sector
+Zemgale,Utilities,32,0.9709599045023244,Sector

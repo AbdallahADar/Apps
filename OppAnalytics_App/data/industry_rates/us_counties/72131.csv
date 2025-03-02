@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,San Sebastián,803,0.41338937870588427,Overall
+San Sebastián,HiTech,83,0.2927164217391587,Sector
+San Sebastián,Agriculture,73,0.2429435403923913,Sector
+San Sebastián,Transportation,45,0.7311897703751511,Sector
+San Sebastián,Consumer_Products,65,0.22541851027093163,Sector
+San Sebastián,Unassigned,51,0.3757096765409812,Sector
+San Sebastián,Communication,27,0.09508344849416062,Sector
+San Sebastián,Trade,84,0.5448640384113715,Sector
+San Sebastián,Business_Services,87,0.14573140264276319,Sector
+San Sebastián,Business_Products,71,0.41136639811357256,Sector
+San Sebastián,Construction,46,0.9779609447777846,Sector
+San Sebastián,Services,22,0.6837756359108655,Sector
+San Sebastián,Mining,20,0.999418953013668,Sector
+San Sebastián,Health_Care,38,0.061141296081406504,Sector
+San Sebastián,EnergyExpL_Prod,8,0.0070276251278444946,Sector
+San Sebastián,Utilities,83,0.40649301869621346,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sächsische Schweiz-Osterzgebirge,715,0.5687031339637982,Overall
+Sächsische Schweiz-Osterzgebirge,HiTech,87,0.7100169050085179,Sector
+Sächsische Schweiz-Osterzgebirge,Agriculture,22,0.5127417558444505,Sector
+Sächsische Schweiz-Osterzgebirge,Transportation,1,0.021856720235240656,Sector
+Sächsische Schweiz-Osterzgebirge,Consumer_Products,39,0.07188544423823817,Sector
+Sächsische Schweiz-Osterzgebirge,Unassigned,29,0.8482297726822323,Sector
+Sächsische Schweiz-Osterzgebirge,Communication,45,0.9687181063950919,Sector
+Sächsische Schweiz-Osterzgebirge,Trade,66,0.9285295515207705,Sector
+Sächsische Schweiz-Osterzgebirge,Business_Services,20,0.692508441164428,Sector
+Sächsische Schweiz-Osterzgebirge,Business_Products,80,0.17489795275663877,Sector
+Sächsische Schweiz-Osterzgebirge,Construction,73,0.5835729573404963,Sector
+Sächsische Schweiz-Osterzgebirge,Services,80,0.3528867409067845,Sector
+Sächsische Schweiz-Osterzgebirge,Mining,81,0.8946520166980837,Sector
+Sächsische Schweiz-Osterzgebirge,Health_Care,19,0.7251595586332115,Sector
+Sächsische Schweiz-Osterzgebirge,EnergyExpL_Prod,55,0.6881529827406201,Sector
+Sächsische Schweiz-Osterzgebirge,Utilities,18,0.3567381032921698,Sector

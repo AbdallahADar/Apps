@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rimini,624,0.43014133158117507,Overall
+Rimini,HiTech,84,0.6753148426693181,Sector
+Rimini,Agriculture,57,0.4168896776026476,Sector
+Rimini,Transportation,84,0.050045654294251785,Sector
+Rimini,Consumer_Products,9,0.6790722030212824,Sector
+Rimini,Unassigned,4,0.6662393068319644,Sector
+Rimini,Communication,0,0.3006896166112464,Sector
+Rimini,Trade,56,0.6118207997712848,Sector
+Rimini,Business_Services,60,0.32083012648792475,Sector
+Rimini,Business_Products,10,0.6941676085410043,Sector
+Rimini,Construction,32,0.5803237802687813,Sector
+Rimini,Services,44,0.35962543636570465,Sector
+Rimini,Mining,22,0.4258711053846188,Sector
+Rimini,Health_Care,78,0.46702430559412633,Sector
+Rimini,EnergyExpL_Prod,4,0.022593067108197196,Sector
+Rimini,Utilities,80,0.1816124431652737,Sector

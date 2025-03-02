@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fairfax,623,0.46101551121127016,Overall
+Fairfax,HiTech,17,0.7094837655464652,Sector
+Fairfax,Agriculture,58,0.5212245962172507,Sector
+Fairfax,Transportation,41,0.7939903612198355,Sector
+Fairfax,Consumer_Products,62,0.5316033327607447,Sector
+Fairfax,Unassigned,5,0.2595999489743368,Sector
+Fairfax,Communication,24,0.5750338634307071,Sector
+Fairfax,Trade,14,0.25048075180451024,Sector
+Fairfax,Business_Services,41,0.05236700895818236,Sector
+Fairfax,Business_Products,63,0.9499814439207176,Sector
+Fairfax,Construction,58,0.2589714806662,Sector
+Fairfax,Services,36,0.9286643062456132,Sector
+Fairfax,Mining,82,0.11325324469834686,Sector
+Fairfax,Health_Care,56,0.15947047693856553,Sector
+Fairfax,EnergyExpL_Prod,43,0.2142305671506397,Sector
+Fairfax,Utilities,23,0.5968775196369365,Sector

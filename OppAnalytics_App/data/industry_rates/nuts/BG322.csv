@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gabrovo,779,0.4248238049944223,Overall
+Gabrovo,HiTech,1,0.377898355926096,Sector
+Gabrovo,Agriculture,7,0.07091369612809517,Sector
+Gabrovo,Transportation,36,0.20961633672640811,Sector
+Gabrovo,Consumer_Products,77,0.8598747676746392,Sector
+Gabrovo,Unassigned,72,0.949079430356876,Sector
+Gabrovo,Communication,20,0.5850789477505788,Sector
+Gabrovo,Trade,8,0.30654748344093574,Sector
+Gabrovo,Business_Services,77,0.43378617095398264,Sector
+Gabrovo,Business_Products,68,0.05849379614358574,Sector
+Gabrovo,Construction,62,0.6796320952414482,Sector
+Gabrovo,Services,84,0.23141423738285238,Sector
+Gabrovo,Mining,32,0.568588761383585,Sector
+Gabrovo,Health_Care,95,0.07633621861233997,Sector
+Gabrovo,EnergyExpL_Prod,85,0.4470276232527731,Sector
+Gabrovo,Utilities,55,0.5180691539421388,Sector

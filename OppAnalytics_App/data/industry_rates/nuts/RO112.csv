@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bistriţa-Năsăud,686,0.4651793687884872,Overall
+Bistriţa-Năsăud,HiTech,82,0.2970776891807497,Sector
+Bistriţa-Năsăud,Agriculture,83,0.32113066436269533,Sector
+Bistriţa-Năsăud,Transportation,49,0.7047071752904488,Sector
+Bistriţa-Năsăud,Consumer_Products,22,0.5611190400178361,Sector
+Bistriţa-Năsăud,Unassigned,14,0.4155639742395113,Sector
+Bistriţa-Năsăud,Communication,56,0.4097407531208589,Sector
+Bistriţa-Năsăud,Trade,13,0.7525140938803114,Sector
+Bistriţa-Năsăud,Business_Services,34,0.481095274413033,Sector
+Bistriţa-Năsăud,Business_Products,65,0.3451000487061461,Sector
+Bistriţa-Năsăud,Construction,28,0.8942982114899422,Sector
+Bistriţa-Năsăud,Services,66,0.09118157195181964,Sector
+Bistriţa-Năsăud,Mining,26,0.40942287881937867,Sector
+Bistriţa-Năsăud,Health_Care,14,0.7925481308512731,Sector
+Bistriţa-Năsăud,EnergyExpL_Prod,57,0.36515775686813134,Sector
+Bistriţa-Năsăud,Utilities,77,0.1370332686351724,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Waldo,804,0.529574633841099,Overall
+Waldo,HiTech,58,0.2517852193968104,Sector
+Waldo,Agriculture,70,0.9828052639249251,Sector
+Waldo,Transportation,74,0.5888347076331446,Sector
+Waldo,Consumer_Products,48,0.12520494303556373,Sector
+Waldo,Unassigned,42,0.12195834634959202,Sector
+Waldo,Communication,53,0.8393923064898864,Sector
+Waldo,Trade,1,0.2225946009625378,Sector
+Waldo,Business_Services,31,0.967437065863399,Sector
+Waldo,Business_Products,90,0.9569015360552453,Sector
+Waldo,Construction,11,0.2489169011440321,Sector
+Waldo,Services,87,0.330570703392272,Sector
+Waldo,Mining,88,0.13100974785372488,Sector
+Waldo,Health_Care,83,0.7253950319355497,Sector
+Waldo,EnergyExpL_Prod,28,0.649360110049119,Sector
+Waldo,Utilities,40,0.8014530235306845,Sector

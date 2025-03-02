@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Eure,688,0.5460565850911201,Overall
+Eure,HiTech,11,0.6684987736024572,Sector
+Eure,Agriculture,20,0.5663575507413784,Sector
+Eure,Transportation,3,0.6184527936623354,Sector
+Eure,Consumer_Products,20,0.6670881123642224,Sector
+Eure,Unassigned,98,0.685887537479681,Sector
+Eure,Communication,5,0.1005086472814628,Sector
+Eure,Trade,28,0.7278822841465502,Sector
+Eure,Business_Services,71,0.1611375153056238,Sector
+Eure,Business_Products,85,0.9127392546284694,Sector
+Eure,Construction,67,0.7162429864259494,Sector
+Eure,Services,66,0.716951213854127,Sector
+Eure,Mining,44,0.3162396845756186,Sector
+Eure,Health_Care,71,0.6140989114870147,Sector
+Eure,EnergyExpL_Prod,26,0.14923548255992725,Sector
+Eure,Utilities,73,0.5695280282519828,Sector

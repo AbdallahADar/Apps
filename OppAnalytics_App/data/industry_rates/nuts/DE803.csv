@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Rostock, Kreisfreie Stadt",755,0.3942007155825165,Overall
+"Rostock, Kreisfreie Stadt",HiTech,91,0.3759060286018806,Sector
+"Rostock, Kreisfreie Stadt",Agriculture,12,0.15133948689091892,Sector
+"Rostock, Kreisfreie Stadt",Transportation,39,0.11178341767114852,Sector
+"Rostock, Kreisfreie Stadt",Consumer_Products,71,0.8043248532874492,Sector
+"Rostock, Kreisfreie Stadt",Unassigned,65,0.9502246253394415,Sector
+"Rostock, Kreisfreie Stadt",Communication,40,0.26346219743293586,Sector
+"Rostock, Kreisfreie Stadt",Trade,48,0.4914150935726208,Sector
+"Rostock, Kreisfreie Stadt",Business_Services,98,0.5666573038687963,Sector
+"Rostock, Kreisfreie Stadt",Business_Products,4,0.5146423047265999,Sector
+"Rostock, Kreisfreie Stadt",Construction,50,0.04896830273337194,Sector
+"Rostock, Kreisfreie Stadt",Services,41,0.27491600320388754,Sector
+"Rostock, Kreisfreie Stadt",Mining,38,0.617234501694599,Sector
+"Rostock, Kreisfreie Stadt",Health_Care,30,0.06040672187952545,Sector
+"Rostock, Kreisfreie Stadt",EnergyExpL_Prod,88,0.20953648095411992,Sector
+"Rostock, Kreisfreie Stadt",Utilities,40,0.4721934118804535,Sector

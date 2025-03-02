@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mendocino,742,0.4107756234531765,Overall
+Mendocino,HiTech,56,0.2962085827831914,Sector
+Mendocino,Agriculture,61,0.8618146506155563,Sector
+Mendocino,Transportation,6,0.6603067240089745,Sector
+Mendocino,Consumer_Products,34,0.07637948575344378,Sector
+Mendocino,Unassigned,26,0.29833167442774744,Sector
+Mendocino,Communication,98,0.5544857055140913,Sector
+Mendocino,Trade,94,0.1850884422568081,Sector
+Mendocino,Business_Services,7,0.15435119975496936,Sector
+Mendocino,Business_Products,44,0.684151301067925,Sector
+Mendocino,Construction,25,0.09463920373805124,Sector
+Mendocino,Services,84,0.5126883387729282,Sector
+Mendocino,Mining,28,0.6904757357613527,Sector
+Mendocino,Health_Care,44,0.20281165108983235,Sector
+Mendocino,EnergyExpL_Prod,40,0.40861010001421827,Sector
+Mendocino,Utilities,95,0.48129155623855713,Sector

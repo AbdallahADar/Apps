@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Moore,684,0.45805610920910944,Overall
+Moore,HiTech,98,0.5963765841452653,Sector
+Moore,Agriculture,53,0.3923326238184791,Sector
+Moore,Transportation,68,0.03878549685044674,Sector
+Moore,Consumer_Products,62,0.48195431641814857,Sector
+Moore,Unassigned,20,0.27215688993323917,Sector
+Moore,Communication,33,0.30117928200003263,Sector
+Moore,Trade,6,0.04244849424872266,Sector
+Moore,Business_Services,56,0.4071866623484758,Sector
+Moore,Business_Products,71,0.3533967947926926,Sector
+Moore,Construction,12,0.8684184555590255,Sector
+Moore,Services,91,0.9272758061494207,Sector
+Moore,Mining,26,0.3639406721870103,Sector
+Moore,Health_Care,32,0.1043024950653133,Sector
+Moore,EnergyExpL_Prod,37,0.8781339304855418,Sector
+Moore,Utilities,19,0.8429531341348275,Sector

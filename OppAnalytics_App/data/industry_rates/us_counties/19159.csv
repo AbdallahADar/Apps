@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ringgold,685,0.5607411804749595,Overall
+Ringgold,HiTech,42,0.14207248378008508,Sector
+Ringgold,Agriculture,47,0.6196944241098011,Sector
+Ringgold,Transportation,35,0.4182801129065179,Sector
+Ringgold,Consumer_Products,27,0.43376294152427597,Sector
+Ringgold,Unassigned,23,0.6257323009729224,Sector
+Ringgold,Communication,73,0.15555940579586824,Sector
+Ringgold,Trade,24,0.913026268587061,Sector
+Ringgold,Business_Services,32,0.4820431489473651,Sector
+Ringgold,Business_Products,35,0.6455794723092441,Sector
+Ringgold,Construction,29,0.6324621843453934,Sector
+Ringgold,Services,86,0.9777233159289026,Sector
+Ringgold,Mining,82,0.6821640466334234,Sector
+Ringgold,Health_Care,54,0.6481138383965014,Sector
+Ringgold,EnergyExpL_Prod,28,0.5529431283965777,Sector
+Ringgold,Utilities,68,0.481960634490453,Sector

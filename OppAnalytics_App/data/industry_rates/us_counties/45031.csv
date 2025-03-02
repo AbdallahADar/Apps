@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Darlington,698,0.4560603582019186,Overall
+Darlington,HiTech,59,0.23013093103300664,Sector
+Darlington,Agriculture,61,0.6255793104133744,Sector
+Darlington,Transportation,41,0.5675804462417063,Sector
+Darlington,Consumer_Products,7,0.023851437838584344,Sector
+Darlington,Unassigned,95,0.8591468979828334,Sector
+Darlington,Communication,26,0.962837900765752,Sector
+Darlington,Trade,63,0.24736964765476666,Sector
+Darlington,Business_Services,77,0.5255075055331747,Sector
+Darlington,Business_Products,43,0.1879060076012855,Sector
+Darlington,Construction,30,0.9278616109932027,Sector
+Darlington,Services,29,0.0734247334678968,Sector
+Darlington,Mining,29,0.8163095837567562,Sector
+Darlington,Health_Care,57,0.024348783248984263,Sector
+Darlington,EnergyExpL_Prod,79,0.3814887602415752,Sector
+Darlington,Utilities,2,0.3875618162558787,Sector

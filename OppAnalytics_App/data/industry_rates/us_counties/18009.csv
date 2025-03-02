@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Blackford,704,0.49590900536935073,Overall
+Blackford,HiTech,11,0.13674189264288394,Sector
+Blackford,Agriculture,86,0.08230629893207952,Sector
+Blackford,Transportation,73,0.05489954021614818,Sector
+Blackford,Consumer_Products,78,0.9882358940018142,Sector
+Blackford,Unassigned,65,0.36946761350604707,Sector
+Blackford,Communication,65,0.9576447023369327,Sector
+Blackford,Trade,58,0.9370528984231237,Sector
+Blackford,Business_Services,36,0.7825840046364045,Sector
+Blackford,Business_Products,76,0.903923053258162,Sector
+Blackford,Construction,73,0.6377617809737551,Sector
+Blackford,Services,14,0.18785577485890403,Sector
+Blackford,Mining,10,0.422428026445279,Sector
+Blackford,Health_Care,50,0.7018139534944308,Sector
+Blackford,EnergyExpL_Prod,6,0.21675868303549384,Sector
+Blackford,Utilities,3,0.0591609637788032,Sector

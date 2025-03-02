@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Barletta-Andria-Trani,903,0.45717405181649057,Overall
+Barletta-Andria-Trani,HiTech,36,0.18738574048020062,Sector
+Barletta-Andria-Trani,Agriculture,18,0.8657763214182411,Sector
+Barletta-Andria-Trani,Transportation,84,0.43469612433368154,Sector
+Barletta-Andria-Trani,Consumer_Products,59,0.40155930668861917,Sector
+Barletta-Andria-Trani,Unassigned,10,0.709370329433321,Sector
+Barletta-Andria-Trani,Communication,86,0.23288848563501718,Sector
+Barletta-Andria-Trani,Trade,92,0.2023507370870391,Sector
+Barletta-Andria-Trani,Business_Services,84,0.17754705044151586,Sector
+Barletta-Andria-Trani,Business_Products,74,0.6770318063176102,Sector
+Barletta-Andria-Trani,Construction,26,0.8295212705311076,Sector
+Barletta-Andria-Trani,Services,92,0.47774105178219406,Sector
+Barletta-Andria-Trani,Mining,37,0.4548470806029171,Sector
+Barletta-Andria-Trani,Health_Care,57,0.0532688530191584,Sector
+Barletta-Andria-Trani,EnergyExpL_Prod,88,0.8726109219445723,Sector
+Barletta-Andria-Trani,Utilities,60,0.28101569753216293,Sector

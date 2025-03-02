@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chattooga,881,0.5458931146855154,Overall
+Chattooga,HiTech,26,0.5216991089421927,Sector
+Chattooga,Agriculture,77,0.9352931647672397,Sector
+Chattooga,Transportation,45,0.8549835080002804,Sector
+Chattooga,Consumer_Products,27,0.7886163437219823,Sector
+Chattooga,Unassigned,63,0.28355948906106376,Sector
+Chattooga,Communication,33,0.8102234576456874,Sector
+Chattooga,Trade,2,0.2580478918964907,Sector
+Chattooga,Business_Services,21,0.05309353527538774,Sector
+Chattooga,Business_Products,88,0.7888393140491505,Sector
+Chattooga,Construction,67,0.9915411398757021,Sector
+Chattooga,Services,97,0.42278834645330376,Sector
+Chattooga,Mining,86,0.4449197195929011,Sector
+Chattooga,Health_Care,93,0.21145989309072644,Sector
+Chattooga,EnergyExpL_Prod,94,0.06080839826102247,Sector
+Chattooga,Utilities,62,0.762523409649599,Sector

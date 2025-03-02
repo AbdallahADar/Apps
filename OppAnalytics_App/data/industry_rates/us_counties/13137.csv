@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Habersham,701,0.41814417757990957,Overall
+Habersham,HiTech,8,0.5344252855476014,Sector
+Habersham,Agriculture,32,0.286716800654098,Sector
+Habersham,Transportation,89,0.004789246700018568,Sector
+Habersham,Consumer_Products,48,0.7116313362849922,Sector
+Habersham,Unassigned,40,0.19316817836336264,Sector
+Habersham,Communication,97,0.4266038690301984,Sector
+Habersham,Trade,93,0.613803815279293,Sector
+Habersham,Business_Services,0,0.5210335544902978,Sector
+Habersham,Business_Products,13,0.29348419223841027,Sector
+Habersham,Construction,10,0.38157027847519664,Sector
+Habersham,Services,42,0.5930499758556276,Sector
+Habersham,Mining,55,0.24623690955825484,Sector
+Habersham,Health_Care,95,0.08112682554046802,Sector
+Habersham,EnergyExpL_Prod,38,0.9541323941869958,Sector
+Habersham,Utilities,41,0.4303900014938279,Sector

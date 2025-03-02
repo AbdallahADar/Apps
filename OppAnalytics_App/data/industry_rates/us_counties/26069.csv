@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Iosco,717,0.4373281760961352,Overall
+Iosco,HiTech,92,0.3318273238081273,Sector
+Iosco,Agriculture,1,0.16780757888422426,Sector
+Iosco,Transportation,15,0.6634443158605225,Sector
+Iosco,Consumer_Products,83,0.4561992045168126,Sector
+Iosco,Unassigned,35,0.38483991547064567,Sector
+Iosco,Communication,89,0.8992291670045797,Sector
+Iosco,Trade,3,0.43823831438267535,Sector
+Iosco,Business_Services,17,0.11664378531777952,Sector
+Iosco,Business_Products,34,0.6471925870018037,Sector
+Iosco,Construction,60,0.5193924922790769,Sector
+Iosco,Services,51,0.7724246389178586,Sector
+Iosco,Mining,25,0.1394200088797357,Sector
+Iosco,Health_Care,71,0.6299570211199793,Sector
+Iosco,EnergyExpL_Prod,94,0.3494972225055105,Sector
+Iosco,Utilities,47,0.04380906549269692,Sector

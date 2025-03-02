@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Delfzijl en omgeving,802,0.456242719424183,Overall
+Delfzijl en omgeving,HiTech,57,0.0686411318850445,Sector
+Delfzijl en omgeving,Agriculture,58,0.09984083107438924,Sector
+Delfzijl en omgeving,Transportation,35,0.5329137150656065,Sector
+Delfzijl en omgeving,Consumer_Products,57,0.909577787603022,Sector
+Delfzijl en omgeving,Unassigned,91,0.23758389077575093,Sector
+Delfzijl en omgeving,Communication,72,0.06624978645059498,Sector
+Delfzijl en omgeving,Trade,3,0.3526300559309732,Sector
+Delfzijl en omgeving,Business_Services,17,0.48400528977624135,Sector
+Delfzijl en omgeving,Business_Products,77,0.5613084710139891,Sector
+Delfzijl en omgeving,Construction,81,0.9574401528891799,Sector
+Delfzijl en omgeving,Services,74,0.5946803137701979,Sector
+Delfzijl en omgeving,Mining,89,0.6195005678723919,Sector
+Delfzijl en omgeving,Health_Care,5,0.5346104362375315,Sector
+Delfzijl en omgeving,EnergyExpL_Prod,63,0.823594024921943,Sector
+Delfzijl en omgeving,Utilities,23,0.0010643360958891845,Sector

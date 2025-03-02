@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hill,994,0.5437145496092844,Overall
+Hill,HiTech,57,0.7862351073773934,Sector
+Hill,Agriculture,77,0.89493790762395,Sector
+Hill,Transportation,97,0.1994477711069773,Sector
+Hill,Consumer_Products,47,0.04713102246411771,Sector
+Hill,Unassigned,76,0.7618617323138718,Sector
+Hill,Communication,75,0.4136660552110559,Sector
+Hill,Trade,95,0.6106107874392672,Sector
+Hill,Business_Services,95,0.522488390864156,Sector
+Hill,Business_Products,92,0.15099223579008414,Sector
+Hill,Construction,57,0.5026734741249018,Sector
+Hill,Services,71,0.9498252921406566,Sector
+Hill,Mining,29,0.7606198016205362,Sector
+Hill,Health_Care,67,0.8054503161709455,Sector
+Hill,EnergyExpL_Prod,23,0.4884263015914111,Sector
+Hill,Utilities,36,0.2613520482999424,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pčinjska oblast,749,0.4818040097196565,Overall
+Pčinjska oblast,HiTech,58,0.44851276858703515,Sector
+Pčinjska oblast,Agriculture,93,0.7964454176712694,Sector
+Pčinjska oblast,Transportation,87,0.7577634253571313,Sector
+Pčinjska oblast,Consumer_Products,81,0.8374051161562105,Sector
+Pčinjska oblast,Unassigned,15,0.15603182584735142,Sector
+Pčinjska oblast,Communication,2,0.7126872966389244,Sector
+Pčinjska oblast,Trade,65,0.35198922439485747,Sector
+Pčinjska oblast,Business_Services,29,0.13495237925672754,Sector
+Pčinjska oblast,Business_Products,37,0.6153868397586205,Sector
+Pčinjska oblast,Construction,11,0.6841519175535014,Sector
+Pčinjska oblast,Services,94,0.5930268158428808,Sector
+Pčinjska oblast,Mining,46,0.2409946521734928,Sector
+Pčinjska oblast,Health_Care,55,0.09906390818150745,Sector
+Pčinjska oblast,EnergyExpL_Prod,3,0.031391582564450404,Sector
+Pčinjska oblast,Utilities,73,0.767256975810888,Sector

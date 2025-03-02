@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sauk,547,0.4379385823934406,Overall
+Sauk,HiTech,30,0.6460698755489183,Sector
+Sauk,Agriculture,18,0.6493470525710549,Sector
+Sauk,Transportation,49,0.8958562909796869,Sector
+Sauk,Consumer_Products,23,0.11609054223467885,Sector
+Sauk,Unassigned,14,0.9313799613853444,Sector
+Sauk,Communication,48,0.10695345957551661,Sector
+Sauk,Trade,64,0.6194324838627057,Sector
+Sauk,Business_Services,72,0.35339579304939683,Sector
+Sauk,Business_Products,0,0.3815932759320867,Sector
+Sauk,Construction,80,0.5649947373186901,Sector
+Sauk,Services,30,0.25221701123160045,Sector
+Sauk,Mining,52,0.07097055117201623,Sector
+Sauk,Health_Care,22,0.47857114755317043,Sector
+Sauk,EnergyExpL_Prod,31,0.18645795094692008,Sector
+Sauk,Utilities,14,0.3157486025398215,Sector

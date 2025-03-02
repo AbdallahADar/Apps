@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Durham,679,0.5077756949288081,Overall
+Durham,HiTech,80,0.7600168700111292,Sector
+Durham,Agriculture,76,0.569328437393514,Sector
+Durham,Transportation,34,0.4377436656303455,Sector
+Durham,Consumer_Products,56,0.6777385278593006,Sector
+Durham,Unassigned,56,0.8095671180060451,Sector
+Durham,Communication,0,0.6177667160664813,Sector
+Durham,Trade,59,0.9939765074503895,Sector
+Durham,Business_Services,90,0.11378690390097668,Sector
+Durham,Business_Products,18,0.3854907694274796,Sector
+Durham,Construction,49,0.08945481051913251,Sector
+Durham,Services,27,0.43217629958900106,Sector
+Durham,Mining,28,0.2633641457717112,Sector
+Durham,Health_Care,82,0.4581702271965785,Sector
+Durham,EnergyExpL_Prod,21,0.5728167275410985,Sector
+Durham,Utilities,3,0.4352376975689384,Sector

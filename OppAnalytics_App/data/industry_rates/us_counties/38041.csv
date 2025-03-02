@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hettinger,557,0.6130595618303407,Overall
+Hettinger,HiTech,16,0.3769059483958177,Sector
+Hettinger,Agriculture,37,0.8522379656540943,Sector
+Hettinger,Transportation,22,0.22193642450187256,Sector
+Hettinger,Consumer_Products,76,0.980444267762706,Sector
+Hettinger,Unassigned,81,0.6591207406542701,Sector
+Hettinger,Communication,10,0.15965857417567564,Sector
+Hettinger,Trade,15,0.9502191765614951,Sector
+Hettinger,Business_Services,8,0.6924607918200848,Sector
+Hettinger,Business_Products,69,0.4475396677561838,Sector
+Hettinger,Construction,17,0.19726544198512153,Sector
+Hettinger,Services,77,0.8327917443943809,Sector
+Hettinger,Mining,17,0.8623316488408147,Sector
+Hettinger,Health_Care,21,0.507071425203325,Sector
+Hettinger,EnergyExpL_Prod,55,0.6205672577188389,Sector
+Hettinger,Utilities,36,0.8353423520304311,Sector

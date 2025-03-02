@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Charente,900,0.46874226807165126,Overall
+Charente,HiTech,43,0.8508768856401633,Sector
+Charente,Agriculture,57,0.739658460859816,Sector
+Charente,Transportation,70,0.6863492682510306,Sector
+Charente,Consumer_Products,49,0.8992703297934872,Sector
+Charente,Unassigned,92,0.5178501076828907,Sector
+Charente,Communication,66,0.4186035926322277,Sector
+Charente,Trade,83,0.019665230806741985,Sector
+Charente,Business_Services,39,0.4220858966435851,Sector
+Charente,Business_Products,99,0.1534579551248516,Sector
+Charente,Construction,45,0.031205091333012636,Sector
+Charente,Services,22,0.11492233292577658,Sector
+Charente,Mining,90,0.05089761523715974,Sector
+Charente,Health_Care,9,0.5940204655864543,Sector
+Charente,EnergyExpL_Prod,60,0.7542454454830547,Sector
+Charente,Utilities,76,0.7780253430745158,Sector

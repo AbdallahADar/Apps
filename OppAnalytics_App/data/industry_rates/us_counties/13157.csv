@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jackson,632,0.5110966792782735,Overall
+Jackson,HiTech,51,0.19858964857759898,Sector
+Jackson,Agriculture,17,0.16115594335227523,Sector
+Jackson,Transportation,75,0.2293208190692636,Sector
+Jackson,Consumer_Products,22,0.29896818031258043,Sector
+Jackson,Unassigned,44,0.8132672985699707,Sector
+Jackson,Communication,59,0.7458389967273488,Sector
+Jackson,Trade,28,0.8637660460415236,Sector
+Jackson,Business_Services,89,0.8483015098693386,Sector
+Jackson,Business_Products,65,0.05945076021286877,Sector
+Jackson,Construction,76,0.5778375674241681,Sector
+Jackson,Services,11,0.5642259139653248,Sector
+Jackson,Mining,25,0.38205374651488444,Sector
+Jackson,Health_Care,21,0.6374973481848442,Sector
+Jackson,EnergyExpL_Prod,42,0.7735441392665818,Sector
+Jackson,Utilities,7,0.5126322710855312,Sector

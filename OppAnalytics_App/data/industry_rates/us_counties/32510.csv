@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Carson City,867,0.5650886450269207,Overall
+Carson City,HiTech,95,0.47647354312054846,Sector
+Carson City,Agriculture,66,0.09879763136898356,Sector
+Carson City,Transportation,92,0.2239667399588532,Sector
+Carson City,Consumer_Products,94,0.5724030128954251,Sector
+Carson City,Unassigned,30,0.8949938861016806,Sector
+Carson City,Communication,57,0.8696687033682637,Sector
+Carson City,Trade,1,0.8589638685473308,Sector
+Carson City,Business_Services,69,0.4196792208707597,Sector
+Carson City,Business_Products,11,0.2819976536894305,Sector
+Carson City,Construction,60,0.9680307668634732,Sector
+Carson City,Services,63,0.5316375337416495,Sector
+Carson City,Mining,85,0.7255221586226965,Sector
+Carson City,Health_Care,98,0.9669436450746256,Sector
+Carson City,EnergyExpL_Prod,29,0.13385686342481873,Sector
+Carson City,Utilities,17,0.45339444775527094,Sector

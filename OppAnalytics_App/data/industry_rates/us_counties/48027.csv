@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bell,764,0.4833775990289872,Overall
+Bell,HiTech,55,0.35756109580263207,Sector
+Bell,Agriculture,33,0.21239219265505316,Sector
+Bell,Transportation,34,0.7542710918908769,Sector
+Bell,Consumer_Products,93,0.7776303770920856,Sector
+Bell,Unassigned,47,0.7095281880522181,Sector
+Bell,Communication,6,0.6360118440371607,Sector
+Bell,Trade,41,0.15277461273632886,Sector
+Bell,Business_Services,12,0.3996297710564095,Sector
+Bell,Business_Products,58,0.10816041156974399,Sector
+Bell,Construction,95,0.409032584585454,Sector
+Bell,Services,80,0.7952198694162953,Sector
+Bell,Mining,63,0.3947287444186077,Sector
+Bell,Health_Care,0,0.9298204058175132,Sector
+Bell,EnergyExpL_Prod,61,0.3982652598577756,Sector
+Bell,Utilities,86,0.2156375364466525,Sector

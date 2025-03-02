@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Belknap,576,0.3771861878701268,Overall
+Belknap,HiTech,69,0.23140448902709,Sector
+Belknap,Agriculture,22,0.5788851807090459,Sector
+Belknap,Transportation,41,0.26209629497416753,Sector
+Belknap,Consumer_Products,64,0.2928159602447389,Sector
+Belknap,Unassigned,37,0.5899231045773649,Sector
+Belknap,Communication,12,0.4513177846299776,Sector
+Belknap,Trade,35,0.5299919724436924,Sector
+Belknap,Business_Services,77,0.8333425681172295,Sector
+Belknap,Business_Products,56,0.3209093615030755,Sector
+Belknap,Construction,75,0.2598466833406071,Sector
+Belknap,Services,17,0.1386473457063926,Sector
+Belknap,Mining,1,0.21640297834987687,Sector
+Belknap,Health_Care,15,0.3274187465650933,Sector
+Belknap,EnergyExpL_Prod,5,0.39998740187470827,Sector
+Belknap,Utilities,50,0.22480294598884198,Sector

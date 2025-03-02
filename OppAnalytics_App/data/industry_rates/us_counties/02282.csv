@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yakutat,668,0.550939168296375,Overall
+Yakutat,HiTech,13,0.8568392956452356,Sector
+Yakutat,Agriculture,25,0.47146317241092495,Sector
+Yakutat,Transportation,3,0.8203013634386275,Sector
+Yakutat,Consumer_Products,89,0.6675082642668793,Sector
+Yakutat,Unassigned,86,0.5075522989424697,Sector
+Yakutat,Communication,43,0.1328984383220766,Sector
+Yakutat,Trade,17,0.6990175608474704,Sector
+Yakutat,Business_Services,13,0.7126348873564501,Sector
+Yakutat,Business_Products,51,0.3468976243775099,Sector
+Yakutat,Construction,74,0.16409185622416844,Sector
+Yakutat,Services,34,0.5007080528526437,Sector
+Yakutat,Mining,88,0.3564496713367993,Sector
+Yakutat,Health_Care,15,0.7038208003832397,Sector
+Yakutat,EnergyExpL_Prod,41,0.7822295007909305,Sector
+Yakutat,Utilities,76,0.5416747372502,Sector

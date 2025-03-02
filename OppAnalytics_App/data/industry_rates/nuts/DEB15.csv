@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Birkenfeld,763,0.4800367739387107,Overall
+Birkenfeld,HiTech,92,0.37423582275073675,Sector
+Birkenfeld,Agriculture,45,0.7149377241365726,Sector
+Birkenfeld,Transportation,90,0.6332257137330344,Sector
+Birkenfeld,Consumer_Products,6,0.47945506052502573,Sector
+Birkenfeld,Unassigned,32,0.5401882594641414,Sector
+Birkenfeld,Communication,97,0.32992478439745065,Sector
+Birkenfeld,Trade,36,0.9598643583651888,Sector
+Birkenfeld,Business_Services,32,0.5050144433446832,Sector
+Birkenfeld,Business_Products,37,0.69397328670004,Sector
+Birkenfeld,Construction,91,0.6454810812580133,Sector
+Birkenfeld,Services,31,0.28622167088046757,Sector
+Birkenfeld,Mining,0,0.6680638275028536,Sector
+Birkenfeld,Health_Care,76,0.02941842587391741,Sector
+Birkenfeld,EnergyExpL_Prod,95,0.028670165397520653,Sector
+Birkenfeld,Utilities,3,0.31187698475101433,Sector

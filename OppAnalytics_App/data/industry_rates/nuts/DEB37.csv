@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Pirmasens, Kreisfreie Stadt",687,0.4940329650965544,Overall
+"Pirmasens, Kreisfreie Stadt",HiTech,82,0.372398312991155,Sector
+"Pirmasens, Kreisfreie Stadt",Agriculture,38,0.9082802173215093,Sector
+"Pirmasens, Kreisfreie Stadt",Transportation,55,0.4551696453154388,Sector
+"Pirmasens, Kreisfreie Stadt",Consumer_Products,14,0.3893413477271733,Sector
+"Pirmasens, Kreisfreie Stadt",Unassigned,98,0.7656975106894429,Sector
+"Pirmasens, Kreisfreie Stadt",Communication,27,0.6935850197370804,Sector
+"Pirmasens, Kreisfreie Stadt",Trade,14,0.6424912266545897,Sector
+"Pirmasens, Kreisfreie Stadt",Business_Services,57,0.28266641275860127,Sector
+"Pirmasens, Kreisfreie Stadt",Business_Products,45,0.9139404079886116,Sector
+"Pirmasens, Kreisfreie Stadt",Construction,27,0.2882290023631381,Sector
+"Pirmasens, Kreisfreie Stadt",Services,84,0.6645602864517985,Sector
+"Pirmasens, Kreisfreie Stadt",Mining,33,0.44388348678886624,Sector
+"Pirmasens, Kreisfreie Stadt",Health_Care,60,0.3502920692275532,Sector
+"Pirmasens, Kreisfreie Stadt",EnergyExpL_Prod,11,0.12236155358669643,Sector
+"Pirmasens, Kreisfreie Stadt",Utilities,42,0.11759797684665985,Sector

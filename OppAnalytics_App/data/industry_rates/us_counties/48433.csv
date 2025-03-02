@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stonewall,681,0.5851154372858738,Overall
+Stonewall,HiTech,93,0.8342131367304878,Sector
+Stonewall,Agriculture,39,0.8371533129318987,Sector
+Stonewall,Transportation,47,0.5906671946168456,Sector
+Stonewall,Consumer_Products,17,0.9729839556263878,Sector
+Stonewall,Unassigned,45,0.34536822532800204,Sector
+Stonewall,Communication,27,0.9766582291946512,Sector
+Stonewall,Trade,43,0.43859975995055445,Sector
+Stonewall,Business_Services,83,0.34947765640226847,Sector
+Stonewall,Business_Products,27,0.2692529150634022,Sector
+Stonewall,Construction,38,0.7387701311814017,Sector
+Stonewall,Services,75,0.1356503648080145,Sector
+Stonewall,Mining,39,0.6680036658628588,Sector
+Stonewall,Health_Care,11,0.523511088597088,Sector
+Stonewall,EnergyExpL_Prod,21,0.33872835647743527,Sector
+Stonewall,Utilities,76,0.7576935665168103,Sector

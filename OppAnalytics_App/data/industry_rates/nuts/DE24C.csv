@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lichtenfels,783,0.4270482333664874,Overall
+Lichtenfels,HiTech,96,0.1069113190880231,Sector
+Lichtenfels,Agriculture,65,0.22480391163769853,Sector
+Lichtenfels,Transportation,42,0.8775194668874822,Sector
+Lichtenfels,Consumer_Products,47,0.7753305352506522,Sector
+Lichtenfels,Unassigned,54,0.5661741964748245,Sector
+Lichtenfels,Communication,76,0.18544253339795702,Sector
+Lichtenfels,Trade,67,0.14570743732658697,Sector
+Lichtenfels,Business_Services,18,0.07088848577532703,Sector
+Lichtenfels,Business_Products,55,0.2108198170647232,Sector
+Lichtenfels,Construction,54,0.5612253205055072,Sector
+Lichtenfels,Services,28,0.6785205624170478,Sector
+Lichtenfels,Mining,55,0.44110808873281315,Sector
+Lichtenfels,Health_Care,83,0.9191774298759645,Sector
+Lichtenfels,EnergyExpL_Prod,27,0.13282067202358927,Sector
+Lichtenfels,Utilities,16,0.5092737240391139,Sector

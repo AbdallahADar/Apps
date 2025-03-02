@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mitchell,736,0.5462627473476102,Overall
+Mitchell,HiTech,81,0.49470084661310887,Sector
+Mitchell,Agriculture,28,0.8460063046806302,Sector
+Mitchell,Transportation,36,0.8434121496393246,Sector
+Mitchell,Consumer_Products,47,0.394231076074268,Sector
+Mitchell,Unassigned,55,0.7526514900530262,Sector
+Mitchell,Communication,47,0.4045189577161128,Sector
+Mitchell,Trade,72,0.6541756089980677,Sector
+Mitchell,Business_Services,83,0.690186089143843,Sector
+Mitchell,Business_Products,68,0.05906413884957473,Sector
+Mitchell,Construction,60,0.7982537203206657,Sector
+Mitchell,Services,1,0.07254924865684342,Sector
+Mitchell,Mining,58,0.16990195499398153,Sector
+Mitchell,Health_Care,52,0.9503470306066012,Sector
+Mitchell,EnergyExpL_Prod,32,0.06403427993772326,Sector
+Mitchell,Utilities,16,0.9999083139303813,Sector

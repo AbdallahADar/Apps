@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Treviso,850,0.4868938047624086,Overall
+Treviso,HiTech,19,0.6930447325368717,Sector
+Treviso,Agriculture,54,0.7971439499243089,Sector
+Treviso,Transportation,20,0.105929966997235,Sector
+Treviso,Consumer_Products,31,0.900844183317501,Sector
+Treviso,Unassigned,91,0.8912090267560981,Sector
+Treviso,Communication,64,0.2600534479963056,Sector
+Treviso,Trade,44,0.6723295829548889,Sector
+Treviso,Business_Services,90,0.032911044317938454,Sector
+Treviso,Business_Products,13,0.009012422229822348,Sector
+Treviso,Construction,84,0.9500521592296232,Sector
+Treviso,Services,70,0.019699594208391735,Sector
+Treviso,Mining,70,0.5358525567863462,Sector
+Treviso,Health_Care,99,0.6051638240680532,Sector
+Treviso,EnergyExpL_Prod,35,0.1470137601173298,Sector
+Treviso,Utilities,66,0.6831468199954157,Sector

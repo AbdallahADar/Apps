@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Crisp,733,0.5580343730587962,Overall
+Crisp,HiTech,95,0.374308006689962,Sector
+Crisp,Agriculture,26,0.532625075626091,Sector
+Crisp,Transportation,25,0.605116166915701,Sector
+Crisp,Consumer_Products,48,0.17371614035477068,Sector
+Crisp,Unassigned,92,0.054191463461711,Sector
+Crisp,Communication,90,0.49477119329519703,Sector
+Crisp,Trade,86,0.9047783293397874,Sector
+Crisp,Business_Services,10,0.38874554238475256,Sector
+Crisp,Business_Products,52,0.682040199985075,Sector
+Crisp,Construction,12,0.7037810125647098,Sector
+Crisp,Services,25,0.876747454771843,Sector
+Crisp,Mining,17,0.22067335291808055,Sector
+Crisp,Health_Care,66,0.873721856595409,Sector
+Crisp,EnergyExpL_Prod,18,0.6879804474418798,Sector
+Crisp,Utilities,71,0.797319353536974,Sector

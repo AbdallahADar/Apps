@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Olmsted,720,0.4836807852723323,Overall
+Olmsted,HiTech,36,0.39388831136784996,Sector
+Olmsted,Agriculture,79,0.40716837302075926,Sector
+Olmsted,Transportation,32,0.6987885869210517,Sector
+Olmsted,Consumer_Products,28,0.5071806292386779,Sector
+Olmsted,Unassigned,35,0.8210977568901816,Sector
+Olmsted,Communication,15,0.19709392816604665,Sector
+Olmsted,Trade,89,0.002304001200567951,Sector
+Olmsted,Business_Services,1,0.4325598117136151,Sector
+Olmsted,Business_Products,53,0.6038204441663981,Sector
+Olmsted,Construction,91,0.15024010062831405,Sector
+Olmsted,Services,28,0.29241636817318317,Sector
+Olmsted,Mining,8,0.6182406804593324,Sector
+Olmsted,Health_Care,58,0.981079054832262,Sector
+Olmsted,EnergyExpL_Prod,81,0.7146498332645391,Sector
+Olmsted,Utilities,86,0.43468389904220717,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Caribou,520,0.5560326528843745,Overall
+Caribou,HiTech,16,0.9518970615710329,Sector
+Caribou,Agriculture,41,0.2517006735257137,Sector
+Caribou,Transportation,5,0.3227004544770653,Sector
+Caribou,Consumer_Products,18,0.861482206729869,Sector
+Caribou,Unassigned,86,0.8971095255827113,Sector
+Caribou,Communication,33,0.10812848035431832,Sector
+Caribou,Trade,87,0.34167333581732007,Sector
+Caribou,Business_Services,2,0.2794131732187909,Sector
+Caribou,Business_Products,56,0.8111857782554714,Sector
+Caribou,Construction,33,0.737787193069883,Sector
+Caribou,Services,36,0.1084039979504573,Sector
+Caribou,Mining,7,0.4675978580691116,Sector
+Caribou,Health_Care,75,0.3398763723491943,Sector
+Caribou,EnergyExpL_Prod,17,0.9699646543935058,Sector
+Caribou,Utilities,8,0.8915690279011744,Sector

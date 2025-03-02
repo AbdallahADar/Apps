@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Kiel, Kreisfreie Stadt",826,0.5272246530977605,Overall
+"Kiel, Kreisfreie Stadt",HiTech,13,0.8610405338344449,Sector
+"Kiel, Kreisfreie Stadt",Agriculture,76,0.7038961105625225,Sector
+"Kiel, Kreisfreie Stadt",Transportation,9,0.3899000402377202,Sector
+"Kiel, Kreisfreie Stadt",Consumer_Products,92,0.2711048873420403,Sector
+"Kiel, Kreisfreie Stadt",Unassigned,55,0.0984996368159089,Sector
+"Kiel, Kreisfreie Stadt",Communication,69,0.5755851761494482,Sector
+"Kiel, Kreisfreie Stadt",Trade,88,0.6345739976116578,Sector
+"Kiel, Kreisfreie Stadt",Business_Services,93,0.1973363847499524,Sector
+"Kiel, Kreisfreie Stadt",Business_Products,27,0.7459997787494461,Sector
+"Kiel, Kreisfreie Stadt",Construction,86,0.625735266691775,Sector
+"Kiel, Kreisfreie Stadt",Services,54,0.6815583670825864,Sector
+"Kiel, Kreisfreie Stadt",Mining,59,0.7447772924107248,Sector
+"Kiel, Kreisfreie Stadt",Health_Care,5,0.7221984847929933,Sector
+"Kiel, Kreisfreie Stadt",EnergyExpL_Prod,97,0.6132529554652401,Sector
+"Kiel, Kreisfreie Stadt",Utilities,3,0.04291088396994491,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McKean,898,0.48012011531247717,Overall
+McKean,HiTech,95,0.6792752557038606,Sector
+McKean,Agriculture,73,0.3142672765327348,Sector
+McKean,Transportation,13,0.5806981325364038,Sector
+McKean,Consumer_Products,87,0.276069381706766,Sector
+McKean,Unassigned,68,0.7598998261883579,Sector
+McKean,Communication,61,0.3105228975785761,Sector
+McKean,Trade,87,0.4732495918490567,Sector
+McKean,Business_Services,99,0.37498274067569637,Sector
+McKean,Business_Products,31,0.05432723836004982,Sector
+McKean,Construction,45,0.7656011999454198,Sector
+McKean,Services,11,0.6580262440705328,Sector
+McKean,Mining,13,0.18145361602623966,Sector
+McKean,Health_Care,61,0.6459099842445506,Sector
+McKean,EnergyExpL_Prod,70,0.36142576278051897,Sector
+McKean,Utilities,84,0.7660925814883941,Sector

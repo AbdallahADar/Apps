@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Menominee,750,0.5178603721697225,Overall
+Menominee,HiTech,48,0.8245418328545195,Sector
+Menominee,Agriculture,1,0.5746510501989031,Sector
+Menominee,Transportation,64,0.5961570034558252,Sector
+Menominee,Consumer_Products,68,0.727082891990677,Sector
+Menominee,Unassigned,77,0.46805174727783894,Sector
+Menominee,Communication,72,0.23399531828538267,Sector
+Menominee,Trade,59,0.07790296549120068,Sector
+Menominee,Business_Services,46,0.8719866361298882,Sector
+Menominee,Business_Products,55,0.3434461179714038,Sector
+Menominee,Construction,21,0.018596932629596274,Sector
+Menominee,Services,47,0.5876295991892752,Sector
+Menominee,Mining,15,0.20872264953636777,Sector
+Menominee,Health_Care,99,0.8078101682735123,Sector
+Menominee,EnergyExpL_Prod,54,0.597833384095171,Sector
+Menominee,Utilities,24,0.8294972851662741,Sector

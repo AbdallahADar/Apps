@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,West Feliciana,878,0.6676987649857806,Overall
+West Feliciana,HiTech,65,0.6056603162423564,Sector
+West Feliciana,Agriculture,65,0.020636150202398063,Sector
+West Feliciana,Transportation,98,0.38402090553120005,Sector
+West Feliciana,Consumer_Products,8,0.44775129244945655,Sector
+West Feliciana,Unassigned,37,0.7754043612333854,Sector
+West Feliciana,Communication,38,0.9849247888829746,Sector
+West Feliciana,Trade,30,0.6602554214601533,Sector
+West Feliciana,Business_Services,60,0.5618107920781419,Sector
+West Feliciana,Business_Products,88,0.7814656679549287,Sector
+West Feliciana,Construction,47,0.45840302169297864,Sector
+West Feliciana,Services,74,0.897458074208845,Sector
+West Feliciana,Mining,73,0.7697322638936667,Sector
+West Feliciana,Health_Care,78,0.8978781713939009,Sector
+West Feliciana,EnergyExpL_Prod,28,0.9364358591548264,Sector
+West Feliciana,Utilities,89,0.8336443884074953,Sector

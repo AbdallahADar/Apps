@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Brantley,896,0.538636391631768,Overall
+Brantley,HiTech,68,0.7952665291685407,Sector
+Brantley,Agriculture,52,0.9783237877993556,Sector
+Brantley,Transportation,89,0.836129636127912,Sector
+Brantley,Consumer_Products,29,0.46777631540537523,Sector
+Brantley,Unassigned,73,0.7533923845972101,Sector
+Brantley,Communication,83,0.982552534790253,Sector
+Brantley,Trade,22,0.2502564986642348,Sector
+Brantley,Business_Services,16,0.9194089084251132,Sector
+Brantley,Business_Products,48,0.1800745463414265,Sector
+Brantley,Construction,31,0.6800108346265945,Sector
+Brantley,Services,90,0.1402948657649159,Sector
+Brantley,Mining,30,0.2911897305261152,Sector
+Brantley,Health_Care,78,0.25455351840859386,Sector
+Brantley,EnergyExpL_Prod,95,0.06398369606796206,Sector
+Brantley,Utilities,92,0.48633208776291736,Sector

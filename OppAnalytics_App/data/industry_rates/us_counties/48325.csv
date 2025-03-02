@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Medina,835,0.5759643711530181,Overall
+Medina,HiTech,8,0.8298268394948225,Sector
+Medina,Agriculture,96,0.8466924947330021,Sector
+Medina,Transportation,56,0.6515150455878153,Sector
+Medina,Consumer_Products,30,0.27602549030602785,Sector
+Medina,Unassigned,51,0.6329453921833715,Sector
+Medina,Communication,92,0.35585909623231216,Sector
+Medina,Trade,2,0.8910718596376666,Sector
+Medina,Business_Services,98,0.9925062495349672,Sector
+Medina,Business_Products,43,0.4305746635979578,Sector
+Medina,Construction,93,0.08157025780162641,Sector
+Medina,Services,82,0.7322336649010022,Sector
+Medina,Mining,96,0.14474335716955966,Sector
+Medina,Health_Care,7,0.719140864701456,Sector
+Medina,EnergyExpL_Prod,50,0.19975247221564052,Sector
+Medina,Utilities,31,0.8550078191980457,Sector

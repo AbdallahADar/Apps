@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Amador,811,0.5715239073274165,Overall
+Amador,HiTech,96,0.9377098331275721,Sector
+Amador,Agriculture,43,0.07663855256942254,Sector
+Amador,Transportation,84,0.7348311951793279,Sector
+Amador,Consumer_Products,30,0.8764522539779565,Sector
+Amador,Unassigned,45,0.1973777359367883,Sector
+Amador,Communication,27,0.8600549465549692,Sector
+Amador,Trade,81,0.8335923207976433,Sector
+Amador,Business_Services,6,0.03521622943710623,Sector
+Amador,Business_Products,49,0.8053140721578644,Sector
+Amador,Construction,55,0.7777277963212381,Sector
+Amador,Services,73,0.4475004651280411,Sector
+Amador,Mining,38,0.5140261849503736,Sector
+Amador,Health_Care,80,0.4894119033047206,Sector
+Amador,EnergyExpL_Prod,93,0.002220679769826317,Sector
+Amador,Utilities,11,0.9847844406983985,Sector

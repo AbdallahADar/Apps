@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cádiz,713,0.38058679827814235,Overall
+Cádiz,HiTech,45,0.6486761955249659,Sector
+Cádiz,Agriculture,74,0.2271985192383411,Sector
+Cádiz,Transportation,21,0.9209775882166644,Sector
+Cádiz,Consumer_Products,68,0.08230644097957163,Sector
+Cádiz,Unassigned,32,0.5786351893858267,Sector
+Cádiz,Communication,82,0.6204280909704064,Sector
+Cádiz,Trade,12,0.18667359169499131,Sector
+Cádiz,Business_Services,35,0.14959141273164434,Sector
+Cádiz,Business_Products,25,0.4854614839060648,Sector
+Cádiz,Construction,30,0.2491682925533415,Sector
+Cádiz,Services,55,0.22086924656783247,Sector
+Cádiz,Mining,95,0.1972358351258594,Sector
+Cádiz,Health_Care,69,0.23576042576337086,Sector
+Cádiz,EnergyExpL_Prod,13,0.013619107192852642,Sector
+Cádiz,Utilities,57,0.892200554320403,Sector

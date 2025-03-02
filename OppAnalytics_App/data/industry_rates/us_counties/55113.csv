@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sawyer,744,0.4278481711981758,Overall
+Sawyer,HiTech,90,0.25449742891934457,Sector
+Sawyer,Agriculture,52,0.7350162018413483,Sector
+Sawyer,Transportation,96,0.542544209043045,Sector
+Sawyer,Consumer_Products,51,0.9291559188013101,Sector
+Sawyer,Unassigned,59,0.4430463012618976,Sector
+Sawyer,Communication,14,0.8203881152399191,Sector
+Sawyer,Trade,29,0.24948615254995432,Sector
+Sawyer,Business_Services,71,0.052260767198621494,Sector
+Sawyer,Business_Products,78,0.25486872259698456,Sector
+Sawyer,Construction,6,0.05755982823270667,Sector
+Sawyer,Services,27,0.39448486119758874,Sector
+Sawyer,Mining,27,0.8847414519510239,Sector
+Sawyer,Health_Care,55,0.4699230588909441,Sector
+Sawyer,EnergyExpL_Prod,81,0.0679030179655008,Sector
+Sawyer,Utilities,8,0.26184653228244736,Sector

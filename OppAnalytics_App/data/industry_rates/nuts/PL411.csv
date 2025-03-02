@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pilski,688,0.5056061454280615,Overall
+Pilski,HiTech,45,0.15622704346178884,Sector
+Pilski,Agriculture,34,0.5005715099471213,Sector
+Pilski,Transportation,76,0.735325497057658,Sector
+Pilski,Consumer_Products,21,0.12876103628190105,Sector
+Pilski,Unassigned,46,0.9366322755034393,Sector
+Pilski,Communication,69,0.6999350262468841,Sector
+Pilski,Trade,76,0.15399465862468564,Sector
+Pilski,Business_Services,23,0.6327386335510853,Sector
+Pilski,Business_Products,1,0.6640362047503903,Sector
+Pilski,Construction,38,0.13657188781740115,Sector
+Pilski,Services,60,0.03550910129471463,Sector
+Pilski,Mining,13,0.9618305315964683,Sector
+Pilski,Health_Care,7,0.33737738236314174,Sector
+Pilski,EnergyExpL_Prod,85,0.5312267215875205,Sector
+Pilski,Utilities,94,0.9733546713367228,Sector

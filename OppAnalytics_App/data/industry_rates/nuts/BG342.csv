@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sliven,829,0.47013615243701395,Overall
+Sliven,HiTech,44,0.6173269959888571,Sector
+Sliven,Agriculture,14,0.3093790963255483,Sector
+Sliven,Transportation,83,0.37342979861940095,Sector
+Sliven,Consumer_Products,58,0.025319904290661,Sector
+Sliven,Unassigned,43,0.5926093173200725,Sector
+Sliven,Communication,95,0.8875205076419224,Sector
+Sliven,Trade,1,0.037118945815661,Sector
+Sliven,Business_Services,33,0.5515594634521487,Sector
+Sliven,Business_Products,10,0.06311025094095701,Sector
+Sliven,Construction,91,0.7837068697673741,Sector
+Sliven,Services,4,0.20232572265627435,Sector
+Sliven,Mining,82,0.7636843533013314,Sector
+Sliven,Health_Care,87,0.8722719171751613,Sector
+Sliven,EnergyExpL_Prod,85,0.8929896188725595,Sector
+Sliven,Utilities,99,0.07968952438727861,Sector

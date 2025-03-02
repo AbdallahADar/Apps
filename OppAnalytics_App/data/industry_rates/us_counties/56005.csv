@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Campbell,684,0.4470875416591136,Overall
+Campbell,HiTech,5,0.38720580626995993,Sector
+Campbell,Agriculture,66,0.6833429919894506,Sector
+Campbell,Transportation,89,0.5750172415366535,Sector
+Campbell,Consumer_Products,94,0.07778889566417291,Sector
+Campbell,Unassigned,28,0.20653586027839088,Sector
+Campbell,Communication,19,0.6910215500615146,Sector
+Campbell,Trade,65,0.3563281402988193,Sector
+Campbell,Business_Services,35,0.6919802957172773,Sector
+Campbell,Business_Products,38,0.47204148020745107,Sector
+Campbell,Construction,3,0.449442467723692,Sector
+Campbell,Services,56,0.8132462109555539,Sector
+Campbell,Mining,39,0.3349538422832332,Sector
+Campbell,Health_Care,84,0.6846361197382878,Sector
+Campbell,EnergyExpL_Prod,30,0.13875354316331656,Sector
+Campbell,Utilities,33,0.14401867899893006,Sector

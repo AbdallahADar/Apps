@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pope,955,0.368887549403632,Overall
+Pope,HiTech,73,0.058588837256065895,Sector
+Pope,Agriculture,91,0.6534640159907785,Sector
+Pope,Transportation,49,0.1360947736122765,Sector
+Pope,Consumer_Products,85,0.6250576677521484,Sector
+Pope,Unassigned,1,0.13398075910596097,Sector
+Pope,Communication,97,0.3266165074806514,Sector
+Pope,Trade,0,0.7308034752252628,Sector
+Pope,Business_Services,97,0.7502314651139081,Sector
+Pope,Business_Products,88,0.3077693757392137,Sector
+Pope,Construction,92,0.054122094904714424,Sector
+Pope,Services,10,0.44772546796218204,Sector
+Pope,Mining,67,0.6239333832008443,Sector
+Pope,Health_Care,57,0.00021458913303085136,Sector
+Pope,EnergyExpL_Prod,86,0.6459653328056356,Sector
+Pope,Utilities,62,0.03874549577180597,Sector

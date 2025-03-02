@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pima,605,0.483539125727147,Overall
+Pima,HiTech,18,0.2001932772828744,Sector
+Pima,Agriculture,94,0.810677990473277,Sector
+Pima,Transportation,24,0.3818634706623595,Sector
+Pima,Consumer_Products,53,0.19277373725263658,Sector
+Pima,Unassigned,57,0.7941023670239884,Sector
+Pima,Communication,55,0.8965477968252663,Sector
+Pima,Trade,15,0.92435397326243,Sector
+Pima,Business_Services,2,0.03249145724107516,Sector
+Pima,Business_Products,42,0.9528207619097089,Sector
+Pima,Construction,58,0.5150595870087585,Sector
+Pima,Services,3,0.7085407165020781,Sector
+Pima,Mining,5,0.2503107159953699,Sector
+Pima,Health_Care,33,0.16431006981964613,Sector
+Pima,EnergyExpL_Prod,79,0.19647816168423748,Sector
+Pima,Utilities,67,0.23256280296349763,Sector

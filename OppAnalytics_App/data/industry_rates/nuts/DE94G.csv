@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wesermarsch,690,0.35315032110510053,Overall
+Wesermarsch,HiTech,24,0.07463002336321589,Sector
+Wesermarsch,Agriculture,76,0.7813049545006803,Sector
+Wesermarsch,Transportation,88,0.6723558756216939,Sector
+Wesermarsch,Consumer_Products,88,0.05437200845513945,Sector
+Wesermarsch,Unassigned,19,0.14797019279085522,Sector
+Wesermarsch,Communication,43,0.9253830773681365,Sector
+Wesermarsch,Trade,26,0.2298151190985106,Sector
+Wesermarsch,Business_Services,17,0.3128787431250315,Sector
+Wesermarsch,Business_Products,15,0.0016912726059178373,Sector
+Wesermarsch,Construction,71,0.2202347521600858,Sector
+Wesermarsch,Services,40,0.5080943224627491,Sector
+Wesermarsch,Mining,83,0.21387251822202613,Sector
+Wesermarsch,Health_Care,74,0.6403698117183915,Sector
+Wesermarsch,EnergyExpL_Prod,23,0.30797348551549075,Sector
+Wesermarsch,Utilities,3,0.20630865956858402,Sector

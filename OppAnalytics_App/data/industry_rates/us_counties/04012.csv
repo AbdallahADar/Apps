@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,La Paz,734,0.4563912966595457,Overall
+La Paz,HiTech,65,0.3498209355316584,Sector
+La Paz,Agriculture,0,0.6625250228742465,Sector
+La Paz,Transportation,33,0.7359297705683211,Sector
+La Paz,Consumer_Products,44,0.21521602731396683,Sector
+La Paz,Unassigned,48,0.8258857680433083,Sector
+La Paz,Communication,39,0.14735135415404543,Sector
+La Paz,Trade,43,0.875108891068389,Sector
+La Paz,Business_Services,64,0.5901289869154587,Sector
+La Paz,Business_Products,4,0.8217882391130449,Sector
+La Paz,Construction,91,0.08158518196643672,Sector
+La Paz,Services,69,0.0962057840870868,Sector
+La Paz,Mining,95,0.3946049384347331,Sector
+La Paz,Health_Care,10,0.6391005697350538,Sector
+La Paz,EnergyExpL_Prod,45,0.4095637229848982,Sector
+La Paz,Utilities,84,0.0010542571025380365,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Heinsberg,822,0.6354590592949839,Overall
+Heinsberg,HiTech,18,0.6844905749346535,Sector
+Heinsberg,Agriculture,99,0.13450557269405383,Sector
+Heinsberg,Transportation,93,0.7969312238286614,Sector
+Heinsberg,Consumer_Products,59,0.8134463472885795,Sector
+Heinsberg,Unassigned,73,0.425977266844381,Sector
+Heinsberg,Communication,62,0.24761674343752205,Sector
+Heinsberg,Trade,13,0.8480735097011844,Sector
+Heinsberg,Business_Services,61,0.7214229420816826,Sector
+Heinsberg,Business_Products,48,0.7735017329243732,Sector
+Heinsberg,Construction,25,0.520847333441428,Sector
+Heinsberg,Services,66,0.695092845124074,Sector
+Heinsberg,Mining,81,0.5017508632266305,Sector
+Heinsberg,Health_Care,21,0.8397622412501712,Sector
+Heinsberg,EnergyExpL_Prod,64,0.8949007280015722,Sector
+Heinsberg,Utilities,39,0.6335659646457927,Sector

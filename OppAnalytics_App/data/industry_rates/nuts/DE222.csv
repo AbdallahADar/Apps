@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Passau, Kreisfreie Stadt",678,0.49726543546700186,Overall
+"Passau, Kreisfreie Stadt",HiTech,63,0.18971407697566256,Sector
+"Passau, Kreisfreie Stadt",Agriculture,61,0.570313680512348,Sector
+"Passau, Kreisfreie Stadt",Transportation,79,0.1607194375013392,Sector
+"Passau, Kreisfreie Stadt",Consumer_Products,77,0.8527664672620833,Sector
+"Passau, Kreisfreie Stadt",Unassigned,96,0.35946884618106156,Sector
+"Passau, Kreisfreie Stadt",Communication,34,0.7071219267711187,Sector
+"Passau, Kreisfreie Stadt",Trade,4,0.9100574862975309,Sector
+"Passau, Kreisfreie Stadt",Business_Services,19,0.48134220947305073,Sector
+"Passau, Kreisfreie Stadt",Business_Products,26,0.7846121885179008,Sector
+"Passau, Kreisfreie Stadt",Construction,34,0.029066864900477718,Sector
+"Passau, Kreisfreie Stadt",Services,72,0.7390808023683824,Sector
+"Passau, Kreisfreie Stadt",Mining,38,0.4537990263663584,Sector
+"Passau, Kreisfreie Stadt",Health_Care,0,0.8151634085752224,Sector
+"Passau, Kreisfreie Stadt",EnergyExpL_Prod,60,0.3977717451549382,Sector
+"Passau, Kreisfreie Stadt",Utilities,15,0.007983365147554267,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Denton,815,0.6244839942228054,Overall
+Denton,HiTech,28,0.267608483352867,Sector
+Denton,Agriculture,5,0.990608697651147,Sector
+Denton,Transportation,75,0.6421580984888302,Sector
+Denton,Consumer_Products,35,0.5484182357719913,Sector
+Denton,Unassigned,62,0.9780186239403031,Sector
+Denton,Communication,40,0.07074532019223512,Sector
+Denton,Trade,34,0.5659834545416216,Sector
+Denton,Business_Services,97,0.32439070203068454,Sector
+Denton,Business_Products,80,0.8827607666848395,Sector
+Denton,Construction,42,0.2232034139049548,Sector
+Denton,Services,53,0.956484339117182,Sector
+Denton,Mining,99,0.8333477940319812,Sector
+Denton,Health_Care,63,0.7006967916757867,Sector
+Denton,EnergyExpL_Prod,81,0.9809904416219067,Sector
+Denton,Utilities,21,0.4018447503357514,Sector

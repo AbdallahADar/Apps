@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Laramie,723,0.40199576065168435,Overall
+Laramie,HiTech,15,0.3873367034585027,Sector
+Laramie,Agriculture,86,0.22663492590400536,Sector
+Laramie,Transportation,65,0.18872687741853755,Sector
+Laramie,Consumer_Products,64,0.24726863961384216,Sector
+Laramie,Unassigned,16,0.7133321406969415,Sector
+Laramie,Communication,21,0.742544240471306,Sector
+Laramie,Trade,3,0.1802632869033094,Sector
+Laramie,Business_Services,94,0.10775652140027703,Sector
+Laramie,Business_Products,50,0.17883917678475003,Sector
+Laramie,Construction,54,0.4846450501740319,Sector
+Laramie,Services,25,0.5820322912369826,Sector
+Laramie,Mining,33,0.30710363733022383,Sector
+Laramie,Health_Care,47,0.9823565269283387,Sector
+Laramie,EnergyExpL_Prod,80,0.0735161620220528,Sector
+Laramie,Utilities,70,0.6275802294321637,Sector

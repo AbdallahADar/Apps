@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Goodhue,746,0.3687216294899376,Overall
+Goodhue,HiTech,61,0.004517947945743228,Sector
+Goodhue,Agriculture,30,0.3090381036798341,Sector
+Goodhue,Transportation,69,0.18910672132357065,Sector
+Goodhue,Consumer_Products,62,0.8232907119947842,Sector
+Goodhue,Unassigned,19,0.165579579562121,Sector
+Goodhue,Communication,28,0.37422116085590174,Sector
+Goodhue,Trade,86,0.08138696488708896,Sector
+Goodhue,Business_Services,2,0.45795953164350356,Sector
+Goodhue,Business_Products,62,0.4439341792640512,Sector
+Goodhue,Construction,87,0.13274901847321963,Sector
+Goodhue,Services,22,0.28676179380799893,Sector
+Goodhue,Mining,50,0.7777824199027351,Sector
+Goodhue,Health_Care,93,0.878371928759795,Sector
+Goodhue,EnergyExpL_Prod,13,0.08428989724195424,Sector
+Goodhue,Utilities,62,0.521834483006762,Sector

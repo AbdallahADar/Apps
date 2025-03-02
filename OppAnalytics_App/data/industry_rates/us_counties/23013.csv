@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Knox,827,0.5562286071119584,Overall
+Knox,HiTech,36,0.8761996908928527,Sector
+Knox,Agriculture,10,0.810500872930488,Sector
+Knox,Transportation,88,0.5111465477037873,Sector
+Knox,Consumer_Products,35,0.13003314779382003,Sector
+Knox,Unassigned,90,0.17678398151547625,Sector
+Knox,Communication,6,0.6329483746536244,Sector
+Knox,Trade,31,0.018950134684351028,Sector
+Knox,Business_Services,87,0.8171179859984977,Sector
+Knox,Business_Products,80,0.5486504150462261,Sector
+Knox,Construction,91,0.7669561500943173,Sector
+Knox,Services,74,0.9334416790655985,Sector
+Knox,Mining,79,0.8483034441418643,Sector
+Knox,Health_Care,3,0.03404279153437462,Sector
+Knox,EnergyExpL_Prod,88,0.8203421247065165,Sector
+Knox,Utilities,29,0.4180117659175827,Sector

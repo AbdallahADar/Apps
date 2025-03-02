@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,St. Bernard,604,0.5203788684757471,Overall
+St. Bernard,HiTech,45,0.7341194434669118,Sector
+St. Bernard,Agriculture,13,0.8506878922500382,Sector
+St. Bernard,Transportation,98,0.6814270925308613,Sector
+St. Bernard,Consumer_Products,26,0.2466113808721797,Sector
+St. Bernard,Unassigned,18,0.5042003846553756,Sector
+St. Bernard,Communication,4,0.022029616462509005,Sector
+St. Bernard,Trade,74,0.9570873712392235,Sector
+St. Bernard,Business_Services,11,0.5754421970081831,Sector
+St. Bernard,Business_Products,38,0.015898181612574058,Sector
+St. Bernard,Construction,11,0.6146338205201717,Sector
+St. Bernard,Services,22,0.9582714417099434,Sector
+St. Bernard,Mining,44,0.7567875226967955,Sector
+St. Bernard,Health_Care,72,0.22277507128592966,Sector
+St. Bernard,EnergyExpL_Prod,76,0.07731464372481467,Sector
+St. Bernard,Utilities,52,0.5883969671006964,Sector

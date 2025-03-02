@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Carbon,687,0.44409599728064925,Overall
+Carbon,HiTech,21,0.4758620647716545,Sector
+Carbon,Agriculture,89,0.3318434423050375,Sector
+Carbon,Transportation,27,0.3443404135915997,Sector
+Carbon,Consumer_Products,0,0.07118307079711561,Sector
+Carbon,Unassigned,67,0.3020365668917525,Sector
+Carbon,Communication,85,0.40236000656735227,Sector
+Carbon,Trade,92,0.07583770903934028,Sector
+Carbon,Business_Services,1,0.49903182087416087,Sector
+Carbon,Business_Products,80,0.5800262651614739,Sector
+Carbon,Construction,10,0.6696491864519967,Sector
+Carbon,Services,10,0.3273082119523928,Sector
+Carbon,Mining,65,0.8570372213425853,Sector
+Carbon,Health_Care,17,0.031404625213900084,Sector
+Carbon,EnergyExpL_Prod,88,0.9274894128885174,Sector
+Carbon,Utilities,35,0.7660299413608587,Sector

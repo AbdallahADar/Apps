@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bourbon,859,0.38395626532433763,Overall
+Bourbon,HiTech,62,0.07646279285017077,Sector
+Bourbon,Agriculture,57,0.45113618753918006,Sector
+Bourbon,Transportation,56,0.3189614101270585,Sector
+Bourbon,Consumer_Products,82,0.7355880745468175,Sector
+Bourbon,Unassigned,79,0.8300436275152162,Sector
+Bourbon,Communication,91,0.36687812768105943,Sector
+Bourbon,Trade,24,0.2804956004265404,Sector
+Bourbon,Business_Services,93,0.6623196912505791,Sector
+Bourbon,Business_Products,95,0.04976438408239736,Sector
+Bourbon,Construction,13,0.5204266389967074,Sector
+Bourbon,Services,42,0.28840958198010225,Sector
+Bourbon,Mining,43,0.3147125277804551,Sector
+Bourbon,Health_Care,78,0.6630804064071704,Sector
+Bourbon,EnergyExpL_Prod,30,0.11924412987262067,Sector
+Bourbon,Utilities,14,0.08182079880899007,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jefferson,869,0.5065877498622082,Overall
+Jefferson,HiTech,67,0.3820230138594025,Sector
+Jefferson,Agriculture,23,0.04837398555264261,Sector
+Jefferson,Transportation,68,0.07021815860422287,Sector
+Jefferson,Consumer_Products,98,0.6635973259265737,Sector
+Jefferson,Unassigned,7,0.9825244226709466,Sector
+Jefferson,Communication,97,0.9370177282662997,Sector
+Jefferson,Trade,17,0.3033677352729566,Sector
+Jefferson,Business_Services,65,0.7363399589368063,Sector
+Jefferson,Business_Products,78,0.34633181137747526,Sector
+Jefferson,Construction,66,0.48682737267107024,Sector
+Jefferson,Services,53,0.9318452189368824,Sector
+Jefferson,Mining,83,0.2424886162142713,Sector
+Jefferson,Health_Care,19,0.3952436180438429,Sector
+Jefferson,EnergyExpL_Prod,37,0.07625243708169949,Sector
+Jefferson,Utilities,91,0.9963648445180326,Sector

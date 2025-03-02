@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Etelä-Savo,954,0.5182319820536427,Overall
+Etelä-Savo,HiTech,85,0.6758125878379607,Sector
+Etelä-Savo,Agriculture,51,0.8295120731718428,Sector
+Etelä-Savo,Transportation,78,0.8963263674936618,Sector
+Etelä-Savo,Consumer_Products,71,0.5178146721692743,Sector
+Etelä-Savo,Unassigned,20,0.12015302306746367,Sector
+Etelä-Savo,Communication,46,0.8734659675996784,Sector
+Etelä-Savo,Trade,93,0.19509954126994689,Sector
+Etelä-Savo,Business_Services,71,0.31389580290078767,Sector
+Etelä-Savo,Business_Products,82,0.27811052714756623,Sector
+Etelä-Savo,Construction,63,0.0036206281535351437,Sector
+Etelä-Savo,Services,62,0.981619695632125,Sector
+Etelä-Savo,Mining,50,0.5932856337865896,Sector
+Etelä-Savo,Health_Care,69,0.25382958762027164,Sector
+Etelä-Savo,EnergyExpL_Prod,28,0.6698653797749993,Sector
+Etelä-Savo,Utilities,85,0.5710682431789375,Sector

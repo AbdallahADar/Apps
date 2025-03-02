@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sharkey,805,0.6437555034399931,Overall
+Sharkey,HiTech,45,0.8096524540219757,Sector
+Sharkey,Agriculture,79,0.4394226007659896,Sector
+Sharkey,Transportation,90,0.2291687603634298,Sector
+Sharkey,Consumer_Products,20,0.8141326430624006,Sector
+Sharkey,Unassigned,4,0.47527375617005363,Sector
+Sharkey,Communication,74,0.8001636771595524,Sector
+Sharkey,Trade,70,0.5871866549698744,Sector
+Sharkey,Business_Services,26,0.8188531745024619,Sector
+Sharkey,Business_Products,22,0.8060352433897044,Sector
+Sharkey,Construction,35,0.8562653189933286,Sector
+Sharkey,Services,22,0.3940928751433468,Sector
+Sharkey,Mining,93,0.9273641858009185,Sector
+Sharkey,Health_Care,68,0.999572140037527,Sector
+Sharkey,EnergyExpL_Prod,87,0.05316482473921713,Sector
+Sharkey,Utilities,70,0.6459842424801165,Sector

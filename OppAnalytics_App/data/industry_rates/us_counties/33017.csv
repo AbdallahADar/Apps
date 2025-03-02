@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Strafford,837,0.5227394789995724,Overall
+Strafford,HiTech,26,0.866998965746374,Sector
+Strafford,Agriculture,74,0.07649409617727121,Sector
+Strafford,Transportation,94,0.2181937193027661,Sector
+Strafford,Consumer_Products,4,0.7888251083348985,Sector
+Strafford,Unassigned,17,0.7118445000694885,Sector
+Strafford,Communication,91,0.7761434721286397,Sector
+Strafford,Trade,50,0.46343659703165496,Sector
+Strafford,Business_Services,40,0.6854804534253638,Sector
+Strafford,Business_Products,89,0.5875578041475805,Sector
+Strafford,Construction,32,0.5823351169159535,Sector
+Strafford,Services,66,0.1676669943921485,Sector
+Strafford,Mining,19,0.9759368383504953,Sector
+Strafford,Health_Care,72,0.17926077122141038,Sector
+Strafford,EnergyExpL_Prod,79,0.6218702379262877,Sector
+Strafford,Utilities,84,0.13904750982325154,Sector

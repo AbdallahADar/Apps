@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Terrell,715,0.4639389288172129,Overall
+Terrell,HiTech,45,0.5738903333762212,Sector
+Terrell,Agriculture,35,0.5453664441831242,Sector
+Terrell,Transportation,76,0.14862292463485172,Sector
+Terrell,Consumer_Products,64,0.37350255024308077,Sector
+Terrell,Unassigned,25,0.2175424927678954,Sector
+Terrell,Communication,47,0.9459699524255677,Sector
+Terrell,Trade,37,0.9648321221181881,Sector
+Terrell,Business_Services,35,0.7020344302344174,Sector
+Terrell,Business_Products,82,0.8269048069936199,Sector
+Terrell,Construction,13,0.03783406230196118,Sector
+Terrell,Services,27,0.07581338310233021,Sector
+Terrell,Mining,38,0.33159348309646486,Sector
+Terrell,Health_Care,54,0.10329391674941879,Sector
+Terrell,EnergyExpL_Prod,77,0.6529396819838893,Sector
+Terrell,Utilities,60,0.4589433480471611,Sector

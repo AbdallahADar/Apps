@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Delmenhorst, Kreisfreie Stadt",527,0.49133726325296323,Overall
+"Delmenhorst, Kreisfreie Stadt",HiTech,8,0.3126419832499021,Sector
+"Delmenhorst, Kreisfreie Stadt",Agriculture,51,0.9432910195535308,Sector
+"Delmenhorst, Kreisfreie Stadt",Transportation,68,0.23554472678243088,Sector
+"Delmenhorst, Kreisfreie Stadt",Consumer_Products,37,0.3996937158974557,Sector
+"Delmenhorst, Kreisfreie Stadt",Unassigned,10,0.6365906424539929,Sector
+"Delmenhorst, Kreisfreie Stadt",Communication,21,0.9891490858756716,Sector
+"Delmenhorst, Kreisfreie Stadt",Trade,46,0.08935932577993833,Sector
+"Delmenhorst, Kreisfreie Stadt",Business_Services,9,0.5385159397138881,Sector
+"Delmenhorst, Kreisfreie Stadt",Business_Products,84,0.003375726002303625,Sector
+"Delmenhorst, Kreisfreie Stadt",Construction,51,0.23508956626417887,Sector
+"Delmenhorst, Kreisfreie Stadt",Services,23,0.7828312360977802,Sector
+"Delmenhorst, Kreisfreie Stadt",Mining,10,0.9076751342160257,Sector
+"Delmenhorst, Kreisfreie Stadt",Health_Care,9,0.11501565700545036,Sector
+"Delmenhorst, Kreisfreie Stadt",EnergyExpL_Prod,45,0.8344707995722422,Sector
+"Delmenhorst, Kreisfreie Stadt",Utilities,55,0.3468143903296558,Sector

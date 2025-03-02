@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tooele,684,0.4580358956972273,Overall
+Tooele,HiTech,63,0.131164783524376,Sector
+Tooele,Agriculture,72,0.6802154684937113,Sector
+Tooele,Transportation,3,0.20005394756758954,Sector
+Tooele,Consumer_Products,25,0.8192830400500528,Sector
+Tooele,Unassigned,56,0.07950262742056391,Sector
+Tooele,Communication,31,0.2494957160429212,Sector
+Tooele,Trade,55,0.06405917152992247,Sector
+Tooele,Business_Services,75,0.31018555747100784,Sector
+Tooele,Business_Products,97,0.7878293212985087,Sector
+Tooele,Construction,23,0.8852850128117564,Sector
+Tooele,Services,65,0.7268106805050597,Sector
+Tooele,Mining,76,0.8278623898290539,Sector
+Tooele,Health_Care,5,0.3299130389095227,Sector
+Tooele,EnergyExpL_Prod,15,0.4366392776017881,Sector
+Tooele,Utilities,23,0.3422384024025745,Sector

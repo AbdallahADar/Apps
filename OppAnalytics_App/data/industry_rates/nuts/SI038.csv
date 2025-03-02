@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Primorsko-notranjska,710,0.554197242202685,Overall
+Primorsko-notranjska,HiTech,78,0.8589848391766643,Sector
+Primorsko-notranjska,Agriculture,0,0.2635907455038303,Sector
+Primorsko-notranjska,Transportation,3,0.5631846206457444,Sector
+Primorsko-notranjska,Consumer_Products,25,0.6811993775030797,Sector
+Primorsko-notranjska,Unassigned,89,0.6879358967980809,Sector
+Primorsko-notranjska,Communication,52,0.42387562548326063,Sector
+Primorsko-notranjska,Trade,32,0.8119109121192353,Sector
+Primorsko-notranjska,Business_Services,68,0.7325555602114213,Sector
+Primorsko-notranjska,Business_Products,15,0.18843091071330087,Sector
+Primorsko-notranjska,Construction,97,0.8612321818355799,Sector
+Primorsko-notranjska,Services,90,0.7952080872792159,Sector
+Primorsko-notranjska,Mining,7,0.1614547262384184,Sector
+Primorsko-notranjska,Health_Care,43,0.603509728914544,Sector
+Primorsko-notranjska,EnergyExpL_Prod,24,0.5484320242806154,Sector
+Primorsko-notranjska,Utilities,87,0.1314533963372826,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lamar,811,0.5859947534955862,Overall
+Lamar,HiTech,30,0.7766241635771416,Sector
+Lamar,Agriculture,47,0.6018171917033696,Sector
+Lamar,Transportation,76,0.6097298344017492,Sector
+Lamar,Consumer_Products,90,0.24854950391972586,Sector
+Lamar,Unassigned,85,0.3484607317949092,Sector
+Lamar,Communication,15,0.7123642017500238,Sector
+Lamar,Trade,3,0.5272574286375146,Sector
+Lamar,Business_Services,68,0.04485562194769177,Sector
+Lamar,Business_Products,87,0.9331694760389564,Sector
+Lamar,Construction,45,0.5278886221280796,Sector
+Lamar,Services,78,0.9120359256153692,Sector
+Lamar,Mining,19,0.780612277906906,Sector
+Lamar,Health_Care,22,0.7109244195370369,Sector
+Lamar,EnergyExpL_Prod,82,0.4477312045965971,Sector
+Lamar,Utilities,64,0.6079006988787222,Sector

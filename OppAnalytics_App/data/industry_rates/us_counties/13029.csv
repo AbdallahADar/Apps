@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bryan,646,0.4550181878491431,Overall
+Bryan,HiTech,93,0.7504224324334849,Sector
+Bryan,Agriculture,31,0.484418925178026,Sector
+Bryan,Transportation,44,0.7112489718236369,Sector
+Bryan,Consumer_Products,44,0.8498172360554218,Sector
+Bryan,Unassigned,10,0.7395993960915491,Sector
+Bryan,Communication,70,0.11841327159314119,Sector
+Bryan,Trade,87,0.30688106530983006,Sector
+Bryan,Business_Services,30,0.8990828298350255,Sector
+Bryan,Business_Products,70,0.05136385013689304,Sector
+Bryan,Construction,6,0.7327683081556892,Sector
+Bryan,Services,2,0.17836393015664542,Sector
+Bryan,Mining,69,0.35540138856810477,Sector
+Bryan,Health_Care,6,0.365365542871399,Sector
+Bryan,EnergyExpL_Prod,64,0.15643039413421422,Sector
+Bryan,Utilities,20,0.12569527539408554,Sector

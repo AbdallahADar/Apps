@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Remscheid, Kreisfreie Stadt",559,0.47196094041397063,Overall
+"Remscheid, Kreisfreie Stadt",HiTech,6,0.040323037822715735,Sector
+"Remscheid, Kreisfreie Stadt",Agriculture,71,0.47498672855167945,Sector
+"Remscheid, Kreisfreie Stadt",Transportation,66,0.26909617863812507,Sector
+"Remscheid, Kreisfreie Stadt",Consumer_Products,41,0.7667264927968359,Sector
+"Remscheid, Kreisfreie Stadt",Unassigned,36,0.2127477841372012,Sector
+"Remscheid, Kreisfreie Stadt",Communication,15,0.7655772985135504,Sector
+"Remscheid, Kreisfreie Stadt",Trade,81,0.8881179750622248,Sector
+"Remscheid, Kreisfreie Stadt",Business_Services,30,0.5839757006300045,Sector
+"Remscheid, Kreisfreie Stadt",Business_Products,1,0.6999187520349852,Sector
+"Remscheid, Kreisfreie Stadt",Construction,10,0.8671540190713833,Sector
+"Remscheid, Kreisfreie Stadt",Services,84,0.4785869590282581,Sector
+"Remscheid, Kreisfreie Stadt",Mining,65,0.5697597794849366,Sector
+"Remscheid, Kreisfreie Stadt",Health_Care,3,0.011649186217157603,Sector
+"Remscheid, Kreisfreie Stadt",EnergyExpL_Prod,47,0.29277224864971263,Sector
+"Remscheid, Kreisfreie Stadt",Utilities,3,0.15802196557078896,Sector

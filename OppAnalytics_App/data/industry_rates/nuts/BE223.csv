@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Tongeren,764,0.4990049336870579,Overall
+Arr. Tongeren,HiTech,80,0.6950284661781049,Sector
+Arr. Tongeren,Agriculture,29,0.8248304198892685,Sector
+Arr. Tongeren,Transportation,13,0.3413784365838559,Sector
+Arr. Tongeren,Consumer_Products,31,0.03992560454250915,Sector
+Arr. Tongeren,Unassigned,41,0.06460323392357381,Sector
+Arr. Tongeren,Communication,99,0.5730665207908848,Sector
+Arr. Tongeren,Trade,57,0.34823802281226424,Sector
+Arr. Tongeren,Business_Services,53,0.01310376180642292,Sector
+Arr. Tongeren,Business_Products,42,0.8805238262950206,Sector
+Arr. Tongeren,Construction,53,0.9642663127386768,Sector
+Arr. Tongeren,Services,72,0.9479761016111253,Sector
+Arr. Tongeren,Mining,52,0.6737519650098169,Sector
+Arr. Tongeren,Health_Care,6,0.47570788110380113,Sector
+Arr. Tongeren,EnergyExpL_Prod,49,0.28474107755800093,Sector
+Arr. Tongeren,Utilities,87,0.3579323744625418,Sector

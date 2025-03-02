@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ravensburg,859,0.42227244752594106,Overall
+Ravensburg,HiTech,43,0.8297118460013427,Sector
+Ravensburg,Agriculture,46,0.43242750127010154,Sector
+Ravensburg,Transportation,72,0.4205487073471619,Sector
+Ravensburg,Consumer_Products,53,0.7541635160087102,Sector
+Ravensburg,Unassigned,77,0.38208046752339087,Sector
+Ravensburg,Communication,97,0.5552822771891068,Sector
+Ravensburg,Trade,12,0.694564017076108,Sector
+Ravensburg,Business_Services,1,0.059743229305208145,Sector
+Ravensburg,Business_Products,93,0.11912092183934198,Sector
+Ravensburg,Construction,41,0.2110094943936618,Sector
+Ravensburg,Services,41,0.06243063439483387,Sector
+Ravensburg,Mining,57,0.37439506108880394,Sector
+Ravensburg,Health_Care,99,0.07147057609531082,Sector
+Ravensburg,EnergyExpL_Prod,95,0.8160327580129809,Sector
+Ravensburg,Utilities,32,0.5511057053430525,Sector

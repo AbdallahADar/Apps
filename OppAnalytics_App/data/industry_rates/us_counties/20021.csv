@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cherokee,830,0.48896681022686506,Overall
+Cherokee,HiTech,22,0.13840110684518048,Sector
+Cherokee,Agriculture,39,0.21269402567412843,Sector
+Cherokee,Transportation,38,0.011061341390288137,Sector
+Cherokee,Consumer_Products,27,0.006560580401265614,Sector
+Cherokee,Unassigned,7,0.7652780369419212,Sector
+Cherokee,Communication,83,0.6906791544198493,Sector
+Cherokee,Trade,71,0.3674129449972141,Sector
+Cherokee,Business_Services,91,0.477274263491114,Sector
+Cherokee,Business_Products,99,0.7730849939676532,Sector
+Cherokee,Construction,28,0.32193597140990493,Sector
+Cherokee,Services,43,0.8882467584504964,Sector
+Cherokee,Mining,97,0.9889779637728089,Sector
+Cherokee,Health_Care,70,0.8142847495506675,Sector
+Cherokee,EnergyExpL_Prod,74,0.33739869067407113,Sector
+Cherokee,Utilities,41,0.5412115714164137,Sector

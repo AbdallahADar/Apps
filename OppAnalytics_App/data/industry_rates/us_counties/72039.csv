@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ciales,832,0.45493902987756274,Overall
+Ciales,HiTech,98,0.7847131055520943,Sector
+Ciales,Agriculture,88,0.34367308675909647,Sector
+Ciales,Transportation,8,0.1274408888075007,Sector
+Ciales,Consumer_Products,63,0.24092620814560262,Sector
+Ciales,Unassigned,51,0.4530628964583887,Sector
+Ciales,Communication,81,0.7613709403725166,Sector
+Ciales,Trade,59,0.7770224180911245,Sector
+Ciales,Business_Services,73,0.37989031967350373,Sector
+Ciales,Business_Products,21,0.710374445754515,Sector
+Ciales,Construction,32,0.29547807032608264,Sector
+Ciales,Services,60,0.023377776574413756,Sector
+Ciales,Mining,62,0.12637682345831214,Sector
+Ciales,Health_Care,71,0.25075554222843643,Sector
+Ciales,EnergyExpL_Prod,25,0.8836612378041504,Sector
+Ciales,Utilities,40,0.6659616881577026,Sector

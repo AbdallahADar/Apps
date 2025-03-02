@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Elko,844,0.5946997794136646,Overall
+Elko,HiTech,90,0.9299531681048393,Sector
+Elko,Agriculture,34,0.8898374448059699,Sector
+Elko,Transportation,57,0.7061728776264619,Sector
+Elko,Consumer_Products,94,0.5281889319806289,Sector
+Elko,Unassigned,74,0.4596943400172251,Sector
+Elko,Communication,96,0.5162676881067811,Sector
+Elko,Trade,17,0.7857911453430723,Sector
+Elko,Business_Services,65,0.7462630155729277,Sector
+Elko,Business_Products,96,0.17034087278837884,Sector
+Elko,Construction,19,0.9337099810830165,Sector
+Elko,Services,36,0.46640871867688327,Sector
+Elko,Mining,71,0.44010706237791763,Sector
+Elko,Health_Care,11,0.3920167988677945,Sector
+Elko,EnergyExpL_Prod,62,0.45470683671914813,Sector
+Elko,Utilities,22,0.5010378091339225,Sector

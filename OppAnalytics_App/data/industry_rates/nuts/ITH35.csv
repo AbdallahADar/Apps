@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Venezia,822,0.561365551783597,Overall
+Venezia,HiTech,33,0.3384835199958157,Sector
+Venezia,Agriculture,38,0.7675315530012892,Sector
+Venezia,Transportation,11,0.72382344485015,Sector
+Venezia,Consumer_Products,62,0.3612403038948967,Sector
+Venezia,Unassigned,6,0.9206761385826631,Sector
+Venezia,Communication,54,0.38435755118158077,Sector
+Venezia,Trade,75,0.9136617300487886,Sector
+Venezia,Business_Services,43,0.5140813346031785,Sector
+Venezia,Business_Products,82,0.9024788984358346,Sector
+Venezia,Construction,63,0.40807258537705715,Sector
+Venezia,Services,92,0.18950371274372546,Sector
+Venezia,Mining,79,0.39965689860741194,Sector
+Venezia,Health_Care,56,0.3106701007147443,Sector
+Venezia,EnergyExpL_Prod,29,0.8664704872254475,Sector
+Venezia,Utilities,99,0.4197750174913737,Sector

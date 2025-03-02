@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sanborn,788,0.5331618966500787,Overall
+Sanborn,HiTech,99,0.910434531974491,Sector
+Sanborn,Agriculture,99,0.05521508292868549,Sector
+Sanborn,Transportation,69,0.5812143574283348,Sector
+Sanborn,Consumer_Products,40,0.03154364655779618,Sector
+Sanborn,Unassigned,62,0.4117674941623637,Sector
+Sanborn,Communication,17,0.7303733472567682,Sector
+Sanborn,Trade,4,0.7146171775194672,Sector
+Sanborn,Business_Services,77,0.8874850132659885,Sector
+Sanborn,Business_Products,34,0.6977151208163408,Sector
+Sanborn,Construction,59,0.8541415076876584,Sector
+Sanborn,Services,93,0.8177357108883605,Sector
+Sanborn,Mining,10,0.5888254794412768,Sector
+Sanborn,Health_Care,66,0.2377940219235828,Sector
+Sanborn,EnergyExpL_Prod,0,0.24436620268212772,Sector
+Sanborn,Utilities,59,0.23419975521794012,Sector

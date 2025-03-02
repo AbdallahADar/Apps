@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bureau,858,0.49124141328022475,Overall
+Bureau,HiTech,66,0.9896658453865211,Sector
+Bureau,Agriculture,34,0.3685705936032925,Sector
+Bureau,Transportation,71,0.28256750111122464,Sector
+Bureau,Consumer_Products,89,0.9457111004684373,Sector
+Bureau,Unassigned,62,0.3856891896938275,Sector
+Bureau,Communication,23,0.7476133160049991,Sector
+Bureau,Trade,83,0.36213990824826514,Sector
+Bureau,Business_Services,39,0.7428127801053983,Sector
+Bureau,Business_Products,6,0.5758514495292485,Sector
+Bureau,Construction,66,0.13045456316476556,Sector
+Bureau,Services,88,0.12538814565248502,Sector
+Bureau,Mining,77,0.13356562115492565,Sector
+Bureau,Health_Care,62,0.2812399116397196,Sector
+Bureau,EnergyExpL_Prod,26,0.40042279305079087,Sector
+Bureau,Utilities,66,0.8969284803894707,Sector

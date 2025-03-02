@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pescara,491,0.4707942439519122,Overall
+Pescara,HiTech,24,0.2132219825859376,Sector
+Pescara,Agriculture,54,0.5203244603961529,Sector
+Pescara,Transportation,73,0.6564520980532158,Sector
+Pescara,Consumer_Products,23,0.3371427511615517,Sector
+Pescara,Unassigned,19,0.024628575744579884,Sector
+Pescara,Communication,46,0.8447745722074174,Sector
+Pescara,Trade,30,0.8226357869016002,Sector
+Pescara,Business_Services,40,0.04889094258210536,Sector
+Pescara,Business_Products,22,0.477540122035336,Sector
+Pescara,Construction,3,0.08365833771319509,Sector
+Pescara,Services,9,0.020210696477254375,Sector
+Pescara,Mining,86,0.7608388641593846,Sector
+Pescara,Health_Care,32,0.7094308551282521,Sector
+Pescara,EnergyExpL_Prod,9,0.7408308648743969,Sector
+Pescara,Utilities,21,0.801332749258304,Sector

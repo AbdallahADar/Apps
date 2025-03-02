@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Cottbus, Kreisfreie Stadt",539,0.6064154735078217,Overall
+"Cottbus, Kreisfreie Stadt",HiTech,13,0.3430977751243184,Sector
+"Cottbus, Kreisfreie Stadt",Agriculture,44,0.3714380397865955,Sector
+"Cottbus, Kreisfreie Stadt",Transportation,23,0.11035273297815984,Sector
+"Cottbus, Kreisfreie Stadt",Consumer_Products,0,0.9662952801485591,Sector
+"Cottbus, Kreisfreie Stadt",Unassigned,62,0.5315573579695112,Sector
+"Cottbus, Kreisfreie Stadt",Communication,9,0.5049958394966,Sector
+"Cottbus, Kreisfreie Stadt",Trade,30,0.7504932518933827,Sector
+"Cottbus, Kreisfreie Stadt",Business_Services,26,0.8737795238865986,Sector
+"Cottbus, Kreisfreie Stadt",Business_Products,98,0.8499644094543434,Sector
+"Cottbus, Kreisfreie Stadt",Construction,27,0.5519999339135429,Sector
+"Cottbus, Kreisfreie Stadt",Services,15,0.8021096056749702,Sector
+"Cottbus, Kreisfreie Stadt",Mining,89,0.9017133964915647,Sector
+"Cottbus, Kreisfreie Stadt",Health_Care,93,0.3462708583434415,Sector
+"Cottbus, Kreisfreie Stadt",EnergyExpL_Prod,6,0.42170633648678446,Sector
+"Cottbus, Kreisfreie Stadt",Utilities,4,0.770457760968952,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ogle,689,0.6972425087610176,Overall
+Ogle,HiTech,25,0.9363724897333932,Sector
+Ogle,Agriculture,72,0.5488036743174326,Sector
+Ogle,Transportation,40,0.9953742253762925,Sector
+Ogle,Consumer_Products,63,0.8331264064783227,Sector
+Ogle,Unassigned,57,0.9034353223684308,Sector
+Ogle,Communication,44,0.34089415435965253,Sector
+Ogle,Trade,85,0.8012905189043795,Sector
+Ogle,Business_Services,83,0.7042495958342933,Sector
+Ogle,Business_Products,7,0.698432076038563,Sector
+Ogle,Construction,2,0.8022479061488385,Sector
+Ogle,Services,74,0.897129834485481,Sector
+Ogle,Mining,44,0.04867066435029299,Sector
+Ogle,Health_Care,36,0.7394436187483275,Sector
+Ogle,EnergyExpL_Prod,0,0.6140115074843204,Sector
+Ogle,Utilities,57,0.5951556367872417,Sector

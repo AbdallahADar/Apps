@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bracken,632,0.6544304448535202,Overall
+Bracken,HiTech,50,0.9680998054533811,Sector
+Bracken,Agriculture,10,0.7934434827013835,Sector
+Bracken,Transportation,36,0.11230196360598221,Sector
+Bracken,Consumer_Products,96,0.33557070915037956,Sector
+Bracken,Unassigned,18,0.8540980586721235,Sector
+Bracken,Communication,61,0.795295144326088,Sector
+Bracken,Trade,4,0.8070543607856159,Sector
+Bracken,Business_Services,9,0.8498669680380373,Sector
+Bracken,Business_Products,27,0.7498137430607086,Sector
+Bracken,Construction,83,0.9236661076263711,Sector
+Bracken,Services,67,0.6962908477753051,Sector
+Bracken,Mining,40,0.29323737011364537,Sector
+Bracken,Health_Care,40,0.7300198148174214,Sector
+Bracken,EnergyExpL_Prod,32,0.10815585316557008,Sector
+Bracken,Utilities,59,0.7995424435107896,Sector

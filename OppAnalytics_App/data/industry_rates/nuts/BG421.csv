@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Plovdiv,753,0.5142179188032128,Overall
+Plovdiv,HiTech,95,0.4704631343955996,Sector
+Plovdiv,Agriculture,67,0.20196760182236084,Sector
+Plovdiv,Transportation,71,0.8140954735990507,Sector
+Plovdiv,Consumer_Products,25,0.9662832254140141,Sector
+Plovdiv,Unassigned,54,0.30345919974752467,Sector
+Plovdiv,Communication,18,0.7100867460404479,Sector
+Plovdiv,Trade,21,0.14560057006539973,Sector
+Plovdiv,Business_Services,24,0.03338121086353496,Sector
+Plovdiv,Business_Products,82,0.6055295876614996,Sector
+Plovdiv,Construction,5,0.6761545152151203,Sector
+Plovdiv,Services,42,0.38325066867470203,Sector
+Plovdiv,Mining,49,0.8742910101026715,Sector
+Plovdiv,Health_Care,73,0.7024108312200276,Sector
+Plovdiv,EnergyExpL_Prod,97,0.4592577504644133,Sector
+Plovdiv,Utilities,30,0.3670372567618251,Sector

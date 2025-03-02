@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yalobusha,755,0.6232212187071091,Overall
+Yalobusha,HiTech,84,0.6045593256952072,Sector
+Yalobusha,Agriculture,17,0.5498876152683638,Sector
+Yalobusha,Transportation,22,0.4264942528505451,Sector
+Yalobusha,Consumer_Products,73,0.6203867374825021,Sector
+Yalobusha,Unassigned,82,0.4702606690531407,Sector
+Yalobusha,Communication,53,0.706644727985799,Sector
+Yalobusha,Trade,15,0.9412160906800471,Sector
+Yalobusha,Business_Services,70,0.7969752913548117,Sector
+Yalobusha,Business_Products,15,0.8910429343198802,Sector
+Yalobusha,Construction,33,0.9333167343435439,Sector
+Yalobusha,Services,36,0.1850186717635729,Sector
+Yalobusha,Mining,99,0.4730674784512343,Sector
+Yalobusha,Health_Care,69,0.9140194609030633,Sector
+Yalobusha,EnergyExpL_Prod,20,0.8014664459120048,Sector
+Yalobusha,Utilities,67,0.03396184454291795,Sector

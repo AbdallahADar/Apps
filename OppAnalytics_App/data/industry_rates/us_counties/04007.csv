@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gila,604,0.6324228216774437,Overall
+Gila,HiTech,36,0.9060894344539082,Sector
+Gila,Agriculture,22,0.5612342747120322,Sector
+Gila,Transportation,1,0.8940483777088598,Sector
+Gila,Consumer_Products,69,0.9573856175145856,Sector
+Gila,Unassigned,43,0.9040885787241915,Sector
+Gila,Communication,3,0.24954731081921644,Sector
+Gila,Trade,63,0.7444066791189698,Sector
+Gila,Business_Services,54,0.6603936030587029,Sector
+Gila,Business_Products,25,0.5980597389710909,Sector
+Gila,Construction,72,0.5879257215022801,Sector
+Gila,Services,45,0.6814358619206259,Sector
+Gila,Mining,7,0.8705425642868853,Sector
+Gila,Health_Care,56,0.5491350721117341,Sector
+Gila,EnergyExpL_Prod,14,0.04184480852311556,Sector
+Gila,Utilities,94,0.28020468173545565,Sector

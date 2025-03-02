@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ağrı,793,0.46680852044818016,Overall
+Ağrı,HiTech,19,0.9414973390182676,Sector
+Ağrı,Agriculture,5,0.12519330154896469,Sector
+Ağrı,Transportation,0,0.7336964868900995,Sector
+Ağrı,Consumer_Products,71,0.6070150325321881,Sector
+Ağrı,Unassigned,77,0.45102289424029984,Sector
+Ağrı,Communication,25,0.2075531603463946,Sector
+Ağrı,Trade,70,0.5094537518009652,Sector
+Ağrı,Business_Services,61,0.9395330247691707,Sector
+Ağrı,Business_Products,92,0.8543161740451348,Sector
+Ağrı,Construction,96,0.3691964268284287,Sector
+Ağrı,Services,86,0.05405776976954513,Sector
+Ağrı,Mining,25,0.12912245534663014,Sector
+Ağrı,Health_Care,24,0.6925420849700693,Sector
+Ağrı,EnergyExpL_Prod,44,0.35568254108186337,Sector
+Ağrı,Utilities,98,0.032245363534680105,Sector

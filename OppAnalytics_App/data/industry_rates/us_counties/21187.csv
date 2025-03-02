@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Owen,626,0.5707323582711898,Overall
+Owen,HiTech,86,0.17056859592525908,Sector
+Owen,Agriculture,1,0.17712379564007252,Sector
+Owen,Transportation,93,0.829418644161712,Sector
+Owen,Consumer_Products,53,0.5826359375637774,Sector
+Owen,Unassigned,18,0.06320027975287534,Sector
+Owen,Communication,21,0.030017568673897044,Sector
+Owen,Trade,50,0.523360103462206,Sector
+Owen,Business_Services,26,0.8195732375603028,Sector
+Owen,Business_Products,49,0.9688734896297853,Sector
+Owen,Construction,92,0.44944582579694903,Sector
+Owen,Services,22,0.9213090498298818,Sector
+Owen,Mining,1,0.9597257016401719,Sector
+Owen,Health_Care,10,0.7340064279490818,Sector
+Owen,EnergyExpL_Prod,84,0.7441412230495197,Sector
+Owen,Utilities,20,0.5875854934323579,Sector

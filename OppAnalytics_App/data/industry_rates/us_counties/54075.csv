@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pocahontas,735,0.4490300216988629,Overall
+Pocahontas,HiTech,32,0.3216082257314381,Sector
+Pocahontas,Agriculture,35,0.8124539429801672,Sector
+Pocahontas,Transportation,72,0.640647966557428,Sector
+Pocahontas,Consumer_Products,89,0.751273517211419,Sector
+Pocahontas,Unassigned,19,0.15781347520593203,Sector
+Pocahontas,Communication,94,0.09788491723963177,Sector
+Pocahontas,Trade,64,0.8350518512016148,Sector
+Pocahontas,Business_Services,2,0.05545231883787294,Sector
+Pocahontas,Business_Products,22,0.9307749751690181,Sector
+Pocahontas,Construction,75,0.5800782478232037,Sector
+Pocahontas,Services,96,0.41350459398379147,Sector
+Pocahontas,Mining,87,0.19867202376318627,Sector
+Pocahontas,Health_Care,23,0.05200321462989066,Sector
+Pocahontas,EnergyExpL_Prod,24,0.12069851535602205,Sector
+Pocahontas,Utilities,1,0.7675325397923275,Sector

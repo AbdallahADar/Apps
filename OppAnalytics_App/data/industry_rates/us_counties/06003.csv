@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alpine,839,0.4932519016680494,Overall
+Alpine,HiTech,12,0.16144114913548047,Sector
+Alpine,Agriculture,54,0.1198606661292948,Sector
+Alpine,Transportation,53,0.7034573033270517,Sector
+Alpine,Consumer_Products,44,0.5690151740457595,Sector
+Alpine,Unassigned,29,0.2211485116162195,Sector
+Alpine,Communication,47,0.1962353498014079,Sector
+Alpine,Trade,98,0.9713609346483113,Sector
+Alpine,Business_Services,85,0.418596665053941,Sector
+Alpine,Business_Products,90,0.9600253181157793,Sector
+Alpine,Construction,70,0.7639350085828532,Sector
+Alpine,Services,22,0.3477511448041456,Sector
+Alpine,Mining,84,0.5851074136629625,Sector
+Alpine,Health_Care,70,0.6879494975222408,Sector
+Alpine,EnergyExpL_Prod,64,0.36729692603109365,Sector
+Alpine,Utilities,17,0.3255974625441995,Sector

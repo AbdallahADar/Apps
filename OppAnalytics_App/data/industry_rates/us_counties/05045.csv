@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Faulkner,685,0.4828247138268286,Overall
+Faulkner,HiTech,37,0.3137280250451058,Sector
+Faulkner,Agriculture,87,0.027561177790041747,Sector
+Faulkner,Transportation,76,0.17787902418163593,Sector
+Faulkner,Consumer_Products,24,0.8707285251714983,Sector
+Faulkner,Unassigned,62,0.9886360509373443,Sector
+Faulkner,Communication,70,0.615428151388303,Sector
+Faulkner,Trade,6,0.4761187926503848,Sector
+Faulkner,Business_Services,10,0.9183322866684319,Sector
+Faulkner,Business_Products,58,0.5010704237744947,Sector
+Faulkner,Construction,48,0.5545599974844614,Sector
+Faulkner,Services,71,0.30368727232440673,Sector
+Faulkner,Mining,6,0.498686545554227,Sector
+Faulkner,Health_Care,12,0.6151991295698457,Sector
+Faulkner,EnergyExpL_Prod,93,0.2718385217950484,Sector
+Faulkner,Utilities,25,0.10891678306719899,Sector

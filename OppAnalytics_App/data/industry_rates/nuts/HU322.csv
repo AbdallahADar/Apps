@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jász-Nagykun-Szolnok,731,0.4427972195812994,Overall
+Jász-Nagykun-Szolnok,HiTech,59,0.2402062899097196,Sector
+Jász-Nagykun-Szolnok,Agriculture,60,0.7276513005874203,Sector
+Jász-Nagykun-Szolnok,Transportation,10,0.9058756491779254,Sector
+Jász-Nagykun-Szolnok,Consumer_Products,67,0.3552444761078538,Sector
+Jász-Nagykun-Szolnok,Unassigned,62,0.44925978260924193,Sector
+Jász-Nagykun-Szolnok,Communication,56,0.15271870383634134,Sector
+Jász-Nagykun-Szolnok,Trade,21,0.7043994257426993,Sector
+Jász-Nagykun-Szolnok,Business_Services,39,0.09172018469277377,Sector
+Jász-Nagykun-Szolnok,Business_Products,39,0.5009590648416132,Sector
+Jász-Nagykun-Szolnok,Construction,40,0.26599211498701436,Sector
+Jász-Nagykun-Szolnok,Services,79,0.2601774523747755,Sector
+Jász-Nagykun-Szolnok,Mining,48,0.012815236656277262,Sector
+Jász-Nagykun-Szolnok,Health_Care,3,0.6130035267128707,Sector
+Jász-Nagykun-Szolnok,EnergyExpL_Prod,75,0.6124213856780868,Sector
+Jász-Nagykun-Szolnok,Utilities,73,0.7495136998048777,Sector

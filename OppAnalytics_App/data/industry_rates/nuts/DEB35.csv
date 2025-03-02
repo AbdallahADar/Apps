@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Mainz, Kreisfreie Stadt",738,0.48450688831505234,Overall
+"Mainz, Kreisfreie Stadt",HiTech,33,0.24896474687483672,Sector
+"Mainz, Kreisfreie Stadt",Agriculture,53,0.7958695303861395,Sector
+"Mainz, Kreisfreie Stadt",Transportation,75,0.020404467451204722,Sector
+"Mainz, Kreisfreie Stadt",Consumer_Products,24,0.3723273928618598,Sector
+"Mainz, Kreisfreie Stadt",Unassigned,53,0.29633873018385526,Sector
+"Mainz, Kreisfreie Stadt",Communication,51,0.4751881008614417,Sector
+"Mainz, Kreisfreie Stadt",Trade,19,0.2973263037513699,Sector
+"Mainz, Kreisfreie Stadt",Business_Services,90,0.552828174941696,Sector
+"Mainz, Kreisfreie Stadt",Business_Products,95,0.3741643159891339,Sector
+"Mainz, Kreisfreie Stadt",Construction,5,0.9346257594456705,Sector
+"Mainz, Kreisfreie Stadt",Services,95,0.31925160734325675,Sector
+"Mainz, Kreisfreie Stadt",Mining,54,0.765334033649395,Sector
+"Mainz, Kreisfreie Stadt",Health_Care,26,0.837411380434981,Sector
+"Mainz, Kreisfreie Stadt",EnergyExpL_Prod,25,0.7312624704193965,Sector
+"Mainz, Kreisfreie Stadt",Utilities,40,0.24630631013154813,Sector

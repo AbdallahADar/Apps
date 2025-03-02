@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Braničevska oblast,778,0.40558296061353577,Overall
+Braničevska oblast,HiTech,86,0.8980022593174625,Sector
+Braničevska oblast,Agriculture,23,0.402942683354915,Sector
+Braničevska oblast,Transportation,86,0.11342607367929058,Sector
+Braničevska oblast,Consumer_Products,47,0.016186976995513302,Sector
+Braničevska oblast,Unassigned,63,0.025187748687616085,Sector
+Braničevska oblast,Communication,6,0.7055748213950329,Sector
+Braničevska oblast,Trade,82,0.45453216784265105,Sector
+Braničevska oblast,Business_Services,84,0.8860469150243194,Sector
+Braničevska oblast,Business_Products,51,0.43213091867185127,Sector
+Braničevska oblast,Construction,28,0.48315378127450437,Sector
+Braničevska oblast,Services,37,0.18204250699521107,Sector
+Braničevska oblast,Mining,80,0.4622037399239408,Sector
+Braničevska oblast,Health_Care,18,0.4400532597542294,Sector
+Braničevska oblast,EnergyExpL_Prod,42,0.37048327574129347,Sector
+Braničevska oblast,Utilities,45,0.21177728054520562,Sector

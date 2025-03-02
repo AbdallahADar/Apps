@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Latina,547,0.6131137232734407,Overall
+Latina,HiTech,51,0.6706187607561479,Sector
+Latina,Agriculture,21,0.7019151418765374,Sector
+Latina,Transportation,17,0.6991623130769417,Sector
+Latina,Consumer_Products,89,0.3607478965987434,Sector
+Latina,Unassigned,2,0.47302931183358954,Sector
+Latina,Communication,53,0.6126247907415693,Sector
+Latina,Trade,35,0.8038057164318462,Sector
+Latina,Business_Services,84,0.7221545398059435,Sector
+Latina,Business_Products,8,0.9162953923471285,Sector
+Latina,Construction,51,0.4182337281606002,Sector
+Latina,Services,31,0.13053269923536792,Sector
+Latina,Mining,51,0.7773580163682932,Sector
+Latina,Health_Care,2,0.979610121153211,Sector
+Latina,EnergyExpL_Prod,11,0.37926814018217403,Sector
+Latina,Utilities,41,0.5513492805335167,Sector

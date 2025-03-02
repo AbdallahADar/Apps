@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kýpros,747,0.4816401556043551,Overall
+Kýpros,HiTech,56,0.891961069069999,Sector
+Kýpros,Agriculture,79,0.43206217152291126,Sector
+Kýpros,Transportation,61,0.8451833549676131,Sector
+Kýpros,Consumer_Products,11,0.6093563493305202,Sector
+Kýpros,Unassigned,79,0.7031169798564243,Sector
+Kýpros,Communication,43,0.6067356425224355,Sector
+Kýpros,Trade,20,0.2568392945062995,Sector
+Kýpros,Business_Services,31,0.1298777135073762,Sector
+Kýpros,Business_Products,10,0.6529563290041878,Sector
+Kýpros,Construction,21,0.10095290307660376,Sector
+Kýpros,Services,14,0.2650563401317927,Sector
+Kýpros,Mining,96,0.13055292879888158,Sector
+Kýpros,Health_Care,47,0.6872487823182795,Sector
+Kýpros,EnergyExpL_Prod,96,0.8564157152881343,Sector
+Kýpros,Utilities,83,0.05628676016386691,Sector

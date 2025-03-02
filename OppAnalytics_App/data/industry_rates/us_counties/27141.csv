@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sherburne,754,0.545252423710285,Overall
+Sherburne,HiTech,35,0.01122934409262244,Sector
+Sherburne,Agriculture,63,0.6583105222808913,Sector
+Sherburne,Transportation,61,0.7937169950292124,Sector
+Sherburne,Consumer_Products,71,0.537697721483441,Sector
+Sherburne,Unassigned,5,0.993550597667516,Sector
+Sherburne,Communication,34,0.3073076791255407,Sector
+Sherburne,Trade,89,0.7440292385233297,Sector
+Sherburne,Business_Services,69,0.37000219991773786,Sector
+Sherburne,Business_Products,20,0.9981578383644809,Sector
+Sherburne,Construction,81,0.8987114996015597,Sector
+Sherburne,Services,18,0.06891188451783858,Sector
+Sherburne,Mining,15,0.15653217495790916,Sector
+Sherburne,Health_Care,22,0.7488989860675572,Sector
+Sherburne,EnergyExpL_Prod,85,0.639925255263579,Sector
+Sherburne,Utilities,86,0.2518044187610615,Sector

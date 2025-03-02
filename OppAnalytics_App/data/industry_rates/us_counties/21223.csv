@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Trimble,693,0.4971556366606976,Overall
+Trimble,HiTech,6,0.754696470424594,Sector
+Trimble,Agriculture,77,0.4223674681263231,Sector
+Trimble,Transportation,57,0.11529788510030325,Sector
+Trimble,Consumer_Products,51,0.05170896777531997,Sector
+Trimble,Unassigned,13,0.8599257402593763,Sector
+Trimble,Communication,14,0.5952411329414566,Sector
+Trimble,Trade,56,0.010165649136113841,Sector
+Trimble,Business_Services,94,0.635328442110724,Sector
+Trimble,Business_Products,5,0.7771534656964204,Sector
+Trimble,Construction,76,0.6448692351629608,Sector
+Trimble,Services,37,0.29876719260026363,Sector
+Trimble,Mining,82,0.8080479400453081,Sector
+Trimble,Health_Care,35,0.5154883999646034,Sector
+Trimble,EnergyExpL_Prod,42,0.46285418513718946,Sector
+Trimble,Utilities,48,0.5054223754295076,Sector

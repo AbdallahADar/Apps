@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fannin,826,0.48881843913765904,Overall
+Fannin,HiTech,46,0.9664705988720163,Sector
+Fannin,Agriculture,78,0.6293586613945202,Sector
+Fannin,Transportation,84,0.6598626808756258,Sector
+Fannin,Consumer_Products,90,0.2114237387252792,Sector
+Fannin,Unassigned,9,0.021891315409633516,Sector
+Fannin,Communication,73,0.9282393768856906,Sector
+Fannin,Trade,93,0.01477956266230851,Sector
+Fannin,Business_Services,66,0.18006726334300638,Sector
+Fannin,Business_Products,3,0.12376870481795432,Sector
+Fannin,Construction,59,0.24945982565935876,Sector
+Fannin,Services,49,0.5572736764522378,Sector
+Fannin,Mining,45,0.923092875501009,Sector
+Fannin,Health_Care,66,0.9486552169314956,Sector
+Fannin,EnergyExpL_Prod,55,0.46942251613985586,Sector
+Fannin,Utilities,10,0.44851057339489375,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Humacao,775,0.38020040764040786,Overall
+Humacao,HiTech,11,0.23272054891814753,Sector
+Humacao,Agriculture,24,0.08223931939325635,Sector
+Humacao,Transportation,95,0.06680083775884849,Sector
+Humacao,Consumer_Products,74,0.7627750056214654,Sector
+Humacao,Unassigned,86,0.8733189655868739,Sector
+Humacao,Communication,9,0.08534142808933853,Sector
+Humacao,Trade,79,0.36325332329602467,Sector
+Humacao,Business_Services,26,0.5143897702131575,Sector
+Humacao,Business_Products,55,0.30293004458300987,Sector
+Humacao,Construction,4,0.4535512025159085,Sector
+Humacao,Services,79,0.4492130181230857,Sector
+Humacao,Mining,43,0.2832554455096269,Sector
+Humacao,Health_Care,88,0.6123922564670583,Sector
+Humacao,EnergyExpL_Prod,50,0.10727754168844461,Sector
+Humacao,Utilities,52,0.5135474068418701,Sector

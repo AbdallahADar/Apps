@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tolna,638,0.5585408120800073,Overall
+Tolna,HiTech,36,0.03821418585033609,Sector
+Tolna,Agriculture,4,0.9786010528572581,Sector
+Tolna,Transportation,31,0.8916722326330518,Sector
+Tolna,Consumer_Products,72,0.7849015114638753,Sector
+Tolna,Unassigned,13,0.8979896275091841,Sector
+Tolna,Communication,1,0.8554699519425106,Sector
+Tolna,Trade,18,0.12104981261186121,Sector
+Tolna,Business_Services,81,0.9902110887691625,Sector
+Tolna,Business_Products,92,0.3935218987994078,Sector
+Tolna,Construction,11,0.6133297669943851,Sector
+Tolna,Services,79,0.02956048705854908,Sector
+Tolna,Mining,38,0.4232834507285951,Sector
+Tolna,Health_Care,99,0.03988674094054434,Sector
+Tolna,EnergyExpL_Prod,44,0.832157071138288,Sector
+Tolna,Utilities,19,0.48826330190309875,Sector

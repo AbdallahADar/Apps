@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Przemyski,605,0.495955842694633,Overall
+Przemyski,HiTech,71,0.03487882048557167,Sector
+Przemyski,Agriculture,6,0.3590087619679019,Sector
+Przemyski,Transportation,37,0.5381724083030669,Sector
+Przemyski,Consumer_Products,71,0.7267990061732463,Sector
+Przemyski,Unassigned,4,0.8766088128642772,Sector
+Przemyski,Communication,69,0.9245807440324396,Sector
+Przemyski,Trade,31,0.6131659243271768,Sector
+Przemyski,Business_Services,11,0.6816172056471821,Sector
+Przemyski,Business_Products,70,0.16711099504503502,Sector
+Przemyski,Construction,75,0.020039822209709457,Sector
+Przemyski,Services,22,0.5991971417356275,Sector
+Przemyski,Mining,56,0.07670793055471692,Sector
+Przemyski,Health_Care,58,0.656726756651788,Sector
+Przemyski,EnergyExpL_Prod,15,0.926397993641062,Sector
+Przemyski,Utilities,9,0.23832531678069413,Sector

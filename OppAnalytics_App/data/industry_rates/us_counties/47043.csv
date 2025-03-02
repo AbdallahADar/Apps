@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dickson,1015,0.5015190136317149,Overall
+Dickson,HiTech,71,0.3369146474489615,Sector
+Dickson,Agriculture,86,0.70641109948155,Sector
+Dickson,Transportation,73,0.9799829348287773,Sector
+Dickson,Consumer_Products,84,0.22347169576318582,Sector
+Dickson,Unassigned,9,0.23860247855786232,Sector
+Dickson,Communication,67,0.9316342037505898,Sector
+Dickson,Trade,80,0.3123863248333072,Sector
+Dickson,Business_Services,59,0.7447270300125659,Sector
+Dickson,Business_Products,71,0.524826589640094,Sector
+Dickson,Construction,96,0.5655432828974711,Sector
+Dickson,Services,90,0.9925180179824119,Sector
+Dickson,Mining,62,0.19054483780675557,Sector
+Dickson,Health_Care,76,0.3450517906123981,Sector
+Dickson,EnergyExpL_Prod,17,0.38379733640200886,Sector
+Dickson,Utilities,74,0.046372934457783566,Sector

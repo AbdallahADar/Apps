@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Westerwaldkreis,806,0.4826738959817432,Overall
+Westerwaldkreis,HiTech,96,0.36281464513877004,Sector
+Westerwaldkreis,Agriculture,2,0.6408069176919334,Sector
+Westerwaldkreis,Transportation,71,0.3603937471684314,Sector
+Westerwaldkreis,Consumer_Products,78,0.8067300022011887,Sector
+Westerwaldkreis,Unassigned,14,0.7091410025057374,Sector
+Westerwaldkreis,Communication,29,0.29235300939007647,Sector
+Westerwaldkreis,Trade,16,0.2000380679924494,Sector
+Westerwaldkreis,Business_Services,85,0.6484277109606852,Sector
+Westerwaldkreis,Business_Products,57,0.21144213254650535,Sector
+Westerwaldkreis,Construction,36,0.8259289379415958,Sector
+Westerwaldkreis,Services,72,0.7805541579848903,Sector
+Westerwaldkreis,Mining,53,0.6416834051860943,Sector
+Westerwaldkreis,Health_Care,86,0.53532290262288,Sector
+Westerwaldkreis,EnergyExpL_Prod,32,0.05935715063061453,Sector
+Westerwaldkreis,Utilities,79,0.16511464976429657,Sector

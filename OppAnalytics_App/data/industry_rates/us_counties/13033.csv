@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Burke,492,0.6057506871134927,Overall
+Burke,HiTech,9,0.9218112370250244,Sector
+Burke,Agriculture,58,0.4958438316217696,Sector
+Burke,Transportation,4,0.9140770446790006,Sector
+Burke,Consumer_Products,21,0.262822133705618,Sector
+Burke,Unassigned,75,0.738323363874113,Sector
+Burke,Communication,5,0.3529458309517063,Sector
+Burke,Trade,32,0.810714141967046,Sector
+Burke,Business_Services,79,0.7586072110887649,Sector
+Burke,Business_Products,22,0.06381135322131826,Sector
+Burke,Construction,61,0.9959825005913217,Sector
+Burke,Services,20,0.5961584830927693,Sector
+Burke,Mining,28,0.39975864594175914,Sector
+Burke,Health_Care,22,0.6719657543034165,Sector
+Burke,EnergyExpL_Prod,7,0.4297347529379524,Sector
+Burke,Utilities,49,0.6737040217008115,Sector

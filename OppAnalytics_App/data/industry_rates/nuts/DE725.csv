@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vogelsbergkreis,472,0.47233913458796456,Overall
+Vogelsbergkreis,HiTech,36,0.7736294424500446,Sector
+Vogelsbergkreis,Agriculture,31,0.2229329025621979,Sector
+Vogelsbergkreis,Transportation,88,0.057357075846571015,Sector
+Vogelsbergkreis,Consumer_Products,11,0.19556445252659072,Sector
+Vogelsbergkreis,Unassigned,33,0.26698601864545923,Sector
+Vogelsbergkreis,Communication,37,0.13499491681098152,Sector
+Vogelsbergkreis,Trade,26,0.5736453308171537,Sector
+Vogelsbergkreis,Business_Services,8,0.5939282076413043,Sector
+Vogelsbergkreis,Business_Products,73,0.4887320086123663,Sector
+Vogelsbergkreis,Construction,18,0.5152738886323275,Sector
+Vogelsbergkreis,Services,0,0.5696591672206008,Sector
+Vogelsbergkreis,Mining,25,0.7387551941250537,Sector
+Vogelsbergkreis,Health_Care,48,0.6608872022194514,Sector
+Vogelsbergkreis,EnergyExpL_Prod,35,0.8359518916667916,Sector
+Vogelsbergkreis,Utilities,3,0.4567893190425737,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Miesbach,648,0.6052207242119516,Overall
+Miesbach,HiTech,32,0.08528797754078421,Sector
+Miesbach,Agriculture,52,0.3526303040319667,Sector
+Miesbach,Transportation,23,0.6739185554824019,Sector
+Miesbach,Consumer_Products,17,0.8944580605521443,Sector
+Miesbach,Unassigned,63,0.21895476313515816,Sector
+Miesbach,Communication,51,0.15938929740860108,Sector
+Miesbach,Trade,31,0.8984483680772027,Sector
+Miesbach,Business_Services,64,0.9191054840082418,Sector
+Miesbach,Business_Products,43,0.8404896790385543,Sector
+Miesbach,Construction,21,0.0800408918793084,Sector
+Miesbach,Services,59,0.5787001788527575,Sector
+Miesbach,Mining,35,0.9079707227068463,Sector
+Miesbach,Health_Care,17,0.9123564524807812,Sector
+Miesbach,EnergyExpL_Prod,93,0.6494296652416437,Sector
+Miesbach,Utilities,47,0.9071304627428811,Sector

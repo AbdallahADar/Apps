@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lahn-Dill-Kreis,834,0.6527585750660146,Overall
+Lahn-Dill-Kreis,HiTech,96,0.7119538929084748,Sector
+Lahn-Dill-Kreis,Agriculture,70,0.9482986875608506,Sector
+Lahn-Dill-Kreis,Transportation,18,0.21543314549878978,Sector
+Lahn-Dill-Kreis,Consumer_Products,85,0.12532717116605485,Sector
+Lahn-Dill-Kreis,Unassigned,69,0.6703667259598068,Sector
+Lahn-Dill-Kreis,Communication,18,0.3326476046466845,Sector
+Lahn-Dill-Kreis,Trade,60,0.9472349157067044,Sector
+Lahn-Dill-Kreis,Business_Services,72,0.7046737663966687,Sector
+Lahn-Dill-Kreis,Business_Products,5,0.67868414970984,Sector
+Lahn-Dill-Kreis,Construction,48,0.9636804675394034,Sector
+Lahn-Dill-Kreis,Services,40,0.583642500115485,Sector
+Lahn-Dill-Kreis,Mining,74,0.7168167072337007,Sector
+Lahn-Dill-Kreis,Health_Care,89,0.9059997274956646,Sector
+Lahn-Dill-Kreis,EnergyExpL_Prod,45,0.33163087378814593,Sector
+Lahn-Dill-Kreis,Utilities,45,0.9549882902639447,Sector

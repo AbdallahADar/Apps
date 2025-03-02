@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cagliari,801,0.47711520320565987,Overall
+Cagliari,HiTech,83,0.9654605383849842,Sector
+Cagliari,Agriculture,0,0.2956062193924094,Sector
+Cagliari,Transportation,69,0.4020608963829754,Sector
+Cagliari,Consumer_Products,89,0.11653151497441616,Sector
+Cagliari,Unassigned,96,0.1258046092971964,Sector
+Cagliari,Communication,80,0.7237028950909765,Sector
+Cagliari,Trade,16,0.9676370251022006,Sector
+Cagliari,Business_Services,43,0.07400632410526298,Sector
+Cagliari,Business_Products,1,0.2770702716005987,Sector
+Cagliari,Construction,68,0.4409151817328296,Sector
+Cagliari,Services,58,0.4670119248672254,Sector
+Cagliari,Mining,15,0.6246574099506762,Sector
+Cagliari,Health_Care,25,0.1775705241431338,Sector
+Cagliari,EnergyExpL_Prod,64,0.7280807244086318,Sector
+Cagliari,Utilities,94,0.7706119886513806,Sector

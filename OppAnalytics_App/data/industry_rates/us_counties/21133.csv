@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Letcher,854,0.29769542941835,Overall
+Letcher,HiTech,46,0.23085103160356601,Sector
+Letcher,Agriculture,14,0.1865745764674791,Sector
+Letcher,Transportation,87,0.7221197975020638,Sector
+Letcher,Consumer_Products,78,0.49825742608338786,Sector
+Letcher,Unassigned,15,0.3612595018963892,Sector
+Letcher,Communication,71,0.21242603178449226,Sector
+Letcher,Trade,75,0.004273880720484624,Sector
+Letcher,Business_Services,65,0.2761458664041102,Sector
+Letcher,Business_Products,3,0.1050366528169433,Sector
+Letcher,Construction,87,0.0918141734591773,Sector
+Letcher,Services,43,0.008172806514511466,Sector
+Letcher,Mining,75,0.08226219221779207,Sector
+Letcher,Health_Care,82,0.5335729265076922,Sector
+Letcher,EnergyExpL_Prod,52,0.9350828190443303,Sector
+Letcher,Utilities,61,0.21758175825283033,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oconee,700,0.4790286609496582,Overall
+Oconee,HiTech,54,0.6255338667146058,Sector
+Oconee,Agriculture,36,0.7889207297194795,Sector
+Oconee,Transportation,30,0.016400752833927168,Sector
+Oconee,Consumer_Products,18,0.15172086507346894,Sector
+Oconee,Unassigned,77,0.5632097448007606,Sector
+Oconee,Communication,17,0.5186539103965777,Sector
+Oconee,Trade,64,0.8091105650034518,Sector
+Oconee,Business_Services,10,0.2524484435129143,Sector
+Oconee,Business_Products,28,0.6776433766911203,Sector
+Oconee,Construction,83,0.7010631174022421,Sector
+Oconee,Services,63,0.15089910648224647,Sector
+Oconee,Mining,90,0.5966941068621693,Sector
+Oconee,Health_Care,86,0.21924517272476818,Sector
+Oconee,EnergyExpL_Prod,26,0.9983311833039435,Sector
+Oconee,Utilities,18,0.11555497272319659,Sector

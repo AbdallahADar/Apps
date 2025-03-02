@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Motley,1018,0.5328562147624586,Overall
+Motley,HiTech,93,0.5363586103720175,Sector
+Motley,Agriculture,97,0.7198780363560876,Sector
+Motley,Transportation,41,0.10879012226565188,Sector
+Motley,Consumer_Products,44,0.8822232177819108,Sector
+Motley,Unassigned,78,0.8788255949237453,Sector
+Motley,Communication,69,0.1537155346019654,Sector
+Motley,Trade,78,0.4470075074750367,Sector
+Motley,Business_Services,11,0.21808895289263275,Sector
+Motley,Business_Products,63,0.3576364909145515,Sector
+Motley,Construction,79,0.7433642557183473,Sector
+Motley,Services,92,0.8396881361665703,Sector
+Motley,Mining,56,0.8931014844949201,Sector
+Motley,Health_Care,77,0.25758019360482476,Sector
+Motley,EnergyExpL_Prod,75,0.09487827103942104,Sector
+Motley,Utilities,65,0.8617068128291964,Sector

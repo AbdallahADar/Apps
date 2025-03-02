@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Şanlıurfa,700,0.6309738431504641,Overall
+Şanlıurfa,HiTech,25,0.6469784604143044,Sector
+Şanlıurfa,Agriculture,74,0.91102121875385,Sector
+Şanlıurfa,Transportation,2,0.831778555356908,Sector
+Şanlıurfa,Consumer_Products,9,0.540099753649168,Sector
+Şanlıurfa,Unassigned,46,0.6998950910312628,Sector
+Şanlıurfa,Communication,58,0.9542755552259281,Sector
+Şanlıurfa,Trade,44,0.7826520091625456,Sector
+Şanlıurfa,Business_Services,54,0.17464365702376072,Sector
+Şanlıurfa,Business_Products,28,0.1348817764723258,Sector
+Şanlıurfa,Construction,80,0.7943363305869714,Sector
+Şanlıurfa,Services,7,0.048519491773814094,Sector
+Şanlıurfa,Mining,31,0.7681598621990849,Sector
+Şanlıurfa,Health_Care,89,0.4191310367415587,Sector
+Şanlıurfa,EnergyExpL_Prod,98,0.90052151008242,Sector
+Şanlıurfa,Utilities,55,0.857713338783059,Sector

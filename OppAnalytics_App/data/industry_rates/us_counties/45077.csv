@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pickens,761,0.3914841488265205,Overall
+Pickens,HiTech,61,0.3693350396343468,Sector
+Pickens,Agriculture,1,0.26875467973705414,Sector
+Pickens,Transportation,76,0.21046204099615018,Sector
+Pickens,Consumer_Products,24,0.9014983603379763,Sector
+Pickens,Unassigned,42,0.2611617656174827,Sector
+Pickens,Communication,67,0.805184678923286,Sector
+Pickens,Trade,4,0.16213589860222333,Sector
+Pickens,Business_Services,88,0.8116238439191931,Sector
+Pickens,Business_Products,97,0.14575875957901685,Sector
+Pickens,Construction,17,0.11209623786301814,Sector
+Pickens,Services,13,0.9757233521345807,Sector
+Pickens,Mining,44,0.13137923395069517,Sector
+Pickens,Health_Care,58,0.3317050337776425,Sector
+Pickens,EnergyExpL_Prod,81,0.015547279108110934,Sector
+Pickens,Utilities,88,0.3698960282170317,Sector

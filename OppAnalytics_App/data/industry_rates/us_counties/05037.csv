@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cross,810,0.38042971486557514,Overall
+Cross,HiTech,58,0.23195603797161057,Sector
+Cross,Agriculture,73,0.1805301949440401,Sector
+Cross,Transportation,28,0.17553946226787043,Sector
+Cross,Consumer_Products,18,0.20226017600164015,Sector
+Cross,Unassigned,89,0.22229150053824354,Sector
+Cross,Communication,53,0.30079658060001424,Sector
+Cross,Trade,87,0.6885992628295043,Sector
+Cross,Business_Services,96,0.18940659350888167,Sector
+Cross,Business_Products,25,0.12729758590928442,Sector
+Cross,Construction,93,0.48075787270070625,Sector
+Cross,Services,25,0.8009455058834452,Sector
+Cross,Mining,74,0.6299286069969647,Sector
+Cross,Health_Care,13,0.04167529270588788,Sector
+Cross,EnergyExpL_Prod,69,0.8279681405839585,Sector
+Cross,Utilities,9,0.6064929095415759,Sector

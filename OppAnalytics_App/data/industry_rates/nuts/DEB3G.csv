@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kusel,764,0.4336823652070128,Overall
+Kusel,HiTech,97,0.12156009737473716,Sector
+Kusel,Agriculture,56,0.6054499221751024,Sector
+Kusel,Transportation,29,0.4010740375244112,Sector
+Kusel,Consumer_Products,3,0.6688465124987968,Sector
+Kusel,Unassigned,47,0.4819426004923839,Sector
+Kusel,Communication,22,0.7778021659898432,Sector
+Kusel,Trade,74,0.31568771399193374,Sector
+Kusel,Business_Services,78,0.053881511326996034,Sector
+Kusel,Business_Products,9,0.8127152295672244,Sector
+Kusel,Construction,68,0.8498928452032235,Sector
+Kusel,Services,80,0.5279674313323414,Sector
+Kusel,Mining,93,0.3844110055300807,Sector
+Kusel,Health_Care,13,0.4532236016107094,Sector
+Kusel,EnergyExpL_Prod,39,0.01748579030411257,Sector
+Kusel,Utilities,56,0.03329501318329542,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Neufchâteau,766,0.5973901550943345,Overall
+Arr. Neufchâteau,HiTech,8,0.37040309767072965,Sector
+Arr. Neufchâteau,Agriculture,17,0.9902520850970286,Sector
+Arr. Neufchâteau,Transportation,84,0.2156940316077619,Sector
+Arr. Neufchâteau,Consumer_Products,67,0.6912468268038953,Sector
+Arr. Neufchâteau,Unassigned,20,0.590619288584074,Sector
+Arr. Neufchâteau,Communication,56,0.3621819023503242,Sector
+Arr. Neufchâteau,Trade,9,0.8738226640172623,Sector
+Arr. Neufchâteau,Business_Services,99,0.6498465536624928,Sector
+Arr. Neufchâteau,Business_Products,77,0.046446420326283766,Sector
+Arr. Neufchâteau,Construction,90,0.7577037927869892,Sector
+Arr. Neufchâteau,Services,23,0.7874332784213932,Sector
+Arr. Neufchâteau,Mining,38,0.4298805532068891,Sector
+Arr. Neufchâteau,Health_Care,68,0.7247621071259349,Sector
+Arr. Neufchâteau,EnergyExpL_Prod,58,0.880600664681195,Sector
+Arr. Neufchâteau,Utilities,52,0.5899590600727627,Sector

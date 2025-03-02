@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Brevard,735,0.45531378096218234,Overall
+Brevard,HiTech,34,0.8043082777877758,Sector
+Brevard,Agriculture,23,0.19077571030072527,Sector
+Brevard,Transportation,82,0.3484559568128027,Sector
+Brevard,Consumer_Products,11,0.6943851573051314,Sector
+Brevard,Unassigned,28,0.34448788084773285,Sector
+Brevard,Communication,89,0.3754573962560065,Sector
+Brevard,Trade,59,0.9447143653700272,Sector
+Brevard,Business_Services,85,0.03247919899458129,Sector
+Brevard,Business_Products,8,0.19832663705422782,Sector
+Brevard,Construction,28,0.809446148310298,Sector
+Brevard,Services,32,0.6197360968854199,Sector
+Brevard,Mining,89,0.09745988187640386,Sector
+Brevard,Health_Care,5,0.3808006736179914,Sector
+Brevard,EnergyExpL_Prod,76,0.8139306018875592,Sector
+Brevard,Utilities,86,0.1749427311260514,Sector

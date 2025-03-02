@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Trousdale,782,0.4299657059620693,Overall
+Trousdale,HiTech,43,0.19400978434972882,Sector
+Trousdale,Agriculture,46,0.28723125113607006,Sector
+Trousdale,Transportation,25,0.34467202694336574,Sector
+Trousdale,Consumer_Products,12,0.5579911015857925,Sector
+Trousdale,Unassigned,96,0.6894168987095048,Sector
+Trousdale,Communication,92,0.40392129150335565,Sector
+Trousdale,Trade,42,0.24106885921967114,Sector
+Trousdale,Business_Services,33,0.36080041144701325,Sector
+Trousdale,Business_Products,73,0.7479527981279407,Sector
+Trousdale,Construction,44,0.9532233378331556,Sector
+Trousdale,Services,38,0.1539076283382138,Sector
+Trousdale,Mining,31,0.024891770791930168,Sector
+Trousdale,Health_Care,92,0.6074266755325027,Sector
+Trousdale,EnergyExpL_Prod,44,0.2840779470226399,Sector
+Trousdale,Utilities,71,0.5988938068901544,Sector

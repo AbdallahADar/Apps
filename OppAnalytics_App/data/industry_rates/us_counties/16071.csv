@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oneida,566,0.5812798048933592,Overall
+Oneida,HiTech,22,0.5573036515383147,Sector
+Oneida,Agriculture,0,0.9006612053166467,Sector
+Oneida,Transportation,60,0.9558233472421654,Sector
+Oneida,Consumer_Products,20,0.7428051594698877,Sector
+Oneida,Unassigned,20,0.8366604857086781,Sector
+Oneida,Communication,62,0.27748224084425266,Sector
+Oneida,Trade,50,0.3462537915222782,Sector
+Oneida,Business_Services,63,0.32995356521404806,Sector
+Oneida,Business_Products,3,0.9503045169786811,Sector
+Oneida,Construction,6,0.1427929104619874,Sector
+Oneida,Services,60,0.6888668040437677,Sector
+Oneida,Mining,88,0.3077350903911926,Sector
+Oneida,Health_Care,20,0.5339801303632491,Sector
+Oneida,EnergyExpL_Prod,86,0.5349301079242303,Sector
+Oneida,Utilities,6,0.6136440663810072,Sector

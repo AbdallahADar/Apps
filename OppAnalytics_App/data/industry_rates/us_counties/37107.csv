@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lenoir,740,0.6393406400526203,Overall
+Lenoir,HiTech,41,0.8073006644227982,Sector
+Lenoir,Agriculture,47,0.40822009393690706,Sector
+Lenoir,Transportation,14,0.9793241726280556,Sector
+Lenoir,Consumer_Products,70,0.7264047888724504,Sector
+Lenoir,Unassigned,46,0.5732800448496042,Sector
+Lenoir,Communication,89,0.6887707457449538,Sector
+Lenoir,Trade,45,0.3153537768396093,Sector
+Lenoir,Business_Services,29,0.6519121821024517,Sector
+Lenoir,Business_Products,98,0.07834409807903853,Sector
+Lenoir,Construction,56,0.21528842492486588,Sector
+Lenoir,Services,48,0.9148116915014919,Sector
+Lenoir,Mining,31,0.43499153302491256,Sector
+Lenoir,Health_Care,40,0.9506260600163381,Sector
+Lenoir,EnergyExpL_Prod,25,0.9740081884933444,Sector
+Lenoir,Utilities,61,0.8714731353524837,Sector

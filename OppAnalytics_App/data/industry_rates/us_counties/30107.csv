@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wheatland,796,0.4142710377574511,Overall
+Wheatland,HiTech,82,0.7530570295985057,Sector
+Wheatland,Agriculture,49,0.241405301047252,Sector
+Wheatland,Transportation,11,0.9486320967381912,Sector
+Wheatland,Consumer_Products,25,0.21250315672187547,Sector
+Wheatland,Unassigned,50,0.23071367732229542,Sector
+Wheatland,Communication,90,0.5415740268779817,Sector
+Wheatland,Trade,52,0.17797110663754045,Sector
+Wheatland,Business_Services,58,0.2519188581505908,Sector
+Wheatland,Business_Products,25,0.32463654634469463,Sector
+Wheatland,Construction,43,0.35972662081428874,Sector
+Wheatland,Services,55,0.24391049776121998,Sector
+Wheatland,Mining,80,0.6788975763091166,Sector
+Wheatland,Health_Care,11,0.3661424234070044,Sector
+Wheatland,EnergyExpL_Prod,67,0.15350357686279137,Sector
+Wheatland,Utilities,98,0.7294730717684175,Sector

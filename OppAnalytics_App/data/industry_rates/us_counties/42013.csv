@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Blair,837,0.40127637081593714,Overall
+Blair,HiTech,39,0.038242922672077184,Sector
+Blair,Agriculture,61,0.9038401748849453,Sector
+Blair,Transportation,80,0.42145873960737745,Sector
+Blair,Consumer_Products,9,0.10018302897190856,Sector
+Blair,Unassigned,71,0.23792533050637654,Sector
+Blair,Communication,12,0.3023367406396289,Sector
+Blair,Trade,94,0.20904373596489823,Sector
+Blair,Business_Services,31,0.3170267961268599,Sector
+Blair,Business_Products,85,0.6028200258494879,Sector
+Blair,Construction,96,0.683752515701672,Sector
+Blair,Services,76,0.2614609429055088,Sector
+Blair,Mining,15,0.7974331031544369,Sector
+Blair,Health_Care,63,0.8553800591180546,Sector
+Blair,EnergyExpL_Prod,35,0.2006118363981524,Sector
+Blair,Utilities,70,0.0876296097376712,Sector

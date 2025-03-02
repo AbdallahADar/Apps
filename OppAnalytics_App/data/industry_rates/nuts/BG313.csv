@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vratsa,625,0.5190919376974189,Overall
+Vratsa,HiTech,30,0.05473826344190702,Sector
+Vratsa,Agriculture,36,0.1821338250961726,Sector
+Vratsa,Transportation,73,0.7026718461015541,Sector
+Vratsa,Consumer_Products,17,0.7373667635036047,Sector
+Vratsa,Unassigned,33,0.9866228361075555,Sector
+Vratsa,Communication,39,0.9180092623766337,Sector
+Vratsa,Trade,20,0.4090782665819499,Sector
+Vratsa,Business_Services,14,0.6745226525554112,Sector
+Vratsa,Business_Products,10,0.683191412373957,Sector
+Vratsa,Construction,73,0.010901019861347061,Sector
+Vratsa,Services,41,0.22949187031869356,Sector
+Vratsa,Mining,74,0.7278173617013224,Sector
+Vratsa,Health_Care,64,0.053872411763017825,Sector
+Vratsa,EnergyExpL_Prod,36,0.8722892716662908,Sector
+Vratsa,Utilities,65,0.5436720020118668,Sector

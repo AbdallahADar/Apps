@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Asti,617,0.5310507150128285,Overall
+Asti,HiTech,20,0.11422680659282913,Sector
+Asti,Agriculture,92,0.37583060376004573,Sector
+Asti,Transportation,40,0.5035016175530855,Sector
+Asti,Consumer_Products,38,0.6276363244166921,Sector
+Asti,Unassigned,5,0.8899485032407009,Sector
+Asti,Communication,70,0.046408561965618156,Sector
+Asti,Trade,32,0.74830557309221,Sector
+Asti,Business_Services,24,0.9311323011489985,Sector
+Asti,Business_Products,0,0.33612064901251937,Sector
+Asti,Construction,12,0.35483820442092673,Sector
+Asti,Services,98,0.8564658722805926,Sector
+Asti,Mining,17,0.5648885326948768,Sector
+Asti,Health_Care,75,0.8651375266897962,Sector
+Asti,EnergyExpL_Prod,10,0.39484766527898507,Sector
+Asti,Utilities,84,0.3564719830445515,Sector

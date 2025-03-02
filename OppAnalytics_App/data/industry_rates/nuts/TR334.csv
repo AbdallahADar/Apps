@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Uşak,822,0.3991785381307943,Overall
+Uşak,HiTech,60,0.7415893122595502,Sector
+Uşak,Agriculture,8,0.16413353179361845,Sector
+Uşak,Transportation,62,0.5638333494214264,Sector
+Uşak,Consumer_Products,49,0.7553145346618153,Sector
+Uşak,Unassigned,91,0.07698703190941247,Sector
+Uşak,Communication,69,0.6433475777393948,Sector
+Uşak,Trade,20,0.36739895451775084,Sector
+Uşak,Business_Services,43,0.7748337632132993,Sector
+Uşak,Business_Products,43,0.127807358928401,Sector
+Uşak,Construction,55,0.14003870504215865,Sector
+Uşak,Services,79,0.16491800692826786,Sector
+Uşak,Mining,94,0.20878719635290455,Sector
+Uşak,Health_Care,16,0.7714303135005692,Sector
+Uşak,EnergyExpL_Prod,95,0.30485130215968004,Sector
+Uşak,Utilities,38,0.18240713353366667,Sector

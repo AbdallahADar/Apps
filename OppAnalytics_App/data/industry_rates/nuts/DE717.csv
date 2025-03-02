@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Groß-Gerau,707,0.5307768752396318,Overall
+Groß-Gerau,HiTech,75,0.6854382530773474,Sector
+Groß-Gerau,Agriculture,48,0.2963576853541928,Sector
+Groß-Gerau,Transportation,11,0.5530925265121764,Sector
+Groß-Gerau,Consumer_Products,23,0.8877915485444702,Sector
+Groß-Gerau,Unassigned,80,0.597937765723038,Sector
+Groß-Gerau,Communication,6,0.41637110260118815,Sector
+Groß-Gerau,Trade,45,0.531315275440116,Sector
+Groß-Gerau,Business_Services,26,0.7555515818273577,Sector
+Groß-Gerau,Business_Products,81,0.7082868238857999,Sector
+Groß-Gerau,Construction,65,0.4595563398782635,Sector
+Groß-Gerau,Services,92,0.48699583277561764,Sector
+Groß-Gerau,Mining,79,0.3699420271934627,Sector
+Groß-Gerau,Health_Care,37,0.10938968529287052,Sector
+Groß-Gerau,EnergyExpL_Prod,9,0.4328636178373291,Sector
+Groß-Gerau,Utilities,30,0.6707630626512456,Sector

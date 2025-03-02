@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Liberecký kraj,820,0.46127104786685197,Overall
+Liberecký kraj,HiTech,89,0.4990144479366201,Sector
+Liberecký kraj,Agriculture,70,0.12339467243492352,Sector
+Liberecký kraj,Transportation,46,0.481533383778772,Sector
+Liberecký kraj,Consumer_Products,82,0.8696097889467048,Sector
+Liberecký kraj,Unassigned,3,0.10886530236968284,Sector
+Liberecký kraj,Communication,19,0.6191595289629485,Sector
+Liberecký kraj,Trade,23,0.5656265388582158,Sector
+Liberecký kraj,Business_Services,58,0.6776394740509478,Sector
+Liberecký kraj,Business_Products,32,0.658698773035306,Sector
+Liberecký kraj,Construction,98,0.07102070741073285,Sector
+Liberecký kraj,Services,77,0.35988806708746945,Sector
+Liberecký kraj,Mining,51,0.1720858744856466,Sector
+Liberecký kraj,Health_Care,78,0.2044264454827367,Sector
+Liberecký kraj,EnergyExpL_Prod,69,0.7039865008744648,Sector
+Liberecký kraj,Utilities,25,0.8041162122876077,Sector

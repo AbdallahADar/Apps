@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Brazoria,843,0.46885393093415134,Overall
+Brazoria,HiTech,42,0.4690459383218113,Sector
+Brazoria,Agriculture,88,0.8083895365520493,Sector
+Brazoria,Transportation,95,0.16945882690500902,Sector
+Brazoria,Consumer_Products,26,0.9406445003553149,Sector
+Brazoria,Unassigned,81,0.14947946328680162,Sector
+Brazoria,Communication,15,0.9078139398927205,Sector
+Brazoria,Trade,40,0.5288198514263523,Sector
+Brazoria,Business_Services,35,0.8538228488885223,Sector
+Brazoria,Business_Products,96,0.5886468929622336,Sector
+Brazoria,Construction,20,0.270058637228639,Sector
+Brazoria,Services,93,0.5807045262469429,Sector
+Brazoria,Mining,81,0.4675081060991525,Sector
+Brazoria,Health_Care,62,0.03494815012663555,Sector
+Brazoria,EnergyExpL_Prod,25,0.007321352875253484,Sector
+Brazoria,Utilities,44,0.256146392844832,Sector

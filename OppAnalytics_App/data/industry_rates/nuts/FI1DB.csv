@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pohjois-Savo,720,0.4011843512193076,Overall
+Pohjois-Savo,HiTech,44,0.6810540157693464,Sector
+Pohjois-Savo,Agriculture,61,0.6053910175735513,Sector
+Pohjois-Savo,Transportation,3,0.3849780348136067,Sector
+Pohjois-Savo,Consumer_Products,34,0.95701150177411,Sector
+Pohjois-Savo,Unassigned,73,0.07282216856264001,Sector
+Pohjois-Savo,Communication,50,0.0054759736294549555,Sector
+Pohjois-Savo,Trade,55,0.5219617934017106,Sector
+Pohjois-Savo,Business_Services,87,0.12887228286782026,Sector
+Pohjois-Savo,Business_Products,72,0.2071739166587293,Sector
+Pohjois-Savo,Construction,62,0.4675948528420766,Sector
+Pohjois-Savo,Services,35,0.09368215969635496,Sector
+Pohjois-Savo,Mining,6,0.32216850299874755,Sector
+Pohjois-Savo,Health_Care,16,0.46744973847713933,Sector
+Pohjois-Savo,EnergyExpL_Prod,49,0.6710809532105783,Sector
+Pohjois-Savo,Utilities,73,0.4310483560137469,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bear Lake,570,0.5630794304364731,Overall
+Bear Lake,HiTech,42,0.6732769786731212,Sector
+Bear Lake,Agriculture,35,0.4427417034515484,Sector
+Bear Lake,Transportation,55,0.8656954335130209,Sector
+Bear Lake,Consumer_Products,34,0.009540847358002758,Sector
+Bear Lake,Unassigned,7,0.8768737336551223,Sector
+Bear Lake,Communication,5,0.17896019520157613,Sector
+Bear Lake,Trade,50,0.8708742709584283,Sector
+Bear Lake,Business_Services,47,0.40366432637285643,Sector
+Bear Lake,Business_Products,68,0.43520935845841346,Sector
+Bear Lake,Construction,87,0.7699535606908047,Sector
+Bear Lake,Services,52,0.9158600674410892,Sector
+Bear Lake,Mining,13,0.7414380500565186,Sector
+Bear Lake,Health_Care,22,0.30905262985706605,Sector
+Bear Lake,EnergyExpL_Prod,35,0.11207694576491933,Sector
+Bear Lake,Utilities,18,0.8409733550946092,Sector

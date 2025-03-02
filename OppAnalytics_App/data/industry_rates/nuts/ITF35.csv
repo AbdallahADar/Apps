@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Salerno,628,0.41263922753473,Overall
+Salerno,HiTech,64,0.8804178541765662,Sector
+Salerno,Agriculture,79,0.8550181205363729,Sector
+Salerno,Transportation,12,0.2270799004453229,Sector
+Salerno,Consumer_Products,29,0.25595632800396584,Sector
+Salerno,Unassigned,44,0.24623722345871424,Sector
+Salerno,Communication,4,0.09358739908695501,Sector
+Salerno,Trade,95,0.24405597869483964,Sector
+Salerno,Business_Services,38,0.12060359153740774,Sector
+Salerno,Business_Products,12,0.3744963758867481,Sector
+Salerno,Construction,72,0.13473240722117763,Sector
+Salerno,Services,84,0.01738540869660199,Sector
+Salerno,Mining,3,0.9624287237830196,Sector
+Salerno,Health_Care,2,0.3196982853711229,Sector
+Salerno,EnergyExpL_Prod,78,0.8977234364668302,Sector
+Salerno,Utilities,12,0.560167379655305,Sector

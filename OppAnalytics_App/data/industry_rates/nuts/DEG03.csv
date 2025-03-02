@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Jena, Kreisfreie Stadt",693,0.552131583304752,Overall
+"Jena, Kreisfreie Stadt",HiTech,61,0.6906589089425236,Sector
+"Jena, Kreisfreie Stadt",Agriculture,8,0.09309783498547808,Sector
+"Jena, Kreisfreie Stadt",Transportation,98,0.7188626282018981,Sector
+"Jena, Kreisfreie Stadt",Consumer_Products,32,0.8182252156474856,Sector
+"Jena, Kreisfreie Stadt",Unassigned,72,0.7390103658202962,Sector
+"Jena, Kreisfreie Stadt",Communication,91,0.35467159204051857,Sector
+"Jena, Kreisfreie Stadt",Trade,24,0.14628216474587397,Sector
+"Jena, Kreisfreie Stadt",Business_Services,6,0.8564337129171092,Sector
+"Jena, Kreisfreie Stadt",Business_Products,38,0.29110871761240964,Sector
+"Jena, Kreisfreie Stadt",Construction,37,0.18257041871099866,Sector
+"Jena, Kreisfreie Stadt",Services,28,0.9286641802540843,Sector
+"Jena, Kreisfreie Stadt",Mining,93,0.8556326045630299,Sector
+"Jena, Kreisfreie Stadt",Health_Care,35,0.5296801523355217,Sector
+"Jena, Kreisfreie Stadt",EnergyExpL_Prod,25,0.11646035228245644,Sector
+"Jena, Kreisfreie Stadt",Utilities,45,0.9606149005115963,Sector

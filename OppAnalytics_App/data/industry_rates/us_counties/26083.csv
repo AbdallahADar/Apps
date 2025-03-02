@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Keweenaw,830,0.3465443255999154,Overall
+Keweenaw,HiTech,12,0.041343909538698376,Sector
+Keweenaw,Agriculture,82,0.9024462262202307,Sector
+Keweenaw,Transportation,43,0.6038760794865871,Sector
+Keweenaw,Consumer_Products,96,0.13587294228928493,Sector
+Keweenaw,Unassigned,36,0.3526923361633062,Sector
+Keweenaw,Communication,85,0.19200907240772758,Sector
+Keweenaw,Trade,26,0.15789650192064497,Sector
+Keweenaw,Business_Services,16,0.7126977312784166,Sector
+Keweenaw,Business_Products,87,0.5160192612176814,Sector
+Keweenaw,Construction,27,0.210108387986221,Sector
+Keweenaw,Services,70,0.2965613426397672,Sector
+Keweenaw,Mining,3,0.06720956135359135,Sector
+Keweenaw,Health_Care,99,0.44131788727167787,Sector
+Keweenaw,EnergyExpL_Prod,92,0.1582352835198232,Sector
+Keweenaw,Utilities,56,0.4098783607050731,Sector

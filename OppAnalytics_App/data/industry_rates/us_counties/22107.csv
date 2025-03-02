@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tensas,701,0.6187308756697654,Overall
+Tensas,HiTech,74,0.593584468564351,Sector
+Tensas,Agriculture,97,0.9353307359795507,Sector
+Tensas,Transportation,60,0.9001445573015925,Sector
+Tensas,Consumer_Products,40,0.900329430677419,Sector
+Tensas,Unassigned,50,0.5438719997795609,Sector
+Tensas,Communication,5,0.7391858477669025,Sector
+Tensas,Trade,16,0.5023369489612646,Sector
+Tensas,Business_Services,78,0.9428700518873344,Sector
+Tensas,Business_Products,97,0.658247026467895,Sector
+Tensas,Construction,41,0.66023464804712,Sector
+Tensas,Services,18,0.7515688319964964,Sector
+Tensas,Mining,64,0.4853822531612635,Sector
+Tensas,Health_Care,1,0.0750490680610355,Sector
+Tensas,EnergyExpL_Prod,58,0.5057722249958618,Sector
+Tensas,Utilities,2,0.08705504139883125,Sector

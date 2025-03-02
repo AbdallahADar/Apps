@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Patillas,733,0.5675152731117968,Overall
+Patillas,HiTech,54,0.793031420690438,Sector
+Patillas,Agriculture,1,0.6159011163751511,Sector
+Patillas,Transportation,85,0.6271464195524032,Sector
+Patillas,Consumer_Products,71,0.09731381488853241,Sector
+Patillas,Unassigned,13,0.11696643671826801,Sector
+Patillas,Communication,9,0.9154273663617536,Sector
+Patillas,Trade,33,0.8161567310234729,Sector
+Patillas,Business_Services,75,0.4816463877864887,Sector
+Patillas,Business_Products,76,0.010983662844776254,Sector
+Patillas,Construction,91,0.6066934856110686,Sector
+Patillas,Services,91,0.5766895372684011,Sector
+Patillas,Mining,53,0.5257291386622063,Sector
+Patillas,Health_Care,6,0.4154129105196436,Sector
+Patillas,EnergyExpL_Prod,59,0.9765023264217275,Sector
+Patillas,Utilities,16,0.9371283419526213,Sector

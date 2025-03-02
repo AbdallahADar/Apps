@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mahaska,779,0.4912990820967807,Overall
+Mahaska,HiTech,53,0.5346554719323862,Sector
+Mahaska,Agriculture,47,0.7820344575785037,Sector
+Mahaska,Transportation,98,0.3230450811238753,Sector
+Mahaska,Consumer_Products,71,0.673685055543834,Sector
+Mahaska,Unassigned,39,0.5532552519251585,Sector
+Mahaska,Communication,46,0.34833079639919884,Sector
+Mahaska,Trade,97,0.29430024109758257,Sector
+Mahaska,Business_Services,75,0.3968829330132364,Sector
+Mahaska,Business_Products,57,0.957930354734634,Sector
+Mahaska,Construction,47,0.6323147847116133,Sector
+Mahaska,Services,39,0.03830380573682268,Sector
+Mahaska,Mining,30,0.981973379939292,Sector
+Mahaska,Health_Care,41,0.17897414328313255,Sector
+Mahaska,EnergyExpL_Prod,16,0.2488014169017222,Sector
+Mahaska,Utilities,23,0.42499905753071754,Sector

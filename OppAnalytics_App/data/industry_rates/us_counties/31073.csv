@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gosper,830,0.5245279543269944,Overall
+Gosper,HiTech,80,0.6497514785561701,Sector
+Gosper,Agriculture,15,0.08621033815170553,Sector
+Gosper,Transportation,10,0.14640721902509846,Sector
+Gosper,Consumer_Products,92,0.7795263608227221,Sector
+Gosper,Unassigned,75,0.2046034496471496,Sector
+Gosper,Communication,42,0.7877564990337135,Sector
+Gosper,Trade,10,0.7131128785557239,Sector
+Gosper,Business_Services,57,0.7504106671856741,Sector
+Gosper,Business_Products,11,0.5658878234440472,Sector
+Gosper,Construction,96,0.9377381393587849,Sector
+Gosper,Services,75,0.1944614518395481,Sector
+Gosper,Mining,11,0.1613491397929797,Sector
+Gosper,Health_Care,99,0.2996136763957721,Sector
+Gosper,EnergyExpL_Prod,67,0.7540526793800669,Sector
+Gosper,Utilities,90,0.837037513715759,Sector

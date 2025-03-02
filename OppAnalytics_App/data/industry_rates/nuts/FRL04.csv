@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bouches-du-Rhône,692,0.6326508719317762,Overall
+Bouches-du-Rhône,HiTech,39,0.6748374287943333,Sector
+Bouches-du-Rhône,Agriculture,59,0.8920760491083859,Sector
+Bouches-du-Rhône,Transportation,28,0.954304720996377,Sector
+Bouches-du-Rhône,Consumer_Products,57,0.0029326899062912526,Sector
+Bouches-du-Rhône,Unassigned,78,0.9150222550466546,Sector
+Bouches-du-Rhône,Communication,51,0.543628117491214,Sector
+Bouches-du-Rhône,Trade,37,0.9281399793094486,Sector
+Bouches-du-Rhône,Business_Services,77,0.1463987371558957,Sector
+Bouches-du-Rhône,Business_Products,74,0.902751312029003,Sector
+Bouches-du-Rhône,Construction,1,0.49848838511662696,Sector
+Bouches-du-Rhône,Services,7,0.9603577676465755,Sector
+Bouches-du-Rhône,Mining,76,0.8562464699276192,Sector
+Bouches-du-Rhône,Health_Care,67,0.3128022305427689,Sector
+Bouches-du-Rhône,EnergyExpL_Prod,1,0.4186628724794055,Sector
+Bouches-du-Rhône,Utilities,40,0.48311406342604435,Sector

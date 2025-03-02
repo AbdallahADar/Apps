@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cheatham,694,0.4595046820199809,Overall
+Cheatham,HiTech,90,0.43828137362778385,Sector
+Cheatham,Agriculture,86,0.7386821693595507,Sector
+Cheatham,Transportation,0,0.8182186162334554,Sector
+Cheatham,Consumer_Products,57,0.11207020693889957,Sector
+Cheatham,Unassigned,66,0.2214098023571056,Sector
+Cheatham,Communication,42,0.641074794180009,Sector
+Cheatham,Trade,25,0.3810182087199586,Sector
+Cheatham,Business_Services,35,0.7421925103548722,Sector
+Cheatham,Business_Products,14,0.9838101820358196,Sector
+Cheatham,Construction,25,0.3350701366071709,Sector
+Cheatham,Services,48,0.3123548151898301,Sector
+Cheatham,Mining,32,0.3269148947739151,Sector
+Cheatham,Health_Care,49,0.2064256011017157,Sector
+Cheatham,EnergyExpL_Prod,54,0.04502758594657075,Sector
+Cheatham,Utilities,71,0.5900193328730577,Sector

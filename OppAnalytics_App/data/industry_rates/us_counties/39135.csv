@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Preble,838,0.46682204990200543,Overall
+Preble,HiTech,25,0.5272707259664635,Sector
+Preble,Agriculture,64,0.27331816766212724,Sector
+Preble,Transportation,60,0.5035496791846028,Sector
+Preble,Consumer_Products,62,0.9929757570084553,Sector
+Preble,Unassigned,22,0.4609503933353907,Sector
+Preble,Communication,69,0.10196478297991907,Sector
+Preble,Trade,53,0.6396959028585727,Sector
+Preble,Business_Services,51,0.7223993967776217,Sector
+Preble,Business_Products,62,0.21397930223449824,Sector
+Preble,Construction,76,0.46030094872602645,Sector
+Preble,Services,28,0.15992542591000103,Sector
+Preble,Mining,87,0.7294228024794751,Sector
+Preble,Health_Care,87,0.17083337337904392,Sector
+Preble,EnergyExpL_Prod,1,0.7153988798685494,Sector
+Preble,Utilities,91,0.3303452101593334,Sector

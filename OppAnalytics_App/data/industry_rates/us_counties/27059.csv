@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Isanti,654,0.41824552856791175,Overall
+Isanti,HiTech,5,0.08373310697674508,Sector
+Isanti,Agriculture,90,0.6342510502314822,Sector
+Isanti,Transportation,98,0.28969595389579617,Sector
+Isanti,Consumer_Products,7,0.13321346087653174,Sector
+Isanti,Unassigned,21,0.5126014269557363,Sector
+Isanti,Communication,10,0.11059583647555016,Sector
+Isanti,Trade,20,0.2611103923207385,Sector
+Isanti,Business_Services,21,0.2799974719076901,Sector
+Isanti,Business_Products,96,0.4428172948860357,Sector
+Isanti,Construction,28,0.6360472358142747,Sector
+Isanti,Services,0,0.552368567004325,Sector
+Isanti,Mining,10,0.9138007001519142,Sector
+Isanti,Health_Care,71,0.12974127310457284,Sector
+Isanti,EnergyExpL_Prod,83,0.9208953774322616,Sector
+Isanti,Utilities,94,0.3728137804850221,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Brewster,698,0.3892253698910689,Overall
+Brewster,HiTech,68,0.914787662743454,Sector
+Brewster,Agriculture,14,0.09950049204672162,Sector
+Brewster,Transportation,71,0.3613355571978516,Sector
+Brewster,Consumer_Products,42,0.3471398541662778,Sector
+Brewster,Unassigned,85,0.48511937587140963,Sector
+Brewster,Communication,39,0.9395740486358295,Sector
+Brewster,Trade,79,0.49642152820572094,Sector
+Brewster,Business_Services,31,0.044194443812305084,Sector
+Brewster,Business_Products,61,0.7973519661778949,Sector
+Brewster,Construction,32,0.012043903658812916,Sector
+Brewster,Services,84,0.22208652032762344,Sector
+Brewster,Mining,27,0.1247975905554145,Sector
+Brewster,Health_Care,29,0.3297702932902443,Sector
+Brewster,EnergyExpL_Prod,13,0.26668140974313004,Sector
+Brewster,Utilities,23,0.3975759019333427,Sector

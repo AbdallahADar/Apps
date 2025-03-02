@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Main-Taunus-Kreis,709,0.4057040119345217,Overall
+Main-Taunus-Kreis,HiTech,38,0.27484931018141034,Sector
+Main-Taunus-Kreis,Agriculture,27,0.14388183940180643,Sector
+Main-Taunus-Kreis,Transportation,37,0.5447867374983273,Sector
+Main-Taunus-Kreis,Consumer_Products,8,0.24142532226756275,Sector
+Main-Taunus-Kreis,Unassigned,76,0.3176563084455155,Sector
+Main-Taunus-Kreis,Communication,69,0.3259418621412582,Sector
+Main-Taunus-Kreis,Trade,82,0.6124048067272763,Sector
+Main-Taunus-Kreis,Business_Services,99,0.21034850139523031,Sector
+Main-Taunus-Kreis,Business_Products,29,0.011077646263418561,Sector
+Main-Taunus-Kreis,Construction,69,0.47081269928015224,Sector
+Main-Taunus-Kreis,Services,22,0.7106272261864482,Sector
+Main-Taunus-Kreis,Mining,39,0.8394600799239512,Sector
+Main-Taunus-Kreis,Health_Care,8,0.4724590802661486,Sector
+Main-Taunus-Kreis,EnergyExpL_Prod,59,0.31474773410189383,Sector
+Main-Taunus-Kreis,Utilities,47,0.5950810249374263,Sector

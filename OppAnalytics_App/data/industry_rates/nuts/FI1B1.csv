@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Helsinki-Uusimaa,800,0.6271311070752339,Overall
+Helsinki-Uusimaa,HiTech,32,0.957420581659727,Sector
+Helsinki-Uusimaa,Agriculture,47,0.3858835253855323,Sector
+Helsinki-Uusimaa,Transportation,22,0.6498894544509082,Sector
+Helsinki-Uusimaa,Consumer_Products,85,0.48248895037748774,Sector
+Helsinki-Uusimaa,Unassigned,13,0.6053006587842034,Sector
+Helsinki-Uusimaa,Communication,24,0.8200294246587957,Sector
+Helsinki-Uusimaa,Trade,49,0.8725897629963957,Sector
+Helsinki-Uusimaa,Business_Services,63,0.17449046215489117,Sector
+Helsinki-Uusimaa,Business_Products,62,0.6157201912760667,Sector
+Helsinki-Uusimaa,Construction,18,0.9335188737415112,Sector
+Helsinki-Uusimaa,Services,27,0.8568109156508842,Sector
+Helsinki-Uusimaa,Mining,83,0.001177694480211544,Sector
+Helsinki-Uusimaa,Health_Care,79,0.46339412499944554,Sector
+Helsinki-Uusimaa,EnergyExpL_Prod,99,0.8656309773438743,Sector
+Helsinki-Uusimaa,Utilities,97,0.7226210081685731,Sector

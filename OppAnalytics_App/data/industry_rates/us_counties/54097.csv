@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Upshur,725,0.4157339146786901,Overall
+Upshur,HiTech,22,0.44820870700348847,Sector
+Upshur,Agriculture,27,0.6101587260200679,Sector
+Upshur,Transportation,38,0.7628029165138945,Sector
+Upshur,Consumer_Products,31,0.09141974277311737,Sector
+Upshur,Unassigned,76,0.12604375543358282,Sector
+Upshur,Communication,82,0.28499409237163553,Sector
+Upshur,Trade,29,0.8868248376256757,Sector
+Upshur,Business_Services,36,0.03281924821153981,Sector
+Upshur,Business_Products,35,0.8672416229748826,Sector
+Upshur,Construction,40,0.8489003675118993,Sector
+Upshur,Services,43,0.7458679290448031,Sector
+Upshur,Mining,61,0.1103336756449359,Sector
+Upshur,Health_Care,70,0.08589774626304514,Sector
+Upshur,EnergyExpL_Prod,90,0.06137624326960622,Sector
+Upshur,Utilities,45,0.2731191095181754,Sector

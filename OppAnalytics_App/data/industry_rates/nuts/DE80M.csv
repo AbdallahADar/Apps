@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nordwestmecklenburg,686,0.5032598980373199,Overall
+Nordwestmecklenburg,HiTech,39,0.48768905074102387,Sector
+Nordwestmecklenburg,Agriculture,89,0.8119687000327059,Sector
+Nordwestmecklenburg,Transportation,26,0.6459996436625348,Sector
+Nordwestmecklenburg,Consumer_Products,97,0.9443673974710576,Sector
+Nordwestmecklenburg,Unassigned,30,0.02065432835968606,Sector
+Nordwestmecklenburg,Communication,38,0.7929054347551275,Sector
+Nordwestmecklenburg,Trade,59,0.6707999478695643,Sector
+Nordwestmecklenburg,Business_Services,15,0.6412488995531982,Sector
+Nordwestmecklenburg,Business_Products,41,0.6755679120390237,Sector
+Nordwestmecklenburg,Construction,64,0.8248758405875849,Sector
+Nordwestmecklenburg,Services,89,0.19898988146451124,Sector
+Nordwestmecklenburg,Mining,77,0.11051657409940896,Sector
+Nordwestmecklenburg,Health_Care,16,0.02445399656592151,Sector
+Nordwestmecklenburg,EnergyExpL_Prod,4,0.08783849935193788,Sector
+Nordwestmecklenburg,Utilities,2,0.6110223640065117,Sector

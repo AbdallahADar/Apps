@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tama,790,0.42212580450112047,Overall
+Tama,HiTech,23,0.5773619885881104,Sector
+Tama,Agriculture,94,0.15578844226258948,Sector
+Tama,Transportation,19,0.011980859585222547,Sector
+Tama,Consumer_Products,99,0.6582657385090728,Sector
+Tama,Unassigned,33,0.5192652514864211,Sector
+Tama,Communication,95,0.4386036530812709,Sector
+Tama,Trade,25,0.8463758463878738,Sector
+Tama,Business_Services,88,0.3935484564252403,Sector
+Tama,Business_Products,88,0.38257323612766436,Sector
+Tama,Construction,20,0.007884768953134835,Sector
+Tama,Services,19,0.5409357198810679,Sector
+Tama,Mining,85,0.398219956651088,Sector
+Tama,Health_Care,44,0.2511578857185037,Sector
+Tama,EnergyExpL_Prod,46,0.6970927026800221,Sector
+Tama,Utilities,12,0.4528325611795252,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Whatcom,817,0.6021983501707983,Overall
+Whatcom,HiTech,73,0.47849528422365195,Sector
+Whatcom,Agriculture,98,0.47805004249550076,Sector
+Whatcom,Transportation,2,0.695562746862371,Sector
+Whatcom,Consumer_Products,35,0.8074640880959749,Sector
+Whatcom,Unassigned,69,0.4797613774400652,Sector
+Whatcom,Communication,85,0.1701444021980495,Sector
+Whatcom,Trade,76,0.08865578788704953,Sector
+Whatcom,Business_Services,51,0.8245056576963615,Sector
+Whatcom,Business_Products,87,0.2789842255274051,Sector
+Whatcom,Construction,89,0.4749635538588236,Sector
+Whatcom,Services,18,0.8301503907148782,Sector
+Whatcom,Mining,38,0.7741839117450013,Sector
+Whatcom,Health_Care,6,0.9083053536898127,Sector
+Whatcom,EnergyExpL_Prod,64,0.7619898479874164,Sector
+Whatcom,Utilities,26,0.9817585821396122,Sector

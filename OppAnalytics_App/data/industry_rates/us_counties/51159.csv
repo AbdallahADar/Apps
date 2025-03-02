@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Richmond,660,0.4557218147044679,Overall
+Richmond,HiTech,52,0.48602561675970046,Sector
+Richmond,Agriculture,6,0.4322300532732808,Sector
+Richmond,Transportation,59,0.14643746908759991,Sector
+Richmond,Consumer_Products,42,0.9403276630481495,Sector
+Richmond,Unassigned,51,0.5007855726686402,Sector
+Richmond,Communication,18,0.7934997091775806,Sector
+Richmond,Trade,26,0.09450039746326444,Sector
+Richmond,Business_Services,67,0.7702933586035378,Sector
+Richmond,Business_Products,8,0.7549089324761128,Sector
+Richmond,Construction,34,0.5539787441610451,Sector
+Richmond,Services,8,0.18267560036758457,Sector
+Richmond,Mining,67,0.0966277123650996,Sector
+Richmond,Health_Care,44,0.7575575706125581,Sector
+Richmond,EnergyExpL_Prod,86,0.19879725912590906,Sector
+Richmond,Utilities,92,0.12718156137695513,Sector

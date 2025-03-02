@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Seward,756,0.6023005638908099,Overall
+Seward,HiTech,24,0.46622793793514217,Sector
+Seward,Agriculture,41,0.6082862560873582,Sector
+Seward,Transportation,31,0.476945474529197,Sector
+Seward,Consumer_Products,14,0.8159021104369213,Sector
+Seward,Unassigned,58,0.7677279875671754,Sector
+Seward,Communication,14,0.37411222867336813,Sector
+Seward,Trade,60,0.5987985792698757,Sector
+Seward,Business_Services,60,0.3630356195224652,Sector
+Seward,Business_Products,16,0.3748340761743496,Sector
+Seward,Construction,9,0.5532081892047536,Sector
+Seward,Services,84,0.4240610200158982,Sector
+Seward,Mining,94,0.9407087406014546,Sector
+Seward,Health_Care,83,0.6535369478915556,Sector
+Seward,EnergyExpL_Prod,73,0.6646386212599523,Sector
+Seward,Utilities,95,0.9524846691926822,Sector

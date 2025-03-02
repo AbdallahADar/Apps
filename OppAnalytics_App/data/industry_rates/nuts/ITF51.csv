@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Potenza,867,0.5291383340853306,Overall
+Potenza,HiTech,42,0.6618201597950463,Sector
+Potenza,Agriculture,99,0.5266665335819414,Sector
+Potenza,Transportation,86,0.2829103196443401,Sector
+Potenza,Consumer_Products,2,0.6814600325475336,Sector
+Potenza,Unassigned,28,0.6560676936195674,Sector
+Potenza,Communication,80,0.8200237685924487,Sector
+Potenza,Trade,72,0.6867576222365099,Sector
+Potenza,Business_Services,70,0.7037960697677903,Sector
+Potenza,Business_Products,68,0.5685454732786971,Sector
+Potenza,Construction,17,0.8256317102800023,Sector
+Potenza,Services,59,0.21610065655593136,Sector
+Potenza,Mining,65,0.27094575452302716,Sector
+Potenza,Health_Care,93,0.6513960019092679,Sector
+Potenza,EnergyExpL_Prod,17,0.25933751809044425,Sector
+Potenza,Utilities,69,0.12561569685741136,Sector

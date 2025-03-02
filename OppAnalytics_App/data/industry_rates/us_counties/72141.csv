@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Utuado,657,0.5181192114096461,Overall
+Utuado,HiTech,49,0.9705725338111728,Sector
+Utuado,Agriculture,11,0.7499020100134886,Sector
+Utuado,Transportation,23,0.7209407574565403,Sector
+Utuado,Consumer_Products,22,0.34991262772296794,Sector
+Utuado,Unassigned,56,0.03203345798137025,Sector
+Utuado,Communication,45,0.8549667891890247,Sector
+Utuado,Trade,51,0.1631679136827089,Sector
+Utuado,Business_Services,37,0.2666601845142611,Sector
+Utuado,Business_Products,82,0.5499636013127294,Sector
+Utuado,Construction,30,0.8247829468646338,Sector
+Utuado,Services,18,0.9741030690353815,Sector
+Utuado,Mining,56,0.833823109110098,Sector
+Utuado,Health_Care,18,0.34010370416279,Sector
+Utuado,EnergyExpL_Prod,73,0.08978621310219626,Sector
+Utuado,Utilities,86,0.051069253185327845,Sector

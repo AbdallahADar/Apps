@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Spotsylvania,760,0.5870373938763006,Overall
+Spotsylvania,HiTech,74,0.17805941002018622,Sector
+Spotsylvania,Agriculture,6,0.9456533875958893,Sector
+Spotsylvania,Transportation,4,0.40991127169745933,Sector
+Spotsylvania,Consumer_Products,68,0.30306985263233766,Sector
+Spotsylvania,Unassigned,75,0.8387636993588571,Sector
+Spotsylvania,Communication,20,0.5214460361059188,Sector
+Spotsylvania,Trade,92,0.18871154385564037,Sector
+Spotsylvania,Business_Services,45,0.2601543405797524,Sector
+Spotsylvania,Business_Products,16,0.9964237169984451,Sector
+Spotsylvania,Construction,15,0.8996692296116818,Sector
+Spotsylvania,Services,89,0.7320775145257056,Sector
+Spotsylvania,Mining,10,0.7013819630575537,Sector
+Spotsylvania,Health_Care,84,0.7410632809444513,Sector
+Spotsylvania,EnergyExpL_Prod,67,0.4361262682548295,Sector
+Spotsylvania,Utilities,95,0.6530493929058011,Sector

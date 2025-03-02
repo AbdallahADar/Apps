@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lipscomb,718,0.4288563778935542,Overall
+Lipscomb,HiTech,0,0.2592219457037003,Sector
+Lipscomb,Agriculture,96,0.16855210390956954,Sector
+Lipscomb,Transportation,0,0.006971707062312205,Sector
+Lipscomb,Consumer_Products,84,0.7149577556877823,Sector
+Lipscomb,Unassigned,27,0.3436106333280914,Sector
+Lipscomb,Communication,86,0.7940573953914987,Sector
+Lipscomb,Trade,82,0.4185796304514663,Sector
+Lipscomb,Business_Services,47,0.4504886597048686,Sector
+Lipscomb,Business_Products,61,0.7103279417685117,Sector
+Lipscomb,Construction,60,0.6793790414146795,Sector
+Lipscomb,Services,40,0.6162739024260669,Sector
+Lipscomb,Mining,4,0.3114464599902579,Sector
+Lipscomb,Health_Care,47,0.13273752386235327,Sector
+Lipscomb,EnergyExpL_Prod,43,0.0884323311023989,Sector
+Lipscomb,Utilities,41,0.7378086365997559,Sector

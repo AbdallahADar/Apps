@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sabana Grande,476,0.43399772150208143,Overall
+Sabana Grande,HiTech,5,0.23602192430056113,Sector
+Sabana Grande,Agriculture,75,0.59757731358749,Sector
+Sabana Grande,Transportation,67,0.10296562809885468,Sector
+Sabana Grande,Consumer_Products,1,0.37313122807574883,Sector
+Sabana Grande,Unassigned,5,0.48794797731474837,Sector
+Sabana Grande,Communication,21,0.8670342225199715,Sector
+Sabana Grande,Trade,28,0.1834175905972384,Sector
+Sabana Grande,Business_Services,34,0.19165489928421398,Sector
+Sabana Grande,Business_Products,8,0.27202273940213384,Sector
+Sabana Grande,Construction,37,0.024144313411761265,Sector
+Sabana Grande,Services,19,0.5928521538452614,Sector
+Sabana Grande,Mining,90,0.1934671372132729,Sector
+Sabana Grande,Health_Care,28,0.8214208632942452,Sector
+Sabana Grande,EnergyExpL_Prod,49,0.8851473635272293,Sector
+Sabana Grande,Utilities,9,0.6811604680584901,Sector

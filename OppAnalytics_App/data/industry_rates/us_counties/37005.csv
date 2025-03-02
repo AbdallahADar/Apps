@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alleghany,679,0.5886601997750412,Overall
+Alleghany,HiTech,56,0.49355530072093867,Sector
+Alleghany,Agriculture,2,0.7392025338304726,Sector
+Alleghany,Transportation,58,0.4432308252736502,Sector
+Alleghany,Consumer_Products,43,0.9153928579167068,Sector
+Alleghany,Unassigned,19,0.1874546317290111,Sector
+Alleghany,Communication,47,0.4965103008185703,Sector
+Alleghany,Trade,0,0.19989408162100963,Sector
+Alleghany,Business_Services,55,0.9799319421547524,Sector
+Alleghany,Business_Products,86,0.6588484755318649,Sector
+Alleghany,Construction,97,0.743438139015005,Sector
+Alleghany,Services,42,0.8067678059001491,Sector
+Alleghany,Mining,17,0.7336638431627456,Sector
+Alleghany,Health_Care,22,0.7685253570474458,Sector
+Alleghany,EnergyExpL_Prod,65,0.36655514938202904,Sector
+Alleghany,Utilities,70,0.29693175252126724,Sector

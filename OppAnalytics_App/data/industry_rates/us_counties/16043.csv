@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fremont,615,0.4604172013306634,Overall
+Fremont,HiTech,68,0.5951848639255316,Sector
+Fremont,Agriculture,20,0.4720395065120647,Sector
+Fremont,Transportation,50,0.7996055072294385,Sector
+Fremont,Consumer_Products,69,0.11661774409802217,Sector
+Fremont,Unassigned,59,0.2037890571380533,Sector
+Fremont,Communication,70,0.5507309916200831,Sector
+Fremont,Trade,7,0.7565870693635426,Sector
+Fremont,Business_Services,56,0.25954590650233156,Sector
+Fremont,Business_Products,6,0.9837501927429343,Sector
+Fremont,Construction,96,0.09645932253770628,Sector
+Fremont,Services,34,0.23285557271957202,Sector
+Fremont,Mining,6,0.6089039087812408,Sector
+Fremont,Health_Care,8,0.07968182583667105,Sector
+Fremont,EnergyExpL_Prod,20,0.48149965058885547,Sector
+Fremont,Utilities,46,0.6690069003639033,Sector

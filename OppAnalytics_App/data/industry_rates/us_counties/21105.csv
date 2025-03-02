@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hickman,795,0.4319641000101627,Overall
+Hickman,HiTech,49,0.14206992307078914,Sector
+Hickman,Agriculture,13,0.30305969091467144,Sector
+Hickman,Transportation,89,0.34556875608775706,Sector
+Hickman,Consumer_Products,63,0.719582798124637,Sector
+Hickman,Unassigned,33,0.30142031485740783,Sector
+Hickman,Communication,40,0.4753384905765756,Sector
+Hickman,Trade,93,0.7739673994192037,Sector
+Hickman,Business_Services,90,0.15247671434800503,Sector
+Hickman,Business_Products,7,0.331807517154758,Sector
+Hickman,Construction,93,0.3631414851752971,Sector
+Hickman,Services,29,0.2064722408800772,Sector
+Hickman,Mining,35,0.5919543857274128,Sector
+Hickman,Health_Care,58,0.46693561900639535,Sector
+Hickman,EnergyExpL_Prod,33,0.4286591201570136,Sector
+Hickman,Utilities,70,0.8770070446524394,Sector

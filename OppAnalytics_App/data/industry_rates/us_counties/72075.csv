@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Juana Díaz,535,0.639563455191832,Overall
+Juana Díaz,HiTech,52,0.7219472691917477,Sector
+Juana Díaz,Agriculture,8,0.6469946381634436,Sector
+Juana Díaz,Transportation,15,0.9984950660367592,Sector
+Juana Díaz,Consumer_Products,55,0.21417962192146767,Sector
+Juana Díaz,Unassigned,42,0.8234069179121838,Sector
+Juana Díaz,Communication,28,0.5870444948954994,Sector
+Juana Díaz,Trade,54,0.7359065646588834,Sector
+Juana Díaz,Business_Services,21,0.9322232691767609,Sector
+Juana Díaz,Business_Products,52,0.823637816441997,Sector
+Juana Díaz,Construction,9,0.6152210292584877,Sector
+Juana Díaz,Services,40,0.9106886492458904,Sector
+Juana Díaz,Mining,24,0.07614019114734982,Sector
+Juana Díaz,Health_Care,22,0.7153177987715527,Sector
+Juana Díaz,EnergyExpL_Prod,26,0.19514125074387512,Sector
+Juana Díaz,Utilities,87,0.5971072503115805,Sector

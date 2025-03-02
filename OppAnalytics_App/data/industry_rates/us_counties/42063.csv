@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Indiana,764,0.5689882182707042,Overall
+Indiana,HiTech,41,0.38013152332758615,Sector
+Indiana,Agriculture,97,0.9084843028145092,Sector
+Indiana,Transportation,23,0.7745784427981361,Sector
+Indiana,Consumer_Products,49,0.7289671099675082,Sector
+Indiana,Unassigned,25,0.3405625130779818,Sector
+Indiana,Communication,64,0.7157335303095382,Sector
+Indiana,Trade,1,0.21243826235549546,Sector
+Indiana,Business_Services,26,0.1224143784815368,Sector
+Indiana,Business_Products,20,0.3919739308143474,Sector
+Indiana,Construction,30,0.8531398771359981,Sector
+Indiana,Services,92,0.9646286048442595,Sector
+Indiana,Mining,49,0.9443761939574585,Sector
+Indiana,Health_Care,81,0.1631852797542931,Sector
+Indiana,EnergyExpL_Prod,74,0.25178220487280056,Sector
+Indiana,Utilities,92,0.7824271195491141,Sector

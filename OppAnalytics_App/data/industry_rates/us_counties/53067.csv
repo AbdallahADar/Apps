@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Thurston,829,0.4288699869970389,Overall
+Thurston,HiTech,56,0.38863545131119903,Sector
+Thurston,Agriculture,6,0.6195417819282687,Sector
+Thurston,Transportation,80,0.3519493709806192,Sector
+Thurston,Consumer_Products,99,0.7516269422904381,Sector
+Thurston,Unassigned,21,0.7666775439455137,Sector
+Thurston,Communication,84,0.4179005948603949,Sector
+Thurston,Trade,22,0.11441432654541939,Sector
+Thurston,Business_Services,82,0.07370405310030259,Sector
+Thurston,Business_Products,60,0.3648168045864213,Sector
+Thurston,Construction,96,0.07255953003388704,Sector
+Thurston,Services,29,0.7590663406454781,Sector
+Thurston,Mining,74,0.38288730278090166,Sector
+Thurston,Health_Care,50,0.24910952863716096,Sector
+Thurston,EnergyExpL_Prod,17,0.7782300222790908,Sector
+Thurston,Utilities,53,0.3419302110304868,Sector

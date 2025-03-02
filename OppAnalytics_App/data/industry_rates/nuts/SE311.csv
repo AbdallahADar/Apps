@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Värmlands län,464,0.5396728980019001,Overall
+Värmlands län,HiTech,13,0.04772213339468845,Sector
+Värmlands län,Agriculture,18,0.098271616913154,Sector
+Värmlands län,Transportation,77,0.8427944726282872,Sector
+Värmlands län,Consumer_Products,5,0.697039645285893,Sector
+Värmlands län,Unassigned,2,0.8983283676222468,Sector
+Värmlands län,Communication,10,0.8698986612078703,Sector
+Värmlands län,Trade,52,0.18947651312773128,Sector
+Värmlands län,Business_Services,21,0.0315345864101092,Sector
+Värmlands län,Business_Products,18,0.9048098598013529,Sector
+Värmlands län,Construction,61,0.517993444176155,Sector
+Värmlands län,Services,70,0.6408496632909699,Sector
+Värmlands län,Mining,39,0.8534247810536466,Sector
+Värmlands län,Health_Care,17,0.3761809885429138,Sector
+Värmlands län,EnergyExpL_Prod,20,0.7873432874943035,Sector
+Värmlands län,Utilities,41,0.33942544907918126,Sector

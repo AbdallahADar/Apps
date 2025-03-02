@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Braxton,628,0.6657516110690448,Overall
+Braxton,HiTech,8,0.878297642462326,Sector
+Braxton,Agriculture,0,0.6368338611009331,Sector
+Braxton,Transportation,6,0.7709980669172235,Sector
+Braxton,Consumer_Products,60,0.6537768404207434,Sector
+Braxton,Unassigned,49,0.8406895533939402,Sector
+Braxton,Communication,24,0.9747845592310709,Sector
+Braxton,Trade,25,0.6490496436221083,Sector
+Braxton,Business_Services,51,0.190554956311761,Sector
+Braxton,Business_Products,52,0.492515649894547,Sector
+Braxton,Construction,90,0.47831005276302496,Sector
+Braxton,Services,54,0.6209922613581009,Sector
+Braxton,Mining,40,0.19959878166174416,Sector
+Braxton,Health_Care,38,0.9261713837886709,Sector
+Braxton,EnergyExpL_Prod,52,0.9520684580893677,Sector
+Braxton,Utilities,79,0.7216324550201125,Sector

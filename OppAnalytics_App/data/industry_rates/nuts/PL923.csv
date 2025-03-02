@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Płocki,840,0.4419342174362363,Overall
+Płocki,HiTech,97,0.43506154945841424,Sector
+Płocki,Agriculture,31,0.9043716586623044,Sector
+Płocki,Transportation,86,0.4527992901733269,Sector
+Płocki,Consumer_Products,11,0.23055130670682245,Sector
+Płocki,Unassigned,73,0.08325047545337982,Sector
+Płocki,Communication,51,0.17968033155382224,Sector
+Płocki,Trade,21,0.6475365631047024,Sector
+Płocki,Business_Services,90,0.2540678406923341,Sector
+Płocki,Business_Products,96,0.2870534595454346,Sector
+Płocki,Construction,55,0.9440586915904137,Sector
+Płocki,Services,50,0.15254244551726215,Sector
+Płocki,Mining,11,0.9686838640262512,Sector
+Płocki,Health_Care,55,0.26160332238035267,Sector
+Płocki,EnergyExpL_Prod,31,0.20239736718059154,Sector
+Płocki,Utilities,82,0.6253550954981338,Sector

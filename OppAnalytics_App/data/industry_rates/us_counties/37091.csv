@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hertford,683,0.49535487619372615,Overall
+Hertford,HiTech,52,0.7816363065171104,Sector
+Hertford,Agriculture,57,0.1882512216138451,Sector
+Hertford,Transportation,8,0.04567174292469056,Sector
+Hertford,Consumer_Products,30,0.620229132392421,Sector
+Hertford,Unassigned,83,0.2884327157638805,Sector
+Hertford,Communication,28,0.551594168099922,Sector
+Hertford,Trade,87,0.6701004468921561,Sector
+Hertford,Business_Services,75,0.5573204974429902,Sector
+Hertford,Business_Products,7,0.9348713205742611,Sector
+Hertford,Construction,32,0.2711658318773825,Sector
+Hertford,Services,66,0.4100869659368771,Sector
+Hertford,Mining,38,0.4120943532020084,Sector
+Hertford,Health_Care,52,0.8414795375867957,Sector
+Hertford,EnergyExpL_Prod,19,0.7967383129693767,Sector
+Hertford,Utilities,49,0.0606505891121738,Sector

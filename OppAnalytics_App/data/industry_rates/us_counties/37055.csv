@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dare,673,0.6239010825377231,Overall
+Dare,HiTech,84,0.5524173876598777,Sector
+Dare,Agriculture,32,0.24864136430833228,Sector
+Dare,Transportation,27,0.1771642625368045,Sector
+Dare,Consumer_Products,42,0.8137124556837128,Sector
+Dare,Unassigned,41,0.6582158913874859,Sector
+Dare,Communication,56,0.7053814779712398,Sector
+Dare,Trade,15,0.9451371526541825,Sector
+Dare,Business_Services,50,0.8276130941157074,Sector
+Dare,Business_Products,10,0.7325172369661278,Sector
+Dare,Construction,86,0.41850380963291245,Sector
+Dare,Services,42,0.8584941238365387,Sector
+Dare,Mining,98,0.8502124234988416,Sector
+Dare,Health_Care,19,0.16810341980459442,Sector
+Dare,EnergyExpL_Prod,5,0.4819811634379193,Sector
+Dare,Utilities,66,0.9204209745715716,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Warendorf,666,0.6138148535864734,Overall
+Warendorf,HiTech,2,0.5971684652173878,Sector
+Warendorf,Agriculture,33,0.06525585851463522,Sector
+Warendorf,Transportation,96,0.67191009823846,Sector
+Warendorf,Consumer_Products,22,0.7256565935393127,Sector
+Warendorf,Unassigned,36,0.9419693364854904,Sector
+Warendorf,Communication,56,0.6615876932640292,Sector
+Warendorf,Trade,50,0.954645667568449,Sector
+Warendorf,Business_Services,51,0.6245438841410156,Sector
+Warendorf,Business_Products,85,0.3837200822998581,Sector
+Warendorf,Construction,80,0.9131057931098848,Sector
+Warendorf,Services,8,0.31285864393430907,Sector
+Warendorf,Mining,0,0.9250238338015109,Sector
+Warendorf,Health_Care,56,0.3779665578604846,Sector
+Warendorf,EnergyExpL_Prod,69,0.4248012478700415,Sector
+Warendorf,Utilities,22,0.6270090479522311,Sector

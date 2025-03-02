@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ohio,798,0.40498606421472544,Overall
+Ohio,HiTech,67,0.6673702047522114,Sector
+Ohio,Agriculture,81,0.2873706159081355,Sector
+Ohio,Transportation,29,0.1348456591826248,Sector
+Ohio,Consumer_Products,28,0.2944862383263246,Sector
+Ohio,Unassigned,23,0.012230841733073872,Sector
+Ohio,Communication,58,0.19668123145723448,Sector
+Ohio,Trade,26,0.7562408269425228,Sector
+Ohio,Business_Services,2,0.05883917846261488,Sector
+Ohio,Business_Products,66,0.4286329595115753,Sector
+Ohio,Construction,97,0.506629619615896,Sector
+Ohio,Services,90,0.9510557972792513,Sector
+Ohio,Mining,82,0.2535714494967084,Sector
+Ohio,Health_Care,32,0.04068177177918164,Sector
+Ohio,EnergyExpL_Prod,99,0.968677299275669,Sector
+Ohio,Utilities,18,0.5174772694978589,Sector

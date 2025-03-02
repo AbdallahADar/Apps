@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Amite,646,0.5321883114011517,Overall
+Amite,HiTech,16,0.05644927844161063,Sector
+Amite,Agriculture,20,0.9154210426598413,Sector
+Amite,Transportation,48,0.5077140881322738,Sector
+Amite,Consumer_Products,17,0.9753498842814223,Sector
+Amite,Unassigned,6,0.9143687126251024,Sector
+Amite,Communication,96,0.44231761316164897,Sector
+Amite,Trade,17,0.2869695595324734,Sector
+Amite,Business_Services,12,0.15962914162406516,Sector
+Amite,Business_Products,96,0.03458675457146121,Sector
+Amite,Construction,60,0.8353199061058652,Sector
+Amite,Services,18,0.5657030711974737,Sector
+Amite,Mining,49,0.27190749968981665,Sector
+Amite,Health_Care,37,0.45755460513970536,Sector
+Amite,EnergyExpL_Prod,81,0.9766513429953634,Sector
+Amite,Utilities,73,0.5828821708591533,Sector

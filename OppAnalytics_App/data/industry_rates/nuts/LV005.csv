@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Latgale,743,0.5632132970111778,Overall
+Latgale,HiTech,30,0.5489991964180967,Sector
+Latgale,Agriculture,36,0.6804513999169635,Sector
+Latgale,Transportation,82,0.9257029344267526,Sector
+Latgale,Consumer_Products,48,0.5881089751734967,Sector
+Latgale,Unassigned,79,0.4279352546538139,Sector
+Latgale,Communication,5,0.6146308688268941,Sector
+Latgale,Trade,65,0.9726210168288635,Sector
+Latgale,Business_Services,12,0.6215648927405635,Sector
+Latgale,Business_Products,97,0.1438688066402931,Sector
+Latgale,Construction,93,0.8277168003333192,Sector
+Latgale,Services,22,0.027860581890993497,Sector
+Latgale,Mining,84,0.8280366332774873,Sector
+Latgale,Health_Care,1,0.010787567055108083,Sector
+Latgale,EnergyExpL_Prod,28,0.328884627924538,Sector
+Latgale,Utilities,61,0.9010298990604848,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gironde,702,0.5480660689951733,Overall
+Gironde,HiTech,79,0.32754747032379217,Sector
+Gironde,Agriculture,40,0.41592032858753647,Sector
+Gironde,Transportation,35,0.7812937154898486,Sector
+Gironde,Consumer_Products,93,0.6798421092717039,Sector
+Gironde,Unassigned,71,0.9036681276025589,Sector
+Gironde,Communication,30,0.7176471312135885,Sector
+Gironde,Trade,53,0.33430586664235284,Sector
+Gironde,Business_Services,41,0.03703672390175161,Sector
+Gironde,Business_Products,93,0.38943948294311903,Sector
+Gironde,Construction,5,0.19550419498329197,Sector
+Gironde,Services,7,0.7590184107730191,Sector
+Gironde,Mining,5,0.3967643818902269,Sector
+Gironde,Health_Care,44,0.7092035280143998,Sector
+Gironde,EnergyExpL_Prod,81,0.6549945888846194,Sector
+Gironde,Utilities,25,0.9188049744057902,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hérault,733,0.5288256997332329,Overall
+Hérault,HiTech,60,0.8741628647052279,Sector
+Hérault,Agriculture,0,0.6009368228059264,Sector
+Hérault,Transportation,95,0.6460275538727382,Sector
+Hérault,Consumer_Products,51,0.43688131948127173,Sector
+Hérault,Unassigned,10,0.24146986625284705,Sector
+Hérault,Communication,94,0.2886692591009461,Sector
+Hérault,Trade,48,0.2069911023068286,Sector
+Hérault,Business_Services,54,0.16279863377181047,Sector
+Hérault,Business_Products,31,0.9758264053350825,Sector
+Hérault,Construction,41,0.7206242044030728,Sector
+Hérault,Services,34,0.7409264911737059,Sector
+Hérault,Mining,85,0.879303460729189,Sector
+Hérault,Health_Care,49,0.39353379257748444,Sector
+Hérault,EnergyExpL_Prod,19,0.5179244670389893,Sector
+Hérault,Utilities,62,0.24630925244337265,Sector

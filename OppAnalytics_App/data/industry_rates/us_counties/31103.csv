@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Keya Paha,857,0.569297666718564,Overall
+Keya Paha,HiTech,99,0.6944832662804024,Sector
+Keya Paha,Agriculture,53,0.08963105701714491,Sector
+Keya Paha,Transportation,60,0.32485844285930143,Sector
+Keya Paha,Consumer_Products,83,0.2526865845483278,Sector
+Keya Paha,Unassigned,83,0.07414813949997545,Sector
+Keya Paha,Communication,52,0.9162677786952307,Sector
+Keya Paha,Trade,53,0.6741663854478267,Sector
+Keya Paha,Business_Services,51,0.9449953702608942,Sector
+Keya Paha,Business_Products,96,0.73883528755293,Sector
+Keya Paha,Construction,29,0.7319756452803462,Sector
+Keya Paha,Services,41,0.5537029603407662,Sector
+Keya Paha,Mining,10,0.6861544201696674,Sector
+Keya Paha,Health_Care,60,0.6189415618373092,Sector
+Keya Paha,EnergyExpL_Prod,4,0.7803525453430472,Sector
+Keya Paha,Utilities,83,0.4582655556452899,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Roscommon,567,0.4989687824138895,Overall
+Roscommon,HiTech,55,0.513604382765477,Sector
+Roscommon,Agriculture,17,0.20258332928334888,Sector
+Roscommon,Transportation,18,0.3574733314830365,Sector
+Roscommon,Consumer_Products,52,0.7492606036833235,Sector
+Roscommon,Unassigned,67,0.9285807458424428,Sector
+Roscommon,Communication,41,0.4494637796760368,Sector
+Roscommon,Trade,22,0.6879326261896034,Sector
+Roscommon,Business_Services,34,0.17298244920561479,Sector
+Roscommon,Business_Products,40,0.034653583890977946,Sector
+Roscommon,Construction,61,0.2580450324574002,Sector
+Roscommon,Services,37,0.9391757490782255,Sector
+Roscommon,Mining,37,0.16375861425581595,Sector
+Roscommon,Health_Care,81,0.4371197858817988,Sector
+Roscommon,EnergyExpL_Prod,3,0.6087451123640594,Sector
+Roscommon,Utilities,2,0.9811526101511798,Sector

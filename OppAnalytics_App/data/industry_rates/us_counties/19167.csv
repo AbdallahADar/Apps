@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sioux,794,0.5177150399528663,Overall
+Sioux,HiTech,31,0.9466818679448974,Sector
+Sioux,Agriculture,70,0.7409533728780251,Sector
+Sioux,Transportation,49,0.007051019017008775,Sector
+Sioux,Consumer_Products,92,0.6803472915782598,Sector
+Sioux,Unassigned,67,0.7799326815082027,Sector
+Sioux,Communication,91,0.8508675346513538,Sector
+Sioux,Trade,99,0.48093109807194445,Sector
+Sioux,Business_Services,63,0.47720163075620436,Sector
+Sioux,Business_Products,13,0.24656972008780997,Sector
+Sioux,Construction,67,0.15576264455593336,Sector
+Sioux,Services,1,0.0020266117883651624,Sector
+Sioux,Mining,31,0.23801552959977246,Sector
+Sioux,Health_Care,26,0.41024759460025373,Sector
+Sioux,EnergyExpL_Prod,78,0.9135273011697355,Sector
+Sioux,Utilities,16,0.8356097010852263,Sector

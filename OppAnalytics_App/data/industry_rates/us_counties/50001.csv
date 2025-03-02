@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Addison,809,0.5458588794894729,Overall
+Addison,HiTech,51,0.0335349887944294,Sector
+Addison,Agriculture,26,0.009453109093732315,Sector
+Addison,Transportation,84,0.9176365477038255,Sector
+Addison,Consumer_Products,19,0.692728220329451,Sector
+Addison,Unassigned,15,0.732530131659583,Sector
+Addison,Communication,98,0.26650619707747325,Sector
+Addison,Trade,76,0.8145269334385469,Sector
+Addison,Business_Services,18,0.4802081777568925,Sector
+Addison,Business_Products,16,0.9411102741211278,Sector
+Addison,Construction,52,0.36917588230718057,Sector
+Addison,Services,56,0.14999089518401942,Sector
+Addison,Mining,91,0.7459416709597763,Sector
+Addison,Health_Care,74,0.8715285473969949,Sector
+Addison,EnergyExpL_Prod,42,0.28768878425233824,Sector
+Addison,Utilities,91,0.875322832266724,Sector

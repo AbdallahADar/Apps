@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bern / Berne,752,0.3515628959568635,Overall
+Bern / Berne,HiTech,20,0.07228499970993996,Sector
+Bern / Berne,Agriculture,89,0.5026286734676408,Sector
+Bern / Berne,Transportation,48,0.24188064618196825,Sector
+Bern / Berne,Consumer_Products,11,0.43414805629599673,Sector
+Bern / Berne,Unassigned,72,0.16987450134574023,Sector
+Bern / Berne,Communication,46,0.7955566786905267,Sector
+Bern / Berne,Trade,74,0.2518350150416877,Sector
+Bern / Berne,Business_Services,65,0.5278297832133824,Sector
+Bern / Berne,Business_Products,73,0.43917944098259065,Sector
+Bern / Berne,Construction,33,0.010478472252752669,Sector
+Bern / Berne,Services,98,0.48613262855187866,Sector
+Bern / Berne,Mining,26,0.24493283450265402,Sector
+Bern / Berne,Health_Care,24,0.6621919951038936,Sector
+Bern / Berne,EnergyExpL_Prod,73,0.06080050132691994,Sector
+Bern / Berne,Utilities,0,0.37368921268538,Sector

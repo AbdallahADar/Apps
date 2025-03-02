@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Woodbury,666,0.470162000366672,Overall
+Woodbury,HiTech,17,0.05707299614502548,Sector
+Woodbury,Agriculture,10,0.4084782328745161,Sector
+Woodbury,Transportation,26,0.5546781097968128,Sector
+Woodbury,Consumer_Products,86,0.17662688534988769,Sector
+Woodbury,Unassigned,81,0.47321102110875957,Sector
+Woodbury,Communication,32,0.9498910540388928,Sector
+Woodbury,Trade,2,0.8101429197731301,Sector
+Woodbury,Business_Services,53,0.6787671451934214,Sector
+Woodbury,Business_Products,64,0.2271163898277403,Sector
+Woodbury,Construction,31,0.35354888917195393,Sector
+Woodbury,Services,96,0.06767802014561086,Sector
+Woodbury,Mining,40,0.7622530131226073,Sector
+Woodbury,Health_Care,39,0.9504610525734748,Sector
+Woodbury,EnergyExpL_Prod,63,0.3298752297933447,Sector
+Woodbury,Utilities,26,0.25262904658490326,Sector

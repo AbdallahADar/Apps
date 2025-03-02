@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mayen-Koblenz,702,0.5777164450669936,Overall
+Mayen-Koblenz,HiTech,33,0.4129183159474302,Sector
+Mayen-Koblenz,Agriculture,32,0.7655513089508013,Sector
+Mayen-Koblenz,Transportation,82,0.7182368739298184,Sector
+Mayen-Koblenz,Consumer_Products,41,0.45427444030629616,Sector
+Mayen-Koblenz,Unassigned,49,0.42205813455442387,Sector
+Mayen-Koblenz,Communication,46,0.8030067176593151,Sector
+Mayen-Koblenz,Trade,17,0.6600917968667696,Sector
+Mayen-Koblenz,Business_Services,2,0.9630385820336275,Sector
+Mayen-Koblenz,Business_Products,44,0.9288825368033192,Sector
+Mayen-Koblenz,Construction,68,0.7288296172729819,Sector
+Mayen-Koblenz,Services,54,0.46751411994820935,Sector
+Mayen-Koblenz,Mining,62,0.33643657560184825,Sector
+Mayen-Koblenz,Health_Care,15,0.5730417979701566,Sector
+Mayen-Koblenz,EnergyExpL_Prod,65,0.17892185260825244,Sector
+Mayen-Koblenz,Utilities,92,0.25294400555165364,Sector

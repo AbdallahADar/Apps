@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Indre,740,0.5083659095505175,Overall
+Indre,HiTech,94,0.37579129381022025,Sector
+Indre,Agriculture,62,0.670449460437254,Sector
+Indre,Transportation,34,0.12847709838200772,Sector
+Indre,Consumer_Products,41,0.5556158984801567,Sector
+Indre,Unassigned,22,0.8042254484688649,Sector
+Indre,Communication,49,0.9498620827912422,Sector
+Indre,Trade,74,0.7485823594884157,Sector
+Indre,Business_Services,3,0.27365265137690764,Sector
+Indre,Business_Products,46,0.42143854183859675,Sector
+Indre,Construction,74,0.4432497334402211,Sector
+Indre,Services,39,0.28459077545201084,Sector
+Indre,Mining,15,0.18140696343309537,Sector
+Indre,Health_Care,31,0.845957192657426,Sector
+Indre,EnergyExpL_Prod,63,0.6236195654864027,Sector
+Indre,Utilities,93,0.31856957771494065,Sector

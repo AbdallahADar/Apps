@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sherman,699,0.4080298432549973,Overall
+Sherman,HiTech,61,0.6429427229473412,Sector
+Sherman,Agriculture,33,0.21649333133275261,Sector
+Sherman,Transportation,77,0.22653308776314474,Sector
+Sherman,Consumer_Products,41,0.4859365003318369,Sector
+Sherman,Unassigned,44,0.30543735599820343,Sector
+Sherman,Communication,7,0.6135757112758095,Sector
+Sherman,Trade,72,0.35412380264186283,Sector
+Sherman,Business_Services,90,0.9648646405193422,Sector
+Sherman,Business_Products,70,0.8367023503484651,Sector
+Sherman,Construction,41,0.27016842413875086,Sector
+Sherman,Services,42,0.42722571722702885,Sector
+Sherman,Mining,0,0.4439985222474442,Sector
+Sherman,Health_Care,9,0.0046706976746673234,Sector
+Sherman,EnergyExpL_Prod,35,0.1777975005251684,Sector
+Sherman,Utilities,77,0.14997728385314069,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Day,523,0.49218238074826687,Overall
+Day,HiTech,42,0.3939950241224255,Sector
+Day,Agriculture,20,0.31442106919970125,Sector
+Day,Transportation,25,0.7806576175595321,Sector
+Day,Consumer_Products,6,0.8073875466469416,Sector
+Day,Unassigned,23,0.6048426913167099,Sector
+Day,Communication,75,0.9433952725726121,Sector
+Day,Trade,0,0.6126409676983251,Sector
+Day,Business_Services,69,0.06119143280652162,Sector
+Day,Business_Products,35,0.7473515941194571,Sector
+Day,Construction,70,0.23575549749264935,Sector
+Day,Services,52,0.5383670448921499,Sector
+Day,Mining,4,0.2062826361174367,Sector
+Day,Health_Care,92,0.28805138020193555,Sector
+Day,EnergyExpL_Prod,2,0.5804751307824643,Sector
+Day,Utilities,8,0.26792080569514265,Sector

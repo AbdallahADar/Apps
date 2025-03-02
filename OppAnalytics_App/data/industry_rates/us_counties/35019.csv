@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Guadalupe,765,0.5822677209581026,Overall
+Guadalupe,HiTech,56,0.903348606058683,Sector
+Guadalupe,Agriculture,53,0.7267102258461486,Sector
+Guadalupe,Transportation,28,0.34151612239199625,Sector
+Guadalupe,Consumer_Products,58,0.8818897339393154,Sector
+Guadalupe,Unassigned,26,0.04277575069742279,Sector
+Guadalupe,Communication,92,0.056163602416062,Sector
+Guadalupe,Trade,73,0.6607907662591705,Sector
+Guadalupe,Business_Services,27,0.8960138075860099,Sector
+Guadalupe,Business_Products,66,0.894654148232439,Sector
+Guadalupe,Construction,12,0.9474353574235318,Sector
+Guadalupe,Services,44,0.9778279687581497,Sector
+Guadalupe,Mining,45,0.7516367918362705,Sector
+Guadalupe,Health_Care,66,0.012779051220444204,Sector
+Guadalupe,EnergyExpL_Prod,26,0.5552927920238659,Sector
+Guadalupe,Utilities,93,0.08518108968202964,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Los Alamos,780,0.4041829513405297,Overall
+Los Alamos,HiTech,65,0.21356682415794215,Sector
+Los Alamos,Agriculture,64,0.8796328207952785,Sector
+Los Alamos,Transportation,24,0.8638147442789209,Sector
+Los Alamos,Consumer_Products,0,0.22287780492295162,Sector
+Los Alamos,Unassigned,78,0.612261503539674,Sector
+Los Alamos,Communication,26,0.08178612349185965,Sector
+Los Alamos,Trade,17,0.23848550399063206,Sector
+Los Alamos,Business_Services,40,0.055141108792482685,Sector
+Los Alamos,Business_Products,56,0.9916858677076318,Sector
+Los Alamos,Construction,77,0.09058301271751179,Sector
+Los Alamos,Services,0,0.6798182906226725,Sector
+Los Alamos,Mining,83,0.583328495025158,Sector
+Los Alamos,Health_Care,60,0.20732028100324218,Sector
+Los Alamos,EnergyExpL_Prod,91,0.03396450389684347,Sector
+Los Alamos,Utilities,99,0.3084773851651429,Sector

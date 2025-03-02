@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Beaver,972,0.46242396811031095,Overall
+Beaver,HiTech,95,0.3546341342295585,Sector
+Beaver,Agriculture,26,0.7679965543714027,Sector
+Beaver,Transportation,42,0.4135905184769665,Sector
+Beaver,Consumer_Products,43,0.4306076386319392,Sector
+Beaver,Unassigned,96,0.3297980660361921,Sector
+Beaver,Communication,52,0.3517046266509226,Sector
+Beaver,Trade,62,0.2946791947508798,Sector
+Beaver,Business_Services,73,0.2815207702019151,Sector
+Beaver,Business_Products,36,0.5522669916961878,Sector
+Beaver,Construction,88,0.5141703107699629,Sector
+Beaver,Services,85,0.6974488753420351,Sector
+Beaver,Mining,16,0.058622375508801006,Sector
+Beaver,Health_Care,91,0.06792368407997951,Sector
+Beaver,EnergyExpL_Prod,91,0.9998869559777617,Sector
+Beaver,Utilities,76,0.8215088249301592,Sector

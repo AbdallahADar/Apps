@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Eure-et-Loir,789,0.5258249643294055,Overall
+Eure-et-Loir,HiTech,77,0.751840933647986,Sector
+Eure-et-Loir,Agriculture,76,0.44177435743874693,Sector
+Eure-et-Loir,Transportation,33,0.006343735333195433,Sector
+Eure-et-Loir,Consumer_Products,47,0.018140593322893417,Sector
+Eure-et-Loir,Unassigned,4,0.9626623042479378,Sector
+Eure-et-Loir,Communication,79,0.6154476583722595,Sector
+Eure-et-Loir,Trade,2,0.6030199640565799,Sector
+Eure-et-Loir,Business_Services,96,0.7738649313152457,Sector
+Eure-et-Loir,Business_Products,16,0.32949242717733684,Sector
+Eure-et-Loir,Construction,80,0.8583748158046628,Sector
+Eure-et-Loir,Services,71,0.5930726956120337,Sector
+Eure-et-Loir,Mining,50,0.49118231913648125,Sector
+Eure-et-Loir,Health_Care,84,0.047727925743793365,Sector
+Eure-et-Loir,EnergyExpL_Prod,44,0.5944152448404418,Sector
+Eure-et-Loir,Utilities,30,0.800014558891488,Sector

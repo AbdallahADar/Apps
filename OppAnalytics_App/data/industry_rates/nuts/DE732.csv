@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fulda,689,0.5616295658594735,Overall
+Fulda,HiTech,55,0.18716415171144496,Sector
+Fulda,Agriculture,18,0.14472301154824307,Sector
+Fulda,Transportation,28,0.6377344720472334,Sector
+Fulda,Consumer_Products,20,0.490107158596231,Sector
+Fulda,Unassigned,75,0.8566511721122755,Sector
+Fulda,Communication,53,0.9583991365734773,Sector
+Fulda,Trade,64,0.7900346701497285,Sector
+Fulda,Business_Services,67,0.7998092395317299,Sector
+Fulda,Business_Products,48,0.3848289966539672,Sector
+Fulda,Construction,2,0.30887152284774333,Sector
+Fulda,Services,90,0.7516114275988213,Sector
+Fulda,Mining,90,0.4909343245803238,Sector
+Fulda,Health_Care,53,0.6781501155076733,Sector
+Fulda,EnergyExpL_Prod,2,0.4305691657029772,Sector
+Fulda,Utilities,24,0.5148549227302335,Sector

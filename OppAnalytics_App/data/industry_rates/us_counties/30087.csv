@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rosebud,845,0.5662501681948904,Overall
+Rosebud,HiTech,64,0.7541267550476188,Sector
+Rosebud,Agriculture,61,0.08259775305295192,Sector
+Rosebud,Transportation,47,0.6702944628462894,Sector
+Rosebud,Consumer_Products,80,0.5709654696843924,Sector
+Rosebud,Unassigned,3,0.7902290253286246,Sector
+Rosebud,Communication,90,0.0767654954632081,Sector
+Rosebud,Trade,26,0.6722585258535793,Sector
+Rosebud,Business_Services,19,0.45077721437211926,Sector
+Rosebud,Business_Products,85,0.42764733426735646,Sector
+Rosebud,Construction,37,0.8921822249014049,Sector
+Rosebud,Services,66,0.34773380266621945,Sector
+Rosebud,Mining,92,0.8750498595430958,Sector
+Rosebud,Health_Care,63,0.7887650536867887,Sector
+Rosebud,EnergyExpL_Prod,56,0.9871698535105273,Sector
+Rosebud,Utilities,56,0.10718969269917789,Sector

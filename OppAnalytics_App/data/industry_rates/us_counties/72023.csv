@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cabo Rojo,552,0.4151998274330459,Overall
+Cabo Rojo,HiTech,39,0.7969498948713237,Sector
+Cabo Rojo,Agriculture,8,0.039485348904159334,Sector
+Cabo Rojo,Transportation,24,0.9674007853928331,Sector
+Cabo Rojo,Consumer_Products,36,0.2923291455651489,Sector
+Cabo Rojo,Unassigned,11,0.06699798955492986,Sector
+Cabo Rojo,Communication,77,0.12131018426888873,Sector
+Cabo Rojo,Trade,98,0.42140195952390413,Sector
+Cabo Rojo,Business_Services,9,0.7563485663756578,Sector
+Cabo Rojo,Business_Products,37,0.0098911708404531,Sector
+Cabo Rojo,Construction,55,0.7537576363883427,Sector
+Cabo Rojo,Services,15,0.45154412380652253,Sector
+Cabo Rojo,Mining,95,0.26523359242942723,Sector
+Cabo Rojo,Health_Care,18,0.5493086924825088,Sector
+Cabo Rojo,EnergyExpL_Prod,9,0.43276842336238874,Sector
+Cabo Rojo,Utilities,21,0.30326989772919966,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sonoma,708,0.5023749241458957,Overall
+Sonoma,HiTech,35,0.5796328300224161,Sector
+Sonoma,Agriculture,28,0.5140323725119333,Sector
+Sonoma,Transportation,79,0.32222291492140553,Sector
+Sonoma,Consumer_Products,70,0.08433678314477622,Sector
+Sonoma,Unassigned,70,0.91637926284062,Sector
+Sonoma,Communication,70,0.3863425386250896,Sector
+Sonoma,Trade,36,0.8277033677040758,Sector
+Sonoma,Business_Services,63,0.7329553940341614,Sector
+Sonoma,Business_Products,32,0.6621702596159483,Sector
+Sonoma,Construction,92,0.33446951173347395,Sector
+Sonoma,Services,37,0.17250168725654003,Sector
+Sonoma,Mining,6,0.9951725800193277,Sector
+Sonoma,Health_Care,27,0.6428185712398552,Sector
+Sonoma,EnergyExpL_Prod,40,0.2190336880088536,Sector
+Sonoma,Utilities,23,0.1458521005099579,Sector

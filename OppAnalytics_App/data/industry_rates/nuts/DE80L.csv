@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vorpommern-Rügen,692,0.5212710725349858,Overall
+Vorpommern-Rügen,HiTech,10,0.5470073563114138,Sector
+Vorpommern-Rügen,Agriculture,56,0.6180761548770861,Sector
+Vorpommern-Rügen,Transportation,52,0.6642717411168572,Sector
+Vorpommern-Rügen,Consumer_Products,86,0.3767975167645399,Sector
+Vorpommern-Rügen,Unassigned,71,0.36456575154288684,Sector
+Vorpommern-Rügen,Communication,14,0.2805511914217311,Sector
+Vorpommern-Rügen,Trade,37,0.4434062845132273,Sector
+Vorpommern-Rügen,Business_Services,24,0.8989024134693541,Sector
+Vorpommern-Rügen,Business_Products,1,0.7252841777710669,Sector
+Vorpommern-Rügen,Construction,73,0.5399298690218505,Sector
+Vorpommern-Rügen,Services,73,0.5808082441001572,Sector
+Vorpommern-Rügen,Mining,94,0.9121041668496424,Sector
+Vorpommern-Rügen,Health_Care,19,0.059059269623294,Sector
+Vorpommern-Rügen,EnergyExpL_Prod,42,0.6410774938392177,Sector
+Vorpommern-Rügen,Utilities,40,0.16722445680246223,Sector

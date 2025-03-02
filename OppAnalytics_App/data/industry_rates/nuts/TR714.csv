@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nevşehir,683,0.5927975324822081,Overall
+Nevşehir,HiTech,42,0.9751671148157735,Sector
+Nevşehir,Agriculture,26,0.24441962911471893,Sector
+Nevşehir,Transportation,9,0.4044854924500978,Sector
+Nevşehir,Consumer_Products,22,0.6325593909643598,Sector
+Nevşehir,Unassigned,35,0.9630961489850414,Sector
+Nevşehir,Communication,79,0.65470551595749,Sector
+Nevşehir,Trade,40,0.08586676544874938,Sector
+Nevşehir,Business_Services,13,0.21244850043228636,Sector
+Nevşehir,Business_Products,91,0.8014513307527773,Sector
+Nevşehir,Construction,51,0.9550950547541828,Sector
+Nevşehir,Services,67,0.0787799205299301,Sector
+Nevşehir,Mining,60,0.8484042675786698,Sector
+Nevşehir,Health_Care,71,0.7719075826488696,Sector
+Nevşehir,EnergyExpL_Prod,4,0.5130000822222622,Sector
+Nevşehir,Utilities,73,0.7505761905779139,Sector

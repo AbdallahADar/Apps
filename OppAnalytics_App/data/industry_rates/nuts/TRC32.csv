@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Batman,622,0.5074326863940924,Overall
+Batman,HiTech,11,0.8301729442969978,Sector
+Batman,Agriculture,90,0.036027575384617316,Sector
+Batman,Transportation,35,0.5072646571961605,Sector
+Batman,Consumer_Products,27,0.9509746521146142,Sector
+Batman,Unassigned,66,0.7410215770549103,Sector
+Batman,Communication,35,0.3792799316640363,Sector
+Batman,Trade,25,0.03741868734151177,Sector
+Batman,Business_Services,49,0.5770761836293821,Sector
+Batman,Business_Products,28,0.3918530014821954,Sector
+Batman,Construction,87,0.7964043012667674,Sector
+Batman,Services,11,0.707796435020619,Sector
+Batman,Mining,43,0.8749680814624727,Sector
+Batman,Health_Care,92,0.6050757642846085,Sector
+Batman,EnergyExpL_Prod,4,0.054425062345671016,Sector
+Batman,Utilities,19,0.12173144136682257,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nordhausen,664,0.42389965967388504,Overall
+Nordhausen,HiTech,93,0.5214595522432548,Sector
+Nordhausen,Agriculture,52,0.14887925299363491,Sector
+Nordhausen,Transportation,23,0.8426286457773718,Sector
+Nordhausen,Consumer_Products,29,0.03877363712895232,Sector
+Nordhausen,Unassigned,80,0.12720894913854264,Sector
+Nordhausen,Communication,68,0.3559826932751077,Sector
+Nordhausen,Trade,34,0.8535919956895156,Sector
+Nordhausen,Business_Services,41,0.9766447117289038,Sector
+Nordhausen,Business_Products,99,0.12743403191164948,Sector
+Nordhausen,Construction,0,0.8142146672878282,Sector
+Nordhausen,Services,30,0.36896105560539183,Sector
+Nordhausen,Mining,41,0.07068228713793989,Sector
+Nordhausen,Health_Care,44,0.1096609667656897,Sector
+Nordhausen,EnergyExpL_Prod,5,0.8202998036244515,Sector
+Nordhausen,Utilities,25,0.1820726448000417,Sector

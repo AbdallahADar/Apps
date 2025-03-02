@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Missaukee,849,0.5994595627987727,Overall
+Missaukee,HiTech,52,0.9058992455456817,Sector
+Missaukee,Agriculture,54,0.889310318476905,Sector
+Missaukee,Transportation,29,0.2587199947984651,Sector
+Missaukee,Consumer_Products,29,0.06585930214033131,Sector
+Missaukee,Unassigned,90,0.986366496944523,Sector
+Missaukee,Communication,69,0.7223392095191118,Sector
+Missaukee,Trade,46,0.4818466173784074,Sector
+Missaukee,Business_Services,24,0.8332588148450409,Sector
+Missaukee,Business_Products,11,0.2566106520925525,Sector
+Missaukee,Construction,88,0.4431478756748708,Sector
+Missaukee,Services,63,0.8505801845869018,Sector
+Missaukee,Mining,98,0.2859989640664693,Sector
+Missaukee,Health_Care,96,0.860935697280225,Sector
+Missaukee,EnergyExpL_Prod,37,0.5073962273990321,Sector
+Missaukee,Utilities,63,0.6436238412330714,Sector

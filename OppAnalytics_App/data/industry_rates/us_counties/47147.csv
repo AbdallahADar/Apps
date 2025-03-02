@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Robertson,926,0.601432610602261,Overall
+Robertson,HiTech,64,0.27291872141710305,Sector
+Robertson,Agriculture,28,0.5608161872712172,Sector
+Robertson,Transportation,83,0.6917476990648539,Sector
+Robertson,Consumer_Products,48,0.4392276145132452,Sector
+Robertson,Unassigned,65,0.9727418436985827,Sector
+Robertson,Communication,77,0.2785192425200663,Sector
+Robertson,Trade,79,0.4716387989432378,Sector
+Robertson,Business_Services,51,0.26951513792143256,Sector
+Robertson,Business_Products,86,0.7226164255049551,Sector
+Robertson,Construction,91,0.6451642711251813,Sector
+Robertson,Services,1,0.533085315402305,Sector
+Robertson,Mining,33,0.8794418160920525,Sector
+Robertson,Health_Care,75,0.9759592178103447,Sector
+Robertson,EnergyExpL_Prod,67,0.34699704077988147,Sector
+Robertson,Utilities,78,0.9610998269694578,Sector

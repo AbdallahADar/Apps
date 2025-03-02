@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Otter Tail,894,0.4505580361131337,Overall
+Otter Tail,HiTech,77,0.27125998925634187,Sector
+Otter Tail,Agriculture,62,0.21599944296736073,Sector
+Otter Tail,Transportation,69,0.7634803873733478,Sector
+Otter Tail,Consumer_Products,59,0.9368045135161062,Sector
+Otter Tail,Unassigned,53,0.766804656684695,Sector
+Otter Tail,Communication,10,0.03418306831794671,Sector
+Otter Tail,Trade,85,0.115745040827954,Sector
+Otter Tail,Business_Services,63,0.1496367602936478,Sector
+Otter Tail,Business_Products,27,0.6621603089558615,Sector
+Otter Tail,Construction,32,0.17969867059353573,Sector
+Otter Tail,Services,97,0.40971037438845825,Sector
+Otter Tail,Mining,93,0.6785739044891339,Sector
+Otter Tail,Health_Care,32,0.8738353679995094,Sector
+Otter Tail,EnergyExpL_Prod,44,0.35078575313103544,Sector
+Otter Tail,Utilities,91,0.34969230290207143,Sector

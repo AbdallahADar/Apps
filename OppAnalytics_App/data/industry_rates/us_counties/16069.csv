@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nez Perce,563,0.5528173884164475,Overall
+Nez Perce,HiTech,87,0.578065490749955,Sector
+Nez Perce,Agriculture,22,0.7630366461641922,Sector
+Nez Perce,Transportation,35,0.5944337005250605,Sector
+Nez Perce,Consumer_Products,20,0.4714806071912657,Sector
+Nez Perce,Unassigned,34,0.6280085983776328,Sector
+Nez Perce,Communication,47,0.34855495207978027,Sector
+Nez Perce,Trade,85,0.4845531736168791,Sector
+Nez Perce,Business_Services,45,0.5895697980056027,Sector
+Nez Perce,Business_Products,30,0.8147748252218076,Sector
+Nez Perce,Construction,25,0.4037237700757176,Sector
+Nez Perce,Services,53,0.8994502697071041,Sector
+Nez Perce,Mining,1,0.029220360076083418,Sector
+Nez Perce,Health_Care,30,0.10826020805457404,Sector
+Nez Perce,EnergyExpL_Prod,30,0.9021964746479745,Sector
+Nez Perce,Utilities,19,0.6769319517530852,Sector

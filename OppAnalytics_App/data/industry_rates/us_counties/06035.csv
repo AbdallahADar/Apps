@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lassen,669,0.6541386883878976,Overall
+Lassen,HiTech,46,0.31381660064816297,Sector
+Lassen,Agriculture,63,0.9762385453944692,Sector
+Lassen,Transportation,52,0.28255834422390236,Sector
+Lassen,Consumer_Products,18,0.9307206340832562,Sector
+Lassen,Unassigned,12,0.8192467532856837,Sector
+Lassen,Communication,80,0.9282800590188527,Sector
+Lassen,Trade,35,0.7266343125433543,Sector
+Lassen,Business_Services,76,0.3071042483860468,Sector
+Lassen,Business_Products,26,0.9263869124901001,Sector
+Lassen,Construction,54,0.4462388328353152,Sector
+Lassen,Services,17,0.970646395731197,Sector
+Lassen,Mining,85,0.7957917255910866,Sector
+Lassen,Health_Care,50,0.01869924386824573,Sector
+Lassen,EnergyExpL_Prod,55,0.5297180415971317,Sector
+Lassen,Utilities,0,0.8399996761216569,Sector

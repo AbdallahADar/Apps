@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Saline,729,0.5354014635773293,Overall
+Saline,HiTech,70,0.9363874236400831,Sector
+Saline,Agriculture,96,0.3752530286270511,Sector
+Saline,Transportation,57,0.6839810920690012,Sector
+Saline,Consumer_Products,7,0.9070798253721875,Sector
+Saline,Unassigned,41,0.9551799711609574,Sector
+Saline,Communication,86,0.4995403003936614,Sector
+Saline,Trade,40,0.6283988896358121,Sector
+Saline,Business_Services,72,0.2801600100806183,Sector
+Saline,Business_Products,67,0.307538533052668,Sector
+Saline,Construction,3,0.013775881776303067,Sector
+Saline,Services,42,0.4564864446913125,Sector
+Saline,Mining,8,0.8758828480227896,Sector
+Saline,Health_Care,37,0.4565339763702959,Sector
+Saline,EnergyExpL_Prod,26,0.35878780622801054,Sector
+Saline,Utilities,77,0.2960359225391884,Sector

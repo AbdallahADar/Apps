@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Guilford,471,0.5268147279552448,Overall
+Guilford,HiTech,21,0.02844769074160869,Sector
+Guilford,Agriculture,19,0.4689758280935429,Sector
+Guilford,Transportation,6,0.7015255141855272,Sector
+Guilford,Consumer_Products,21,0.8419844581624678,Sector
+Guilford,Unassigned,82,0.8548684146703335,Sector
+Guilford,Communication,0,0.4520549858581976,Sector
+Guilford,Trade,26,0.620101402980422,Sector
+Guilford,Business_Services,56,0.23531342013600431,Sector
+Guilford,Business_Products,70,0.9864555274239054,Sector
+Guilford,Construction,14,0.9669780961881945,Sector
+Guilford,Services,60,0.495896340675993,Sector
+Guilford,Mining,24,0.2643068943862502,Sector
+Guilford,Health_Care,0,0.618633179682446,Sector
+Guilford,EnergyExpL_Prod,29,0.3396678167345434,Sector
+Guilford,Utilities,43,0.027011349409235885,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cuming,814,0.56193614379769,Overall
+Cuming,HiTech,87,0.27848810263011936,Sector
+Cuming,Agriculture,67,0.6231056743437045,Sector
+Cuming,Transportation,53,0.6731881301025628,Sector
+Cuming,Consumer_Products,80,0.5350206369119894,Sector
+Cuming,Unassigned,51,0.4225701474238863,Sector
+Cuming,Communication,29,0.9746231302492007,Sector
+Cuming,Trade,54,0.56350089916974,Sector
+Cuming,Business_Services,87,0.6863938914341524,Sector
+Cuming,Business_Products,33,0.9978599980842932,Sector
+Cuming,Construction,27,0.5205165453573863,Sector
+Cuming,Services,8,0.10008606025387257,Sector
+Cuming,Mining,42,0.2320931941134684,Sector
+Cuming,Health_Care,40,0.48820707229631854,Sector
+Cuming,EnergyExpL_Prod,57,0.4518594465020602,Sector
+Cuming,Utilities,99,0.8815292280925954,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Breathitt,657,0.497331746078969,Overall
+Breathitt,HiTech,6,0.32593522500894145,Sector
+Breathitt,Agriculture,19,0.4962018546369763,Sector
+Breathitt,Transportation,75,0.3183858944158525,Sector
+Breathitt,Consumer_Products,36,0.20809006692415377,Sector
+Breathitt,Unassigned,15,0.3198716686649179,Sector
+Breathitt,Communication,71,0.8861613923689091,Sector
+Breathitt,Trade,95,0.7510836041141483,Sector
+Breathitt,Business_Services,12,0.41299495501374206,Sector
+Breathitt,Business_Products,43,0.8888850349099701,Sector
+Breathitt,Construction,51,0.09272993647263705,Sector
+Breathitt,Services,22,0.5857908348653708,Sector
+Breathitt,Mining,46,0.7088677851700251,Sector
+Breathitt,Health_Care,5,0.8250531256872187,Sector
+Breathitt,EnergyExpL_Prod,92,0.34431408392771845,Sector
+Breathitt,Utilities,69,0.2956107290039538,Sector

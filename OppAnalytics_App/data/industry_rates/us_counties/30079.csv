@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Prairie,743,0.42950083348079526,Overall
+Prairie,HiTech,66,0.3234638135034722,Sector
+Prairie,Agriculture,77,0.3606764874444538,Sector
+Prairie,Transportation,36,0.5256698776545065,Sector
+Prairie,Consumer_Products,34,0.04386765054572139,Sector
+Prairie,Unassigned,6,0.15552295632337,Sector
+Prairie,Communication,4,0.7311285985228196,Sector
+Prairie,Trade,36,0.34097176154761355,Sector
+Prairie,Business_Services,19,0.4114511665472532,Sector
+Prairie,Business_Products,77,0.4451996506800172,Sector
+Prairie,Construction,38,0.6328716162861948,Sector
+Prairie,Services,50,0.5595538364317303,Sector
+Prairie,Mining,67,0.7302544725461533,Sector
+Prairie,Health_Care,90,0.24079079073162823,Sector
+Prairie,EnergyExpL_Prod,93,0.3534671346208136,Sector
+Prairie,Utilities,50,0.5876226888261813,Sector

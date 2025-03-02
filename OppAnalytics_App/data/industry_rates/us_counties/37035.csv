@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Catawba,644,0.3682649618816779,Overall
+Catawba,HiTech,74,0.04091967369054794,Sector
+Catawba,Agriculture,29,0.43549619880153323,Sector
+Catawba,Transportation,61,0.2416427381106372,Sector
+Catawba,Consumer_Products,63,0.39872270495266315,Sector
+Catawba,Unassigned,35,0.16589499297836385,Sector
+Catawba,Communication,17,0.06700695486610131,Sector
+Catawba,Trade,33,0.19600413834572772,Sector
+Catawba,Business_Services,16,0.6526868009470768,Sector
+Catawba,Business_Products,22,0.9003704376575877,Sector
+Catawba,Construction,17,0.23380195038428575,Sector
+Catawba,Services,21,0.45766997472184345,Sector
+Catawba,Mining,18,0.975110849613451,Sector
+Catawba,Health_Care,62,0.3514340213462115,Sector
+Catawba,EnergyExpL_Prod,86,0.20963267082654535,Sector
+Catawba,Utilities,90,0.19758032098259326,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stephens,844,0.6137690215077838,Overall
+Stephens,HiTech,39,0.3729082264623569,Sector
+Stephens,Agriculture,5,0.8165385801183338,Sector
+Stephens,Transportation,59,0.6190928017153554,Sector
+Stephens,Consumer_Products,18,0.5652890091755003,Sector
+Stephens,Unassigned,86,0.7321775271843834,Sector
+Stephens,Communication,57,0.6758346739449129,Sector
+Stephens,Trade,97,0.8140461471107835,Sector
+Stephens,Business_Services,17,0.9964516298120687,Sector
+Stephens,Business_Products,47,0.4189219802126387,Sector
+Stephens,Construction,56,0.4883357958232707,Sector
+Stephens,Services,24,0.44218195921060444,Sector
+Stephens,Mining,63,0.9657743073072761,Sector
+Stephens,Health_Care,86,0.48373286781787983,Sector
+Stephens,EnergyExpL_Prod,99,0.7392374098298331,Sector
+Stephens,Utilities,91,0.07601240689155953,Sector

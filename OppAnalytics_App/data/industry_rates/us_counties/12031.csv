@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Duval,666,0.42960373956505177,Overall
+Duval,HiTech,31,0.0811476447883811,Sector
+Duval,Agriculture,70,0.5704511714142645,Sector
+Duval,Transportation,22,0.864856825098744,Sector
+Duval,Consumer_Products,70,0.6518968636887993,Sector
+Duval,Unassigned,49,0.12560231254044707,Sector
+Duval,Communication,6,0.8463742929199175,Sector
+Duval,Trade,66,0.43796277669093986,Sector
+Duval,Business_Services,18,0.42218066720258374,Sector
+Duval,Business_Products,78,0.6846252799190676,Sector
+Duval,Construction,82,0.019132838099099492,Sector
+Duval,Services,81,0.18599823734602317,Sector
+Duval,Mining,21,0.7642396782770635,Sector
+Duval,Health_Care,14,0.2665121547020751,Sector
+Duval,EnergyExpL_Prod,57,0.44690000493032134,Sector
+Duval,Utilities,1,0.07617534585804919,Sector

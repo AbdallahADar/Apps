@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ardèche,663,0.4727517678846514,Overall
+Ardèche,HiTech,54,0.07479611811366471,Sector
+Ardèche,Agriculture,66,0.5869662679144857,Sector
+Ardèche,Transportation,1,0.8403019693826038,Sector
+Ardèche,Consumer_Products,71,0.14918767713854897,Sector
+Ardèche,Unassigned,10,0.17109943773896674,Sector
+Ardèche,Communication,18,0.45154340950605854,Sector
+Ardèche,Trade,85,0.6143643489373087,Sector
+Ardèche,Business_Services,7,0.6349280978212186,Sector
+Ardèche,Business_Products,36,0.9396376561579269,Sector
+Ardèche,Construction,89,0.5329291453400484,Sector
+Ardèche,Services,53,0.4712957819249267,Sector
+Ardèche,Mining,48,0.49862461484255494,Sector
+Ardèche,Health_Care,90,0.26018206515191666,Sector
+Ardèche,EnergyExpL_Prod,16,0.18287049797802368,Sector
+Ardèche,Utilities,19,0.6825494303215158,Sector

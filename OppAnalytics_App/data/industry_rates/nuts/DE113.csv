@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Esslingen,682,0.38669176019664264,Overall
+Esslingen,HiTech,5,0.16907335253421607,Sector
+Esslingen,Agriculture,13,0.04868936269592128,Sector
+Esslingen,Transportation,30,0.3640598613968712,Sector
+Esslingen,Consumer_Products,81,0.6957065761780982,Sector
+Esslingen,Unassigned,19,0.9762752727524803,Sector
+Esslingen,Communication,66,0.09171048709012886,Sector
+Esslingen,Trade,34,0.5397373316299626,Sector
+Esslingen,Business_Services,50,0.007699312032198868,Sector
+Esslingen,Business_Products,49,0.5602163837811769,Sector
+Esslingen,Construction,37,0.18038201021120048,Sector
+Esslingen,Services,87,0.006986198611069305,Sector
+Esslingen,Mining,42,0.5684849522217195,Sector
+Esslingen,Health_Care,88,0.6094871523875768,Sector
+Esslingen,EnergyExpL_Prod,72,0.1818674741508115,Sector
+Esslingen,Utilities,9,0.8000006752762081,Sector

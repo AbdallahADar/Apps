@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Towner,735,0.48555258982165156,Overall
+Towner,HiTech,20,0.14842588119079114,Sector
+Towner,Agriculture,55,0.06612212896552394,Sector
+Towner,Transportation,66,0.2923247542561548,Sector
+Towner,Consumer_Products,48,0.5169236129996322,Sector
+Towner,Unassigned,33,0.08413029974826247,Sector
+Towner,Communication,93,0.6068626505095727,Sector
+Towner,Trade,69,0.2161635139387792,Sector
+Towner,Business_Services,73,0.7733762378244807,Sector
+Towner,Business_Products,86,0.6472391021641459,Sector
+Towner,Construction,60,0.9332146782377385,Sector
+Towner,Services,4,0.9339491662758028,Sector
+Towner,Mining,49,0.5265052956573077,Sector
+Towner,Health_Care,31,0.5500933028161985,Sector
+Towner,EnergyExpL_Prod,17,0.5771219583389251,Sector
+Towner,Utilities,31,0.4108362644014578,Sector

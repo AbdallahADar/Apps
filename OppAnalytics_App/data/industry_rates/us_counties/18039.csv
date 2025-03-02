@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Elkhart,774,0.5222474879713868,Overall
+Elkhart,HiTech,52,0.8566699930912888,Sector
+Elkhart,Agriculture,63,0.685460637708362,Sector
+Elkhart,Transportation,33,0.8061283620663496,Sector
+Elkhart,Consumer_Products,43,0.6159338487936953,Sector
+Elkhart,Unassigned,92,0.3829709280394097,Sector
+Elkhart,Communication,70,0.5533290711885086,Sector
+Elkhart,Trade,34,0.135820045411007,Sector
+Elkhart,Business_Services,7,0.5743567534230499,Sector
+Elkhart,Business_Products,96,0.24498860863453986,Sector
+Elkhart,Construction,66,0.05332130373903454,Sector
+Elkhart,Services,57,0.2975623705584587,Sector
+Elkhart,Mining,50,0.908594478246772,Sector
+Elkhart,Health_Care,15,0.44865341937451864,Sector
+Elkhart,EnergyExpL_Prod,73,0.536774411112176,Sector
+Elkhart,Utilities,23,0.7331480881836328,Sector

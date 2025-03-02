@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Haute-Marne,744,0.5357158951464706,Overall
+Haute-Marne,HiTech,10,0.6787307905976716,Sector
+Haute-Marne,Agriculture,51,0.5696766947046894,Sector
+Haute-Marne,Transportation,77,0.8470758034068143,Sector
+Haute-Marne,Consumer_Products,62,0.7253365438164022,Sector
+Haute-Marne,Unassigned,34,0.6780371926061817,Sector
+Haute-Marne,Communication,60,0.11784111556478694,Sector
+Haute-Marne,Trade,37,0.9114189770758012,Sector
+Haute-Marne,Business_Services,68,0.5118121349256269,Sector
+Haute-Marne,Business_Products,24,0.14787243698389263,Sector
+Haute-Marne,Construction,38,0.8230853224438451,Sector
+Haute-Marne,Services,6,0.8619304919843209,Sector
+Haute-Marne,Mining,74,0.20557258112652643,Sector
+Haute-Marne,Health_Care,97,0.560809928333462,Sector
+Haute-Marne,EnergyExpL_Prod,16,0.33607681435901515,Sector
+Haute-Marne,Utilities,90,0.06046159926802186,Sector

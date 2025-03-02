@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Aiken,752,0.5252590798714263,Overall
+Aiken,HiTech,72,0.9178546398117438,Sector
+Aiken,Agriculture,2,0.1538189362825948,Sector
+Aiken,Transportation,98,0.17377823260316172,Sector
+Aiken,Consumer_Products,8,0.8320737004161218,Sector
+Aiken,Unassigned,78,0.9499870089212968,Sector
+Aiken,Communication,63,0.3748649207385062,Sector
+Aiken,Trade,9,0.5996656734729358,Sector
+Aiken,Business_Services,35,0.014542291275442487,Sector
+Aiken,Business_Products,33,0.9770679294453622,Sector
+Aiken,Construction,90,0.6315957125801792,Sector
+Aiken,Services,99,0.1428336858913657,Sector
+Aiken,Mining,19,0.8915177681795093,Sector
+Aiken,Health_Care,77,0.6198130116978906,Sector
+Aiken,EnergyExpL_Prod,5,0.2637231404367978,Sector
+Aiken,Utilities,64,0.3357495463184843,Sector

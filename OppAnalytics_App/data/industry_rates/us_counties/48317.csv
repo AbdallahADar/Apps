@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Martin,527,0.3410463079253289,Overall
+Martin,HiTech,10,0.004494394865389384,Sector
+Martin,Agriculture,75,0.45740671457345317,Sector
+Martin,Transportation,14,0.10058729029110913,Sector
+Martin,Consumer_Products,15,0.5707129806167948,Sector
+Martin,Unassigned,34,0.2513239023072744,Sector
+Martin,Communication,12,0.32939286786187194,Sector
+Martin,Trade,24,0.039024010915224006,Sector
+Martin,Business_Services,9,0.341095906032993,Sector
+Martin,Business_Products,63,0.6627013100760544,Sector
+Martin,Construction,54,0.43845931332738364,Sector
+Martin,Services,6,0.27603329902978,Sector
+Martin,Mining,6,0.04551741658583486,Sector
+Martin,Health_Care,92,0.6286750141904532,Sector
+Martin,EnergyExpL_Prod,49,0.577231675421501,Sector
+Martin,Utilities,64,0.39303852278481655,Sector

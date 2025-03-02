@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hildesheim,687,0.3807508068369776,Overall
+Hildesheim,HiTech,92,0.30004604480565666,Sector
+Hildesheim,Agriculture,52,0.2566963495188599,Sector
+Hildesheim,Transportation,4,0.6499767877028476,Sector
+Hildesheim,Consumer_Products,53,0.22990608326083772,Sector
+Hildesheim,Unassigned,6,0.00757547046830731,Sector
+Hildesheim,Communication,3,0.21916728113217632,Sector
+Hildesheim,Trade,73,0.5054969546341292,Sector
+Hildesheim,Business_Services,96,0.02642681090122967,Sector
+Hildesheim,Business_Products,31,0.5178464862211861,Sector
+Hildesheim,Construction,71,0.3882942411404159,Sector
+Hildesheim,Services,50,0.9777668172659573,Sector
+Hildesheim,Mining,19,0.14402335708158387,Sector
+Hildesheim,Health_Care,5,0.39345892124976956,Sector
+Hildesheim,EnergyExpL_Prod,88,0.3995118015135892,Sector
+Hildesheim,Utilities,44,0.6950686956581175,Sector

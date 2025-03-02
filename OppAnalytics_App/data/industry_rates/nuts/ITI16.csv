@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Livorno,765,0.47152746138195484,Overall
+Livorno,HiTech,54,0.33879675772644124,Sector
+Livorno,Agriculture,4,0.951557224157807,Sector
+Livorno,Transportation,53,0.7023102403203255,Sector
+Livorno,Consumer_Products,90,0.6033851174263577,Sector
+Livorno,Unassigned,64,0.5416203826893171,Sector
+Livorno,Communication,22,0.044692975856071016,Sector
+Livorno,Trade,58,0.8815469020825457,Sector
+Livorno,Business_Services,78,0.46665353710557544,Sector
+Livorno,Business_Products,43,0.12461744342564518,Sector
+Livorno,Construction,33,0.13816222922167365,Sector
+Livorno,Services,84,0.9578782572092515,Sector
+Livorno,Mining,47,0.012507012072335288,Sector
+Livorno,Health_Care,93,0.13748084361559032,Sector
+Livorno,EnergyExpL_Prod,41,0.32460571273870087,Sector
+Livorno,Utilities,1,0.8470972850816841,Sector

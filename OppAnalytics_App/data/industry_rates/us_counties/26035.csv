@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Clare,727,0.5289490619366557,Overall
+Clare,HiTech,1,0.7749219324795815,Sector
+Clare,Agriculture,47,0.37967770431307524,Sector
+Clare,Transportation,99,0.6360075072417701,Sector
+Clare,Consumer_Products,30,0.8139507037928921,Sector
+Clare,Unassigned,23,0.021703403156598133,Sector
+Clare,Communication,94,0.9629040368342091,Sector
+Clare,Trade,49,0.3532014982434404,Sector
+Clare,Business_Services,11,0.1727190602274451,Sector
+Clare,Business_Products,89,0.4976022898749415,Sector
+Clare,Construction,35,0.4370343887180147,Sector
+Clare,Services,54,0.9488169292059683,Sector
+Clare,Mining,61,0.6396365549291689,Sector
+Clare,Health_Care,33,0.007380329686842435,Sector
+Clare,EnergyExpL_Prod,37,0.6296194397093697,Sector
+Clare,Utilities,64,0.6590601506365182,Sector

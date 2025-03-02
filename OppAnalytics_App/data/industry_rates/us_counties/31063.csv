@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Frontier,954,0.5000466629358437,Overall
+Frontier,HiTech,20,0.45644823090278674,Sector
+Frontier,Agriculture,53,0.17636980194684948,Sector
+Frontier,Transportation,90,0.10511737839407043,Sector
+Frontier,Consumer_Products,40,0.18868327357132164,Sector
+Frontier,Unassigned,81,0.779424334800563,Sector
+Frontier,Communication,7,0.7754634619827423,Sector
+Frontier,Trade,77,0.1975530947358266,Sector
+Frontier,Business_Services,71,0.2422705616799058,Sector
+Frontier,Business_Products,74,0.7284262737721209,Sector
+Frontier,Construction,63,0.61144384146893,Sector
+Frontier,Services,68,0.553816127191625,Sector
+Frontier,Mining,67,0.8712725216906024,Sector
+Frontier,Health_Care,61,0.609710631462809,Sector
+Frontier,EnergyExpL_Prod,93,0.4422652056758931,Sector
+Frontier,Utilities,89,0.7624352047616084,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Upson,705,0.44140715120453233,Overall
+Upson,HiTech,61,0.6852999437568377,Sector
+Upson,Agriculture,25,0.915128931456015,Sector
+Upson,Transportation,51,0.5806617579136678,Sector
+Upson,Consumer_Products,22,0.5278086629734376,Sector
+Upson,Unassigned,88,0.7413490528668502,Sector
+Upson,Communication,39,0.6656297602494846,Sector
+Upson,Trade,17,0.1680484538525956,Sector
+Upson,Business_Services,41,0.08086647013732262,Sector
+Upson,Business_Products,63,0.10753445454499322,Sector
+Upson,Construction,16,0.6061369104636487,Sector
+Upson,Services,79,0.7322892522622053,Sector
+Upson,Mining,64,0.020854326924546362,Sector
+Upson,Health_Care,64,0.13395553936562,Sector
+Upson,EnergyExpL_Prod,52,0.18043642158240758,Sector
+Upson,Utilities,23,0.4751073297183528,Sector

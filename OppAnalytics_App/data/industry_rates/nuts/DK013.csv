@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nordsjælland,610,0.5154230101999467,Overall
+Nordsjælland,HiTech,25,0.6656367018904851,Sector
+Nordsjælland,Agriculture,17,0.3421467377116436,Sector
+Nordsjælland,Transportation,53,0.8006014255654534,Sector
+Nordsjælland,Consumer_Products,71,0.017179485672569217,Sector
+Nordsjælland,Unassigned,21,0.4750733676394564,Sector
+Nordsjælland,Communication,1,0.3189840953536831,Sector
+Nordsjælland,Trade,39,0.41768143005786296,Sector
+Nordsjælland,Business_Services,84,0.1595951843979888,Sector
+Nordsjælland,Business_Products,40,0.9189319413490652,Sector
+Nordsjælland,Construction,79,0.9574448237777912,Sector
+Nordsjælland,Services,97,0.8047618771050038,Sector
+Nordsjælland,Mining,18,0.3221968191394985,Sector
+Nordsjælland,Health_Care,38,0.9251755381916146,Sector
+Nordsjælland,EnergyExpL_Prod,11,0.3811206824447708,Sector
+Nordsjælland,Utilities,16,0.2248150427023139,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yalova,708,0.4674905061687521,Overall
+Yalova,HiTech,77,0.20670958568697984,Sector
+Yalova,Agriculture,39,0.1317290679648938,Sector
+Yalova,Transportation,10,0.27489118813952906,Sector
+Yalova,Consumer_Products,75,0.8562270254742069,Sector
+Yalova,Unassigned,46,0.864613688159119,Sector
+Yalova,Communication,12,0.29612485703313707,Sector
+Yalova,Trade,22,0.6075896478342996,Sector
+Yalova,Business_Services,32,0.5156492602875142,Sector
+Yalova,Business_Products,71,0.4934792346136141,Sector
+Yalova,Construction,89,0.6214704875893567,Sector
+Yalova,Services,9,0.5879521078457919,Sector
+Yalova,Mining,78,0.856016168569318,Sector
+Yalova,Health_Care,9,0.15412209104670127,Sector
+Yalova,EnergyExpL_Prod,47,0.02103418881569452,Sector
+Yalova,Utilities,92,0.5247489934711266,Sector

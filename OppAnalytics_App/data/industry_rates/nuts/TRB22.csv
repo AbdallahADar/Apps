@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Muş,858,0.3826590461865416,Overall
+Muş,HiTech,88,0.7050606060998781,Sector
+Muş,Agriculture,3,0.3539930795102719,Sector
+Muş,Transportation,61,0.5300485973266948,Sector
+Muş,Consumer_Products,57,0.09009478334345833,Sector
+Muş,Unassigned,1,0.4690303794389229,Sector
+Muş,Communication,38,0.06688691342536301,Sector
+Muş,Trade,67,0.3597143436278114,Sector
+Muş,Business_Services,90,0.10317968349320261,Sector
+Muş,Business_Products,80,0.5270229123186848,Sector
+Muş,Construction,17,0.20857705405681337,Sector
+Muş,Services,94,0.9246437958993537,Sector
+Muş,Mining,11,0.4163864114088569,Sector
+Muş,Health_Care,74,0.22111056415032782,Sector
+Muş,EnergyExpL_Prod,82,0.7381490131763964,Sector
+Muş,Utilities,95,0.02598755552208798,Sector

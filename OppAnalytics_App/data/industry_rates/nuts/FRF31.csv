@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Meurthe-et-Moselle ,722,0.4700875680262231,Overall
+Meurthe-et-Moselle ,HiTech,53,0.3782574088889603,Sector
+Meurthe-et-Moselle ,Agriculture,72,0.8889133023558932,Sector
+Meurthe-et-Moselle ,Transportation,54,0.3193026821906503,Sector
+Meurthe-et-Moselle ,Consumer_Products,35,0.3361911130075165,Sector
+Meurthe-et-Moselle ,Unassigned,96,0.4160574596770661,Sector
+Meurthe-et-Moselle ,Communication,61,0.42610040426512785,Sector
+Meurthe-et-Moselle ,Trade,80,0.745347990921764,Sector
+Meurthe-et-Moselle ,Business_Services,15,0.9738683770198868,Sector
+Meurthe-et-Moselle ,Business_Products,39,0.8421446954209271,Sector
+Meurthe-et-Moselle ,Construction,20,0.16058275743185124,Sector
+Meurthe-et-Moselle ,Services,5,0.10213132543741121,Sector
+Meurthe-et-Moselle ,Mining,1,0.3714366569538943,Sector
+Meurthe-et-Moselle ,Health_Care,48,0.07167722566405399,Sector
+Meurthe-et-Moselle ,EnergyExpL_Prod,62,0.15709304608853136,Sector
+Meurthe-et-Moselle ,Utilities,81,0.862209075069813,Sector

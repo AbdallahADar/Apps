@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Albemarle,740,0.5559297745672345,Overall
+Albemarle,HiTech,51,0.004967200240142744,Sector
+Albemarle,Agriculture,89,0.8220036267565024,Sector
+Albemarle,Transportation,40,0.32999762340697125,Sector
+Albemarle,Consumer_Products,64,0.9376166505011451,Sector
+Albemarle,Unassigned,21,0.4496769683886378,Sector
+Albemarle,Communication,82,0.82113630357822,Sector
+Albemarle,Trade,85,0.3837856810655502,Sector
+Albemarle,Business_Services,40,0.25637814341908727,Sector
+Albemarle,Business_Products,52,0.6781599727970333,Sector
+Albemarle,Construction,68,0.7456916272517765,Sector
+Albemarle,Services,9,0.5348288739272083,Sector
+Albemarle,Mining,94,0.6592715670812582,Sector
+Albemarle,Health_Care,20,0.9607484568749961,Sector
+Albemarle,EnergyExpL_Prod,15,0.2609673836719145,Sector
+Albemarle,Utilities,10,0.4937165395480744,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lapeer,720,0.6258326537824099,Overall
+Lapeer,HiTech,20,0.8427775345397903,Sector
+Lapeer,Agriculture,61,0.7692262355268891,Sector
+Lapeer,Transportation,94,0.7677379148223713,Sector
+Lapeer,Consumer_Products,51,0.4026854854228852,Sector
+Lapeer,Unassigned,6,0.38274956884655786,Sector
+Lapeer,Communication,39,0.7900927285764813,Sector
+Lapeer,Trade,67,0.4336963181758886,Sector
+Lapeer,Business_Services,6,0.35366388762189416,Sector
+Lapeer,Business_Products,29,0.3769520293844756,Sector
+Lapeer,Construction,67,0.6784994376738702,Sector
+Lapeer,Services,63,0.3113836597308427,Sector
+Lapeer,Mining,97,0.8637937758314925,Sector
+Lapeer,Health_Care,72,0.7709890677040273,Sector
+Lapeer,EnergyExpL_Prod,5,0.9235629065600778,Sector
+Lapeer,Utilities,43,0.7196792563186053,Sector

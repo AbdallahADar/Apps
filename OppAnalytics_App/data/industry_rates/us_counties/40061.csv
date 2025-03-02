@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Haskell,951,0.5532566971732458,Overall
+Haskell,HiTech,93,0.4652166445246002,Sector
+Haskell,Agriculture,59,0.7968188780821843,Sector
+Haskell,Transportation,55,0.013442423324075303,Sector
+Haskell,Consumer_Products,93,0.8522881446971882,Sector
+Haskell,Unassigned,74,0.6908566236962967,Sector
+Haskell,Communication,52,0.36691437459663856,Sector
+Haskell,Trade,48,0.8299981203003444,Sector
+Haskell,Business_Services,63,0.8093558308201318,Sector
+Haskell,Business_Products,75,0.08260925912982964,Sector
+Haskell,Construction,28,0.8277667388696531,Sector
+Haskell,Services,94,0.08908985097949518,Sector
+Haskell,Mining,46,0.6670126986745594,Sector
+Haskell,Health_Care,97,0.6085282331189802,Sector
+Haskell,EnergyExpL_Prod,21,0.4631363561844597,Sector
+Haskell,Utilities,53,0.735816280600251,Sector

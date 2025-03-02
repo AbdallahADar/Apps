@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Durrës,848,0.43747799324596487,Overall
+Durrës,HiTech,89,0.6551079572163793,Sector
+Durrës,Agriculture,31,0.2777183172366102,Sector
+Durrës,Transportation,68,0.3431088090758936,Sector
+Durrës,Consumer_Products,92,0.7809978387003724,Sector
+Durrës,Unassigned,41,0.04470485972951421,Sector
+Durrës,Communication,74,0.08202434147033355,Sector
+Durrës,Trade,28,0.6426252031633581,Sector
+Durrës,Business_Services,66,0.6634962794160731,Sector
+Durrës,Business_Products,61,0.24743954448481364,Sector
+Durrës,Construction,17,0.41046499880100873,Sector
+Durrës,Services,36,0.1968030615032672,Sector
+Durrës,Mining,40,0.6728121006516351,Sector
+Durrës,Health_Care,69,0.5612018348631729,Sector
+Durrës,EnergyExpL_Prod,71,0.4897308835625005,Sector
+Durrës,Utilities,65,0.4939338688145404,Sector

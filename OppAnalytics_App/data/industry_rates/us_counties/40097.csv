@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mayes,709,0.5159663621043318,Overall
+Mayes,HiTech,58,0.5542635581907798,Sector
+Mayes,Agriculture,96,0.37043115021158424,Sector
+Mayes,Transportation,58,0.44167666814356676,Sector
+Mayes,Consumer_Products,15,0.0608596863525912,Sector
+Mayes,Unassigned,42,0.9015285282692067,Sector
+Mayes,Communication,86,0.8111074020104875,Sector
+Mayes,Trade,66,0.4385660545792932,Sector
+Mayes,Business_Services,12,0.13674520072519758,Sector
+Mayes,Business_Products,89,0.34763212730314674,Sector
+Mayes,Construction,44,0.34666130910064286,Sector
+Mayes,Services,20,0.8680626188200415,Sector
+Mayes,Mining,20,0.18881478644041572,Sector
+Mayes,Health_Care,49,0.5364260967201885,Sector
+Mayes,EnergyExpL_Prod,30,0.9998960502100237,Sector
+Mayes,Utilities,24,0.7368241944878116,Sector

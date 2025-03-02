@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Iron,873,0.4157284219155503,Overall
+Iron,HiTech,80,0.3840555235829941,Sector
+Iron,Agriculture,62,0.011949309747017578,Sector
+Iron,Transportation,72,0.1170828123370613,Sector
+Iron,Consumer_Products,4,0.4337711062698948,Sector
+Iron,Unassigned,91,0.9123970258512821,Sector
+Iron,Communication,92,0.3774923506879172,Sector
+Iron,Trade,62,0.06946565718450126,Sector
+Iron,Business_Services,85,0.24541840430407913,Sector
+Iron,Business_Products,89,0.6386385235242745,Sector
+Iron,Construction,93,0.6962361542604675,Sector
+Iron,Services,21,0.5083608580776887,Sector
+Iron,Mining,19,0.3883351660547255,Sector
+Iron,Health_Care,11,0.17889670433115024,Sector
+Iron,EnergyExpL_Prod,91,0.6492366321288349,Sector
+Iron,Utilities,1,0.6245901003913658,Sector

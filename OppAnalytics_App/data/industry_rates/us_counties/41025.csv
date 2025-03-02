@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Harney,671,0.42982769546333394,Overall
+Harney,HiTech,31,0.16111516658868374,Sector
+Harney,Agriculture,71,0.45696994170980776,Sector
+Harney,Transportation,93,0.16149651379867636,Sector
+Harney,Consumer_Products,19,0.08405965038941487,Sector
+Harney,Unassigned,66,0.7427369327368829,Sector
+Harney,Communication,73,0.45619018543787815,Sector
+Harney,Trade,37,0.32630545831468083,Sector
+Harney,Business_Services,62,0.3367616543728492,Sector
+Harney,Business_Products,30,0.3836950309086764,Sector
+Harney,Construction,26,0.8421957262379259,Sector
+Harney,Services,8,0.9877518954120271,Sector
+Harney,Mining,61,0.02037894829835174,Sector
+Harney,Health_Care,44,0.5237704166854732,Sector
+Harney,EnergyExpL_Prod,4,0.26201191854842587,Sector
+Harney,Utilities,46,0.7019759925102549,Sector

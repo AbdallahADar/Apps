@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Woodson,890,0.37840861531726294,Overall
+Woodson,HiTech,46,0.3440030931160408,Sector
+Woodson,Agriculture,98,0.7742399052344203,Sector
+Woodson,Transportation,69,0.9554007509031319,Sector
+Woodson,Consumer_Products,94,0.03958593216192008,Sector
+Woodson,Unassigned,95,0.07973910618654068,Sector
+Woodson,Communication,33,0.1001287656072436,Sector
+Woodson,Trade,89,0.27456419510724306,Sector
+Woodson,Business_Services,51,0.1921062273746692,Sector
+Woodson,Business_Products,73,0.25017115829083514,Sector
+Woodson,Construction,76,0.5949830455741668,Sector
+Woodson,Services,11,0.6264480062494424,Sector
+Woodson,Mining,69,0.7781766768405496,Sector
+Woodson,Health_Care,29,0.21570289518654717,Sector
+Woodson,EnergyExpL_Prod,41,0.17120406396215992,Sector
+Woodson,Utilities,16,0.27967540796403334,Sector

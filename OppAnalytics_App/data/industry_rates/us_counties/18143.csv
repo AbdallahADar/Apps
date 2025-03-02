@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Scott,882,0.5678065558228272,Overall
+Scott,HiTech,88,0.12640927265150848,Sector
+Scott,Agriculture,0,0.9564693169148382,Sector
+Scott,Transportation,32,0.6429753075227724,Sector
+Scott,Consumer_Products,31,0.2190925175389855,Sector
+Scott,Unassigned,52,0.17172130625657833,Sector
+Scott,Communication,70,0.6840267178493333,Sector
+Scott,Trade,72,0.25620716430963186,Sector
+Scott,Business_Services,96,0.9123721369478233,Sector
+Scott,Business_Products,92,0.02310543936451237,Sector
+Scott,Construction,84,0.9908262594615291,Sector
+Scott,Services,15,0.7943019590664699,Sector
+Scott,Mining,61,0.8476398065245413,Sector
+Scott,Health_Care,66,0.47481792462004246,Sector
+Scott,EnergyExpL_Prod,36,0.8300218138098335,Sector
+Scott,Utilities,87,0.5871113945040094,Sector

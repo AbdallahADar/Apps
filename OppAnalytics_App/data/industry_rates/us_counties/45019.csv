@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Charleston,932,0.3973470758958469,Overall
+Charleston,HiTech,67,0.6156075938807223,Sector
+Charleston,Agriculture,80,0.27028827271714684,Sector
+Charleston,Transportation,65,0.8477355200764436,Sector
+Charleston,Consumer_Products,46,0.026501799906922474,Sector
+Charleston,Unassigned,76,0.5700771194214133,Sector
+Charleston,Communication,82,0.5795748941344628,Sector
+Charleston,Trade,99,0.2006974901933578,Sector
+Charleston,Business_Services,45,0.03650209218438871,Sector
+Charleston,Business_Products,86,0.5956822697804072,Sector
+Charleston,Construction,13,0.05322070799754375,Sector
+Charleston,Services,75,0.9355275013677732,Sector
+Charleston,Mining,73,0.22340635609840398,Sector
+Charleston,Health_Care,12,0.5393642498697375,Sector
+Charleston,EnergyExpL_Prod,37,0.35242396121957487,Sector
+Charleston,Utilities,76,0.11359630958940536,Sector

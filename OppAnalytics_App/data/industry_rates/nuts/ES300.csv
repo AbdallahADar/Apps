@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Madrid,690,0.5309344197251717,Overall
+Madrid,HiTech,13,0.3838342992265463,Sector
+Madrid,Agriculture,4,0.6727501411596993,Sector
+Madrid,Transportation,85,0.34343289919015973,Sector
+Madrid,Consumer_Products,98,0.2649049073520693,Sector
+Madrid,Unassigned,77,0.38908017071234813,Sector
+Madrid,Communication,60,0.6224241528855706,Sector
+Madrid,Trade,17,0.8864042737830772,Sector
+Madrid,Business_Services,87,0.1176890116258027,Sector
+Madrid,Business_Products,0,0.6986988246164987,Sector
+Madrid,Construction,4,0.7181756983107296,Sector
+Madrid,Services,67,0.5465701861853532,Sector
+Madrid,Mining,92,0.7995361117379651,Sector
+Madrid,Health_Care,7,0.1604586595855475,Sector
+Madrid,EnergyExpL_Prod,24,0.5649058740507472,Sector
+Madrid,Utilities,55,0.795151085455461,Sector

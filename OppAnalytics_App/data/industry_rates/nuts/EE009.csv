@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kesk-Eesti,628,0.4824458359037643,Overall
+Kesk-Eesti,HiTech,48,0.2870769652410733,Sector
+Kesk-Eesti,Agriculture,12,0.03151247042514138,Sector
+Kesk-Eesti,Transportation,40,0.5152574543482281,Sector
+Kesk-Eesti,Consumer_Products,7,0.44354393409262016,Sector
+Kesk-Eesti,Unassigned,10,0.9415174381329374,Sector
+Kesk-Eesti,Communication,24,0.7937461544809135,Sector
+Kesk-Eesti,Trade,10,0.015038766372907797,Sector
+Kesk-Eesti,Business_Services,84,0.7367407888800712,Sector
+Kesk-Eesti,Business_Products,89,0.3672253792037824,Sector
+Kesk-Eesti,Construction,0,0.6919703173406531,Sector
+Kesk-Eesti,Services,56,0.28639543672667156,Sector
+Kesk-Eesti,Mining,95,0.37442945350997325,Sector
+Kesk-Eesti,Health_Care,45,0.08500902163190238,Sector
+Kesk-Eesti,EnergyExpL_Prod,68,0.7064645667411046,Sector
+Kesk-Eesti,Utilities,40,0.9607593914284849,Sector

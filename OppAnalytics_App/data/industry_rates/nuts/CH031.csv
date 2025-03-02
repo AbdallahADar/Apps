@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Basel-Stadt,676,0.6105449023027009,Overall
+Basel-Stadt,HiTech,18,0.694843638963886,Sector
+Basel-Stadt,Agriculture,17,0.941488361814428,Sector
+Basel-Stadt,Transportation,33,0.960445380462086,Sector
+Basel-Stadt,Consumer_Products,24,0.8740093414941967,Sector
+Basel-Stadt,Unassigned,28,0.4967105475700436,Sector
+Basel-Stadt,Communication,66,0.27907952219961973,Sector
+Basel-Stadt,Trade,62,0.3648923865546243,Sector
+Basel-Stadt,Business_Services,43,0.5776606594146039,Sector
+Basel-Stadt,Business_Products,44,0.20067708318598998,Sector
+Basel-Stadt,Construction,99,0.9078944285293026,Sector
+Basel-Stadt,Services,48,0.5266499982001517,Sector
+Basel-Stadt,Mining,46,0.6722385577362192,Sector
+Basel-Stadt,Health_Care,63,0.84677110500951,Sector
+Basel-Stadt,EnergyExpL_Prod,1,0.718218100397328,Sector
+Basel-Stadt,Utilities,84,0.09659442300852239,Sector

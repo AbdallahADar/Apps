@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Trinity,817,0.5520839778739618,Overall
+Trinity,HiTech,36,0.40493689388008003,Sector
+Trinity,Agriculture,58,0.9416084813742756,Sector
+Trinity,Transportation,31,0.40311875362848937,Sector
+Trinity,Consumer_Products,68,0.11421073285370653,Sector
+Trinity,Unassigned,88,0.3631879006707418,Sector
+Trinity,Communication,59,0.2892243519947897,Sector
+Trinity,Trade,10,0.36274878935780963,Sector
+Trinity,Business_Services,39,0.07235145198604909,Sector
+Trinity,Business_Products,93,0.3212008140497321,Sector
+Trinity,Construction,99,0.9217592593103339,Sector
+Trinity,Services,18,0.7229566730234938,Sector
+Trinity,Mining,76,0.9941483338943686,Sector
+Trinity,Health_Care,58,0.5844869213806057,Sector
+Trinity,EnergyExpL_Prod,49,0.9678330987623367,Sector
+Trinity,Utilities,35,0.8174872119426162,Sector

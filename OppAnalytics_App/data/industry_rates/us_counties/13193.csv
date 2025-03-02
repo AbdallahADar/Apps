@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Macon,575,0.5344461298826868,Overall
+Macon,HiTech,74,0.9603781537046567,Sector
+Macon,Agriculture,41,0.31140846524472665,Sector
+Macon,Transportation,38,0.0327393988396969,Sector
+Macon,Consumer_Products,9,0.8747848642733108,Sector
+Macon,Unassigned,30,0.40583078634828385,Sector
+Macon,Communication,20,0.9416151843373587,Sector
+Macon,Trade,1,0.09562832345378725,Sector
+Macon,Business_Services,77,0.09927258505471614,Sector
+Macon,Business_Products,78,0.9503057699178701,Sector
+Macon,Construction,16,0.6299710149354307,Sector
+Macon,Services,6,0.7844406840610307,Sector
+Macon,Mining,60,0.7568788666009209,Sector
+Macon,Health_Care,27,0.5253192716478601,Sector
+Macon,EnergyExpL_Prod,29,0.603155558703729,Sector
+Macon,Utilities,69,0.04496302111692241,Sector

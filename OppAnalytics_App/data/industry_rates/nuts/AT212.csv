@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oberkärnten,563,0.5244640205615915,Overall
+Oberkärnten,HiTech,58,0.4257551300242116,Sector
+Oberkärnten,Agriculture,9,0.15778486351092158,Sector
+Oberkärnten,Transportation,27,0.7201204513193477,Sector
+Oberkärnten,Consumer_Products,2,0.10099444348289621,Sector
+Oberkärnten,Unassigned,49,0.07585804133869722,Sector
+Oberkärnten,Communication,11,0.9175558078790053,Sector
+Oberkärnten,Trade,5,0.043995446995243714,Sector
+Oberkärnten,Business_Services,87,0.7776716428405943,Sector
+Oberkärnten,Business_Products,89,0.8041950879870073,Sector
+Oberkärnten,Construction,78,0.5573742028386467,Sector
+Oberkärnten,Services,6,0.6228312847243612,Sector
+Oberkärnten,Mining,0,0.7837169767321385,Sector
+Oberkärnten,Health_Care,5,0.9161274326278699,Sector
+Oberkärnten,EnergyExpL_Prod,90,0.868357506002215,Sector
+Oberkärnten,Utilities,47,0.09462199012071715,Sector

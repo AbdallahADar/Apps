@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oxford,863,0.4885297910874742,Overall
+Oxford,HiTech,34,0.23694987786249389,Sector
+Oxford,Agriculture,5,0.8607391302593941,Sector
+Oxford,Transportation,21,0.06488839801549207,Sector
+Oxford,Consumer_Products,90,0.0032604435056201586,Sector
+Oxford,Unassigned,43,0.47075566814759673,Sector
+Oxford,Communication,87,0.9686426457257881,Sector
+Oxford,Trade,37,0.8325711544768872,Sector
+Oxford,Business_Services,99,0.7350145072318878,Sector
+Oxford,Business_Products,6,0.3977561503415583,Sector
+Oxford,Construction,51,0.03492213318927517,Sector
+Oxford,Services,53,0.151031559892293,Sector
+Oxford,Mining,96,0.4755093355329303,Sector
+Oxford,Health_Care,95,0.7072570089349332,Sector
+Oxford,EnergyExpL_Prod,71,0.7887512777265323,Sector
+Oxford,Utilities,75,0.599897575469431,Sector

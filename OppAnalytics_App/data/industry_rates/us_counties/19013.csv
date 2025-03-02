@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Black Hawk,817,0.5306731872099406,Overall
+Black Hawk,HiTech,45,0.5658396737355187,Sector
+Black Hawk,Agriculture,48,0.13099066198084564,Sector
+Black Hawk,Transportation,80,0.6588335415740989,Sector
+Black Hawk,Consumer_Products,80,0.935686022556368,Sector
+Black Hawk,Unassigned,4,0.7170781843892235,Sector
+Black Hawk,Communication,69,0.5791305750174195,Sector
+Black Hawk,Trade,51,0.12630666869531426,Sector
+Black Hawk,Business_Services,78,0.9576810839208727,Sector
+Black Hawk,Business_Products,47,0.44849615753103056,Sector
+Black Hawk,Construction,35,0.23344858971653537,Sector
+Black Hawk,Services,28,0.81222331051276,Sector
+Black Hawk,Mining,86,0.04367779847569808,Sector
+Black Hawk,Health_Care,19,0.6382729158482019,Sector
+Black Hawk,EnergyExpL_Prod,51,0.6622703717613637,Sector
+Black Hawk,Utilities,96,0.45016225243385943,Sector

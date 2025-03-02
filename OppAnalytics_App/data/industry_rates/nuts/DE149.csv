@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sigmaringen,580,0.4854552443467038,Overall
+Sigmaringen,HiTech,2,0.5658006601935154,Sector
+Sigmaringen,Agriculture,84,0.7475793423132899,Sector
+Sigmaringen,Transportation,38,0.8148671816873717,Sector
+Sigmaringen,Consumer_Products,1,0.5585977336208044,Sector
+Sigmaringen,Unassigned,14,0.46074952907846456,Sector
+Sigmaringen,Communication,1,0.39533676032504184,Sector
+Sigmaringen,Trade,81,0.11312506097726227,Sector
+Sigmaringen,Business_Services,13,0.20016633851972299,Sector
+Sigmaringen,Business_Products,51,0.06493026928197598,Sector
+Sigmaringen,Construction,79,0.4507650730051742,Sector
+Sigmaringen,Services,18,0.30199214223806103,Sector
+Sigmaringen,Mining,2,0.25081479693162056,Sector
+Sigmaringen,Health_Care,54,0.7879169692660819,Sector
+Sigmaringen,EnergyExpL_Prod,59,0.5886259550107448,Sector
+Sigmaringen,Utilities,83,0.980560852751426,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Traunviertel,673,0.45376267128607123,Overall
+Traunviertel,HiTech,15,0.817482144670926,Sector
+Traunviertel,Agriculture,25,0.6359591603257979,Sector
+Traunviertel,Transportation,58,0.4230041202942104,Sector
+Traunviertel,Consumer_Products,6,0.03454673232651129,Sector
+Traunviertel,Unassigned,92,0.753395489222508,Sector
+Traunviertel,Communication,21,0.40562501205776014,Sector
+Traunviertel,Trade,8,0.7692215125141695,Sector
+Traunviertel,Business_Services,76,0.6138674911967628,Sector
+Traunviertel,Business_Products,56,0.04593973176505939,Sector
+Traunviertel,Construction,97,0.4950869962168418,Sector
+Traunviertel,Services,71,0.21265504692028103,Sector
+Traunviertel,Mining,89,0.021543481689728305,Sector
+Traunviertel,Health_Care,0,0.7168434944514419,Sector
+Traunviertel,EnergyExpL_Prod,15,0.3353606942258188,Sector
+Traunviertel,Utilities,44,0.5259089614132505,Sector

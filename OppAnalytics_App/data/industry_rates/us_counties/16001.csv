@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ada,758,0.4971890375269525,Overall
+Ada,HiTech,94,0.6458192807990591,Sector
+Ada,Agriculture,66,0.9646301165504969,Sector
+Ada,Transportation,15,0.14430282107996883,Sector
+Ada,Consumer_Products,14,0.17370968945254228,Sector
+Ada,Unassigned,14,0.5886337051393519,Sector
+Ada,Communication,4,0.6983256722861486,Sector
+Ada,Trade,9,0.13344881883205428,Sector
+Ada,Business_Services,53,0.7755537598039561,Sector
+Ada,Business_Products,37,0.5163224553416433,Sector
+Ada,Construction,57,0.25588061575828225,Sector
+Ada,Services,89,0.7433065297595014,Sector
+Ada,Mining,71,0.1499528003749806,Sector
+Ada,Health_Care,69,0.5324300521853882,Sector
+Ada,EnergyExpL_Prod,74,0.6806050278088565,Sector
+Ada,Utilities,92,0.45491421773205687,Sector

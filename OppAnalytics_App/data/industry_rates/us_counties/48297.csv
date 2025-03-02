@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Live Oak,850,0.4631194828915328,Overall
+Live Oak,HiTech,44,0.642365947646322,Sector
+Live Oak,Agriculture,46,0.16725390285098352,Sector
+Live Oak,Transportation,1,0.8863142658254856,Sector
+Live Oak,Consumer_Products,90,0.8015614478791138,Sector
+Live Oak,Unassigned,95,0.3967510886053587,Sector
+Live Oak,Communication,90,0.5596199899291349,Sector
+Live Oak,Trade,7,0.023108877206921452,Sector
+Live Oak,Business_Services,85,0.17140033031321478,Sector
+Live Oak,Business_Products,17,0.5214970571616631,Sector
+Live Oak,Construction,89,0.23032375694725626,Sector
+Live Oak,Services,81,0.5783356543638164,Sector
+Live Oak,Mining,62,0.5761903402411179,Sector
+Live Oak,Health_Care,59,0.9360750045738452,Sector
+Live Oak,EnergyExpL_Prod,66,0.11483213901733835,Sector
+Live Oak,Utilities,18,0.34116244081142066,Sector

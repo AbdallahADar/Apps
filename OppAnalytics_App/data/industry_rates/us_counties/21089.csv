@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Greenup,847,0.427374899779439,Overall
+Greenup,HiTech,11,0.14140604660829903,Sector
+Greenup,Agriculture,15,0.07116789466863982,Sector
+Greenup,Transportation,95,0.5834585513797139,Sector
+Greenup,Consumer_Products,75,0.38165137959773743,Sector
+Greenup,Unassigned,47,0.6384459833704963,Sector
+Greenup,Communication,63,0.06413662192941416,Sector
+Greenup,Trade,89,0.28854094607047087,Sector
+Greenup,Business_Services,55,0.10032433095501647,Sector
+Greenup,Business_Products,8,0.7523855365031962,Sector
+Greenup,Construction,70,0.7596078775190296,Sector
+Greenup,Services,95,0.5931642354516956,Sector
+Greenup,Mining,63,0.8419531877645862,Sector
+Greenup,Health_Care,30,0.04836701997464499,Sector
+Greenup,EnergyExpL_Prod,97,0.7179008051334215,Sector
+Greenup,Utilities,34,0.42811307976522306,Sector

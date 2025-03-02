@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Meigs,715,0.4028232031020073,Overall
+Meigs,HiTech,51,0.4403325100497032,Sector
+Meigs,Agriculture,13,0.08210302545527937,Sector
+Meigs,Transportation,11,0.8131496087874669,Sector
+Meigs,Consumer_Products,30,0.4888885100482876,Sector
+Meigs,Unassigned,81,0.45495880762423446,Sector
+Meigs,Communication,91,0.29052186191997054,Sector
+Meigs,Trade,92,0.023916859456891926,Sector
+Meigs,Business_Services,19,0.6098448896093682,Sector
+Meigs,Business_Products,42,0.38094453324608135,Sector
+Meigs,Construction,89,0.23312729723087766,Sector
+Meigs,Services,35,0.5919509264476388,Sector
+Meigs,Mining,57,0.7021715820424445,Sector
+Meigs,Health_Care,5,0.11835314637801209,Sector
+Meigs,EnergyExpL_Prod,42,0.7636016185266992,Sector
+Meigs,Utilities,57,0.04848286970715443,Sector

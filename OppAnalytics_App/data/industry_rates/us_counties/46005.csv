@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Beadle,734,0.4961140801577483,Overall
+Beadle,HiTech,42,0.2176130403578923,Sector
+Beadle,Agriculture,29,0.5258491003712384,Sector
+Beadle,Transportation,81,0.4634634718473808,Sector
+Beadle,Consumer_Products,98,0.42087175078272077,Sector
+Beadle,Unassigned,5,0.39000118477289103,Sector
+Beadle,Communication,93,0.2717427321463095,Sector
+Beadle,Trade,33,0.7561718306571282,Sector
+Beadle,Business_Services,29,0.2720334616935842,Sector
+Beadle,Business_Products,31,0.4639714520425817,Sector
+Beadle,Construction,41,0.38160584376200357,Sector
+Beadle,Services,46,0.6087826467250158,Sector
+Beadle,Mining,6,0.8502671518275933,Sector
+Beadle,Health_Care,69,0.616215172962688,Sector
+Beadle,EnergyExpL_Prod,71,0.23201377267756684,Sector
+Beadle,Utilities,60,0.9711085897396308,Sector

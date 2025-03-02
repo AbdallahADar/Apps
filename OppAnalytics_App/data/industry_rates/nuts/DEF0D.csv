@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Segeberg,708,0.6007704837379909,Overall
+Segeberg,HiTech,33,0.5283090515898269,Sector
+Segeberg,Agriculture,11,0.9872649422902414,Sector
+Segeberg,Transportation,4,0.1611153029247283,Sector
+Segeberg,Consumer_Products,66,0.6005928223160191,Sector
+Segeberg,Unassigned,84,0.4368171872785952,Sector
+Segeberg,Communication,86,0.26881909206288745,Sector
+Segeberg,Trade,70,0.49039735232732184,Sector
+Segeberg,Business_Services,8,0.7276984990488874,Sector
+Segeberg,Business_Products,55,0.46622556328890474,Sector
+Segeberg,Construction,68,0.8763553661429335,Sector
+Segeberg,Services,42,0.5916226913484304,Sector
+Segeberg,Mining,24,0.9453072768220259,Sector
+Segeberg,Health_Care,13,0.8390383752955338,Sector
+Segeberg,EnergyExpL_Prod,78,0.7472513299974427,Sector
+Segeberg,Utilities,66,0.34474240333608475,Sector

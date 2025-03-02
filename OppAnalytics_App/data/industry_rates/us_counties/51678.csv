@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lexington,586,0.5005645817897573,Overall
+Lexington,HiTech,9,0.08902466591031033,Sector
+Lexington,Agriculture,30,0.28382407824855327,Sector
+Lexington,Transportation,19,0.1087134771728937,Sector
+Lexington,Consumer_Products,16,0.33425428936420165,Sector
+Lexington,Unassigned,84,0.8712229431117333,Sector
+Lexington,Communication,1,0.24564881195639232,Sector
+Lexington,Trade,15,0.3176451248507586,Sector
+Lexington,Business_Services,63,0.6885031193271012,Sector
+Lexington,Business_Products,57,0.8089151435844605,Sector
+Lexington,Construction,44,0.8894259343626928,Sector
+Lexington,Services,54,0.556473773462774,Sector
+Lexington,Mining,6,0.5953634086463044,Sector
+Lexington,Health_Care,25,0.553587717456565,Sector
+Lexington,EnergyExpL_Prod,96,0.7654166388042378,Sector
+Lexington,Utilities,67,0.40044960058737966,Sector

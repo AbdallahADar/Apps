@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rems-Murr-Kreis,767,0.4995999817626509,Overall
+Rems-Murr-Kreis,HiTech,79,0.17117525764887997,Sector
+Rems-Murr-Kreis,Agriculture,97,0.07709698015892319,Sector
+Rems-Murr-Kreis,Transportation,42,0.5781732924056622,Sector
+Rems-Murr-Kreis,Consumer_Products,81,0.5229555321508482,Sector
+Rems-Murr-Kreis,Unassigned,10,0.9394937321159396,Sector
+Rems-Murr-Kreis,Communication,44,0.6984652123067266,Sector
+Rems-Murr-Kreis,Trade,89,0.12859648452857575,Sector
+Rems-Murr-Kreis,Business_Services,72,0.527668547848411,Sector
+Rems-Murr-Kreis,Business_Products,12,0.6773425680533915,Sector
+Rems-Murr-Kreis,Construction,17,0.556996789403567,Sector
+Rems-Murr-Kreis,Services,32,0.3230787724703781,Sector
+Rems-Murr-Kreis,Mining,6,0.4836324126624253,Sector
+Rems-Murr-Kreis,Health_Care,24,0.9209231758763706,Sector
+Rems-Murr-Kreis,EnergyExpL_Prod,78,0.43225598521135855,Sector
+Rems-Murr-Kreis,Utilities,84,0.4561449835983066,Sector

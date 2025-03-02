@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Grundy,837,0.47560954873524686,Overall
+Grundy,HiTech,30,0.11559720038003762,Sector
+Grundy,Agriculture,99,0.4884181271371112,Sector
+Grundy,Transportation,59,0.33023501708416436,Sector
+Grundy,Consumer_Products,35,0.22713884949561436,Sector
+Grundy,Unassigned,35,0.4142573968921911,Sector
+Grundy,Communication,42,0.22445028775168718,Sector
+Grundy,Trade,56,0.03895071699603303,Sector
+Grundy,Business_Services,14,0.8404722803529668,Sector
+Grundy,Business_Products,24,0.3469242383756146,Sector
+Grundy,Construction,65,0.95655695846173,Sector
+Grundy,Services,93,0.6651651421753237,Sector
+Grundy,Mining,82,0.341666997063078,Sector
+Grundy,Health_Care,91,0.9513206765821646,Sector
+Grundy,EnergyExpL_Prod,34,0.7352879975176512,Sector
+Grundy,Utilities,78,0.45770134476333435,Sector

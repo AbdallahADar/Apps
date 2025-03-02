@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Schenectady,765,0.33337960766408486,Overall
+Schenectady,HiTech,78,0.4883895861299985,Sector
+Schenectady,Agriculture,42,0.3284427371986275,Sector
+Schenectady,Transportation,93,0.6846196764399018,Sector
+Schenectady,Consumer_Products,72,0.0005584408093747273,Sector
+Schenectady,Unassigned,41,0.16483370153390287,Sector
+Schenectady,Communication,47,0.2710572540605548,Sector
+Schenectady,Trade,30,0.5661893549163298,Sector
+Schenectady,Business_Services,22,0.03937859004491229,Sector
+Schenectady,Business_Products,84,0.2090560382132075,Sector
+Schenectady,Construction,77,0.8100329914456694,Sector
+Schenectady,Services,18,0.006742476578029177,Sector
+Schenectady,Mining,43,0.17080883803669333,Sector
+Schenectady,Health_Care,81,0.3097954505229117,Sector
+Schenectady,EnergyExpL_Prod,37,0.5523839876827847,Sector
+Schenectady,Utilities,0,0.3984049913483745,Sector

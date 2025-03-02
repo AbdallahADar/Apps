@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Raleigh,770,0.48970645023007225,Overall
+Raleigh,HiTech,89,0.20101537607148434,Sector
+Raleigh,Agriculture,33,0.34916131004008644,Sector
+Raleigh,Transportation,84,0.4056537970750327,Sector
+Raleigh,Consumer_Products,67,0.6547894034579895,Sector
+Raleigh,Unassigned,91,0.43749116396868626,Sector
+Raleigh,Communication,63,0.4225862977064896,Sector
+Raleigh,Trade,81,0.8103659991077218,Sector
+Raleigh,Business_Services,31,0.6863301212664139,Sector
+Raleigh,Business_Products,19,0.629076835400352,Sector
+Raleigh,Construction,18,0.9504234526536508,Sector
+Raleigh,Services,17,0.24068351399688803,Sector
+Raleigh,Mining,59,0.44708070424544877,Sector
+Raleigh,Health_Care,12,0.5542613577854328,Sector
+Raleigh,EnergyExpL_Prod,10,0.2404004658903155,Sector
+Raleigh,Utilities,96,0.3162769547850902,Sector

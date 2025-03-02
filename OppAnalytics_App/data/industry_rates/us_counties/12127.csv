@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Volusia,729,0.48623231839892356,Overall
+Volusia,HiTech,29,0.36039579489246765,Sector
+Volusia,Agriculture,11,0.1919404130462653,Sector
+Volusia,Transportation,29,0.9487796686042821,Sector
+Volusia,Consumer_Products,57,0.2765576756288779,Sector
+Volusia,Unassigned,65,0.40329279878447444,Sector
+Volusia,Communication,64,0.48562378873775813,Sector
+Volusia,Trade,51,0.9188680591037758,Sector
+Volusia,Business_Services,58,0.7410446837418583,Sector
+Volusia,Business_Products,46,0.5121041775422207,Sector
+Volusia,Construction,75,0.49154260031499364,Sector
+Volusia,Services,41,0.037963233337829916,Sector
+Volusia,Mining,28,0.6988540575973781,Sector
+Volusia,Health_Care,74,0.09671158150097292,Sector
+Volusia,EnergyExpL_Prod,35,0.5660058523420837,Sector
+Volusia,Utilities,66,0.5638003908086132,Sector

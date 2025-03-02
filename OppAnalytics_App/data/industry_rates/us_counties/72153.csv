@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yauco,888,0.39096265959519144,Overall
+Yauco,HiTech,79,0.5965728288136212,Sector
+Yauco,Agriculture,9,0.0667437832366572,Sector
+Yauco,Transportation,76,0.4600999210061759,Sector
+Yauco,Consumer_Products,87,0.0075549345764751585,Sector
+Yauco,Unassigned,10,0.45339089518034614,Sector
+Yauco,Communication,76,0.023346890891772,Sector
+Yauco,Trade,28,0.313826132476701,Sector
+Yauco,Business_Services,72,0.12764239966879432,Sector
+Yauco,Business_Products,19,0.10104394945370831,Sector
+Yauco,Construction,72,0.6198434375886577,Sector
+Yauco,Services,21,0.39911339951807956,Sector
+Yauco,Mining,96,0.6514798346874892,Sector
+Yauco,Health_Care,83,0.29921223019254695,Sector
+Yauco,EnergyExpL_Prod,87,0.9353927353194597,Sector
+Yauco,Utilities,73,0.8091765213173869,Sector

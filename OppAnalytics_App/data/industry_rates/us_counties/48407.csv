@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,San Jacinto,785,0.6174992576064988,Overall
+San Jacinto,HiTech,1,0.5859571660656935,Sector
+San Jacinto,Agriculture,92,0.22419718254302834,Sector
+San Jacinto,Transportation,57,0.5386323733906865,Sector
+San Jacinto,Consumer_Products,17,0.8777276048228271,Sector
+San Jacinto,Unassigned,94,0.6512692881260476,Sector
+San Jacinto,Communication,81,0.9119277289532253,Sector
+San Jacinto,Trade,4,0.21126357522556705,Sector
+San Jacinto,Business_Services,99,0.9193011163756579,Sector
+San Jacinto,Business_Products,79,0.8358005360517069,Sector
+San Jacinto,Construction,54,0.5768667832167549,Sector
+San Jacinto,Services,50,0.3633843054498619,Sector
+San Jacinto,Mining,43,0.41973097050895636,Sector
+San Jacinto,Health_Care,34,0.903280172434878,Sector
+San Jacinto,EnergyExpL_Prod,68,0.8777990110271827,Sector
+San Jacinto,Utilities,12,0.36535104990540956,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hallands län,598,0.5445881124220296,Overall
+Hallands län,HiTech,25,0.6321335151090015,Sector
+Hallands län,Agriculture,11,0.6755732496081338,Sector
+Hallands län,Transportation,86,0.7684078417690401,Sector
+Hallands län,Consumer_Products,17,0.92585709839479,Sector
+Hallands län,Unassigned,75,0.23503895254956397,Sector
+Hallands län,Communication,14,0.4972316657587754,Sector
+Hallands län,Trade,51,0.5430923921856526,Sector
+Hallands län,Business_Services,3,0.9491073444424476,Sector
+Hallands län,Business_Products,92,0.4272805680699874,Sector
+Hallands län,Construction,85,0.15420605173651925,Sector
+Hallands län,Services,0,0.9161870914672078,Sector
+Hallands län,Mining,0,0.7478042477561582,Sector
+Hallands län,Health_Care,19,0.37176659397633993,Sector
+Hallands län,EnergyExpL_Prod,83,0.21131348030951824,Sector
+Hallands län,Utilities,37,0.11382159319730778,Sector

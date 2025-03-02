@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ostallgäu,833,0.43763361811911844,Overall
+Ostallgäu,HiTech,47,0.44637070013412683,Sector
+Ostallgäu,Agriculture,41,0.38960536050558503,Sector
+Ostallgäu,Transportation,57,0.25810091528648027,Sector
+Ostallgäu,Consumer_Products,3,0.773762973281957,Sector
+Ostallgäu,Unassigned,89,0.4817421095728476,Sector
+Ostallgäu,Communication,23,0.10593232010143439,Sector
+Ostallgäu,Trade,36,0.8251820630830913,Sector
+Ostallgäu,Business_Services,96,0.5691827951710202,Sector
+Ostallgäu,Business_Products,59,0.9449612893715829,Sector
+Ostallgäu,Construction,22,0.04085715761646769,Sector
+Ostallgäu,Services,67,0.5411029915607853,Sector
+Ostallgäu,Mining,69,0.16093929353875724,Sector
+Ostallgäu,Health_Care,52,0.4842157174139673,Sector
+Ostallgäu,EnergyExpL_Prod,80,0.06371725146083762,Sector
+Ostallgäu,Utilities,92,0.4788313336878377,Sector

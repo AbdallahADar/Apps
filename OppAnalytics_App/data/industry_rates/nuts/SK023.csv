@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nitriansky kraj,853,0.46408568341793643,Overall
+Nitriansky kraj,HiTech,33,0.24608252299079403,Sector
+Nitriansky kraj,Agriculture,89,0.44109833155089406,Sector
+Nitriansky kraj,Transportation,38,0.06236381762717802,Sector
+Nitriansky kraj,Consumer_Products,59,0.6896253512969396,Sector
+Nitriansky kraj,Unassigned,93,0.9261191219645885,Sector
+Nitriansky kraj,Communication,39,0.002757635244082457,Sector
+Nitriansky kraj,Trade,59,0.027676991584910215,Sector
+Nitriansky kraj,Business_Services,55,0.9770363118326744,Sector
+Nitriansky kraj,Business_Products,24,0.010391070052075402,Sector
+Nitriansky kraj,Construction,56,0.7462806809724739,Sector
+Nitriansky kraj,Services,48,0.1910031049545825,Sector
+Nitriansky kraj,Mining,3,0.5905443865545286,Sector
+Nitriansky kraj,Health_Care,95,0.7620756995025393,Sector
+Nitriansky kraj,EnergyExpL_Prod,65,0.38925464270026267,Sector
+Nitriansky kraj,Utilities,97,0.8989755824405238,Sector

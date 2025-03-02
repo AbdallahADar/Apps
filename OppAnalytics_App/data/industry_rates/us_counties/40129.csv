@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Roger Mills,635,0.4187238245492707,Overall
+Roger Mills,HiTech,60,0.43832653703921,Sector
+Roger Mills,Agriculture,21,0.14601490485891355,Sector
+Roger Mills,Transportation,54,0.4575513211880168,Sector
+Roger Mills,Consumer_Products,77,0.4593702999880075,Sector
+Roger Mills,Unassigned,20,0.7129317406300838,Sector
+Roger Mills,Communication,66,0.11169555225798045,Sector
+Roger Mills,Trade,10,0.713463153270855,Sector
+Roger Mills,Business_Services,10,0.06749656403281434,Sector
+Roger Mills,Business_Products,57,0.5964527761045844,Sector
+Roger Mills,Construction,39,0.6087941732883612,Sector
+Roger Mills,Services,77,0.8854420193470628,Sector
+Roger Mills,Mining,78,0.33275676979362967,Sector
+Roger Mills,Health_Care,42,0.4746937996431,Sector
+Roger Mills,EnergyExpL_Prod,11,0.229818358799471,Sector
+Roger Mills,Utilities,13,0.0460493979969705,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McCormick,767,0.5752172088266316,Overall
+McCormick,HiTech,7,0.84875944024922,Sector
+McCormick,Agriculture,90,0.6588335739165246,Sector
+McCormick,Transportation,42,0.27886389328204986,Sector
+McCormick,Consumer_Products,4,0.9807286117732308,Sector
+McCormick,Unassigned,56,0.9418313007064416,Sector
+McCormick,Communication,78,0.012710379740281996,Sector
+McCormick,Trade,68,0.8520486545867879,Sector
+McCormick,Business_Services,63,0.9875409708465381,Sector
+McCormick,Business_Products,23,0.6757373037426013,Sector
+McCormick,Construction,48,0.2701706193846477,Sector
+McCormick,Services,54,0.7451404423067017,Sector
+McCormick,Mining,14,0.43199536476721623,Sector
+McCormick,Health_Care,48,0.08374163917308164,Sector
+McCormick,EnergyExpL_Prod,93,0.358719285964199,Sector
+McCormick,Utilities,79,0.5014366519599527,Sector

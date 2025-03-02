@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Anson,813,0.5284199707199838,Overall
+Anson,HiTech,88,0.9292460970537285,Sector
+Anson,Agriculture,65,0.37271955315733396,Sector
+Anson,Transportation,95,0.010297130020466505,Sector
+Anson,Consumer_Products,46,0.9941938256388542,Sector
+Anson,Unassigned,79,0.8395316143783285,Sector
+Anson,Communication,99,0.522205338087276,Sector
+Anson,Trade,72,0.414259351743438,Sector
+Anson,Business_Services,20,0.42326092743669186,Sector
+Anson,Business_Products,27,0.20551991885348964,Sector
+Anson,Construction,32,0.6698514521339667,Sector
+Anson,Services,48,0.932971271108821,Sector
+Anson,Mining,87,0.5475034618502492,Sector
+Anson,Health_Care,6,0.2618478249445725,Sector
+Anson,EnergyExpL_Prod,0,0.28069440951994806,Sector
+Anson,Utilities,49,0.5221973848725925,Sector

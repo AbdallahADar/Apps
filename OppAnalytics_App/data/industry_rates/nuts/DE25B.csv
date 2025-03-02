@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Roth,661,0.34472576494946344,Overall
+Roth,HiTech,80,0.07415221947923234,Sector
+Roth,Agriculture,87,0.435935096935979,Sector
+Roth,Transportation,78,0.7574734941890473,Sector
+Roth,Consumer_Products,89,0.8402112374880261,Sector
+Roth,Unassigned,35,0.306952033548892,Sector
+Roth,Communication,16,0.029035010489980806,Sector
+Roth,Trade,48,0.27340042132009124,Sector
+Roth,Business_Services,9,0.5061988840104387,Sector
+Roth,Business_Products,15,0.2887518929602888,Sector
+Roth,Construction,48,0.28631055641444747,Sector
+Roth,Services,25,0.20639947356277089,Sector
+Roth,Mining,18,0.102766541517338,Sector
+Roth,Health_Care,20,0.7364455785458556,Sector
+Roth,EnergyExpL_Prod,7,0.0016929470964243132,Sector
+Roth,Utilities,86,0.32516108668313914,Sector

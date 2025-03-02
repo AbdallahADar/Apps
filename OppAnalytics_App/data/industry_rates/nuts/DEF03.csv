@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Lübeck, Kreisfreie Stadt",802,0.480318603656409,Overall
+"Lübeck, Kreisfreie Stadt",HiTech,35,0.14277608186016122,Sector
+"Lübeck, Kreisfreie Stadt",Agriculture,73,0.6743632466305294,Sector
+"Lübeck, Kreisfreie Stadt",Transportation,15,0.38957262360154377,Sector
+"Lübeck, Kreisfreie Stadt",Consumer_Products,43,0.24347363475015693,Sector
+"Lübeck, Kreisfreie Stadt",Unassigned,82,0.03201063284980177,Sector
+"Lübeck, Kreisfreie Stadt",Communication,44,0.6415341421396861,Sector
+"Lübeck, Kreisfreie Stadt",Trade,58,0.4899184876830778,Sector
+"Lübeck, Kreisfreie Stadt",Business_Services,59,0.3372100901035302,Sector
+"Lübeck, Kreisfreie Stadt",Business_Products,55,0.3812887161773528,Sector
+"Lübeck, Kreisfreie Stadt",Construction,40,0.20362032673594765,Sector
+"Lübeck, Kreisfreie Stadt",Services,54,0.9751136889815399,Sector
+"Lübeck, Kreisfreie Stadt",Mining,51,0.5284125704495655,Sector
+"Lübeck, Kreisfreie Stadt",Health_Care,37,0.9902310931370026,Sector
+"Lübeck, Kreisfreie Stadt",EnergyExpL_Prod,95,0.36498583300303733,Sector
+"Lübeck, Kreisfreie Stadt",Utilities,61,0.8102678867432028,Sector

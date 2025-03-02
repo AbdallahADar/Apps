@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Weißenburg-Gunzenhausen,600,0.594686650887655,Overall
+Weißenburg-Gunzenhausen,HiTech,25,0.8553195882450404,Sector
+Weißenburg-Gunzenhausen,Agriculture,21,0.4640926818853459,Sector
+Weißenburg-Gunzenhausen,Transportation,48,0.748328704064273,Sector
+Weißenburg-Gunzenhausen,Consumer_Products,82,0.7085858511650497,Sector
+Weißenburg-Gunzenhausen,Unassigned,0,0.20154528546410644,Sector
+Weißenburg-Gunzenhausen,Communication,6,0.691907953552597,Sector
+Weißenburg-Gunzenhausen,Trade,15,0.30588685034284,Sector
+Weißenburg-Gunzenhausen,Business_Services,30,0.8731874178562663,Sector
+Weißenburg-Gunzenhausen,Business_Products,13,0.8298215666192938,Sector
+Weißenburg-Gunzenhausen,Construction,44,0.14357667885572756,Sector
+Weißenburg-Gunzenhausen,Services,19,0.893952207354999,Sector
+Weißenburg-Gunzenhausen,Mining,89,0.008806675249907525,Sector
+Weißenburg-Gunzenhausen,Health_Care,64,0.7847981645293928,Sector
+Weißenburg-Gunzenhausen,EnergyExpL_Prod,68,0.9674938251837211,Sector
+Weißenburg-Gunzenhausen,Utilities,76,0.44299631294626585,Sector

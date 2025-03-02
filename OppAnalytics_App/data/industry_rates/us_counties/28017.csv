@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chickasaw,832,0.5889504102131244,Overall
+Chickasaw,HiTech,75,0.9061068869364847,Sector
+Chickasaw,Agriculture,40,0.44947967015989754,Sector
+Chickasaw,Transportation,12,0.4339148719828486,Sector
+Chickasaw,Consumer_Products,2,0.5655960910804363,Sector
+Chickasaw,Unassigned,26,0.3884701684057754,Sector
+Chickasaw,Communication,91,0.4789309307577928,Sector
+Chickasaw,Trade,62,0.5908923841062402,Sector
+Chickasaw,Business_Services,94,0.9591078653061584,Sector
+Chickasaw,Business_Products,17,0.9227154321105303,Sector
+Chickasaw,Construction,74,0.4776012870203755,Sector
+Chickasaw,Services,87,0.9208316187546874,Sector
+Chickasaw,Mining,79,0.36035286210884243,Sector
+Chickasaw,Health_Care,68,0.7348949429951271,Sector
+Chickasaw,EnergyExpL_Prod,89,0.2761236254823147,Sector
+Chickasaw,Utilities,16,0.3692375159893545,Sector

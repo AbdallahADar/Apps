@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Flensburg, Kreisfreie Stadt",1034,0.5346001259607799,Overall
+"Flensburg, Kreisfreie Stadt",HiTech,8,0.554208785357254,Sector
+"Flensburg, Kreisfreie Stadt",Agriculture,53,0.25126024467937524,Sector
+"Flensburg, Kreisfreie Stadt",Transportation,51,0.6281512081430305,Sector
+"Flensburg, Kreisfreie Stadt",Consumer_Products,68,0.6124768192649569,Sector
+"Flensburg, Kreisfreie Stadt",Unassigned,24,0.40075658055318497,Sector
+"Flensburg, Kreisfreie Stadt",Communication,91,0.6534559967701932,Sector
+"Flensburg, Kreisfreie Stadt",Trade,96,0.8720330129869812,Sector
+"Flensburg, Kreisfreie Stadt",Business_Services,68,0.9983998282063234,Sector
+"Flensburg, Kreisfreie Stadt",Business_Products,66,0.16892443478702657,Sector
+"Flensburg, Kreisfreie Stadt",Construction,79,0.2167338061144367,Sector
+"Flensburg, Kreisfreie Stadt",Services,91,0.5153288435244954,Sector
+"Flensburg, Kreisfreie Stadt",Mining,98,0.5586597074496585,Sector
+"Flensburg, Kreisfreie Stadt",Health_Care,65,0.320784242618679,Sector
+"Flensburg, Kreisfreie Stadt",EnergyExpL_Prod,89,0.44850314558466864,Sector
+"Flensburg, Kreisfreie Stadt",Utilities,87,0.8193252333714343,Sector

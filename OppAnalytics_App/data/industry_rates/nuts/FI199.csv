@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Etelä-Pohjanmaa,517,0.5258128058167567,Overall
+Etelä-Pohjanmaa,HiTech,34,0.3177785983202518,Sector
+Etelä-Pohjanmaa,Agriculture,14,0.44027823378369424,Sector
+Etelä-Pohjanmaa,Transportation,78,0.429405276036929,Sector
+Etelä-Pohjanmaa,Consumer_Products,37,0.78109380452296,Sector
+Etelä-Pohjanmaa,Unassigned,31,0.2988551052120093,Sector
+Etelä-Pohjanmaa,Communication,54,0.7649805531499394,Sector
+Etelä-Pohjanmaa,Trade,17,0.04356077454749163,Sector
+Etelä-Pohjanmaa,Business_Services,7,0.4989273116803463,Sector
+Etelä-Pohjanmaa,Business_Products,28,0.23372589141150468,Sector
+Etelä-Pohjanmaa,Construction,19,0.9453002419358578,Sector
+Etelä-Pohjanmaa,Services,16,0.6637462778192674,Sector
+Etelä-Pohjanmaa,Mining,62,0.3143439416772882,Sector
+Etelä-Pohjanmaa,Health_Care,30,0.5652687100279647,Sector
+Etelä-Pohjanmaa,EnergyExpL_Prod,11,0.9716106667773775,Sector
+Etelä-Pohjanmaa,Utilities,79,0.618316700348468,Sector

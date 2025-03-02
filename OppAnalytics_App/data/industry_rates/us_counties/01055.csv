@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Etowah,884,0.5608164335568382,Overall
+Etowah,HiTech,89,0.5433489663197106,Sector
+Etowah,Agriculture,81,0.32318095519829615,Sector
+Etowah,Transportation,66,0.430834908317303,Sector
+Etowah,Consumer_Products,59,0.8996430698504992,Sector
+Etowah,Unassigned,42,0.4078595478557311,Sector
+Etowah,Communication,30,0.9865154390665765,Sector
+Etowah,Trade,10,0.9358000919914253,Sector
+Etowah,Business_Services,63,0.1611545520543528,Sector
+Etowah,Business_Products,56,0.7720473681057777,Sector
+Etowah,Construction,88,0.0072991291171564665,Sector
+Etowah,Services,56,0.3309728780608322,Sector
+Etowah,Mining,17,0.5943022888974199,Sector
+Etowah,Health_Care,97,0.5792802119094697,Sector
+Etowah,EnergyExpL_Prod,82,0.7791196443539906,Sector
+Etowah,Utilities,48,0.6608874522540324,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Westchester,831,0.5961725746327914,Overall
+Westchester,HiTech,46,0.8455285173928854,Sector
+Westchester,Agriculture,56,0.8600063859215595,Sector
+Westchester,Transportation,65,0.10165870762010554,Sector
+Westchester,Consumer_Products,96,0.7375530131509195,Sector
+Westchester,Unassigned,55,0.706597801443104,Sector
+Westchester,Communication,76,0.963292319509124,Sector
+Westchester,Trade,17,0.7060204628141485,Sector
+Westchester,Business_Services,84,0.19809427955549563,Sector
+Westchester,Business_Products,13,0.7852905264435907,Sector
+Westchester,Construction,35,0.06522818155545962,Sector
+Westchester,Services,80,0.7691237516246515,Sector
+Westchester,Mining,69,0.251513804752447,Sector
+Westchester,Health_Care,15,0.6820362657900033,Sector
+Westchester,EnergyExpL_Prod,28,0.6283888981307162,Sector
+Westchester,Utilities,96,0.6422557037876586,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Charlton,687,0.4639390812488473,Overall
+Charlton,HiTech,15,0.777600708835063,Sector
+Charlton,Agriculture,27,0.013563288157120934,Sector
+Charlton,Transportation,31,0.9648734401107579,Sector
+Charlton,Consumer_Products,65,0.8396117323870738,Sector
+Charlton,Unassigned,63,0.4713705676472847,Sector
+Charlton,Communication,73,0.024645501055586827,Sector
+Charlton,Trade,37,0.3694426429292198,Sector
+Charlton,Business_Services,59,0.032176253133468724,Sector
+Charlton,Business_Products,11,0.4286982369198511,Sector
+Charlton,Construction,78,0.9736295714291444,Sector
+Charlton,Services,34,0.568270538832176,Sector
+Charlton,Mining,10,0.725892101144717,Sector
+Charlton,Health_Care,17,0.05761527693987556,Sector
+Charlton,EnergyExpL_Prod,78,0.603315972981242,Sector
+Charlton,Utilities,89,0.1083803862301278,Sector

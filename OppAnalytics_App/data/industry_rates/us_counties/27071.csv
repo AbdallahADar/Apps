@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Koochiching,555,0.3660094674402349,Overall
+Koochiching,HiTech,33,0.14673085843966005,Sector
+Koochiching,Agriculture,22,0.06894318496066831,Sector
+Koochiching,Transportation,34,0.21978086291985033,Sector
+Koochiching,Consumer_Products,36,0.13231321753957992,Sector
+Koochiching,Unassigned,46,0.5289237490767029,Sector
+Koochiching,Communication,4,0.0014457079175450582,Sector
+Koochiching,Trade,2,0.11970371907129407,Sector
+Koochiching,Business_Services,29,0.2189605588272483,Sector
+Koochiching,Business_Products,25,0.7292036608640153,Sector
+Koochiching,Construction,71,0.7437385082607011,Sector
+Koochiching,Services,21,0.43330733729050097,Sector
+Koochiching,Mining,58,0.23372603701968786,Sector
+Koochiching,Health_Care,64,0.9239963569607504,Sector
+Koochiching,EnergyExpL_Prod,12,0.6598672185203631,Sector
+Koochiching,Utilities,98,0.329501033934956,Sector

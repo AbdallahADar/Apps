@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Edgecombe,463,0.49446782089572516,Overall
+Edgecombe,HiTech,15,0.22613392124514775,Sector
+Edgecombe,Agriculture,91,0.10426615216851842,Sector
+Edgecombe,Transportation,30,0.049257641490651705,Sector
+Edgecombe,Consumer_Products,5,0.4810461421317951,Sector
+Edgecombe,Unassigned,18,0.05063872280251824,Sector
+Edgecombe,Communication,11,0.4267723311531776,Sector
+Edgecombe,Trade,37,0.8733970295521146,Sector
+Edgecombe,Business_Services,55,0.8606234216549261,Sector
+Edgecombe,Business_Products,36,0.8412300610803295,Sector
+Edgecombe,Construction,54,0.602717965148197,Sector
+Edgecombe,Services,53,0.7948275754181111,Sector
+Edgecombe,Mining,16,0.7145595887140456,Sector
+Edgecombe,Health_Care,10,0.5512198703561397,Sector
+Edgecombe,EnergyExpL_Prod,24,0.1079826661251504,Sector
+Edgecombe,Utilities,8,0.7323442243950538,Sector

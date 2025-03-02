@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Haralson,875,0.5736502382173158,Overall
+Haralson,HiTech,75,0.828962041955478,Sector
+Haralson,Agriculture,71,0.4940311416023593,Sector
+Haralson,Transportation,86,0.678359933408737,Sector
+Haralson,Consumer_Products,86,0.861113535101799,Sector
+Haralson,Unassigned,70,0.8643240275938201,Sector
+Haralson,Communication,68,0.7606964539922364,Sector
+Haralson,Trade,90,0.2358070935948281,Sector
+Haralson,Business_Services,41,0.4234494839914845,Sector
+Haralson,Business_Products,90,0.34884469737675483,Sector
+Haralson,Construction,12,0.7286470665609694,Sector
+Haralson,Services,42,0.4867948415518777,Sector
+Haralson,Mining,23,0.6038652101544156,Sector
+Haralson,Health_Care,57,0.4126217328703301,Sector
+Haralson,EnergyExpL_Prod,4,0.06859850323689687,Sector
+Haralson,Utilities,60,0.8086378102677505,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McNairy,652,0.5430090775488311,Overall
+McNairy,HiTech,43,0.7277740910679132,Sector
+McNairy,Agriculture,43,0.4579778996873791,Sector
+McNairy,Transportation,85,0.4822479804015193,Sector
+McNairy,Consumer_Products,2,0.7941565155292426,Sector
+McNairy,Unassigned,50,0.40080864668526783,Sector
+McNairy,Communication,12,0.22205535301872892,Sector
+McNairy,Trade,15,0.8666315305389837,Sector
+McNairy,Business_Services,69,0.8292643759761323,Sector
+McNairy,Business_Products,89,0.7369571456028811,Sector
+McNairy,Construction,44,0.16648480219682815,Sector
+McNairy,Services,78,0.5767438772830511,Sector
+McNairy,Mining,63,0.7921865519345035,Sector
+McNairy,Health_Care,11,0.2491741798240218,Sector
+McNairy,EnergyExpL_Prod,48,0.05342140401444384,Sector
+McNairy,Utilities,0,0.7892518094715683,Sector

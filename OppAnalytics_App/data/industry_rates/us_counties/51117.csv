@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mecklenburg,646,0.5445854071483596,Overall
+Mecklenburg,HiTech,89,0.8568313268818953,Sector
+Mecklenburg,Agriculture,17,0.46023551738173096,Sector
+Mecklenburg,Transportation,0,0.9165761758148373,Sector
+Mecklenburg,Consumer_Products,94,0.21992823874527279,Sector
+Mecklenburg,Unassigned,95,0.6843867012386102,Sector
+Mecklenburg,Communication,54,0.5269201656303616,Sector
+Mecklenburg,Trade,95,0.8437983145408098,Sector
+Mecklenburg,Business_Services,8,0.00785631539129672,Sector
+Mecklenburg,Business_Products,12,0.33730894511007437,Sector
+Mecklenburg,Construction,48,0.9050857136229212,Sector
+Mecklenburg,Services,8,0.14279978792629544,Sector
+Mecklenburg,Mining,81,0.6346939751064241,Sector
+Mecklenburg,Health_Care,6,0.5093731179916693,Sector
+Mecklenburg,EnergyExpL_Prod,38,0.6424545160746242,Sector
+Mecklenburg,Utilities,1,0.4805322957685709,Sector

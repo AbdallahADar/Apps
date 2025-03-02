@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rybnicki,778,0.6087431772830356,Overall
+Rybnicki,HiTech,0,0.9267561920429462,Sector
+Rybnicki,Agriculture,80,0.9023931961071037,Sector
+Rybnicki,Transportation,21,0.8958993448442625,Sector
+Rybnicki,Consumer_Products,58,0.7772969331864746,Sector
+Rybnicki,Unassigned,91,0.5210689174719185,Sector
+Rybnicki,Communication,87,0.18537056945088526,Sector
+Rybnicki,Trade,72,0.3746250484824084,Sector
+Rybnicki,Business_Services,99,0.04354870048106496,Sector
+Rybnicki,Business_Products,99,0.9285450743578634,Sector
+Rybnicki,Construction,17,0.8655569616943052,Sector
+Rybnicki,Services,7,0.9282283604913258,Sector
+Rybnicki,Mining,26,0.4046568591136557,Sector
+Rybnicki,Health_Care,13,0.09980682287235476,Sector
+Rybnicki,EnergyExpL_Prod,51,0.9976716818192923,Sector
+Rybnicki,Utilities,57,0.27972299682967305,Sector

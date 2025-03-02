@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Calw,728,0.3805271160294034,Overall
+Calw,HiTech,10,0.6624602937458284,Sector
+Calw,Agriculture,39,0.22247098717546943,Sector
+Calw,Transportation,61,0.0009729931531824443,Sector
+Calw,Consumer_Products,54,0.22325125251341504,Sector
+Calw,Unassigned,9,0.5075331690090212,Sector
+Calw,Communication,39,0.5796896846021508,Sector
+Calw,Trade,36,0.26223195172941194,Sector
+Calw,Business_Services,59,0.46349017031247886,Sector
+Calw,Business_Products,61,0.08401529744043268,Sector
+Calw,Construction,86,0.5844645088694462,Sector
+Calw,Services,5,0.4345094282557733,Sector
+Calw,Mining,81,0.7635438965958348,Sector
+Calw,Health_Care,96,0.6206628978722856,Sector
+Calw,EnergyExpL_Prod,63,0.23365439615896255,Sector
+Calw,Utilities,29,0.06495581300735764,Sector

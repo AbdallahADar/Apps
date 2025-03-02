@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arnhem/Nijmegen,656,0.6603887369068703,Overall
+Arnhem/Nijmegen,HiTech,40,0.5148578845797342,Sector
+Arnhem/Nijmegen,Agriculture,71,0.528385203033509,Sector
+Arnhem/Nijmegen,Transportation,96,0.951041282217365,Sector
+Arnhem/Nijmegen,Consumer_Products,43,0.40136743695060817,Sector
+Arnhem/Nijmegen,Unassigned,17,0.6100910174933311,Sector
+Arnhem/Nijmegen,Communication,99,0.6874904519226005,Sector
+Arnhem/Nijmegen,Trade,60,0.7375867658699491,Sector
+Arnhem/Nijmegen,Business_Services,42,0.6771598921703792,Sector
+Arnhem/Nijmegen,Business_Products,6,0.8079806550173314,Sector
+Arnhem/Nijmegen,Construction,25,0.8937467334087706,Sector
+Arnhem/Nijmegen,Services,42,0.9280160653488162,Sector
+Arnhem/Nijmegen,Mining,16,0.02430305053136106,Sector
+Arnhem/Nijmegen,Health_Care,67,0.7789355721070625,Sector
+Arnhem/Nijmegen,EnergyExpL_Prod,1,0.9886806066814121,Sector
+Arnhem/Nijmegen,Utilities,31,0.3761884362708223,Sector

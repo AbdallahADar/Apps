@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Märkischer Kreis,791,0.5540939687771336,Overall
+Märkischer Kreis,HiTech,84,0.6755881133409736,Sector
+Märkischer Kreis,Agriculture,73,0.41497737908022825,Sector
+Märkischer Kreis,Transportation,47,0.9128866372666564,Sector
+Märkischer Kreis,Consumer_Products,12,0.4792945714377701,Sector
+Märkischer Kreis,Unassigned,34,0.7901691605736787,Sector
+Märkischer Kreis,Communication,83,0.0850502308798643,Sector
+Märkischer Kreis,Trade,40,0.326358921233298,Sector
+Märkischer Kreis,Business_Services,32,0.9450950953184706,Sector
+Märkischer Kreis,Business_Products,19,0.29992644718570216,Sector
+Märkischer Kreis,Construction,88,0.4382993040557548,Sector
+Märkischer Kreis,Services,51,0.9071848476403369,Sector
+Märkischer Kreis,Mining,90,0.06781751361590316,Sector
+Märkischer Kreis,Health_Care,9,0.24611012455697512,Sector
+Märkischer Kreis,EnergyExpL_Prod,39,0.9983341013441878,Sector
+Märkischer Kreis,Utilities,90,0.7243170841272047,Sector

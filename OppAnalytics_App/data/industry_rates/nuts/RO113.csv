@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cluj,845,0.29807659776850864,Overall
+Cluj,HiTech,60,0.0350168390768294,Sector
+Cluj,Agriculture,79,0.7014998598577797,Sector
+Cluj,Transportation,13,0.06779031373848587,Sector
+Cluj,Consumer_Products,50,0.6600769535964939,Sector
+Cluj,Unassigned,1,0.2609313515162559,Sector
+Cluj,Communication,87,0.13579450440107788,Sector
+Cluj,Trade,92,0.1241530304336852,Sector
+Cluj,Business_Services,58,0.3110799003351955,Sector
+Cluj,Business_Products,96,0.2543102047190734,Sector
+Cluj,Construction,57,0.20374459494665687,Sector
+Cluj,Services,46,0.7705622460461734,Sector
+Cluj,Mining,49,0.10905113555911794,Sector
+Cluj,Health_Care,84,0.6274473136320591,Sector
+Cluj,EnergyExpL_Prod,71,0.0774045727475492,Sector
+Cluj,Utilities,2,0.1322861459211967,Sector

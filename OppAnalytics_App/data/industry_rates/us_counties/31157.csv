@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Scotts Bluff,593,0.42884057631564854,Overall
+Scotts Bluff,HiTech,45,0.3245247910673771,Sector
+Scotts Bluff,Agriculture,30,0.11149162685778613,Sector
+Scotts Bluff,Transportation,66,0.3516213363523397,Sector
+Scotts Bluff,Consumer_Products,54,0.21698104693753906,Sector
+Scotts Bluff,Unassigned,69,0.8436054626173033,Sector
+Scotts Bluff,Communication,58,0.4947755220686756,Sector
+Scotts Bluff,Trade,10,0.5423467881199177,Sector
+Scotts Bluff,Business_Services,35,0.7969975457345797,Sector
+Scotts Bluff,Business_Products,37,0.36089011442464314,Sector
+Scotts Bluff,Construction,69,0.05855734905916443,Sector
+Scotts Bluff,Services,9,0.392081319125129,Sector
+Scotts Bluff,Mining,21,0.8325837636439369,Sector
+Scotts Bluff,Health_Care,14,0.22970589343705816,Sector
+Scotts Bluff,EnergyExpL_Prod,40,0.7144601783362031,Sector
+Scotts Bluff,Utilities,36,0.1619859069530737,Sector

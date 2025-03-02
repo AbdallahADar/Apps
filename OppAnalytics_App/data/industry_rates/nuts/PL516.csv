@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Legnicko-głogowski,502,0.40704471600812503,Overall
+Legnicko-głogowski,HiTech,7,0.9673625336657602,Sector
+Legnicko-głogowski,Agriculture,40,0.11641094018993015,Sector
+Legnicko-głogowski,Transportation,29,0.036872802007750005,Sector
+Legnicko-głogowski,Consumer_Products,62,0.5475974927451775,Sector
+Legnicko-głogowski,Unassigned,80,0.02789006803276839,Sector
+Legnicko-głogowski,Communication,26,0.7800589371035699,Sector
+Legnicko-głogowski,Trade,45,0.09762160058473268,Sector
+Legnicko-głogowski,Business_Services,11,0.14129278000761436,Sector
+Legnicko-głogowski,Business_Products,15,0.731040538350218,Sector
+Legnicko-głogowski,Construction,27,0.44662641723150165,Sector
+Legnicko-głogowski,Services,11,0.5811576518455678,Sector
+Legnicko-głogowski,Mining,27,0.141794400106374,Sector
+Legnicko-głogowski,Health_Care,39,0.5954499932217895,Sector
+Legnicko-głogowski,EnergyExpL_Prod,73,0.19253595897250564,Sector
+Legnicko-głogowski,Utilities,10,0.7019586260566164,Sector

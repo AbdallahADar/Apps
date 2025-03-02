@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Turner,941,0.4668648653347098,Overall
+Turner,HiTech,57,0.572221119677348,Sector
+Turner,Agriculture,76,0.3283998816538767,Sector
+Turner,Transportation,34,0.7445573278653111,Sector
+Turner,Consumer_Products,69,0.5335632957817781,Sector
+Turner,Unassigned,54,0.8090581954466235,Sector
+Turner,Communication,61,0.2605505100575819,Sector
+Turner,Trade,74,0.08401341004924545,Sector
+Turner,Business_Services,95,0.3970087796244953,Sector
+Turner,Business_Products,18,0.8013107673710356,Sector
+Turner,Construction,75,0.08383243462090073,Sector
+Turner,Services,31,0.4066682406785874,Sector
+Turner,Mining,49,0.0003375431015946173,Sector
+Turner,Health_Care,83,0.8495723478828378,Sector
+Turner,EnergyExpL_Prod,86,0.8860797817281034,Sector
+Turner,Utilities,79,0.24579934448132745,Sector

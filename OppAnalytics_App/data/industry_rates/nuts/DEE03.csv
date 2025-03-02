@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Magdeburg, Kreisfreie Stadt",667,0.5135177842189258,Overall
+"Magdeburg, Kreisfreie Stadt",HiTech,62,0.22262459613606211,Sector
+"Magdeburg, Kreisfreie Stadt",Agriculture,16,0.5824422362531837,Sector
+"Magdeburg, Kreisfreie Stadt",Transportation,7,0.003012161510202782,Sector
+"Magdeburg, Kreisfreie Stadt",Consumer_Products,28,0.4025253875355802,Sector
+"Magdeburg, Kreisfreie Stadt",Unassigned,75,0.025423701399114873,Sector
+"Magdeburg, Kreisfreie Stadt",Communication,46,0.6312478502147374,Sector
+"Magdeburg, Kreisfreie Stadt",Trade,77,0.5250733354713173,Sector
+"Magdeburg, Kreisfreie Stadt",Business_Services,25,0.43316786463524304,Sector
+"Magdeburg, Kreisfreie Stadt",Business_Products,48,0.7036589097202515,Sector
+"Magdeburg, Kreisfreie Stadt",Construction,49,0.737068511698634,Sector
+"Magdeburg, Kreisfreie Stadt",Services,49,0.6536752141101829,Sector
+"Magdeburg, Kreisfreie Stadt",Mining,39,0.6578811054583381,Sector
+"Magdeburg, Kreisfreie Stadt",Health_Care,65,0.8609064974706635,Sector
+"Magdeburg, Kreisfreie Stadt",EnergyExpL_Prod,56,0.8368668894710838,Sector
+"Magdeburg, Kreisfreie Stadt",Utilities,25,0.4271925021992924,Sector

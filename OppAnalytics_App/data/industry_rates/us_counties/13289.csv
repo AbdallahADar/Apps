@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Twiggs,778,0.512839809032707,Overall
+Twiggs,HiTech,31,0.6125246968774309,Sector
+Twiggs,Agriculture,53,0.20879641798072424,Sector
+Twiggs,Transportation,49,0.02022737770928784,Sector
+Twiggs,Consumer_Products,88,0.9767501970028144,Sector
+Twiggs,Unassigned,22,0.3358274935023541,Sector
+Twiggs,Communication,64,0.380100129504373,Sector
+Twiggs,Trade,76,0.8605054008619452,Sector
+Twiggs,Business_Services,50,0.6729292924504839,Sector
+Twiggs,Business_Products,26,0.1857810354949705,Sector
+Twiggs,Construction,17,0.7433264951927367,Sector
+Twiggs,Services,89,0.5290640548014875,Sector
+Twiggs,Mining,78,0.3969556004350887,Sector
+Twiggs,Health_Care,89,0.6585778253369695,Sector
+Twiggs,EnergyExpL_Prod,1,0.5821962529864365,Sector
+Twiggs,Utilities,45,0.5290348653535022,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zuidoost-Zuid-Holland,777,0.38824212540077013,Overall
+Zuidoost-Zuid-Holland,HiTech,39,0.017438217946656787,Sector
+Zuidoost-Zuid-Holland,Agriculture,81,0.17694742038031652,Sector
+Zuidoost-Zuid-Holland,Transportation,27,0.9883461228236741,Sector
+Zuidoost-Zuid-Holland,Consumer_Products,19,0.5763031742298146,Sector
+Zuidoost-Zuid-Holland,Unassigned,4,0.40302298966435657,Sector
+Zuidoost-Zuid-Holland,Communication,86,0.7492988065420451,Sector
+Zuidoost-Zuid-Holland,Trade,84,0.10211104044616426,Sector
+Zuidoost-Zuid-Holland,Business_Services,30,0.14934115573572548,Sector
+Zuidoost-Zuid-Holland,Business_Products,37,0.33938479631978513,Sector
+Zuidoost-Zuid-Holland,Construction,89,0.7848639752534449,Sector
+Zuidoost-Zuid-Holland,Services,96,0.34186934287374326,Sector
+Zuidoost-Zuid-Holland,Mining,42,0.005503278907521225,Sector
+Zuidoost-Zuid-Holland,Health_Care,24,0.10609961025972414,Sector
+Zuidoost-Zuid-Holland,EnergyExpL_Prod,93,0.6828959770813375,Sector
+Zuidoost-Zuid-Holland,Utilities,26,0.40020597254724277,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Main-Tauber-Kreis,906,0.44376333495677234,Overall
+Main-Tauber-Kreis,HiTech,32,0.5844952551632208,Sector
+Main-Tauber-Kreis,Agriculture,82,0.022282257934825078,Sector
+Main-Tauber-Kreis,Transportation,35,0.27126516812738055,Sector
+Main-Tauber-Kreis,Consumer_Products,50,0.51957396618703,Sector
+Main-Tauber-Kreis,Unassigned,94,0.59065393104217,Sector
+Main-Tauber-Kreis,Communication,41,0.8880462790197402,Sector
+Main-Tauber-Kreis,Trade,53,0.9945397658769568,Sector
+Main-Tauber-Kreis,Business_Services,99,0.41617891328853973,Sector
+Main-Tauber-Kreis,Business_Products,94,0.6237646566329182,Sector
+Main-Tauber-Kreis,Construction,54,0.08190558809714088,Sector
+Main-Tauber-Kreis,Services,36,0.035825502009837695,Sector
+Main-Tauber-Kreis,Mining,66,0.11451313620247794,Sector
+Main-Tauber-Kreis,Health_Care,34,0.9344677131375299,Sector
+Main-Tauber-Kreis,EnergyExpL_Prod,90,0.019830675882054005,Sector
+Main-Tauber-Kreis,Utilities,46,0.5591072157497632,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ludwigslust-Parchim,675,0.5639212119560509,Overall
+Ludwigslust-Parchim,HiTech,51,0.739027378534901,Sector
+Ludwigslust-Parchim,Agriculture,32,0.2906686247530005,Sector
+Ludwigslust-Parchim,Transportation,78,0.6406325387064805,Sector
+Ludwigslust-Parchim,Consumer_Products,20,0.7448268656939262,Sector
+Ludwigslust-Parchim,Unassigned,83,0.5344338609366678,Sector
+Ludwigslust-Parchim,Communication,6,0.3948815192570122,Sector
+Ludwigslust-Parchim,Trade,15,0.25497379594604175,Sector
+Ludwigslust-Parchim,Business_Services,68,0.8006266088722328,Sector
+Ludwigslust-Parchim,Business_Products,57,0.7476210182066397,Sector
+Ludwigslust-Parchim,Construction,7,0.3730571787670979,Sector
+Ludwigslust-Parchim,Services,31,0.8770729905945699,Sector
+Ludwigslust-Parchim,Mining,93,0.18668971861903894,Sector
+Ludwigslust-Parchim,Health_Care,33,0.18680492948757632,Sector
+Ludwigslust-Parchim,EnergyExpL_Prod,11,0.892238186722698,Sector
+Ludwigslust-Parchim,Utilities,90,0.7952629642428788,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Elbert,756,0.4805872256654391,Overall
+Elbert,HiTech,80,0.5363410940718981,Sector
+Elbert,Agriculture,5,0.5781360442934692,Sector
+Elbert,Transportation,36,0.5032679108374937,Sector
+Elbert,Consumer_Products,23,0.9574694857502057,Sector
+Elbert,Unassigned,48,0.930029938893119,Sector
+Elbert,Communication,99,0.4838294630272526,Sector
+Elbert,Trade,3,0.6612302444676231,Sector
+Elbert,Business_Services,93,0.12786872067098898,Sector
+Elbert,Business_Products,40,0.1725158267417407,Sector
+Elbert,Construction,41,0.018495531598888837,Sector
+Elbert,Services,68,0.11159101340446465,Sector
+Elbert,Mining,54,0.22139935925780108,Sector
+Elbert,Health_Care,75,0.801356278046448,Sector
+Elbert,EnergyExpL_Prod,25,0.2763262469235832,Sector
+Elbert,Utilities,66,0.828951226996609,Sector

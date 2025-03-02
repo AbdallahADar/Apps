@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Bremerhaven, Kreisfreie Stadt",778,0.42663770966491865,Overall
+"Bremerhaven, Kreisfreie Stadt",HiTech,89,0.5740023133704177,Sector
+"Bremerhaven, Kreisfreie Stadt",Agriculture,68,0.7756872957594301,Sector
+"Bremerhaven, Kreisfreie Stadt",Transportation,95,0.6111694402043544,Sector
+"Bremerhaven, Kreisfreie Stadt",Consumer_Products,7,0.7118394874497405,Sector
+"Bremerhaven, Kreisfreie Stadt",Unassigned,80,0.20131622500102098,Sector
+"Bremerhaven, Kreisfreie Stadt",Communication,76,0.20701709172090543,Sector
+"Bremerhaven, Kreisfreie Stadt",Trade,16,0.07304621871714978,Sector
+"Bremerhaven, Kreisfreie Stadt",Business_Services,78,0.3929646769773024,Sector
+"Bremerhaven, Kreisfreie Stadt",Business_Products,37,0.14536105048663117,Sector
+"Bremerhaven, Kreisfreie Stadt",Construction,26,0.18993559362353252,Sector
+"Bremerhaven, Kreisfreie Stadt",Services,91,0.16090912438718064,Sector
+"Bremerhaven, Kreisfreie Stadt",Mining,11,0.47267781332986136,Sector
+"Bremerhaven, Kreisfreie Stadt",Health_Care,58,0.477806517502115,Sector
+"Bremerhaven, Kreisfreie Stadt",EnergyExpL_Prod,12,0.5069526226570102,Sector
+"Bremerhaven, Kreisfreie Stadt",Utilities,34,0.8988801737871279,Sector

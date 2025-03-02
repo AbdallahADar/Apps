@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Barranquitas,807,0.5367929477871558,Overall
+Barranquitas,HiTech,11,0.15037494618850233,Sector
+Barranquitas,Agriculture,87,0.11868001950249352,Sector
+Barranquitas,Transportation,13,0.9299461134127527,Sector
+Barranquitas,Consumer_Products,85,0.025659283184920167,Sector
+Barranquitas,Unassigned,75,0.42303088482592965,Sector
+Barranquitas,Communication,7,0.4377442045277218,Sector
+Barranquitas,Trade,13,0.3819799327132095,Sector
+Barranquitas,Business_Services,48,0.8394777941730632,Sector
+Barranquitas,Business_Products,41,0.9630593298583132,Sector
+Barranquitas,Construction,84,0.5741933802068515,Sector
+Barranquitas,Services,67,0.8458491803737348,Sector
+Barranquitas,Mining,93,0.4507340448952173,Sector
+Barranquitas,Health_Care,98,0.3425305013832781,Sector
+Barranquitas,EnergyExpL_Prod,19,0.869725323076065,Sector
+Barranquitas,Utilities,66,0.6989092784852847,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Robeson,622,0.5210507187739014,Overall
+Robeson,HiTech,55,0.9710575483571524,Sector
+Robeson,Agriculture,43,0.7823059116354757,Sector
+Robeson,Transportation,52,0.278562276682205,Sector
+Robeson,Consumer_Products,3,0.8163358968023865,Sector
+Robeson,Unassigned,13,0.6980371777795291,Sector
+Robeson,Communication,7,0.07911412663713357,Sector
+Robeson,Trade,67,0.8261980549861951,Sector
+Robeson,Business_Services,9,0.22672886726113106,Sector
+Robeson,Business_Products,91,0.8653045606267403,Sector
+Robeson,Construction,66,0.16595054955518984,Sector
+Robeson,Services,6,0.22574463885436535,Sector
+Robeson,Mining,64,0.1237954266475908,Sector
+Robeson,Health_Care,12,0.09470830663802687,Sector
+Robeson,EnergyExpL_Prod,93,0.8351194106170046,Sector
+Robeson,Utilities,41,0.8267980285283946,Sector

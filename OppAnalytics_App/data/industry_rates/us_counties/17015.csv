@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Carroll,624,0.582116681542341,Overall
+Carroll,HiTech,24,0.9199169740315145,Sector
+Carroll,Agriculture,76,0.8017823400323008,Sector
+Carroll,Transportation,24,0.3677438129946162,Sector
+Carroll,Consumer_Products,2,0.9049859106444155,Sector
+Carroll,Unassigned,99,0.5748136500913902,Sector
+Carroll,Communication,19,0.11407755579844991,Sector
+Carroll,Trade,52,0.29243312729523985,Sector
+Carroll,Business_Services,69,0.7329936440331285,Sector
+Carroll,Business_Products,54,0.5392123970409971,Sector
+Carroll,Construction,32,0.5217596501834463,Sector
+Carroll,Services,4,0.7216586929022873,Sector
+Carroll,Mining,35,0.5451661631108514,Sector
+Carroll,Health_Care,33,0.4989577009252363,Sector
+Carroll,EnergyExpL_Prod,65,0.3657204988795798,Sector
+Carroll,Utilities,36,0.8305281051716604,Sector

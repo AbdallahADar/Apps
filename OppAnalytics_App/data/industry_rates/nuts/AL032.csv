@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fier,874,0.5006547249504635,Overall
+Fier,HiTech,88,0.30130581358761177,Sector
+Fier,Agriculture,29,0.9553774529912984,Sector
+Fier,Transportation,75,0.07636038011263868,Sector
+Fier,Consumer_Products,35,0.8015547294622696,Sector
+Fier,Unassigned,88,0.8760002774099305,Sector
+Fier,Communication,24,0.7205593475686882,Sector
+Fier,Trade,27,0.3194393311963418,Sector
+Fier,Business_Services,84,0.33491747741591504,Sector
+Fier,Business_Products,54,0.004451161151918681,Sector
+Fier,Construction,19,0.7879573367335622,Sector
+Fier,Services,74,0.5597019523296116,Sector
+Fier,Mining,88,0.24427030585431375,Sector
+Fier,Health_Care,89,0.35247680416169624,Sector
+Fier,EnergyExpL_Prod,98,0.4256422069349516,Sector
+Fier,Utilities,2,0.7498062973462042,Sector

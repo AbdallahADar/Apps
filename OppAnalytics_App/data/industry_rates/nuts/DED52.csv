@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Leipzig,936,0.5105057925896153,Overall
+Leipzig,HiTech,99,0.6848772239386469,Sector
+Leipzig,Agriculture,96,0.5664488104853621,Sector
+Leipzig,Transportation,40,0.3941760965413793,Sector
+Leipzig,Consumer_Products,49,0.6413686905755217,Sector
+Leipzig,Unassigned,97,0.5045767497951231,Sector
+Leipzig,Communication,51,0.3671521038489268,Sector
+Leipzig,Trade,46,0.34612123989977317,Sector
+Leipzig,Business_Services,84,0.5913660119227983,Sector
+Leipzig,Business_Products,81,0.3814984924276593,Sector
+Leipzig,Construction,53,0.8301890161373836,Sector
+Leipzig,Services,47,0.6662328900931167,Sector
+Leipzig,Mining,57,0.5538485381213278,Sector
+Leipzig,Health_Care,64,0.3994713072604452,Sector
+Leipzig,EnergyExpL_Prod,10,0.16490714983888732,Sector
+Leipzig,Utilities,62,0.5653525679578769,Sector

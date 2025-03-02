@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stade,636,0.6782171894793521,Overall
+Stade,HiTech,12,0.7468148164490896,Sector
+Stade,Agriculture,21,0.9324566788034785,Sector
+Stade,Transportation,8,0.9177505873573156,Sector
+Stade,Consumer_Products,87,0.2421296422269874,Sector
+Stade,Unassigned,54,0.9815786628690792,Sector
+Stade,Communication,40,0.8960505447883186,Sector
+Stade,Trade,55,0.7152846344045036,Sector
+Stade,Business_Services,30,0.5368183818078939,Sector
+Stade,Business_Products,16,0.638085914404198,Sector
+Stade,Construction,51,0.7463436570675498,Sector
+Stade,Services,47,0.6343496024850102,Sector
+Stade,Mining,83,0.44511793673199374,Sector
+Stade,Health_Care,16,0.6677999971614961,Sector
+Stade,EnergyExpL_Prod,56,0.6849119473843402,Sector
+Stade,Utilities,60,0.38776483824902563,Sector

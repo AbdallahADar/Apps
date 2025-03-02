@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Walworth,592,0.46450446933480255,Overall
+Walworth,HiTech,64,0.0005209126222756044,Sector
+Walworth,Agriculture,78,0.9591630405914182,Sector
+Walworth,Transportation,6,0.6245163630629136,Sector
+Walworth,Consumer_Products,10,0.40762734520949095,Sector
+Walworth,Unassigned,11,0.3029595216411036,Sector
+Walworth,Communication,1,0.21306254669847757,Sector
+Walworth,Trade,74,0.23160460419485795,Sector
+Walworth,Business_Services,27,0.29445221794436194,Sector
+Walworth,Business_Products,68,0.32304986166432303,Sector
+Walworth,Construction,64,0.8287650171789277,Sector
+Walworth,Services,11,0.8323451235018496,Sector
+Walworth,Mining,76,0.7042250703294005,Sector
+Walworth,Health_Care,5,0.4273331436950175,Sector
+Walworth,EnergyExpL_Prod,62,0.04891314992207063,Sector
+Walworth,Utilities,35,0.7690291217655494,Sector

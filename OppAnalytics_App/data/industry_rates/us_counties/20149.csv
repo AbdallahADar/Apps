@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pottawatomie,847,0.44694008809520747,Overall
+Pottawatomie,HiTech,84,0.13025955446216586,Sector
+Pottawatomie,Agriculture,20,0.10720143054510967,Sector
+Pottawatomie,Transportation,12,0.5647519333725348,Sector
+Pottawatomie,Consumer_Products,22,0.4803696510425396,Sector
+Pottawatomie,Unassigned,78,0.4489803698065793,Sector
+Pottawatomie,Communication,69,0.29134470552248803,Sector
+Pottawatomie,Trade,58,0.8010643990282615,Sector
+Pottawatomie,Business_Services,3,0.3233275908761094,Sector
+Pottawatomie,Business_Products,88,0.659840219684408,Sector
+Pottawatomie,Construction,74,0.3232058895788361,Sector
+Pottawatomie,Services,79,0.7801160224737365,Sector
+Pottawatomie,Mining,40,0.10233736089942724,Sector
+Pottawatomie,Health_Care,98,0.6003423766931836,Sector
+Pottawatomie,EnergyExpL_Prod,37,0.47209572558881574,Sector
+Pottawatomie,Utilities,85,0.6188640918539158,Sector

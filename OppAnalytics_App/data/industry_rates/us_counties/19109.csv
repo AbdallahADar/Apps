@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kossuth,929,0.4772765991264938,Overall
+Kossuth,HiTech,90,0.874912463753218,Sector
+Kossuth,Agriculture,92,0.6484547910677992,Sector
+Kossuth,Transportation,62,0.24902721298387187,Sector
+Kossuth,Consumer_Products,11,0.60432547927125,Sector
+Kossuth,Unassigned,94,0.0827039526738289,Sector
+Kossuth,Communication,54,0.5243876096969965,Sector
+Kossuth,Trade,77,0.18979118491061941,Sector
+Kossuth,Business_Services,64,0.6704917748505462,Sector
+Kossuth,Business_Products,65,0.5177850173822903,Sector
+Kossuth,Construction,50,0.1853447732824176,Sector
+Kossuth,Services,77,0.554216719901188,Sector
+Kossuth,Mining,0,0.3190369274513589,Sector
+Kossuth,Health_Care,57,0.6815345473405896,Sector
+Kossuth,EnergyExpL_Prod,41,0.8241977749572496,Sector
+Kossuth,Utilities,95,0.23293875737418268,Sector

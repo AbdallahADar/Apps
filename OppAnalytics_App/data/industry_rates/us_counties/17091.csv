@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kankakee,712,0.4539133401804113,Overall
+Kankakee,HiTech,10,0.9181701565216299,Sector
+Kankakee,Agriculture,6,0.02970114293256898,Sector
+Kankakee,Transportation,66,0.5201530846988801,Sector
+Kankakee,Consumer_Products,49,0.015083087444544674,Sector
+Kankakee,Unassigned,40,0.38610946472829366,Sector
+Kankakee,Communication,90,0.8716284120086545,Sector
+Kankakee,Trade,64,0.6919122373006729,Sector
+Kankakee,Business_Services,69,0.9197256161991707,Sector
+Kankakee,Business_Products,19,0.5851676207468731,Sector
+Kankakee,Construction,72,0.023292867582045407,Sector
+Kankakee,Services,11,0.11193546832655621,Sector
+Kankakee,Mining,97,0.4158720412423196,Sector
+Kankakee,Health_Care,20,0.7708844604349169,Sector
+Kankakee,EnergyExpL_Prod,88,0.1332466563553597,Sector
+Kankakee,Utilities,11,0.4158177861836846,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sussex,646,0.5309417316950383,Overall
+Sussex,HiTech,54,0.7980192931240042,Sector
+Sussex,Agriculture,7,0.661516039187219,Sector
+Sussex,Transportation,62,0.5431805503794981,Sector
+Sussex,Consumer_Products,47,0.9346833698537633,Sector
+Sussex,Unassigned,82,0.18888053051366727,Sector
+Sussex,Communication,0,0.10792939950289726,Sector
+Sussex,Trade,22,0.7899573412014105,Sector
+Sussex,Business_Services,18,0.7060223909673504,Sector
+Sussex,Business_Products,25,0.6588527475826214,Sector
+Sussex,Construction,20,0.13862126153985865,Sector
+Sussex,Services,89,0.4715079121035832,Sector
+Sussex,Mining,65,0.8526018315560602,Sector
+Sussex,Health_Care,46,0.10355682696886936,Sector
+Sussex,EnergyExpL_Prod,78,0.6133054633920727,Sector
+Sussex,Utilities,31,0.39549101755269944,Sector

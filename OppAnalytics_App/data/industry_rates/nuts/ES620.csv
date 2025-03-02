@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Murcia,788,0.5260186985203077,Overall
+Murcia,HiTech,36,0.5890857882305369,Sector
+Murcia,Agriculture,37,0.6082224631513856,Sector
+Murcia,Transportation,1,0.909550286510326,Sector
+Murcia,Consumer_Products,11,0.22141186601494578,Sector
+Murcia,Unassigned,17,0.06278610795114548,Sector
+Murcia,Communication,53,0.27632621751727615,Sector
+Murcia,Trade,58,0.5084102120585808,Sector
+Murcia,Business_Services,98,0.7759986592482933,Sector
+Murcia,Business_Products,83,0.2610013827265403,Sector
+Murcia,Construction,44,0.8026239101209507,Sector
+Murcia,Services,87,0.9187837106194174,Sector
+Murcia,Mining,76,0.03266505118125773,Sector
+Murcia,Health_Care,76,0.9109089356747327,Sector
+Murcia,EnergyExpL_Prod,91,0.029815803479295466,Sector
+Murcia,Utilities,20,0.9826900833199325,Sector

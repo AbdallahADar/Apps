@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Keith,703,0.4027725319161883,Overall
+Keith,HiTech,45,0.3257194327887939,Sector
+Keith,Agriculture,21,0.41893747525514,Sector
+Keith,Transportation,62,0.7706274455647972,Sector
+Keith,Consumer_Products,33,0.3597657573213825,Sector
+Keith,Unassigned,73,0.7314371450264908,Sector
+Keith,Communication,67,0.1262734455522494,Sector
+Keith,Trade,70,0.7376846130105162,Sector
+Keith,Business_Services,45,0.48593637363897313,Sector
+Keith,Business_Products,8,0.04743893976426239,Sector
+Keith,Construction,86,0.27530152822199705,Sector
+Keith,Services,45,0.8070855079974372,Sector
+Keith,Mining,20,0.19140757937318498,Sector
+Keith,Health_Care,37,0.03656016632610248,Sector
+Keith,EnergyExpL_Prod,80,0.2385468937488343,Sector
+Keith,Utilities,11,0.4888656751526629,Sector

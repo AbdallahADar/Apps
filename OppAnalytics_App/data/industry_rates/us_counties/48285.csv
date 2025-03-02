@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lavaca,937,0.5242858571444481,Overall
+Lavaca,HiTech,34,0.6411360538782005,Sector
+Lavaca,Agriculture,97,0.5759034412086487,Sector
+Lavaca,Transportation,54,0.343427213487026,Sector
+Lavaca,Consumer_Products,99,0.3609417431324067,Sector
+Lavaca,Unassigned,75,0.8277880223529119,Sector
+Lavaca,Communication,75,0.9460041410685031,Sector
+Lavaca,Trade,15,0.49884056636827945,Sector
+Lavaca,Business_Services,95,0.956297588479972,Sector
+Lavaca,Business_Products,65,0.5109190155424683,Sector
+Lavaca,Construction,40,0.05409976647378689,Sector
+Lavaca,Services,76,0.20197142589575712,Sector
+Lavaca,Mining,46,0.1322629468698049,Sector
+Lavaca,Health_Care,8,0.23052401963890823,Sector
+Lavaca,EnergyExpL_Prod,71,0.7609572510862709,Sector
+Lavaca,Utilities,87,0.8232146616837779,Sector

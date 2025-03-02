@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,King,838,0.5075225116166584,Overall
+King,HiTech,97,0.9567822054665318,Sector
+King,Agriculture,68,0.7205333209123187,Sector
+King,Transportation,6,0.44117353348597776,Sector
+King,Consumer_Products,13,0.7309895898635433,Sector
+King,Unassigned,87,0.26140592391061523,Sector
+King,Communication,48,0.6911181686413594,Sector
+King,Trade,80,0.7101020970705922,Sector
+King,Business_Services,53,0.1528402645861766,Sector
+King,Business_Products,76,0.17610390598044823,Sector
+King,Construction,44,0.5036784641854862,Sector
+King,Services,31,0.2977847122414544,Sector
+King,Mining,14,0.27448592056172827,Sector
+King,Health_Care,62,0.8143003812203155,Sector
+King,EnergyExpL_Prod,88,0.44361460392702023,Sector
+King,Utilities,71,0.4379245821963066,Sector

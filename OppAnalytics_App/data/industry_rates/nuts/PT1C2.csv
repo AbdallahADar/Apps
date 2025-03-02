@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Baixo Alentejo,677,0.4941746141345828,Overall
+Baixo Alentejo,HiTech,51,0.515621340949767,Sector
+Baixo Alentejo,Agriculture,20,0.053374409441744985,Sector
+Baixo Alentejo,Transportation,17,0.8894578233472892,Sector
+Baixo Alentejo,Consumer_Products,44,0.8976975339683837,Sector
+Baixo Alentejo,Unassigned,58,0.6360233812621944,Sector
+Baixo Alentejo,Communication,64,0.9091979529100878,Sector
+Baixo Alentejo,Trade,94,0.3761431530866062,Sector
+Baixo Alentejo,Business_Services,58,0.15575162658089914,Sector
+Baixo Alentejo,Business_Products,65,0.27760687084952107,Sector
+Baixo Alentejo,Construction,37,0.6701359371062169,Sector
+Baixo Alentejo,Services,31,0.11271190056014335,Sector
+Baixo Alentejo,Mining,65,0.032203882128252315,Sector
+Baixo Alentejo,Health_Care,18,0.4331107120575153,Sector
+Baixo Alentejo,EnergyExpL_Prod,50,0.7627576465406024,Sector
+Baixo Alentejo,Utilities,5,0.690825041229519,Sector

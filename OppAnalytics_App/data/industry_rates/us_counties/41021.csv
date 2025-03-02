@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gilliam,713,0.43426884015173367,Overall
+Gilliam,HiTech,8,0.037802080884766776,Sector
+Gilliam,Agriculture,71,0.21986847455589809,Sector
+Gilliam,Transportation,83,0.2531486459088944,Sector
+Gilliam,Consumer_Products,72,0.3393814827889826,Sector
+Gilliam,Unassigned,55,0.6442313754390832,Sector
+Gilliam,Communication,10,0.4370734256955623,Sector
+Gilliam,Trade,59,0.1469023679397511,Sector
+Gilliam,Business_Services,93,0.5244953431895166,Sector
+Gilliam,Business_Products,35,0.5470125287913514,Sector
+Gilliam,Construction,42,0.9078319484132258,Sector
+Gilliam,Services,92,0.7571702037395777,Sector
+Gilliam,Mining,13,0.7952656350336809,Sector
+Gilliam,Health_Care,15,0.5296990844778512,Sector
+Gilliam,EnergyExpL_Prod,15,0.3057822858225715,Sector
+Gilliam,Utilities,50,0.06836771959529231,Sector

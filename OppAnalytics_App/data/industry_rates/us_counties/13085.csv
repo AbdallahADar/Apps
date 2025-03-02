@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dawson,750,0.4974863930359999,Overall
+Dawson,HiTech,65,0.28294870613001144,Sector
+Dawson,Agriculture,98,0.5950035715433111,Sector
+Dawson,Transportation,3,0.046438827783370495,Sector
+Dawson,Consumer_Products,76,0.5092628940658156,Sector
+Dawson,Unassigned,14,0.7483376180188054,Sector
+Dawson,Communication,83,0.5487646677758439,Sector
+Dawson,Trade,33,0.5075017105595111,Sector
+Dawson,Business_Services,99,0.8704550862626542,Sector
+Dawson,Business_Products,42,0.8321465939618283,Sector
+Dawson,Construction,25,0.4242462206594185,Sector
+Dawson,Services,28,0.34864150458029863,Sector
+Dawson,Mining,52,0.19311660693506127,Sector
+Dawson,Health_Care,36,0.09969195675487741,Sector
+Dawson,EnergyExpL_Prod,19,0.694479080849877,Sector
+Dawson,Utilities,77,0.7612608496593135,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wyoming,660,0.5339944869677962,Overall
+Wyoming,HiTech,58,0.7318915347018241,Sector
+Wyoming,Agriculture,27,0.005111390250491454,Sector
+Wyoming,Transportation,28,0.8943790958612942,Sector
+Wyoming,Consumer_Products,70,0.8354742303258946,Sector
+Wyoming,Unassigned,24,0.40881204416874883,Sector
+Wyoming,Communication,46,0.8685365508738628,Sector
+Wyoming,Trade,62,0.9649273479076141,Sector
+Wyoming,Business_Services,6,0.8801153520520488,Sector
+Wyoming,Business_Products,80,0.01872587095759559,Sector
+Wyoming,Construction,27,0.01545399432943495,Sector
+Wyoming,Services,67,0.23789736443123222,Sector
+Wyoming,Mining,64,0.5237015365341519,Sector
+Wyoming,Health_Care,9,0.22395481714882148,Sector
+Wyoming,EnergyExpL_Prod,76,0.7259575507823248,Sector
+Wyoming,Utilities,16,0.6749786241916027,Sector

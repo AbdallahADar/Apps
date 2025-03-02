@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Teramo,586,0.4075853018335033,Overall
+Teramo,HiTech,5,0.9183111749291429,Sector
+Teramo,Agriculture,64,0.479782032544965,Sector
+Teramo,Transportation,32,0.8656772438994531,Sector
+Teramo,Consumer_Products,98,0.14593714953062253,Sector
+Teramo,Unassigned,93,0.19040362119043364,Sector
+Teramo,Communication,27,0.011797229943247944,Sector
+Teramo,Trade,15,0.40481828639189177,Sector
+Teramo,Business_Services,4,0.7249477697858588,Sector
+Teramo,Business_Products,38,0.936125667739063,Sector
+Teramo,Construction,11,0.18563794757751662,Sector
+Teramo,Services,8,0.01650079113003422,Sector
+Teramo,Mining,90,0.1756287914870548,Sector
+Teramo,Health_Care,6,0.28469067600381026,Sector
+Teramo,EnergyExpL_Prod,89,0.6964004066784713,Sector
+Teramo,Utilities,6,0.07712073867098268,Sector

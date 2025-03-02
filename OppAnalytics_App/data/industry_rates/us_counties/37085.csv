@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Harnett,864,0.5257178765759906,Overall
+Harnett,HiTech,57,0.38905829483070886,Sector
+Harnett,Agriculture,77,0.7980792065040524,Sector
+Harnett,Transportation,99,0.8136921741967102,Sector
+Harnett,Consumer_Products,19,0.21181978805421575,Sector
+Harnett,Unassigned,64,0.9055191582167166,Sector
+Harnett,Communication,79,0.9942637596204632,Sector
+Harnett,Trade,58,0.12076948855378311,Sector
+Harnett,Business_Services,99,0.20356852557715566,Sector
+Harnett,Business_Products,48,0.44459228739180423,Sector
+Harnett,Construction,34,0.9495968454879057,Sector
+Harnett,Services,36,0.4288289037877353,Sector
+Harnett,Mining,43,0.19282286192982756,Sector
+Harnett,Health_Care,32,0.912152565901007,Sector
+Harnett,EnergyExpL_Prod,37,0.3874333637852705,Sector
+Harnett,Utilities,82,0.133570924802503,Sector

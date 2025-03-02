@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lawrence,747,0.46931850239770406,Overall
+Lawrence,HiTech,56,0.4692967961911063,Sector
+Lawrence,Agriculture,78,0.44981007282828545,Sector
+Lawrence,Transportation,16,0.39443562060187576,Sector
+Lawrence,Consumer_Products,33,0.3420985928718506,Sector
+Lawrence,Unassigned,37,0.6371387252156016,Sector
+Lawrence,Communication,52,0.6782465453860321,Sector
+Lawrence,Trade,97,0.24840330413419576,Sector
+Lawrence,Business_Services,50,0.40923755449062194,Sector
+Lawrence,Business_Products,8,0.3597874626172234,Sector
+Lawrence,Construction,97,0.6249092937530499,Sector
+Lawrence,Services,63,0.887585540202086,Sector
+Lawrence,Mining,32,0.6051549284416614,Sector
+Lawrence,Health_Care,39,0.176151385409279,Sector
+Lawrence,EnergyExpL_Prod,45,0.13555907561153224,Sector
+Lawrence,Utilities,44,0.6219626382111603,Sector

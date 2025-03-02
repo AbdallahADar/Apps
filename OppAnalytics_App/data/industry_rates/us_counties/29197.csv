@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Schuyler,577,0.5903641496482538,Overall
+Schuyler,HiTech,35,0.8788668814369064,Sector
+Schuyler,Agriculture,58,0.6350455517438568,Sector
+Schuyler,Transportation,45,0.3514962003561567,Sector
+Schuyler,Consumer_Products,72,0.9043688186670997,Sector
+Schuyler,Unassigned,11,0.4901887030062476,Sector
+Schuyler,Communication,76,0.2946195775288005,Sector
+Schuyler,Trade,1,0.6775941183058207,Sector
+Schuyler,Business_Services,5,0.7604778901002595,Sector
+Schuyler,Business_Products,48,0.3556523981385704,Sector
+Schuyler,Construction,6,0.4369431461724781,Sector
+Schuyler,Services,41,0.6651427217645112,Sector
+Schuyler,Mining,81,0.42312286465248394,Sector
+Schuyler,Health_Care,61,0.5797743975978901,Sector
+Schuyler,EnergyExpL_Prod,36,0.7985166897934067,Sector
+Schuyler,Utilities,1,0.6036522854593184,Sector

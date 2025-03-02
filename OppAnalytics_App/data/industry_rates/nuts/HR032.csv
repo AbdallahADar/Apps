@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ličko-senjska županija,691,0.5378111759967308,Overall
+Ličko-senjska županija,HiTech,71,0.6707160416259789,Sector
+Ličko-senjska županija,Agriculture,58,0.8450286072760883,Sector
+Ličko-senjska županija,Transportation,42,0.8619982353154518,Sector
+Ličko-senjska županija,Consumer_Products,81,0.5320820252644388,Sector
+Ličko-senjska županija,Unassigned,8,0.8294614218916511,Sector
+Ličko-senjska županija,Communication,29,0.0811725459172069,Sector
+Ličko-senjska županija,Trade,10,0.6016713844538597,Sector
+Ličko-senjska županija,Business_Services,10,0.2919337298305207,Sector
+Ličko-senjska županija,Business_Products,20,0.43108447233059366,Sector
+Ličko-senjska županija,Construction,47,0.3727451636142799,Sector
+Ličko-senjska županija,Services,29,0.04993390591389346,Sector
+Ličko-senjska županija,Mining,77,0.46223052709003143,Sector
+Ličko-senjska županija,Health_Care,99,0.9744967069848771,Sector
+Ličko-senjska županija,EnergyExpL_Prod,87,0.8929678968774116,Sector
+Ličko-senjska županija,Utilities,23,0.16964497556467772,Sector

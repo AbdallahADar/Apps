@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Schoharie,781,0.5004961009880967,Overall
+Schoharie,HiTech,21,0.37952962709947724,Sector
+Schoharie,Agriculture,19,0.31051908788357163,Sector
+Schoharie,Transportation,18,0.4847716982337984,Sector
+Schoharie,Consumer_Products,45,0.9581630006021147,Sector
+Schoharie,Unassigned,95,0.21525161207788202,Sector
+Schoharie,Communication,91,0.3578853505398758,Sector
+Schoharie,Trade,29,0.8222958388392233,Sector
+Schoharie,Business_Services,74,0.501946916063835,Sector
+Schoharie,Business_Products,79,0.4306458089323283,Sector
+Schoharie,Construction,85,0.843013578111856,Sector
+Schoharie,Services,30,0.2751745644857406,Sector
+Schoharie,Mining,53,0.5348398839649279,Sector
+Schoharie,Health_Care,68,0.41317680088320485,Sector
+Schoharie,EnergyExpL_Prod,15,0.8912687908796968,Sector
+Schoharie,Utilities,59,0.08895895622391847,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mid-West ,861,0.5740707658786771,Overall
+Mid-West ,HiTech,1,0.8856378433271486,Sector
+Mid-West ,Agriculture,80,0.4858700229426707,Sector
+Mid-West ,Transportation,63,0.7848107586435972,Sector
+Mid-West ,Consumer_Products,38,0.9989757576244302,Sector
+Mid-West ,Unassigned,50,0.892355750174716,Sector
+Mid-West ,Communication,33,0.48118586944878994,Sector
+Mid-West ,Trade,74,0.1940560389800945,Sector
+Mid-West ,Business_Services,95,0.9564822818049239,Sector
+Mid-West ,Business_Products,41,0.479300290454696,Sector
+Mid-West ,Construction,73,0.3467019677355927,Sector
+Mid-West ,Services,86,0.17150372350603904,Sector
+Mid-West ,Mining,31,0.9027871948382563,Sector
+Mid-West ,Health_Care,99,0.25756506733597173,Sector
+Mid-West ,EnergyExpL_Prod,21,0.666461361198047,Sector
+Mid-West ,Utilities,76,0.10736756016518123,Sector

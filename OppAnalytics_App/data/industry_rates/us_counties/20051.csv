@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ellis,802,0.45658557159596647,Overall
+Ellis,HiTech,81,0.25326460319058486,Sector
+Ellis,Agriculture,81,0.524018058706943,Sector
+Ellis,Transportation,46,0.29856846720673924,Sector
+Ellis,Consumer_Products,62,0.17853795373512416,Sector
+Ellis,Unassigned,43,0.31274493109704704,Sector
+Ellis,Communication,54,0.8715722166616591,Sector
+Ellis,Trade,93,0.639526915063467,Sector
+Ellis,Business_Services,85,0.9235568953474659,Sector
+Ellis,Business_Products,11,0.8559978085197706,Sector
+Ellis,Construction,75,0.6144786597983345,Sector
+Ellis,Services,48,0.030254292185785348,Sector
+Ellis,Mining,20,0.09527535959563149,Sector
+Ellis,Health_Care,34,0.7757641414594675,Sector
+Ellis,EnergyExpL_Prod,47,0.08582130743558714,Sector
+Ellis,Utilities,22,0.38940196393589,Sector

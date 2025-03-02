@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stanly,846,0.42019872314987594,Overall
+Stanly,HiTech,26,0.5891589909135186,Sector
+Stanly,Agriculture,17,0.23412817341077952,Sector
+Stanly,Transportation,98,0.7858203073734491,Sector
+Stanly,Consumer_Products,67,0.0640851379334747,Sector
+Stanly,Unassigned,69,0.49419962061184575,Sector
+Stanly,Communication,91,0.9500007727260478,Sector
+Stanly,Trade,53,0.23051393323715086,Sector
+Stanly,Business_Services,39,0.38007881285225775,Sector
+Stanly,Business_Products,35,0.679342739249734,Sector
+Stanly,Construction,70,0.5046520478467286,Sector
+Stanly,Services,91,0.11896516474403085,Sector
+Stanly,Mining,3,0.4080832456785308,Sector
+Stanly,Health_Care,94,0.54093145976033,Sector
+Stanly,EnergyExpL_Prod,37,0.03170099287888928,Sector
+Stanly,Utilities,56,0.2913194480313729,Sector

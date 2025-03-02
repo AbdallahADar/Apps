@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Crosby,747,0.5303113662652624,Overall
+Crosby,HiTech,46,0.9561195468992525,Sector
+Crosby,Agriculture,19,0.14198849291875126,Sector
+Crosby,Transportation,72,0.14259876593797016,Sector
+Crosby,Consumer_Products,17,0.14050765543559685,Sector
+Crosby,Unassigned,32,0.6469249408920379,Sector
+Crosby,Communication,41,0.16048905009271452,Sector
+Crosby,Trade,43,0.7025974477964916,Sector
+Crosby,Business_Services,56,0.47522343502915265,Sector
+Crosby,Business_Products,82,0.06697553857830962,Sector
+Crosby,Construction,66,0.8655508958532557,Sector
+Crosby,Services,19,0.46982010198721236,Sector
+Crosby,Mining,68,0.766530347884207,Sector
+Crosby,Health_Care,82,0.7645122894230564,Sector
+Crosby,EnergyExpL_Prod,75,0.856901737145067,Sector
+Crosby,Utilities,29,0.7979302481058601,Sector

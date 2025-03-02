@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bartın,841,0.46985122053952977,Overall
+Bartın,HiTech,5,0.811293819211458,Sector
+Bartın,Agriculture,91,0.07165596107644834,Sector
+Bartın,Transportation,0,0.8809979705764677,Sector
+Bartın,Consumer_Products,49,0.29341021562430525,Sector
+Bartın,Unassigned,29,0.3283565190246387,Sector
+Bartın,Communication,87,0.6622921874823616,Sector
+Bartın,Trade,40,0.6644809056970604,Sector
+Bartın,Business_Services,33,0.22234717472064525,Sector
+Bartın,Business_Products,59,0.022271679412605105,Sector
+Bartın,Construction,98,0.6017556205486866,Sector
+Bartın,Services,64,0.43789553364224554,Sector
+Bartın,Mining,85,0.9243806067890448,Sector
+Bartın,Health_Care,32,0.0628724983629283,Sector
+Bartın,EnergyExpL_Prod,84,0.16422163265531398,Sector
+Bartın,Utilities,85,0.8995359832687361,Sector

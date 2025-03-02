@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Neshoba,724,0.4383855706927254,Overall
+Neshoba,HiTech,98,0.6087554270730903,Sector
+Neshoba,Agriculture,45,0.1477606246236931,Sector
+Neshoba,Transportation,59,0.29322540093605964,Sector
+Neshoba,Consumer_Products,37,0.47773793357803473,Sector
+Neshoba,Unassigned,92,0.7504342888863063,Sector
+Neshoba,Communication,68,0.36854734704950587,Sector
+Neshoba,Trade,32,0.07738735940386654,Sector
+Neshoba,Business_Services,1,0.49978214226297624,Sector
+Neshoba,Business_Products,5,0.3692230616213362,Sector
+Neshoba,Construction,48,0.21436216089376858,Sector
+Neshoba,Services,55,0.42979472237227756,Sector
+Neshoba,Mining,47,0.5315452741478447,Sector
+Neshoba,Health_Care,23,0.633922430350387,Sector
+Neshoba,EnergyExpL_Prod,30,0.6281972137965591,Sector
+Neshoba,Utilities,84,0.5451081733951753,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Summit,625,0.4777755696556805,Overall
+Summit,HiTech,17,0.9356804735944548,Sector
+Summit,Agriculture,23,0.701596139686283,Sector
+Summit,Transportation,23,0.3008034653974305,Sector
+Summit,Consumer_Products,32,0.5057968169660461,Sector
+Summit,Unassigned,57,0.37539777046778344,Sector
+Summit,Communication,36,0.5975144370076781,Sector
+Summit,Trade,10,0.5761027007971609,Sector
+Summit,Business_Services,92,0.18720691606738482,Sector
+Summit,Business_Products,87,0.2806798845363845,Sector
+Summit,Construction,5,0.15219845291341594,Sector
+Summit,Services,78,0.3116261986088079,Sector
+Summit,Mining,62,0.15995068422875436,Sector
+Summit,Health_Care,4,0.983232357045898,Sector
+Summit,EnergyExpL_Prod,67,0.5795724210821582,Sector
+Summit,Utilities,32,0.5192748264355671,Sector

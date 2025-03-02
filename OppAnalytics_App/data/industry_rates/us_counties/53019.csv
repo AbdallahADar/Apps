@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ferry,814,0.5711563791877927,Overall
+Ferry,HiTech,0,0.7379847021326703,Sector
+Ferry,Agriculture,22,0.9134051400978709,Sector
+Ferry,Transportation,50,0.7843057766799395,Sector
+Ferry,Consumer_Products,71,0.7903024130415927,Sector
+Ferry,Unassigned,8,0.22099000770095933,Sector
+Ferry,Communication,36,0.305268316537195,Sector
+Ferry,Trade,76,0.6503024554008281,Sector
+Ferry,Business_Services,48,0.3010897847537247,Sector
+Ferry,Business_Products,64,0.3602520613144521,Sector
+Ferry,Construction,76,0.7261522803779651,Sector
+Ferry,Services,36,0.9391197816639686,Sector
+Ferry,Mining,72,0.9612191114047892,Sector
+Ferry,Health_Care,91,0.013981061807777473,Sector
+Ferry,EnergyExpL_Prod,77,0.6111820715585041,Sector
+Ferry,Utilities,87,0.2517907233446529,Sector

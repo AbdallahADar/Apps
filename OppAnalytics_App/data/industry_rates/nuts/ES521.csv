@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alicante/Alacant,515,0.391748986880812,Overall
+Alicante/Alacant,HiTech,22,0.5562365195606422,Sector
+Alicante/Alacant,Agriculture,12,0.06049160454234692,Sector
+Alicante/Alacant,Transportation,51,0.4540234190982285,Sector
+Alicante/Alacant,Consumer_Products,34,0.7159258054682298,Sector
+Alicante/Alacant,Unassigned,1,0.8393614750753575,Sector
+Alicante/Alacant,Communication,32,0.05422110830692384,Sector
+Alicante/Alacant,Trade,64,0.14991613010579286,Sector
+Alicante/Alacant,Business_Services,12,0.28329074896677975,Sector
+Alicante/Alacant,Business_Products,0,0.5263462079932899,Sector
+Alicante/Alacant,Construction,17,0.2796200625615072,Sector
+Alicante/Alacant,Services,88,0.5026142980169731,Sector
+Alicante/Alacant,Mining,33,0.20784279026397645,Sector
+Alicante/Alacant,Health_Care,75,0.12772953397453723,Sector
+Alicante/Alacant,EnergyExpL_Prod,72,0.9668283909290928,Sector
+Alicante/Alacant,Utilities,2,0.15178670834850216,Sector

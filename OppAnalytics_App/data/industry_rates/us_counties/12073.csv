@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Leon,746,0.4700570609135354,Overall
+Leon,HiTech,47,0.5682919241268662,Sector
+Leon,Agriculture,49,0.29143740428080656,Sector
+Leon,Transportation,65,0.48326325862298225,Sector
+Leon,Consumer_Products,8,0.31071470175150806,Sector
+Leon,Unassigned,70,0.7097986596639996,Sector
+Leon,Communication,63,0.26140347598438674,Sector
+Leon,Trade,46,0.9046497856699117,Sector
+Leon,Business_Services,1,0.209419892504478,Sector
+Leon,Business_Products,93,0.5998703099058198,Sector
+Leon,Construction,81,0.07783063687070635,Sector
+Leon,Services,26,0.6974837290938853,Sector
+Leon,Mining,75,0.6900981023093197,Sector
+Leon,Health_Care,19,0.4205755841981893,Sector
+Leon,EnergyExpL_Prod,35,0.7973491984921364,Sector
+Leon,Utilities,68,0.02866925022803435,Sector

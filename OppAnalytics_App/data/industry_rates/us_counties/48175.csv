@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Goliad,865,0.5276153371930514,Overall
+Goliad,HiTech,82,0.9975504873658403,Sector
+Goliad,Agriculture,28,0.31280158911617395,Sector
+Goliad,Transportation,93,0.5553489562108859,Sector
+Goliad,Consumer_Products,84,0.831681142435057,Sector
+Goliad,Unassigned,82,0.0231615161871358,Sector
+Goliad,Communication,42,0.947581502543486,Sector
+Goliad,Trade,55,0.10552689908786206,Sector
+Goliad,Business_Services,65,0.29637251334823034,Sector
+Goliad,Business_Products,62,0.18205718528153014,Sector
+Goliad,Construction,13,0.3416979202806154,Sector
+Goliad,Services,84,0.8170038033920518,Sector
+Goliad,Mining,50,0.8467918616052642,Sector
+Goliad,Health_Care,65,0.749904993351914,Sector
+Goliad,EnergyExpL_Prod,55,0.3827466149214308,Sector
+Goliad,Utilities,5,0.5240030727682945,Sector

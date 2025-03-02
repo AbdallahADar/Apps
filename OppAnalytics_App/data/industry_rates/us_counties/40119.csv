@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Payne,818,0.5243614102686658,Overall
+Payne,HiTech,95,0.734159664731145,Sector
+Payne,Agriculture,20,0.6258093307894351,Sector
+Payne,Transportation,84,0.07628708474717527,Sector
+Payne,Consumer_Products,9,0.6367864923127283,Sector
+Payne,Unassigned,97,0.6014514237925894,Sector
+Payne,Communication,6,0.43681244723146717,Sector
+Payne,Trade,58,0.3068042817121681,Sector
+Payne,Business_Services,90,0.8503997356730277,Sector
+Payne,Business_Products,3,0.4779745086328807,Sector
+Payne,Construction,93,0.31271447852285894,Sector
+Payne,Services,60,0.8511117163640123,Sector
+Payne,Mining,38,0.04149672286040551,Sector
+Payne,Health_Care,76,0.6913437061929836,Sector
+Payne,EnergyExpL_Prod,0,0.7569591197508002,Sector
+Payne,Utilities,89,0.4653104407163088,Sector

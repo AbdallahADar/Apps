@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ełcki,698,0.5261467096704158,Overall
+Ełcki,HiTech,85,0.7176065224516232,Sector
+Ełcki,Agriculture,60,0.8353684739930414,Sector
+Ełcki,Transportation,82,0.8918614541495875,Sector
+Ełcki,Consumer_Products,95,0.39446685987849717,Sector
+Ełcki,Unassigned,4,0.7882861355455376,Sector
+Ełcki,Communication,57,0.5193518122970182,Sector
+Ełcki,Trade,6,0.9657469209772204,Sector
+Ełcki,Business_Services,61,0.19294670968543204,Sector
+Ełcki,Business_Products,34,0.777062307364873,Sector
+Ełcki,Construction,2,0.17592940333372042,Sector
+Ełcki,Services,24,0.18303508277456948,Sector
+Ełcki,Mining,15,0.1448143087825826,Sector
+Ełcki,Health_Care,18,0.054585141722409025,Sector
+Ełcki,EnergyExpL_Prod,70,0.505431778386176,Sector
+Ełcki,Utilities,85,0.7457077337139486,Sector

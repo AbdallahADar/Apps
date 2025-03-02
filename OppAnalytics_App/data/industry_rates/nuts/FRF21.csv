@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ardennes,764,0.5089616033352324,Overall
+Ardennes,HiTech,93,0.1403440545591942,Sector
+Ardennes,Agriculture,67,0.13301940257944034,Sector
+Ardennes,Transportation,86,0.932412761139619,Sector
+Ardennes,Consumer_Products,64,0.44308468528444767,Sector
+Ardennes,Unassigned,12,0.3178611720091151,Sector
+Ardennes,Communication,51,0.558717049530261,Sector
+Ardennes,Trade,78,0.4488507425079218,Sector
+Ardennes,Business_Services,1,0.6890914531958311,Sector
+Ardennes,Business_Products,96,0.6637181399851253,Sector
+Ardennes,Construction,30,0.15851208630242375,Sector
+Ardennes,Services,10,0.4025631005457504,Sector
+Ardennes,Mining,35,0.9911488443956539,Sector
+Ardennes,Health_Care,19,0.693206035885238,Sector
+Ardennes,EnergyExpL_Prod,61,0.6609840155990071,Sector
+Ardennes,Utilities,61,0.40091050650945814,Sector

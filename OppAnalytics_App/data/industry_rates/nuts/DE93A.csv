@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Uelzen,818,0.44950423724328564,Overall
+Uelzen,HiTech,79,0.10363440986494243,Sector
+Uelzen,Agriculture,67,0.677884573660255,Sector
+Uelzen,Transportation,71,0.059928682339859485,Sector
+Uelzen,Consumer_Products,69,0.7370121773431847,Sector
+Uelzen,Unassigned,31,0.5874930405373746,Sector
+Uelzen,Communication,37,0.009074084755419154,Sector
+Uelzen,Trade,65,0.8613242216980043,Sector
+Uelzen,Business_Services,43,0.43241112971773277,Sector
+Uelzen,Business_Products,21,0.9063219569221957,Sector
+Uelzen,Construction,70,0.43414793610713764,Sector
+Uelzen,Services,82,0.4643484859837461,Sector
+Uelzen,Mining,2,0.16426927222052934,Sector
+Uelzen,Health_Care,9,0.15999559312698963,Sector
+Uelzen,EnergyExpL_Prod,93,0.3496406861633041,Sector
+Uelzen,Utilities,79,0.7950773082086101,Sector

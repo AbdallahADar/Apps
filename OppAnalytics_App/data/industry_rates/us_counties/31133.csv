@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pawnee,854,0.5377941464852881,Overall
+Pawnee,HiTech,65,0.40295287800676327,Sector
+Pawnee,Agriculture,2,0.7926057658846486,Sector
+Pawnee,Transportation,80,0.5473385568494125,Sector
+Pawnee,Consumer_Products,62,0.45433164203037313,Sector
+Pawnee,Unassigned,93,0.32752066131643687,Sector
+Pawnee,Communication,85,0.0066751933668621755,Sector
+Pawnee,Trade,30,0.7412905389892127,Sector
+Pawnee,Business_Services,66,0.958777345381761,Sector
+Pawnee,Business_Products,95,0.5995720603273488,Sector
+Pawnee,Construction,33,0.5365529131977503,Sector
+Pawnee,Services,99,0.6376103627310942,Sector
+Pawnee,Mining,19,0.843114167346129,Sector
+Pawnee,Health_Care,61,0.4194822673391241,Sector
+Pawnee,EnergyExpL_Prod,53,0.788945294525338,Sector
+Pawnee,Utilities,11,0.010142549987068095,Sector

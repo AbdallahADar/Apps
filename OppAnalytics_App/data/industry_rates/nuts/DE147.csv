@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bodenseekreis,686,0.5533579185687392,Overall
+Bodenseekreis,HiTech,96,0.3879393760373633,Sector
+Bodenseekreis,Agriculture,53,0.7797761277312868,Sector
+Bodenseekreis,Transportation,7,0.24167617573169287,Sector
+Bodenseekreis,Consumer_Products,48,0.3780935766607526,Sector
+Bodenseekreis,Unassigned,94,0.12509333273624257,Sector
+Bodenseekreis,Communication,27,0.5952438089528033,Sector
+Bodenseekreis,Trade,10,0.4955526612176514,Sector
+Bodenseekreis,Business_Services,12,0.5833874204006333,Sector
+Bodenseekreis,Business_Products,75,0.7766494675612993,Sector
+Bodenseekreis,Construction,40,0.5414560060308568,Sector
+Bodenseekreis,Services,95,0.9716672249475446,Sector
+Bodenseekreis,Mining,44,0.4946836011835697,Sector
+Bodenseekreis,Health_Care,9,0.5261367585928878,Sector
+Bodenseekreis,EnergyExpL_Prod,50,0.6591059500635134,Sector
+Bodenseekreis,Utilities,26,0.743907290682989,Sector

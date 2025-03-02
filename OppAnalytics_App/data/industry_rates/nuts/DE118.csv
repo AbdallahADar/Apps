@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Heilbronn, Landkreis",658,0.47414474625437725,Overall
+"Heilbronn, Landkreis",HiTech,70,0.756903550383365,Sector
+"Heilbronn, Landkreis",Agriculture,4,0.16890534974288607,Sector
+"Heilbronn, Landkreis",Transportation,96,0.5706082458916395,Sector
+"Heilbronn, Landkreis",Consumer_Products,29,0.84616983146485,Sector
+"Heilbronn, Landkreis",Unassigned,53,0.8819986785575767,Sector
+"Heilbronn, Landkreis",Communication,19,0.24237652870655824,Sector
+"Heilbronn, Landkreis",Trade,14,0.07148711430529375,Sector
+"Heilbronn, Landkreis",Business_Services,35,0.07833194977176172,Sector
+"Heilbronn, Landkreis",Business_Products,97,0.8941060609468338,Sector
+"Heilbronn, Landkreis",Construction,66,0.028617369915431956,Sector
+"Heilbronn, Landkreis",Services,45,0.9216867625394566,Sector
+"Heilbronn, Landkreis",Mining,40,0.6538457780555129,Sector
+"Heilbronn, Landkreis",Health_Care,35,0.7170688532427403,Sector
+"Heilbronn, Landkreis",EnergyExpL_Prod,2,0.2551569191076044,Sector
+"Heilbronn, Landkreis",Utilities,53,0.024908201184147605,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Clarke,598,0.5536273921611754,Overall
+Clarke,HiTech,13,0.22449725043243074,Sector
+Clarke,Agriculture,3,0.5725417380706199,Sector
+Clarke,Transportation,65,0.7073510946757372,Sector
+Clarke,Consumer_Products,12,0.7435531146544759,Sector
+Clarke,Unassigned,52,0.560052075841371,Sector
+Clarke,Communication,50,0.7854342164341344,Sector
+Clarke,Trade,67,0.0984343217857615,Sector
+Clarke,Business_Services,60,0.9572766376247023,Sector
+Clarke,Business_Products,6,0.4194963900355664,Sector
+Clarke,Construction,98,0.8821651533032246,Sector
+Clarke,Services,78,0.8250646203604044,Sector
+Clarke,Mining,66,0.42126982451262673,Sector
+Clarke,Health_Care,8,0.13290745406932913,Sector
+Clarke,EnergyExpL_Prod,3,0.03835629301019461,Sector
+Clarke,Utilities,17,0.9360106976070521,Sector

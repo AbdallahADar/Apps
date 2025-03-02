@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chenango,615,0.4592464635297076,Overall
+Chenango,HiTech,45,0.10201398754379287,Sector
+Chenango,Agriculture,25,0.38751877625044895,Sector
+Chenango,Transportation,41,0.34894878071381275,Sector
+Chenango,Consumer_Products,56,0.32597798945714274,Sector
+Chenango,Unassigned,2,0.39289561358684644,Sector
+Chenango,Communication,90,0.47646802128693666,Sector
+Chenango,Trade,97,0.22483233331011543,Sector
+Chenango,Business_Services,10,0.5990941252735924,Sector
+Chenango,Business_Products,83,0.851630684958126,Sector
+Chenango,Construction,19,0.35529334943582325,Sector
+Chenango,Services,17,0.5358053423062513,Sector
+Chenango,Mining,11,0.16515217712039454,Sector
+Chenango,Health_Care,7,0.9791082242020164,Sector
+Chenango,EnergyExpL_Prod,94,0.4474197889745992,Sector
+Chenango,Utilities,18,0.6965377585257153,Sector

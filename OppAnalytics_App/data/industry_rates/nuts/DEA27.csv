@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rhein-Erft-Kreis,818,0.47946780924104776,Overall
+Rhein-Erft-Kreis,HiTech,73,0.7330223134495014,Sector
+Rhein-Erft-Kreis,Agriculture,66,0.047041940148610184,Sector
+Rhein-Erft-Kreis,Transportation,15,0.8478913212398157,Sector
+Rhein-Erft-Kreis,Consumer_Products,54,0.7314109130992376,Sector
+Rhein-Erft-Kreis,Unassigned,78,0.48668646811851124,Sector
+Rhein-Erft-Kreis,Communication,76,0.3700651739395263,Sector
+Rhein-Erft-Kreis,Trade,77,0.10610547877574372,Sector
+Rhein-Erft-Kreis,Business_Services,79,0.5995251563214604,Sector
+Rhein-Erft-Kreis,Business_Products,45,0.18374106249589228,Sector
+Rhein-Erft-Kreis,Construction,36,0.356079897708827,Sector
+Rhein-Erft-Kreis,Services,30,0.6972105122956833,Sector
+Rhein-Erft-Kreis,Mining,8,0.14165796056460822,Sector
+Rhein-Erft-Kreis,Health_Care,59,0.8224653086262859,Sector
+Rhein-Erft-Kreis,EnergyExpL_Prod,94,0.6874606376820862,Sector
+Rhein-Erft-Kreis,Utilities,28,0.3816529941499265,Sector

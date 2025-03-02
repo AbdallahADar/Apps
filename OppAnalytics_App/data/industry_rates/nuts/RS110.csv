@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,City of Belgrade,705,0.44389879170755725,Overall
+City of Belgrade,HiTech,70,0.01563485052485536,Sector
+City of Belgrade,Agriculture,50,0.46571793022533325,Sector
+City of Belgrade,Transportation,41,0.10191758831704312,Sector
+City of Belgrade,Consumer_Products,47,0.44805056878389915,Sector
+City of Belgrade,Unassigned,20,0.813796537573299,Sector
+City of Belgrade,Communication,77,0.5472171031608241,Sector
+City of Belgrade,Trade,39,0.5301822246296525,Sector
+City of Belgrade,Business_Services,96,0.7602850051346202,Sector
+City of Belgrade,Business_Products,31,0.21103521202095954,Sector
+City of Belgrade,Construction,52,0.48195075163172807,Sector
+City of Belgrade,Services,42,0.5901127508269957,Sector
+City of Belgrade,Mining,17,0.4640669682854788,Sector
+City of Belgrade,Health_Care,85,0.3024184977643799,Sector
+City of Belgrade,EnergyExpL_Prod,9,0.5342146246931714,Sector
+City of Belgrade,Utilities,29,0.39188126204111884,Sector

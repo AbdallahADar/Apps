@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Petersburg,612,0.4274901627813136,Overall
+Petersburg,HiTech,19,0.48114451259017443,Sector
+Petersburg,Agriculture,56,0.3347522698212727,Sector
+Petersburg,Transportation,38,0.7385276375157284,Sector
+Petersburg,Consumer_Products,73,0.4219494985254172,Sector
+Petersburg,Unassigned,79,0.7923368770699132,Sector
+Petersburg,Communication,29,0.8025667546865746,Sector
+Petersburg,Trade,7,0.03404755088709621,Sector
+Petersburg,Business_Services,46,0.001477289366195178,Sector
+Petersburg,Business_Products,42,0.3842733258406211,Sector
+Petersburg,Construction,33,0.34241814413085025,Sector
+Petersburg,Services,33,0.23509477051583938,Sector
+Petersburg,Mining,19,0.05878153426101773,Sector
+Petersburg,Health_Care,54,0.9117713558150998,Sector
+Petersburg,EnergyExpL_Prod,38,0.3393214889914804,Sector
+Petersburg,Utilities,46,0.5338894317024234,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dorchester,671,0.3648555905004431,Overall
+Dorchester,HiTech,2,0.7850149721715808,Sector
+Dorchester,Agriculture,53,0.43616988189898453,Sector
+Dorchester,Transportation,40,0.1452409186153243,Sector
+Dorchester,Consumer_Products,44,0.11079032564354174,Sector
+Dorchester,Unassigned,41,0.18203263259034963,Sector
+Dorchester,Communication,38,0.03297920343673599,Sector
+Dorchester,Trade,7,0.033049292625112026,Sector
+Dorchester,Business_Services,54,0.6473803579468445,Sector
+Dorchester,Business_Products,83,0.1181116942054855,Sector
+Dorchester,Construction,38,0.32411560966700126,Sector
+Dorchester,Services,65,0.5048186420619233,Sector
+Dorchester,Mining,62,0.8507169824855118,Sector
+Dorchester,Health_Care,82,0.6253724875596002,Sector
+Dorchester,EnergyExpL_Prod,45,0.6508256925353653,Sector
+Dorchester,Utilities,17,0.0262151640632855,Sector

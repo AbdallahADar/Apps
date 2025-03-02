@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Grafschaft Bentheim,740,0.37874236984253346,Overall
+Grafschaft Bentheim,HiTech,44,0.1582179244562073,Sector
+Grafschaft Bentheim,Agriculture,3,0.115887979730248,Sector
+Grafschaft Bentheim,Transportation,35,0.586110605835444,Sector
+Grafschaft Bentheim,Consumer_Products,43,0.026689864379698225,Sector
+Grafschaft Bentheim,Unassigned,72,0.087829868391602,Sector
+Grafschaft Bentheim,Communication,4,0.852118472127602,Sector
+Grafschaft Bentheim,Trade,73,0.9359380144203786,Sector
+Grafschaft Bentheim,Business_Services,98,0.43691805195048505,Sector
+Grafschaft Bentheim,Business_Products,20,0.07247731611506525,Sector
+Grafschaft Bentheim,Construction,52,0.5468636443269679,Sector
+Grafschaft Bentheim,Services,21,0.8637432216060819,Sector
+Grafschaft Bentheim,Mining,88,0.3363490088456301,Sector
+Grafschaft Bentheim,Health_Care,97,0.12324188918120993,Sector
+Grafschaft Bentheim,EnergyExpL_Prod,40,0.44089991504293546,Sector
+Grafschaft Bentheim,Utilities,50,0.09784977122844662,Sector

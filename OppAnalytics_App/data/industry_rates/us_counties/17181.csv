@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Union,807,0.5032356323448791,Overall
+Union,HiTech,33,0.9951790804150886,Sector
+Union,Agriculture,85,0.3981759221236494,Sector
+Union,Transportation,89,0.9830414216125825,Sector
+Union,Consumer_Products,96,0.4540636341915386,Sector
+Union,Unassigned,85,0.9562112198816283,Sector
+Union,Communication,52,0.5795929148263156,Sector
+Union,Trade,35,0.13736871158736885,Sector
+Union,Business_Services,70,0.2977083967173231,Sector
+Union,Business_Products,16,0.10143666858597566,Sector
+Union,Construction,5,0.3286784901019688,Sector
+Union,Services,54,0.8612182279363787,Sector
+Union,Mining,23,0.1498012275528232,Sector
+Union,Health_Care,71,0.5135009159960496,Sector
+Union,EnergyExpL_Prod,19,0.7729882990903669,Sector
+Union,Utilities,74,0.019569354554130558,Sector

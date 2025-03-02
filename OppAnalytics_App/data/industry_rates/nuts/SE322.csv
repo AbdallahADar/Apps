@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jämtlands län,749,0.6010951713134555,Overall
+Jämtlands län,HiTech,47,0.27709237641536544,Sector
+Jämtlands län,Agriculture,28,0.9810279483056737,Sector
+Jämtlands län,Transportation,70,0.7594382904835196,Sector
+Jämtlands län,Consumer_Products,7,0.7464833085002767,Sector
+Jämtlands län,Unassigned,33,0.9781485323400324,Sector
+Jämtlands län,Communication,3,0.7872068588634855,Sector
+Jämtlands län,Trade,80,0.8295663132305156,Sector
+Jämtlands län,Business_Services,29,0.49820519340257785,Sector
+Jämtlands län,Business_Products,71,0.9637777807386438,Sector
+Jämtlands län,Construction,82,0.9390666813155202,Sector
+Jämtlands län,Services,59,0.09965385061769239,Sector
+Jämtlands län,Mining,21,0.4659870153465119,Sector
+Jämtlands län,Health_Care,73,0.008693918721186633,Sector
+Jämtlands län,EnergyExpL_Prod,71,0.5026706696656584,Sector
+Jämtlands län,Utilities,75,0.17940883175517242,Sector

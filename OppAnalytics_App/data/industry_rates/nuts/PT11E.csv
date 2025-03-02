@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Terras de Trás-os-Montes,888,0.488067707715449,Overall
+Terras de Trás-os-Montes,HiTech,20,0.8813601201244873,Sector
+Terras de Trás-os-Montes,Agriculture,74,0.6103197537288234,Sector
+Terras de Trás-os-Montes,Transportation,12,0.7331235226777512,Sector
+Terras de Trás-os-Montes,Consumer_Products,66,0.6099780592316202,Sector
+Terras de Trás-os-Montes,Unassigned,92,0.11857418867128977,Sector
+Terras de Trás-os-Montes,Communication,55,0.13507808682536082,Sector
+Terras de Trás-os-Montes,Trade,95,0.7131005250440293,Sector
+Terras de Trás-os-Montes,Business_Services,45,0.5307367739135945,Sector
+Terras de Trás-os-Montes,Business_Products,90,0.910801427477076,Sector
+Terras de Trás-os-Montes,Construction,1,0.10980394302750873,Sector
+Terras de Trás-os-Montes,Services,73,0.1054034912706131,Sector
+Terras de Trás-os-Montes,Mining,41,0.20255266550868045,Sector
+Terras de Trás-os-Montes,Health_Care,62,0.9327699583521164,Sector
+Terras de Trás-os-Montes,EnergyExpL_Prod,94,0.0050357795840075825,Sector
+Terras de Trás-os-Montes,Utilities,68,0.7223773202947759,Sector

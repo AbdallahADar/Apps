@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,District of Columbia,703,0.423051360434768,Overall
+District of Columbia,HiTech,0,0.02275472116956756,Sector
+District of Columbia,Agriculture,52,0.3825292996531252,Sector
+District of Columbia,Transportation,21,0.04346515735710843,Sector
+District of Columbia,Consumer_Products,87,0.4544790668598019,Sector
+District of Columbia,Unassigned,14,0.6107245113132383,Sector
+District of Columbia,Communication,31,0.40757812913953917,Sector
+District of Columbia,Trade,62,0.39326736127504314,Sector
+District of Columbia,Business_Services,62,0.9811467461367752,Sector
+District of Columbia,Business_Products,32,0.021539819311921504,Sector
+District of Columbia,Construction,37,0.8973017222908212,Sector
+District of Columbia,Services,73,0.33586079468342867,Sector
+District of Columbia,Mining,80,0.09414999056156836,Sector
+District of Columbia,Health_Care,60,0.5445031340824945,Sector
+District of Columbia,EnergyExpL_Prod,20,0.8602464250206334,Sector
+District of Columbia,Utilities,72,0.2962235276664529,Sector

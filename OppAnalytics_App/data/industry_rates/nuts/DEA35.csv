@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Coesfeld,840,0.37819774691496455,Overall
+Coesfeld,HiTech,0,0.24048256815538294,Sector
+Coesfeld,Agriculture,58,0.14751324571154578,Sector
+Coesfeld,Transportation,76,0.8695589203611186,Sector
+Coesfeld,Consumer_Products,42,0.26332255961637574,Sector
+Coesfeld,Unassigned,33,0.13759158065948907,Sector
+Coesfeld,Communication,65,0.4833678552963342,Sector
+Coesfeld,Trade,79,0.6548582038352121,Sector
+Coesfeld,Business_Services,84,0.06916252353976982,Sector
+Coesfeld,Business_Products,73,0.7305688943970383,Sector
+Coesfeld,Construction,42,0.1642301962193149,Sector
+Coesfeld,Services,72,0.0324195122373081,Sector
+Coesfeld,Mining,54,0.38090957077525023,Sector
+Coesfeld,Health_Care,16,0.7302788100979228,Sector
+Coesfeld,EnergyExpL_Prod,62,0.7078701905504597,Sector
+Coesfeld,Utilities,84,0.060831572271945356,Sector

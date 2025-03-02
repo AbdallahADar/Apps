@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Plumas,773,0.4441071192141633,Overall
+Plumas,HiTech,67,0.3912642785269027,Sector
+Plumas,Agriculture,36,0.14619314419547014,Sector
+Plumas,Transportation,22,0.1442800509542227,Sector
+Plumas,Consumer_Products,64,0.22075669892861227,Sector
+Plumas,Unassigned,26,0.7763810039348337,Sector
+Plumas,Communication,7,0.6514242546546561,Sector
+Plumas,Trade,74,0.7269129767399201,Sector
+Plumas,Business_Services,84,0.6367520585097438,Sector
+Plumas,Business_Products,96,0.04025796798500603,Sector
+Plumas,Construction,20,0.13921407274515774,Sector
+Plumas,Services,67,0.7624255180924044,Sector
+Plumas,Mining,0,0.4938676324175846,Sector
+Plumas,Health_Care,84,0.9090532251740121,Sector
+Plumas,EnergyExpL_Prod,70,0.3312146116590944,Sector
+Plumas,Utilities,56,0.291609293694829,Sector

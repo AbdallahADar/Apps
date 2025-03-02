@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Giurgiu,712,0.49695845201960687,Overall
+Giurgiu,HiTech,80,0.2658078486040981,Sector
+Giurgiu,Agriculture,51,0.1913475486717504,Sector
+Giurgiu,Transportation,15,0.16484169305810847,Sector
+Giurgiu,Consumer_Products,38,0.663441345907231,Sector
+Giurgiu,Unassigned,20,0.6225551728675047,Sector
+Giurgiu,Communication,97,0.8639580012956031,Sector
+Giurgiu,Trade,5,0.7152533741616177,Sector
+Giurgiu,Business_Services,31,0.4434200622202753,Sector
+Giurgiu,Business_Products,79,0.8107268725179897,Sector
+Giurgiu,Construction,49,0.4332302487035836,Sector
+Giurgiu,Services,88,0.6371738976279636,Sector
+Giurgiu,Mining,7,0.9655511361211236,Sector
+Giurgiu,Health_Care,40,0.2655837176981145,Sector
+Giurgiu,EnergyExpL_Prod,41,0.33874082072913947,Sector
+Giurgiu,Utilities,71,0.0727450401099985,Sector

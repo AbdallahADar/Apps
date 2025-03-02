@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Loudon,652,0.561516964021571,Overall
+Loudon,HiTech,49,0.15748416133087006,Sector
+Loudon,Agriculture,42,0.48400891294252757,Sector
+Loudon,Transportation,80,0.8633290835219677,Sector
+Loudon,Consumer_Products,11,0.8917884919510913,Sector
+Loudon,Unassigned,21,0.9063872368822042,Sector
+Loudon,Communication,86,0.133265933338931,Sector
+Loudon,Trade,10,0.38085042076064346,Sector
+Loudon,Business_Services,21,0.9942413609265455,Sector
+Loudon,Business_Products,57,0.21133857384663424,Sector
+Loudon,Construction,6,0.47332382611050183,Sector
+Loudon,Services,50,0.34093696863366285,Sector
+Loudon,Mining,93,0.5538258367903516,Sector
+Loudon,Health_Care,46,0.7335203829879858,Sector
+Loudon,EnergyExpL_Prod,71,0.481253821717073,Sector
+Loudon,Utilities,9,0.8171994485825753,Sector

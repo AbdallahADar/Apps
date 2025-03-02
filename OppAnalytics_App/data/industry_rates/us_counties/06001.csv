@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alameda,772,0.4850009944154409,Overall
+Alameda,HiTech,80,0.5663191777170896,Sector
+Alameda,Agriculture,20,0.3816208935819101,Sector
+Alameda,Transportation,0,0.17240283439892112,Sector
+Alameda,Consumer_Products,73,0.6081562902173483,Sector
+Alameda,Unassigned,24,0.6097415369032231,Sector
+Alameda,Communication,21,0.3794529424703216,Sector
+Alameda,Trade,95,0.7594345965436363,Sector
+Alameda,Business_Services,18,0.2686281318155044,Sector
+Alameda,Business_Products,87,0.6811833520906682,Sector
+Alameda,Construction,52,0.8349392688784362,Sector
+Alameda,Services,38,0.19040069785922076,Sector
+Alameda,Mining,61,0.09447965067799469,Sector
+Alameda,Health_Care,65,0.46619787156191805,Sector
+Alameda,EnergyExpL_Prod,73,0.7394441330284575,Sector
+Alameda,Utilities,65,0.5226135384869645,Sector

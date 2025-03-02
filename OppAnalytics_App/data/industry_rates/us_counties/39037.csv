@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Darke,748,0.5704289799694541,Overall
+Darke,HiTech,62,0.18160375732601708,Sector
+Darke,Agriculture,83,0.931659793850696,Sector
+Darke,Transportation,43,0.83068169933805,Sector
+Darke,Consumer_Products,23,0.01929145914800401,Sector
+Darke,Unassigned,3,0.9415945513611222,Sector
+Darke,Communication,69,0.0031366338453712173,Sector
+Darke,Trade,84,0.7869456034472889,Sector
+Darke,Business_Services,22,0.49345655499403684,Sector
+Darke,Business_Products,14,0.04237282930112718,Sector
+Darke,Construction,75,0.7810223705831462,Sector
+Darke,Services,53,0.8687119493659231,Sector
+Darke,Mining,0,0.9987649451369841,Sector
+Darke,Health_Care,75,0.23531589748170745,Sector
+Darke,EnergyExpL_Prod,57,0.4978557327625871,Sector
+Darke,Utilities,85,0.944020921599749,Sector

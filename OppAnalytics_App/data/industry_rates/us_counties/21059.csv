@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Daviess,681,0.48219913592301455,Overall
+Daviess,HiTech,71,0.25723273937211144,Sector
+Daviess,Agriculture,14,0.9658761884113348,Sector
+Daviess,Transportation,98,0.024219458834073282,Sector
+Daviess,Consumer_Products,49,0.847021912654225,Sector
+Daviess,Unassigned,32,0.8291053661198935,Sector
+Daviess,Communication,6,0.23861890409286557,Sector
+Daviess,Trade,4,0.03927794329422751,Sector
+Daviess,Business_Services,19,0.7048083151081774,Sector
+Daviess,Business_Products,82,0.5902998729612583,Sector
+Daviess,Construction,76,0.5159765801157898,Sector
+Daviess,Services,0,0.342835516563753,Sector
+Daviess,Mining,87,0.4570810100479561,Sector
+Daviess,Health_Care,69,0.0836917640195678,Sector
+Daviess,EnergyExpL_Prod,18,0.8834653082642452,Sector
+Daviess,Utilities,56,0.4534761589857401,Sector

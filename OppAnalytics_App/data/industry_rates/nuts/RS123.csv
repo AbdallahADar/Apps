@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Južnobačka oblast,928,0.5095472928465727,Overall
+Južnobačka oblast,HiTech,65,0.4304368957400202,Sector
+Južnobačka oblast,Agriculture,93,0.4688043011592634,Sector
+Južnobačka oblast,Transportation,95,0.40791623140830835,Sector
+Južnobačka oblast,Consumer_Products,24,0.4163453302895077,Sector
+Južnobačka oblast,Unassigned,93,0.9616177243803856,Sector
+Južnobačka oblast,Communication,91,0.9717176929696268,Sector
+Južnobačka oblast,Trade,53,0.8394836135320247,Sector
+Južnobačka oblast,Business_Services,75,0.036411162397193664,Sector
+Južnobačka oblast,Business_Products,73,0.10492067874893352,Sector
+Južnobačka oblast,Construction,58,0.8282629478975906,Sector
+Južnobačka oblast,Services,41,0.15657962275141235,Sector
+Južnobačka oblast,Mining,44,0.5966506808819125,Sector
+Južnobačka oblast,Health_Care,53,0.7864248830300418,Sector
+Južnobačka oblast,EnergyExpL_Prod,8,0.5556935754952163,Sector
+Južnobačka oblast,Utilities,62,0.08194405201715382,Sector

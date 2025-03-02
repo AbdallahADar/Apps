@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Toole,618,0.517818689367727,Overall
+Toole,HiTech,17,0.8347054008628122,Sector
+Toole,Agriculture,35,0.5669497571082711,Sector
+Toole,Transportation,99,0.7838226351635827,Sector
+Toole,Consumer_Products,75,0.937597447607184,Sector
+Toole,Unassigned,7,0.6099471687761158,Sector
+Toole,Communication,76,0.6498918151238714,Sector
+Toole,Trade,11,0.03063581115138081,Sector
+Toole,Business_Services,31,0.3849137977133045,Sector
+Toole,Business_Products,1,0.14682509413602662,Sector
+Toole,Construction,49,0.6432576078174234,Sector
+Toole,Services,13,0.6342780576439863,Sector
+Toole,Mining,28,0.05862106293492064,Sector
+Toole,Health_Care,89,0.4976107315571775,Sector
+Toole,EnergyExpL_Prod,9,0.053572305657997865,Sector
+Toole,Utilities,78,0.9346516472618502,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mahnomen,718,0.4032839423761138,Overall
+Mahnomen,HiTech,2,0.5233312238528409,Sector
+Mahnomen,Agriculture,7,0.7141702056900924,Sector
+Mahnomen,Transportation,41,0.6035395042870844,Sector
+Mahnomen,Consumer_Products,55,0.18467061985735644,Sector
+Mahnomen,Unassigned,22,0.5436977421257532,Sector
+Mahnomen,Communication,89,0.17523341815389049,Sector
+Mahnomen,Trade,98,0.09160736317228868,Sector
+Mahnomen,Business_Services,59,0.5905594048607332,Sector
+Mahnomen,Business_Products,84,0.5909272209687548,Sector
+Mahnomen,Construction,1,0.20513816601115165,Sector
+Mahnomen,Services,57,0.14409892470246688,Sector
+Mahnomen,Mining,24,0.5886656453957524,Sector
+Mahnomen,Health_Care,86,0.3803465032883586,Sector
+Mahnomen,EnergyExpL_Prod,14,0.288065779584348,Sector
+Mahnomen,Utilities,79,0.42520741369083526,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ashland,862,0.5334507866758434,Overall
+Ashland,HiTech,98,0.5543375027487194,Sector
+Ashland,Agriculture,80,0.4768285190332259,Sector
+Ashland,Transportation,89,0.8893060245820901,Sector
+Ashland,Consumer_Products,24,0.1438842139228873,Sector
+Ashland,Unassigned,35,0.5578693991248337,Sector
+Ashland,Communication,83,0.9217447223544825,Sector
+Ashland,Trade,56,0.7845318236674269,Sector
+Ashland,Business_Services,52,0.002274163021926068,Sector
+Ashland,Business_Products,81,0.6619718928123244,Sector
+Ashland,Construction,71,0.9598015499876393,Sector
+Ashland,Services,75,0.7181470561346387,Sector
+Ashland,Mining,35,0.18900791885857526,Sector
+Ashland,Health_Care,65,0.6269468688177219,Sector
+Ashland,EnergyExpL_Prod,12,0.33998435544821315,Sector
+Ashland,Utilities,6,0.17512578962294822,Sector

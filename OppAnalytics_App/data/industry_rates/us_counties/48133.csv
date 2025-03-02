@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Eastland,795,0.6177073707314479,Overall
+Eastland,HiTech,68,0.8911487838075893,Sector
+Eastland,Agriculture,34,0.5506756871953529,Sector
+Eastland,Transportation,34,0.16997003119299425,Sector
+Eastland,Consumer_Products,54,0.925842425180502,Sector
+Eastland,Unassigned,80,0.5440412723357471,Sector
+Eastland,Communication,6,0.06908059822797541,Sector
+Eastland,Trade,26,0.012479599376864714,Sector
+Eastland,Business_Services,85,0.8414476585968556,Sector
+Eastland,Business_Products,54,0.46522056260034617,Sector
+Eastland,Construction,8,0.9826548036849105,Sector
+Eastland,Services,63,0.8930008987648045,Sector
+Eastland,Mining,73,0.8361742599249932,Sector
+Eastland,Health_Care,81,0.9702403119228606,Sector
+Eastland,EnergyExpL_Prod,38,0.9307800963460853,Sector
+Eastland,Utilities,91,0.1828535718138351,Sector

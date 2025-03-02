@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Allier,595,0.4339991968188809,Overall
+Allier,HiTech,65,0.43462528099489717,Sector
+Allier,Agriculture,5,0.1562851585036421,Sector
+Allier,Transportation,15,0.20568033060469382,Sector
+Allier,Consumer_Products,46,0.20330566828344665,Sector
+Allier,Unassigned,45,0.042691345182995555,Sector
+Allier,Communication,27,0.7469524581111561,Sector
+Allier,Trade,42,0.535145620175976,Sector
+Allier,Business_Services,45,0.1475522973252491,Sector
+Allier,Business_Products,19,0.9234996995644457,Sector
+Allier,Construction,71,0.6795726103305716,Sector
+Allier,Services,65,0.23309128216737018,Sector
+Allier,Mining,60,0.2651319428736246,Sector
+Allier,Health_Care,42,0.8949915683743233,Sector
+Allier,EnergyExpL_Prod,35,0.4835612861843017,Sector
+Allier,Utilities,13,0.5579014036065194,Sector

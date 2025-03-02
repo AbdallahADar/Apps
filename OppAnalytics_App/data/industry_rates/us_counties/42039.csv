@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Crawford,868,0.4412795597929898,Overall
+Crawford,HiTech,57,0.6376864466279353,Sector
+Crawford,Agriculture,48,0.5106300083227635,Sector
+Crawford,Transportation,70,0.38258629262554533,Sector
+Crawford,Consumer_Products,62,0.9699300548158979,Sector
+Crawford,Unassigned,59,0.08984034083155734,Sector
+Crawford,Communication,25,0.8554741900517088,Sector
+Crawford,Trade,27,0.35030450155880866,Sector
+Crawford,Business_Services,91,0.4403282288149901,Sector
+Crawford,Business_Products,98,0.0763783271182561,Sector
+Crawford,Construction,36,0.5150488262851571,Sector
+Crawford,Services,77,0.8632183466790478,Sector
+Crawford,Mining,76,0.25576685522048237,Sector
+Crawford,Health_Care,54,0.08910553217965489,Sector
+Crawford,EnergyExpL_Prod,72,0.576965918376409,Sector
+Crawford,Utilities,16,0.0059295273866334375,Sector

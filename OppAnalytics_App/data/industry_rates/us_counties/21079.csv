@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Garrard,679,0.4356470896415597,Overall
+Garrard,HiTech,50,0.2730453640957782,Sector
+Garrard,Agriculture,20,0.07351523006198768,Sector
+Garrard,Transportation,42,0.35506363461415713,Sector
+Garrard,Consumer_Products,60,0.9923535961293048,Sector
+Garrard,Unassigned,11,0.6597121489088346,Sector
+Garrard,Communication,22,0.3482012820377449,Sector
+Garrard,Trade,44,0.23738455697819805,Sector
+Garrard,Business_Services,76,0.8218390760190939,Sector
+Garrard,Business_Products,1,0.9897232661895891,Sector
+Garrard,Construction,96,0.18603882632443625,Sector
+Garrard,Services,44,0.09120285426891428,Sector
+Garrard,Mining,18,0.4345911767085574,Sector
+Garrard,Health_Care,92,0.15776758162190585,Sector
+Garrard,EnergyExpL_Prod,39,0.48972868122069113,Sector
+Garrard,Utilities,64,0.4245390694442024,Sector

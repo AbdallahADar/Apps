@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sumter,839,0.47261240497392515,Overall
+Sumter,HiTech,61,0.6710307938826523,Sector
+Sumter,Agriculture,87,0.12665318036587048,Sector
+Sumter,Transportation,97,0.2219098372968502,Sector
+Sumter,Consumer_Products,70,0.41698749571457416,Sector
+Sumter,Unassigned,66,0.5726233902051134,Sector
+Sumter,Communication,32,0.06341133045448721,Sector
+Sumter,Trade,26,0.9389174688117039,Sector
+Sumter,Business_Services,43,0.2349575053873807,Sector
+Sumter,Business_Products,79,0.7515782045233007,Sector
+Sumter,Construction,73,0.6357720880915236,Sector
+Sumter,Services,50,0.6242701476868219,Sector
+Sumter,Mining,73,0.5768664097078817,Sector
+Sumter,Health_Care,10,0.48533665778554325,Sector
+Sumter,EnergyExpL_Prod,3,0.12854756400977385,Sector
+Sumter,Utilities,69,0.6403240006853993,Sector

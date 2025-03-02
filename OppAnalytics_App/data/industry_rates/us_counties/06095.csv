@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Solano,754,0.5910968799103008,Overall
+Solano,HiTech,11,0.041515928632389176,Sector
+Solano,Agriculture,40,0.78899950176951,Sector
+Solano,Transportation,8,0.024836629199688653,Sector
+Solano,Consumer_Products,80,0.9703775089475783,Sector
+Solano,Unassigned,85,0.9683133863495519,Sector
+Solano,Communication,4,0.5514634535289674,Sector
+Solano,Trade,35,0.21942464347993829,Sector
+Solano,Business_Services,56,0.7794668779658193,Sector
+Solano,Business_Products,66,0.4853070503514262,Sector
+Solano,Construction,85,0.9483036345781092,Sector
+Solano,Services,72,0.23219277213863465,Sector
+Solano,Mining,28,0.9709327634099122,Sector
+Solano,Health_Care,72,0.939251242407971,Sector
+Solano,EnergyExpL_Prod,59,0.32478318995010325,Sector
+Solano,Utilities,53,0.6212846159449124,Sector

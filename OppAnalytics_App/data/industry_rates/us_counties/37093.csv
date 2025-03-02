@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hoke,826,0.4368158353896477,Overall
+Hoke,HiTech,11,0.5204423019832674,Sector
+Hoke,Agriculture,98,0.9314646995914708,Sector
+Hoke,Transportation,6,0.22483165584820808,Sector
+Hoke,Consumer_Products,22,0.5420966916114407,Sector
+Hoke,Unassigned,34,0.19637394554964538,Sector
+Hoke,Communication,77,0.5201247273467073,Sector
+Hoke,Trade,97,0.6059384826836932,Sector
+Hoke,Business_Services,38,0.3640813627213795,Sector
+Hoke,Business_Products,86,0.8205163042978353,Sector
+Hoke,Construction,62,0.0059221218296090505,Sector
+Hoke,Services,88,0.1964204418410772,Sector
+Hoke,Mining,27,0.48773383524698743,Sector
+Hoke,Health_Care,61,0.17725148816566128,Sector
+Hoke,EnergyExpL_Prod,68,0.24981398624493545,Sector
+Hoke,Utilities,51,0.7092254858827977,Sector

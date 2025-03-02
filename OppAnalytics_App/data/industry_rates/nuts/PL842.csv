@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Łomżyński,692,0.6548000678545876,Overall
+Łomżyński,HiTech,28,0.8723095975506887,Sector
+Łomżyński,Agriculture,60,0.9844032036595903,Sector
+Łomżyński,Transportation,27,0.4477850851820925,Sector
+Łomżyński,Consumer_Products,22,0.04708434684107665,Sector
+Łomżyński,Unassigned,94,0.22245858703089894,Sector
+Łomżyński,Communication,87,0.7157828371517043,Sector
+Łomżyński,Trade,34,0.3482427092768535,Sector
+Łomżyński,Business_Services,27,0.7449483427946179,Sector
+Łomżyński,Business_Products,18,0.9229426361896464,Sector
+Łomżyński,Construction,48,0.8969863308985786,Sector
+Łomżyński,Services,66,0.20356433894148762,Sector
+Łomżyński,Mining,0,0.5054509923444794,Sector
+Łomżyński,Health_Care,70,0.9510379075706648,Sector
+Łomżyński,EnergyExpL_Prod,37,0.9816342064168937,Sector
+Łomżyński,Utilities,74,0.9773698959695389,Sector

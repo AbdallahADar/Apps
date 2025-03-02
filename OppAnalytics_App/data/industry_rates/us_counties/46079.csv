@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lake,824,0.5343814235862278,Overall
+Lake,HiTech,46,0.29299395904175596,Sector
+Lake,Agriculture,54,0.24543447161695886,Sector
+Lake,Transportation,27,0.9004594428240522,Sector
+Lake,Consumer_Products,30,0.7864031785714776,Sector
+Lake,Unassigned,14,0.2957639949309816,Sector
+Lake,Communication,4,0.19416985351030036,Sector
+Lake,Trade,50,0.4716561957809934,Sector
+Lake,Business_Services,42,0.27140644227978616,Sector
+Lake,Business_Products,97,0.8720657447999981,Sector
+Lake,Construction,77,0.5176144998728347,Sector
+Lake,Services,77,0.8755189575920675,Sector
+Lake,Mining,85,0.03936983424059193,Sector
+Lake,Health_Care,93,0.6317876720763331,Sector
+Lake,EnergyExpL_Prod,79,0.6397743854688352,Sector
+Lake,Utilities,49,0.9813027211864505,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Borken,645,0.494173947910775,Overall
+Borken,HiTech,6,0.09792396127938541,Sector
+Borken,Agriculture,62,0.23364445641157294,Sector
+Borken,Transportation,74,0.14933663257288854,Sector
+Borken,Consumer_Products,5,0.8337658143263973,Sector
+Borken,Unassigned,80,0.8311063555548729,Sector
+Borken,Communication,8,0.47810257400975587,Sector
+Borken,Trade,17,0.6648554144948852,Sector
+Borken,Business_Services,49,0.807804380109238,Sector
+Borken,Business_Products,50,0.22556634477423143,Sector
+Borken,Construction,28,0.8495108178141554,Sector
+Borken,Services,56,0.3385147409001882,Sector
+Borken,Mining,61,0.5633172708119696,Sector
+Borken,Health_Care,34,0.38407988871149334,Sector
+Borken,EnergyExpL_Prod,77,0.5510496283615474,Sector
+Borken,Utilities,38,0.4040309385290438,Sector

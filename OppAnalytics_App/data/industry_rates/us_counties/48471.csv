@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Walker,802,0.3929754603693011,Overall
+Walker,HiTech,99,0.7308600332947771,Sector
+Walker,Agriculture,55,0.14772349877795854,Sector
+Walker,Transportation,22,0.09892755072872794,Sector
+Walker,Consumer_Products,88,0.6782849340018376,Sector
+Walker,Unassigned,51,0.4291969278893344,Sector
+Walker,Communication,64,0.2006360876927964,Sector
+Walker,Trade,40,0.6697787899426343,Sector
+Walker,Business_Services,6,0.005831458172378845,Sector
+Walker,Business_Products,24,0.10603284923407652,Sector
+Walker,Construction,89,0.4840003788787417,Sector
+Walker,Services,72,0.6944434955209355,Sector
+Walker,Mining,16,0.07829355247155934,Sector
+Walker,Health_Care,99,0.5088802008806327,Sector
+Walker,EnergyExpL_Prod,72,0.7649457110944609,Sector
+Walker,Utilities,5,0.2967964369586653,Sector

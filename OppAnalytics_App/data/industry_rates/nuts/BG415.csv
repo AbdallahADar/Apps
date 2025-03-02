@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kyustendil,828,0.49849761214777827,Overall
+Kyustendil,HiTech,26,0.6194094672912862,Sector
+Kyustendil,Agriculture,90,0.7866027361398846,Sector
+Kyustendil,Transportation,41,0.45785368281340955,Sector
+Kyustendil,Consumer_Products,19,0.01004527963499946,Sector
+Kyustendil,Unassigned,72,0.09445291679010881,Sector
+Kyustendil,Communication,98,0.6352784198584857,Sector
+Kyustendil,Trade,64,0.5401389588538249,Sector
+Kyustendil,Business_Services,95,0.44968139290581455,Sector
+Kyustendil,Business_Products,41,0.2030894255945367,Sector
+Kyustendil,Construction,53,0.8700829368367244,Sector
+Kyustendil,Services,84,0.9254829368807423,Sector
+Kyustendil,Mining,86,0.20708526138073557,Sector
+Kyustendil,Health_Care,4,0.5800960321482117,Sector
+Kyustendil,EnergyExpL_Prod,29,0.9619899017616175,Sector
+Kyustendil,Utilities,26,0.13617483332629188,Sector

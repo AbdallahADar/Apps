@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Covington,451,0.39043297375095953,Overall
+Covington,HiTech,24,0.41420230634670585,Sector
+Covington,Agriculture,7,0.12293707215568672,Sector
+Covington,Transportation,63,0.21036424639278173,Sector
+Covington,Consumer_Products,18,0.469077797154442,Sector
+Covington,Unassigned,69,0.5175326506235799,Sector
+Covington,Communication,22,0.2772774848281895,Sector
+Covington,Trade,18,0.8574109214789097,Sector
+Covington,Business_Services,1,0.5231048575206954,Sector
+Covington,Business_Products,16,0.10840899638938561,Sector
+Covington,Construction,46,0.10324985540218479,Sector
+Covington,Services,26,0.419845490384505,Sector
+Covington,Mining,11,0.6624751030040591,Sector
+Covington,Health_Care,43,0.6740855876127632,Sector
+Covington,EnergyExpL_Prod,59,0.29783736327660515,Sector
+Covington,Utilities,28,0.19868487369389942,Sector

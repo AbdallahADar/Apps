@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Basel-Landschaft,763,0.4384175796477802,Overall
+Basel-Landschaft,HiTech,41,0.733345602268253,Sector
+Basel-Landschaft,Agriculture,91,0.9661349722374812,Sector
+Basel-Landschaft,Transportation,81,0.5356912747306877,Sector
+Basel-Landschaft,Consumer_Products,80,0.8073387796510446,Sector
+Basel-Landschaft,Unassigned,14,0.008024266659229617,Sector
+Basel-Landschaft,Communication,11,0.33739568153289046,Sector
+Basel-Landschaft,Trade,5,0.6172919195504942,Sector
+Basel-Landschaft,Business_Services,51,0.7348377959984871,Sector
+Basel-Landschaft,Business_Products,69,0.3103980120586941,Sector
+Basel-Landschaft,Construction,31,0.4304587760371592,Sector
+Basel-Landschaft,Services,46,0.13728766266281522,Sector
+Basel-Landschaft,Mining,23,0.048603724743075505,Sector
+Basel-Landschaft,Health_Care,30,0.305318879340981,Sector
+Basel-Landschaft,EnergyExpL_Prod,96,0.25722102895102006,Sector
+Basel-Landschaft,Utilities,94,0.34691531829439193,Sector

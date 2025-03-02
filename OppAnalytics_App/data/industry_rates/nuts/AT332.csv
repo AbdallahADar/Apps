@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Innsbruck,763,0.46961902378355613,Overall
+Innsbruck,HiTech,65,0.43249977737410483,Sector
+Innsbruck,Agriculture,71,0.49547929870862273,Sector
+Innsbruck,Transportation,87,0.38332889982435503,Sector
+Innsbruck,Consumer_Products,11,0.8149658450943505,Sector
+Innsbruck,Unassigned,4,0.6200236754373133,Sector
+Innsbruck,Communication,69,0.8075439884456043,Sector
+Innsbruck,Trade,71,0.26616128746711043,Sector
+Innsbruck,Business_Services,99,0.04891729980495485,Sector
+Innsbruck,Business_Products,60,0.35241115973294845,Sector
+Innsbruck,Construction,29,0.006003970004707204,Sector
+Innsbruck,Services,35,0.9557017064315974,Sector
+Innsbruck,Mining,3,0.33365991044161847,Sector
+Innsbruck,Health_Care,62,0.21582268257065784,Sector
+Innsbruck,EnergyExpL_Prod,88,0.48170014822410745,Sector
+Innsbruck,Utilities,9,0.8300657071912882,Sector

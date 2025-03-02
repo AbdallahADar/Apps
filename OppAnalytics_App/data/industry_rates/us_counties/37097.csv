@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Iredell,639,0.4038962702551589,Overall
+Iredell,HiTech,29,0.04234129550075705,Sector
+Iredell,Agriculture,0,0.06603197803285588,Sector
+Iredell,Transportation,34,0.28942805398974025,Sector
+Iredell,Consumer_Products,92,0.6992958432509059,Sector
+Iredell,Unassigned,69,0.9605985859538592,Sector
+Iredell,Communication,53,0.9851843084113376,Sector
+Iredell,Trade,71,0.5155910542688715,Sector
+Iredell,Business_Services,59,0.05647098648442006,Sector
+Iredell,Business_Products,12,0.8216208514998785,Sector
+Iredell,Construction,45,0.1739191032034001,Sector
+Iredell,Services,43,0.17688008837799662,Sector
+Iredell,Mining,71,0.4760141917863667,Sector
+Iredell,Health_Care,6,0.18524313533678083,Sector
+Iredell,EnergyExpL_Prod,51,0.43191487620016367,Sector
+Iredell,Utilities,4,0.1779097015300497,Sector

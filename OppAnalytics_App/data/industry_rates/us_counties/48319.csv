@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mason,884,0.5241128663760275,Overall
+Mason,HiTech,33,0.9830857663392041,Sector
+Mason,Agriculture,63,0.8726832849764207,Sector
+Mason,Transportation,26,0.020988027614869065,Sector
+Mason,Consumer_Products,15,0.6332976534893077,Sector
+Mason,Unassigned,98,0.5380529613858479,Sector
+Mason,Communication,42,0.5178132449302961,Sector
+Mason,Trade,14,0.00616668681510224,Sector
+Mason,Business_Services,88,0.018807460007364774,Sector
+Mason,Business_Products,53,0.7541254941381924,Sector
+Mason,Construction,72,0.6254847640264535,Sector
+Mason,Services,53,0.30632610080921563,Sector
+Mason,Mining,56,0.6931825633179817,Sector
+Mason,Health_Care,79,0.9398894879857986,Sector
+Mason,EnergyExpL_Prod,94,0.7711412812017163,Sector
+Mason,Utilities,98,0.18064821860264102,Sector

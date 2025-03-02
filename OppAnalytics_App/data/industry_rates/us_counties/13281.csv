@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Towns,795,0.4019474641059724,Overall
+Towns,HiTech,0,0.46198691663936653,Sector
+Towns,Agriculture,35,0.6402616533414004,Sector
+Towns,Transportation,7,0.9677491345121177,Sector
+Towns,Consumer_Products,43,0.5093784633530062,Sector
+Towns,Unassigned,53,0.7147821526745421,Sector
+Towns,Communication,24,0.2366458778779269,Sector
+Towns,Trade,31,0.31941014252707767,Sector
+Towns,Business_Services,83,0.35166397196478927,Sector
+Towns,Business_Products,67,0.10882239581484165,Sector
+Towns,Construction,87,0.029055256104776994,Sector
+Towns,Services,72,0.1514134117407715,Sector
+Towns,Mining,92,0.23045581174350793,Sector
+Towns,Health_Care,88,0.03173217061707301,Sector
+Towns,EnergyExpL_Prod,37,0.927279007478736,Sector
+Towns,Utilities,76,0.3485755951996522,Sector

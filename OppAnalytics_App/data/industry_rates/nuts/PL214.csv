@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Krakowski,820,0.501395791134935,Overall
+Krakowski,HiTech,6,0.8150550309526249,Sector
+Krakowski,Agriculture,91,0.13357935733233617,Sector
+Krakowski,Transportation,79,0.00949187461709633,Sector
+Krakowski,Consumer_Products,7,0.7636435297400676,Sector
+Krakowski,Unassigned,91,0.991096007903848,Sector
+Krakowski,Communication,8,0.3028589544025042,Sector
+Krakowski,Trade,70,0.31898834753346383,Sector
+Krakowski,Business_Services,70,0.20069522816325092,Sector
+Krakowski,Business_Products,23,0.23689693037191595,Sector
+Krakowski,Construction,77,0.1823440290794036,Sector
+Krakowski,Services,8,0.5509732064013818,Sector
+Krakowski,Mining,83,0.9349568217610245,Sector
+Krakowski,Health_Care,84,0.8561017880380692,Sector
+Krakowski,EnergyExpL_Prod,67,0.39079345105690655,Sector
+Krakowski,Utilities,56,0.8334623096701316,Sector

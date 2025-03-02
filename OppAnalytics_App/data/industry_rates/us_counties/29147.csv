@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nodaway,794,0.45074328613623227,Overall
+Nodaway,HiTech,96,0.38302168036506246,Sector
+Nodaway,Agriculture,2,0.6651138154506104,Sector
+Nodaway,Transportation,42,0.8192822483606902,Sector
+Nodaway,Consumer_Products,54,0.20346949356992772,Sector
+Nodaway,Unassigned,49,0.9030126368454363,Sector
+Nodaway,Communication,78,0.039368246909716076,Sector
+Nodaway,Trade,49,0.28044215931660266,Sector
+Nodaway,Business_Services,40,0.021231974572059387,Sector
+Nodaway,Business_Products,49,0.21733978289204636,Sector
+Nodaway,Construction,67,0.9042319285656133,Sector
+Nodaway,Services,27,0.569354367368209,Sector
+Nodaway,Mining,95,0.510580029074712,Sector
+Nodaway,Health_Care,1,0.14585200063967352,Sector
+Nodaway,EnergyExpL_Prod,99,0.3683072541603313,Sector
+Nodaway,Utilities,46,0.7305416739527939,Sector

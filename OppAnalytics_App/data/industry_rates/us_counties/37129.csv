@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,New Hanover,824,0.4923382174811363,Overall
+New Hanover,HiTech,77,0.7380819441474437,Sector
+New Hanover,Agriculture,80,0.47967357671543753,Sector
+New Hanover,Transportation,59,0.04541594933805604,Sector
+New Hanover,Consumer_Products,66,0.13677436030267698,Sector
+New Hanover,Unassigned,76,0.5187162370017442,Sector
+New Hanover,Communication,79,0.5916990503857743,Sector
+New Hanover,Trade,61,0.8662060339937111,Sector
+New Hanover,Business_Services,19,0.6178420274557287,Sector
+New Hanover,Business_Products,28,0.5210675076322859,Sector
+New Hanover,Construction,7,0.14072621629785698,Sector
+New Hanover,Services,50,0.6267227500272878,Sector
+New Hanover,Mining,33,0.4252917646461116,Sector
+New Hanover,Health_Care,29,0.7869777922783432,Sector
+New Hanover,EnergyExpL_Prod,61,0.6891990550542556,Sector
+New Hanover,Utilities,99,0.20067899694033176,Sector

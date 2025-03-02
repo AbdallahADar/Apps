@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Göppingen,837,0.3832212933640451,Overall
+Göppingen,HiTech,36,0.40977072466070563,Sector
+Göppingen,Agriculture,62,0.5296872972145108,Sector
+Göppingen,Transportation,21,0.6689481746576262,Sector
+Göppingen,Consumer_Products,46,0.41453302477592824,Sector
+Göppingen,Unassigned,65,0.19481879463808371,Sector
+Göppingen,Communication,61,0.13806898682199398,Sector
+Göppingen,Trade,95,0.9634983964298688,Sector
+Göppingen,Business_Services,51,0.09389053251823765,Sector
+Göppingen,Business_Products,23,0.014672926714971557,Sector
+Göppingen,Construction,92,0.6624742062478837,Sector
+Göppingen,Services,70,0.14114376067432755,Sector
+Göppingen,Mining,41,0.017448883545900573,Sector
+Göppingen,Health_Care,83,0.7412718400814811,Sector
+Göppingen,EnergyExpL_Prod,6,0.09692890893545836,Sector
+Göppingen,Utilities,85,0.6611629425436991,Sector

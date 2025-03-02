@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Saale-Orla-Kreis,878,0.48621589550964944,Overall
+Saale-Orla-Kreis,HiTech,63,0.16878643839136753,Sector
+Saale-Orla-Kreis,Agriculture,44,0.4903071804163164,Sector
+Saale-Orla-Kreis,Transportation,82,0.6946137060619477,Sector
+Saale-Orla-Kreis,Consumer_Products,86,0.33431893213409614,Sector
+Saale-Orla-Kreis,Unassigned,48,0.812903385141914,Sector
+Saale-Orla-Kreis,Communication,49,0.29842982296833487,Sector
+Saale-Orla-Kreis,Trade,96,0.2097070187919401,Sector
+Saale-Orla-Kreis,Business_Services,45,0.05126525197928822,Sector
+Saale-Orla-Kreis,Business_Products,46,0.4470368383264339,Sector
+Saale-Orla-Kreis,Construction,23,0.8979437266211003,Sector
+Saale-Orla-Kreis,Services,96,0.46925406274536685,Sector
+Saale-Orla-Kreis,Mining,76,0.6263828757607717,Sector
+Saale-Orla-Kreis,Health_Care,44,0.8696019890294353,Sector
+Saale-Orla-Kreis,EnergyExpL_Prod,0,0.7304466696049602,Sector
+Saale-Orla-Kreis,Utilities,80,0.19224053467146873,Sector

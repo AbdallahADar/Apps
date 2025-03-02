@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vermillion,753,0.6004963844112879,Overall
+Vermillion,HiTech,95,0.32611625387913923,Sector
+Vermillion,Agriculture,15,0.24641932433919644,Sector
+Vermillion,Transportation,39,0.9004156300884727,Sector
+Vermillion,Consumer_Products,21,0.6963791890494425,Sector
+Vermillion,Unassigned,38,0.3132642469015925,Sector
+Vermillion,Communication,99,0.9680290124719023,Sector
+Vermillion,Trade,84,0.8270675843836572,Sector
+Vermillion,Business_Services,14,0.2780790693155264,Sector
+Vermillion,Business_Products,73,0.5368353510579336,Sector
+Vermillion,Construction,12,0.30651930177351416,Sector
+Vermillion,Services,95,0.5181039610570269,Sector
+Vermillion,Mining,19,0.6451801865869823,Sector
+Vermillion,Health_Care,40,0.7285596700960316,Sector
+Vermillion,EnergyExpL_Prod,31,0.8422364956760384,Sector
+Vermillion,Utilities,78,0.8742404894928621,Sector

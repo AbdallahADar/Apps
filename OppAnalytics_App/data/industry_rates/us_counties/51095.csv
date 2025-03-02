@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,James City,888,0.4425788066077469,Overall
+James City,HiTech,46,0.3009541207907598,Sector
+James City,Agriculture,9,0.6341033899407643,Sector
+James City,Transportation,66,0.7988104575770262,Sector
+James City,Consumer_Products,68,0.5454215125312718,Sector
+James City,Unassigned,94,0.8387851862925595,Sector
+James City,Communication,69,0.6280337616895136,Sector
+James City,Trade,84,0.6293857986755195,Sector
+James City,Business_Services,82,0.2005673198286263,Sector
+James City,Business_Products,47,0.14072093216586457,Sector
+James City,Construction,5,0.4263524773387092,Sector
+James City,Services,44,0.0653989966065045,Sector
+James City,Mining,44,0.31727167325314354,Sector
+James City,Health_Care,50,0.06682413094038497,Sector
+James City,EnergyExpL_Prod,87,0.08711124076360366,Sector
+James City,Utilities,93,0.9589411007219504,Sector

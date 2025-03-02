@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cheboygan,879,0.48715574934882994,Overall
+Cheboygan,HiTech,36,0.12115776547365475,Sector
+Cheboygan,Agriculture,86,0.9814850020718027,Sector
+Cheboygan,Transportation,6,0.20221971935882155,Sector
+Cheboygan,Consumer_Products,82,0.8675202173489555,Sector
+Cheboygan,Unassigned,32,0.9921369516817653,Sector
+Cheboygan,Communication,95,0.4210882696126238,Sector
+Cheboygan,Trade,26,0.2649994453213761,Sector
+Cheboygan,Business_Services,94,0.5752079548258682,Sector
+Cheboygan,Business_Products,27,0.17191484155205317,Sector
+Cheboygan,Construction,75,0.3834589505631978,Sector
+Cheboygan,Services,70,0.42895392227688267,Sector
+Cheboygan,Mining,83,0.10105865153089877,Sector
+Cheboygan,Health_Care,82,0.40010448282928845,Sector
+Cheboygan,EnergyExpL_Prod,75,0.7577162595424584,Sector
+Cheboygan,Utilities,10,0.6383138062428032,Sector

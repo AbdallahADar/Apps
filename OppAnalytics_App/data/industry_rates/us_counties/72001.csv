@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Adjuntas,684,0.49365041924231434,Overall
+Adjuntas,HiTech,27,0.3818317315843329,Sector
+Adjuntas,Agriculture,0,0.7653279906380408,Sector
+Adjuntas,Transportation,12,0.315820540311302,Sector
+Adjuntas,Consumer_Products,54,0.5134995945923214,Sector
+Adjuntas,Unassigned,35,0.22316124487187294,Sector
+Adjuntas,Communication,89,0.629517984561411,Sector
+Adjuntas,Trade,45,0.055993765716766064,Sector
+Adjuntas,Business_Services,41,0.11702288142963713,Sector
+Adjuntas,Business_Products,23,0.4037284557060091,Sector
+Adjuntas,Construction,91,0.47173213636578215,Sector
+Adjuntas,Services,60,0.9370813316148771,Sector
+Adjuntas,Mining,25,0.6803376346956145,Sector
+Adjuntas,Health_Care,61,0.988343503597094,Sector
+Adjuntas,EnergyExpL_Prod,35,0.09588772025396708,Sector
+Adjuntas,Utilities,86,0.8254697726956871,Sector

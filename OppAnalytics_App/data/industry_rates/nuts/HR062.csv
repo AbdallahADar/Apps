@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Varaždinska županija,708,0.42904133996611277,Overall
+Varaždinska županija,HiTech,92,0.7069970999205596,Sector
+Varaždinska županija,Agriculture,73,0.15115845028702646,Sector
+Varaždinska županija,Transportation,4,0.44198537813780914,Sector
+Varaždinska županija,Consumer_Products,10,0.02031254903059887,Sector
+Varaždinska županija,Unassigned,12,0.07891892732880912,Sector
+Varaždinska županija,Communication,5,0.13323069899384465,Sector
+Varaždinska županija,Trade,34,0.19968449729815807,Sector
+Varaždinska županija,Business_Services,67,0.5385288126138918,Sector
+Varaždinska županija,Business_Products,99,0.8575622767351654,Sector
+Varaždinska županija,Construction,75,0.5386153217023631,Sector
+Varaždinska županija,Services,23,0.5429660086845223,Sector
+Varaždinska županija,Mining,26,0.2881099603390832,Sector
+Varaždinska županija,Health_Care,89,0.46033281506215584,Sector
+Varaždinska županija,EnergyExpL_Prod,84,0.5379148024751457,Sector
+Varaždinska županija,Utilities,15,0.9393025008825595,Sector

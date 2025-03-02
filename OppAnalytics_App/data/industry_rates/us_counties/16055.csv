@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kootenai,670,0.43746187654130275,Overall
+Kootenai,HiTech,69,0.47790837891383664,Sector
+Kootenai,Agriculture,39,0.18741607796742576,Sector
+Kootenai,Transportation,44,0.15982109797984145,Sector
+Kootenai,Consumer_Products,35,0.08195923533275895,Sector
+Kootenai,Unassigned,63,0.30754807271231,Sector
+Kootenai,Communication,75,0.5372842824600438,Sector
+Kootenai,Trade,90,0.9530763140341818,Sector
+Kootenai,Business_Services,5,0.6306834788149757,Sector
+Kootenai,Business_Products,16,0.5214540095902314,Sector
+Kootenai,Construction,30,0.3734383182442884,Sector
+Kootenai,Services,9,0.8815272058182206,Sector
+Kootenai,Mining,83,0.07024842445123791,Sector
+Kootenai,Health_Care,10,0.09947793112980796,Sector
+Kootenai,EnergyExpL_Prod,68,0.5104342838940112,Sector
+Kootenai,Utilities,34,0.76965103677637,Sector

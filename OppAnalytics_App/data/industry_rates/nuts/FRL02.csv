@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hautes-Alpes ,925,0.45995857652793437,Overall
+Hautes-Alpes ,HiTech,5,0.6528757967282481,Sector
+Hautes-Alpes ,Agriculture,50,0.6059776509453794,Sector
+Hautes-Alpes ,Transportation,49,0.14224287655761758,Sector
+Hautes-Alpes ,Consumer_Products,71,0.4517531903509837,Sector
+Hautes-Alpes ,Unassigned,89,0.2192418286465102,Sector
+Hautes-Alpes ,Communication,94,0.7556573222491353,Sector
+Hautes-Alpes ,Trade,18,0.6255910250749398,Sector
+Hautes-Alpes ,Business_Services,48,0.26720610762743724,Sector
+Hautes-Alpes ,Business_Products,73,0.6300614011517631,Sector
+Hautes-Alpes ,Construction,99,0.6734014584913317,Sector
+Hautes-Alpes ,Services,74,0.4974610657014078,Sector
+Hautes-Alpes ,Mining,74,0.31883009133310314,Sector
+Hautes-Alpes ,Health_Care,84,0.39139915268067405,Sector
+Hautes-Alpes ,EnergyExpL_Prod,92,0.5602535645232901,Sector
+Hautes-Alpes ,Utilities,5,0.10742611585719453,Sector

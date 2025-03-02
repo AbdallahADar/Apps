@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bannock,891,0.5513054768661267,Overall
+Bannock,HiTech,96,0.975462150279308,Sector
+Bannock,Agriculture,83,0.811877491951575,Sector
+Bannock,Transportation,10,0.5965617174518675,Sector
+Bannock,Consumer_Products,22,0.7307584003659922,Sector
+Bannock,Unassigned,92,0.006704278800755636,Sector
+Bannock,Communication,33,0.44894934936622455,Sector
+Bannock,Trade,79,0.6251079949515024,Sector
+Bannock,Business_Services,67,0.6381527853418634,Sector
+Bannock,Business_Products,91,0.25148080557666086,Sector
+Bannock,Construction,42,0.485980172522701,Sector
+Bannock,Services,43,0.7862994327200616,Sector
+Bannock,Mining,80,0.41822204735852453,Sector
+Bannock,Health_Care,50,0.5342450214849956,Sector
+Bannock,EnergyExpL_Prod,85,0.292206536665635,Sector
+Bannock,Utilities,18,0.6675739681542371,Sector

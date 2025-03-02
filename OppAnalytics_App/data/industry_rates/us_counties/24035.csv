@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Queen Anne's,726,0.5327745518292456,Overall
+Queen Anne's,HiTech,86,0.26598546130794865,Sector
+Queen Anne's,Agriculture,73,0.2544828525963422,Sector
+Queen Anne's,Transportation,10,0.21723203411320513,Sector
+Queen Anne's,Consumer_Products,57,0.39364660575098653,Sector
+Queen Anne's,Unassigned,48,0.610171767219679,Sector
+Queen Anne's,Communication,94,0.7281509692904421,Sector
+Queen Anne's,Trade,75,0.1383517772871331,Sector
+Queen Anne's,Business_Services,13,0.17912209005489066,Sector
+Queen Anne's,Business_Products,1,0.6595730662961008,Sector
+Queen Anne's,Construction,18,0.9964729499454671,Sector
+Queen Anne's,Services,70,0.881126925421234,Sector
+Queen Anne's,Mining,70,0.7896557767508635,Sector
+Queen Anne's,Health_Care,0,0.8282338593112449,Sector
+Queen Anne's,EnergyExpL_Prod,93,0.9678862979683133,Sector
+Queen Anne's,Utilities,18,0.08152584412483355,Sector

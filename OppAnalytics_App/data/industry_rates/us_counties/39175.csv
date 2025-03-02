@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wyandot,768,0.4259072848466761,Overall
+Wyandot,HiTech,23,0.34196199235054825,Sector
+Wyandot,Agriculture,72,0.29500832976351954,Sector
+Wyandot,Transportation,89,0.7568522529851952,Sector
+Wyandot,Consumer_Products,87,0.7693823981407026,Sector
+Wyandot,Unassigned,55,0.0509968619784712,Sector
+Wyandot,Communication,23,0.5716601873411479,Sector
+Wyandot,Trade,88,0.2215516657943858,Sector
+Wyandot,Business_Services,56,0.6048293255583973,Sector
+Wyandot,Business_Products,11,0.06993460258365347,Sector
+Wyandot,Construction,24,0.12525295206637943,Sector
+Wyandot,Services,10,0.42619475728206413,Sector
+Wyandot,Mining,90,0.5594571752778636,Sector
+Wyandot,Health_Care,42,0.2802728534968838,Sector
+Wyandot,EnergyExpL_Prod,22,0.9212832546324908,Sector
+Wyandot,Utilities,76,0.393970663448438,Sector

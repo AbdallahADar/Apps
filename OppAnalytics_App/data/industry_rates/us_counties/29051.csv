@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cole,797,0.5856421769374894,Overall
+Cole,HiTech,72,0.7293390678383438,Sector
+Cole,Agriculture,42,0.8451437573106821,Sector
+Cole,Transportation,66,0.8519196930357017,Sector
+Cole,Consumer_Products,47,0.31398602069062354,Sector
+Cole,Unassigned,25,0.8886272279086537,Sector
+Cole,Communication,70,0.5310395943608927,Sector
+Cole,Trade,99,0.89781591000256,Sector
+Cole,Business_Services,27,0.36778892974848665,Sector
+Cole,Business_Products,33,0.2971677647113412,Sector
+Cole,Construction,99,0.4751147384617408,Sector
+Cole,Services,7,0.879490494136417,Sector
+Cole,Mining,86,0.7963128611034721,Sector
+Cole,Health_Care,43,0.7158059142497075,Sector
+Cole,EnergyExpL_Prod,53,0.10831059286259404,Sector
+Cole,Utilities,28,0.08677008764112404,Sector

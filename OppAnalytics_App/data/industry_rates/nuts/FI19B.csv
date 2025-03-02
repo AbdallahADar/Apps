@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pirkanmaa,760,0.6049999415450642,Overall
+Pirkanmaa,HiTech,86,0.13313240881205668,Sector
+Pirkanmaa,Agriculture,63,0.713288401963745,Sector
+Pirkanmaa,Transportation,19,0.6918567043895754,Sector
+Pirkanmaa,Consumer_Products,22,0.3095863273152005,Sector
+Pirkanmaa,Unassigned,23,0.722808761101231,Sector
+Pirkanmaa,Communication,3,0.967472783811436,Sector
+Pirkanmaa,Trade,70,0.8618755952464693,Sector
+Pirkanmaa,Business_Services,61,0.9054604350095607,Sector
+Pirkanmaa,Business_Products,68,0.898496549830475,Sector
+Pirkanmaa,Construction,91,0.6615099240683447,Sector
+Pirkanmaa,Services,25,0.748298625298154,Sector
+Pirkanmaa,Mining,81,0.8963016749885034,Sector
+Pirkanmaa,Health_Care,66,0.4186115287688482,Sector
+Pirkanmaa,EnergyExpL_Prod,10,0.01901754166516123,Sector
+Pirkanmaa,Utilities,72,0.12728186090720306,Sector

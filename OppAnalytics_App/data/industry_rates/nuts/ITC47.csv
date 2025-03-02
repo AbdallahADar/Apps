@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Brescia,700,0.4494819063406601,Overall
+Brescia,HiTech,3,0.04575393640281311,Sector
+Brescia,Agriculture,48,0.8114283042548668,Sector
+Brescia,Transportation,66,0.40309388722389083,Sector
+Brescia,Consumer_Products,97,0.8279710040775355,Sector
+Brescia,Unassigned,59,0.4567600781007033,Sector
+Brescia,Communication,2,0.0031203274859961105,Sector
+Brescia,Trade,79,0.8597205180593294,Sector
+Brescia,Business_Services,3,0.532284933070892,Sector
+Brescia,Business_Products,29,0.68950971634646,Sector
+Brescia,Construction,67,0.3614074932404183,Sector
+Brescia,Services,23,0.38011880090530736,Sector
+Brescia,Mining,52,0.4512387409628108,Sector
+Brescia,Health_Care,26,0.2897185472288274,Sector
+Brescia,EnergyExpL_Prod,77,0.3194876444342424,Sector
+Brescia,Utilities,69,0.3106146633158082,Sector

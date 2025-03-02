@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tripp,814,0.6043114995265515,Overall
+Tripp,HiTech,52,0.18493860797089845,Sector
+Tripp,Agriculture,17,0.9751571025672785,Sector
+Tripp,Transportation,77,0.6082019475805954,Sector
+Tripp,Consumer_Products,25,0.9660429989109109,Sector
+Tripp,Unassigned,36,0.8660853623131574,Sector
+Tripp,Communication,23,0.391711187195659,Sector
+Tripp,Trade,64,0.8214516453213494,Sector
+Tripp,Business_Services,57,0.2971395472031797,Sector
+Tripp,Business_Products,85,0.688228999623856,Sector
+Tripp,Construction,0,0.6503229978227377,Sector
+Tripp,Services,46,0.38273843390408513,Sector
+Tripp,Mining,82,0.9707041270796127,Sector
+Tripp,Health_Care,99,0.8486999136676457,Sector
+Tripp,EnergyExpL_Prod,70,0.03775840555122545,Sector
+Tripp,Utilities,81,0.37549121618608217,Sector

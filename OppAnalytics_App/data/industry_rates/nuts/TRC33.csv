@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Şırnak,678,0.5179541065756014,Overall
+Şırnak,HiTech,32,0.8836944341305492,Sector
+Şırnak,Agriculture,17,0.7147357993595257,Sector
+Şırnak,Transportation,85,0.10099096883734071,Sector
+Şırnak,Consumer_Products,97,0.5314779393744336,Sector
+Şırnak,Unassigned,23,0.898555094790038,Sector
+Şırnak,Communication,0,0.6016346946050374,Sector
+Şırnak,Trade,69,0.24744946732191198,Sector
+Şırnak,Business_Services,56,0.46548859798889164,Sector
+Şırnak,Business_Products,86,0.6515618723626292,Sector
+Şırnak,Construction,17,0.6815991674325663,Sector
+Şırnak,Services,41,0.3331570210277255,Sector
+Şırnak,Mining,18,0.8304389685392398,Sector
+Şırnak,Health_Care,83,0.30081188995579844,Sector
+Şırnak,EnergyExpL_Prod,29,0.17669967421550636,Sector
+Şırnak,Utilities,25,0.35101600869282557,Sector

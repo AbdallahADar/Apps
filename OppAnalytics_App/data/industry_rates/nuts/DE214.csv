@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Altötting,855,0.48052192812377237,Overall
+Altötting,HiTech,41,0.1993884295642897,Sector
+Altötting,Agriculture,99,0.14631761536987842,Sector
+Altötting,Transportation,0,0.16047459047869705,Sector
+Altötting,Consumer_Products,85,0.0467393859201124,Sector
+Altötting,Unassigned,67,0.6863356490274056,Sector
+Altötting,Communication,74,0.3090818769764735,Sector
+Altötting,Trade,52,0.9286107957548911,Sector
+Altötting,Business_Services,65,0.42699732435107074,Sector
+Altötting,Business_Products,37,0.8524784647048401,Sector
+Altötting,Construction,27,0.9955388412340771,Sector
+Altötting,Services,50,0.10473252811072042,Sector
+Altötting,Mining,56,0.8977601779429072,Sector
+Altötting,Health_Care,25,0.22562060332096112,Sector
+Altötting,EnergyExpL_Prod,84,0.47414119465994387,Sector
+Altötting,Utilities,93,0.7536114444403165,Sector

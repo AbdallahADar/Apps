@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zala,697,0.5800567509070106,Overall
+Zala,HiTech,64,0.9824770145946689,Sector
+Zala,Agriculture,28,0.9863119278910282,Sector
+Zala,Transportation,24,0.4900741978428119,Sector
+Zala,Consumer_Products,75,0.009045136328624026,Sector
+Zala,Unassigned,57,0.6877521715018156,Sector
+Zala,Communication,34,0.435658510347397,Sector
+Zala,Trade,32,0.6211812263564992,Sector
+Zala,Business_Services,63,0.2730065686847817,Sector
+Zala,Business_Products,67,0.7496477412449495,Sector
+Zala,Construction,4,0.05281997727473875,Sector
+Zala,Services,1,0.624476551689172,Sector
+Zala,Mining,41,0.25199471027625486,Sector
+Zala,Health_Care,71,0.7625435256308073,Sector
+Zala,EnergyExpL_Prod,81,0.9858549550867929,Sector
+Zala,Utilities,55,0.7880070488548169,Sector

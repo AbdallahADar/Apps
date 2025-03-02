@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Greenlee,722,0.48918767733223656,Overall
+Greenlee,HiTech,73,0.9495268456171847,Sector
+Greenlee,Agriculture,10,0.4267230110479677,Sector
+Greenlee,Transportation,0,0.25026654750792554,Sector
+Greenlee,Consumer_Products,42,0.2792493092709375,Sector
+Greenlee,Unassigned,4,0.6879726585119244,Sector
+Greenlee,Communication,96,0.510679175449042,Sector
+Greenlee,Trade,70,0.9710797711884206,Sector
+Greenlee,Business_Services,94,0.008600558498598199,Sector
+Greenlee,Business_Products,4,0.8167585197565101,Sector
+Greenlee,Construction,2,0.09918239443363741,Sector
+Greenlee,Services,88,0.2592499497592702,Sector
+Greenlee,Mining,78,0.19782618362179893,Sector
+Greenlee,Health_Care,80,0.7734877694485823,Sector
+Greenlee,EnergyExpL_Prod,18,0.42844796801571083,Sector
+Greenlee,Utilities,63,0.6787644978560383,Sector

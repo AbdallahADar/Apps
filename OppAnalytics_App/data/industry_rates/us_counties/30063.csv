@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Missoula,749,0.4351381067608101,Overall
+Missoula,HiTech,28,0.6183019570696844,Sector
+Missoula,Agriculture,53,0.049832946515163346,Sector
+Missoula,Transportation,45,0.3119441194659799,Sector
+Missoula,Consumer_Products,29,0.036257685332644174,Sector
+Missoula,Unassigned,71,0.16309172271304417,Sector
+Missoula,Communication,35,0.49302424852272564,Sector
+Missoula,Trade,7,0.6046856007377714,Sector
+Missoula,Business_Services,98,0.11096219747452996,Sector
+Missoula,Business_Products,85,0.6562096989886907,Sector
+Missoula,Construction,70,0.26791068213845326,Sector
+Missoula,Services,94,0.6531405148972563,Sector
+Missoula,Mining,8,0.7306991221572552,Sector
+Missoula,Health_Care,76,0.5187519634929905,Sector
+Missoula,EnergyExpL_Prod,32,0.8269096406264645,Sector
+Missoula,Utilities,18,0.48534950127949816,Sector

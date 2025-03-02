@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Biella,742,0.5030822541255545,Overall
+Biella,HiTech,24,0.7890297557980046,Sector
+Biella,Agriculture,36,0.5744176431147029,Sector
+Biella,Transportation,11,0.15119933975931865,Sector
+Biella,Consumer_Products,9,0.019375494175935426,Sector
+Biella,Unassigned,22,0.4513586883776921,Sector
+Biella,Communication,65,0.018068773667025195,Sector
+Biella,Trade,78,0.26879431691537115,Sector
+Biella,Business_Services,99,0.6633683381303377,Sector
+Biella,Business_Products,79,0.9550710375577762,Sector
+Biella,Construction,18,0.8485479645973198,Sector
+Biella,Services,43,0.22227323368262442,Sector
+Biella,Mining,56,0.9361134360902854,Sector
+Biella,Health_Care,77,0.11730531402175737,Sector
+Biella,EnergyExpL_Prod,41,0.7517786476362761,Sector
+Biella,Utilities,84,0.7795318283588902,Sector

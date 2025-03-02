@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ariège,735,0.5082811065349125,Overall
+Ariège,HiTech,71,0.8802550897128988,Sector
+Ariège,Agriculture,4,0.03770394694280499,Sector
+Ariège,Transportation,33,0.8145660605297497,Sector
+Ariège,Consumer_Products,36,0.6261441703621411,Sector
+Ariège,Unassigned,79,0.6888907750933075,Sector
+Ariège,Communication,66,0.7842561057147361,Sector
+Ariège,Trade,89,0.2548273102641827,Sector
+Ariège,Business_Services,27,0.15330865220957013,Sector
+Ariège,Business_Products,35,0.9296861051975862,Sector
+Ariège,Construction,25,0.7373295829114063,Sector
+Ariège,Services,90,0.17167585940640973,Sector
+Ariège,Mining,34,0.3589464730319162,Sector
+Ariège,Health_Care,64,0.6189513869832481,Sector
+Ariège,EnergyExpL_Prod,59,0.32693203593228615,Sector
+Ariège,Utilities,23,0.24074304373144517,Sector

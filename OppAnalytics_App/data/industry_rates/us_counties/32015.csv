@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lander,611,0.48954915022571016,Overall
+Lander,HiTech,62,0.06663873184591473,Sector
+Lander,Agriculture,2,0.5511483626105513,Sector
+Lander,Transportation,34,0.19739996232097667,Sector
+Lander,Consumer_Products,30,0.4440727995626965,Sector
+Lander,Unassigned,18,0.12509321419623154,Sector
+Lander,Communication,28,0.02623687743942371,Sector
+Lander,Trade,5,0.658482647475857,Sector
+Lander,Business_Services,26,0.4995949792623682,Sector
+Lander,Business_Products,62,0.9529038908200257,Sector
+Lander,Construction,24,0.6076080152251884,Sector
+Lander,Services,87,0.6141813463112513,Sector
+Lander,Mining,44,0.9081331837030361,Sector
+Lander,Health_Care,64,0.2587334984024401,Sector
+Lander,EnergyExpL_Prod,52,0.6390911344047496,Sector
+Lander,Utilities,73,0.7939186098049421,Sector

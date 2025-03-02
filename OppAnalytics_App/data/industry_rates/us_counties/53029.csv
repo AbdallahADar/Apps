@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Island,843,0.4562736642811255,Overall
+Island,HiTech,81,0.5211390293497271,Sector
+Island,Agriculture,62,0.8406730323894067,Sector
+Island,Transportation,90,0.7789100494951342,Sector
+Island,Consumer_Products,20,0.4729612141873357,Sector
+Island,Unassigned,74,0.18736142185770643,Sector
+Island,Communication,49,0.8853813233893181,Sector
+Island,Trade,58,0.0999496388161144,Sector
+Island,Business_Services,13,0.7501409556455183,Sector
+Island,Business_Products,31,0.46400818299751023,Sector
+Island,Construction,42,0.389657566331998,Sector
+Island,Services,2,0.006243825281911919,Sector
+Island,Mining,53,0.01781408052861766,Sector
+Island,Health_Care,90,0.4694422985209167,Sector
+Island,EnergyExpL_Prod,97,0.3044066548170853,Sector
+Island,Utilities,81,0.6560156906085819,Sector

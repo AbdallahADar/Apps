@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Newport News,622,0.5516281516520283,Overall
+Newport News,HiTech,84,0.5168425034538295,Sector
+Newport News,Agriculture,88,0.1648956898137216,Sector
+Newport News,Transportation,25,0.08418979012726135,Sector
+Newport News,Consumer_Products,61,0.7840521916629727,Sector
+Newport News,Unassigned,76,0.9545387879432946,Sector
+Newport News,Communication,25,0.26321337575924697,Sector
+Newport News,Trade,18,0.6798189166563259,Sector
+Newport News,Business_Services,4,0.8921146322175788,Sector
+Newport News,Business_Products,11,0.4521596733522727,Sector
+Newport News,Construction,66,0.11914617646325965,Sector
+Newport News,Services,20,0.9147319361464279,Sector
+Newport News,Mining,31,0.16068959325232202,Sector
+Newport News,Health_Care,29,0.8725578833883026,Sector
+Newport News,EnergyExpL_Prod,22,0.9016876877374165,Sector
+Newport News,Utilities,62,0.5137834368061923,Sector

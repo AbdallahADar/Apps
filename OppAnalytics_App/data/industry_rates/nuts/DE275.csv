@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Aichach-Friedberg,757,0.6643350806130999,Overall
+Aichach-Friedberg,HiTech,84,0.06561046375695945,Sector
+Aichach-Friedberg,Agriculture,25,0.5354347556747062,Sector
+Aichach-Friedberg,Transportation,71,0.562136278402941,Sector
+Aichach-Friedberg,Consumer_Products,73,0.925542564779521,Sector
+Aichach-Friedberg,Unassigned,88,0.5878829991068468,Sector
+Aichach-Friedberg,Communication,1,0.8483526271306628,Sector
+Aichach-Friedberg,Trade,45,0.4941200993232543,Sector
+Aichach-Friedberg,Business_Services,54,0.8328129972401148,Sector
+Aichach-Friedberg,Business_Products,77,0.9314000375052037,Sector
+Aichach-Friedberg,Construction,4,0.3552379564935966,Sector
+Aichach-Friedberg,Services,4,0.6433467129032889,Sector
+Aichach-Friedberg,Mining,84,0.9720509642162385,Sector
+Aichach-Friedberg,Health_Care,63,0.7237827865749713,Sector
+Aichach-Friedberg,EnergyExpL_Prod,76,0.7928105681106143,Sector
+Aichach-Friedberg,Utilities,8,0.6945043979775783,Sector

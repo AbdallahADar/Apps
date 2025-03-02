@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Todd,748,0.4775919070448449,Overall
+Todd,HiTech,12,0.15792639492345006,Sector
+Todd,Agriculture,39,0.6435064948823002,Sector
+Todd,Transportation,84,0.47994948409177307,Sector
+Todd,Consumer_Products,36,0.3917920822127835,Sector
+Todd,Unassigned,36,0.37211743655252383,Sector
+Todd,Communication,15,0.02834546333031429,Sector
+Todd,Trade,78,0.8618918507491226,Sector
+Todd,Business_Services,93,0.8011176564385863,Sector
+Todd,Business_Products,11,0.17352936526406793,Sector
+Todd,Construction,47,0.6996412472431066,Sector
+Todd,Services,1,0.667547630166439,Sector
+Todd,Mining,74,0.9003001358665382,Sector
+Todd,Health_Care,50,0.20273516799440217,Sector
+Todd,EnergyExpL_Prod,85,0.05811002910050622,Sector
+Todd,Utilities,87,0.7253681668567604,Sector

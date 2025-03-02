@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Decatur,787,0.5436601829060462,Overall
+Decatur,HiTech,48,0.6829605081357946,Sector
+Decatur,Agriculture,8,0.7981733749759761,Sector
+Decatur,Transportation,65,0.7109066178598802,Sector
+Decatur,Consumer_Products,87,0.9729638717362411,Sector
+Decatur,Unassigned,6,0.1370059932078913,Sector
+Decatur,Communication,19,0.31947708187382207,Sector
+Decatur,Trade,15,0.1827432217726046,Sector
+Decatur,Business_Services,89,0.6187974666875372,Sector
+Decatur,Business_Products,18,0.5375669533904924,Sector
+Decatur,Construction,91,0.9051244451349191,Sector
+Decatur,Services,95,0.9544589728813919,Sector
+Decatur,Mining,45,0.7521395102927699,Sector
+Decatur,Health_Care,47,0.14001701769268626,Sector
+Decatur,EnergyExpL_Prod,99,0.018325948077301035,Sector
+Decatur,Utilities,55,0.42424175987138346,Sector

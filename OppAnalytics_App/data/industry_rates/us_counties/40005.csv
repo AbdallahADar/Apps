@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Atoka,637,0.640455929932072,Overall
+Atoka,HiTech,31,0.14954033970144665,Sector
+Atoka,Agriculture,18,0.3323483726917238,Sector
+Atoka,Transportation,0,0.9252445868967698,Sector
+Atoka,Consumer_Products,17,0.9914254197338324,Sector
+Atoka,Unassigned,51,0.6330365216300549,Sector
+Atoka,Communication,57,0.3161981261031829,Sector
+Atoka,Trade,1,0.9311877046142022,Sector
+Atoka,Business_Services,9,0.5838645332325774,Sector
+Atoka,Business_Products,13,0.9818371331910614,Sector
+Atoka,Construction,68,0.6092478042511225,Sector
+Atoka,Services,96,0.8517855984160002,Sector
+Atoka,Mining,10,0.2468916104914205,Sector
+Atoka,Health_Care,93,0.5724148303121162,Sector
+Atoka,EnergyExpL_Prod,88,0.935987257122779,Sector
+Atoka,Utilities,85,0.5458291105927906,Sector

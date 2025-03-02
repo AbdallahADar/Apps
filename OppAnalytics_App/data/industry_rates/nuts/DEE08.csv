@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Burgenlandkreis,749,0.5195864771066345,Overall
+Burgenlandkreis,HiTech,45,0.3576983178907184,Sector
+Burgenlandkreis,Agriculture,14,0.13077208249314343,Sector
+Burgenlandkreis,Transportation,69,0.15565364533324966,Sector
+Burgenlandkreis,Consumer_Products,95,0.6405882722617668,Sector
+Burgenlandkreis,Unassigned,21,0.7192916433301321,Sector
+Burgenlandkreis,Communication,22,0.8800550104278653,Sector
+Burgenlandkreis,Trade,35,0.7824416364271549,Sector
+Burgenlandkreis,Business_Services,66,0.03727024579014926,Sector
+Burgenlandkreis,Business_Products,94,0.6138682919543051,Sector
+Burgenlandkreis,Construction,66,0.9399978322453999,Sector
+Burgenlandkreis,Services,42,0.23580001010501617,Sector
+Burgenlandkreis,Mining,51,0.7538769166159709,Sector
+Burgenlandkreis,Health_Care,52,0.827392430158749,Sector
+Burgenlandkreis,EnergyExpL_Prod,58,0.20150500848375497,Sector
+Burgenlandkreis,Utilities,19,0.5175858130821436,Sector

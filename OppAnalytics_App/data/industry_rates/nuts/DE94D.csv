@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Oldenburg, Landkreis",761,0.49133818126230966,Overall
+"Oldenburg, Landkreis",HiTech,74,0.5899604107603998,Sector
+"Oldenburg, Landkreis",Agriculture,19,0.8222573686891925,Sector
+"Oldenburg, Landkreis",Transportation,52,0.4080814302825738,Sector
+"Oldenburg, Landkreis",Consumer_Products,64,0.7597303996189151,Sector
+"Oldenburg, Landkreis",Unassigned,12,0.662000963697376,Sector
+"Oldenburg, Landkreis",Communication,32,0.47671636277820384,Sector
+"Oldenburg, Landkreis",Trade,17,0.40565920975806646,Sector
+"Oldenburg, Landkreis",Business_Services,39,0.601639140016199,Sector
+"Oldenburg, Landkreis",Business_Products,91,0.5528878034150555,Sector
+"Oldenburg, Landkreis",Construction,21,0.5408642717007257,Sector
+"Oldenburg, Landkreis",Services,26,0.06344219783814364,Sector
+"Oldenburg, Landkreis",Mining,99,0.3530982398460193,Sector
+"Oldenburg, Landkreis",Health_Care,71,0.12073883756061654,Sector
+"Oldenburg, Landkreis",EnergyExpL_Prod,50,0.9689257839651788,Sector
+"Oldenburg, Landkreis",Utilities,94,0.044070299007977654,Sector

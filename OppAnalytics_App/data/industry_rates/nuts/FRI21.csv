@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Corrèze,780,0.5875889584200314,Overall
+Corrèze,HiTech,56,0.5591507179849128,Sector
+Corrèze,Agriculture,46,0.13993329951239986,Sector
+Corrèze,Transportation,88,0.8727890186799202,Sector
+Corrèze,Consumer_Products,73,0.97059144606375,Sector
+Corrèze,Unassigned,72,0.679584765285897,Sector
+Corrèze,Communication,38,0.6545499409703366,Sector
+Corrèze,Trade,61,0.8255034838475943,Sector
+Corrèze,Business_Services,55,0.5026389734739136,Sector
+Corrèze,Business_Products,50,0.8162729489799085,Sector
+Corrèze,Construction,3,0.5213450650734179,Sector
+Corrèze,Services,23,0.3603948498264813,Sector
+Corrèze,Mining,94,0.2835608999752105,Sector
+Corrèze,Health_Care,27,0.1563292418724409,Sector
+Corrèze,EnergyExpL_Prod,94,0.7272264509750132,Sector
+Corrèze,Utilities,0,0.7439632737792734,Sector

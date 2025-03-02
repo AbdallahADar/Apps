@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Larimer,971,0.4475318879536161,Overall
+Larimer,HiTech,36,0.5560704633192147,Sector
+Larimer,Agriculture,74,0.48868384815454935,Sector
+Larimer,Transportation,49,0.5668013538061658,Sector
+Larimer,Consumer_Products,50,0.5019099147526469,Sector
+Larimer,Unassigned,68,0.06224822548155651,Sector
+Larimer,Communication,84,0.7091827530617715,Sector
+Larimer,Trade,75,0.4379582618977287,Sector
+Larimer,Business_Services,96,0.5470638343544496,Sector
+Larimer,Business_Products,87,0.05225524225615563,Sector
+Larimer,Construction,97,0.523437334044225,Sector
+Larimer,Services,93,0.8124628931548012,Sector
+Larimer,Mining,32,0.8270422330770043,Sector
+Larimer,Health_Care,39,0.45457594197003404,Sector
+Larimer,EnergyExpL_Prod,10,0.12615357992686893,Sector
+Larimer,Utilities,81,0.047132440047069846,Sector

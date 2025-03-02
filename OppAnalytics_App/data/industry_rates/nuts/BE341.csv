@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Arlon,570,0.4714434279543451,Overall
+Arr. Arlon,HiTech,36,0.13457094277439585,Sector
+Arr. Arlon,Agriculture,66,0.3784144850414862,Sector
+Arr. Arlon,Transportation,13,0.6148746559449354,Sector
+Arr. Arlon,Consumer_Products,32,0.6106403290727527,Sector
+Arr. Arlon,Unassigned,26,0.3309319223022039,Sector
+Arr. Arlon,Communication,63,0.020779108825834447,Sector
+Arr. Arlon,Trade,51,0.5090624648484553,Sector
+Arr. Arlon,Business_Services,67,0.6088226382116417,Sector
+Arr. Arlon,Business_Products,17,0.01012520147410978,Sector
+Arr. Arlon,Construction,13,0.9942271866765073,Sector
+Arr. Arlon,Services,56,0.30171135415396066,Sector
+Arr. Arlon,Mining,96,0.416474887264342,Sector
+Arr. Arlon,Health_Care,28,0.5456005028087741,Sector
+Arr. Arlon,EnergyExpL_Prod,4,0.8154114252317686,Sector
+Arr. Arlon,Utilities,2,0.7800043146840074,Sector

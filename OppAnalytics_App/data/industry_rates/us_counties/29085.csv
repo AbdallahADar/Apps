@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hickory,805,0.5144335525559915,Overall
+Hickory,HiTech,9,0.8460119062402213,Sector
+Hickory,Agriculture,98,0.05862462718580297,Sector
+Hickory,Transportation,10,0.7297353511565987,Sector
+Hickory,Consumer_Products,82,0.7655080092165724,Sector
+Hickory,Unassigned,58,0.8597054612129379,Sector
+Hickory,Communication,84,0.33586024997095876,Sector
+Hickory,Trade,39,0.17700416418052367,Sector
+Hickory,Business_Services,53,0.529123452146575,Sector
+Hickory,Business_Products,42,0.4228714591933548,Sector
+Hickory,Construction,27,0.5324358142573712,Sector
+Hickory,Services,92,0.27820696966927183,Sector
+Hickory,Mining,49,0.8924910642197251,Sector
+Hickory,Health_Care,38,0.9218720045767276,Sector
+Hickory,EnergyExpL_Prod,70,0.24058587484872807,Sector
+Hickory,Utilities,54,0.1264668802645026,Sector

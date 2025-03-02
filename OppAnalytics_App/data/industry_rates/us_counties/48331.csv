@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Milam,746,0.4135737983478466,Overall
+Milam,HiTech,38,0.6674653485814945,Sector
+Milam,Agriculture,26,0.9537224938134667,Sector
+Milam,Transportation,67,0.4193850989377226,Sector
+Milam,Consumer_Products,33,0.3209458802905455,Sector
+Milam,Unassigned,41,0.010399304701896428,Sector
+Milam,Communication,53,0.12737933062486206,Sector
+Milam,Trade,12,0.934155501338404,Sector
+Milam,Business_Services,5,0.5390970946424427,Sector
+Milam,Business_Products,82,0.051565679305889955,Sector
+Milam,Construction,60,0.8547672314722627,Sector
+Milam,Services,14,0.1521534460836964,Sector
+Milam,Mining,99,0.056407398839842915,Sector
+Milam,Health_Care,92,0.6067742708820112,Sector
+Milam,EnergyExpL_Prod,62,0.21410590245250405,Sector
+Milam,Utilities,62,0.29528299325065643,Sector

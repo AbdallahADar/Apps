@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Saarpfalz-Kreis,706,0.5571065727011475,Overall
+Saarpfalz-Kreis,HiTech,12,0.4466431561395935,Sector
+Saarpfalz-Kreis,Agriculture,18,0.5877251370412985,Sector
+Saarpfalz-Kreis,Transportation,68,0.7511207273208199,Sector
+Saarpfalz-Kreis,Consumer_Products,66,0.18639589487795194,Sector
+Saarpfalz-Kreis,Unassigned,14,0.6589040265942728,Sector
+Saarpfalz-Kreis,Communication,17,0.8629256445335839,Sector
+Saarpfalz-Kreis,Trade,71,0.2811379579408465,Sector
+Saarpfalz-Kreis,Business_Services,51,0.035040375752994124,Sector
+Saarpfalz-Kreis,Business_Products,34,0.735379605971739,Sector
+Saarpfalz-Kreis,Construction,88,0.8168910589159516,Sector
+Saarpfalz-Kreis,Services,54,0.32341375796821903,Sector
+Saarpfalz-Kreis,Mining,42,0.4067195893320217,Sector
+Saarpfalz-Kreis,Health_Care,55,0.6457652798452675,Sector
+Saarpfalz-Kreis,EnergyExpL_Prod,76,0.8768816490573762,Sector
+Saarpfalz-Kreis,Utilities,40,0.7416547292252768,Sector

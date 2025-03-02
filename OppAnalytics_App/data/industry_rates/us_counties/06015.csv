@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Del Norte,760,0.5879691467085597,Overall
+Del Norte,HiTech,40,0.6547003696321817,Sector
+Del Norte,Agriculture,54,0.9067066282382237,Sector
+Del Norte,Transportation,31,0.464334263851655,Sector
+Del Norte,Consumer_Products,66,0.7762061752178885,Sector
+Del Norte,Unassigned,7,0.527906272620443,Sector
+Del Norte,Communication,79,0.11165213151498654,Sector
+Del Norte,Trade,52,0.03424047023740817,Sector
+Del Norte,Business_Services,87,0.5998260784833414,Sector
+Del Norte,Business_Products,13,0.60972984645268,Sector
+Del Norte,Construction,56,0.5108842455454659,Sector
+Del Norte,Services,58,0.46308523025192105,Sector
+Del Norte,Mining,15,0.6890167723394872,Sector
+Del Norte,Health_Care,87,0.7455683480767654,Sector
+Del Norte,EnergyExpL_Prod,85,0.9193316582084213,Sector
+Del Norte,Utilities,30,0.8063487099575273,Sector

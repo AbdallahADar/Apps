@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Garza,973,0.5152421465912819,Overall
+Garza,HiTech,97,0.48997450738203263,Sector
+Garza,Agriculture,79,0.9496077072212258,Sector
+Garza,Transportation,74,0.5593808034535903,Sector
+Garza,Consumer_Products,69,0.1259688559642057,Sector
+Garza,Unassigned,82,0.3086525800117845,Sector
+Garza,Communication,79,0.34308837337786036,Sector
+Garza,Trade,90,0.23604285472792919,Sector
+Garza,Business_Services,67,0.13866883148495757,Sector
+Garza,Business_Products,83,0.659327074219905,Sector
+Garza,Construction,57,0.8657197349575172,Sector
+Garza,Services,67,0.9949340334783507,Sector
+Garza,Mining,20,0.7651994717239432,Sector
+Garza,Health_Care,47,0.3945447808381285,Sector
+Garza,EnergyExpL_Prod,38,0.8066801582883811,Sector
+Garza,Utilities,24,0.0908424317394173,Sector

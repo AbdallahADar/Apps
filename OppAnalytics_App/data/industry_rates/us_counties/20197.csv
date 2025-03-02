@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wabaunsee,857,0.5667079399719382,Overall
+Wabaunsee,HiTech,33,0.5477020697314979,Sector
+Wabaunsee,Agriculture,76,0.5570791352301473,Sector
+Wabaunsee,Transportation,39,0.5926861694403026,Sector
+Wabaunsee,Consumer_Products,82,0.8301234621161814,Sector
+Wabaunsee,Unassigned,60,0.765176577832461,Sector
+Wabaunsee,Communication,81,0.510273911682081,Sector
+Wabaunsee,Trade,15,0.05626545499443214,Sector
+Wabaunsee,Business_Services,69,0.5469887348695799,Sector
+Wabaunsee,Business_Products,79,0.08510401048801408,Sector
+Wabaunsee,Construction,73,0.04117312947616936,Sector
+Wabaunsee,Services,13,0.9546157026956571,Sector
+Wabaunsee,Mining,90,0.28445905787613324,Sector
+Wabaunsee,Health_Care,76,0.8323391794527736,Sector
+Wabaunsee,EnergyExpL_Prod,30,0.9010178807775283,Sector
+Wabaunsee,Utilities,41,0.9956146229161154,Sector

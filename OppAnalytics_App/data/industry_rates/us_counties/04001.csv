@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Apache,774,0.36532347680012267,Overall
+Apache,HiTech,13,0.7832867835532903,Sector
+Apache,Agriculture,10,0.18527462452646315,Sector
+Apache,Transportation,61,0.41326917461960844,Sector
+Apache,Consumer_Products,78,0.024591531748958895,Sector
+Apache,Unassigned,52,0.09767623043548257,Sector
+Apache,Communication,22,0.1788894283696445,Sector
+Apache,Trade,99,0.22110272689926191,Sector
+Apache,Business_Services,80,0.2129298842899079,Sector
+Apache,Business_Products,98,0.9023673778609891,Sector
+Apache,Construction,41,0.49024885429941656,Sector
+Apache,Services,15,0.877543073557883,Sector
+Apache,Mining,74,0.10122057497698134,Sector
+Apache,Health_Care,57,0.19876699007341747,Sector
+Apache,EnergyExpL_Prod,14,0.08695244916481593,Sector
+Apache,Utilities,60,0.7057324476257193,Sector

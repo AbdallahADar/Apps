@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Steele,520,0.49485870446700786,Overall
+Steele,HiTech,2,0.10255618309250714,Sector
+Steele,Agriculture,0,0.9473174743559111,Sector
+Steele,Transportation,81,0.9233702809718278,Sector
+Steele,Consumer_Products,3,0.12883175011888104,Sector
+Steele,Unassigned,35,0.921847660219951,Sector
+Steele,Communication,53,0.11262671294841264,Sector
+Steele,Trade,37,0.08115717921375087,Sector
+Steele,Business_Services,28,0.6409852885294275,Sector
+Steele,Business_Products,21,0.32589304389430607,Sector
+Steele,Construction,42,0.49961253754079527,Sector
+Steele,Services,29,0.7958738597303816,Sector
+Steele,Mining,13,0.747649962351945,Sector
+Steele,Health_Care,90,0.4408330698031193,Sector
+Steele,EnergyExpL_Prod,36,0.7147848602493204,Sector
+Steele,Utilities,50,0.03954070398458165,Sector

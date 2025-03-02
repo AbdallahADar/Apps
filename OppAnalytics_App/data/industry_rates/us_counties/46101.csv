@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Moody,617,0.45526306550657764,Overall
+Moody,HiTech,22,0.9271678049750766,Sector
+Moody,Agriculture,67,0.07152898551523934,Sector
+Moody,Transportation,25,0.8870891988851848,Sector
+Moody,Consumer_Products,7,0.21499326827204013,Sector
+Moody,Unassigned,71,0.31511813981115466,Sector
+Moody,Communication,43,0.44134394513225983,Sector
+Moody,Trade,90,0.33652724443342863,Sector
+Moody,Business_Services,49,0.7695182400987514,Sector
+Moody,Business_Products,9,0.5774458591595704,Sector
+Moody,Construction,6,0.4574085393484191,Sector
+Moody,Services,33,0.05318409259692514,Sector
+Moody,Mining,52,0.5777304748823054,Sector
+Moody,Health_Care,54,0.30247130708959435,Sector
+Moody,EnergyExpL_Prod,78,0.3706629508612094,Sector
+Moody,Utilities,11,0.5267559315375041,Sector

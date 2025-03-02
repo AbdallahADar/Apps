@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,West Carroll,927,0.4502977133796781,Overall
+West Carroll,HiTech,78,0.8691919783530975,Sector
+West Carroll,Agriculture,99,0.9306027433173616,Sector
+West Carroll,Transportation,79,0.0034102095292887213,Sector
+West Carroll,Consumer_Products,2,0.6414034097753084,Sector
+West Carroll,Unassigned,67,0.2838966408895045,Sector
+West Carroll,Communication,2,0.7830054807009419,Sector
+West Carroll,Trade,44,0.12038783807804421,Sector
+West Carroll,Business_Services,53,0.20295184015159917,Sector
+West Carroll,Business_Products,78,0.2736900452198602,Sector
+West Carroll,Construction,75,0.27641801415952605,Sector
+West Carroll,Services,92,0.31741212208284364,Sector
+West Carroll,Mining,84,0.2897005528382539,Sector
+West Carroll,Health_Care,27,0.9900359425543224,Sector
+West Carroll,EnergyExpL_Prod,70,0.07452037998368288,Sector
+West Carroll,Utilities,77,0.697838503061537,Sector

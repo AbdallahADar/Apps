@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Powell,780,0.41603183441272606,Overall
+Powell,HiTech,46,0.29432805931873607,Sector
+Powell,Agriculture,91,0.6455989367699397,Sector
+Powell,Transportation,51,0.7398125853202201,Sector
+Powell,Consumer_Products,98,0.2478589289122125,Sector
+Powell,Unassigned,67,0.13165738131063398,Sector
+Powell,Communication,99,0.08948548325281291,Sector
+Powell,Trade,78,0.5542855492310372,Sector
+Powell,Business_Services,22,0.05630858567969199,Sector
+Powell,Business_Products,25,0.3724919636221501,Sector
+Powell,Construction,7,0.3315853598671823,Sector
+Powell,Services,7,0.635926781230373,Sector
+Powell,Mining,55,0.9959297054882927,Sector
+Powell,Health_Care,22,0.04046287630760581,Sector
+Powell,EnergyExpL_Prod,27,0.8462322139594646,Sector
+Powell,Utilities,85,0.2585131059205381,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bydgosko-toruński,706,0.562409778200978,Overall
+Bydgosko-toruński,HiTech,38,0.38753197343032564,Sector
+Bydgosko-toruński,Agriculture,60,0.8587409696370181,Sector
+Bydgosko-toruński,Transportation,26,0.9748714242219808,Sector
+Bydgosko-toruński,Consumer_Products,38,0.8872568411570665,Sector
+Bydgosko-toruński,Unassigned,0,0.17188071285350115,Sector
+Bydgosko-toruński,Communication,78,0.16087017781571566,Sector
+Bydgosko-toruński,Trade,56,0.6976877284587862,Sector
+Bydgosko-toruński,Business_Services,7,0.29020428414938104,Sector
+Bydgosko-toruński,Business_Products,59,0.7100047067833916,Sector
+Bydgosko-toruński,Construction,81,0.8071899615796799,Sector
+Bydgosko-toruński,Services,20,0.3892497079273294,Sector
+Bydgosko-toruński,Mining,44,0.7461872407540259,Sector
+Bydgosko-toruński,Health_Care,85,0.2680061074346083,Sector
+Bydgosko-toruński,EnergyExpL_Prod,73,0.8838534191613869,Sector
+Bydgosko-toruński,Utilities,41,0.20261141765047275,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stillwater,808,0.4022486816506034,Overall
+Stillwater,HiTech,38,0.37772284100795905,Sector
+Stillwater,Agriculture,56,0.5602226342746353,Sector
+Stillwater,Transportation,53,0.13857743019700253,Sector
+Stillwater,Consumer_Products,77,0.017500547538960687,Sector
+Stillwater,Unassigned,76,0.6128815932577253,Sector
+Stillwater,Communication,34,0.4831023535343698,Sector
+Stillwater,Trade,51,0.036749848019031583,Sector
+Stillwater,Business_Services,78,0.2505264505912167,Sector
+Stillwater,Business_Products,25,0.24745244069233285,Sector
+Stillwater,Construction,2,0.5729498307351675,Sector
+Stillwater,Services,76,0.8671013282880683,Sector
+Stillwater,Mining,88,0.22395464612767468,Sector
+Stillwater,Health_Care,30,0.5620745274811558,Sector
+Stillwater,EnergyExpL_Prod,58,0.8565415171716033,Sector
+Stillwater,Utilities,66,0.22637223584214705,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Richland,895,0.5380203449849525,Overall
+Richland,HiTech,68,0.7990641021775071,Sector
+Richland,Agriculture,66,0.8778856562430254,Sector
+Richland,Transportation,20,0.003076301633565537,Sector
+Richland,Consumer_Products,78,0.9236210781407466,Sector
+Richland,Unassigned,89,0.5171592838481608,Sector
+Richland,Communication,26,0.8863900651927035,Sector
+Richland,Trade,79,0.3471749430146165,Sector
+Richland,Business_Services,53,0.21417652057888903,Sector
+Richland,Business_Products,80,0.218852996536968,Sector
+Richland,Construction,24,0.539751019156028,Sector
+Richland,Services,75,0.5404187175729497,Sector
+Richland,Mining,66,0.6900667058894052,Sector
+Richland,Health_Care,89,0.7154080362527889,Sector
+Richland,EnergyExpL_Prod,30,0.38280317665263164,Sector
+Richland,Utilities,52,0.41445657188430374,Sector

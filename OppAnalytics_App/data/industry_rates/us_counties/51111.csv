@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lunenburg,454,0.4879502410287128,Overall
+Lunenburg,HiTech,3,0.586679336268065,Sector
+Lunenburg,Agriculture,7,0.44189201690071334,Sector
+Lunenburg,Transportation,66,0.6765292921903568,Sector
+Lunenburg,Consumer_Products,84,0.03623470832077502,Sector
+Lunenburg,Unassigned,64,0.3699014493527035,Sector
+Lunenburg,Communication,13,0.30374908950646673,Sector
+Lunenburg,Trade,54,0.5694159200708689,Sector
+Lunenburg,Business_Services,18,0.46870653668669127,Sector
+Lunenburg,Business_Products,19,0.8473885606099786,Sector
+Lunenburg,Construction,47,0.8557690769659675,Sector
+Lunenburg,Services,16,0.5387419812046659,Sector
+Lunenburg,Mining,12,0.6374859647213155,Sector
+Lunenburg,Health_Care,31,0.35780303089046817,Sector
+Lunenburg,EnergyExpL_Prod,6,0.16642007609468412,Sector
+Lunenburg,Utilities,14,0.46253657564697226,Sector

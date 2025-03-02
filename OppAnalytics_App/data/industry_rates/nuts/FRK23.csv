@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Drôme,507,0.535496570364247,Overall
+Drôme,HiTech,21,0.012184451561615295,Sector
+Drôme,Agriculture,33,0.4827777315627092,Sector
+Drôme,Transportation,58,0.13090461926064045,Sector
+Drôme,Consumer_Products,9,0.8717098784702372,Sector
+Drôme,Unassigned,6,0.22649651926654846,Sector
+Drôme,Communication,79,0.7567634938580151,Sector
+Drôme,Trade,12,0.7539033309613667,Sector
+Drôme,Business_Services,28,0.6686337609578342,Sector
+Drôme,Business_Products,24,0.8651456985930788,Sector
+Drôme,Construction,78,0.8934327531873993,Sector
+Drôme,Services,7,0.7879418991578552,Sector
+Drôme,Mining,35,0.028179703154833313,Sector
+Drôme,Health_Care,37,0.11342193123784783,Sector
+Drôme,EnergyExpL_Prod,13,0.5201760245112493,Sector
+Drôme,Utilities,67,0.9207767597224756,Sector

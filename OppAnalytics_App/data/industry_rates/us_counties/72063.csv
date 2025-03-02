@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gurabo,814,0.5992393871224803,Overall
+Gurabo,HiTech,63,0.21874800088683166,Sector
+Gurabo,Agriculture,83,0.48003884269412644,Sector
+Gurabo,Transportation,81,0.9769304075446709,Sector
+Gurabo,Consumer_Products,48,0.5319332436722739,Sector
+Gurabo,Unassigned,50,0.01983717638267002,Sector
+Gurabo,Communication,39,0.8041226842088558,Sector
+Gurabo,Trade,21,0.43128004968441613,Sector
+Gurabo,Business_Services,58,0.7906948334798969,Sector
+Gurabo,Business_Products,89,0.7680274862155739,Sector
+Gurabo,Construction,13,0.9252084726095029,Sector
+Gurabo,Services,9,0.968936813809105,Sector
+Gurabo,Mining,98,0.4818245710505651,Sector
+Gurabo,Health_Care,38,0.16664796470487697,Sector
+Gurabo,EnergyExpL_Prod,56,0.5347111882759793,Sector
+Gurabo,Utilities,68,0.8896490716178586,Sector

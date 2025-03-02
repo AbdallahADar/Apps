@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zasavska,799,0.5312538378158104,Overall
+Zasavska,HiTech,58,0.47388505817667703,Sector
+Zasavska,Agriculture,59,0.1967006407443357,Sector
+Zasavska,Transportation,50,0.26765946859828904,Sector
+Zasavska,Consumer_Products,76,0.7653428512285496,Sector
+Zasavska,Unassigned,37,0.30761167093789343,Sector
+Zasavska,Communication,67,0.22977916738817372,Sector
+Zasavska,Trade,11,0.9150546440364833,Sector
+Zasavska,Business_Services,79,0.6828772821233569,Sector
+Zasavska,Business_Products,32,0.7371408905233109,Sector
+Zasavska,Construction,47,0.32188116698329095,Sector
+Zasavska,Services,12,0.6213247857925216,Sector
+Zasavska,Mining,90,0.6408749323953933,Sector
+Zasavska,Health_Care,91,0.8491024265088049,Sector
+Zasavska,EnergyExpL_Prod,59,0.42099715018311146,Sector
+Zasavska,Utilities,31,0.5385754316169659,Sector

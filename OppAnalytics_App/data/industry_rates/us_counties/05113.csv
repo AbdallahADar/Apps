@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Polk,790,0.4915960487407828,Overall
+Polk,HiTech,23,0.8306910306253922,Sector
+Polk,Agriculture,91,0.32681969543216416,Sector
+Polk,Transportation,66,0.5860113485333512,Sector
+Polk,Consumer_Products,57,0.36409616097098096,Sector
+Polk,Unassigned,87,0.7506894363912064,Sector
+Polk,Communication,94,0.7582567757775903,Sector
+Polk,Trade,21,0.7426505448941945,Sector
+Polk,Business_Services,94,0.10249997055588289,Sector
+Polk,Business_Products,85,0.5220090845743562,Sector
+Polk,Construction,12,0.9423102792539555,Sector
+Polk,Services,5,0.16921505937518277,Sector
+Polk,Mining,6,0.19231605745760083,Sector
+Polk,Health_Care,71,0.17728095211895167,Sector
+Polk,EnergyExpL_Prod,66,0.38557636536332807,Sector
+Polk,Utilities,12,0.5235179697876055,Sector

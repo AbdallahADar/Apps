@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Piatt,795,0.49977278564010397,Overall
+Piatt,HiTech,79,0.23498866171006605,Sector
+Piatt,Agriculture,71,0.01336044511875345,Sector
+Piatt,Transportation,41,0.5121504171829435,Sector
+Piatt,Consumer_Products,7,0.04620073374395672,Sector
+Piatt,Unassigned,99,0.0631316142514835,Sector
+Piatt,Communication,94,0.9432818228234217,Sector
+Piatt,Trade,43,0.6986765279587998,Sector
+Piatt,Business_Services,61,0.2675444030722698,Sector
+Piatt,Business_Products,39,0.25537151088938637,Sector
+Piatt,Construction,95,0.746898293280891,Sector
+Piatt,Services,82,0.9366571318428139,Sector
+Piatt,Mining,6,0.5108794289401374,Sector
+Piatt,Health_Care,32,0.6989233894852485,Sector
+Piatt,EnergyExpL_Prod,25,0.6077799830268665,Sector
+Piatt,Utilities,21,0.9607474212745217,Sector

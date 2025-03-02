@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tiroler Unterland,554,0.4357146066001751,Overall
+Tiroler Unterland,HiTech,73,0.6954870112176792,Sector
+Tiroler Unterland,Agriculture,23,0.31729148464949075,Sector
+Tiroler Unterland,Transportation,60,0.7799836858935346,Sector
+Tiroler Unterland,Consumer_Products,6,0.6635801612084026,Sector
+Tiroler Unterland,Unassigned,72,0.207358442930753,Sector
+Tiroler Unterland,Communication,34,0.3832788836085722,Sector
+Tiroler Unterland,Trade,45,0.5199495444219419,Sector
+Tiroler Unterland,Business_Services,0,0.03126541136563399,Sector
+Tiroler Unterland,Business_Products,24,0.8394827668643778,Sector
+Tiroler Unterland,Construction,76,0.13104531714184864,Sector
+Tiroler Unterland,Services,0,0.23230094391623535,Sector
+Tiroler Unterland,Mining,35,0.4465003006170998,Sector
+Tiroler Unterland,Health_Care,39,0.058785758565012114,Sector
+Tiroler Unterland,EnergyExpL_Prod,37,0.728799390273889,Sector
+Tiroler Unterland,Utilities,30,0.5006099963281562,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Walton,722,0.5519296769522444,Overall
+Walton,HiTech,86,0.6646712729673897,Sector
+Walton,Agriculture,14,0.5813776472567261,Sector
+Walton,Transportation,86,0.13151912355035134,Sector
+Walton,Consumer_Products,82,0.7214655017897753,Sector
+Walton,Unassigned,88,0.42442448813939826,Sector
+Walton,Communication,10,0.14842676475047334,Sector
+Walton,Trade,0,0.9523400174934474,Sector
+Walton,Business_Services,3,0.9524454486988476,Sector
+Walton,Business_Products,46,0.5241724887642978,Sector
+Walton,Construction,90,0.8401945307565488,Sector
+Walton,Services,38,0.23147082161912225,Sector
+Walton,Mining,62,0.8971547440783696,Sector
+Walton,Health_Care,71,0.18378567788783973,Sector
+Walton,EnergyExpL_Prod,6,0.8927959728090228,Sector
+Walton,Utilities,40,0.13270065372205408,Sector

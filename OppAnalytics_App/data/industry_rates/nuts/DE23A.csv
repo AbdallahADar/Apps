@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tirschenreuth,751,0.4499242527366562,Overall
+Tirschenreuth,HiTech,92,0.17746729480864565,Sector
+Tirschenreuth,Agriculture,57,0.2802086336604829,Sector
+Tirschenreuth,Transportation,97,0.9460441945612409,Sector
+Tirschenreuth,Consumer_Products,35,0.38752967849529574,Sector
+Tirschenreuth,Unassigned,76,0.5510682426662128,Sector
+Tirschenreuth,Communication,24,0.059717003820621395,Sector
+Tirschenreuth,Trade,20,0.7926830455067814,Sector
+Tirschenreuth,Business_Services,98,0.0157063548520463,Sector
+Tirschenreuth,Business_Products,62,0.1636915443749598,Sector
+Tirschenreuth,Construction,8,0.6646421590125167,Sector
+Tirschenreuth,Services,72,0.236974862775578,Sector
+Tirschenreuth,Mining,21,0.8811326918728773,Sector
+Tirschenreuth,Health_Care,34,0.13887086568048024,Sector
+Tirschenreuth,EnergyExpL_Prod,21,0.7827312050589031,Sector
+Tirschenreuth,Utilities,34,0.6703960139032005,Sector

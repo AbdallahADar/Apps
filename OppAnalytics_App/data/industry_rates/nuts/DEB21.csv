@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Trier, Kreisfreie Stadt",706,0.4092798858442618,Overall
+"Trier, Kreisfreie Stadt",HiTech,88,0.1815278409013632,Sector
+"Trier, Kreisfreie Stadt",Agriculture,1,0.3306816392645303,Sector
+"Trier, Kreisfreie Stadt",Transportation,44,0.09511458426748953,Sector
+"Trier, Kreisfreie Stadt",Consumer_Products,11,0.5852272570058139,Sector
+"Trier, Kreisfreie Stadt",Unassigned,14,0.3486686198054213,Sector
+"Trier, Kreisfreie Stadt",Communication,32,0.5889332934509924,Sector
+"Trier, Kreisfreie Stadt",Trade,67,0.20473655407206004,Sector
+"Trier, Kreisfreie Stadt",Business_Services,30,0.09105165124045567,Sector
+"Trier, Kreisfreie Stadt",Business_Products,37,0.3465735454060972,Sector
+"Trier, Kreisfreie Stadt",Construction,89,0.5370233635846695,Sector
+"Trier, Kreisfreie Stadt",Services,95,0.4861339236493911,Sector
+"Trier, Kreisfreie Stadt",Mining,51,0.9455788248441164,Sector
+"Trier, Kreisfreie Stadt",Health_Care,82,0.36880682669002085,Sector
+"Trier, Kreisfreie Stadt",EnergyExpL_Prod,46,0.1237338151281745,Sector
+"Trier, Kreisfreie Stadt",Utilities,19,0.905406548353332,Sector

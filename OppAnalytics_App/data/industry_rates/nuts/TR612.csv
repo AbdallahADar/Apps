@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Isparta,735,0.5219627591131903,Overall
+Isparta,HiTech,8,0.6206088983136256,Sector
+Isparta,Agriculture,80,0.8648343556465666,Sector
+Isparta,Transportation,30,0.4561522240594874,Sector
+Isparta,Consumer_Products,23,0.5235299697435676,Sector
+Isparta,Unassigned,45,0.8151294520397997,Sector
+Isparta,Communication,17,0.8803498628565795,Sector
+Isparta,Trade,65,0.8238255620777191,Sector
+Isparta,Business_Services,92,0.7036049394059167,Sector
+Isparta,Business_Products,30,0.08981838491793637,Sector
+Isparta,Construction,6,0.12659888252042295,Sector
+Isparta,Services,87,0.09708468039958329,Sector
+Isparta,Mining,62,0.5572786785774524,Sector
+Isparta,Health_Care,98,0.6450962582715575,Sector
+Isparta,EnergyExpL_Prod,0,0.30485691000348347,Sector
+Isparta,Utilities,92,0.32067232786415834,Sector

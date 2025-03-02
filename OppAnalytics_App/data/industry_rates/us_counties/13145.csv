@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Harris,557,0.5323898011076289,Overall
+Harris,HiTech,14,0.9221207730301557,Sector
+Harris,Agriculture,16,0.5363323042698583,Sector
+Harris,Transportation,88,0.7648735226261186,Sector
+Harris,Consumer_Products,18,0.45950092647750207,Sector
+Harris,Unassigned,2,0.5763797267131957,Sector
+Harris,Communication,51,0.3564422837912705,Sector
+Harris,Trade,53,0.8640361156355929,Sector
+Harris,Business_Services,56,0.07241055335833835,Sector
+Harris,Business_Products,36,0.025837230404715195,Sector
+Harris,Construction,15,0.9844601688455017,Sector
+Harris,Services,10,0.6327909539297293,Sector
+Harris,Mining,26,0.18009074645240286,Sector
+Harris,Health_Care,41,0.2342723122504874,Sector
+Harris,EnergyExpL_Prod,43,0.6329650914106002,Sector
+Harris,Utilities,88,0.7433343074189662,Sector

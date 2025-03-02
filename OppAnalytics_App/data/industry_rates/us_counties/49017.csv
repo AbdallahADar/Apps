@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Garfield,609,0.5041206800402234,Overall
+Garfield,HiTech,96,0.39627040012760273,Sector
+Garfield,Agriculture,47,0.7611464274847414,Sector
+Garfield,Transportation,14,0.37473969535627893,Sector
+Garfield,Consumer_Products,58,0.07000344292308114,Sector
+Garfield,Unassigned,55,0.8830273956545514,Sector
+Garfield,Communication,71,0.5172186544182218,Sector
+Garfield,Trade,50,0.4166307059214037,Sector
+Garfield,Business_Services,63,0.5886779997281765,Sector
+Garfield,Business_Products,22,0.8250713403561131,Sector
+Garfield,Construction,7,0.04478476051065827,Sector
+Garfield,Services,37,0.9411310574877995,Sector
+Garfield,Mining,63,0.3140392885591097,Sector
+Garfield,Health_Care,12,0.7076260429880308,Sector
+Garfield,EnergyExpL_Prod,4,0.38541311859564165,Sector
+Garfield,Utilities,10,0.3360298704919402,Sector

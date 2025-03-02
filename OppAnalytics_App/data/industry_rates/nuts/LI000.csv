@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Liechtenstein,765,0.48772746781725584,Overall
+Liechtenstein,HiTech,48,0.5911754456796524,Sector
+Liechtenstein,Agriculture,84,0.8153736625988524,Sector
+Liechtenstein,Transportation,37,0.040632505054268075,Sector
+Liechtenstein,Consumer_Products,4,0.9832197714226539,Sector
+Liechtenstein,Unassigned,21,0.02410365843279838,Sector
+Liechtenstein,Communication,34,0.8525456820440084,Sector
+Liechtenstein,Trade,90,0.4117399507904621,Sector
+Liechtenstein,Business_Services,16,0.04113913055403162,Sector
+Liechtenstein,Business_Products,20,0.8994375393215801,Sector
+Liechtenstein,Construction,71,0.20704437885944804,Sector
+Liechtenstein,Services,75,0.23890917697040714,Sector
+Liechtenstein,Mining,65,0.3417236086839067,Sector
+Liechtenstein,Health_Care,92,0.573095090547243,Sector
+Liechtenstein,EnergyExpL_Prod,30,0.365991343390078,Sector
+Liechtenstein,Utilities,78,0.9297810729094477,Sector

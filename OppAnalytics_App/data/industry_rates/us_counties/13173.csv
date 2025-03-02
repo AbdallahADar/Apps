@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lanier,706,0.5351301973557575,Overall
+Lanier,HiTech,22,0.5800217962558707,Sector
+Lanier,Agriculture,40,0.14858288168987488,Sector
+Lanier,Transportation,30,0.08722099352139179,Sector
+Lanier,Consumer_Products,84,0.021318274743667764,Sector
+Lanier,Unassigned,50,0.6610273496829566,Sector
+Lanier,Communication,19,0.6199901277878951,Sector
+Lanier,Trade,65,0.6938056389443783,Sector
+Lanier,Business_Services,41,0.7768188819535905,Sector
+Lanier,Business_Products,95,0.8189208520475155,Sector
+Lanier,Construction,34,0.539599716202185,Sector
+Lanier,Services,36,0.7661086246299007,Sector
+Lanier,Mining,55,0.6320053209044784,Sector
+Lanier,Health_Care,30,0.7030561692519344,Sector
+Lanier,EnergyExpL_Prod,27,0.2928777418867483,Sector
+Lanier,Utilities,78,0.6855985908339753,Sector

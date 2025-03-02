@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jack,665,0.511258551752665,Overall
+Jack,HiTech,23,0.9871320115554453,Sector
+Jack,Agriculture,50,0.9475614764525457,Sector
+Jack,Transportation,98,0.6148374204085579,Sector
+Jack,Consumer_Products,68,0.5120018323261735,Sector
+Jack,Unassigned,11,0.15742730084776546,Sector
+Jack,Communication,80,0.8424429235358388,Sector
+Jack,Trade,61,0.2294353802299044,Sector
+Jack,Business_Services,10,0.684935621051286,Sector
+Jack,Business_Products,17,0.8424740796533701,Sector
+Jack,Construction,19,0.33218203985271266,Sector
+Jack,Services,62,0.1548622411371875,Sector
+Jack,Mining,54,0.5803763310183078,Sector
+Jack,Health_Care,2,0.20584053806089087,Sector
+Jack,EnergyExpL_Prod,93,0.5620208293920312,Sector
+Jack,Utilities,17,0.015348250767957428,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Somervell,692,0.4262387024546816,Overall
+Somervell,HiTech,42,0.1068768332678608,Sector
+Somervell,Agriculture,53,0.9778131174006965,Sector
+Somervell,Transportation,51,0.1626466520800086,Sector
+Somervell,Consumer_Products,59,0.7295453380204868,Sector
+Somervell,Unassigned,69,0.2559272932988689,Sector
+Somervell,Communication,26,0.5407398249564774,Sector
+Somervell,Trade,62,0.831305961030971,Sector
+Somervell,Business_Services,5,0.3072223144800379,Sector
+Somervell,Business_Products,95,0.13184986933423637,Sector
+Somervell,Construction,56,0.17520105741051906,Sector
+Somervell,Services,10,0.35942298039621157,Sector
+Somervell,Mining,25,0.11108284603787089,Sector
+Somervell,Health_Care,73,0.37986578432932405,Sector
+Somervell,EnergyExpL_Prod,10,0.3446602938261125,Sector
+Somervell,Utilities,56,0.9794203709505427,Sector

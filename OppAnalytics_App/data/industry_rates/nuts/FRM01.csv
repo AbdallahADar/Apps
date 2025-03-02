@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Corse-du-Sud,767,0.5040227717506931,Overall
+Corse-du-Sud,HiTech,23,0.7158653058872195,Sector
+Corse-du-Sud,Agriculture,29,0.4185420452040388,Sector
+Corse-du-Sud,Transportation,1,0.02270585835700445,Sector
+Corse-du-Sud,Consumer_Products,95,0.6854210339763877,Sector
+Corse-du-Sud,Unassigned,62,0.8377861555066576,Sector
+Corse-du-Sud,Communication,22,0.04089532746536062,Sector
+Corse-du-Sud,Trade,55,0.3987736729693927,Sector
+Corse-du-Sud,Business_Services,98,0.9938690655596913,Sector
+Corse-du-Sud,Business_Products,96,0.5291520576980893,Sector
+Corse-du-Sud,Construction,17,0.8463059112740391,Sector
+Corse-du-Sud,Services,45,0.8228169944793211,Sector
+Corse-du-Sud,Mining,36,0.4499940733418387,Sector
+Corse-du-Sud,Health_Care,36,0.21913812860079696,Sector
+Corse-du-Sud,EnergyExpL_Prod,56,0.42338824788639895,Sector
+Corse-du-Sud,Utilities,96,0.15568769805416105,Sector

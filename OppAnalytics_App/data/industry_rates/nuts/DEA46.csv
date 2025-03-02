@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Minden-Lübbecke,507,0.6182142153113699,Overall
+Minden-Lübbecke,HiTech,40,0.7120783503892197,Sector
+Minden-Lübbecke,Agriculture,41,0.7266674646974088,Sector
+Minden-Lübbecke,Transportation,58,0.6644040886515017,Sector
+Minden-Lübbecke,Consumer_Products,61,0.038994719185460824,Sector
+Minden-Lübbecke,Unassigned,50,0.4640866248088933,Sector
+Minden-Lübbecke,Communication,74,0.5743784009278866,Sector
+Minden-Lübbecke,Trade,5,0.8854857184423139,Sector
+Minden-Lübbecke,Business_Services,30,0.39531082869167333,Sector
+Minden-Lübbecke,Business_Products,48,0.15119576949302238,Sector
+Minden-Lübbecke,Construction,26,0.9686855538067645,Sector
+Minden-Lübbecke,Services,31,0.8420621036602031,Sector
+Minden-Lübbecke,Mining,31,0.6729666850429488,Sector
+Minden-Lübbecke,Health_Care,5,0.8227061934050405,Sector
+Minden-Lübbecke,EnergyExpL_Prod,0,0.83764640438762,Sector
+Minden-Lübbecke,Utilities,7,0.5165443240805889,Sector

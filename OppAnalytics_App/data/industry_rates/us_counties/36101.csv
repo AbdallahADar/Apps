@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Steuben,464,0.6490688862419357,Overall
+Steuben,HiTech,76,0.6836154769280958,Sector
+Steuben,Agriculture,11,0.38234349608557194,Sector
+Steuben,Transportation,4,0.8769522709655901,Sector
+Steuben,Consumer_Products,21,0.6879993132026179,Sector
+Steuben,Unassigned,6,0.643924008299854,Sector
+Steuben,Communication,57,0.6138502634065843,Sector
+Steuben,Trade,29,0.9203485982046252,Sector
+Steuben,Business_Services,27,0.3791742306252043,Sector
+Steuben,Business_Products,12,0.6222577681370094,Sector
+Steuben,Construction,19,0.6387607450405061,Sector
+Steuben,Services,24,0.7234409694278043,Sector
+Steuben,Mining,46,0.7088798655100144,Sector
+Steuben,Health_Care,89,0.7209355655208162,Sector
+Steuben,EnergyExpL_Prod,1,0.30241984251797394,Sector
+Steuben,Utilities,42,0.8311308797567676,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Charles,623,0.44007338880991537,Overall
+Charles,HiTech,24,0.6855583167725986,Sector
+Charles,Agriculture,8,0.7212543036048312,Sector
+Charles,Transportation,74,0.982144715337947,Sector
+Charles,Consumer_Products,50,0.9834562329830357,Sector
+Charles,Unassigned,41,0.16430630488385212,Sector
+Charles,Communication,27,0.387279723183272,Sector
+Charles,Trade,79,0.048420619731976866,Sector
+Charles,Business_Services,62,0.07066825792887577,Sector
+Charles,Business_Products,35,0.3412889283596451,Sector
+Charles,Construction,38,0.33394571653509697,Sector
+Charles,Services,21,0.24519021897169002,Sector
+Charles,Mining,86,0.2739383911442477,Sector
+Charles,Health_Care,0,0.6785874585752744,Sector
+Charles,EnergyExpL_Prod,36,0.027647336513411003,Sector
+Charles,Utilities,42,0.6574143076229764,Sector

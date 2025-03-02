@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Skåne län,770,0.45514768676377143,Overall
+Skåne län,HiTech,17,0.8292527947414338,Sector
+Skåne län,Agriculture,71,0.5276822484061979,Sector
+Skåne län,Transportation,80,0.946182430445802,Sector
+Skåne län,Consumer_Products,47,0.05196112505377137,Sector
+Skåne län,Unassigned,5,0.3968677201723402,Sector
+Skåne län,Communication,64,0.4761935131035332,Sector
+Skåne län,Trade,27,0.30288144365214786,Sector
+Skåne län,Business_Services,84,0.5366281844186649,Sector
+Skåne län,Business_Products,26,0.40105318378325483,Sector
+Skåne län,Construction,68,0.19582663843078252,Sector
+Skåne län,Services,39,0.6196210212916058,Sector
+Skåne län,Mining,48,0.09088644854520489,Sector
+Skåne län,Health_Care,91,0.6579083666799678,Sector
+Skåne län,EnergyExpL_Prod,72,0.7183471557452039,Sector
+Skåne län,Utilities,31,0.07592302698666109,Sector

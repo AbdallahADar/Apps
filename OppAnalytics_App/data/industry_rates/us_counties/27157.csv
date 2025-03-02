@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wabasha,814,0.5598901549620177,Overall
+Wabasha,HiTech,9,0.2167251487297488,Sector
+Wabasha,Agriculture,80,0.9515844496979213,Sector
+Wabasha,Transportation,58,0.31999937462949624,Sector
+Wabasha,Consumer_Products,54,0.9861886305773313,Sector
+Wabasha,Unassigned,19,0.26845621947669007,Sector
+Wabasha,Communication,65,0.1333525706054145,Sector
+Wabasha,Trade,98,0.7501231530285273,Sector
+Wabasha,Business_Services,71,0.722693911785556,Sector
+Wabasha,Business_Products,3,0.7809639020720777,Sector
+Wabasha,Construction,22,0.2504905181876139,Sector
+Wabasha,Services,80,0.19872902314842988,Sector
+Wabasha,Mining,86,0.0896781290913865,Sector
+Wabasha,Health_Care,23,0.8327863666245997,Sector
+Wabasha,EnergyExpL_Prod,73,0.9578190704222549,Sector
+Wabasha,Utilities,73,0.9387618563532167,Sector

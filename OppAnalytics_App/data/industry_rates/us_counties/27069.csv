@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kittson,725,0.5360422245793462,Overall
+Kittson,HiTech,83,0.9294661195801713,Sector
+Kittson,Agriculture,21,0.8262897302824422,Sector
+Kittson,Transportation,76,0.554809506011596,Sector
+Kittson,Consumer_Products,14,0.3573548862018361,Sector
+Kittson,Unassigned,14,0.5091007058690652,Sector
+Kittson,Communication,68,0.4539602434782496,Sector
+Kittson,Trade,92,0.9653583075289501,Sector
+Kittson,Business_Services,46,0.13421794446865665,Sector
+Kittson,Business_Products,52,0.19213870636230046,Sector
+Kittson,Construction,61,0.5438462915317595,Sector
+Kittson,Services,81,0.9860339844200842,Sector
+Kittson,Mining,30,0.8672291884543744,Sector
+Kittson,Health_Care,26,0.2402643670610458,Sector
+Kittson,EnergyExpL_Prod,60,0.40280329492758826,Sector
+Kittson,Utilities,1,0.07776009251207616,Sector

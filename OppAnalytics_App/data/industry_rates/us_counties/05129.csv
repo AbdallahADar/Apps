@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Searcy,503,0.5185001262256405,Overall
+Searcy,HiTech,52,0.6918243567895082,Sector
+Searcy,Agriculture,19,0.5334241001998469,Sector
+Searcy,Transportation,0,0.18304974844485333,Sector
+Searcy,Consumer_Products,99,0.23456617731675644,Sector
+Searcy,Unassigned,43,0.5925798233676424,Sector
+Searcy,Communication,38,0.12919811063135256,Sector
+Searcy,Trade,11,0.13550813434621634,Sector
+Searcy,Business_Services,27,0.939255315798812,Sector
+Searcy,Business_Products,89,0.7207650282139347,Sector
+Searcy,Construction,4,0.7646842160457474,Sector
+Searcy,Services,9,0.9500734814026535,Sector
+Searcy,Mining,21,0.3990792997102124,Sector
+Searcy,Health_Care,36,0.427556881203522,Sector
+Searcy,EnergyExpL_Prod,44,0.6778925476585484,Sector
+Searcy,Utilities,11,0.3980446722550002,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Coconino,667,0.5734091162250189,Overall
+Coconino,HiTech,12,0.37582060605408407,Sector
+Coconino,Agriculture,49,0.6082197370074873,Sector
+Coconino,Transportation,68,0.563948740153968,Sector
+Coconino,Consumer_Products,59,0.07390325396185027,Sector
+Coconino,Unassigned,18,0.9346589445471328,Sector
+Coconino,Communication,46,0.04474652559484915,Sector
+Coconino,Trade,77,0.4136863415097387,Sector
+Coconino,Business_Services,66,0.822317609800497,Sector
+Coconino,Business_Products,1,0.6715089147363159,Sector
+Coconino,Construction,54,0.8546793681190871,Sector
+Coconino,Services,37,0.5006356296717467,Sector
+Coconino,Mining,77,0.7026457706962898,Sector
+Coconino,Health_Care,26,0.6894729525835729,Sector
+Coconino,EnergyExpL_Prod,42,0.6107032166589298,Sector
+Coconino,Utilities,35,0.7341891322797341,Sector

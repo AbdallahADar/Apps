@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sofia (stolitsa),793,0.5371110431337469,Overall
+Sofia (stolitsa),HiTech,67,0.7327065663274336,Sector
+Sofia (stolitsa),Agriculture,20,0.22888875899766692,Sector
+Sofia (stolitsa),Transportation,49,0.01453880449365108,Sector
+Sofia (stolitsa),Consumer_Products,31,0.8156094180518793,Sector
+Sofia (stolitsa),Unassigned,51,0.16244659572821818,Sector
+Sofia (stolitsa),Communication,54,0.48781222335054186,Sector
+Sofia (stolitsa),Trade,99,0.21981278891094091,Sector
+Sofia (stolitsa),Business_Services,52,0.3248198281522995,Sector
+Sofia (stolitsa),Business_Products,49,0.9377367286007011,Sector
+Sofia (stolitsa),Construction,80,0.8416040511831918,Sector
+Sofia (stolitsa),Services,71,0.6265588754257969,Sector
+Sofia (stolitsa),Mining,13,0.5795404093869587,Sector
+Sofia (stolitsa),Health_Care,46,0.7344270902788512,Sector
+Sofia (stolitsa),EnergyExpL_Prod,74,0.9072751055963697,Sector
+Sofia (stolitsa),Utilities,37,0.4428884025217026,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Simpson,773,0.3829755586191315,Overall
+Simpson,HiTech,18,0.17212597983596956,Sector
+Simpson,Agriculture,16,0.4900266691333197,Sector
+Simpson,Transportation,0,0.3703274298926642,Sector
+Simpson,Consumer_Products,92,0.4078277672111241,Sector
+Simpson,Unassigned,99,0.560375816146096,Sector
+Simpson,Communication,56,0.6043619390126159,Sector
+Simpson,Trade,71,0.5034109364914641,Sector
+Simpson,Business_Services,53,0.17051093766702796,Sector
+Simpson,Business_Products,47,0.8039748538456133,Sector
+Simpson,Construction,75,0.14226270238782512,Sector
+Simpson,Services,92,0.3819982500137963,Sector
+Simpson,Mining,28,0.05576675818436849,Sector
+Simpson,Health_Care,11,0.7068948210865418,Sector
+Simpson,EnergyExpL_Prod,92,0.24801162378578723,Sector
+Simpson,Utilities,23,0.1267568945927584,Sector

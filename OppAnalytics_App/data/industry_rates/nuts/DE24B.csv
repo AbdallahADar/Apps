@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kulmbach,764,0.5115721635111911,Overall
+Kulmbach,HiTech,14,0.17860183873644053,Sector
+Kulmbach,Agriculture,91,0.4035103214590977,Sector
+Kulmbach,Transportation,13,0.8254854894333874,Sector
+Kulmbach,Consumer_Products,85,0.692858542062702,Sector
+Kulmbach,Unassigned,19,0.5191529901477866,Sector
+Kulmbach,Communication,50,0.9338833207484682,Sector
+Kulmbach,Trade,4,0.47595754059392403,Sector
+Kulmbach,Business_Services,65,0.292056638550928,Sector
+Kulmbach,Business_Products,75,0.005108222485765368,Sector
+Kulmbach,Construction,70,0.41205073064711495,Sector
+Kulmbach,Services,83,0.7285803598831087,Sector
+Kulmbach,Mining,75,0.5142487224097814,Sector
+Kulmbach,Health_Care,8,0.08301135706984952,Sector
+Kulmbach,EnergyExpL_Prod,71,0.8762022957352731,Sector
+Kulmbach,Utilities,41,0.7328740827042385,Sector

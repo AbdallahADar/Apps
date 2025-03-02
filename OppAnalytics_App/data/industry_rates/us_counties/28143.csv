@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tunica,825,0.440162919727669,Overall
+Tunica,HiTech,51,0.28116288895873975,Sector
+Tunica,Agriculture,65,0.12047887594887374,Sector
+Tunica,Transportation,76,0.9480400909051862,Sector
+Tunica,Consumer_Products,88,0.6759525333169979,Sector
+Tunica,Unassigned,83,0.0242507667466354,Sector
+Tunica,Communication,30,0.00850520287681178,Sector
+Tunica,Trade,17,0.062119949757947546,Sector
+Tunica,Business_Services,66,0.9424288706436006,Sector
+Tunica,Business_Products,58,0.6929716328666738,Sector
+Tunica,Construction,32,0.26973673124240705,Sector
+Tunica,Services,64,0.5421018986755702,Sector
+Tunica,Mining,35,0.4545110486144852,Sector
+Tunica,Health_Care,89,0.5348440886971435,Sector
+Tunica,EnergyExpL_Prod,66,0.11317573968032535,Sector
+Tunica,Utilities,5,0.9321634769836374,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lewis,872,0.5654804660238422,Overall
+Lewis,HiTech,84,0.013601212435690124,Sector
+Lewis,Agriculture,16,0.743532239923892,Sector
+Lewis,Transportation,54,0.8714281672871623,Sector
+Lewis,Consumer_Products,74,0.4458977817675107,Sector
+Lewis,Unassigned,81,0.5693614239732172,Sector
+Lewis,Communication,26,0.058362274769496736,Sector
+Lewis,Trade,5,0.33432593562135726,Sector
+Lewis,Business_Services,70,0.9993200376990526,Sector
+Lewis,Business_Products,37,0.8370546087737444,Sector
+Lewis,Construction,56,0.16603418754010568,Sector
+Lewis,Services,72,0.32595918376555677,Sector
+Lewis,Mining,58,0.931968382682931,Sector
+Lewis,Health_Care,77,0.8381764815094853,Sector
+Lewis,EnergyExpL_Prod,95,0.4997891396269527,Sector
+Lewis,Utilities,67,0.8473959329814779,Sector

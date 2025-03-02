@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,St. Charles,568,0.5486753261766147,Overall
+St. Charles,HiTech,32,0.22716702697546098,Sector
+St. Charles,Agriculture,25,0.6704415073449023,Sector
+St. Charles,Transportation,39,0.8173977562911595,Sector
+St. Charles,Consumer_Products,16,0.6013504444018151,Sector
+St. Charles,Unassigned,14,0.9181167008433563,Sector
+St. Charles,Communication,50,0.46038403621307167,Sector
+St. Charles,Trade,21,0.9598198200779718,Sector
+St. Charles,Business_Services,18,0.8983421105523953,Sector
+St. Charles,Business_Products,54,0.10408341659333853,Sector
+St. Charles,Construction,66,0.19252239675344407,Sector
+St. Charles,Services,17,0.7566396161775301,Sector
+St. Charles,Mining,46,0.5650926834244131,Sector
+St. Charles,Health_Care,72,0.45911404970068026,Sector
+St. Charles,EnergyExpL_Prod,90,0.5929047002197126,Sector
+St. Charles,Utilities,8,0.00675362707997007,Sector

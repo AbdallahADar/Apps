@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Landsbyggð,814,0.4615028193416588,Overall
+Landsbyggð,HiTech,10,0.49091284323010886,Sector
+Landsbyggð,Agriculture,93,0.53055136989476,Sector
+Landsbyggð,Transportation,44,0.18735551483347845,Sector
+Landsbyggð,Consumer_Products,20,0.3198754726860872,Sector
+Landsbyggð,Unassigned,96,0.012810897292664492,Sector
+Landsbyggð,Communication,95,0.9597434714578543,Sector
+Landsbyggð,Trade,42,0.3931472061461707,Sector
+Landsbyggð,Business_Services,62,0.1883381670009302,Sector
+Landsbyggð,Business_Products,5,0.7283371667521702,Sector
+Landsbyggð,Construction,68,0.4089725535399381,Sector
+Landsbyggð,Services,95,0.5699940964150277,Sector
+Landsbyggð,Mining,44,0.9436986645096812,Sector
+Landsbyggð,Health_Care,60,0.5139696792622008,Sector
+Landsbyggð,EnergyExpL_Prod,28,0.0457379735000214,Sector
+Landsbyggð,Utilities,52,0.6290972136037883,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Skierniewicki,524,0.5132388162589984,Overall
+Skierniewicki,HiTech,44,0.4742121191786076,Sector
+Skierniewicki,Agriculture,26,0.41834500598077895,Sector
+Skierniewicki,Transportation,15,0.8688845126818028,Sector
+Skierniewicki,Consumer_Products,62,0.316147422695117,Sector
+Skierniewicki,Unassigned,68,0.8618903906660187,Sector
+Skierniewicki,Communication,44,0.9433458374115994,Sector
+Skierniewicki,Trade,41,0.4916169905458404,Sector
+Skierniewicki,Business_Services,2,0.38471913834924265,Sector
+Skierniewicki,Business_Products,10,0.4366349933919492,Sector
+Skierniewicki,Construction,16,0.1885421885167351,Sector
+Skierniewicki,Services,23,0.11434501276835107,Sector
+Skierniewicki,Mining,81,0.12661092253892436,Sector
+Skierniewicki,Health_Care,28,0.5528231144012993,Sector
+Skierniewicki,EnergyExpL_Prod,44,0.7470597829412502,Sector
+Skierniewicki,Utilities,20,0.7734048118174582,Sector

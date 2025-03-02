@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Osterholz,713,0.5960353122646291,Overall
+Osterholz,HiTech,39,0.09160572370313791,Sector
+Osterholz,Agriculture,25,0.8602488758132315,Sector
+Osterholz,Transportation,69,0.8761069218252315,Sector
+Osterholz,Consumer_Products,74,0.4205261317640985,Sector
+Osterholz,Unassigned,36,0.4864867159088153,Sector
+Osterholz,Communication,76,0.7517412908709101,Sector
+Osterholz,Trade,38,0.166411945893422,Sector
+Osterholz,Business_Services,26,0.7558060263250131,Sector
+Osterholz,Business_Products,28,0.8873610392241068,Sector
+Osterholz,Construction,98,0.8773375058449893,Sector
+Osterholz,Services,32,0.7886367980100952,Sector
+Osterholz,Mining,22,0.32106146398669777,Sector
+Osterholz,Health_Care,97,0.6230801471716015,Sector
+Osterholz,EnergyExpL_Prod,23,0.9073645189107106,Sector
+Osterholz,Utilities,30,0.12675457871737394,Sector

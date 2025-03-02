@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lecco,753,0.5060207310912888,Overall
+Lecco,HiTech,64,0.13941255732378233,Sector
+Lecco,Agriculture,45,0.43567159207797257,Sector
+Lecco,Transportation,25,0.6763582281180776,Sector
+Lecco,Consumer_Products,52,0.27159936906481397,Sector
+Lecco,Unassigned,35,0.5541485849612153,Sector
+Lecco,Communication,6,0.04499584555035596,Sector
+Lecco,Trade,66,0.9022269582098957,Sector
+Lecco,Business_Services,69,0.46142679727325786,Sector
+Lecco,Business_Products,61,0.09911322387800436,Sector
+Lecco,Construction,64,0.6662320884722035,Sector
+Lecco,Services,62,0.7767260307925895,Sector
+Lecco,Mining,5,0.6431336276930636,Sector
+Lecco,Health_Care,79,0.4052067787219795,Sector
+Lecco,EnergyExpL_Prod,79,0.7577719879209189,Sector
+Lecco,Utilities,41,0.7562872963112003,Sector

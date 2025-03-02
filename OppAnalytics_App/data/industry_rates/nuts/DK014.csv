@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bornholm,694,0.6144231713944601,Overall
+Bornholm,HiTech,79,0.5982686955966721,Sector
+Bornholm,Agriculture,74,0.5935798420402824,Sector
+Bornholm,Transportation,68,0.9253854581691072,Sector
+Bornholm,Consumer_Products,13,0.4827534768523124,Sector
+Bornholm,Unassigned,16,0.762195966839932,Sector
+Bornholm,Communication,51,0.9763778692097301,Sector
+Bornholm,Trade,28,0.5978440376458645,Sector
+Bornholm,Business_Services,54,0.010648378850022455,Sector
+Bornholm,Business_Products,13,0.6486192772957668,Sector
+Bornholm,Construction,37,0.5629353780215529,Sector
+Bornholm,Services,87,0.5574035593739022,Sector
+Bornholm,Mining,56,0.23276738672269837,Sector
+Bornholm,Health_Care,61,0.8081144853064325,Sector
+Bornholm,EnergyExpL_Prod,49,0.7696943078243538,Sector
+Bornholm,Utilities,8,0.6897594511682735,Sector

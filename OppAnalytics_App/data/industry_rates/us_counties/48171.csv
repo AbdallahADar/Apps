@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gillespie,787,0.43174763489991086,Overall
+Gillespie,HiTech,94,0.15355933380086584,Sector
+Gillespie,Agriculture,63,0.4426849480926207,Sector
+Gillespie,Transportation,85,0.02317290341108258,Sector
+Gillespie,Consumer_Products,83,0.06806872849730872,Sector
+Gillespie,Unassigned,51,0.2834813602339412,Sector
+Gillespie,Communication,19,0.8008909032195439,Sector
+Gillespie,Trade,43,0.34663281074326724,Sector
+Gillespie,Business_Services,60,0.39929810131481813,Sector
+Gillespie,Business_Products,9,0.9042550567722961,Sector
+Gillespie,Construction,63,0.7262717904383656,Sector
+Gillespie,Services,78,0.375466616994132,Sector
+Gillespie,Mining,56,0.25267277586849446,Sector
+Gillespie,Health_Care,1,0.4716232552101788,Sector
+Gillespie,EnergyExpL_Prod,27,0.4276151932825554,Sector
+Gillespie,Utilities,55,0.8005207456191927,Sector

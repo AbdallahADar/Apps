@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Teltow-Fläming,820,0.36561830047153415,Overall
+Teltow-Fläming,HiTech,22,0.2684723179489613,Sector
+Teltow-Fläming,Agriculture,2,0.1579680887713807,Sector
+Teltow-Fläming,Transportation,92,0.0862511638943092,Sector
+Teltow-Fläming,Consumer_Products,91,0.0536881886799655,Sector
+Teltow-Fläming,Unassigned,66,0.9420470295955771,Sector
+Teltow-Fläming,Communication,19,0.5975617924807415,Sector
+Teltow-Fläming,Trade,91,0.17245832991996157,Sector
+Teltow-Fläming,Business_Services,31,0.5689938851545334,Sector
+Teltow-Fläming,Business_Products,60,0.7589668484942762,Sector
+Teltow-Fläming,Construction,82,0.038668081643943863,Sector
+Teltow-Fläming,Services,15,0.729647676473138,Sector
+Teltow-Fläming,Mining,73,0.016142969756078318,Sector
+Teltow-Fläming,Health_Care,26,0.5189498742733183,Sector
+Teltow-Fläming,EnergyExpL_Prod,58,0.1169326555194703,Sector
+Teltow-Fläming,Utilities,92,0.4575256044673567,Sector

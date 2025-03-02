@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kleve,798,0.5265332704660338,Overall
+Kleve,HiTech,19,0.46520511672973053,Sector
+Kleve,Agriculture,77,0.36602082371665645,Sector
+Kleve,Transportation,31,0.7018136168072159,Sector
+Kleve,Consumer_Products,74,0.047684730828104205,Sector
+Kleve,Unassigned,95,0.9523371445931554,Sector
+Kleve,Communication,80,0.02496625710878031,Sector
+Kleve,Trade,51,0.9229302816833366,Sector
+Kleve,Business_Services,87,0.944205368279927,Sector
+Kleve,Business_Products,53,0.5412257081649178,Sector
+Kleve,Construction,16,0.7910614239039292,Sector
+Kleve,Services,29,0.09373215448909578,Sector
+Kleve,Mining,41,0.918902236856236,Sector
+Kleve,Health_Care,70,0.9444209157805588,Sector
+Kleve,EnergyExpL_Prod,8,0.021821830117778274,Sector
+Kleve,Utilities,67,0.16167144793108712,Sector

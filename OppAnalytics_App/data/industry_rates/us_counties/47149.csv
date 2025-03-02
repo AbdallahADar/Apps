@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rutherford,704,0.5090741834118223,Overall
+Rutherford,HiTech,34,0.41812397789901445,Sector
+Rutherford,Agriculture,66,0.7292692438495777,Sector
+Rutherford,Transportation,49,0.3526819817265774,Sector
+Rutherford,Consumer_Products,68,0.3274168119940579,Sector
+Rutherford,Unassigned,59,0.6396913432411666,Sector
+Rutherford,Communication,66,0.5068731180754372,Sector
+Rutherford,Trade,30,0.1625028499295832,Sector
+Rutherford,Business_Services,0,0.8507396207206801,Sector
+Rutherford,Business_Products,87,0.1448712080688137,Sector
+Rutherford,Construction,44,0.7476875026311963,Sector
+Rutherford,Services,28,0.6877558901653216,Sector
+Rutherford,Mining,29,0.4636240616007802,Sector
+Rutherford,Health_Care,6,0.0956961478059547,Sector
+Rutherford,EnergyExpL_Prod,96,0.5528692550040913,Sector
+Rutherford,Utilities,42,0.9563097384650845,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Aksaray,918,0.47189884264353404,Overall
+Aksaray,HiTech,19,0.286069719948406,Sector
+Aksaray,Agriculture,88,0.4766508609028717,Sector
+Aksaray,Transportation,34,0.8246356047516276,Sector
+Aksaray,Consumer_Products,31,0.7019748530921563,Sector
+Aksaray,Unassigned,96,0.10390322263486751,Sector
+Aksaray,Communication,18,0.04444939118621938,Sector
+Aksaray,Trade,85,0.8232810556274418,Sector
+Aksaray,Business_Services,90,0.8822217421365567,Sector
+Aksaray,Business_Products,47,0.19942001003316845,Sector
+Aksaray,Construction,68,0.7426318022867969,Sector
+Aksaray,Services,33,0.5119758894098885,Sector
+Aksaray,Mining,82,0.7639754594033399,Sector
+Aksaray,Health_Care,96,0.2100938798551164,Sector
+Aksaray,EnergyExpL_Prod,79,0.24371462908890473,Sector
+Aksaray,Utilities,52,0.2634845192956484,Sector

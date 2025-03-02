@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Allegheny,384,0.45584126485434506,Overall
+Allegheny,HiTech,37,0.36415208864298787,Sector
+Allegheny,Agriculture,35,0.4988172155457782,Sector
+Allegheny,Transportation,26,0.06847510533726753,Sector
+Allegheny,Consumer_Products,15,0.09348084102273146,Sector
+Allegheny,Unassigned,23,0.4501010822618683,Sector
+Allegheny,Communication,5,0.06079789061621288,Sector
+Allegheny,Trade,58,0.07119042918314433,Sector
+Allegheny,Business_Services,23,0.7006159375524268,Sector
+Allegheny,Business_Products,18,0.8097326604328299,Sector
+Allegheny,Construction,7,0.7243165076986713,Sector
+Allegheny,Services,2,0.6167949439307993,Sector
+Allegheny,Mining,20,0.9527130956886108,Sector
+Allegheny,Health_Care,48,0.3789408548153763,Sector
+Allegheny,EnergyExpL_Prod,41,0.6182331423609445,Sector
+Allegheny,Utilities,26,0.4292571777255275,Sector

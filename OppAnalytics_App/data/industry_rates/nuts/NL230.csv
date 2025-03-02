@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Flevoland,691,0.5287147310924224,Overall
+Flevoland,HiTech,9,0.12566587572518073,Sector
+Flevoland,Agriculture,27,0.8512531228880201,Sector
+Flevoland,Transportation,73,0.5184931341655052,Sector
+Flevoland,Consumer_Products,8,0.6460834122913199,Sector
+Flevoland,Unassigned,54,0.7181976894062688,Sector
+Flevoland,Communication,88,0.7084394782290343,Sector
+Flevoland,Trade,45,0.44497450364987534,Sector
+Flevoland,Business_Services,4,0.42157931862253073,Sector
+Flevoland,Business_Products,44,0.5577532535970707,Sector
+Flevoland,Construction,93,0.11350104623511592,Sector
+Flevoland,Services,37,0.8400617796403907,Sector
+Flevoland,Mining,93,0.3542907195871887,Sector
+Flevoland,Health_Care,16,0.870842943951136,Sector
+Flevoland,EnergyExpL_Prod,70,0.22432450497878298,Sector
+Flevoland,Utilities,30,0.535260183418916,Sector

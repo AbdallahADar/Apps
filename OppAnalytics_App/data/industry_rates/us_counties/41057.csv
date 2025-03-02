@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tillamook,839,0.5414988386476723,Overall
+Tillamook,HiTech,75,0.5430543896186381,Sector
+Tillamook,Agriculture,49,0.9272451458344951,Sector
+Tillamook,Transportation,90,0.14203304961584307,Sector
+Tillamook,Consumer_Products,14,0.35997834955621943,Sector
+Tillamook,Unassigned,30,0.46147260810045887,Sector
+Tillamook,Communication,44,0.10820099204238243,Sector
+Tillamook,Trade,74,0.8108819494592552,Sector
+Tillamook,Business_Services,46,0.17301808525782159,Sector
+Tillamook,Business_Products,26,0.879284805284357,Sector
+Tillamook,Construction,31,0.9652020949072074,Sector
+Tillamook,Services,78,0.34461355771605096,Sector
+Tillamook,Mining,54,0.921048310495468,Sector
+Tillamook,Health_Care,55,0.9555257097852331,Sector
+Tillamook,EnergyExpL_Prod,85,0.10499726135746079,Sector
+Tillamook,Utilities,88,0.4259262706841934,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,La Crosse,785,0.5197717666938662,Overall
+La Crosse,HiTech,45,0.33132114824903214,Sector
+La Crosse,Agriculture,96,0.5474355686069637,Sector
+La Crosse,Transportation,74,0.12810340634469897,Sector
+La Crosse,Consumer_Products,84,0.715165968435791,Sector
+La Crosse,Unassigned,43,0.6863797057309868,Sector
+La Crosse,Communication,89,0.5492368300043651,Sector
+La Crosse,Trade,9,0.8672894401707923,Sector
+La Crosse,Business_Services,87,0.5059514516270925,Sector
+La Crosse,Business_Products,55,0.6225122099984093,Sector
+La Crosse,Construction,26,0.12978300549477517,Sector
+La Crosse,Services,14,0.8935033105765173,Sector
+La Crosse,Mining,1,0.27750530806246354,Sector
+La Crosse,Health_Care,28,0.38186674811609334,Sector
+La Crosse,EnergyExpL_Prod,56,0.17614071357822592,Sector
+La Crosse,Utilities,78,0.9843816854117864,Sector

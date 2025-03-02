@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Keokuk,671,0.4536817214445399,Overall
+Keokuk,HiTech,61,0.5826516109623074,Sector
+Keokuk,Agriculture,59,0.893923001346816,Sector
+Keokuk,Transportation,60,0.6856022917981037,Sector
+Keokuk,Consumer_Products,53,0.1035044650938044,Sector
+Keokuk,Unassigned,66,0.1973430097686374,Sector
+Keokuk,Communication,53,0.8234660469319937,Sector
+Keokuk,Trade,48,0.048514907269907814,Sector
+Keokuk,Business_Services,39,0.6018312956720914,Sector
+Keokuk,Business_Products,26,0.002905038778927338,Sector
+Keokuk,Construction,8,0.6211362570815603,Sector
+Keokuk,Services,32,0.07997041861146781,Sector
+Keokuk,Mining,16,0.7537816818735363,Sector
+Keokuk,Health_Care,63,0.32544128440068887,Sector
+Keokuk,EnergyExpL_Prod,79,0.6375462083355574,Sector
+Keokuk,Utilities,8,0.4476083037426981,Sector

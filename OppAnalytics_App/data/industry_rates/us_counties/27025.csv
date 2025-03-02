@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chisago,736,0.4937013875196485,Overall
+Chisago,HiTech,83,0.17233502059400585,Sector
+Chisago,Agriculture,74,0.013737889876958453,Sector
+Chisago,Transportation,57,0.7236519162201418,Sector
+Chisago,Consumer_Products,1,0.29324964786836727,Sector
+Chisago,Unassigned,31,0.512729385273858,Sector
+Chisago,Communication,18,0.43339261306832655,Sector
+Chisago,Trade,76,0.9667913451871449,Sector
+Chisago,Business_Services,46,0.3170602921301299,Sector
+Chisago,Business_Products,68,0.3907978289586822,Sector
+Chisago,Construction,38,0.40643295309467986,Sector
+Chisago,Services,45,0.5095309261416481,Sector
+Chisago,Mining,71,0.29303676504370835,Sector
+Chisago,Health_Care,25,0.6603781147242502,Sector
+Chisago,EnergyExpL_Prod,99,0.9945750683483484,Sector
+Chisago,Utilities,4,0.7178210462644784,Sector

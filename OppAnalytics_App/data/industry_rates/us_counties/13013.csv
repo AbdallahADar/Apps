@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Barrow,767,0.45977645161651404,Overall
+Barrow,HiTech,51,0.4932465256171248,Sector
+Barrow,Agriculture,71,0.08581708260201937,Sector
+Barrow,Transportation,28,0.5189476566561492,Sector
+Barrow,Consumer_Products,44,0.7130210158204721,Sector
+Barrow,Unassigned,88,0.4298927977705911,Sector
+Barrow,Communication,84,0.3275144297413446,Sector
+Barrow,Trade,4,0.11796243932911687,Sector
+Barrow,Business_Services,51,0.9219428586543158,Sector
+Barrow,Business_Products,48,0.1301892880999791,Sector
+Barrow,Construction,6,0.14144865758300262,Sector
+Barrow,Services,56,0.23756173555643634,Sector
+Barrow,Mining,70,0.77796478967002,Sector
+Barrow,Health_Care,29,0.6103935820655595,Sector
+Barrow,EnergyExpL_Prod,97,0.42227467739366553,Sector
+Barrow,Utilities,40,0.9684692376879147,Sector

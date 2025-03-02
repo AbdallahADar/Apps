@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lemhi,663,0.37553493337291954,Overall
+Lemhi,HiTech,34,0.010494614255815993,Sector
+Lemhi,Agriculture,66,0.48721987842932446,Sector
+Lemhi,Transportation,48,0.6237436350208011,Sector
+Lemhi,Consumer_Products,80,0.5958009721801735,Sector
+Lemhi,Unassigned,82,0.42019821772727395,Sector
+Lemhi,Communication,90,0.07320931761910188,Sector
+Lemhi,Trade,16,0.18761814523742992,Sector
+Lemhi,Business_Services,81,0.30741569979584116,Sector
+Lemhi,Business_Products,4,0.40692676660118776,Sector
+Lemhi,Construction,1,0.7346347990577925,Sector
+Lemhi,Services,21,0.0040402974261491975,Sector
+Lemhi,Mining,74,0.4906749225665855,Sector
+Lemhi,Health_Care,37,0.9364267262300761,Sector
+Lemhi,EnergyExpL_Prod,1,0.3325469976908253,Sector
+Lemhi,Utilities,28,0.022073010755413902,Sector

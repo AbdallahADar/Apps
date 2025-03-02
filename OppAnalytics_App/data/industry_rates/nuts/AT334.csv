@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tiroler Oberland,599,0.4989846904720412,Overall
+Tiroler Oberland,HiTech,7,0.12560169581811276,Sector
+Tiroler Oberland,Agriculture,5,0.46210061845248007,Sector
+Tiroler Oberland,Transportation,13,0.5764108714652981,Sector
+Tiroler Oberland,Consumer_Products,53,0.5889415502331422,Sector
+Tiroler Oberland,Unassigned,57,0.2950078143152357,Sector
+Tiroler Oberland,Communication,72,0.5943740884687518,Sector
+Tiroler Oberland,Trade,26,0.88084510470565,Sector
+Tiroler Oberland,Business_Services,23,0.016691506265910316,Sector
+Tiroler Oberland,Business_Products,42,0.0045505530740000966,Sector
+Tiroler Oberland,Construction,24,0.9674096563046864,Sector
+Tiroler Oberland,Services,23,0.38170193580905754,Sector
+Tiroler Oberland,Mining,83,0.5710991663573682,Sector
+Tiroler Oberland,Health_Care,79,0.7868184390897227,Sector
+Tiroler Oberland,EnergyExpL_Prod,3,0.297509601939156,Sector
+Tiroler Oberland,Utilities,89,0.9357077547820453,Sector

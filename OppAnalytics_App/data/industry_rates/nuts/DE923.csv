@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hameln-Pyrmont,776,0.501654564221451,Overall
+Hameln-Pyrmont,HiTech,85,0.47697806657295116,Sector
+Hameln-Pyrmont,Agriculture,8,0.3967076838633965,Sector
+Hameln-Pyrmont,Transportation,45,0.9756236204374981,Sector
+Hameln-Pyrmont,Consumer_Products,59,0.4462722875306281,Sector
+Hameln-Pyrmont,Unassigned,70,0.09157587449723725,Sector
+Hameln-Pyrmont,Communication,44,0.6485754261666475,Sector
+Hameln-Pyrmont,Trade,84,0.5386757417135773,Sector
+Hameln-Pyrmont,Business_Services,20,0.6148938051741912,Sector
+Hameln-Pyrmont,Business_Products,24,0.8026612799837087,Sector
+Hameln-Pyrmont,Construction,9,0.918296250065063,Sector
+Hameln-Pyrmont,Services,87,0.4228401871190509,Sector
+Hameln-Pyrmont,Mining,63,0.10149276428236598,Sector
+Hameln-Pyrmont,Health_Care,9,0.040399109937434896,Sector
+Hameln-Pyrmont,EnergyExpL_Prod,89,0.32927433253885074,Sector
+Hameln-Pyrmont,Utilities,80,0.7205520334391647,Sector

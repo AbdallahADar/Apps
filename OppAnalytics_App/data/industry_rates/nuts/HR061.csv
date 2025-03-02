@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Međimurska županija,760,0.4716671131448139,Overall
+Međimurska županija,HiTech,72,0.8673181686040754,Sector
+Međimurska županija,Agriculture,99,0.5586173769432611,Sector
+Međimurska županija,Transportation,13,0.4586214960049243,Sector
+Međimurska županija,Consumer_Products,55,0.7887478366591895,Sector
+Međimurska županija,Unassigned,80,0.3054118529346973,Sector
+Međimurska županija,Communication,92,0.6020251710304375,Sector
+Međimurska županija,Trade,35,0.2782051200015425,Sector
+Međimurska županija,Business_Services,41,0.17671174569901316,Sector
+Međimurska županija,Business_Products,4,0.4430879291537242,Sector
+Međimurska županija,Construction,7,0.42720503055039516,Sector
+Međimurska županija,Services,48,0.6923113155592591,Sector
+Međimurska županija,Mining,71,0.9698050131661107,Sector
+Međimurska županija,Health_Care,8,0.07556351766704783,Sector
+Međimurska županija,EnergyExpL_Prod,78,0.011067555382147987,Sector
+Međimurska županija,Utilities,57,0.42030756781638356,Sector

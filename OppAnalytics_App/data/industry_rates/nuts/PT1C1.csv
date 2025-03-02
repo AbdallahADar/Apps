@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alentejo Litoral,716,0.4172274785494754,Overall
+Alentejo Litoral,HiTech,45,0.08640892874522688,Sector
+Alentejo Litoral,Agriculture,43,0.9285554642799796,Sector
+Alentejo Litoral,Transportation,46,0.9812808704377503,Sector
+Alentejo Litoral,Consumer_Products,45,0.5120366411694673,Sector
+Alentejo Litoral,Unassigned,69,0.07562698692169112,Sector
+Alentejo Litoral,Communication,2,0.7153919014196907,Sector
+Alentejo Litoral,Trade,18,0.04607072627571274,Sector
+Alentejo Litoral,Business_Services,92,0.34699019687755284,Sector
+Alentejo Litoral,Business_Products,37,0.15599015513255632,Sector
+Alentejo Litoral,Construction,14,0.41823486039596025,Sector
+Alentejo Litoral,Services,35,0.8950588858957979,Sector
+Alentejo Litoral,Mining,49,0.1554944622914043,Sector
+Alentejo Litoral,Health_Care,72,0.46594977541327043,Sector
+Alentejo Litoral,EnergyExpL_Prod,50,0.19151716680843767,Sector
+Alentejo Litoral,Utilities,99,0.283805156177633,Sector

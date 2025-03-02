@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Valley,958,0.6071638520578898,Overall
+Valley,HiTech,95,0.23139635788203017,Sector
+Valley,Agriculture,46,0.09247974582499385,Sector
+Valley,Transportation,22,0.22647493898897575,Sector
+Valley,Consumer_Products,25,0.9540832190902452,Sector
+Valley,Unassigned,98,0.9641024348879387,Sector
+Valley,Communication,71,0.6250992804673027,Sector
+Valley,Trade,31,0.8674662465574875,Sector
+Valley,Business_Services,85,0.9986266537511117,Sector
+Valley,Business_Products,47,0.286201929577122,Sector
+Valley,Construction,88,0.8853523581103876,Sector
+Valley,Services,80,0.8001986473784098,Sector
+Valley,Mining,81,0.6276279203436528,Sector
+Valley,Health_Care,81,0.6742661350915202,Sector
+Valley,EnergyExpL_Prod,42,0.24393074386958047,Sector
+Valley,Utilities,66,0.6301511690475895,Sector

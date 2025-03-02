@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Glacier,678,0.6168587643897945,Overall
+Glacier,HiTech,75,0.7905590233664598,Sector
+Glacier,Agriculture,88,0.7352336026380053,Sector
+Glacier,Transportation,46,0.7392817677128859,Sector
+Glacier,Consumer_Products,23,0.5741450822770787,Sector
+Glacier,Unassigned,76,0.6507147027571553,Sector
+Glacier,Communication,75,0.2814379874658336,Sector
+Glacier,Trade,31,0.6992793911809475,Sector
+Glacier,Business_Services,6,0.4611308064819212,Sector
+Glacier,Business_Products,46,0.8649351197621956,Sector
+Glacier,Construction,78,0.6777936156199339,Sector
+Glacier,Services,4,0.17675942586197013,Sector
+Glacier,Mining,66,0.3184103140566935,Sector
+Glacier,Health_Care,18,0.7681467534197249,Sector
+Glacier,EnergyExpL_Prod,40,0.9041422569412616,Sector
+Glacier,Utilities,6,0.6109116163048501,Sector

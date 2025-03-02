@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Komárom-Esztergom,601,0.5752897799326486,Overall
+Komárom-Esztergom,HiTech,59,0.9382649796111496,Sector
+Komárom-Esztergom,Agriculture,15,0.6876872717969282,Sector
+Komárom-Esztergom,Transportation,43,0.2362403843423111,Sector
+Komárom-Esztergom,Consumer_Products,23,0.20215406105389333,Sector
+Komárom-Esztergom,Unassigned,31,0.5579030921005267,Sector
+Komárom-Esztergom,Communication,7,0.853850375746368,Sector
+Komárom-Esztergom,Trade,79,0.6875552626074725,Sector
+Komárom-Esztergom,Business_Services,32,0.07031771573501688,Sector
+Komárom-Esztergom,Business_Products,53,0.6448217054605612,Sector
+Komárom-Esztergom,Construction,92,0.5128430894017619,Sector
+Komárom-Esztergom,Services,3,0.736968604425218,Sector
+Komárom-Esztergom,Mining,32,0.9221421300355124,Sector
+Komárom-Esztergom,Health_Care,91,0.5690837584720344,Sector
+Komárom-Esztergom,EnergyExpL_Prod,31,0.5877938493277844,Sector
+Komárom-Esztergom,Utilities,10,0.42172041887319023,Sector

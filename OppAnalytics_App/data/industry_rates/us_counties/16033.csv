@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Clark,677,0.43976231131965104,Overall
+Clark,HiTech,34,0.048749009075979344,Sector
+Clark,Agriculture,89,0.5794098607102856,Sector
+Clark,Transportation,14,0.5735611906265017,Sector
+Clark,Consumer_Products,14,0.24601543477922883,Sector
+Clark,Unassigned,63,0.1557799346276293,Sector
+Clark,Communication,13,0.8973643464646214,Sector
+Clark,Trade,44,0.8056525583590081,Sector
+Clark,Business_Services,30,0.5159912960529145,Sector
+Clark,Business_Products,55,0.35468500053427865,Sector
+Clark,Construction,63,0.0746373241098639,Sector
+Clark,Services,48,0.17964867558396103,Sector
+Clark,Mining,56,0.5663698435149426,Sector
+Clark,Health_Care,9,0.3935559806385167,Sector
+Clark,EnergyExpL_Prod,85,0.5661565026701743,Sector
+Clark,Utilities,60,0.6388577120468616,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Belmont,901,0.4469581084470864,Overall
+Belmont,HiTech,60,0.7050727620483067,Sector
+Belmont,Agriculture,10,0.16210596172154412,Sector
+Belmont,Transportation,89,0.9904130663398047,Sector
+Belmont,Consumer_Products,99,0.925705831353697,Sector
+Belmont,Unassigned,46,0.6855582385813619,Sector
+Belmont,Communication,58,0.061520707636736005,Sector
+Belmont,Trade,25,0.30104612262064534,Sector
+Belmont,Business_Services,72,0.026757039830741736,Sector
+Belmont,Business_Products,47,0.8126880320427585,Sector
+Belmont,Construction,4,0.9751771008086969,Sector
+Belmont,Services,65,0.11165563553148128,Sector
+Belmont,Mining,96,0.21758636020106947,Sector
+Belmont,Health_Care,95,0.2530693154677699,Sector
+Belmont,EnergyExpL_Prod,53,0.3771412859894858,Sector
+Belmont,Utilities,82,0.0988741665321965,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kitsap,607,0.4159374078125679,Overall
+Kitsap,HiTech,39,0.0023475264893932923,Sector
+Kitsap,Agriculture,1,0.7238142285263529,Sector
+Kitsap,Transportation,87,0.7718037556441906,Sector
+Kitsap,Consumer_Products,14,0.22423637979017652,Sector
+Kitsap,Unassigned,87,0.7895806185968247,Sector
+Kitsap,Communication,23,0.13388551350942235,Sector
+Kitsap,Trade,96,0.23359186200508197,Sector
+Kitsap,Business_Services,74,0.8811583965571331,Sector
+Kitsap,Business_Products,8,0.08239177664116104,Sector
+Kitsap,Construction,7,0.24789328414686007,Sector
+Kitsap,Services,47,0.9932762604212422,Sector
+Kitsap,Mining,50,0.15193844088498,Sector
+Kitsap,Health_Care,35,0.14151585840746406,Sector
+Kitsap,EnergyExpL_Prod,16,0.13501837157275487,Sector
+Kitsap,Utilities,23,0.7266088439954806,Sector

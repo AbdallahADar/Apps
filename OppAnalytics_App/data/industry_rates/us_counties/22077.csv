@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pointe Coupee,786,0.4822447508824571,Overall
+Pointe Coupee,HiTech,20,0.22010929165950377,Sector
+Pointe Coupee,Agriculture,18,0.21811838841331166,Sector
+Pointe Coupee,Transportation,58,0.7250371151386357,Sector
+Pointe Coupee,Consumer_Products,98,0.06821040009462398,Sector
+Pointe Coupee,Unassigned,34,0.025804900669929687,Sector
+Pointe Coupee,Communication,40,0.3279019105290687,Sector
+Pointe Coupee,Trade,25,0.7731997505798417,Sector
+Pointe Coupee,Business_Services,0,0.5508909854681744,Sector
+Pointe Coupee,Business_Products,67,0.830344773675554,Sector
+Pointe Coupee,Construction,75,0.49979668666883026,Sector
+Pointe Coupee,Services,99,0.1897298764212999,Sector
+Pointe Coupee,Mining,79,0.7897552681629652,Sector
+Pointe Coupee,Health_Care,76,0.9931874390680001,Sector
+Pointe Coupee,EnergyExpL_Prod,95,0.6724315299574156,Sector
+Pointe Coupee,Utilities,2,0.34915294672970165,Sector

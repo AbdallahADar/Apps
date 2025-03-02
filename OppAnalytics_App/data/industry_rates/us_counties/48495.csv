@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Winkler,849,0.4338671669702859,Overall
+Winkler,HiTech,53,0.018284546913261646,Sector
+Winkler,Agriculture,80,0.04753356158336686,Sector
+Winkler,Transportation,88,0.6513896057654137,Sector
+Winkler,Consumer_Products,19,0.40492811695426856,Sector
+Winkler,Unassigned,99,0.36055363822432873,Sector
+Winkler,Communication,77,0.5197821625786977,Sector
+Winkler,Trade,98,0.9198990121224221,Sector
+Winkler,Business_Services,18,0.17986218006334742,Sector
+Winkler,Business_Products,24,0.8506195581936014,Sector
+Winkler,Construction,19,0.0952883846590824,Sector
+Winkler,Services,34,0.04165832999952657,Sector
+Winkler,Mining,49,0.8457060556831646,Sector
+Winkler,Health_Care,44,0.3258700749878245,Sector
+Winkler,EnergyExpL_Prod,72,0.7277650423991627,Sector
+Winkler,Utilities,75,0.5188672344268189,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McMullen,697,0.5444599514156335,Overall
+McMullen,HiTech,52,0.20499198505695893,Sector
+McMullen,Agriculture,73,0.260325316216802,Sector
+McMullen,Transportation,15,0.9777816166724567,Sector
+McMullen,Consumer_Products,20,0.9074909295399509,Sector
+McMullen,Unassigned,64,0.4767975241192193,Sector
+McMullen,Communication,60,0.7633317678215853,Sector
+McMullen,Trade,34,0.3765276323443121,Sector
+McMullen,Business_Services,97,0.5537722399557009,Sector
+McMullen,Business_Products,20,0.6908136286418711,Sector
+McMullen,Construction,27,0.06182171892523691,Sector
+McMullen,Services,66,0.9227853739026372,Sector
+McMullen,Mining,69,0.8572354464417606,Sector
+McMullen,Health_Care,31,0.027743394904171992,Sector
+McMullen,EnergyExpL_Prod,60,0.6230346581584516,Sector
+McMullen,Utilities,9,0.46244603853338584,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dutchess,735,0.4744282856684493,Overall
+Dutchess,HiTech,22,0.8100735491684307,Sector
+Dutchess,Agriculture,72,0.9375311827468326,Sector
+Dutchess,Transportation,53,0.6074663222569348,Sector
+Dutchess,Consumer_Products,99,0.2067389752999398,Sector
+Dutchess,Unassigned,75,0.10946220074480251,Sector
+Dutchess,Communication,11,0.35448868949759227,Sector
+Dutchess,Trade,42,0.17918106802686318,Sector
+Dutchess,Business_Services,62,0.4708215799931348,Sector
+Dutchess,Business_Products,85,0.10249070907122193,Sector
+Dutchess,Construction,10,0.7916725534550814,Sector
+Dutchess,Services,42,0.9473464527359488,Sector
+Dutchess,Mining,47,0.7044315815777844,Sector
+Dutchess,Health_Care,7,0.07048247456285639,Sector
+Dutchess,EnergyExpL_Prod,82,0.3211152577509009,Sector
+Dutchess,Utilities,26,0.503121688138415,Sector

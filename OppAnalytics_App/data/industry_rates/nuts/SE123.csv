@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Östergötlands län,784,0.5268664202378736,Overall
+Östergötlands län,HiTech,86,0.7201549903666777,Sector
+Östergötlands län,Agriculture,1,0.5228840663773753,Sector
+Östergötlands län,Transportation,90,0.21841774153045168,Sector
+Östergötlands län,Consumer_Products,63,0.8560413476759539,Sector
+Östergötlands län,Unassigned,23,0.40436564480987613,Sector
+Östergötlands län,Communication,28,0.54245167362301,Sector
+Östergötlands län,Trade,79,0.9432305125939545,Sector
+Östergötlands län,Business_Services,49,0.7474217629701094,Sector
+Östergötlands län,Business_Products,22,0.9969120909205497,Sector
+Östergötlands län,Construction,5,0.07171492183958839,Sector
+Östergötlands län,Services,29,0.45230245904657973,Sector
+Östergötlands län,Mining,94,0.3974154831298683,Sector
+Östergötlands län,Health_Care,53,0.11808330483162399,Sector
+Östergötlands län,EnergyExpL_Prod,91,0.8414943749936709,Sector
+Östergötlands län,Utilities,71,0.07010592885881406,Sector

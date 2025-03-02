@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Telfair,660,0.5919616626921342,Overall
+Telfair,HiTech,90,0.27204430476929453,Sector
+Telfair,Agriculture,40,0.912795286175159,Sector
+Telfair,Transportation,71,0.8234806544456307,Sector
+Telfair,Consumer_Products,43,0.853479720536883,Sector
+Telfair,Unassigned,24,0.3749331044069436,Sector
+Telfair,Communication,97,0.5749799326674625,Sector
+Telfair,Trade,0,0.03452427851589368,Sector
+Telfair,Business_Services,98,0.9777258136380541,Sector
+Telfair,Business_Products,4,0.8278454044952596,Sector
+Telfair,Construction,34,0.9523386917817894,Sector
+Telfair,Services,6,0.12338110981186334,Sector
+Telfair,Mining,64,0.8991976754623611,Sector
+Telfair,Health_Care,30,0.16469729243277142,Sector
+Telfair,EnergyExpL_Prod,28,0.15245874078219013,Sector
+Telfair,Utilities,31,0.9355429304604586,Sector

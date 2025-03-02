@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wayne,692,0.48645714206158414,Overall
+Wayne,HiTech,82,0.15015206358385647,Sector
+Wayne,Agriculture,6,0.7880958840977168,Sector
+Wayne,Transportation,11,0.39749879441401026,Sector
+Wayne,Consumer_Products,61,0.7089625957462109,Sector
+Wayne,Unassigned,26,0.345498473377562,Sector
+Wayne,Communication,72,0.1165091059639185,Sector
+Wayne,Trade,57,0.630541119017117,Sector
+Wayne,Business_Services,66,0.15880085696934143,Sector
+Wayne,Business_Products,44,0.8945347573081467,Sector
+Wayne,Construction,38,0.019771196007072223,Sector
+Wayne,Services,19,0.9187677603475556,Sector
+Wayne,Mining,36,0.2689860091580374,Sector
+Wayne,Health_Care,43,0.9141489152657872,Sector
+Wayne,EnergyExpL_Prod,50,0.02734838158539743,Sector
+Wayne,Utilities,81,0.9572412180820302,Sector

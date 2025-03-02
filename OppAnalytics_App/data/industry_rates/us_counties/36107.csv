@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tioga,751,0.5984721691614462,Overall
+Tioga,HiTech,91,0.26257845013195147,Sector
+Tioga,Agriculture,66,0.18751155924126073,Sector
+Tioga,Transportation,0,0.3100419048386467,Sector
+Tioga,Consumer_Products,37,0.5596997385445731,Sector
+Tioga,Unassigned,87,0.9085441681303867,Sector
+Tioga,Communication,24,0.8637965695899825,Sector
+Tioga,Trade,26,0.7350749923955298,Sector
+Tioga,Business_Services,82,0.09422701675259781,Sector
+Tioga,Business_Products,25,0.6951913764052293,Sector
+Tioga,Construction,82,0.9205158076576632,Sector
+Tioga,Services,25,0.6212518932122306,Sector
+Tioga,Mining,48,0.9202231595120596,Sector
+Tioga,Health_Care,13,0.79812036511262,Sector
+Tioga,EnergyExpL_Prod,62,0.36287659826891594,Sector
+Tioga,Utilities,83,0.7374289376280455,Sector

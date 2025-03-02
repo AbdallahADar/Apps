@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cloud,737,0.3348229472692243,Overall
+Cloud,HiTech,39,0.46298844865571354,Sector
+Cloud,Agriculture,63,0.9570952183671688,Sector
+Cloud,Transportation,25,0.5527827390705905,Sector
+Cloud,Consumer_Products,45,0.5080050667159123,Sector
+Cloud,Unassigned,68,0.43609550862854773,Sector
+Cloud,Communication,29,0.31372850905119376,Sector
+Cloud,Trade,46,0.11041361141958483,Sector
+Cloud,Business_Services,30,0.290849040142634,Sector
+Cloud,Business_Products,94,0.011825508704130572,Sector
+Cloud,Construction,61,0.12778414009688133,Sector
+Cloud,Services,65,0.10487331890390572,Sector
+Cloud,Mining,21,0.0015058244844652346,Sector
+Cloud,Health_Care,82,0.11796235510813058,Sector
+Cloud,EnergyExpL_Prod,54,0.3808018740308564,Sector
+Cloud,Utilities,15,0.6456330456586487,Sector

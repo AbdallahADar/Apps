@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jennings,801,0.5630822634171782,Overall
+Jennings,HiTech,63,0.3929028904083556,Sector
+Jennings,Agriculture,21,0.4733824069239062,Sector
+Jennings,Transportation,25,0.6006200695640421,Sector
+Jennings,Consumer_Products,63,0.687276447255251,Sector
+Jennings,Unassigned,55,0.7948048770375014,Sector
+Jennings,Communication,51,0.39043241254125716,Sector
+Jennings,Trade,49,0.39527601161279946,Sector
+Jennings,Business_Services,38,0.021626315777319993,Sector
+Jennings,Business_Products,11,0.33415396455119994,Sector
+Jennings,Construction,78,0.8165947207800521,Sector
+Jennings,Services,85,0.6781841834061896,Sector
+Jennings,Mining,68,0.8581020398217084,Sector
+Jennings,Health_Care,75,0.6024344374941858,Sector
+Jennings,EnergyExpL_Prod,77,0.6494478997363052,Sector
+Jennings,Utilities,42,0.7509952743475989,Sector

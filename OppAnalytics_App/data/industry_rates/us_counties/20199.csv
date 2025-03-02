@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wallace,841,0.5943916557447763,Overall
+Wallace,HiTech,72,0.6149950515905682,Sector
+Wallace,Agriculture,98,0.4709864709136965,Sector
+Wallace,Transportation,63,0.28661289433746506,Sector
+Wallace,Consumer_Products,57,0.3259231031840959,Sector
+Wallace,Unassigned,71,0.2512565374036472,Sector
+Wallace,Communication,27,0.6016819582117446,Sector
+Wallace,Trade,1,0.5437495778645659,Sector
+Wallace,Business_Services,0,0.8716644829418226,Sector
+Wallace,Business_Products,63,0.9267025676625015,Sector
+Wallace,Construction,10,0.3252416222541651,Sector
+Wallace,Services,7,0.9801634246914149,Sector
+Wallace,Mining,87,0.9576690230548226,Sector
+Wallace,Health_Care,91,0.7068830764539809,Sector
+Wallace,EnergyExpL_Prod,97,0.08249635686804535,Sector
+Wallace,Utilities,97,0.9698486887391099,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Okmulgee,773,0.5355871162182472,Overall
+Okmulgee,HiTech,71,0.12657734866221337,Sector
+Okmulgee,Agriculture,78,0.24521407124554695,Sector
+Okmulgee,Transportation,83,0.6334806819885471,Sector
+Okmulgee,Consumer_Products,69,0.06969541811452629,Sector
+Okmulgee,Unassigned,34,0.2981616558427642,Sector
+Okmulgee,Communication,80,0.9708051099047807,Sector
+Okmulgee,Trade,11,0.7021072514490191,Sector
+Okmulgee,Business_Services,66,0.6013324356918011,Sector
+Okmulgee,Business_Products,54,0.830712062880121,Sector
+Okmulgee,Construction,90,0.9297089629069623,Sector
+Okmulgee,Services,1,0.474433486365611,Sector
+Okmulgee,Mining,20,0.8245449309865337,Sector
+Okmulgee,Health_Care,16,0.29651175262016394,Sector
+Okmulgee,EnergyExpL_Prod,94,0.062294916741763684,Sector
+Okmulgee,Utilities,6,0.9682266578733536,Sector

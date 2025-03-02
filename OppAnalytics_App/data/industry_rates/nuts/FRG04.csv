@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sarthe,918,0.5748987172828833,Overall
+Sarthe,HiTech,62,0.3809161865657985,Sector
+Sarthe,Agriculture,1,0.2495828552052639,Sector
+Sarthe,Transportation,91,0.7003991362662938,Sector
+Sarthe,Consumer_Products,66,0.05534983229962587,Sector
+Sarthe,Unassigned,82,0.7254130122098761,Sector
+Sarthe,Communication,59,0.6847585478985388,Sector
+Sarthe,Trade,43,0.3774187357216514,Sector
+Sarthe,Business_Services,94,0.6564006649410441,Sector
+Sarthe,Business_Products,22,0.7629359157920612,Sector
+Sarthe,Construction,69,0.7488000637322403,Sector
+Sarthe,Services,29,0.7610908557111402,Sector
+Sarthe,Mining,90,0.1279849964990697,Sector
+Sarthe,Health_Care,46,0.6622480891246326,Sector
+Sarthe,EnergyExpL_Prod,83,0.902553945810509,Sector
+Sarthe,Utilities,81,0.827627921465505,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kraj Vysočina,853,0.44162385095336515,Overall
+Kraj Vysočina,HiTech,54,0.4018442805758361,Sector
+Kraj Vysočina,Agriculture,43,0.41319483470672425,Sector
+Kraj Vysočina,Transportation,75,0.6340601874874661,Sector
+Kraj Vysočina,Consumer_Products,8,0.6408451630193781,Sector
+Kraj Vysočina,Unassigned,83,0.1389305474511051,Sector
+Kraj Vysočina,Communication,82,0.24194435655466984,Sector
+Kraj Vysočina,Trade,74,0.05300678257822866,Sector
+Kraj Vysočina,Business_Services,24,0.5216657319473946,Sector
+Kraj Vysočina,Business_Products,84,0.2519495250220991,Sector
+Kraj Vysočina,Construction,99,0.9003259902761463,Sector
+Kraj Vysočina,Services,20,0.33540930567902216,Sector
+Kraj Vysočina,Mining,55,0.6231048816195345,Sector
+Kraj Vysočina,Health_Care,75,0.282370434265392,Sector
+Kraj Vysočina,EnergyExpL_Prod,28,0.797830338837567,Sector
+Kraj Vysočina,Utilities,49,0.38787540427991396,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Foggia,796,0.5095434552843008,Overall
+Foggia,HiTech,7,0.8346090050139328,Sector
+Foggia,Agriculture,11,0.9433057747482875,Sector
+Foggia,Transportation,46,0.18284691106570272,Sector
+Foggia,Consumer_Products,92,0.8145813327312971,Sector
+Foggia,Unassigned,17,0.6089680958826116,Sector
+Foggia,Communication,87,0.6009222830106129,Sector
+Foggia,Trade,51,0.9223324529113262,Sector
+Foggia,Business_Services,70,0.18676514686843393,Sector
+Foggia,Business_Products,39,0.4380761042844371,Sector
+Foggia,Construction,84,0.04325670567309858,Sector
+Foggia,Services,9,0.8537887733859943,Sector
+Foggia,Mining,77,0.6574307767291094,Sector
+Foggia,Health_Care,91,0.1751296191041718,Sector
+Foggia,EnergyExpL_Prod,19,0.3598229040292804,Sector
+Foggia,Utilities,96,0.02131594382621682,Sector

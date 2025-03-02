@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,New Kent,726,0.44626852542127604,Overall
+New Kent,HiTech,47,0.5976936940382408,Sector
+New Kent,Agriculture,81,0.4338045278383196,Sector
+New Kent,Transportation,40,0.6827265784547429,Sector
+New Kent,Consumer_Products,6,0.2932554908387559,Sector
+New Kent,Unassigned,47,0.3513624063291205,Sector
+New Kent,Communication,94,0.09845629981102233,Sector
+New Kent,Trade,44,0.8033828607281158,Sector
+New Kent,Business_Services,81,0.012839372541845528,Sector
+New Kent,Business_Products,79,0.9332781910409252,Sector
+New Kent,Construction,29,0.08962171043145073,Sector
+New Kent,Services,24,0.7378546255456258,Sector
+New Kent,Mining,39,0.22566694118970154,Sector
+New Kent,Health_Care,47,0.3822993798677031,Sector
+New Kent,EnergyExpL_Prod,26,0.22239154102930625,Sector
+New Kent,Utilities,42,0.8293942616342647,Sector

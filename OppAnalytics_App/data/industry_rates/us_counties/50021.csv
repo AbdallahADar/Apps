@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rutland,974,0.5256452119203698,Overall
+Rutland,HiTech,73,0.6476725583514508,Sector
+Rutland,Agriculture,92,0.5884172465488243,Sector
+Rutland,Transportation,76,0.46971243736401624,Sector
+Rutland,Consumer_Products,86,0.26466143775183715,Sector
+Rutland,Unassigned,24,0.927516696554482,Sector
+Rutland,Communication,38,0.29800389134610705,Sector
+Rutland,Trade,86,0.8084483588819777,Sector
+Rutland,Business_Services,89,0.6934728990620485,Sector
+Rutland,Business_Products,43,0.04225770846829158,Sector
+Rutland,Construction,54,0.9903021219300969,Sector
+Rutland,Services,54,0.06838337147378926,Sector
+Rutland,Mining,95,0.5478826471600784,Sector
+Rutland,Health_Care,37,0.16084934536316586,Sector
+Rutland,EnergyExpL_Prod,99,0.9740274058060214,Sector
+Rutland,Utilities,28,0.4030700527433595,Sector

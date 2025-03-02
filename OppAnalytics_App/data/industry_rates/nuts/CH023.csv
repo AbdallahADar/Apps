@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Solothurn,703,0.45416982650252297,Overall
+Solothurn,HiTech,39,0.07940391462742158,Sector
+Solothurn,Agriculture,54,0.3115002788297401,Sector
+Solothurn,Transportation,25,0.9644588837325265,Sector
+Solothurn,Consumer_Products,35,0.09401419257019306,Sector
+Solothurn,Unassigned,63,0.11377559803570836,Sector
+Solothurn,Communication,66,0.4499590071579129,Sector
+Solothurn,Trade,35,0.25756702463821746,Sector
+Solothurn,Business_Services,76,0.7698066040673338,Sector
+Solothurn,Business_Products,33,0.5220248364089515,Sector
+Solothurn,Construction,83,0.9214943626761,Sector
+Solothurn,Services,35,0.4923342027193064,Sector
+Solothurn,Mining,18,0.32398804835916506,Sector
+Solothurn,Health_Care,48,0.7456990464109736,Sector
+Solothurn,EnergyExpL_Prod,17,0.7415375270535592,Sector
+Solothurn,Utilities,76,0.02498387025073512,Sector

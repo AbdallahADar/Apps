@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Staunton,555,0.5126897467650992,Overall
+Staunton,HiTech,87,0.6911578825729524,Sector
+Staunton,Agriculture,17,0.46473597997707716,Sector
+Staunton,Transportation,88,0.27279436826440984,Sector
+Staunton,Consumer_Products,3,0.5084602150879083,Sector
+Staunton,Unassigned,25,0.6781111558826044,Sector
+Staunton,Communication,21,0.37566512369847416,Sector
+Staunton,Trade,17,0.9160901474590216,Sector
+Staunton,Business_Services,14,0.5537106547438966,Sector
+Staunton,Business_Products,89,0.4875838447336227,Sector
+Staunton,Construction,12,0.00019493551845206625,Sector
+Staunton,Services,44,0.1885502451527472,Sector
+Staunton,Mining,10,0.31650510313391256,Sector
+Staunton,Health_Care,39,0.8865105950403462,Sector
+Staunton,EnergyExpL_Prod,76,0.6141516029462313,Sector
+Staunton,Utilities,13,0.7361243472648314,Sector

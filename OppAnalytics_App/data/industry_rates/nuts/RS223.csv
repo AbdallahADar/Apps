@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zaječarska oblast,672,0.5447470194544188,Overall
+Zaječarska oblast,HiTech,67,0.8324913017627155,Sector
+Zaječarska oblast,Agriculture,79,0.2437751376190278,Sector
+Zaječarska oblast,Transportation,69,0.2329858373827256,Sector
+Zaječarska oblast,Consumer_Products,94,0.7360152586561534,Sector
+Zaječarska oblast,Unassigned,50,0.7724093717308579,Sector
+Zaječarska oblast,Communication,86,0.23122712864207828,Sector
+Zaječarska oblast,Trade,20,0.7170176663978702,Sector
+Zaječarska oblast,Business_Services,13,0.6630914418660728,Sector
+Zaječarska oblast,Business_Products,83,0.5202597655236098,Sector
+Zaječarska oblast,Construction,4,0.9195486047957007,Sector
+Zaječarska oblast,Services,9,0.6669629196073015,Sector
+Zaječarska oblast,Mining,75,0.279360439766842,Sector
+Zaječarska oblast,Health_Care,3,0.44424145923522584,Sector
+Zaječarska oblast,EnergyExpL_Prod,8,0.5943353248256944,Sector
+Zaječarska oblast,Utilities,12,0.31748363400440693,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Faribault,730,0.547080932097062,Overall
+Faribault,HiTech,94,0.7369798376375729,Sector
+Faribault,Agriculture,19,0.06064364822521118,Sector
+Faribault,Transportation,42,0.11305156546971662,Sector
+Faribault,Consumer_Products,21,0.44789754335840837,Sector
+Faribault,Unassigned,55,0.8937401589724173,Sector
+Faribault,Communication,90,0.15461869624854152,Sector
+Faribault,Trade,77,0.15915005626478163,Sector
+Faribault,Business_Services,45,0.43574884325977126,Sector
+Faribault,Business_Products,55,0.8740971653743307,Sector
+Faribault,Construction,7,0.3035847204193851,Sector
+Faribault,Services,55,0.8268262696862467,Sector
+Faribault,Mining,90,0.919965843377637,Sector
+Faribault,Health_Care,4,0.5603333637140968,Sector
+Faribault,EnergyExpL_Prod,16,0.8410000917788063,Sector
+Faribault,Utilities,60,0.8785761776690048,Sector

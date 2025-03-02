@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wilcox,646,0.4354389562190996,Overall
+Wilcox,HiTech,12,0.229217098162936,Sector
+Wilcox,Agriculture,66,0.3340980652468033,Sector
+Wilcox,Transportation,58,0.9730738163609908,Sector
+Wilcox,Consumer_Products,20,0.3583754526141216,Sector
+Wilcox,Unassigned,17,0.21128662603535264,Sector
+Wilcox,Communication,26,0.16248627921106995,Sector
+Wilcox,Trade,17,0.42601818516706735,Sector
+Wilcox,Business_Services,88,0.7397054081360387,Sector
+Wilcox,Business_Products,38,0.7988500009105752,Sector
+Wilcox,Construction,64,0.642663746806049,Sector
+Wilcox,Services,59,0.45487614907311436,Sector
+Wilcox,Mining,69,0.06920090825824299,Sector
+Wilcox,Health_Care,24,0.722060551663802,Sector
+Wilcox,EnergyExpL_Prod,85,0.07483495737978862,Sector
+Wilcox,Utilities,3,0.3348370982605411,Sector

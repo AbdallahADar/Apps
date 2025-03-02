@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hardeman,743,0.33327176397249014,Overall
+Hardeman,HiTech,45,0.20877629167968226,Sector
+Hardeman,Agriculture,33,0.6741031995790101,Sector
+Hardeman,Transportation,27,0.36838499402138025,Sector
+Hardeman,Consumer_Products,3,0.023533510828688486,Sector
+Hardeman,Unassigned,15,0.047450196244579246,Sector
+Hardeman,Communication,89,0.2879021690277833,Sector
+Hardeman,Trade,89,0.9190749884791337,Sector
+Hardeman,Business_Services,38,0.2054449482832057,Sector
+Hardeman,Business_Products,93,0.2597962071856238,Sector
+Hardeman,Construction,66,0.12556353834632417,Sector
+Hardeman,Services,9,0.05385456697337809,Sector
+Hardeman,Mining,77,0.9357765756875149,Sector
+Hardeman,Health_Care,42,0.028668558884692108,Sector
+Hardeman,EnergyExpL_Prod,48,0.32752629951671586,Sector
+Hardeman,Utilities,69,0.5332204148496389,Sector

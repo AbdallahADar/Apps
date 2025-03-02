@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Monmouth,670,0.40044889142071455,Overall
+Monmouth,HiTech,53,0.4994474411486891,Sector
+Monmouth,Agriculture,4,0.14696785808813562,Sector
+Monmouth,Transportation,98,0.14335483262909143,Sector
+Monmouth,Consumer_Products,55,0.44937842223380464,Sector
+Monmouth,Unassigned,54,0.7461459279698669,Sector
+Monmouth,Communication,32,0.2970720591985446,Sector
+Monmouth,Trade,46,0.29433427090280606,Sector
+Monmouth,Business_Services,53,0.42643877478897796,Sector
+Monmouth,Business_Products,11,0.1685691128083756,Sector
+Monmouth,Construction,96,0.9139903441776773,Sector
+Monmouth,Services,13,0.6901263417630453,Sector
+Monmouth,Mining,39,0.10915877459834822,Sector
+Monmouth,Health_Care,13,0.5575410096860592,Sector
+Monmouth,EnergyExpL_Prod,67,0.49019715005458275,Sector
+Monmouth,Utilities,36,0.07401105126271179,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Seine-et-Marne ,719,0.3106227691994023,Overall
+Seine-et-Marne ,HiTech,14,0.20603424853239183,Sector
+Seine-et-Marne ,Agriculture,70,0.5950402338687245,Sector
+Seine-et-Marne ,Transportation,12,0.11679050054896345,Sector
+Seine-et-Marne ,Consumer_Products,65,0.5886434003527139,Sector
+Seine-et-Marne ,Unassigned,92,0.17451050313194072,Sector
+Seine-et-Marne ,Communication,71,0.20953164880336583,Sector
+Seine-et-Marne ,Trade,21,0.09967526114317382,Sector
+Seine-et-Marne ,Business_Services,74,0.1931612675669755,Sector
+Seine-et-Marne ,Business_Products,77,0.5152508352597588,Sector
+Seine-et-Marne ,Construction,73,0.18205995932372532,Sector
+Seine-et-Marne ,Services,3,0.06947557583667974,Sector
+Seine-et-Marne ,Mining,54,0.7314694697141483,Sector
+Seine-et-Marne ,Health_Care,79,0.15371780387063239,Sector
+Seine-et-Marne ,EnergyExpL_Prod,1,0.23579095408875028,Sector
+Seine-et-Marne ,Utilities,13,0.5881898759490911,Sector

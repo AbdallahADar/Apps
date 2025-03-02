@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Humphreys,678,0.5764334540304662,Overall
+Humphreys,HiTech,5,0.9335677569961902,Sector
+Humphreys,Agriculture,57,0.3108662356748184,Sector
+Humphreys,Transportation,12,0.06251400431951704,Sector
+Humphreys,Consumer_Products,29,0.16317631449798675,Sector
+Humphreys,Unassigned,70,0.5958169944234913,Sector
+Humphreys,Communication,94,0.6685304301082848,Sector
+Humphreys,Trade,78,0.07828606246771241,Sector
+Humphreys,Business_Services,79,0.6196266144531064,Sector
+Humphreys,Business_Products,54,0.8884743143881475,Sector
+Humphreys,Construction,97,0.4003569437257306,Sector
+Humphreys,Services,32,0.8891802254670349,Sector
+Humphreys,Mining,0,0.7562164269514392,Sector
+Humphreys,Health_Care,23,0.6911978335391518,Sector
+Humphreys,EnergyExpL_Prod,6,0.6559638741113082,Sector
+Humphreys,Utilities,42,0.9327277793330726,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Racine,636,0.4353084974940959,Overall
+Racine,HiTech,81,0.36954318095215444,Sector
+Racine,Agriculture,45,0.10958379455469247,Sector
+Racine,Transportation,19,0.7817351673717952,Sector
+Racine,Consumer_Products,42,0.830083971203919,Sector
+Racine,Unassigned,1,0.5363889957733898,Sector
+Racine,Communication,77,0.3423305432760678,Sector
+Racine,Trade,3,0.5140506613468181,Sector
+Racine,Business_Services,19,0.2337785351556153,Sector
+Racine,Business_Products,98,0.12839113976798056,Sector
+Racine,Construction,27,0.1990995225266754,Sector
+Racine,Services,52,0.5770722462116734,Sector
+Racine,Mining,88,0.8915163978772068,Sector
+Racine,Health_Care,59,0.42025108989967763,Sector
+Racine,EnergyExpL_Prod,13,0.027751528673701897,Sector
+Racine,Utilities,12,0.5680506878200715,Sector

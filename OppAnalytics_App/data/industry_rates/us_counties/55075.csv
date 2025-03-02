@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Marinette,705,0.5777637304503943,Overall
+Marinette,HiTech,54,0.9393642403503919,Sector
+Marinette,Agriculture,65,0.6860314805186067,Sector
+Marinette,Transportation,28,0.6009397942418748,Sector
+Marinette,Consumer_Products,61,0.7071406897771692,Sector
+Marinette,Unassigned,25,0.7788741086096523,Sector
+Marinette,Communication,16,0.414433614666451,Sector
+Marinette,Trade,55,0.6163287660264877,Sector
+Marinette,Business_Services,13,0.7195658474791664,Sector
+Marinette,Business_Products,15,0.3680024083110226,Sector
+Marinette,Construction,78,0.6216964138164668,Sector
+Marinette,Services,49,0.10328686672975862,Sector
+Marinette,Mining,72,0.6839712456584344,Sector
+Marinette,Health_Care,24,0.5190433390183203,Sector
+Marinette,EnergyExpL_Prod,92,0.5184553018907438,Sector
+Marinette,Utilities,58,0.3893218396613696,Sector

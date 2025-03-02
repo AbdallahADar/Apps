@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zuidoost-Noord-Brabant,642,0.5053954989485766,Overall
+Zuidoost-Noord-Brabant,HiTech,86,0.06547022450424433,Sector
+Zuidoost-Noord-Brabant,Agriculture,4,0.35394677123470475,Sector
+Zuidoost-Noord-Brabant,Transportation,87,0.4144963806537578,Sector
+Zuidoost-Noord-Brabant,Consumer_Products,96,0.8093278983468315,Sector
+Zuidoost-Noord-Brabant,Unassigned,2,0.3614315880183736,Sector
+Zuidoost-Noord-Brabant,Communication,86,0.779489082946463,Sector
+Zuidoost-Noord-Brabant,Trade,36,0.4440986599589536,Sector
+Zuidoost-Noord-Brabant,Business_Services,53,0.5176595187694354,Sector
+Zuidoost-Noord-Brabant,Business_Products,38,0.9604534837417789,Sector
+Zuidoost-Noord-Brabant,Construction,97,0.041783078000039664,Sector
+Zuidoost-Noord-Brabant,Services,5,0.8779138676616614,Sector
+Zuidoost-Noord-Brabant,Mining,24,0.5147413660274879,Sector
+Zuidoost-Noord-Brabant,Health_Care,3,0.3073017953242356,Sector
+Zuidoost-Noord-Brabant,EnergyExpL_Prod,8,0.667570442127126,Sector
+Zuidoost-Noord-Brabant,Utilities,17,0.4652483269135559,Sector

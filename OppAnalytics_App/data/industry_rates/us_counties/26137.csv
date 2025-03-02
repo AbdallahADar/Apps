@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Otsego,810,0.37344919445385943,Overall
+Otsego,HiTech,1,0.5276380735451439,Sector
+Otsego,Agriculture,90,0.2658145127302245,Sector
+Otsego,Transportation,66,0.5962343589932911,Sector
+Otsego,Consumer_Products,40,0.16206814031930294,Sector
+Otsego,Unassigned,82,0.033859198133154855,Sector
+Otsego,Communication,55,0.436500051444494,Sector
+Otsego,Trade,40,0.7096529633735335,Sector
+Otsego,Business_Services,84,0.41407331852082896,Sector
+Otsego,Business_Products,89,0.8846583346688243,Sector
+Otsego,Construction,44,0.14422099705138247,Sector
+Otsego,Services,41,0.9188303765420621,Sector
+Otsego,Mining,25,0.19868188475558635,Sector
+Otsego,Health_Care,56,0.08163797317595811,Sector
+Otsego,EnergyExpL_Prod,40,0.17654260602573313,Sector
+Otsego,Utilities,57,0.05132512752837082,Sector

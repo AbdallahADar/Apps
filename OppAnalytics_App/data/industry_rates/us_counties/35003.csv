@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Catron,825,0.44814927460555315,Overall
+Catron,HiTech,8,0.48304268548751295,Sector
+Catron,Agriculture,78,0.5823615685181646,Sector
+Catron,Transportation,40,0.9988029452292503,Sector
+Catron,Consumer_Products,65,0.13237777235948134,Sector
+Catron,Unassigned,80,0.5679655622318545,Sector
+Catron,Communication,63,0.0826689359002547,Sector
+Catron,Trade,20,0.734758150486913,Sector
+Catron,Business_Services,79,0.8319149472175417,Sector
+Catron,Business_Products,94,0.2163355013045578,Sector
+Catron,Construction,10,0.8967925067568632,Sector
+Catron,Services,80,0.4746982199785923,Sector
+Catron,Mining,87,0.13624893359999446,Sector
+Catron,Health_Care,23,0.3503181874264495,Sector
+Catron,EnergyExpL_Prod,15,0.19518589037124257,Sector
+Catron,Utilities,83,0.03876731221462448,Sector

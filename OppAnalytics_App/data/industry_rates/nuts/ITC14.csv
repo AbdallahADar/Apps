@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Verbano-Cusio-Ossola,608,0.49000452206561823,Overall
+Verbano-Cusio-Ossola,HiTech,82,0.2168603684699888,Sector
+Verbano-Cusio-Ossola,Agriculture,52,0.9730404054449241,Sector
+Verbano-Cusio-Ossola,Transportation,19,0.4558039018273339,Sector
+Verbano-Cusio-Ossola,Consumer_Products,86,0.6140116986375388,Sector
+Verbano-Cusio-Ossola,Unassigned,66,0.29157094572103603,Sector
+Verbano-Cusio-Ossola,Communication,83,0.8311381266443808,Sector
+Verbano-Cusio-Ossola,Trade,14,0.709073606863172,Sector
+Verbano-Cusio-Ossola,Business_Services,20,0.20841775805902252,Sector
+Verbano-Cusio-Ossola,Business_Products,24,0.25782378671418604,Sector
+Verbano-Cusio-Ossola,Construction,52,0.8192350189029226,Sector
+Verbano-Cusio-Ossola,Services,4,0.39917565697586777,Sector
+Verbano-Cusio-Ossola,Mining,6,0.48110418321139126,Sector
+Verbano-Cusio-Ossola,Health_Care,81,0.3942481312226751,Sector
+Verbano-Cusio-Ossola,EnergyExpL_Prod,0,0.398615112293084,Sector
+Verbano-Cusio-Ossola,Utilities,19,0.2999491299967507,Sector

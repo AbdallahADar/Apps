@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Møre og Romsdal,689,0.5433678905978516,Overall
+Møre og Romsdal,HiTech,51,0.6245037236096255,Sector
+Møre og Romsdal,Agriculture,98,0.4281102028077266,Sector
+Møre og Romsdal,Transportation,37,0.050710128721127457,Sector
+Møre og Romsdal,Consumer_Products,80,0.8166149980926171,Sector
+Møre og Romsdal,Unassigned,77,0.7936466146260196,Sector
+Møre og Romsdal,Communication,16,0.21578109676783497,Sector
+Møre og Romsdal,Trade,39,0.798862167088336,Sector
+Møre og Romsdal,Business_Services,50,0.26257658638490833,Sector
+Møre og Romsdal,Business_Products,32,0.9520649233963688,Sector
+Møre og Romsdal,Construction,11,0.8164618425677099,Sector
+Møre og Romsdal,Services,52,0.911606460887735,Sector
+Møre og Romsdal,Mining,11,0.19605093943165453,Sector
+Møre og Romsdal,Health_Care,2,0.6864559331375154,Sector
+Møre og Romsdal,EnergyExpL_Prod,36,0.060251687067558235,Sector
+Møre og Romsdal,Utilities,97,0.5368210543810358,Sector

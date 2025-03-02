@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Korcë,821,0.40867081726349447,Overall
+Korcë,HiTech,89,0.7026056570766966,Sector
+Korcë,Agriculture,87,0.009358417404385144,Sector
+Korcë,Transportation,95,0.8023792126363588,Sector
+Korcë,Consumer_Products,13,0.17032066177549599,Sector
+Korcë,Unassigned,41,0.014548524699478538,Sector
+Korcë,Communication,73,0.2539776392698365,Sector
+Korcë,Trade,18,0.15298739821420793,Sector
+Korcë,Business_Services,86,0.606048960718703,Sector
+Korcë,Business_Products,55,0.43151756011917985,Sector
+Korcë,Construction,31,0.5928059059877949,Sector
+Korcë,Services,84,0.15099391349436075,Sector
+Korcë,Mining,16,0.761184466275767,Sector
+Korcë,Health_Care,23,0.529778297862391,Sector
+Korcë,EnergyExpL_Prod,95,0.3614441561487787,Sector
+Korcë,Utilities,15,0.5901114872689814,Sector

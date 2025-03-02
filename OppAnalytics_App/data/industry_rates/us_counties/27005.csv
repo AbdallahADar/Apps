@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Becker,433,0.38526122308504546,Overall
+Becker,HiTech,47,0.019296169037051114,Sector
+Becker,Agriculture,5,0.7608522005939293,Sector
+Becker,Transportation,6,0.10618951032723156,Sector
+Becker,Consumer_Products,77,0.8522627203379477,Sector
+Becker,Unassigned,92,0.0695221898556605,Sector
+Becker,Communication,39,0.11975842995077957,Sector
+Becker,Trade,13,0.15168025471118718,Sector
+Becker,Business_Services,22,0.5389004733779721,Sector
+Becker,Business_Products,11,0.3278061082589313,Sector
+Becker,Construction,5,0.5884159099975168,Sector
+Becker,Services,70,0.5023963176201343,Sector
+Becker,Mining,21,0.18302168138022956,Sector
+Becker,Health_Care,9,0.11752750044034388,Sector
+Becker,EnergyExpL_Prod,16,0.5464209166227029,Sector
+Becker,Utilities,0,0.8948679637640634,Sector

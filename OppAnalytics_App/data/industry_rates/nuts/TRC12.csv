@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Adıyaman,863,0.525282158793057,Overall
+Adıyaman,HiTech,8,0.48973232536660716,Sector
+Adıyaman,Agriculture,87,0.8308718238873136,Sector
+Adıyaman,Transportation,9,0.12376865170526619,Sector
+Adıyaman,Consumer_Products,5,0.1013346902590333,Sector
+Adıyaman,Unassigned,64,0.595718365793522,Sector
+Adıyaman,Communication,63,0.5332231176203754,Sector
+Adıyaman,Trade,41,0.9942293435428577,Sector
+Adıyaman,Business_Services,97,0.4184076702119811,Sector
+Adıyaman,Business_Products,77,0.040303342991976354,Sector
+Adıyaman,Construction,89,0.8811806151513631,Sector
+Adıyaman,Services,65,0.7913324340495268,Sector
+Adıyaman,Mining,88,0.47038086647243504,Sector
+Adıyaman,Health_Care,49,0.7230770785707392,Sector
+Adıyaman,EnergyExpL_Prod,86,0.4561473744338862,Sector
+Adıyaman,Utilities,35,0.4295246818389722,Sector

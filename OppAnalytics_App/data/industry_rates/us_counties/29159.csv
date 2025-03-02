@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pettis,837,0.4187454300180241,Overall
+Pettis,HiTech,33,0.41493637857072985,Sector
+Pettis,Agriculture,36,0.9100313734158114,Sector
+Pettis,Transportation,80,0.2160514899476863,Sector
+Pettis,Consumer_Products,77,0.23776723577553105,Sector
+Pettis,Unassigned,49,0.2470652608305437,Sector
+Pettis,Communication,66,0.446999173227721,Sector
+Pettis,Trade,64,0.731274001215443,Sector
+Pettis,Business_Services,48,0.225976982702206,Sector
+Pettis,Business_Products,27,0.0096657549914958,Sector
+Pettis,Construction,87,0.7087647096735695,Sector
+Pettis,Services,51,0.557425638407319,Sector
+Pettis,Mining,63,0.38779549424447723,Sector
+Pettis,Health_Care,10,0.23138870416886848,Sector
+Pettis,EnergyExpL_Prod,66,0.3696233480304504,Sector
+Pettis,Utilities,80,0.5864159050685092,Sector

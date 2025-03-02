@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rockwall,693,0.5746449806829355,Overall
+Rockwall,HiTech,85,0.9353161214327343,Sector
+Rockwall,Agriculture,12,0.19425168691281036,Sector
+Rockwall,Transportation,90,0.6143016152070363,Sector
+Rockwall,Consumer_Products,31,0.6382174242356149,Sector
+Rockwall,Unassigned,30,0.08181029570341936,Sector
+Rockwall,Communication,98,0.9721739198575128,Sector
+Rockwall,Trade,21,0.23909190580368922,Sector
+Rockwall,Business_Services,74,0.5668732296192749,Sector
+Rockwall,Business_Products,18,0.4225900791889863,Sector
+Rockwall,Construction,15,0.2920253609225846,Sector
+Rockwall,Services,56,0.6913221215646078,Sector
+Rockwall,Mining,52,0.5676776544540096,Sector
+Rockwall,Health_Care,39,0.79470021850733,Sector
+Rockwall,EnergyExpL_Prod,54,0.6964170810830962,Sector
+Rockwall,Utilities,18,0.9129059957513244,Sector

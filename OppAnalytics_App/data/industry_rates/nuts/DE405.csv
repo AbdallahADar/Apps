@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Barnim,711,0.5356030692136212,Overall
+Barnim,HiTech,70,0.5835978444306014,Sector
+Barnim,Agriculture,42,0.6779586655484116,Sector
+Barnim,Transportation,59,0.5267657245398308,Sector
+Barnim,Consumer_Products,19,0.6276940893684922,Sector
+Barnim,Unassigned,60,0.06267242390046013,Sector
+Barnim,Communication,28,0.26189031766739646,Sector
+Barnim,Trade,49,0.50804913137418,Sector
+Barnim,Business_Services,56,0.5681068556682273,Sector
+Barnim,Business_Products,57,0.5921647584947457,Sector
+Barnim,Construction,6,0.9700830188728563,Sector
+Barnim,Services,39,0.5985476168558708,Sector
+Barnim,Mining,81,0.12214106145146508,Sector
+Barnim,Health_Care,39,0.3212022812697495,Sector
+Barnim,EnergyExpL_Prod,34,0.6728547176430809,Sector
+Barnim,Utilities,72,0.9403175311189497,Sector

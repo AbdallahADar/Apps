@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oslo,841,0.40424577389884064,Overall
+Oslo,HiTech,20,0.14968357017213496,Sector
+Oslo,Agriculture,71,0.324830578568445,Sector
+Oslo,Transportation,81,0.8265422797375702,Sector
+Oslo,Consumer_Products,76,0.22104572231634811,Sector
+Oslo,Unassigned,48,0.09033722667057675,Sector
+Oslo,Communication,59,0.12476666148376436,Sector
+Oslo,Trade,39,0.6479435563963848,Sector
+Oslo,Business_Services,67,0.9676787663430505,Sector
+Oslo,Business_Products,72,0.6449829649323968,Sector
+Oslo,Construction,59,0.16425488177558223,Sector
+Oslo,Services,82,0.5202300586448367,Sector
+Oslo,Mining,24,0.10242694260861329,Sector
+Oslo,Health_Care,17,0.4213505797485668,Sector
+Oslo,EnergyExpL_Prod,86,0.7357856177538736,Sector
+Oslo,Utilities,40,0.12182720133046576,Sector

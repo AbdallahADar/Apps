@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Forest,555,0.5682527421664559,Overall
+Forest,HiTech,12,0.05472054530666648,Sector
+Forest,Agriculture,44,0.6599665965169629,Sector
+Forest,Transportation,7,0.0304768620774597,Sector
+Forest,Consumer_Products,2,0.356575756031691,Sector
+Forest,Unassigned,60,0.25661727852261507,Sector
+Forest,Communication,13,0.7303277860109624,Sector
+Forest,Trade,65,0.7421158654296678,Sector
+Forest,Business_Services,15,0.7645096250903216,Sector
+Forest,Business_Products,44,0.45586879216659115,Sector
+Forest,Construction,60,0.5463218948959101,Sector
+Forest,Services,38,0.5286915291782656,Sector
+Forest,Mining,57,0.9855268784023888,Sector
+Forest,Health_Care,25,0.9926564158884218,Sector
+Forest,EnergyExpL_Prod,57,0.4584904339473016,Sector
+Forest,Utilities,56,0.9609248730316129,Sector

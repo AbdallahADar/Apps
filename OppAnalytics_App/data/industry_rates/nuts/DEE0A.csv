@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mansfeld-Südharz,589,0.598801284449262,Overall
+Mansfeld-Südharz,HiTech,24,0.7996867349986109,Sector
+Mansfeld-Südharz,Agriculture,51,0.2676362498442577,Sector
+Mansfeld-Südharz,Transportation,76,0.24468139385576804,Sector
+Mansfeld-Südharz,Consumer_Products,89,0.6102669117665345,Sector
+Mansfeld-Südharz,Unassigned,69,0.5182982614832066,Sector
+Mansfeld-Südharz,Communication,72,0.83770769045043,Sector
+Mansfeld-Südharz,Trade,17,0.8403644175237428,Sector
+Mansfeld-Südharz,Business_Services,73,0.40232622639155324,Sector
+Mansfeld-Südharz,Business_Products,6,0.25313657960492786,Sector
+Mansfeld-Südharz,Construction,16,0.5106367342001895,Sector
+Mansfeld-Südharz,Services,11,0.6829127734556557,Sector
+Mansfeld-Südharz,Mining,7,0.8903425872855663,Sector
+Mansfeld-Südharz,Health_Care,0,0.9742035943245505,Sector
+Mansfeld-Südharz,EnergyExpL_Prod,4,0.7051530993150746,Sector
+Mansfeld-Südharz,Utilities,74,0.4446660122388598,Sector

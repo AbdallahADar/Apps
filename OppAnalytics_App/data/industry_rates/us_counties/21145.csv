@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McCracken,878,0.46836931115540154,Overall
+McCracken,HiTech,95,0.0007559222004158705,Sector
+McCracken,Agriculture,67,0.558459680371651,Sector
+McCracken,Transportation,78,0.6503778865351455,Sector
+McCracken,Consumer_Products,52,0.7705749769175587,Sector
+McCracken,Unassigned,99,0.8276380629605914,Sector
+McCracken,Communication,80,0.9474585818238764,Sector
+McCracken,Trade,62,0.5877965257390766,Sector
+McCracken,Business_Services,65,0.7449641609924803,Sector
+McCracken,Business_Products,42,0.5800623194083661,Sector
+McCracken,Construction,50,0.05096030552369779,Sector
+McCracken,Services,24,0.3859434845284525,Sector
+McCracken,Mining,35,0.19742957661136218,Sector
+McCracken,Health_Care,0,0.5782970893996766,Sector
+McCracken,EnergyExpL_Prod,40,0.014718577144333,Sector
+McCracken,Utilities,89,0.13010251717434007,Sector

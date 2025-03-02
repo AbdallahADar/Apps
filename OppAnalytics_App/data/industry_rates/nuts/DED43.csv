@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mittelsachsen,906,0.5004135400533815,Overall
+Mittelsachsen,HiTech,85,0.7269597375860894,Sector
+Mittelsachsen,Agriculture,49,0.7667909823526508,Sector
+Mittelsachsen,Transportation,51,0.3911333201917716,Sector
+Mittelsachsen,Consumer_Products,67,0.7738795317525443,Sector
+Mittelsachsen,Unassigned,75,0.12318705111997919,Sector
+Mittelsachsen,Communication,30,0.29531636167856856,Sector
+Mittelsachsen,Trade,45,0.5133449913965394,Sector
+Mittelsachsen,Business_Services,72,0.22602375954144027,Sector
+Mittelsachsen,Business_Products,99,0.7830460885580607,Sector
+Mittelsachsen,Construction,59,0.4017885727152555,Sector
+Mittelsachsen,Services,50,0.16602296048630993,Sector
+Mittelsachsen,Mining,43,0.8261841024305931,Sector
+Mittelsachsen,Health_Care,16,0.20368641323456005,Sector
+Mittelsachsen,EnergyExpL_Prod,66,0.5897364547947445,Sector
+Mittelsachsen,Utilities,99,0.7191027729616147,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Skagway,843,0.4693128756220405,Overall
+Skagway,HiTech,33,0.6005958946405552,Sector
+Skagway,Agriculture,99,0.12583211032983976,Sector
+Skagway,Transportation,39,0.8710355177956202,Sector
+Skagway,Consumer_Products,79,0.6703310660883873,Sector
+Skagway,Unassigned,79,0.33403864723981525,Sector
+Skagway,Communication,19,0.6296310441876012,Sector
+Skagway,Trade,50,0.13548723067104818,Sector
+Skagway,Business_Services,95,0.44310848413551196,Sector
+Skagway,Business_Products,13,0.5538201716929345,Sector
+Skagway,Construction,7,0.6904214544959884,Sector
+Skagway,Services,48,0.0309913520549725,Sector
+Skagway,Mining,81,0.6669306439106125,Sector
+Skagway,Health_Care,76,0.614651655542164,Sector
+Skagway,EnergyExpL_Prod,36,0.35922874002703875,Sector
+Skagway,Utilities,89,0.31358912151851814,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Schoolcraft,563,0.42557532841955364,Overall
+Schoolcraft,HiTech,80,0.7897305200000065,Sector
+Schoolcraft,Agriculture,63,0.2681429570544682,Sector
+Schoolcraft,Transportation,61,0.2901269992312454,Sector
+Schoolcraft,Consumer_Products,15,0.8841353663622363,Sector
+Schoolcraft,Unassigned,63,0.5397656161609489,Sector
+Schoolcraft,Communication,52,0.332302062896203,Sector
+Schoolcraft,Trade,17,0.3472355815555912,Sector
+Schoolcraft,Business_Services,5,0.35966281306610215,Sector
+Schoolcraft,Business_Products,42,0.4420829015999873,Sector
+Schoolcraft,Construction,6,0.3379741240417593,Sector
+Schoolcraft,Services,61,0.05726505002483251,Sector
+Schoolcraft,Mining,3,0.5266016500351672,Sector
+Schoolcraft,Health_Care,12,0.24620081993304754,Sector
+Schoolcraft,EnergyExpL_Prod,66,0.06952561784514455,Sector
+Schoolcraft,Utilities,17,0.8928778464865637,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Boise,796,0.5004817920098545,Overall
+Boise,HiTech,81,0.9056126923734904,Sector
+Boise,Agriculture,33,0.8037309410668356,Sector
+Boise,Transportation,69,0.028060776727649284,Sector
+Boise,Consumer_Products,97,0.6217107191349475,Sector
+Boise,Unassigned,15,0.9974086906705221,Sector
+Boise,Communication,42,0.45003216577547,Sector
+Boise,Trade,14,0.3301496222986515,Sector
+Boise,Business_Services,56,0.9694036543862218,Sector
+Boise,Business_Products,37,0.12127578349228019,Sector
+Boise,Construction,43,0.2083855659119198,Sector
+Boise,Services,51,0.6399013256114363,Sector
+Boise,Mining,81,0.39597609311655046,Sector
+Boise,Health_Care,77,0.574654938418224,Sector
+Boise,EnergyExpL_Prod,81,0.1831869934743786,Sector
+Boise,Utilities,19,0.2777369176892417,Sector

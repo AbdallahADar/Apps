@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cotton,671,0.47113980506044106,Overall
+Cotton,HiTech,87,0.8058237453207285,Sector
+Cotton,Agriculture,30,0.4704753530427921,Sector
+Cotton,Transportation,8,0.8902638869748675,Sector
+Cotton,Consumer_Products,28,0.04514295338055219,Sector
+Cotton,Unassigned,93,0.47307856219685596,Sector
+Cotton,Communication,51,0.024069774537419653,Sector
+Cotton,Trade,8,0.8813733808190785,Sector
+Cotton,Business_Services,20,0.06124594406630901,Sector
+Cotton,Business_Products,57,0.8758789241815693,Sector
+Cotton,Construction,0,0.7231664701605535,Sector
+Cotton,Services,34,0.430577571570145,Sector
+Cotton,Mining,84,0.2732147541084303,Sector
+Cotton,Health_Care,99,0.3950608801005213,Sector
+Cotton,EnergyExpL_Prod,71,0.3304053202188192,Sector
+Cotton,Utilities,1,0.3873195552279747,Sector

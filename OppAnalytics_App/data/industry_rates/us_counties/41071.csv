@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yamhill,797,0.6394954456346472,Overall
+Yamhill,HiTech,73,0.6052418458650141,Sector
+Yamhill,Agriculture,52,0.5760292474015289,Sector
+Yamhill,Transportation,79,0.9427753054486739,Sector
+Yamhill,Consumer_Products,17,0.2966279270953911,Sector
+Yamhill,Unassigned,31,0.41668577478492286,Sector
+Yamhill,Communication,62,0.5672489191316807,Sector
+Yamhill,Trade,22,0.5746252328271982,Sector
+Yamhill,Business_Services,87,0.9972603010187675,Sector
+Yamhill,Business_Products,28,0.728728320205629,Sector
+Yamhill,Construction,7,0.9198511410260426,Sector
+Yamhill,Services,60,0.8403262369733998,Sector
+Yamhill,Mining,58,0.06708073790291391,Sector
+Yamhill,Health_Care,51,0.3345126138001735,Sector
+Yamhill,EnergyExpL_Prod,83,0.795401739590525,Sector
+Yamhill,Utilities,87,0.9300363414478456,Sector

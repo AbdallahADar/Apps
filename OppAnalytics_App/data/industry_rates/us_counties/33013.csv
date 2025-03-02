@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Merrimack,864,0.4468042045705754,Overall
+Merrimack,HiTech,93,0.8342735943062518,Sector
+Merrimack,Agriculture,7,0.5737089889119332,Sector
+Merrimack,Transportation,72,0.008386305251663173,Sector
+Merrimack,Consumer_Products,7,0.8509938073653485,Sector
+Merrimack,Unassigned,79,0.6771180515921432,Sector
+Merrimack,Communication,24,0.17802239334205938,Sector
+Merrimack,Trade,36,0.28727786748297557,Sector
+Merrimack,Business_Services,90,0.0856957126401453,Sector
+Merrimack,Business_Products,73,0.05916255945997617,Sector
+Merrimack,Construction,57,0.1429811721133084,Sector
+Merrimack,Services,15,0.9669952881699952,Sector
+Merrimack,Mining,96,0.5531411809201578,Sector
+Merrimack,Health_Care,85,0.8812269605342101,Sector
+Merrimack,EnergyExpL_Prod,77,0.09666122708851665,Sector
+Merrimack,Utilities,53,0.5064179593799459,Sector

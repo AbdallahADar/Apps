@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dougherty,753,0.5582962535102144,Overall
+Dougherty,HiTech,78,0.45282327116735066,Sector
+Dougherty,Agriculture,70,0.5367562588087768,Sector
+Dougherty,Transportation,70,0.23041001027135632,Sector
+Dougherty,Consumer_Products,23,0.9651738622635381,Sector
+Dougherty,Unassigned,29,0.34302976811551933,Sector
+Dougherty,Communication,85,0.9572417260082379,Sector
+Dougherty,Trade,86,0.07929129606761132,Sector
+Dougherty,Business_Services,50,0.44869164471185485,Sector
+Dougherty,Business_Products,57,0.4063082544967147,Sector
+Dougherty,Construction,28,0.5073069730410718,Sector
+Dougherty,Services,11,0.894632377617841,Sector
+Dougherty,Mining,24,0.34838987613985073,Sector
+Dougherty,Health_Care,79,0.8146690559004264,Sector
+Dougherty,EnergyExpL_Prod,48,0.8461041061294299,Sector
+Dougherty,Utilities,15,0.5436153219136378,Sector

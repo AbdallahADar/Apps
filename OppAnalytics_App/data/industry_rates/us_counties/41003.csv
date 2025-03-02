@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Benton,632,0.5528600950814063,Overall
+Benton,HiTech,59,0.7368881950399611,Sector
+Benton,Agriculture,28,0.6709780434060078,Sector
+Benton,Transportation,27,0.7883916217735993,Sector
+Benton,Consumer_Products,31,0.8238901197020797,Sector
+Benton,Unassigned,3,0.43618957147867565,Sector
+Benton,Communication,21,0.11800338298925472,Sector
+Benton,Trade,49,0.3084964724650442,Sector
+Benton,Business_Services,40,0.8442717404879624,Sector
+Benton,Business_Products,95,0.44466132923177204,Sector
+Benton,Construction,49,0.08564541704098638,Sector
+Benton,Services,70,0.8567030897887336,Sector
+Benton,Mining,55,0.48767157856394006,Sector
+Benton,Health_Care,49,0.533392462088873,Sector
+Benton,EnergyExpL_Prod,43,0.2314076860662485,Sector
+Benton,Utilities,13,0.9263107160979565,Sector

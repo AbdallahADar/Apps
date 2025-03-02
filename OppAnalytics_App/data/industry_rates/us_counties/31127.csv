@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nemaha,649,0.4987209610463211,Overall
+Nemaha,HiTech,81,0.4966359077557221,Sector
+Nemaha,Agriculture,36,0.2941300047777059,Sector
+Nemaha,Transportation,4,0.6298839458344658,Sector
+Nemaha,Consumer_Products,49,0.4745281108815217,Sector
+Nemaha,Unassigned,55,0.8504842844685585,Sector
+Nemaha,Communication,44,0.0002188288592459564,Sector
+Nemaha,Trade,38,0.3417247705461285,Sector
+Nemaha,Business_Services,31,0.939516130705735,Sector
+Nemaha,Business_Products,93,0.947083919276023,Sector
+Nemaha,Construction,58,0.11994411900394286,Sector
+Nemaha,Services,22,0.4478876372951156,Sector
+Nemaha,Mining,78,0.6861964544697854,Sector
+Nemaha,Health_Care,18,0.8984071055022499,Sector
+Nemaha,EnergyExpL_Prod,34,0.24747714082979344,Sector
+Nemaha,Utilities,8,0.1066960554888221,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Irion,775,0.34982257714968873,Overall
+Irion,HiTech,65,0.1444274657605512,Sector
+Irion,Agriculture,8,0.01745019420290761,Sector
+Irion,Transportation,25,0.1385339945986096,Sector
+Irion,Consumer_Products,43,0.6032722523638848,Sector
+Irion,Unassigned,78,0.12625641120815245,Sector
+Irion,Communication,64,0.6443242071029313,Sector
+Irion,Trade,82,0.1830717441051466,Sector
+Irion,Business_Services,91,0.2555589318590372,Sector
+Irion,Business_Products,59,0.4537479230451972,Sector
+Irion,Construction,39,0.8463488633455262,Sector
+Irion,Services,3,0.15039975653823756,Sector
+Irion,Mining,21,0.17137995876947731,Sector
+Irion,Health_Care,54,0.523902089553938,Sector
+Irion,EnergyExpL_Prod,78,0.15729612954004135,Sector
+Irion,Utilities,65,0.8313687352516932,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Speyer, Kreisfreie Stadt",816,0.49530928387762946,Overall
+"Speyer, Kreisfreie Stadt",HiTech,57,0.2646750694608193,Sector
+"Speyer, Kreisfreie Stadt",Agriculture,83,0.37766592874062443,Sector
+"Speyer, Kreisfreie Stadt",Transportation,79,0.4812973462211255,Sector
+"Speyer, Kreisfreie Stadt",Consumer_Products,95,0.9145332489443575,Sector
+"Speyer, Kreisfreie Stadt",Unassigned,51,0.6734779747143707,Sector
+"Speyer, Kreisfreie Stadt",Communication,9,0.8317427620589912,Sector
+"Speyer, Kreisfreie Stadt",Trade,15,0.0875693578869261,Sector
+"Speyer, Kreisfreie Stadt",Business_Services,75,0.08491133732456857,Sector
+"Speyer, Kreisfreie Stadt",Business_Products,34,0.4002731845978703,Sector
+"Speyer, Kreisfreie Stadt",Construction,49,0.6091862917651876,Sector
+"Speyer, Kreisfreie Stadt",Services,21,0.8499145960328833,Sector
+"Speyer, Kreisfreie Stadt",Mining,44,0.8855568653919355,Sector
+"Speyer, Kreisfreie Stadt",Health_Care,46,0.24398647657023143,Sector
+"Speyer, Kreisfreie Stadt",EnergyExpL_Prod,76,0.36844377852109045,Sector
+"Speyer, Kreisfreie Stadt",Utilities,82,0.35640503993345973,Sector

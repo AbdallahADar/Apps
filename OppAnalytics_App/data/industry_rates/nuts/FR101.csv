@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Paris,735,0.51273044128297,Overall
+Paris,HiTech,88,0.5392383038305728,Sector
+Paris,Agriculture,37,0.8296994671928716,Sector
+Paris,Transportation,63,0.7801311780124045,Sector
+Paris,Consumer_Products,75,0.053368110144742964,Sector
+Paris,Unassigned,53,0.5303989209880194,Sector
+Paris,Communication,20,0.3085734834755003,Sector
+Paris,Trade,24,0.5870306752597999,Sector
+Paris,Business_Services,32,0.9595731695176815,Sector
+Paris,Business_Products,80,0.9803195544833939,Sector
+Paris,Construction,12,0.0001391318125062435,Sector
+Paris,Services,9,0.609210931728095,Sector
+Paris,Mining,95,0.5571793746391082,Sector
+Paris,Health_Care,72,0.15118410740169808,Sector
+Paris,EnergyExpL_Prod,40,0.7007936211226763,Sector
+Paris,Utilities,35,0.10411658963548065,Sector

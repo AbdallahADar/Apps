@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Garden,845,0.4195590702720934,Overall
+Garden,HiTech,81,0.5067413019242231,Sector
+Garden,Agriculture,88,0.5322579959574014,Sector
+Garden,Transportation,66,0.874043264071231,Sector
+Garden,Consumer_Products,40,0.044283124109959826,Sector
+Garden,Unassigned,22,0.456358083514811,Sector
+Garden,Communication,36,0.8741355734536691,Sector
+Garden,Trade,46,0.04546355851044526,Sector
+Garden,Business_Services,83,0.11206804443866614,Sector
+Garden,Business_Products,95,0.010935646594987802,Sector
+Garden,Construction,26,0.3927859420492008,Sector
+Garden,Services,51,0.08685045573699246,Sector
+Garden,Mining,45,0.4553339728086405,Sector
+Garden,Health_Care,91,0.9947628016243625,Sector
+Garden,EnergyExpL_Prod,19,0.0165790427542577,Sector
+Garden,Utilities,56,0.890787246532552,Sector

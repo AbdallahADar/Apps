@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Warren,797,0.4691735498600458,Overall
+Warren,HiTech,92,0.13461310866638887,Sector
+Warren,Agriculture,72,0.2829338686294073,Sector
+Warren,Transportation,63,0.8328455370378005,Sector
+Warren,Consumer_Products,21,0.18493575070890556,Sector
+Warren,Unassigned,70,0.6305008489662898,Sector
+Warren,Communication,76,0.054742986497683055,Sector
+Warren,Trade,7,0.31961321564332856,Sector
+Warren,Business_Services,54,0.0803404924908594,Sector
+Warren,Business_Products,47,0.7970857103138081,Sector
+Warren,Construction,76,0.5711494095106376,Sector
+Warren,Services,7,0.7957465187633963,Sector
+Warren,Mining,89,0.6932910225927278,Sector
+Warren,Health_Care,67,0.9263317070413812,Sector
+Warren,EnergyExpL_Prod,23,0.023141791527328648,Sector
+Warren,Utilities,33,0.7103312795107434,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bladen,622,0.543166848890028,Overall
+Bladen,HiTech,58,0.16953771555925945,Sector
+Bladen,Agriculture,28,0.044253332917120636,Sector
+Bladen,Transportation,4,0.22518334730699274,Sector
+Bladen,Consumer_Products,31,0.22437341655031307,Sector
+Bladen,Unassigned,81,0.866870381627935,Sector
+Bladen,Communication,35,0.9067406832401448,Sector
+Bladen,Trade,47,0.9582401771069142,Sector
+Bladen,Business_Services,49,0.11930477162558384,Sector
+Bladen,Business_Products,0,0.41772158010178173,Sector
+Bladen,Construction,78,0.9541254610682849,Sector
+Bladen,Services,40,0.9994925346099648,Sector
+Bladen,Mining,79,0.6311318109719745,Sector
+Bladen,Health_Care,11,0.5264984048579557,Sector
+Bladen,EnergyExpL_Prod,71,0.2865530517187196,Sector
+Bladen,Utilities,10,0.8174760640874745,Sector

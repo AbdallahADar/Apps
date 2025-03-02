@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hamilton,547,0.4732939909259449,Overall
+Hamilton,HiTech,40,0.5519584773680499,Sector
+Hamilton,Agriculture,36,0.7363523239272715,Sector
+Hamilton,Transportation,14,0.15779541429073007,Sector
+Hamilton,Consumer_Products,60,0.408597933476917,Sector
+Hamilton,Unassigned,49,0.46966198473198106,Sector
+Hamilton,Communication,14,0.3782175150388536,Sector
+Hamilton,Trade,16,0.7963537950941184,Sector
+Hamilton,Business_Services,9,0.1885884810131243,Sector
+Hamilton,Business_Products,35,0.7002479253594439,Sector
+Hamilton,Construction,30,0.9683248164809346,Sector
+Hamilton,Services,19,0.2561749697049409,Sector
+Hamilton,Mining,1,0.6809802564036705,Sector
+Hamilton,Health_Care,61,0.19235038107269475,Sector
+Hamilton,EnergyExpL_Prod,92,0.5207380349793086,Sector
+Hamilton,Utilities,71,0.09306755494713403,Sector

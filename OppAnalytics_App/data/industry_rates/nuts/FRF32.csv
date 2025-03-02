@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Meuse ,834,0.4919325453404283,Overall
+Meuse ,HiTech,18,0.6884532196585615,Sector
+Meuse ,Agriculture,70,0.7692814450482393,Sector
+Meuse ,Transportation,89,0.10031645604978279,Sector
+Meuse ,Consumer_Products,95,0.027994712822298484,Sector
+Meuse ,Unassigned,44,0.9314290946796698,Sector
+Meuse ,Communication,84,0.38968293771791207,Sector
+Meuse ,Trade,60,0.37893763337018005,Sector
+Meuse ,Business_Services,82,0.05074609063764224,Sector
+Meuse ,Business_Products,20,0.6880763280138256,Sector
+Meuse ,Construction,1,0.548282078900465,Sector
+Meuse ,Services,73,0.7597955143884346,Sector
+Meuse ,Mining,73,0.8060023319467368,Sector
+Meuse ,Health_Care,8,0.13566825647911274,Sector
+Meuse ,EnergyExpL_Prod,91,0.1117782488862833,Sector
+Meuse ,Utilities,26,0.9925438315072804,Sector

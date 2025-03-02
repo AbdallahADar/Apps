@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chester,916,0.5986429866149905,Overall
+Chester,HiTech,72,0.1134125493076974,Sector
+Chester,Agriculture,6,0.05741194599142019,Sector
+Chester,Transportation,92,0.2332160369161277,Sector
+Chester,Consumer_Products,81,0.5075872934326104,Sector
+Chester,Unassigned,8,0.9018626177813704,Sector
+Chester,Communication,89,0.7978109402426459,Sector
+Chester,Trade,83,0.19925702718258886,Sector
+Chester,Business_Services,44,0.4312213824351545,Sector
+Chester,Business_Products,71,0.901966794099222,Sector
+Chester,Construction,88,0.8023905180852505,Sector
+Chester,Services,8,0.7830444161763618,Sector
+Chester,Mining,91,0.9843248704997216,Sector
+Chester,Health_Care,76,0.7624155176845799,Sector
+Chester,EnergyExpL_Prod,67,0.7689514469084792,Sector
+Chester,Utilities,40,0.7347714424816262,Sector

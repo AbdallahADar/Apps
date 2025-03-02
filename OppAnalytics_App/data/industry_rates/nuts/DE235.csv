@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cham,724,0.4722165507137451,Overall
+Cham,HiTech,8,0.3587253455583512,Sector
+Cham,Agriculture,28,0.08276651790370038,Sector
+Cham,Transportation,94,0.6675134029903177,Sector
+Cham,Consumer_Products,63,0.48416347761724143,Sector
+Cham,Unassigned,67,0.06094540003959148,Sector
+Cham,Communication,98,0.13734935466213327,Sector
+Cham,Trade,31,0.5636496369322491,Sector
+Cham,Business_Services,40,0.11775760831282467,Sector
+Cham,Business_Products,20,0.8849595085039497,Sector
+Cham,Construction,15,0.8006346751960759,Sector
+Cham,Services,68,0.8877348563584562,Sector
+Cham,Mining,74,0.2210532792830664,Sector
+Cham,Health_Care,23,0.9643822562057172,Sector
+Cham,EnergyExpL_Prod,28,0.08391374229968118,Sector
+Cham,Utilities,67,0.767699198842821,Sector

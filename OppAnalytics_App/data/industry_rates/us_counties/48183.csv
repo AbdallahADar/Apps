@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gregg,716,0.3110267078345864,Overall
+Gregg,HiTech,16,0.051753056006907494,Sector
+Gregg,Agriculture,49,0.9042432200419399,Sector
+Gregg,Transportation,79,0.028833510846744903,Sector
+Gregg,Consumer_Products,99,0.0389878169334783,Sector
+Gregg,Unassigned,38,0.8956898252228956,Sector
+Gregg,Communication,52,0.24019796841287322,Sector
+Gregg,Trade,9,0.06524196475588095,Sector
+Gregg,Business_Services,21,0.09280884716438753,Sector
+Gregg,Business_Products,50,0.3074681887456835,Sector
+Gregg,Construction,28,0.04113585137876363,Sector
+Gregg,Services,28,0.9746050297322203,Sector
+Gregg,Mining,66,0.5056458688628369,Sector
+Gregg,Health_Care,87,0.5002177944352606,Sector
+Gregg,EnergyExpL_Prod,21,0.006350390707421272,Sector
+Gregg,Utilities,73,0.012221284271501487,Sector

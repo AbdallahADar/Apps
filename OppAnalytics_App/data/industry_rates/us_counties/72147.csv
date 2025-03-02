@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vieques,767,0.48013830313049694,Overall
+Vieques,HiTech,95,0.8009768352319677,Sector
+Vieques,Agriculture,38,0.40579114517142745,Sector
+Vieques,Transportation,52,0.5703150632741808,Sector
+Vieques,Consumer_Products,53,0.46364040750530555,Sector
+Vieques,Unassigned,90,0.39421373239268054,Sector
+Vieques,Communication,11,0.6106464798556246,Sector
+Vieques,Trade,34,0.5984575016732981,Sector
+Vieques,Business_Services,53,0.3854439288217034,Sector
+Vieques,Business_Products,2,0.47360870659607845,Sector
+Vieques,Construction,72,0.3775890570419942,Sector
+Vieques,Services,54,0.7995038656577943,Sector
+Vieques,Mining,50,0.30392163793372173,Sector
+Vieques,Health_Care,42,0.44453380120663744,Sector
+Vieques,EnergyExpL_Prod,89,0.31795638660098435,Sector
+Vieques,Utilities,32,0.2554759979940553,Sector

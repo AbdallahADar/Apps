@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Florida,831,0.5291147343756762,Overall
+Florida,HiTech,47,0.8456548848628089,Sector
+Florida,Agriculture,16,0.729273264544573,Sector
+Florida,Transportation,94,0.05446280897250955,Sector
+Florida,Consumer_Products,8,0.7933772063008395,Sector
+Florida,Unassigned,97,0.9454812463744847,Sector
+Florida,Communication,79,0.7589420112256637,Sector
+Florida,Trade,98,0.09904836261972438,Sector
+Florida,Business_Services,75,0.416548067881359,Sector
+Florida,Business_Products,49,0.2638578820150316,Sector
+Florida,Construction,42,0.9528546382296049,Sector
+Florida,Services,89,0.6725101226854845,Sector
+Florida,Mining,85,0.6108823100319672,Sector
+Florida,Health_Care,9,0.16632951232049487,Sector
+Florida,EnergyExpL_Prod,41,0.043587563941415164,Sector
+Florida,Utilities,2,0.5839111336291837,Sector

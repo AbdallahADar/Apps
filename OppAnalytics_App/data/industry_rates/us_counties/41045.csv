@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Malheur,903,0.32410720379755653,Overall
+Malheur,HiTech,84,0.2837244229972261,Sector
+Malheur,Agriculture,42,0.7498491309602391,Sector
+Malheur,Transportation,92,0.11080400262881407,Sector
+Malheur,Consumer_Products,52,0.2719798919244766,Sector
+Malheur,Unassigned,53,0.08657030610582894,Sector
+Malheur,Communication,71,0.3268766847990957,Sector
+Malheur,Trade,98,0.15289786948275375,Sector
+Malheur,Business_Services,35,0.035573534768253645,Sector
+Malheur,Business_Products,25,0.9583846538071732,Sector
+Malheur,Construction,66,0.1844187691623751,Sector
+Malheur,Services,99,0.13024931093136327,Sector
+Malheur,Mining,37,0.18912754663127362,Sector
+Malheur,Health_Care,15,0.2725945231200866,Sector
+Malheur,EnergyExpL_Prod,91,0.334861713582872,Sector
+Malheur,Utilities,43,0.7736956960615159,Sector

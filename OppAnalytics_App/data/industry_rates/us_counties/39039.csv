@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Defiance,557,0.5274129164990339,Overall
+Defiance,HiTech,26,0.057337107096539275,Sector
+Defiance,Agriculture,83,0.9888825735644795,Sector
+Defiance,Transportation,3,0.046181213940667654,Sector
+Defiance,Consumer_Products,71,0.8110016544632112,Sector
+Defiance,Unassigned,27,0.8120169804926637,Sector
+Defiance,Communication,1,0.7529460563476665,Sector
+Defiance,Trade,21,0.5030018886764295,Sector
+Defiance,Business_Services,3,0.597186911270944,Sector
+Defiance,Business_Products,29,0.35653915482825127,Sector
+Defiance,Construction,93,0.25736529417171816,Sector
+Defiance,Services,76,0.8100564465083082,Sector
+Defiance,Mining,15,0.8639562302235929,Sector
+Defiance,Health_Care,16,0.5430922276463589,Sector
+Defiance,EnergyExpL_Prod,25,0.24654600519947678,Sector
+Defiance,Utilities,68,0.2650840030552004,Sector

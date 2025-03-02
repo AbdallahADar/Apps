@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jerauld,635,0.47694276245581313,Overall
+Jerauld,HiTech,35,0.3260131451618671,Sector
+Jerauld,Agriculture,41,0.17112040256188787,Sector
+Jerauld,Transportation,0,0.19958923119460215,Sector
+Jerauld,Consumer_Products,69,0.7916954883593543,Sector
+Jerauld,Unassigned,1,0.8942227352066564,Sector
+Jerauld,Communication,91,0.28789062681453803,Sector
+Jerauld,Trade,59,0.34703054847158366,Sector
+Jerauld,Business_Services,60,0.5084663895506111,Sector
+Jerauld,Business_Products,43,0.41792702394514636,Sector
+Jerauld,Construction,8,0.8410269293278494,Sector
+Jerauld,Services,64,0.3404257265141686,Sector
+Jerauld,Mining,66,0.9703186819443052,Sector
+Jerauld,Health_Care,86,0.33674907484470074,Sector
+Jerauld,EnergyExpL_Prod,4,0.22569778371155735,Sector
+Jerauld,Utilities,8,0.49596764922836944,Sector

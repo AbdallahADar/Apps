@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Baltimore,625,0.6384494580963004,Overall
+Baltimore,HiTech,53,0.1629994997018862,Sector
+Baltimore,Agriculture,69,0.28236402610598377,Sector
+Baltimore,Transportation,87,0.9759286999347226,Sector
+Baltimore,Consumer_Products,19,0.6992302162526687,Sector
+Baltimore,Unassigned,18,0.5029150996129269,Sector
+Baltimore,Communication,30,0.47342066495454116,Sector
+Baltimore,Trade,39,0.658738748069853,Sector
+Baltimore,Business_Services,94,0.881367534025041,Sector
+Baltimore,Business_Products,20,0.9739320209672572,Sector
+Baltimore,Construction,43,0.5184157955834549,Sector
+Baltimore,Services,41,0.7105285821644521,Sector
+Baltimore,Mining,91,0.2765929065388123,Sector
+Baltimore,Health_Care,9,0.8724594331371424,Sector
+Baltimore,EnergyExpL_Prod,6,0.8251426830802094,Sector
+Baltimore,Utilities,6,0.7627059613155556,Sector

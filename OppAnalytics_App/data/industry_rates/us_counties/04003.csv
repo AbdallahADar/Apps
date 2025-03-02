@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cochise,504,0.6176432363729869,Overall
+Cochise,HiTech,22,0.6282005020135081,Sector
+Cochise,Agriculture,82,0.8330723159513624,Sector
+Cochise,Transportation,80,0.7527028040269819,Sector
+Cochise,Consumer_Products,2,0.31383866879841293,Sector
+Cochise,Unassigned,7,0.5313850674285823,Sector
+Cochise,Communication,5,0.8913902108017362,Sector
+Cochise,Trade,43,0.8717364648791224,Sector
+Cochise,Business_Services,43,0.6911568678254084,Sector
+Cochise,Business_Products,5,0.1605626141593388,Sector
+Cochise,Construction,79,0.598670928110677,Sector
+Cochise,Services,20,0.8919595482064234,Sector
+Cochise,Mining,14,0.29493326819132704,Sector
+Cochise,Health_Care,13,0.7660935637079479,Sector
+Cochise,EnergyExpL_Prod,81,0.04403157733811758,Sector
+Cochise,Utilities,8,0.994914144155857,Sector

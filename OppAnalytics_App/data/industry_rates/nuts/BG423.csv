@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pazardzhik,835,0.4453551285968172,Overall
+Pazardzhik,HiTech,27,0.29976483561324696,Sector
+Pazardzhik,Agriculture,56,0.061866805943797676,Sector
+Pazardzhik,Transportation,4,0.106830600379892,Sector
+Pazardzhik,Consumer_Products,86,0.5630576886054821,Sector
+Pazardzhik,Unassigned,42,0.8774110935213439,Sector
+Pazardzhik,Communication,37,0.8848822184920784,Sector
+Pazardzhik,Trade,55,0.29030093497793674,Sector
+Pazardzhik,Business_Services,77,0.6758420586181628,Sector
+Pazardzhik,Business_Products,42,0.8313599610847523,Sector
+Pazardzhik,Construction,89,0.4789301457514771,Sector
+Pazardzhik,Services,35,0.39680807434700716,Sector
+Pazardzhik,Mining,64,0.5855453485732747,Sector
+Pazardzhik,Health_Care,80,0.17022949737877968,Sector
+Pazardzhik,EnergyExpL_Prod,84,0.049962385526478914,Sector
+Pazardzhik,Utilities,57,0.4075352801385479,Sector

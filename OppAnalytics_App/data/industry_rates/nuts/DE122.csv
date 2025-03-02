@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Karlsruhe, Stadtkreis",881,0.5016620800066129,Overall
+"Karlsruhe, Stadtkreis",HiTech,69,0.5035742911040717,Sector
+"Karlsruhe, Stadtkreis",Agriculture,45,0.015541936242610799,Sector
+"Karlsruhe, Stadtkreis",Transportation,50,0.8749772996079963,Sector
+"Karlsruhe, Stadtkreis",Consumer_Products,81,0.6846064445353218,Sector
+"Karlsruhe, Stadtkreis",Unassigned,85,0.8367539569850148,Sector
+"Karlsruhe, Stadtkreis",Communication,81,0.8745337435198484,Sector
+"Karlsruhe, Stadtkreis",Trade,53,0.27105472269500186,Sector
+"Karlsruhe, Stadtkreis",Business_Services,25,0.0448736234954753,Sector
+"Karlsruhe, Stadtkreis",Business_Products,13,0.06894455098164276,Sector
+"Karlsruhe, Stadtkreis",Construction,55,0.2528521896253848,Sector
+"Karlsruhe, Stadtkreis",Services,91,0.26969423807461157,Sector
+"Karlsruhe, Stadtkreis",Mining,58,0.5100557814445374,Sector
+"Karlsruhe, Stadtkreis",Health_Care,44,0.8120124810657057,Sector
+"Karlsruhe, Stadtkreis",EnergyExpL_Prod,35,0.5441138395799613,Sector
+"Karlsruhe, Stadtkreis",Utilities,96,0.9613421011420087,Sector

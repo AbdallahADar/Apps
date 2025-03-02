@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Atchison,743,0.4616068981390003,Overall
+Atchison,HiTech,99,0.029136366500743582,Sector
+Atchison,Agriculture,9,0.6251397035064977,Sector
+Atchison,Transportation,52,0.555317451678011,Sector
+Atchison,Consumer_Products,68,0.20264220935760635,Sector
+Atchison,Unassigned,19,0.12512982336210787,Sector
+Atchison,Communication,69,0.11273259675730407,Sector
+Atchison,Trade,87,0.6731560293151392,Sector
+Atchison,Business_Services,43,0.8732810679384068,Sector
+Atchison,Business_Products,49,0.9290934624603496,Sector
+Atchison,Construction,6,0.3575041301012387,Sector
+Atchison,Services,70,0.44707143816199146,Sector
+Atchison,Mining,50,0.18456141264499715,Sector
+Atchison,Health_Care,94,0.8544170411350281,Sector
+Atchison,EnergyExpL_Prod,24,0.1945059030111943,Sector
+Atchison,Utilities,4,0.7604148361543884,Sector

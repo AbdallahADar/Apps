@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Petroleum,530,0.7184054454779728,Overall
+Petroleum,HiTech,41,0.462587197686668,Sector
+Petroleum,Agriculture,49,0.22675762229080465,Sector
+Petroleum,Transportation,40,0.991986748632846,Sector
+Petroleum,Consumer_Products,60,0.19938412693757657,Sector
+Petroleum,Unassigned,88,0.7956937952896193,Sector
+Petroleum,Communication,21,0.8789120669447875,Sector
+Petroleum,Trade,41,0.8903861409295699,Sector
+Petroleum,Business_Services,16,0.956877082202808,Sector
+Petroleum,Business_Products,18,0.2957643452332207,Sector
+Petroleum,Construction,19,0.9104583572749747,Sector
+Petroleum,Services,39,0.8038142475117629,Sector
+Petroleum,Mining,2,0.7460774259724587,Sector
+Petroleum,Health_Care,2,0.8798373600179222,Sector
+Petroleum,EnergyExpL_Prod,44,0.7454386505950903,Sector
+Petroleum,Utilities,50,0.9921065146494812,Sector

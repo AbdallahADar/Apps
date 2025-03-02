@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Graz,721,0.546742939367413,Overall
+Graz,HiTech,24,0.6654983515840018,Sector
+Graz,Agriculture,37,0.06262110244954999,Sector
+Graz,Transportation,84,0.6811658131198782,Sector
+Graz,Consumer_Products,0,0.2220692882308658,Sector
+Graz,Unassigned,69,0.18304286991975127,Sector
+Graz,Communication,22,0.9394233671708464,Sector
+Graz,Trade,13,0.6498928982624795,Sector
+Graz,Business_Services,69,0.4276582847102758,Sector
+Graz,Business_Products,90,0.9074226794015885,Sector
+Graz,Construction,69,0.8449983703333174,Sector
+Graz,Services,20,0.012153825251311257,Sector
+Graz,Mining,2,0.8138612594275332,Sector
+Graz,Health_Care,52,0.44311015136409015,Sector
+Graz,EnergyExpL_Prod,75,0.3592055015003488,Sector
+Graz,Utilities,95,0.9890203277853581,Sector

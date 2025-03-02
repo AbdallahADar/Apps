@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Abbeville,646,0.569668680675354,Overall
+Abbeville,HiTech,58,0.9783998147523859,Sector
+Abbeville,Agriculture,63,0.11399328199952274,Sector
+Abbeville,Transportation,23,0.3848195033348617,Sector
+Abbeville,Consumer_Products,39,0.7300285151598093,Sector
+Abbeville,Unassigned,63,0.6868624338580097,Sector
+Abbeville,Communication,8,0.7559404184508443,Sector
+Abbeville,Trade,24,0.298751747225973,Sector
+Abbeville,Business_Services,36,0.10317979409333589,Sector
+Abbeville,Business_Products,82,0.4629452549160762,Sector
+Abbeville,Construction,34,0.8574540373028737,Sector
+Abbeville,Services,2,0.304810263976547,Sector
+Abbeville,Mining,67,0.834483561762509,Sector
+Abbeville,Health_Care,85,0.7593117782120277,Sector
+Abbeville,EnergyExpL_Prod,23,0.3309297776260641,Sector
+Abbeville,Utilities,39,0.9431200274594707,Sector

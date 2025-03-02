@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Clinch,846,0.516821884898143,Overall
+Clinch,HiTech,67,0.1390076353472136,Sector
+Clinch,Agriculture,24,0.13002669086552543,Sector
+Clinch,Transportation,38,0.4297916287601562,Sector
+Clinch,Consumer_Products,33,0.6637677717785642,Sector
+Clinch,Unassigned,43,0.47283824643856387,Sector
+Clinch,Communication,36,0.5553396549524724,Sector
+Clinch,Trade,84,0.6386689447297645,Sector
+Clinch,Business_Services,50,0.6440634805468456,Sector
+Clinch,Business_Products,54,0.5786812479793425,Sector
+Clinch,Construction,93,0.989669033479793,Sector
+Clinch,Services,97,0.08616017033032086,Sector
+Clinch,Mining,54,0.17510974927388856,Sector
+Clinch,Health_Care,12,0.703065375811012,Sector
+Clinch,EnergyExpL_Prod,99,0.7900658444195531,Sector
+Clinch,Utilities,62,0.7560727987591281,Sector

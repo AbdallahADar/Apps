@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Noord-Limburg,883,0.6038499832590899,Overall
+Noord-Limburg,HiTech,98,0.12769170122003448,Sector
+Noord-Limburg,Agriculture,64,0.7178055871553788,Sector
+Noord-Limburg,Transportation,82,0.402874744524893,Sector
+Noord-Limburg,Consumer_Products,81,0.9521174322691127,Sector
+Noord-Limburg,Unassigned,54,0.6357546590757667,Sector
+Noord-Limburg,Communication,43,0.6638682800248243,Sector
+Noord-Limburg,Trade,88,0.6700137651739012,Sector
+Noord-Limburg,Business_Services,54,0.15766455596252404,Sector
+Noord-Limburg,Business_Products,14,0.9003790534259762,Sector
+Noord-Limburg,Construction,42,0.4053680651907876,Sector
+Noord-Limburg,Services,40,0.9286453031991454,Sector
+Noord-Limburg,Mining,84,0.4539084145800607,Sector
+Noord-Limburg,Health_Care,25,0.9982306382048487,Sector
+Noord-Limburg,EnergyExpL_Prod,71,0.6038564784093321,Sector
+Noord-Limburg,Utilities,43,0.4395710704697601,Sector

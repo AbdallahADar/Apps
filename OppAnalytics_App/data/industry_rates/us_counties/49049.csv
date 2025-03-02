@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Utah,816,0.5127381485473553,Overall
+Utah,HiTech,41,0.41047455966145907,Sector
+Utah,Agriculture,60,0.02022989431343969,Sector
+Utah,Transportation,50,0.7235879027932864,Sector
+Utah,Consumer_Products,57,0.9407669576240242,Sector
+Utah,Unassigned,1,0.406814725574017,Sector
+Utah,Communication,97,0.830267673198185,Sector
+Utah,Trade,41,0.44125409721565256,Sector
+Utah,Business_Services,61,0.5749322077007541,Sector
+Utah,Business_Products,54,0.5920243763052353,Sector
+Utah,Construction,61,0.3827299190513994,Sector
+Utah,Services,36,0.09801378110963177,Sector
+Utah,Mining,16,0.4153599556917872,Sector
+Utah,Health_Care,90,0.12623146208938407,Sector
+Utah,EnergyExpL_Prod,56,0.996819028768259,Sector
+Utah,Utilities,95,0.7315656871138149,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rice,546,0.5202314212036857,Overall
+Rice,HiTech,40,0.9554359667337183,Sector
+Rice,Agriculture,24,0.35866225855356604,Sector
+Rice,Transportation,53,0.020930247846009054,Sector
+Rice,Consumer_Products,33,0.09144923371839453,Sector
+Rice,Unassigned,5,0.7383764582526746,Sector
+Rice,Communication,45,0.7632574198934949,Sector
+Rice,Trade,2,0.3137964116973708,Sector
+Rice,Business_Services,92,0.7168357335810438,Sector
+Rice,Business_Products,32,0.3086514598251342,Sector
+Rice,Construction,74,0.3873410774587722,Sector
+Rice,Services,9,0.5546399888195477,Sector
+Rice,Mining,24,0.9525042743927306,Sector
+Rice,Health_Care,33,0.87937678459175,Sector
+Rice,EnergyExpL_Prod,1,0.09080651629087777,Sector
+Rice,Utilities,79,0.6714074864002015,Sector

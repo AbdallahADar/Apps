@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Haßberge,811,0.3999869585085704,Overall
+Haßberge,HiTech,46,0.016494798967863655,Sector
+Haßberge,Agriculture,68,0.8486421051390972,Sector
+Haßberge,Transportation,77,0.32406682571256706,Sector
+Haßberge,Consumer_Products,0,0.5765688992927102,Sector
+Haßberge,Unassigned,83,0.0723073295735922,Sector
+Haßberge,Communication,81,0.3655057772355429,Sector
+Haßberge,Trade,97,0.9572518131538448,Sector
+Haßberge,Business_Services,62,0.9909730280754537,Sector
+Haßberge,Business_Products,56,0.0738658572430625,Sector
+Haßberge,Construction,11,0.3652049015604971,Sector
+Haßberge,Services,48,0.07260056242074497,Sector
+Haßberge,Mining,29,0.22509144105432788,Sector
+Haßberge,Health_Care,92,0.07643046479553928,Sector
+Haßberge,EnergyExpL_Prod,8,0.8271109891289843,Sector
+Haßberge,Utilities,53,0.20768958427472817,Sector

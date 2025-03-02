@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tazewell,651,0.4693607069552236,Overall
+Tazewell,HiTech,99,0.1026793101969955,Sector
+Tazewell,Agriculture,32,0.12746088544399758,Sector
+Tazewell,Transportation,83,0.9555124041656486,Sector
+Tazewell,Consumer_Products,5,0.0826388391380003,Sector
+Tazewell,Unassigned,46,0.38311896136426493,Sector
+Tazewell,Communication,67,0.20681241683354545,Sector
+Tazewell,Trade,66,0.27172839315323993,Sector
+Tazewell,Business_Services,69,0.7108379927332759,Sector
+Tazewell,Business_Products,26,0.9477624710843402,Sector
+Tazewell,Construction,20,0.5620193331725912,Sector
+Tazewell,Services,31,0.8149448424460469,Sector
+Tazewell,Mining,39,0.5221537778800659,Sector
+Tazewell,Health_Care,27,0.44461917553115604,Sector
+Tazewell,EnergyExpL_Prod,4,0.8318092563382143,Sector
+Tazewell,Utilities,37,0.07631254484697181,Sector

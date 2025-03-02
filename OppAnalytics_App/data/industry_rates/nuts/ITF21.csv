@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Isernia,815,0.4432757930863726,Overall
+Isernia,HiTech,45,0.6119016381518941,Sector
+Isernia,Agriculture,63,0.6918930403526226,Sector
+Isernia,Transportation,90,0.5429454426457772,Sector
+Isernia,Consumer_Products,10,0.19723132348137662,Sector
+Isernia,Unassigned,42,0.6405846041811448,Sector
+Isernia,Communication,88,0.14552174337555923,Sector
+Isernia,Trade,94,0.5822014786726581,Sector
+Isernia,Business_Services,48,0.30786168511007284,Sector
+Isernia,Business_Products,54,0.7211194402399109,Sector
+Isernia,Construction,79,0.34914801556965613,Sector
+Isernia,Services,68,0.9436732523633014,Sector
+Isernia,Mining,25,0.025721060761333625,Sector
+Isernia,Health_Care,19,0.21348869587856945,Sector
+Isernia,EnergyExpL_Prod,20,0.5735763382033591,Sector
+Isernia,Utilities,70,0.10226913730835319,Sector

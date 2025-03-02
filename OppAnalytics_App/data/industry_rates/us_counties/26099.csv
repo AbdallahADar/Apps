@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Macomb,439,0.5645340624165355,Overall
+Macomb,HiTech,9,0.12084224708374225,Sector
+Macomb,Agriculture,44,0.8250146126535993,Sector
+Macomb,Transportation,76,0.95466590184332,Sector
+Macomb,Consumer_Products,16,0.24280432617622338,Sector
+Macomb,Unassigned,24,0.9431021072020879,Sector
+Macomb,Communication,13,0.9191450155726182,Sector
+Macomb,Trade,71,0.03961891412110763,Sector
+Macomb,Business_Services,6,0.8789930000906406,Sector
+Macomb,Business_Products,6,0.19947549506942774,Sector
+Macomb,Construction,7,0.42674641379147726,Sector
+Macomb,Services,8,0.5045896724300476,Sector
+Macomb,Mining,93,0.399691481716148,Sector
+Macomb,Health_Care,13,0.6451152359434582,Sector
+Macomb,EnergyExpL_Prod,8,0.7556345378898279,Sector
+Macomb,Utilities,45,0.6125719746643055,Sector

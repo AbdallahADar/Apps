@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pushmataha,578,0.5435178393341771,Overall
+Pushmataha,HiTech,65,0.44946819790131487,Sector
+Pushmataha,Agriculture,15,0.9554244002440188,Sector
+Pushmataha,Transportation,72,0.39324081087258844,Sector
+Pushmataha,Consumer_Products,9,0.3860217318196022,Sector
+Pushmataha,Unassigned,30,0.6863097400034696,Sector
+Pushmataha,Communication,67,0.41618599368432296,Sector
+Pushmataha,Trade,77,0.4653332711080813,Sector
+Pushmataha,Business_Services,11,0.8073621518985807,Sector
+Pushmataha,Business_Products,3,0.9765879236366043,Sector
+Pushmataha,Construction,68,0.5800963509891436,Sector
+Pushmataha,Services,22,0.16721028718207265,Sector
+Pushmataha,Mining,17,0.6185463669373681,Sector
+Pushmataha,Health_Care,30,0.02633155253287156,Sector
+Pushmataha,EnergyExpL_Prod,63,0.9929505927695084,Sector
+Pushmataha,Utilities,29,0.2316982184331079,Sector

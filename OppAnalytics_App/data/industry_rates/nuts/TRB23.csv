@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bitlis,803,0.4162030509309657,Overall
+Bitlis,HiTech,67,0.43119034058038497,Sector
+Bitlis,Agriculture,2,0.4253868532360683,Sector
+Bitlis,Transportation,92,0.03582134406583637,Sector
+Bitlis,Consumer_Products,46,0.3560610637120464,Sector
+Bitlis,Unassigned,75,0.012927848669552877,Sector
+Bitlis,Communication,57,0.0328913448759095,Sector
+Bitlis,Trade,89,0.31584321562422135,Sector
+Bitlis,Business_Services,16,0.6561532387793759,Sector
+Bitlis,Business_Products,23,0.3462234649755397,Sector
+Bitlis,Construction,67,0.9021348181839273,Sector
+Bitlis,Services,29,0.37800108222146445,Sector
+Bitlis,Mining,78,0.8599416996440552,Sector
+Bitlis,Health_Care,39,0.4656196885794214,Sector
+Bitlis,EnergyExpL_Prod,43,0.7710060899476409,Sector
+Bitlis,Utilities,80,0.2538436708690399,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zürich,488,0.47155027526602206,Overall
+Zürich,HiTech,48,0.5116316398974452,Sector
+Zürich,Agriculture,31,0.14089343118102293,Sector
+Zürich,Transportation,31,0.25200257400645876,Sector
+Zürich,Consumer_Products,35,0.9474545923095752,Sector
+Zürich,Unassigned,16,0.061681387634284435,Sector
+Zürich,Communication,1,0.2224084173950479,Sector
+Zürich,Trade,5,0.7768656001010977,Sector
+Zürich,Business_Services,38,0.13239365440731476,Sector
+Zürich,Business_Products,1,0.7610976094048805,Sector
+Zürich,Construction,33,0.659753371867785,Sector
+Zürich,Services,69,0.40672547196615927,Sector
+Zürich,Mining,12,0.30934633341173745,Sector
+Zürich,Health_Care,69,0.855689781509727,Sector
+Zürich,EnergyExpL_Prod,89,0.22417210155191536,Sector
+Zürich,Utilities,10,0.8111381623458793,Sector

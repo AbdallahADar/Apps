@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Graham,806,0.5583216048264666,Overall
+Graham,HiTech,18,0.6632614048993631,Sector
+Graham,Agriculture,94,0.5902539270809017,Sector
+Graham,Transportation,82,0.8972009744143039,Sector
+Graham,Consumer_Products,61,0.9545648587540436,Sector
+Graham,Unassigned,3,0.5787565878610818,Sector
+Graham,Communication,88,0.1220936736912831,Sector
+Graham,Trade,32,0.40350112245362424,Sector
+Graham,Business_Services,97,0.4282376170232093,Sector
+Graham,Business_Products,23,0.6499981809867508,Sector
+Graham,Construction,17,0.8834039906172834,Sector
+Graham,Services,26,0.5801791604620288,Sector
+Graham,Mining,53,0.11661473837634262,Sector
+Graham,Health_Care,79,0.008809157400957224,Sector
+Graham,EnergyExpL_Prod,72,0.7582315298614396,Sector
+Graham,Utilities,61,0.7397171485143849,Sector

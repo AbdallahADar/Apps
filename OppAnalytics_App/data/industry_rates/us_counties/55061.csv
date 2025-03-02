@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kewaunee,762,0.4208086303395063,Overall
+Kewaunee,HiTech,79,0.8722512245285093,Sector
+Kewaunee,Agriculture,53,0.5577411351305734,Sector
+Kewaunee,Transportation,59,0.07433819567539068,Sector
+Kewaunee,Consumer_Products,57,0.039919559282942774,Sector
+Kewaunee,Unassigned,87,0.19181527174624047,Sector
+Kewaunee,Communication,33,0.025506722080099853,Sector
+Kewaunee,Trade,73,0.7812953920580852,Sector
+Kewaunee,Business_Services,26,0.9094325528778224,Sector
+Kewaunee,Business_Products,27,0.11944231141025341,Sector
+Kewaunee,Construction,33,0.27745372320501305,Sector
+Kewaunee,Services,59,0.31069360462742535,Sector
+Kewaunee,Mining,53,0.48734139480873684,Sector
+Kewaunee,Health_Care,18,0.6467640959557003,Sector
+Kewaunee,EnergyExpL_Prod,98,0.4722544675218039,Sector
+Kewaunee,Utilities,7,0.5458798041839971,Sector

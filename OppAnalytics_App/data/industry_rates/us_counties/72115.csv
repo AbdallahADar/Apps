@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Quebradillas,548,0.4157338000732856,Overall
+Quebradillas,HiTech,18,0.8222273018643219,Sector
+Quebradillas,Agriculture,17,0.164312548904897,Sector
+Quebradillas,Transportation,7,0.0757221444547238,Sector
+Quebradillas,Consumer_Products,12,0.37266578878085754,Sector
+Quebradillas,Unassigned,54,0.34824781322025533,Sector
+Quebradillas,Communication,68,0.24572450443080995,Sector
+Quebradillas,Trade,60,0.8278982162030827,Sector
+Quebradillas,Business_Services,80,0.2740024777141309,Sector
+Quebradillas,Business_Products,39,0.12918821875170305,Sector
+Quebradillas,Construction,32,0.7959867785425384,Sector
+Quebradillas,Services,58,0.003217766945811551,Sector
+Quebradillas,Mining,9,0.47687424394858635,Sector
+Quebradillas,Health_Care,70,0.8336757265279374,Sector
+Quebradillas,EnergyExpL_Prod,0,0.32275787873562956,Sector
+Quebradillas,Utilities,24,0.5435055920739991,Sector

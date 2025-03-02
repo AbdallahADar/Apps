@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gipuzkoa,772,0.5203120133624995,Overall
+Gipuzkoa,HiTech,56,0.9614918057129227,Sector
+Gipuzkoa,Agriculture,88,0.18060361429602478,Sector
+Gipuzkoa,Transportation,95,0.1307903891962694,Sector
+Gipuzkoa,Consumer_Products,83,0.3667034705217407,Sector
+Gipuzkoa,Unassigned,62,0.6579928417830303,Sector
+Gipuzkoa,Communication,10,0.8386213211698575,Sector
+Gipuzkoa,Trade,23,0.184147869515353,Sector
+Gipuzkoa,Business_Services,23,0.40619298338523346,Sector
+Gipuzkoa,Business_Products,7,0.18605128690734185,Sector
+Gipuzkoa,Construction,35,0.5355602834959216,Sector
+Gipuzkoa,Services,88,0.8540642409646523,Sector
+Gipuzkoa,Mining,48,0.8452645157332338,Sector
+Gipuzkoa,Health_Care,16,0.5357300123772066,Sector
+Gipuzkoa,EnergyExpL_Prod,86,0.8245321717647415,Sector
+Gipuzkoa,Utilities,52,0.29693339361396254,Sector

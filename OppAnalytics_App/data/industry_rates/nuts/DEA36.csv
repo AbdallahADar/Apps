@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Recklinghausen,922,0.42374433551124696,Overall
+Recklinghausen,HiTech,58,0.23348667346599983,Sector
+Recklinghausen,Agriculture,85,0.4717001288857723,Sector
+Recklinghausen,Transportation,56,0.34524001280792826,Sector
+Recklinghausen,Consumer_Products,7,0.12762567412342662,Sector
+Recklinghausen,Unassigned,82,0.14616835164011277,Sector
+Recklinghausen,Communication,60,0.45148921639392037,Sector
+Recklinghausen,Trade,51,0.006729239446343627,Sector
+Recklinghausen,Business_Services,86,0.8068381001517354,Sector
+Recklinghausen,Business_Products,65,0.9750803217670703,Sector
+Recklinghausen,Construction,32,0.4588718445424391,Sector
+Recklinghausen,Services,61,0.839762288598619,Sector
+Recklinghausen,Mining,97,0.9186826229222175,Sector
+Recklinghausen,Health_Care,57,0.09279173946755592,Sector
+Recklinghausen,EnergyExpL_Prod,42,0.4758127799859684,Sector
+Recklinghausen,Utilities,83,0.00588603846959479,Sector

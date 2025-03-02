@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lamb,748,0.46856736586530423,Overall
+Lamb,HiTech,49,0.10269281359459392,Sector
+Lamb,Agriculture,29,0.1320446527758724,Sector
+Lamb,Transportation,78,0.797267512957609,Sector
+Lamb,Consumer_Products,50,0.00449356998941175,Sector
+Lamb,Unassigned,33,0.3676956638396559,Sector
+Lamb,Communication,78,0.027812663520738856,Sector
+Lamb,Trade,20,0.9997576439104331,Sector
+Lamb,Business_Services,64,0.5930804519984294,Sector
+Lamb,Business_Products,25,0.14675663212088474,Sector
+Lamb,Construction,90,0.4232729188343375,Sector
+Lamb,Services,46,0.16939463124271803,Sector
+Lamb,Mining,58,0.6816264732181345,Sector
+Lamb,Health_Care,89,0.8184199530626949,Sector
+Lamb,EnergyExpL_Prod,17,0.7917335782344729,Sector
+Lamb,Utilities,22,0.9724613286795756,Sector

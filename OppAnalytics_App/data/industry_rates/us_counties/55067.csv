@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Langlade,705,0.5171661574790974,Overall
+Langlade,HiTech,84,0.5925622370212859,Sector
+Langlade,Agriculture,88,0.5548481623495761,Sector
+Langlade,Transportation,21,0.01073921473322359,Sector
+Langlade,Consumer_Products,3,0.560993267307276,Sector
+Langlade,Unassigned,61,0.48125900611320915,Sector
+Langlade,Communication,61,0.06722418220193505,Sector
+Langlade,Trade,52,0.4149169817237601,Sector
+Langlade,Business_Services,3,0.7320893748286184,Sector
+Langlade,Business_Products,12,0.22110932943924178,Sector
+Langlade,Construction,5,0.915661667745773,Sector
+Langlade,Services,95,0.8287343604159195,Sector
+Langlade,Mining,56,0.6299936803987679,Sector
+Langlade,Health_Care,89,0.32900768237785927,Sector
+Langlade,EnergyExpL_Prod,68,0.859820431581467,Sector
+Langlade,Utilities,7,0.5585327839485492,Sector

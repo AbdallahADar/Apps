@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Manistee,737,0.5182510788657652,Overall
+Manistee,HiTech,48,0.45648361084465783,Sector
+Manistee,Agriculture,75,0.2932737454127068,Sector
+Manistee,Transportation,65,0.6993917391164941,Sector
+Manistee,Consumer_Products,73,0.5371370864725122,Sector
+Manistee,Unassigned,43,0.3553931584478105,Sector
+Manistee,Communication,43,0.9845213346129066,Sector
+Manistee,Trade,72,0.7523192319818873,Sector
+Manistee,Business_Services,81,0.7070610763458467,Sector
+Manistee,Business_Products,46,0.41038851862186954,Sector
+Manistee,Construction,31,0.7914076648399585,Sector
+Manistee,Services,89,0.1200533304824769,Sector
+Manistee,Mining,29,0.31136789056329495,Sector
+Manistee,Health_Care,6,0.19948118318381902,Sector
+Manistee,EnergyExpL_Prod,4,0.8212443122631061,Sector
+Manistee,Utilities,32,0.33424229979713005,Sector

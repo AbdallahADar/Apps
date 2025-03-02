@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cávado,765,0.5103009036097996,Overall
+Cávado,HiTech,86,0.841425570088902,Sector
+Cávado,Agriculture,33,0.7700587137934432,Sector
+Cávado,Transportation,17,0.34584519762269295,Sector
+Cávado,Consumer_Products,21,0.1972397750335103,Sector
+Cávado,Unassigned,36,0.11704307494004285,Sector
+Cávado,Communication,81,0.2773524742176968,Sector
+Cávado,Trade,78,0.5008889260165832,Sector
+Cávado,Business_Services,1,0.9814049259854422,Sector
+Cávado,Business_Products,13,0.5519491125645498,Sector
+Cávado,Construction,59,0.7627989962332873,Sector
+Cávado,Services,96,0.19472789619808373,Sector
+Cávado,Mining,29,0.5860288494130225,Sector
+Cávado,Health_Care,89,0.6188892241290349,Sector
+Cávado,EnergyExpL_Prod,89,0.6175570854636349,Sector
+Cávado,Utilities,37,0.2913037324470673,Sector

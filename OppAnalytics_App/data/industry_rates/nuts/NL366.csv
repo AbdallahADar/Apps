@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Groot-Rijnmond,881,0.46885787386459826,Overall
+Groot-Rijnmond,HiTech,47,0.7093040880966552,Sector
+Groot-Rijnmond,Agriculture,98,0.056135580545752184,Sector
+Groot-Rijnmond,Transportation,38,0.9354871534732732,Sector
+Groot-Rijnmond,Consumer_Products,46,0.14091868679900876,Sector
+Groot-Rijnmond,Unassigned,76,0.6511299990372528,Sector
+Groot-Rijnmond,Communication,70,0.4177481577367811,Sector
+Groot-Rijnmond,Trade,73,0.18535876571667265,Sector
+Groot-Rijnmond,Business_Services,96,0.09069711848521078,Sector
+Groot-Rijnmond,Business_Products,95,0.8000092336446611,Sector
+Groot-Rijnmond,Construction,40,0.4395741442277784,Sector
+Groot-Rijnmond,Services,32,0.3722137329923978,Sector
+Groot-Rijnmond,Mining,27,0.9149923570235144,Sector
+Groot-Rijnmond,Health_Care,25,0.1953074918526918,Sector
+Groot-Rijnmond,EnergyExpL_Prod,82,0.46176757552204173,Sector
+Groot-Rijnmond,Utilities,36,0.6622240228152821,Sector

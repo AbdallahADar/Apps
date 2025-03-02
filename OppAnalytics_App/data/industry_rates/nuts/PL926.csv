@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Żyrardowski,811,0.353208112991939,Overall
+Żyrardowski,HiTech,49,0.11345997632407212,Sector
+Żyrardowski,Agriculture,21,0.6214740672439497,Sector
+Żyrardowski,Transportation,65,0.5736369011914492,Sector
+Żyrardowski,Consumer_Products,84,0.27892568611556656,Sector
+Żyrardowski,Unassigned,42,0.8878556231249253,Sector
+Żyrardowski,Communication,95,0.20662774291499586,Sector
+Żyrardowski,Trade,36,0.16636996679762273,Sector
+Żyrardowski,Business_Services,34,0.046723204333024015,Sector
+Żyrardowski,Business_Products,99,0.33008237468096535,Sector
+Żyrardowski,Construction,37,0.7117556985711828,Sector
+Żyrardowski,Services,71,0.29204832666668057,Sector
+Żyrardowski,Mining,26,0.34128848396161926,Sector
+Żyrardowski,Health_Care,4,0.026049932838060674,Sector
+Żyrardowski,EnergyExpL_Prod,76,0.4329014489079839,Sector
+Żyrardowski,Utilities,72,0.2689222612069869,Sector

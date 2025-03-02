@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Foster,880,0.5363555629397958,Overall
+Foster,HiTech,40,0.7628006278504007,Sector
+Foster,Agriculture,97,0.02821695906778987,Sector
+Foster,Transportation,3,0.06937205119911982,Sector
+Foster,Consumer_Products,29,0.23453739956899045,Sector
+Foster,Unassigned,96,0.6357355024118978,Sector
+Foster,Communication,74,0.3972270546914104,Sector
+Foster,Trade,70,0.7933697389424145,Sector
+Foster,Business_Services,42,0.9705207644135925,Sector
+Foster,Business_Products,74,0.8602133362541877,Sector
+Foster,Construction,89,0.2703971650949678,Sector
+Foster,Services,64,0.7806469504691322,Sector
+Foster,Mining,79,0.14319417823011882,Sector
+Foster,Health_Care,31,0.9323899534857011,Sector
+Foster,EnergyExpL_Prod,51,0.8307592751778288,Sector
+Foster,Utilities,41,0.3359524872393844,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Northwest Arctic,697,0.3498944456226644,Overall
+Northwest Arctic,HiTech,9,0.5486658319132434,Sector
+Northwest Arctic,Agriculture,46,0.39173344509938235,Sector
+Northwest Arctic,Transportation,80,0.13058338183411877,Sector
+Northwest Arctic,Consumer_Products,6,0.3929860239422416,Sector
+Northwest Arctic,Unassigned,92,0.10949769493551276,Sector
+Northwest Arctic,Communication,11,0.1119425628431806,Sector
+Northwest Arctic,Trade,75,0.5544081757556714,Sector
+Northwest Arctic,Business_Services,78,0.4271141895485644,Sector
+Northwest Arctic,Business_Products,42,0.4271456733912713,Sector
+Northwest Arctic,Construction,89,0.12162596743306586,Sector
+Northwest Arctic,Services,9,0.5585961060245571,Sector
+Northwest Arctic,Mining,28,0.0123110801186046,Sector
+Northwest Arctic,Health_Care,50,0.3763585014401586,Sector
+Northwest Arctic,EnergyExpL_Prod,8,0.17622550396273695,Sector
+Northwest Arctic,Utilities,74,0.9092225460976567,Sector

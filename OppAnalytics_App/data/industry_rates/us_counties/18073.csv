@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jasper,902,0.41965550820340325,Overall
+Jasper,HiTech,55,0.8677277301334886,Sector
+Jasper,Agriculture,64,0.116875929165426,Sector
+Jasper,Transportation,70,0.18257566703489891,Sector
+Jasper,Consumer_Products,46,0.4947464087644843,Sector
+Jasper,Unassigned,92,0.2602602475874829,Sector
+Jasper,Communication,90,0.6948467138725434,Sector
+Jasper,Trade,13,0.5641732676945286,Sector
+Jasper,Business_Services,20,0.09680708613384414,Sector
+Jasper,Business_Products,60,0.3395776562861027,Sector
+Jasper,Construction,54,0.5286941413448416,Sector
+Jasper,Services,19,0.0404489613659611,Sector
+Jasper,Mining,97,0.08689183900204156,Sector
+Jasper,Health_Care,49,0.7334532690847334,Sector
+Jasper,EnergyExpL_Prod,88,0.586255926655745,Sector
+Jasper,Utilities,85,0.7014977789249265,Sector

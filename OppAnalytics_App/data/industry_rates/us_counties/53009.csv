@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Clallam,353,0.5496568517686773,Overall
+Clallam,HiTech,76,0.355064413585115,Sector
+Clallam,Agriculture,6,0.9008120701162563,Sector
+Clallam,Transportation,7,0.6625918532144807,Sector
+Clallam,Consumer_Products,5,0.4863341087795974,Sector
+Clallam,Unassigned,74,0.666763206937458,Sector
+Clallam,Communication,27,0.8239152157447419,Sector
+Clallam,Trade,10,0.26369431870628424,Sector
+Clallam,Business_Services,25,0.9905001597142404,Sector
+Clallam,Business_Products,27,0.45190487154670045,Sector
+Clallam,Construction,1,0.0736826061792405,Sector
+Clallam,Services,24,0.9567498168185211,Sector
+Clallam,Mining,41,0.36089444624110834,Sector
+Clallam,Health_Care,1,0.16932414440244659,Sector
+Clallam,EnergyExpL_Prod,2,0.9765239120644931,Sector
+Clallam,Utilities,27,0.10609763247947468,Sector

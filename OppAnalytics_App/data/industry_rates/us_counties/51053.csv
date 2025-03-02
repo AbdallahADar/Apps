@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dinwiddie,637,0.5230826380783631,Overall
+Dinwiddie,HiTech,24,0.1499084763052102,Sector
+Dinwiddie,Agriculture,30,0.45412158643219447,Sector
+Dinwiddie,Transportation,87,0.5671113658129163,Sector
+Dinwiddie,Consumer_Products,51,0.8323283594990755,Sector
+Dinwiddie,Unassigned,11,0.9432600150226123,Sector
+Dinwiddie,Communication,25,0.5950161441493137,Sector
+Dinwiddie,Trade,35,0.22551508266320952,Sector
+Dinwiddie,Business_Services,38,0.4391780465762176,Sector
+Dinwiddie,Business_Products,97,0.5812176032123685,Sector
+Dinwiddie,Construction,32,0.8748632854045536,Sector
+Dinwiddie,Services,88,0.7887874304672977,Sector
+Dinwiddie,Mining,29,0.20301783569384835,Sector
+Dinwiddie,Health_Care,49,0.6217318897173155,Sector
+Dinwiddie,EnergyExpL_Prod,34,0.4610641507824381,Sector
+Dinwiddie,Utilities,7,0.1091182994368749,Sector

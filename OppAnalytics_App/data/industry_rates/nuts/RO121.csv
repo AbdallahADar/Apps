@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alba,632,0.5209702778044096,Overall
+Alba,HiTech,34,0.18067686864072252,Sector
+Alba,Agriculture,97,0.5124456553971432,Sector
+Alba,Transportation,64,0.5592990953235916,Sector
+Alba,Consumer_Products,23,0.9245689759133165,Sector
+Alba,Unassigned,36,0.4671482149857922,Sector
+Alba,Communication,3,0.8137748049370331,Sector
+Alba,Trade,77,0.15159122068431607,Sector
+Alba,Business_Services,17,0.10156545496104741,Sector
+Alba,Business_Products,10,0.618331024553655,Sector
+Alba,Construction,72,0.47675024064061955,Sector
+Alba,Services,73,0.78045202197888,Sector
+Alba,Mining,34,0.5046924672281474,Sector
+Alba,Health_Care,34,0.9212503670790131,Sector
+Alba,EnergyExpL_Prod,23,0.4745760058650049,Sector
+Alba,Utilities,35,0.32743174887786264,Sector

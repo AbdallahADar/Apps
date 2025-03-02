@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Noble,848,0.5380908552028897,Overall
+Noble,HiTech,92,0.622384645303782,Sector
+Noble,Agriculture,33,0.9218908928281925,Sector
+Noble,Transportation,70,0.6154215155534777,Sector
+Noble,Consumer_Products,97,0.03483205811419865,Sector
+Noble,Unassigned,1,0.3881866975735958,Sector
+Noble,Communication,73,0.033468920365978705,Sector
+Noble,Trade,43,0.930257326930073,Sector
+Noble,Business_Services,25,0.9631872702528695,Sector
+Noble,Business_Products,98,0.5441469400539092,Sector
+Noble,Construction,96,0.07946247791464645,Sector
+Noble,Services,60,0.21954816922024412,Sector
+Noble,Mining,46,0.519917293481974,Sector
+Noble,Health_Care,44,0.8918110709276003,Sector
+Noble,EnergyExpL_Prod,62,0.392817853599121,Sector
+Noble,Utilities,8,0.9140296959236798,Sector

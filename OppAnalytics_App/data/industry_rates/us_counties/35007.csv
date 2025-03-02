@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Colfax,680,0.5475895947772674,Overall
+Colfax,HiTech,96,0.944656030153117,Sector
+Colfax,Agriculture,13,0.3936747056422272,Sector
+Colfax,Transportation,41,0.018638623118666597,Sector
+Colfax,Consumer_Products,33,0.3597534511767084,Sector
+Colfax,Unassigned,38,0.18151260751094822,Sector
+Colfax,Communication,28,0.9620770225988129,Sector
+Colfax,Trade,24,0.46639137313463386,Sector
+Colfax,Business_Services,16,0.8815624125595113,Sector
+Colfax,Business_Products,63,0.692264197523906,Sector
+Colfax,Construction,83,0.2850380178054439,Sector
+Colfax,Services,40,0.26162253553882275,Sector
+Colfax,Mining,44,0.6752727495843123,Sector
+Colfax,Health_Care,28,0.9749619878878225,Sector
+Colfax,EnergyExpL_Prod,90,0.4750358001287249,Sector
+Colfax,Utilities,43,0.6413824072953517,Sector

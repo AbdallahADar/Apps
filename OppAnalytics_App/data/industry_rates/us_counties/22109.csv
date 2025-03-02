@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Terrebonne,742,0.4964019588964551,Overall
+Terrebonne,HiTech,90,0.4252121237343808,Sector
+Terrebonne,Agriculture,32,0.42062498687586214,Sector
+Terrebonne,Transportation,31,0.317293001006948,Sector
+Terrebonne,Consumer_Products,33,0.11224434720536358,Sector
+Terrebonne,Unassigned,86,0.07355044201926009,Sector
+Terrebonne,Communication,6,0.9019356784519824,Sector
+Terrebonne,Trade,3,0.8567859840964934,Sector
+Terrebonne,Business_Services,85,0.5924275099717073,Sector
+Terrebonne,Business_Products,76,0.7852515137961782,Sector
+Terrebonne,Construction,70,0.431617055649247,Sector
+Terrebonne,Services,79,0.8764196019920639,Sector
+Terrebonne,Mining,60,0.06630182016396147,Sector
+Terrebonne,Health_Care,42,0.49229696388278876,Sector
+Terrebonne,EnergyExpL_Prod,5,0.1882686333922755,Sector
+Terrebonne,Utilities,44,0.9057997212083142,Sector

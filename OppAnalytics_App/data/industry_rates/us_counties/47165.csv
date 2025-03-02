@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sumner,775,0.5313136091026878,Overall
+Sumner,HiTech,18,0.8718595974205651,Sector
+Sumner,Agriculture,50,0.9294339010769174,Sector
+Sumner,Transportation,51,0.9578376548703093,Sector
+Sumner,Consumer_Products,27,0.3619618210183584,Sector
+Sumner,Unassigned,91,0.5535052849246396,Sector
+Sumner,Communication,79,0.6165862396571996,Sector
+Sumner,Trade,59,0.4093341744087339,Sector
+Sumner,Business_Services,62,0.1775244872699815,Sector
+Sumner,Business_Products,34,0.19791019566145418,Sector
+Sumner,Construction,90,0.687972797602171,Sector
+Sumner,Services,14,0.3340359794242661,Sector
+Sumner,Mining,37,0.9285646225897877,Sector
+Sumner,Health_Care,22,0.16145497136135123,Sector
+Sumner,EnergyExpL_Prod,54,0.7012156806176145,Sector
+Sumner,Utilities,87,0.0805067286369664,Sector

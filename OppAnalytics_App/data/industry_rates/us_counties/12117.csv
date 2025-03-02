@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Seminole,967,0.5635960710776973,Overall
+Seminole,HiTech,60,0.7495562015673706,Sector
+Seminole,Agriculture,50,0.22651657907386036,Sector
+Seminole,Transportation,60,0.13942523649823568,Sector
+Seminole,Consumer_Products,1,0.5853627980505054,Sector
+Seminole,Unassigned,72,0.7561729163399971,Sector
+Seminole,Communication,82,0.6019511649110884,Sector
+Seminole,Trade,87,0.9479765594602183,Sector
+Seminole,Business_Services,82,0.3230035203320135,Sector
+Seminole,Business_Products,97,0.5394592880430142,Sector
+Seminole,Construction,98,0.8680246223475956,Sector
+Seminole,Services,59,0.6185083627152962,Sector
+Seminole,Mining,41,0.5890990070340882,Sector
+Seminole,Health_Care,4,0.002418974696042686,Sector
+Seminole,EnergyExpL_Prod,83,0.8318960972696708,Sector
+Seminole,Utilities,91,0.6745697378264629,Sector

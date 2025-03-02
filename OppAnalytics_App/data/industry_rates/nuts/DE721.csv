@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Gießen, Landkreis",759,0.5101729320004859,Overall
+"Gießen, Landkreis",HiTech,29,0.9546294429225608,Sector
+"Gießen, Landkreis",Agriculture,83,0.25267075884557333,Sector
+"Gießen, Landkreis",Transportation,7,0.7501022373453069,Sector
+"Gießen, Landkreis",Consumer_Products,94,0.43781268439820153,Sector
+"Gießen, Landkreis",Unassigned,98,0.5311146837912835,Sector
+"Gießen, Landkreis",Communication,4,0.6577683096851651,Sector
+"Gießen, Landkreis",Trade,77,0.5023844902127599,Sector
+"Gießen, Landkreis",Business_Services,81,0.35902542678788163,Sector
+"Gießen, Landkreis",Business_Products,0,0.7595593234278359,Sector
+"Gießen, Landkreis",Construction,2,0.031821714356302766,Sector
+"Gießen, Landkreis",Services,27,0.231399962698981,Sector
+"Gießen, Landkreis",Mining,51,0.7832904714506138,Sector
+"Gießen, Landkreis",Health_Care,47,0.357142149562532,Sector
+"Gießen, Landkreis",EnergyExpL_Prod,85,0.7482236338616283,Sector
+"Gießen, Landkreis",Utilities,74,0.29564869066066257,Sector

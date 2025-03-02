@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wagoner,570,0.5024143179065929,Overall
+Wagoner,HiTech,24,0.09083753740483602,Sector
+Wagoner,Agriculture,29,0.7891075864792191,Sector
+Wagoner,Transportation,28,0.15771489523635474,Sector
+Wagoner,Consumer_Products,15,0.14841828465296059,Sector
+Wagoner,Unassigned,47,0.3658127551850663,Sector
+Wagoner,Communication,35,0.7929174095926048,Sector
+Wagoner,Trade,6,0.3704645692564409,Sector
+Wagoner,Business_Services,73,0.76608185252865,Sector
+Wagoner,Business_Products,9,0.7569844201247077,Sector
+Wagoner,Construction,73,0.3264271911717489,Sector
+Wagoner,Services,80,0.7083705444271431,Sector
+Wagoner,Mining,57,0.8122700674044726,Sector
+Wagoner,Health_Care,49,0.6160229987805067,Sector
+Wagoner,EnergyExpL_Prod,45,0.73135670709278,Sector
+Wagoner,Utilities,0,0.10342794926140197,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Throckmorton,676,0.5462301625667646,Overall
+Throckmorton,HiTech,70,0.8771856930233302,Sector
+Throckmorton,Agriculture,3,0.9723331065302804,Sector
+Throckmorton,Transportation,94,0.2317536498979017,Sector
+Throckmorton,Consumer_Products,41,0.6510055539217862,Sector
+Throckmorton,Unassigned,17,0.35521186954729955,Sector
+Throckmorton,Communication,64,0.6943394999130311,Sector
+Throckmorton,Trade,41,0.9717020338675735,Sector
+Throckmorton,Business_Services,18,0.03914072470718866,Sector
+Throckmorton,Business_Products,76,0.9245011217558665,Sector
+Throckmorton,Construction,12,0.5850112333616418,Sector
+Throckmorton,Services,72,0.2923174920400975,Sector
+Throckmorton,Mining,30,0.8207054795423112,Sector
+Throckmorton,Health_Care,21,0.40627941833079917,Sector
+Throckmorton,EnergyExpL_Prod,22,0.06264531503661575,Sector
+Throckmorton,Utilities,95,0.309320247025745,Sector

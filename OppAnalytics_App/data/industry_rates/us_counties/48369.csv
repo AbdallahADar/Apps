@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Parmer,922,0.42412419758687375,Overall
+Parmer,HiTech,0,0.8694384712239391,Sector
+Parmer,Agriculture,43,0.028837591192904077,Sector
+Parmer,Transportation,86,0.3162412803095046,Sector
+Parmer,Consumer_Products,94,0.630550235801996,Sector
+Parmer,Unassigned,5,0.19013522244690173,Sector
+Parmer,Communication,55,0.4244082286302453,Sector
+Parmer,Trade,97,0.49389407968429133,Sector
+Parmer,Business_Services,94,0.22156892432078545,Sector
+Parmer,Business_Products,68,0.3989675917521617,Sector
+Parmer,Construction,15,0.14746764279373092,Sector
+Parmer,Services,82,0.10986964369993002,Sector
+Parmer,Mining,37,0.13213956569012508,Sector
+Parmer,Health_Care,79,0.9200491303357623,Sector
+Parmer,EnergyExpL_Prod,81,0.5514235844345771,Sector
+Parmer,Utilities,86,0.926871771486252,Sector

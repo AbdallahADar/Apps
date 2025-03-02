@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gilmer,833,0.5128169082977035,Overall
+Gilmer,HiTech,86,0.6176009795756358,Sector
+Gilmer,Agriculture,7,0.017602126862415135,Sector
+Gilmer,Transportation,67,0.8521928793919025,Sector
+Gilmer,Consumer_Products,27,0.5089758485890473,Sector
+Gilmer,Unassigned,88,0.6806710563732171,Sector
+Gilmer,Communication,71,0.6146231408888485,Sector
+Gilmer,Trade,38,0.20755070615449145,Sector
+Gilmer,Business_Services,22,0.12989174429914907,Sector
+Gilmer,Business_Products,72,0.8701797791762185,Sector
+Gilmer,Construction,60,0.39782363013838584,Sector
+Gilmer,Services,63,0.2449203350324448,Sector
+Gilmer,Mining,76,0.7847348291672904,Sector
+Gilmer,Health_Care,56,0.5910020902254843,Sector
+Gilmer,EnergyExpL_Prod,97,0.7933441767781425,Sector
+Gilmer,Utilities,3,0.3811403018128805,Sector

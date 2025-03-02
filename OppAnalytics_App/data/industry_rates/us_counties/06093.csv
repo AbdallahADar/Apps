@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Siskiyou,559,0.4442186435888495,Overall
+Siskiyou,HiTech,78,0.30695429289754794,Sector
+Siskiyou,Agriculture,43,0.3738578145454037,Sector
+Siskiyou,Transportation,22,0.2496115009547899,Sector
+Siskiyou,Consumer_Products,3,0.13725266693119476,Sector
+Siskiyou,Unassigned,26,0.16734305247526104,Sector
+Siskiyou,Communication,51,0.7029355167179766,Sector
+Siskiyou,Trade,33,0.006827634592468157,Sector
+Siskiyou,Business_Services,0,0.7515520159835761,Sector
+Siskiyou,Business_Products,16,0.144887855216699,Sector
+Siskiyou,Construction,82,0.6440307199781267,Sector
+Siskiyou,Services,57,0.5513769138175065,Sector
+Siskiyou,Mining,40,0.11322371108813623,Sector
+Siskiyou,Health_Care,17,0.6968733034451063,Sector
+Siskiyou,EnergyExpL_Prod,6,0.9700617003061738,Sector
+Siskiyou,Utilities,85,0.8464909548827754,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pas-de-Calais,553,0.37433066386923114,Overall
+Pas-de-Calais,HiTech,38,0.02127169512402438,Sector
+Pas-de-Calais,Agriculture,18,0.38937298382669183,Sector
+Pas-de-Calais,Transportation,21,0.016264180289217833,Sector
+Pas-de-Calais,Consumer_Products,47,0.6589072186102627,Sector
+Pas-de-Calais,Unassigned,72,0.41791994242439123,Sector
+Pas-de-Calais,Communication,11,0.08191645607795162,Sector
+Pas-de-Calais,Trade,24,0.14981943027594968,Sector
+Pas-de-Calais,Business_Services,25,0.4366075464152763,Sector
+Pas-de-Calais,Business_Products,63,0.4378695545937269,Sector
+Pas-de-Calais,Construction,37,0.4420694959880951,Sector
+Pas-de-Calais,Services,83,0.7286194744862515,Sector
+Pas-de-Calais,Mining,58,0.567738968251077,Sector
+Pas-de-Calais,Health_Care,10,0.7282821713418003,Sector
+Pas-de-Calais,EnergyExpL_Prod,5,0.40403958162270626,Sector
+Pas-de-Calais,Utilities,41,0.13426125871104377,Sector

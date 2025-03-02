@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bon Homme,680,0.4704513696775526,Overall
+Bon Homme,HiTech,30,0.910729279742069,Sector
+Bon Homme,Agriculture,32,0.23774180077228235,Sector
+Bon Homme,Transportation,71,0.8029475793727219,Sector
+Bon Homme,Consumer_Products,75,0.883055998526802,Sector
+Bon Homme,Unassigned,60,0.7698277919839106,Sector
+Bon Homme,Communication,77,0.9187470249276852,Sector
+Bon Homme,Trade,7,0.38101320181405063,Sector
+Bon Homme,Business_Services,96,0.47153647252149244,Sector
+Bon Homme,Business_Products,54,0.4271816687211385,Sector
+Bon Homme,Construction,6,0.23810665102934758,Sector
+Bon Homme,Services,38,0.33386445062557435,Sector
+Bon Homme,Mining,28,0.5218289507735543,Sector
+Bon Homme,Health_Care,15,0.05032368283320854,Sector
+Bon Homme,EnergyExpL_Prod,5,0.10181560287310654,Sector
+Bon Homme,Utilities,86,0.008050388646344553,Sector

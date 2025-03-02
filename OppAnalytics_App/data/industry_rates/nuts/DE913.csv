@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Wolfsburg, Kreisfreie Stadt",768,0.5625314927138444,Overall
+"Wolfsburg, Kreisfreie Stadt",HiTech,40,0.638724378679009,Sector
+"Wolfsburg, Kreisfreie Stadt",Agriculture,34,0.5541472137459178,Sector
+"Wolfsburg, Kreisfreie Stadt",Transportation,83,0.9384823899695101,Sector
+"Wolfsburg, Kreisfreie Stadt",Consumer_Products,45,0.0165141891860886,Sector
+"Wolfsburg, Kreisfreie Stadt",Unassigned,66,0.5489005761203537,Sector
+"Wolfsburg, Kreisfreie Stadt",Communication,62,0.5657069111523639,Sector
+"Wolfsburg, Kreisfreie Stadt",Trade,60,0.6543658588084585,Sector
+"Wolfsburg, Kreisfreie Stadt",Business_Services,90,0.8997790043767435,Sector
+"Wolfsburg, Kreisfreie Stadt",Business_Products,70,0.6924062754131922,Sector
+"Wolfsburg, Kreisfreie Stadt",Construction,23,0.7076950236470531,Sector
+"Wolfsburg, Kreisfreie Stadt",Services,0,0.10095410491555301,Sector
+"Wolfsburg, Kreisfreie Stadt",Mining,15,0.38103626996121087,Sector
+"Wolfsburg, Kreisfreie Stadt",Health_Care,86,0.38658716652362224,Sector
+"Wolfsburg, Kreisfreie Stadt",EnergyExpL_Prod,44,0.8056458479068342,Sector
+"Wolfsburg, Kreisfreie Stadt",Utilities,50,0.5470271803017562,Sector

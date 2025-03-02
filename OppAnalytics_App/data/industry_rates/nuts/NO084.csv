@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Akershus,626,0.5729547326750654,Overall
+Akershus,HiTech,35,0.2842499729758552,Sector
+Akershus,Agriculture,26,0.9476366722050908,Sector
+Akershus,Transportation,41,0.13314359190358072,Sector
+Akershus,Consumer_Products,9,0.8440608444130118,Sector
+Akershus,Unassigned,8,0.662156641044864,Sector
+Akershus,Communication,44,0.4121064471464406,Sector
+Akershus,Trade,51,0.010771363883302465,Sector
+Akershus,Business_Services,66,0.5767231480423406,Sector
+Akershus,Business_Products,48,0.19889518367009595,Sector
+Akershus,Construction,90,0.741001542342878,Sector
+Akershus,Services,28,0.8428001543299704,Sector
+Akershus,Mining,22,0.9671630306211049,Sector
+Akershus,Health_Care,77,0.7385931340759292,Sector
+Akershus,EnergyExpL_Prod,63,0.9504901861628294,Sector
+Akershus,Utilities,18,0.28452907730868715,Sector

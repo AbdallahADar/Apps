@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Südburgenland,754,0.5058008594316852,Overall
+Südburgenland,HiTech,55,0.5891635051989328,Sector
+Südburgenland,Agriculture,69,0.99668959928251,Sector
+Südburgenland,Transportation,41,0.6056516479167546,Sector
+Südburgenland,Consumer_Products,93,0.7214450733774923,Sector
+Südburgenland,Unassigned,24,0.6435359629035112,Sector
+Südburgenland,Communication,66,0.31153185835267994,Sector
+Südburgenland,Trade,40,0.6499857563514899,Sector
+Südburgenland,Business_Services,37,0.7676775251506257,Sector
+Südburgenland,Business_Products,35,0.35165032079259906,Sector
+Südburgenland,Construction,47,0.1536192705483833,Sector
+Südburgenland,Services,52,0.9221485296920061,Sector
+Südburgenland,Mining,4,0.20451453170654954,Sector
+Südburgenland,Health_Care,64,0.14806016883231432,Sector
+Südburgenland,EnergyExpL_Prod,98,0.4325471243567024,Sector
+Südburgenland,Utilities,29,0.08879201701272721,Sector

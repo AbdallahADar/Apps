@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Crockett,643,0.5424486923263845,Overall
+Crockett,HiTech,65,0.6975532926442399,Sector
+Crockett,Agriculture,52,0.6209256811415048,Sector
+Crockett,Transportation,4,0.43843683261787003,Sector
+Crockett,Consumer_Products,96,0.28647035049657377,Sector
+Crockett,Unassigned,43,0.05966202491415473,Sector
+Crockett,Communication,30,0.3705019513505198,Sector
+Crockett,Trade,11,0.585530326220869,Sector
+Crockett,Business_Services,42,0.3320938252197416,Sector
+Crockett,Business_Products,68,0.7374617715546904,Sector
+Crockett,Construction,38,0.44973865755150944,Sector
+Crockett,Services,10,0.6760263036786703,Sector
+Crockett,Mining,57,0.9453915614081733,Sector
+Crockett,Health_Care,9,0.699117902102082,Sector
+Crockett,EnergyExpL_Prod,81,0.49461729672916943,Sector
+Crockett,Utilities,37,0.743202607266,Sector

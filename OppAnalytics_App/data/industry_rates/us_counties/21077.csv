@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gallatin,805,0.4467994037481754,Overall
+Gallatin,HiTech,65,0.4258902979504279,Sector
+Gallatin,Agriculture,75,0.7346347748228352,Sector
+Gallatin,Transportation,41,0.5729293413762289,Sector
+Gallatin,Consumer_Products,28,0.9876183045231736,Sector
+Gallatin,Unassigned,54,0.0678403244268807,Sector
+Gallatin,Communication,80,0.45401135066084786,Sector
+Gallatin,Trade,54,0.04001404864172664,Sector
+Gallatin,Business_Services,24,0.2322291588775679,Sector
+Gallatin,Business_Products,43,0.9512244030226692,Sector
+Gallatin,Construction,93,0.24989490182635132,Sector
+Gallatin,Services,92,0.42235885452844035,Sector
+Gallatin,Mining,49,0.6677105172985703,Sector
+Gallatin,Health_Care,66,0.7342821463957921,Sector
+Gallatin,EnergyExpL_Prod,30,0.0052438603406134154,Sector
+Gallatin,Utilities,11,0.15610877153050462,Sector

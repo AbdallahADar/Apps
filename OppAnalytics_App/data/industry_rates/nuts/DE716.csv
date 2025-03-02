@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Darmstadt-Dieburg,672,0.5672898290443766,Overall
+Darmstadt-Dieburg,HiTech,41,0.6987700996755707,Sector
+Darmstadt-Dieburg,Agriculture,7,0.9767267241356562,Sector
+Darmstadt-Dieburg,Transportation,44,0.060972136087325435,Sector
+Darmstadt-Dieburg,Consumer_Products,63,0.42995138609612626,Sector
+Darmstadt-Dieburg,Unassigned,25,0.13587441204793815,Sector
+Darmstadt-Dieburg,Communication,51,0.9323534825179272,Sector
+Darmstadt-Dieburg,Trade,81,0.4784199705173523,Sector
+Darmstadt-Dieburg,Business_Services,74,0.3194618855761787,Sector
+Darmstadt-Dieburg,Business_Products,3,0.9568370063023336,Sector
+Darmstadt-Dieburg,Construction,51,0.8560312066807377,Sector
+Darmstadt-Dieburg,Services,55,0.047269546882295455,Sector
+Darmstadt-Dieburg,Mining,36,0.9571791176716125,Sector
+Darmstadt-Dieburg,Health_Care,0,0.16217323579756482,Sector
+Darmstadt-Dieburg,EnergyExpL_Prod,48,0.7522361498474384,Sector
+Darmstadt-Dieburg,Utilities,93,0.7450910758295919,Sector

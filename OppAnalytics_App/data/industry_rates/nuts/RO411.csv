@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dolj,665,0.45946081979326686,Overall
+Dolj,HiTech,12,0.6975077577798363,Sector
+Dolj,Agriculture,6,0.22896414721729086,Sector
+Dolj,Transportation,3,0.7720921025599127,Sector
+Dolj,Consumer_Products,30,0.17232940722158074,Sector
+Dolj,Unassigned,83,0.5048433103344057,Sector
+Dolj,Communication,55,0.4294007700646315,Sector
+Dolj,Trade,91,0.0405124295454129,Sector
+Dolj,Business_Services,78,0.39488892185782887,Sector
+Dolj,Business_Products,63,0.5220441818283584,Sector
+Dolj,Construction,23,0.7630267928506603,Sector
+Dolj,Services,90,0.486754994704523,Sector
+Dolj,Mining,0,0.9280086649501302,Sector
+Dolj,Health_Care,53,0.1668869878937872,Sector
+Dolj,EnergyExpL_Prod,21,0.7496130814730739,Sector
+Dolj,Utilities,57,0.03503874661757056,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sibiu,973,0.4569279963144801,Overall
+Sibiu,HiTech,63,0.4884309991401846,Sector
+Sibiu,Agriculture,98,0.22568020593298033,Sector
+Sibiu,Transportation,70,0.8061189221293781,Sector
+Sibiu,Consumer_Products,73,0.2951241181594102,Sector
+Sibiu,Unassigned,64,0.3313263476742322,Sector
+Sibiu,Communication,66,0.8943269280009729,Sector
+Sibiu,Trade,66,0.021685600298030128,Sector
+Sibiu,Business_Services,86,0.009445310284790231,Sector
+Sibiu,Business_Products,52,0.9550054383399134,Sector
+Sibiu,Construction,92,0.052594607639843916,Sector
+Sibiu,Services,43,0.8979095712010889,Sector
+Sibiu,Mining,79,0.4383624560638856,Sector
+Sibiu,Health_Care,83,0.8499568379669213,Sector
+Sibiu,EnergyExpL_Prod,28,0.06587355816778717,Sector
+Sibiu,Utilities,10,0.5220790437177816,Sector

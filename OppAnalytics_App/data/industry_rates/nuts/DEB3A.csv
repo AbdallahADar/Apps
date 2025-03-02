@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Zweibrücken, Kreisfreie Stadt",573,0.5524725362217144,Overall
+"Zweibrücken, Kreisfreie Stadt",HiTech,9,0.8853196482891355,Sector
+"Zweibrücken, Kreisfreie Stadt",Agriculture,74,0.17776426504643827,Sector
+"Zweibrücken, Kreisfreie Stadt",Transportation,81,0.595168157075207,Sector
+"Zweibrücken, Kreisfreie Stadt",Consumer_Products,22,0.4849827233311925,Sector
+"Zweibrücken, Kreisfreie Stadt",Unassigned,4,0.006627936942241619,Sector
+"Zweibrücken, Kreisfreie Stadt",Communication,33,0.6629772290371057,Sector
+"Zweibrücken, Kreisfreie Stadt",Trade,66,0.6105613446876095,Sector
+"Zweibrücken, Kreisfreie Stadt",Business_Services,25,0.6959495384444508,Sector
+"Zweibrücken, Kreisfreie Stadt",Business_Products,58,0.43179678593827897,Sector
+"Zweibrücken, Kreisfreie Stadt",Construction,52,0.5435634217126099,Sector
+"Zweibrücken, Kreisfreie Stadt",Services,7,0.6353601850948178,Sector
+"Zweibrücken, Kreisfreie Stadt",Mining,32,0.924882940462265,Sector
+"Zweibrücken, Kreisfreie Stadt",Health_Care,24,0.6318799566429076,Sector
+"Zweibrücken, Kreisfreie Stadt",EnergyExpL_Prod,47,0.48405980158638306,Sector
+"Zweibrücken, Kreisfreie Stadt",Utilities,39,0.5161941090350746,Sector

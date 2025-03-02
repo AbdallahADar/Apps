@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Burleson,704,0.5367071453371715,Overall
+Burleson,HiTech,52,0.38508286213689435,Sector
+Burleson,Agriculture,68,0.6051079541156835,Sector
+Burleson,Transportation,14,0.18935551619265245,Sector
+Burleson,Consumer_Products,46,0.9770063808622916,Sector
+Burleson,Unassigned,5,0.8433519488207858,Sector
+Burleson,Communication,80,0.2952928680376009,Sector
+Burleson,Trade,98,0.006719306317905405,Sector
+Burleson,Business_Services,66,0.8083180256509497,Sector
+Burleson,Business_Products,9,0.2222984534708322,Sector
+Burleson,Construction,46,0.5103671229289969,Sector
+Burleson,Services,89,0.796364699742796,Sector
+Burleson,Mining,38,0.5026317526550126,Sector
+Burleson,Health_Care,18,0.7810418913736197,Sector
+Burleson,EnergyExpL_Prod,59,0.8921133703697834,Sector
+Burleson,Utilities,16,0.2355550273817686,Sector

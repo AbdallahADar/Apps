@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sampson,713,0.44232491472019597,Overall
+Sampson,HiTech,10,0.5280865207772818,Sector
+Sampson,Agriculture,60,0.2839789390909211,Sector
+Sampson,Transportation,69,0.47670370687216046,Sector
+Sampson,Consumer_Products,70,0.7753454701721135,Sector
+Sampson,Unassigned,14,0.19490148725296286,Sector
+Sampson,Communication,40,0.01742306051970821,Sector
+Sampson,Trade,39,0.30680518416429226,Sector
+Sampson,Business_Services,39,0.3356095807119066,Sector
+Sampson,Business_Products,37,0.9286765808991431,Sector
+Sampson,Construction,39,0.08383173580415237,Sector
+Sampson,Services,11,0.967390967901895,Sector
+Sampson,Mining,70,0.5955936355226353,Sector
+Sampson,Health_Care,84,0.3551256480860919,Sector
+Sampson,EnergyExpL_Prod,85,0.27405424088155905,Sector
+Sampson,Utilities,46,0.5113469621461169,Sector

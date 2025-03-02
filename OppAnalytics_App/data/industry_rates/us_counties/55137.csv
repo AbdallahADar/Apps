@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Waushara,759,0.5131183952259776,Overall
+Waushara,HiTech,97,0.6907738375199339,Sector
+Waushara,Agriculture,72,0.7496276463426932,Sector
+Waushara,Transportation,28,0.7429126891553101,Sector
+Waushara,Consumer_Products,73,0.5585606224984091,Sector
+Waushara,Unassigned,78,0.8438481959640479,Sector
+Waushara,Communication,11,0.050740252491608295,Sector
+Waushara,Trade,34,0.11416768499990093,Sector
+Waushara,Business_Services,12,0.1422767366179427,Sector
+Waushara,Business_Products,65,0.3721861551596799,Sector
+Waushara,Construction,23,0.9020075609547316,Sector
+Waushara,Services,5,0.7233020998822881,Sector
+Waushara,Mining,44,0.24385365697888584,Sector
+Waushara,Health_Care,56,0.9331739387859367,Sector
+Waushara,EnergyExpL_Prod,63,0.1722546601023972,Sector
+Waushara,Utilities,98,0.45709019093589864,Sector

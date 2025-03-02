@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dent,744,0.4804831311999829,Overall
+Dent,HiTech,67,0.88268648229645,Sector
+Dent,Agriculture,63,0.670246937385826,Sector
+Dent,Transportation,7,0.3108414483909009,Sector
+Dent,Consumer_Products,25,0.24692914276572842,Sector
+Dent,Unassigned,78,0.7083700873281116,Sector
+Dent,Communication,29,0.735085033217629,Sector
+Dent,Trade,36,0.39459451341334717,Sector
+Dent,Business_Services,71,0.5563553597453604,Sector
+Dent,Business_Products,91,0.11793102932927368,Sector
+Dent,Construction,37,0.33562860820236196,Sector
+Dent,Services,30,0.5280769787269232,Sector
+Dent,Mining,46,0.7499886702115061,Sector
+Dent,Health_Care,63,0.1796011860736314,Sector
+Dent,EnergyExpL_Prod,42,0.1644818686884013,Sector
+Dent,Utilities,59,0.6264296222242937,Sector

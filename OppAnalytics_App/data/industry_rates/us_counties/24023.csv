@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Garrett,735,0.5331444893992031,Overall
+Garrett,HiTech,34,0.6163391795060139,Sector
+Garrett,Agriculture,9,0.9765137812217339,Sector
+Garrett,Transportation,24,0.7340932000104423,Sector
+Garrett,Consumer_Products,76,0.5770472133581273,Sector
+Garrett,Unassigned,98,0.554256158535296,Sector
+Garrett,Communication,82,0.42759049199395993,Sector
+Garrett,Trade,32,0.7002866062755563,Sector
+Garrett,Business_Services,49,0.7222558035767094,Sector
+Garrett,Business_Products,43,0.6543727081875479,Sector
+Garrett,Construction,56,0.3279844618139818,Sector
+Garrett,Services,34,0.380592596744485,Sector
+Garrett,Mining,63,0.2157423847308172,Sector
+Garrett,Health_Care,68,0.638323426946305,Sector
+Garrett,EnergyExpL_Prod,36,0.3468773481005786,Sector
+Garrett,Utilities,31,0.12489197998649215,Sector

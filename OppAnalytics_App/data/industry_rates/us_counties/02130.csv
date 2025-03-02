@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ketchikan Gateway,723,0.43326077384993356,Overall
+Ketchikan Gateway,HiTech,81,0.23911717317983616,Sector
+Ketchikan Gateway,Agriculture,9,0.447919516320338,Sector
+Ketchikan Gateway,Transportation,66,0.006448921465892932,Sector
+Ketchikan Gateway,Consumer_Products,9,0.6490323891128896,Sector
+Ketchikan Gateway,Unassigned,74,0.5727407449724814,Sector
+Ketchikan Gateway,Communication,49,0.06300831879248614,Sector
+Ketchikan Gateway,Trade,73,0.21685908442703217,Sector
+Ketchikan Gateway,Business_Services,47,0.08408286709501012,Sector
+Ketchikan Gateway,Business_Products,45,0.8811735803608325,Sector
+Ketchikan Gateway,Construction,47,0.25801269391937154,Sector
+Ketchikan Gateway,Services,65,0.9648470349977718,Sector
+Ketchikan Gateway,Mining,59,0.9696298268800553,Sector
+Ketchikan Gateway,Health_Care,49,0.3565928889852077,Sector
+Ketchikan Gateway,EnergyExpL_Prod,16,0.4800097394818533,Sector
+Ketchikan Gateway,Utilities,34,0.30943682775794557,Sector

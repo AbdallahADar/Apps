@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kenosha,775,0.6305409551375397,Overall
+Kenosha,HiTech,83,0.5003200883406077,Sector
+Kenosha,Agriculture,10,0.34889465342493875,Sector
+Kenosha,Transportation,85,0.593265593578538,Sector
+Kenosha,Consumer_Products,16,0.9279895655932227,Sector
+Kenosha,Unassigned,96,0.1626028026875539,Sector
+Kenosha,Communication,49,0.7988129655763766,Sector
+Kenosha,Trade,52,0.5515776609188565,Sector
+Kenosha,Business_Services,7,0.30397344507892543,Sector
+Kenosha,Business_Products,77,0.6016587333626733,Sector
+Kenosha,Construction,39,0.8573577358886277,Sector
+Kenosha,Services,11,0.7891728520128465,Sector
+Kenosha,Mining,50,0.9503923442407674,Sector
+Kenosha,Health_Care,86,0.20693277367765528,Sector
+Kenosha,EnergyExpL_Prod,75,0.9628410877894654,Sector
+Kenosha,Utilities,39,0.9023220248920398,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Powder River,864,0.5438011370120741,Overall
+Powder River,HiTech,32,0.35892552413983436,Sector
+Powder River,Agriculture,91,0.8740883319198648,Sector
+Powder River,Transportation,53,0.5248987438858552,Sector
+Powder River,Consumer_Products,50,0.080098777628135,Sector
+Powder River,Unassigned,88,0.839796333708551,Sector
+Powder River,Communication,39,0.7280788866314549,Sector
+Powder River,Trade,0,0.7299987909925694,Sector
+Powder River,Business_Services,4,0.9656783565993446,Sector
+Powder River,Business_Products,62,0.06831175253102273,Sector
+Powder River,Construction,56,0.27156331878525863,Sector
+Powder River,Services,69,0.5884017189119386,Sector
+Powder River,Mining,76,0.3621879987397172,Sector
+Powder River,Health_Care,98,0.4049384167441129,Sector
+Powder River,EnergyExpL_Prod,87,0.6271800150040595,Sector
+Powder River,Utilities,59,0.732870088959392,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Granada,685,0.4204391387881707,Overall
+Granada,HiTech,59,0.005366800201181077,Sector
+Granada,Agriculture,66,0.17190791571036412,Sector
+Granada,Transportation,7,0.26565524032953247,Sector
+Granada,Consumer_Products,17,0.46815725610837,Sector
+Granada,Unassigned,12,0.684569037903723,Sector
+Granada,Communication,77,0.45374017764669416,Sector
+Granada,Trade,49,0.38421715742727125,Sector
+Granada,Business_Services,67,0.4015384008267896,Sector
+Granada,Business_Products,2,0.6269640016313416,Sector
+Granada,Construction,3,0.9579064357776409,Sector
+Granada,Services,73,0.15465597522292518,Sector
+Granada,Mining,68,0.909106264761518,Sector
+Granada,Health_Care,84,0.04345932425822485,Sector
+Granada,EnergyExpL_Prod,53,0.5503397281997688,Sector
+Granada,Utilities,48,0.22900336581721537,Sector

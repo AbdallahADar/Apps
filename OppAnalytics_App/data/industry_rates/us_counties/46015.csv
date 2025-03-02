@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Brule,684,0.49094388238184156,Overall
+Brule,HiTech,16,0.979830941836987,Sector
+Brule,Agriculture,26,0.3764771992596079,Sector
+Brule,Transportation,63,0.43491408390131603,Sector
+Brule,Consumer_Products,75,0.6717616487427619,Sector
+Brule,Unassigned,67,0.08681434622806616,Sector
+Brule,Communication,37,0.35535134763409393,Sector
+Brule,Trade,25,0.8610089426755857,Sector
+Brule,Business_Services,88,0.10911815263483171,Sector
+Brule,Business_Products,31,0.9969875113051607,Sector
+Brule,Construction,81,0.20500130025113472,Sector
+Brule,Services,50,0.32180490557073205,Sector
+Brule,Mining,45,0.9045161134744564,Sector
+Brule,Health_Care,31,0.24859424162278676,Sector
+Brule,EnergyExpL_Prod,7,0.5577491213774983,Sector
+Brule,Utilities,42,0.2542283792126028,Sector

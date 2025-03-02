@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bludenz-Bregenzer Wald,746,0.5291938634987097,Overall
+Bludenz-Bregenzer Wald,HiTech,15,0.2452039887569456,Sector
+Bludenz-Bregenzer Wald,Agriculture,43,0.44033597656270396,Sector
+Bludenz-Bregenzer Wald,Transportation,67,0.5472341963724733,Sector
+Bludenz-Bregenzer Wald,Consumer_Products,57,0.1286397102337522,Sector
+Bludenz-Bregenzer Wald,Unassigned,69,0.8543627147678439,Sector
+Bludenz-Bregenzer Wald,Communication,32,0.9886271214447371,Sector
+Bludenz-Bregenzer Wald,Trade,94,0.38232578327067757,Sector
+Bludenz-Bregenzer Wald,Business_Services,26,0.9026465070656302,Sector
+Bludenz-Bregenzer Wald,Business_Products,16,0.02949480756901901,Sector
+Bludenz-Bregenzer Wald,Construction,16,0.8856377584880568,Sector
+Bludenz-Bregenzer Wald,Services,44,0.8348760700714278,Sector
+Bludenz-Bregenzer Wald,Mining,62,0.7573748920502058,Sector
+Bludenz-Bregenzer Wald,Health_Care,45,0.07591195298990028,Sector
+Bludenz-Bregenzer Wald,EnergyExpL_Prod,63,0.5162540165793956,Sector
+Bludenz-Bregenzer Wald,Utilities,97,0.34898245625787605,Sector

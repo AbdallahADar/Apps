@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Somerset,601,0.574404649269965,Overall
+Somerset,HiTech,13,0.29575475794366723,Sector
+Somerset,Agriculture,18,0.10550038215094315,Sector
+Somerset,Transportation,38,0.7713000218084104,Sector
+Somerset,Consumer_Products,27,0.9953736509318851,Sector
+Somerset,Unassigned,18,0.5426403443231821,Sector
+Somerset,Communication,53,0.7102723318300423,Sector
+Somerset,Trade,2,0.7396581030014096,Sector
+Somerset,Business_Services,58,0.32504563167747014,Sector
+Somerset,Business_Products,6,0.5805771519297733,Sector
+Somerset,Construction,62,0.6717435617807682,Sector
+Somerset,Services,3,0.38938868226550283,Sector
+Somerset,Mining,82,0.7444710951731024,Sector
+Somerset,Health_Care,74,0.40012392648746087,Sector
+Somerset,EnergyExpL_Prod,95,0.9800898276003295,Sector
+Somerset,Utilities,52,0.36413027014552934,Sector

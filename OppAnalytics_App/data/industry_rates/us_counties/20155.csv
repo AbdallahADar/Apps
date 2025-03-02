@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Reno,766,0.5706679009359744,Overall
+Reno,HiTech,98,0.0727273550959,Sector
+Reno,Agriculture,2,0.974872677321581,Sector
+Reno,Transportation,75,0.6889614583864225,Sector
+Reno,Consumer_Products,73,0.6455657520847178,Sector
+Reno,Unassigned,84,0.08681650838481136,Sector
+Reno,Communication,47,0.5942916767661702,Sector
+Reno,Trade,94,0.6605948663325033,Sector
+Reno,Business_Services,64,0.18542708906773742,Sector
+Reno,Business_Products,54,0.9388802840900156,Sector
+Reno,Construction,53,0.40960465026407245,Sector
+Reno,Services,18,0.840015744344217,Sector
+Reno,Mining,68,0.8570803635828081,Sector
+Reno,Health_Care,20,0.7034699674418688,Sector
+Reno,EnergyExpL_Prod,15,0.6802420802173653,Sector
+Reno,Utilities,1,0.22146804065942416,Sector

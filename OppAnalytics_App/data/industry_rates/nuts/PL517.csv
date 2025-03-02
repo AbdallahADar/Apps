@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wałbrzyski,726,0.5488073943141109,Overall
+Wałbrzyski,HiTech,18,0.2682031336545745,Sector
+Wałbrzyski,Agriculture,97,0.9830101199053832,Sector
+Wałbrzyski,Transportation,13,0.43248075030770106,Sector
+Wałbrzyski,Consumer_Products,51,0.4446651298492539,Sector
+Wałbrzyski,Unassigned,36,0.9733361986357674,Sector
+Wałbrzyski,Communication,5,0.6538556318644337,Sector
+Wałbrzyski,Trade,89,0.6784277132026466,Sector
+Wałbrzyski,Business_Services,24,0.1761075674739352,Sector
+Wałbrzyski,Business_Products,92,0.08736188684706725,Sector
+Wałbrzyski,Construction,93,0.5338841739942202,Sector
+Wałbrzyski,Services,40,0.652933956033034,Sector
+Wałbrzyski,Mining,95,0.9820405975867609,Sector
+Wałbrzyski,Health_Care,4,0.3289475689435425,Sector
+Wałbrzyski,EnergyExpL_Prod,16,0.10487259360139467,Sector
+Wałbrzyski,Utilities,53,0.9319838928119476,Sector

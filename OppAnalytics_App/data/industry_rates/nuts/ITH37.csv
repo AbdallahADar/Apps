@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rovigo,802,0.5855077098303624,Overall
+Rovigo,HiTech,74,0.8890032257910238,Sector
+Rovigo,Agriculture,53,0.9791583023267187,Sector
+Rovigo,Transportation,98,0.3178838602249485,Sector
+Rovigo,Consumer_Products,18,0.8769431244807206,Sector
+Rovigo,Unassigned,53,0.9109677480013662,Sector
+Rovigo,Communication,25,0.3054016503981023,Sector
+Rovigo,Trade,78,0.14105109438847507,Sector
+Rovigo,Business_Services,54,0.372535312371723,Sector
+Rovigo,Business_Products,7,0.9179641201834448,Sector
+Rovigo,Construction,72,0.265367403505395,Sector
+Rovigo,Services,43,0.003722820105426683,Sector
+Rovigo,Mining,58,0.2894267587690753,Sector
+Rovigo,Health_Care,85,0.6903782926759297,Sector
+Rovigo,EnergyExpL_Prod,2,0.9494366024373984,Sector
+Rovigo,Utilities,82,0.8733753317956867,Sector

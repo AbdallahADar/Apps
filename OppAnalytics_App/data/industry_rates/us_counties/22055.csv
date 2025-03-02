@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lafayette,668,0.5704267718024825,Overall
+Lafayette,HiTech,12,0.6422930937336077,Sector
+Lafayette,Agriculture,79,0.9366508807683073,Sector
+Lafayette,Transportation,72,0.8707556149706123,Sector
+Lafayette,Consumer_Products,16,0.17067143328689138,Sector
+Lafayette,Unassigned,1,0.7986693623011104,Sector
+Lafayette,Communication,81,0.9039673849250034,Sector
+Lafayette,Trade,9,0.2024058096846788,Sector
+Lafayette,Business_Services,58,0.3490814062276124,Sector
+Lafayette,Business_Products,57,0.08315683219952119,Sector
+Lafayette,Construction,46,0.7589823895412601,Sector
+Lafayette,Services,48,0.7550169949736567,Sector
+Lafayette,Mining,44,0.04906907258613902,Sector
+Lafayette,Health_Care,3,0.6711761077470036,Sector
+Lafayette,EnergyExpL_Prod,43,0.5101524928077451,Sector
+Lafayette,Utilities,99,0.854352701284087,Sector

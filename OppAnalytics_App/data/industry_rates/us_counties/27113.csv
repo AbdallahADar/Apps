@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pennington,740,0.5343329282858333,Overall
+Pennington,HiTech,20,0.27610853768852006,Sector
+Pennington,Agriculture,2,0.3669005320397558,Sector
+Pennington,Transportation,68,0.25211913033962985,Sector
+Pennington,Consumer_Products,40,0.5717326680386656,Sector
+Pennington,Unassigned,65,0.5308483943904677,Sector
+Pennington,Communication,59,0.2303289684105979,Sector
+Pennington,Trade,26,0.690429857111292,Sector
+Pennington,Business_Services,82,0.9013836201227011,Sector
+Pennington,Business_Products,53,0.817525637351508,Sector
+Pennington,Construction,78,0.642779452327403,Sector
+Pennington,Services,58,0.13196266400590018,Sector
+Pennington,Mining,51,0.6839685332828658,Sector
+Pennington,Health_Care,64,0.9357621465114387,Sector
+Pennington,EnergyExpL_Prod,32,0.7693721917051435,Sector
+Pennington,Utilities,42,0.2137715909616117,Sector

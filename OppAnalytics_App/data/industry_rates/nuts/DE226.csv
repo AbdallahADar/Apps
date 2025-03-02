@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kelheim,678,0.5003056697464313,Overall
+Kelheim,HiTech,45,0.9662226699201525,Sector
+Kelheim,Agriculture,97,0.11956440876893226,Sector
+Kelheim,Transportation,25,0.6510791161595998,Sector
+Kelheim,Consumer_Products,42,0.20907012781436307,Sector
+Kelheim,Unassigned,31,0.8439178437578448,Sector
+Kelheim,Communication,80,0.47369544865898083,Sector
+Kelheim,Trade,91,0.6177913013353176,Sector
+Kelheim,Business_Services,11,0.7806379508487626,Sector
+Kelheim,Business_Products,22,0.3122190987210274,Sector
+Kelheim,Construction,66,0.5202543167012504,Sector
+Kelheim,Services,49,0.13649926312481508,Sector
+Kelheim,Mining,12,0.5967596251454911,Sector
+Kelheim,Health_Care,23,0.2710754411918016,Sector
+Kelheim,EnergyExpL_Prod,63,0.6022005004225772,Sector
+Kelheim,Utilities,21,0.4035979336255534,Sector

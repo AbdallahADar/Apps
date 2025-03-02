@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Taliaferro,711,0.5334237294764678,Overall
+Taliaferro,HiTech,32,0.06345388367991156,Sector
+Taliaferro,Agriculture,79,0.28531635082432216,Sector
+Taliaferro,Transportation,65,0.5277733493308788,Sector
+Taliaferro,Consumer_Products,11,0.3159024066218429,Sector
+Taliaferro,Unassigned,95,0.09705888788084494,Sector
+Taliaferro,Communication,82,0.22261431310987523,Sector
+Taliaferro,Trade,47,0.8648834238844737,Sector
+Taliaferro,Business_Services,3,0.47416318689333736,Sector
+Taliaferro,Business_Products,35,0.9824750262712348,Sector
+Taliaferro,Construction,2,0.9329124903028742,Sector
+Taliaferro,Services,37,0.8129596673645473,Sector
+Taliaferro,Mining,44,0.7578886113493025,Sector
+Taliaferro,Health_Care,90,0.5771487380961705,Sector
+Taliaferro,EnergyExpL_Prod,20,0.3953765405050411,Sector
+Taliaferro,Utilities,69,0.6914290660323599,Sector

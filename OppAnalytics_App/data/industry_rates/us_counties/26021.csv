@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Berrien,695,0.46032145225568993,Overall
+Berrien,HiTech,11,0.4006569861524325,Sector
+Berrien,Agriculture,6,0.828668414939238,Sector
+Berrien,Transportation,95,0.4970579017650766,Sector
+Berrien,Consumer_Products,13,0.13461966277829762,Sector
+Berrien,Unassigned,22,0.9100684440377965,Sector
+Berrien,Communication,54,0.35505336466000736,Sector
+Berrien,Trade,86,0.13151267329285332,Sector
+Berrien,Business_Services,46,0.526917411193679,Sector
+Berrien,Business_Products,85,0.7506492706277847,Sector
+Berrien,Construction,19,0.08777070476086435,Sector
+Berrien,Services,95,0.6830747770349326,Sector
+Berrien,Mining,70,0.6529536170119786,Sector
+Berrien,Health_Care,66,0.2423874587861259,Sector
+Berrien,EnergyExpL_Prod,5,0.22459194470725186,Sector
+Berrien,Utilities,22,0.478839152087029,Sector

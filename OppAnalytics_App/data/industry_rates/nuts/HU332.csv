@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Békés,992,0.3476298822689934,Overall
+Békés,HiTech,35,0.41464121480604976,Sector
+Békés,Agriculture,42,0.1736198542325469,Sector
+Békés,Transportation,33,0.1803696756094243,Sector
+Békés,Consumer_Products,90,0.701202183777804,Sector
+Békés,Unassigned,95,0.017656923316847872,Sector
+Békés,Communication,58,0.4807559210186758,Sector
+Békés,Trade,79,0.3964140815019418,Sector
+Békés,Business_Services,82,0.22160471131434356,Sector
+Békés,Business_Products,93,0.2090900010255483,Sector
+Békés,Construction,61,0.6505036991292258,Sector
+Békés,Services,54,0.31888187409527424,Sector
+Békés,Mining,89,0.3981613522852695,Sector
+Békés,Health_Care,58,0.6027063342980297,Sector
+Békés,EnergyExpL_Prod,71,0.19223165465740188,Sector
+Békés,Utilities,52,0.25660875296651786,Sector

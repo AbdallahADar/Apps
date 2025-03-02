@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lugo,799,0.41574952564239603,Overall
+Lugo,HiTech,40,0.6709757041917144,Sector
+Lugo,Agriculture,63,0.10688553036972226,Sector
+Lugo,Transportation,43,0.20557932958928749,Sector
+Lugo,Consumer_Products,8,0.027681179821261837,Sector
+Lugo,Unassigned,60,0.2638547028125431,Sector
+Lugo,Communication,74,0.5847032923856825,Sector
+Lugo,Trade,84,0.2752217867050879,Sector
+Lugo,Business_Services,0,0.08290004313630528,Sector
+Lugo,Business_Products,1,0.5014672050610223,Sector
+Lugo,Construction,41,0.7296080341209722,Sector
+Lugo,Services,91,0.5830873247307173,Sector
+Lugo,Mining,53,0.19647362735731977,Sector
+Lugo,Health_Care,92,0.6785901818791139,Sector
+Lugo,EnergyExpL_Prod,87,0.9805758228270753,Sector
+Lugo,Utilities,62,0.34863911964811434,Sector

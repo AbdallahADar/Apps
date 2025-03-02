@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lee,829,0.5918629850977885,Overall
+Lee,HiTech,96,0.7743241560068663,Sector
+Lee,Agriculture,29,0.7845669884464085,Sector
+Lee,Transportation,73,0.7007777861840795,Sector
+Lee,Consumer_Products,12,0.5888610221666996,Sector
+Lee,Unassigned,82,0.5084773786148729,Sector
+Lee,Communication,45,0.2814143539118469,Sector
+Lee,Trade,8,0.9079639922018885,Sector
+Lee,Business_Services,87,0.6312457976667973,Sector
+Lee,Business_Products,89,0.6834707065835116,Sector
+Lee,Construction,5,0.8043629161287529,Sector
+Lee,Services,79,0.04424074105871734,Sector
+Lee,Mining,51,0.18395109696570744,Sector
+Lee,Health_Care,98,0.8539603221902116,Sector
+Lee,EnergyExpL_Prod,43,0.615134303704859,Sector
+Lee,Utilities,32,0.5151932146356075,Sector

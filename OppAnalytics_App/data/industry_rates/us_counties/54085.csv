@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ritchie,653,0.4409045715911547,Overall
+Ritchie,HiTech,33,0.7333104629760397,Sector
+Ritchie,Agriculture,8,0.4405919635841564,Sector
+Ritchie,Transportation,0,0.15660801159717475,Sector
+Ritchie,Consumer_Products,11,0.4231018436899333,Sector
+Ritchie,Unassigned,35,0.8249345061803892,Sector
+Ritchie,Communication,41,0.6218437196468505,Sector
+Ritchie,Trade,73,0.5458693241873602,Sector
+Ritchie,Business_Services,91,0.8131811408289369,Sector
+Ritchie,Business_Products,37,0.015141915028791475,Sector
+Ritchie,Construction,86,0.973821798996654,Sector
+Ritchie,Services,57,0.08007448234226211,Sector
+Ritchie,Mining,44,0.3013302115995816,Sector
+Ritchie,Health_Care,1,0.22038692343577004,Sector
+Ritchie,EnergyExpL_Prod,59,0.4102577665979441,Sector
+Ritchie,Utilities,77,0.05311450317547717,Sector

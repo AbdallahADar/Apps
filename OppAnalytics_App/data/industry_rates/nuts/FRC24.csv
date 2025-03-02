@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Territoire de Belfort,826,0.5820764968386725,Overall
+Territoire de Belfort,HiTech,23,0.2884144310442037,Sector
+Territoire de Belfort,Agriculture,44,0.8410111337198415,Sector
+Territoire de Belfort,Transportation,79,0.8085722398726477,Sector
+Territoire de Belfort,Consumer_Products,66,0.16562150591366853,Sector
+Territoire de Belfort,Unassigned,40,0.11539483712174547,Sector
+Territoire de Belfort,Communication,13,0.44453184273457336,Sector
+Territoire de Belfort,Trade,80,0.5989863658254051,Sector
+Territoire de Belfort,Business_Services,53,0.4739309278784971,Sector
+Territoire de Belfort,Business_Products,99,0.0013998077772321427,Sector
+Territoire de Belfort,Construction,74,0.7404280729015182,Sector
+Territoire de Belfort,Services,8,0.9141692418452986,Sector
+Territoire de Belfort,Mining,40,0.7547995615117035,Sector
+Territoire de Belfort,Health_Care,79,0.9418001852002875,Sector
+Territoire de Belfort,EnergyExpL_Prod,90,0.962960194500405,Sector
+Territoire de Belfort,Utilities,38,0.6791271047330595,Sector

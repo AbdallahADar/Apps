@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dillingen a.d. Donau,735,0.3797864214764414,Overall
+Dillingen a.d. Donau,HiTech,80,0.6469295376926161,Sector
+Dillingen a.d. Donau,Agriculture,32,0.027555427918174336,Sector
+Dillingen a.d. Donau,Transportation,65,0.2576388931213537,Sector
+Dillingen a.d. Donau,Consumer_Products,61,0.04898220892637628,Sector
+Dillingen a.d. Donau,Unassigned,71,0.5129659976999145,Sector
+Dillingen a.d. Donau,Communication,17,0.9941870577572643,Sector
+Dillingen a.d. Donau,Trade,15,0.6230695279425472,Sector
+Dillingen a.d. Donau,Business_Services,25,0.452947651313636,Sector
+Dillingen a.d. Donau,Business_Products,56,0.33091049900082137,Sector
+Dillingen a.d. Donau,Construction,36,0.37058900169739306,Sector
+Dillingen a.d. Donau,Services,0,0.4932408097030283,Sector
+Dillingen a.d. Donau,Mining,84,0.014961714024069317,Sector
+Dillingen a.d. Donau,Health_Care,63,0.4652405291916166,Sector
+Dillingen a.d. Donau,EnergyExpL_Prod,84,0.27658977063177204,Sector
+Dillingen a.d. Donau,Utilities,46,0.18098769552603722,Sector

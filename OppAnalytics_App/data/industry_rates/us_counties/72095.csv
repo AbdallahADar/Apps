@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Maunabo,748,0.45126440523779193,Overall
+Maunabo,HiTech,7,0.022534136901741997,Sector
+Maunabo,Agriculture,42,0.7720005760379238,Sector
+Maunabo,Transportation,72,0.6482952792585299,Sector
+Maunabo,Consumer_Products,68,0.13369338980035783,Sector
+Maunabo,Unassigned,71,0.11012814263571957,Sector
+Maunabo,Communication,88,0.6159139319181406,Sector
+Maunabo,Trade,20,0.31120659090389446,Sector
+Maunabo,Business_Services,35,0.09326397379119111,Sector
+Maunabo,Business_Products,47,0.050182381005554944,Sector
+Maunabo,Construction,11,0.8462672351617835,Sector
+Maunabo,Services,50,0.48189638108479205,Sector
+Maunabo,Mining,65,0.736011976091219,Sector
+Maunabo,Health_Care,82,0.2652766835008775,Sector
+Maunabo,EnergyExpL_Prod,2,0.9436007312350835,Sector
+Maunabo,Utilities,88,0.7386946692400699,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Penobscot,737,0.5029666178094289,Overall
+Penobscot,HiTech,86,0.25757420339520787,Sector
+Penobscot,Agriculture,18,0.517703726867081,Sector
+Penobscot,Transportation,22,0.8460990607610849,Sector
+Penobscot,Consumer_Products,22,0.0023365366311578484,Sector
+Penobscot,Unassigned,82,0.8873955833956179,Sector
+Penobscot,Communication,53,0.6626110980983048,Sector
+Penobscot,Trade,21,0.585891966746009,Sector
+Penobscot,Business_Services,69,0.18425482472796517,Sector
+Penobscot,Business_Products,96,0.11900605742705428,Sector
+Penobscot,Construction,76,0.7099264550433798,Sector
+Penobscot,Services,41,0.9514541580089645,Sector
+Penobscot,Mining,42,0.14070206467717727,Sector
+Penobscot,Health_Care,41,0.24455612711143637,Sector
+Penobscot,EnergyExpL_Prod,21,0.5663056696432266,Sector
+Penobscot,Utilities,47,0.8686817346077662,Sector

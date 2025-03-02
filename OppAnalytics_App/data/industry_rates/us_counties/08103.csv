@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rio Blanco,826,0.45517806647037784,Overall
+Rio Blanco,HiTech,92,0.48379139383023984,Sector
+Rio Blanco,Agriculture,76,0.6633221405681712,Sector
+Rio Blanco,Transportation,71,0.14535535273058253,Sector
+Rio Blanco,Consumer_Products,14,0.8914949027781652,Sector
+Rio Blanco,Unassigned,63,0.14838074747332974,Sector
+Rio Blanco,Communication,96,0.5592254457910693,Sector
+Rio Blanco,Trade,5,0.42045665672602395,Sector
+Rio Blanco,Business_Services,42,0.48105452774900714,Sector
+Rio Blanco,Business_Products,28,0.13457892430029483,Sector
+Rio Blanco,Construction,78,0.9463251203459788,Sector
+Rio Blanco,Services,70,0.7209854751269785,Sector
+Rio Blanco,Mining,26,0.5857922972515429,Sector
+Rio Blanco,Health_Care,57,0.11628590425361862,Sector
+Rio Blanco,EnergyExpL_Prod,36,0.5247010813844385,Sector
+Rio Blanco,Utilities,72,0.005921026746226743,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Neamţ,497,0.44109547799262544,Overall
+Neamţ,HiTech,70,0.009507395682914144,Sector
+Neamţ,Agriculture,4,0.19953706827719442,Sector
+Neamţ,Transportation,79,0.21333453824190596,Sector
+Neamţ,Consumer_Products,20,0.5758011778859016,Sector
+Neamţ,Unassigned,61,0.5976560515531091,Sector
+Neamţ,Communication,20,0.5433071811367993,Sector
+Neamţ,Trade,7,0.6997144086828021,Sector
+Neamţ,Business_Services,6,0.02290216648538168,Sector
+Neamţ,Business_Products,10,0.08916053181344652,Sector
+Neamţ,Construction,1,0.6817914206832996,Sector
+Neamţ,Services,90,0.8073342126341904,Sector
+Neamţ,Mining,9,0.08866880287708967,Sector
+Neamţ,Health_Care,7,0.8447617507753472,Sector
+Neamţ,EnergyExpL_Prod,17,0.9636540196573614,Sector
+Neamţ,Utilities,96,0.2793014435026395,Sector

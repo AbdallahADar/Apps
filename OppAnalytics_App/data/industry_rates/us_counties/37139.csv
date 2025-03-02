@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pasquotank,881,0.46572133803475363,Overall
+Pasquotank,HiTech,77,0.2608237733153961,Sector
+Pasquotank,Agriculture,81,0.8000694958535478,Sector
+Pasquotank,Transportation,68,0.40752774751039555,Sector
+Pasquotank,Consumer_Products,73,0.0933378747457787,Sector
+Pasquotank,Unassigned,14,0.471846063565597,Sector
+Pasquotank,Communication,55,0.359743870397512,Sector
+Pasquotank,Trade,74,0.9193187478291123,Sector
+Pasquotank,Business_Services,67,0.3059682391887101,Sector
+Pasquotank,Business_Products,82,0.5286843553759046,Sector
+Pasquotank,Construction,39,0.7443508170619043,Sector
+Pasquotank,Services,68,0.5577685129857738,Sector
+Pasquotank,Mining,4,0.2454185589766803,Sector
+Pasquotank,Health_Care,11,0.43562352932427195,Sector
+Pasquotank,EnergyExpL_Prod,89,0.03335648595384633,Sector
+Pasquotank,Utilities,79,0.8219819984368739,Sector

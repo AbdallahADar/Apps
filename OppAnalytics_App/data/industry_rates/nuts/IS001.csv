@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Höfuðborgarsvæði,815,0.5534172868500781,Overall
+Höfuðborgarsvæði,HiTech,35,0.7952086106215629,Sector
+Höfuðborgarsvæði,Agriculture,32,0.9628184270569217,Sector
+Höfuðborgarsvæði,Transportation,38,0.9233448164617993,Sector
+Höfuðborgarsvæði,Consumer_Products,28,0.11314788679698362,Sector
+Höfuðborgarsvæði,Unassigned,76,0.397804986833622,Sector
+Höfuðborgarsvæði,Communication,37,0.3244278532053917,Sector
+Höfuðborgarsvæði,Trade,79,0.2670482720030074,Sector
+Höfuðborgarsvæði,Business_Services,55,0.7348890461222746,Sector
+Höfuðborgarsvæði,Business_Products,90,0.9341755450245421,Sector
+Höfuðborgarsvæði,Construction,69,0.09819372591728481,Sector
+Höfuðborgarsvæði,Services,77,0.3240393269019205,Sector
+Höfuðborgarsvæði,Mining,17,0.1690034312092933,Sector
+Höfuðborgarsvæði,Health_Care,50,0.919718930768631,Sector
+Höfuðborgarsvæði,EnergyExpL_Prod,61,0.7414888610495977,Sector
+Höfuðborgarsvæði,Utilities,71,0.5959495827783393,Sector

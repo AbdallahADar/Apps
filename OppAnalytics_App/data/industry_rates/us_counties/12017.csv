@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Citrus,886,0.4875426132713361,Overall
+Citrus,HiTech,10,0.8043806718903341,Sector
+Citrus,Agriculture,84,0.33975749340766126,Sector
+Citrus,Transportation,76,0.9358871799274111,Sector
+Citrus,Consumer_Products,20,0.2439491359327255,Sector
+Citrus,Unassigned,84,0.5284464327272642,Sector
+Citrus,Communication,25,0.8452844178344607,Sector
+Citrus,Trade,67,0.21120234121151826,Sector
+Citrus,Business_Services,78,0.08687533720176288,Sector
+Citrus,Business_Products,74,0.7449107889642158,Sector
+Citrus,Construction,97,0.4476715708696749,Sector
+Citrus,Services,50,0.6306039164576844,Sector
+Citrus,Mining,86,0.0140756041323431,Sector
+Citrus,Health_Care,49,0.3166273776316074,Sector
+Citrus,EnergyExpL_Prod,84,0.47338769104164924,Sector
+Citrus,Utilities,2,0.6900792398397276,Sector

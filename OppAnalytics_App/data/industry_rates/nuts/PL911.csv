@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Miasto Warszawa,728,0.5411333979734166,Overall
+Miasto Warszawa,HiTech,53,0.5109353289009054,Sector
+Miasto Warszawa,Agriculture,45,0.6778549095883301,Sector
+Miasto Warszawa,Transportation,40,0.43780024904729364,Sector
+Miasto Warszawa,Consumer_Products,69,0.6077253314211579,Sector
+Miasto Warszawa,Unassigned,42,0.3109133478266889,Sector
+Miasto Warszawa,Communication,69,0.7808435933172854,Sector
+Miasto Warszawa,Trade,22,0.12582841782480247,Sector
+Miasto Warszawa,Business_Services,43,0.915824765462531,Sector
+Miasto Warszawa,Business_Products,23,0.24415321946990542,Sector
+Miasto Warszawa,Construction,1,0.4408538140572438,Sector
+Miasto Warszawa,Services,99,0.9493292291717763,Sector
+Miasto Warszawa,Mining,64,0.9165605601899378,Sector
+Miasto Warszawa,Health_Care,57,0.3579701442627149,Sector
+Miasto Warszawa,EnergyExpL_Prod,99,0.5469273805581175,Sector
+Miasto Warszawa,Utilities,2,0.2934806785025599,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Callahan,619,0.6264206538017105,Overall
+Callahan,HiTech,10,0.5711187518244345,Sector
+Callahan,Agriculture,14,0.45589064717158634,Sector
+Callahan,Transportation,48,0.08503885984888582,Sector
+Callahan,Consumer_Products,74,0.3555457285639254,Sector
+Callahan,Unassigned,78,0.6914458420325607,Sector
+Callahan,Communication,93,0.9463461059108805,Sector
+Callahan,Trade,40,0.007585405071145246,Sector
+Callahan,Business_Services,8,0.9033195915234944,Sector
+Callahan,Business_Products,8,0.9715223066323545,Sector
+Callahan,Construction,62,0.9211224791156751,Sector
+Callahan,Services,40,0.9946984619198913,Sector
+Callahan,Mining,61,0.509627796352602,Sector
+Callahan,Health_Care,9,0.9980435053050187,Sector
+Callahan,EnergyExpL_Prod,42,0.7647281184893171,Sector
+Callahan,Utilities,32,0.2202762072638862,Sector

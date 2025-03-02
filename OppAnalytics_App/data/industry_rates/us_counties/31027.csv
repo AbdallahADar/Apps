@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cedar,791,0.5536579123878945,Overall
+Cedar,HiTech,35,0.9788609249214383,Sector
+Cedar,Agriculture,12,0.6007529316246696,Sector
+Cedar,Transportation,49,0.607305004352467,Sector
+Cedar,Consumer_Products,51,0.6209851135561856,Sector
+Cedar,Unassigned,83,0.1488732696285151,Sector
+Cedar,Communication,99,0.04299448293263031,Sector
+Cedar,Trade,81,0.48522827751529674,Sector
+Cedar,Business_Services,79,0.9305988193927653,Sector
+Cedar,Business_Products,42,0.7032842349281104,Sector
+Cedar,Construction,44,0.7486874689042309,Sector
+Cedar,Services,22,0.17410402006980286,Sector
+Cedar,Mining,44,0.4653765172428783,Sector
+Cedar,Health_Care,26,0.6017590152343758,Sector
+Cedar,EnergyExpL_Prod,41,0.5251840872524504,Sector
+Cedar,Utilities,83,0.6708745182626008,Sector

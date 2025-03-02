@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Davie,759,0.5266129923116348,Overall
+Davie,HiTech,59,0.4391305136234187,Sector
+Davie,Agriculture,51,0.03528425167320037,Sector
+Davie,Transportation,98,0.9212762735084175,Sector
+Davie,Consumer_Products,33,0.9913574464357613,Sector
+Davie,Unassigned,75,0.8922793140770239,Sector
+Davie,Communication,19,0.12853239308437747,Sector
+Davie,Trade,56,0.40181378577204885,Sector
+Davie,Business_Services,41,0.9125082925126721,Sector
+Davie,Business_Products,88,0.550164905261563,Sector
+Davie,Construction,43,0.39549776358054967,Sector
+Davie,Services,36,0.12608060855696124,Sector
+Davie,Mining,60,0.22114615345996846,Sector
+Davie,Health_Care,33,0.9717956719880222,Sector
+Davie,EnergyExpL_Prod,26,0.4314360766046038,Sector
+Davie,Utilities,41,0.4808914345359334,Sector

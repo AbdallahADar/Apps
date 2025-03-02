@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gütersloh,650,0.5110852073256666,Overall
+Gütersloh,HiTech,45,0.2908589843201025,Sector
+Gütersloh,Agriculture,77,0.21360729812109425,Sector
+Gütersloh,Transportation,65,0.7306275343236238,Sector
+Gütersloh,Consumer_Products,2,0.5121061173818101,Sector
+Gütersloh,Unassigned,13,0.9239773367690606,Sector
+Gütersloh,Communication,26,0.6978508764417911,Sector
+Gütersloh,Trade,83,0.9924345253287152,Sector
+Gütersloh,Business_Services,19,0.5735011930749477,Sector
+Gütersloh,Business_Products,57,0.40745148636852346,Sector
+Gütersloh,Construction,85,0.3760870356691077,Sector
+Gütersloh,Services,16,0.32013275164449617,Sector
+Gütersloh,Mining,94,0.6240920805883089,Sector
+Gütersloh,Health_Care,9,0.0863961099346221,Sector
+Gütersloh,EnergyExpL_Prod,24,0.13377402972309005,Sector
+Gütersloh,Utilities,35,0.7833807501957063,Sector

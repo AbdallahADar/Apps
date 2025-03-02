@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,York,965,0.41913207191234114,Overall
+York,HiTech,71,0.8389359670966812,Sector
+York,Agriculture,67,0.42937127514766327,Sector
+York,Transportation,46,0.09173998213818013,Sector
+York,Consumer_Products,19,0.3688200925919227,Sector
+York,Unassigned,54,0.14027143105994855,Sector
+York,Communication,60,0.45353548924889264,Sector
+York,Trade,56,0.1213425496074777,Sector
+York,Business_Services,93,0.2301563645761342,Sector
+York,Business_Products,73,0.2973155545598647,Sector
+York,Construction,43,0.806680976857303,Sector
+York,Services,98,0.23955208698853248,Sector
+York,Mining,61,0.8776980538373841,Sector
+York,Health_Care,56,0.005315459793404309,Sector
+York,EnergyExpL_Prod,74,0.923245109974815,Sector
+York,Utilities,94,0.4630006852069133,Sector

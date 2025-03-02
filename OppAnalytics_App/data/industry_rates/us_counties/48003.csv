@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Andrews,769,0.46629876070082177,Overall
+Andrews,HiTech,53,0.8400156017040181,Sector
+Andrews,Agriculture,9,0.47742383889984086,Sector
+Andrews,Transportation,68,0.7819058527749891,Sector
+Andrews,Consumer_Products,3,0.8414130858507756,Sector
+Andrews,Unassigned,32,0.141425473956452,Sector
+Andrews,Communication,51,0.5349119320351038,Sector
+Andrews,Trade,2,0.6949118733306555,Sector
+Andrews,Business_Services,78,0.3195187166914466,Sector
+Andrews,Business_Products,40,0.252616419524337,Sector
+Andrews,Construction,77,0.030648512844587472,Sector
+Andrews,Services,59,0.14584005639081665,Sector
+Andrews,Mining,72,0.38535421739156384,Sector
+Andrews,Health_Care,68,0.1786893672377835,Sector
+Andrews,EnergyExpL_Prod,63,0.3828988567763719,Sector
+Andrews,Utilities,94,0.9869076051035856,Sector

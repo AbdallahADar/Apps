@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Clearwater,688,0.4601066548675264,Overall
+Clearwater,HiTech,49,0.5945311365808427,Sector
+Clearwater,Agriculture,24,0.6015687325039131,Sector
+Clearwater,Transportation,97,0.17923728533276584,Sector
+Clearwater,Consumer_Products,85,0.09894800540806825,Sector
+Clearwater,Unassigned,3,0.49322689036639367,Sector
+Clearwater,Communication,16,0.5730592041897002,Sector
+Clearwater,Trade,85,0.03470898854830584,Sector
+Clearwater,Business_Services,68,0.9013800639840326,Sector
+Clearwater,Business_Products,76,0.46876246859613835,Sector
+Clearwater,Construction,13,0.7004084547331096,Sector
+Clearwater,Services,33,0.8297182365113742,Sector
+Clearwater,Mining,79,0.7725420522370358,Sector
+Clearwater,Health_Care,1,0.0415038979700213,Sector
+Clearwater,EnergyExpL_Prod,19,0.16730446287328504,Sector
+Clearwater,Utilities,40,0.44469994317790884,Sector

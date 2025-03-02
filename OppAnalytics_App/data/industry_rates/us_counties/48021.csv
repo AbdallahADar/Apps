@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bastrop,681,0.6037664855335259,Overall
+Bastrop,HiTech,50,0.24850556636654086,Sector
+Bastrop,Agriculture,51,0.951412329363276,Sector
+Bastrop,Transportation,1,0.7435479648057579,Sector
+Bastrop,Consumer_Products,69,0.010147462356447257,Sector
+Bastrop,Unassigned,46,0.7793395627641728,Sector
+Bastrop,Communication,75,0.9755225849351437,Sector
+Bastrop,Trade,71,0.5570027902834844,Sector
+Bastrop,Business_Services,52,0.5890209990265018,Sector
+Bastrop,Business_Products,35,0.12159623421496712,Sector
+Bastrop,Construction,19,0.7355107386392915,Sector
+Bastrop,Services,6,0.8698501791639263,Sector
+Bastrop,Mining,72,0.8118198095941945,Sector
+Bastrop,Health_Care,56,0.14773982142203046,Sector
+Bastrop,EnergyExpL_Prod,26,0.6652796505918951,Sector
+Bastrop,Utilities,52,0.8502015894752586,Sector

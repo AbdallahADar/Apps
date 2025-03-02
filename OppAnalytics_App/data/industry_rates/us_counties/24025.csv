@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Harford,581,0.4576158522437487,Overall
+Harford,HiTech,26,0.7018543048474633,Sector
+Harford,Agriculture,0,0.744991856393226,Sector
+Harford,Transportation,8,0.7180955097706792,Sector
+Harford,Consumer_Products,98,0.2170013951774028,Sector
+Harford,Unassigned,47,0.9771085406405745,Sector
+Harford,Communication,33,0.6253269131498335,Sector
+Harford,Trade,1,0.26721361007437827,Sector
+Harford,Business_Services,51,0.21092295131222827,Sector
+Harford,Business_Products,40,0.0452040385536675,Sector
+Harford,Construction,55,0.4422659511068503,Sector
+Harford,Services,92,0.0010726073246136725,Sector
+Harford,Mining,23,0.33987044552211454,Sector
+Harford,Health_Care,79,0.4678386975900938,Sector
+Harford,EnergyExpL_Prod,14,0.9320584082261342,Sector
+Harford,Utilities,14,0.17341255396697053,Sector

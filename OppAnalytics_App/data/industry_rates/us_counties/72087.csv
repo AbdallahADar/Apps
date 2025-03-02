@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Loíza,720,0.5124906081761451,Overall
+Loíza,HiTech,48,0.19723547777980444,Sector
+Loíza,Agriculture,97,0.6642156057078109,Sector
+Loíza,Transportation,32,0.6011273895790574,Sector
+Loíza,Consumer_Products,21,0.8871480621219221,Sector
+Loíza,Unassigned,65,0.7028471454982882,Sector
+Loíza,Communication,17,0.6289277389123188,Sector
+Loíza,Trade,76,0.3262135859777825,Sector
+Loíza,Business_Services,29,0.8356657325946194,Sector
+Loíza,Business_Products,80,0.5903273029863754,Sector
+Loíza,Construction,0,0.25745533433298895,Sector
+Loíza,Services,45,0.7576601529427002,Sector
+Loíza,Mining,19,0.2530943558790809,Sector
+Loíza,Health_Care,46,0.19161767820588027,Sector
+Loíza,EnergyExpL_Prod,69,0.43591862424721484,Sector
+Loíza,Utilities,76,0.3579049358763332,Sector

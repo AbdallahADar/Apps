@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Kaiserslautern, Kreisfreie Stadt",485,0.44517098626792645,Overall
+"Kaiserslautern, Kreisfreie Stadt",HiTech,75,0.7290705496525018,Sector
+"Kaiserslautern, Kreisfreie Stadt",Agriculture,25,0.023819020829901394,Sector
+"Kaiserslautern, Kreisfreie Stadt",Transportation,27,0.9531183466275,Sector
+"Kaiserslautern, Kreisfreie Stadt",Consumer_Products,6,0.22556682460608235,Sector
+"Kaiserslautern, Kreisfreie Stadt",Unassigned,20,0.272469419368105,Sector
+"Kaiserslautern, Kreisfreie Stadt",Communication,10,0.23865445637564964,Sector
+"Kaiserslautern, Kreisfreie Stadt",Trade,39,0.12944720507153495,Sector
+"Kaiserslautern, Kreisfreie Stadt",Business_Services,27,0.34621353927820375,Sector
+"Kaiserslautern, Kreisfreie Stadt",Business_Products,2,0.8424085273489829,Sector
+"Kaiserslautern, Kreisfreie Stadt",Construction,14,0.14013573487382314,Sector
+"Kaiserslautern, Kreisfreie Stadt",Services,85,0.7088636721718331,Sector
+"Kaiserslautern, Kreisfreie Stadt",Mining,48,0.142304171710548,Sector
+"Kaiserslautern, Kreisfreie Stadt",Health_Care,66,0.05461592526511372,Sector
+"Kaiserslautern, Kreisfreie Stadt",EnergyExpL_Prod,12,0.9289719557642805,Sector
+"Kaiserslautern, Kreisfreie Stadt",Utilities,29,0.9419054450748364,Sector

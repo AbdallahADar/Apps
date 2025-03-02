@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mower,864,0.49899509121790325,Overall
+Mower,HiTech,86,0.4640442594644363,Sector
+Mower,Agriculture,39,0.6768631411992269,Sector
+Mower,Transportation,87,0.21582328669342343,Sector
+Mower,Consumer_Products,22,0.6107191514826125,Sector
+Mower,Unassigned,80,0.7578536467002968,Sector
+Mower,Communication,70,0.9233544365588937,Sector
+Mower,Trade,99,0.2125319770595625,Sector
+Mower,Business_Services,95,0.9912503971270439,Sector
+Mower,Business_Products,9,0.14958336361069557,Sector
+Mower,Construction,13,0.7955179663161178,Sector
+Mower,Services,56,0.28047588878521534,Sector
+Mower,Mining,36,0.6460124183172123,Sector
+Mower,Health_Care,60,0.12029697942274353,Sector
+Mower,EnergyExpL_Prod,31,0.3189611057957932,Sector
+Mower,Utilities,81,0.3216383497352753,Sector

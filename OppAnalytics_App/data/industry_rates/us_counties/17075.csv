@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Iroquois,721,0.5558851536256785,Overall
+Iroquois,HiTech,37,0.444541161832789,Sector
+Iroquois,Agriculture,66,0.5976978853864323,Sector
+Iroquois,Transportation,80,0.3010711890585339,Sector
+Iroquois,Consumer_Products,33,0.9265295676464302,Sector
+Iroquois,Unassigned,56,0.5990072979835835,Sector
+Iroquois,Communication,77,0.21271466877477507,Sector
+Iroquois,Trade,33,0.49305558829139584,Sector
+Iroquois,Business_Services,15,0.8960302615807619,Sector
+Iroquois,Business_Products,87,0.5486023566074534,Sector
+Iroquois,Construction,96,0.3289858537333822,Sector
+Iroquois,Services,97,0.28950504695383095,Sector
+Iroquois,Mining,22,0.22213367413081653,Sector
+Iroquois,Health_Care,5,0.8738744627726167,Sector
+Iroquois,EnergyExpL_Prod,12,0.7333809402724719,Sector
+Iroquois,Utilities,5,0.8711473493599033,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rogers,784,0.450902727011876,Overall
+Rogers,HiTech,88,0.5895311156819344,Sector
+Rogers,Agriculture,78,0.431966837931707,Sector
+Rogers,Transportation,83,0.254921709667685,Sector
+Rogers,Consumer_Products,60,0.5184981491556829,Sector
+Rogers,Unassigned,69,0.8299569423136606,Sector
+Rogers,Communication,5,0.4409215820082135,Sector
+Rogers,Trade,38,0.6817685726894093,Sector
+Rogers,Business_Services,90,0.32875822576171476,Sector
+Rogers,Business_Products,0,0.4473052332972406,Sector
+Rogers,Construction,21,0.21144707069679325,Sector
+Rogers,Services,3,0.3042986363118292,Sector
+Rogers,Mining,78,0.23244653272483629,Sector
+Rogers,Health_Care,64,0.5877170048075374,Sector
+Rogers,EnergyExpL_Prod,14,0.3813941658775212,Sector
+Rogers,Utilities,93,0.5226091262523764,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Shackelford,767,0.5191013861048083,Overall
+Shackelford,HiTech,96,0.39745747976314205,Sector
+Shackelford,Agriculture,97,0.7899860525066027,Sector
+Shackelford,Transportation,5,0.5867186409457397,Sector
+Shackelford,Consumer_Products,9,0.600540746529531,Sector
+Shackelford,Unassigned,49,0.4794686795490004,Sector
+Shackelford,Communication,83,0.981331721813049,Sector
+Shackelford,Trade,35,0.39013832310902863,Sector
+Shackelford,Business_Services,54,0.28607177399337547,Sector
+Shackelford,Business_Products,72,0.5506362036097482,Sector
+Shackelford,Construction,20,0.9036794656510434,Sector
+Shackelford,Services,95,0.6070314819335104,Sector
+Shackelford,Mining,10,0.03900486786917989,Sector
+Shackelford,Health_Care,10,0.17923210623764751,Sector
+Shackelford,EnergyExpL_Prod,35,0.11706372159036837,Sector
+Shackelford,Utilities,97,0.878159526471156,Sector

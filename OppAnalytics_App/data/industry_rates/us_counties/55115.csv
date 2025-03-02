@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Shawano,780,0.5561437116145596,Overall
+Shawano,HiTech,45,0.49839727376966747,Sector
+Shawano,Agriculture,86,0.6436268385058228,Sector
+Shawano,Transportation,72,0.907121406222895,Sector
+Shawano,Consumer_Products,52,0.10057502339431046,Sector
+Shawano,Unassigned,42,0.33884743765102143,Sector
+Shawano,Communication,47,0.6584460860235942,Sector
+Shawano,Trade,47,0.7163901456090184,Sector
+Shawano,Business_Services,18,0.5850689179272316,Sector
+Shawano,Business_Products,28,0.03923707027750112,Sector
+Shawano,Construction,69,0.8147328004833853,Sector
+Shawano,Services,87,0.5640828636329764,Sector
+Shawano,Mining,41,0.7936127732485204,Sector
+Shawano,Health_Care,9,0.5185929798314184,Sector
+Shawano,EnergyExpL_Prod,79,0.8243733602447348,Sector
+Shawano,Utilities,58,0.33905069739629345,Sector

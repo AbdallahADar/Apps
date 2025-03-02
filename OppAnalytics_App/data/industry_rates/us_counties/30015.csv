@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chouteau,699,0.4442025947010318,Overall
+Chouteau,HiTech,12,0.10364979744819391,Sector
+Chouteau,Agriculture,58,0.7729956302045514,Sector
+Chouteau,Transportation,30,0.3231076934394611,Sector
+Chouteau,Consumer_Products,79,0.28769132387909513,Sector
+Chouteau,Unassigned,17,0.9098893445196489,Sector
+Chouteau,Communication,93,0.0984307884154283,Sector
+Chouteau,Trade,10,0.30119186081627436,Sector
+Chouteau,Business_Services,97,0.7973381387970484,Sector
+Chouteau,Business_Products,39,0.7665848033614493,Sector
+Chouteau,Construction,31,0.39103629564494435,Sector
+Chouteau,Services,65,0.384213848040151,Sector
+Chouteau,Mining,97,0.11270358318739992,Sector
+Chouteau,Health_Care,9,0.40449345120862223,Sector
+Chouteau,EnergyExpL_Prod,37,0.11818513826953492,Sector
+Chouteau,Utilities,25,0.8915272232836721,Sector

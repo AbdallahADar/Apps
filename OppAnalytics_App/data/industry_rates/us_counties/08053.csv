@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hinsdale,723,0.6349644029231942,Overall
+Hinsdale,HiTech,12,0.8631711193371305,Sector
+Hinsdale,Agriculture,50,0.5798804841523887,Sector
+Hinsdale,Transportation,52,0.5654481907955973,Sector
+Hinsdale,Consumer_Products,81,0.9631924104779602,Sector
+Hinsdale,Unassigned,29,0.2278237137067355,Sector
+Hinsdale,Communication,13,0.9968097060916735,Sector
+Hinsdale,Trade,60,0.6236214885251095,Sector
+Hinsdale,Business_Services,8,0.6956142705336391,Sector
+Hinsdale,Business_Products,67,0.7950049232199694,Sector
+Hinsdale,Construction,56,0.5395718927574801,Sector
+Hinsdale,Services,77,0.7627946166807561,Sector
+Hinsdale,Mining,20,0.31558279873324546,Sector
+Hinsdale,Health_Care,25,0.6689104951642173,Sector
+Hinsdale,EnergyExpL_Prod,94,0.5847163939671933,Sector
+Hinsdale,Utilities,79,0.34232353970481877,Sector

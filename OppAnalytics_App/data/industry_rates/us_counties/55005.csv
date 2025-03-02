@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Barron,666,0.6008463698162293,Overall
+Barron,HiTech,7,0.10748498901904402,Sector
+Barron,Agriculture,89,0.16676154377239494,Sector
+Barron,Transportation,89,0.6097590055692896,Sector
+Barron,Consumer_Products,73,0.44597803884454756,Sector
+Barron,Unassigned,0,0.8910236256084433,Sector
+Barron,Communication,98,0.563786263166424,Sector
+Barron,Trade,17,0.48530601847215116,Sector
+Barron,Business_Services,77,0.8762711708446199,Sector
+Barron,Business_Products,70,0.8700437186531974,Sector
+Barron,Construction,36,0.8451702540490088,Sector
+Barron,Services,14,0.9490664823778807,Sector
+Barron,Mining,63,0.3140131585185373,Sector
+Barron,Health_Care,15,0.5568803160796906,Sector
+Barron,EnergyExpL_Prod,15,0.9624152407719891,Sector
+Barron,Utilities,3,0.3687357214962197,Sector

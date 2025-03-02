@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Salem,768,0.501468595379677,Overall
+Salem,HiTech,47,0.16975157784486972,Sector
+Salem,Agriculture,21,0.36874988941793485,Sector
+Salem,Transportation,77,0.822869989562232,Sector
+Salem,Consumer_Products,57,0.10951590930550181,Sector
+Salem,Unassigned,22,0.38945348949957237,Sector
+Salem,Communication,98,0.06622104142471108,Sector
+Salem,Trade,57,0.9096587899529784,Sector
+Salem,Business_Services,68,0.3806911054091693,Sector
+Salem,Business_Products,66,0.8436173031319102,Sector
+Salem,Construction,63,0.0841100025179985,Sector
+Salem,Services,39,0.8074741575708084,Sector
+Salem,Mining,28,0.5748864967330655,Sector
+Salem,Health_Care,95,0.030558295932892388,Sector
+Salem,EnergyExpL_Prod,22,0.9909258181079349,Sector
+Salem,Utilities,8,0.973545064283576,Sector

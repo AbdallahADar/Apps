@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rhein-Lahn-Kreis,647,0.4957764226229963,Overall
+Rhein-Lahn-Kreis,HiTech,36,0.67397499221165,Sector
+Rhein-Lahn-Kreis,Agriculture,23,0.6726398334078224,Sector
+Rhein-Lahn-Kreis,Transportation,44,0.16893032447093104,Sector
+Rhein-Lahn-Kreis,Consumer_Products,68,0.49851900320480946,Sector
+Rhein-Lahn-Kreis,Unassigned,29,0.6782967402838845,Sector
+Rhein-Lahn-Kreis,Communication,43,0.15424866158939254,Sector
+Rhein-Lahn-Kreis,Trade,3,0.8952818079803156,Sector
+Rhein-Lahn-Kreis,Business_Services,76,0.013292920172954914,Sector
+Rhein-Lahn-Kreis,Business_Products,35,0.34601395303834637,Sector
+Rhein-Lahn-Kreis,Construction,50,0.8122358753656295,Sector
+Rhein-Lahn-Kreis,Services,49,0.20505496982566274,Sector
+Rhein-Lahn-Kreis,Mining,42,0.4079184197061202,Sector
+Rhein-Lahn-Kreis,Health_Care,39,0.7327240989990156,Sector
+Rhein-Lahn-Kreis,EnergyExpL_Prod,94,0.4065634235475737,Sector
+Rhein-Lahn-Kreis,Utilities,16,0.7709513155408364,Sector

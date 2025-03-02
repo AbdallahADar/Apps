@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Kassel, Landkreis",647,0.33870469116668905,Overall
+"Kassel, Landkreis",HiTech,29,0.8310034474407352,Sector
+"Kassel, Landkreis",Agriculture,83,0.2147886330914064,Sector
+"Kassel, Landkreis",Transportation,8,0.7221041131425787,Sector
+"Kassel, Landkreis",Consumer_Products,35,0.05103122784148262,Sector
+"Kassel, Landkreis",Unassigned,61,0.19961358545483598,Sector
+"Kassel, Landkreis",Communication,26,0.05431011760178628,Sector
+"Kassel, Landkreis",Trade,35,0.4339624299617788,Sector
+"Kassel, Landkreis",Business_Services,96,0.9897225341290984,Sector
+"Kassel, Landkreis",Business_Products,56,0.832177455210503,Sector
+"Kassel, Landkreis",Construction,22,0.16798815451068883,Sector
+"Kassel, Landkreis",Services,63,0.10334214390304075,Sector
+"Kassel, Landkreis",Mining,23,0.12512876711501786,Sector
+"Kassel, Landkreis",Health_Care,35,0.09407446191061242,Sector
+"Kassel, Landkreis",EnergyExpL_Prod,46,0.19383341494356332,Sector
+"Kassel, Landkreis",Utilities,29,0.0674898812432061,Sector

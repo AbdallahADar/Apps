@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Okeechobee,780,0.64165015075521,Overall
+Okeechobee,HiTech,49,0.37100979277532553,Sector
+Okeechobee,Agriculture,68,0.1615466437663574,Sector
+Okeechobee,Transportation,97,0.06708148172062167,Sector
+Okeechobee,Consumer_Products,29,0.8368108186258433,Sector
+Okeechobee,Unassigned,49,0.3284367686856352,Sector
+Okeechobee,Communication,21,0.9469683563573569,Sector
+Okeechobee,Trade,76,0.6966020296716665,Sector
+Okeechobee,Business_Services,69,0.99107856332222,Sector
+Okeechobee,Business_Products,36,0.9327033036298936,Sector
+Okeechobee,Construction,24,0.6786121658380503,Sector
+Okeechobee,Services,85,0.8427248426027172,Sector
+Okeechobee,Mining,13,0.9732771559976995,Sector
+Okeechobee,Health_Care,71,0.3950689672731198,Sector
+Okeechobee,EnergyExpL_Prod,73,0.5090891708519368,Sector
+Okeechobee,Utilities,20,0.8937422002097083,Sector

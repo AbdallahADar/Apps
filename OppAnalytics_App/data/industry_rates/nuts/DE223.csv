@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Straubing, Kreisfreie Stadt",533,0.41850388805038097,Overall
+"Straubing, Kreisfreie Stadt",HiTech,4,0.05284160452475761,Sector
+"Straubing, Kreisfreie Stadt",Agriculture,40,0.3685045819461976,Sector
+"Straubing, Kreisfreie Stadt",Transportation,38,0.6859108492303998,Sector
+"Straubing, Kreisfreie Stadt",Consumer_Products,68,0.08519990420844481,Sector
+"Straubing, Kreisfreie Stadt",Unassigned,78,0.44714529940701897,Sector
+"Straubing, Kreisfreie Stadt",Communication,0,0.7265676166163076,Sector
+"Straubing, Kreisfreie Stadt",Trade,12,0.37270721676993235,Sector
+"Straubing, Kreisfreie Stadt",Business_Services,17,0.6099235860715847,Sector
+"Straubing, Kreisfreie Stadt",Business_Products,13,0.031851667780214754,Sector
+"Straubing, Kreisfreie Stadt",Construction,47,0.948071830624198,Sector
+"Straubing, Kreisfreie Stadt",Services,67,0.18165000657906982,Sector
+"Straubing, Kreisfreie Stadt",Mining,12,0.9691765313159538,Sector
+"Straubing, Kreisfreie Stadt",Health_Care,91,0.18170058083083362,Sector
+"Straubing, Kreisfreie Stadt",EnergyExpL_Prod,5,0.3605916342112109,Sector
+"Straubing, Kreisfreie Stadt",Utilities,41,0.2557154106395898,Sector

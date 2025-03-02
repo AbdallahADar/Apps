@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Haakon,909,0.49550272464720113,Overall
+Haakon,HiTech,50,0.6227073638769954,Sector
+Haakon,Agriculture,4,0.033743016685417127,Sector
+Haakon,Transportation,42,0.261935479706464,Sector
+Haakon,Consumer_Products,44,0.2746128426715555,Sector
+Haakon,Unassigned,99,0.5722845157983705,Sector
+Haakon,Communication,90,0.7919304478200289,Sector
+Haakon,Trade,97,0.36257971374305586,Sector
+Haakon,Business_Services,94,0.8421840217269536,Sector
+Haakon,Business_Products,55,0.8529410599404702,Sector
+Haakon,Construction,0,0.8299732975451546,Sector
+Haakon,Services,24,0.9090515641717277,Sector
+Haakon,Mining,52,0.28703978255988394,Sector
+Haakon,Health_Care,89,0.4368461780540174,Sector
+Haakon,EnergyExpL_Prod,82,0.01993429801042912,Sector
+Haakon,Utilities,87,0.33477728739749435,Sector

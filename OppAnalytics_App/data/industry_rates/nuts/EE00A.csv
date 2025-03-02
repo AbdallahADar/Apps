@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kirde-Eesti,792,0.5429692704147578,Overall
+Kirde-Eesti,HiTech,13,0.5165089691934894,Sector
+Kirde-Eesti,Agriculture,84,0.3012860097067561,Sector
+Kirde-Eesti,Transportation,69,0.47278670713923665,Sector
+Kirde-Eesti,Consumer_Products,36,0.2536112302426806,Sector
+Kirde-Eesti,Unassigned,60,0.2972986322813336,Sector
+Kirde-Eesti,Communication,20,0.9593002367134171,Sector
+Kirde-Eesti,Trade,51,0.4794188491793404,Sector
+Kirde-Eesti,Business_Services,38,0.18652761516465655,Sector
+Kirde-Eesti,Business_Products,50,0.2839880897839798,Sector
+Kirde-Eesti,Construction,85,0.7477103585066124,Sector
+Kirde-Eesti,Services,92,0.3996405571841253,Sector
+Kirde-Eesti,Mining,54,0.8121340469942482,Sector
+Kirde-Eesti,Health_Care,7,0.8704846027673028,Sector
+Kirde-Eesti,EnergyExpL_Prod,36,0.6471539589723119,Sector
+Kirde-Eesti,Utilities,97,0.9166891923918766,Sector

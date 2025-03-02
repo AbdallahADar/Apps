@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Skagit,906,0.4822687685310777,Overall
+Skagit,HiTech,81,0.741067815897855,Sector
+Skagit,Agriculture,76,0.20482129883653954,Sector
+Skagit,Transportation,51,0.29827282822805123,Sector
+Skagit,Consumer_Products,49,0.03883341909223015,Sector
+Skagit,Unassigned,51,0.07003161060836505,Sector
+Skagit,Communication,54,0.7348770121984706,Sector
+Skagit,Trade,90,0.21852358586317744,Sector
+Skagit,Business_Services,2,0.4952745421799709,Sector
+Skagit,Business_Products,37,0.6284624869189407,Sector
+Skagit,Construction,80,0.8908791785323067,Sector
+Skagit,Services,96,0.46315278011409877,Sector
+Skagit,Mining,89,0.9241247116946413,Sector
+Skagit,Health_Care,60,0.21807692507999055,Sector
+Skagit,EnergyExpL_Prod,15,0.4442881233976599,Sector
+Skagit,Utilities,75,0.863345209323868,Sector

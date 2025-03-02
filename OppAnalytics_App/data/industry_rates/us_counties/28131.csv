@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stone,703,0.5386632021921242,Overall
+Stone,HiTech,70,0.8636607425383547,Sector
+Stone,Agriculture,69,0.8371608444161501,Sector
+Stone,Transportation,63,0.997865157589438,Sector
+Stone,Consumer_Products,51,0.8122010566022936,Sector
+Stone,Unassigned,72,0.019292222330901776,Sector
+Stone,Communication,34,0.5053186527297671,Sector
+Stone,Trade,71,0.5406000247119089,Sector
+Stone,Business_Services,26,0.10179271498340037,Sector
+Stone,Business_Products,43,0.19247021825536792,Sector
+Stone,Construction,78,0.7605280215854242,Sector
+Stone,Services,35,0.5450970141765688,Sector
+Stone,Mining,24,0.6934188672395235,Sector
+Stone,Health_Care,7,0.23323706050331694,Sector
+Stone,EnergyExpL_Prod,26,0.15625685690747748,Sector
+Stone,Utilities,34,0.8210485783119699,Sector

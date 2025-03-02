@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Montrose,970,0.5381939267910266,Overall
+Montrose,HiTech,97,0.6492978088530358,Sector
+Montrose,Agriculture,78,0.013636829827700536,Sector
+Montrose,Transportation,27,0.540816463107797,Sector
+Montrose,Consumer_Products,85,0.018183573366356454,Sector
+Montrose,Unassigned,44,0.39668629300535563,Sector
+Montrose,Communication,92,0.8149147953768912,Sector
+Montrose,Trade,49,0.2819579576960115,Sector
+Montrose,Business_Services,90,0.8956755456314457,Sector
+Montrose,Business_Products,78,0.9778728723785576,Sector
+Montrose,Construction,56,0.29463885531862,Sector
+Montrose,Services,51,0.7199349027721891,Sector
+Montrose,Mining,64,0.9164991296459284,Sector
+Montrose,Health_Care,32,0.33076160132613996,Sector
+Montrose,EnergyExpL_Prod,89,0.9198880979952996,Sector
+Montrose,Utilities,38,0.30214417556407225,Sector

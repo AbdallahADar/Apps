@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Berkshire,783,0.5180857640292623,Overall
+Berkshire,HiTech,63,0.6140497239255022,Sector
+Berkshire,Agriculture,34,0.4949631260210948,Sector
+Berkshire,Transportation,69,0.07539023718977444,Sector
+Berkshire,Consumer_Products,79,0.5472849079093239,Sector
+Berkshire,Unassigned,42,0.4027663223317225,Sector
+Berkshire,Communication,34,0.20301594655785804,Sector
+Berkshire,Trade,92,0.920967438303318,Sector
+Berkshire,Business_Services,70,0.95615407951243,Sector
+Berkshire,Business_Products,84,0.3973788879276674,Sector
+Berkshire,Construction,30,0.8122514001403203,Sector
+Berkshire,Services,76,0.2927790541031584,Sector
+Berkshire,Mining,76,0.6475747701842911,Sector
+Berkshire,Health_Care,3,0.4052152197809986,Sector
+Berkshire,EnergyExpL_Prod,10,0.12256407932757751,Sector
+Berkshire,Utilities,21,0.8789312672238974,Sector

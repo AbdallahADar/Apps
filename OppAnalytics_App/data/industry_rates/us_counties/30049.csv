@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lewis and Clark,664,0.5323358488163806,Overall
+Lewis and Clark,HiTech,43,0.20434678586372035,Sector
+Lewis and Clark,Agriculture,12,0.2059103748240747,Sector
+Lewis and Clark,Transportation,43,0.12627654376139197,Sector
+Lewis and Clark,Consumer_Products,94,0.7803104558975583,Sector
+Lewis and Clark,Unassigned,69,0.6157873055993828,Sector
+Lewis and Clark,Communication,12,0.4871001768200799,Sector
+Lewis and Clark,Trade,10,0.19818105663920593,Sector
+Lewis and Clark,Business_Services,99,0.7592507618440991,Sector
+Lewis and Clark,Business_Products,64,0.9509030334031855,Sector
+Lewis and Clark,Construction,14,0.5801982713486133,Sector
+Lewis and Clark,Services,40,0.4120533101579761,Sector
+Lewis and Clark,Mining,48,0.905143768534491,Sector
+Lewis and Clark,Health_Care,8,0.6127519004873833,Sector
+Lewis and Clark,EnergyExpL_Prod,26,0.7449912720416151,Sector
+Lewis and Clark,Utilities,82,0.4018327150229325,Sector

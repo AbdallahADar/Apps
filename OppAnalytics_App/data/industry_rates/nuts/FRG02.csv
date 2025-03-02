@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Maine-et-Loire,747,0.5027203902998487,Overall
+Maine-et-Loire,HiTech,97,0.41740434308878493,Sector
+Maine-et-Loire,Agriculture,35,0.264600449222654,Sector
+Maine-et-Loire,Transportation,1,0.2821951201180042,Sector
+Maine-et-Loire,Consumer_Products,31,0.4540229722680935,Sector
+Maine-et-Loire,Unassigned,61,0.9472107463226856,Sector
+Maine-et-Loire,Communication,57,0.6758008716626274,Sector
+Maine-et-Loire,Trade,46,0.8868063491225433,Sector
+Maine-et-Loire,Business_Services,32,0.8734148077062084,Sector
+Maine-et-Loire,Business_Products,71,0.5321742406044268,Sector
+Maine-et-Loire,Construction,55,0.33380959115084463,Sector
+Maine-et-Loire,Services,85,0.2508579342460333,Sector
+Maine-et-Loire,Mining,94,0.4147442858505578,Sector
+Maine-et-Loire,Health_Care,6,0.6416507266955509,Sector
+Maine-et-Loire,EnergyExpL_Prod,37,0.4234017195042419,Sector
+Maine-et-Loire,Utilities,39,0.14271169693447272,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Denizli,583,0.449349826296538,Overall
+Denizli,HiTech,17,0.5579927455855965,Sector
+Denizli,Agriculture,14,0.30643330442669403,Sector
+Denizli,Transportation,7,0.7131726007209127,Sector
+Denizli,Consumer_Products,93,0.3578500351002173,Sector
+Denizli,Unassigned,63,0.38517180783777927,Sector
+Denizli,Communication,88,0.23240094932926647,Sector
+Denizli,Trade,6,0.6098520424194221,Sector
+Denizli,Business_Services,0,0.48278280593322687,Sector
+Denizli,Business_Products,41,0.2893944112263426,Sector
+Denizli,Construction,59,0.17250908858623548,Sector
+Denizli,Services,33,0.4314497825697611,Sector
+Denizli,Mining,21,0.39192329791363567,Sector
+Denizli,Health_Care,45,0.6126030646703745,Sector
+Denizli,EnergyExpL_Prod,86,0.6345684587862863,Sector
+Denizli,Utilities,10,0.562142999342321,Sector

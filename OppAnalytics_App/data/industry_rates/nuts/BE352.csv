@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Namur,671,0.5581479546306695,Overall
+Arr. Namur,HiTech,43,0.18105228263830564,Sector
+Arr. Namur,Agriculture,52,0.5057122180768504,Sector
+Arr. Namur,Transportation,18,0.39123663057698066,Sector
+Arr. Namur,Consumer_Products,6,0.681238776095836,Sector
+Arr. Namur,Unassigned,31,0.19079021933076834,Sector
+Arr. Namur,Communication,36,0.531364560244069,Sector
+Arr. Namur,Trade,49,0.551130299510654,Sector
+Arr. Namur,Business_Services,82,0.6591284798395021,Sector
+Arr. Namur,Business_Products,56,0.9524066359607656,Sector
+Arr. Namur,Construction,38,0.04021549223672194,Sector
+Arr. Namur,Services,52,0.6602923454518281,Sector
+Arr. Namur,Mining,67,0.8659183929807213,Sector
+Arr. Namur,Health_Care,4,0.683015268557752,Sector
+Arr. Namur,EnergyExpL_Prod,50,0.6585406807299514,Sector
+Arr. Namur,Utilities,87,0.8201770372293354,Sector

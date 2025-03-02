@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cantabria,723,0.4015962764305178,Overall
+Cantabria,HiTech,28,0.6406134094040501,Sector
+Cantabria,Agriculture,16,0.3930807036911367,Sector
+Cantabria,Transportation,19,0.05540391977129111,Sector
+Cantabria,Consumer_Products,94,0.16299555854765713,Sector
+Cantabria,Unassigned,10,0.16032093735801123,Sector
+Cantabria,Communication,87,0.802370108200975,Sector
+Cantabria,Trade,44,0.7136195569815132,Sector
+Cantabria,Business_Services,27,0.08813851305311493,Sector
+Cantabria,Business_Products,98,0.13074308513598576,Sector
+Cantabria,Construction,13,0.9079623606628383,Sector
+Cantabria,Services,75,0.9003552958783891,Sector
+Cantabria,Mining,61,0.5556565741366984,Sector
+Cantabria,Health_Care,26,0.012342463425441652,Sector
+Cantabria,EnergyExpL_Prod,55,0.11175721501049696,Sector
+Cantabria,Utilities,70,0.388584445200167,Sector

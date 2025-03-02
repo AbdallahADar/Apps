@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rincón,408,0.5873402462306084,Overall
+Rincón,HiTech,39,0.6262386810303173,Sector
+Rincón,Agriculture,10,0.22817768000538174,Sector
+Rincón,Transportation,7,0.984159673134281,Sector
+Rincón,Consumer_Products,14,0.6083001256520063,Sector
+Rincón,Unassigned,21,0.574110723312798,Sector
+Rincón,Communication,51,0.9084193854856116,Sector
+Rincón,Trade,10,0.534381591640069,Sector
+Rincón,Business_Services,38,0.9437952167015733,Sector
+Rincón,Business_Products,12,0.5590509987630217,Sector
+Rincón,Construction,54,0.5353774697021841,Sector
+Rincón,Services,1,0.18647109261746453,Sector
+Rincón,Mining,45,0.8670483414015266,Sector
+Rincón,Health_Care,43,0.4980606974988733,Sector
+Rincón,EnergyExpL_Prod,16,0.5514367222226831,Sector
+Rincón,Utilities,47,0.20507529429133597,Sector

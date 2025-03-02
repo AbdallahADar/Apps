@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Musselshell,827,0.6050591582194136,Overall
+Musselshell,HiTech,30,0.7216370995391045,Sector
+Musselshell,Agriculture,11,0.7390648581678181,Sector
+Musselshell,Transportation,88,0.5434328316626206,Sector
+Musselshell,Consumer_Products,39,0.7898191624577663,Sector
+Musselshell,Unassigned,90,0.0573134045486936,Sector
+Musselshell,Communication,91,0.7700813762477846,Sector
+Musselshell,Trade,97,0.13460018348704272,Sector
+Musselshell,Business_Services,38,0.6567138274815663,Sector
+Musselshell,Business_Products,87,0.3979387407555104,Sector
+Musselshell,Construction,40,0.9363124860309657,Sector
+Musselshell,Services,46,0.5954220629930833,Sector
+Musselshell,Mining,27,0.7061115438681406,Sector
+Musselshell,Health_Care,97,0.6121349513771601,Sector
+Musselshell,EnergyExpL_Prod,11,0.5686872822479351,Sector
+Musselshell,Utilities,35,0.8466175624260124,Sector

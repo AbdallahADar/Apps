@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Miami-Dade,646,0.5583782512926596,Overall
+Miami-Dade,HiTech,29,0.49325477827022624,Sector
+Miami-Dade,Agriculture,47,0.14157285461809,Sector
+Miami-Dade,Transportation,6,0.6816710335019436,Sector
+Miami-Dade,Consumer_Products,47,0.687971294283613,Sector
+Miami-Dade,Unassigned,9,0.6901200918351665,Sector
+Miami-Dade,Communication,74,0.3463193146419826,Sector
+Miami-Dade,Trade,0,0.6724079300759737,Sector
+Miami-Dade,Business_Services,83,0.6094178030188705,Sector
+Miami-Dade,Business_Products,30,0.9562781956104385,Sector
+Miami-Dade,Construction,53,0.00017525096376824756,Sector
+Miami-Dade,Services,68,0.486207372372362,Sector
+Miami-Dade,Mining,27,0.7227708150279425,Sector
+Miami-Dade,Health_Care,39,0.35697791050169236,Sector
+Miami-Dade,EnergyExpL_Prod,44,0.535627121670772,Sector
+Miami-Dade,Utilities,90,0.9949020029970526,Sector

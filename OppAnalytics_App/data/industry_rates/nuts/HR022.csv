@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Virovitičko-podravska županija,667,0.44014236979693755,Overall
+Virovitičko-podravska županija,HiTech,66,0.1328945679378697,Sector
+Virovitičko-podravska županija,Agriculture,18,0.09156437742152201,Sector
+Virovitičko-podravska županija,Transportation,24,0.762299347854505,Sector
+Virovitičko-podravska županija,Consumer_Products,97,0.04436658871235777,Sector
+Virovitičko-podravska županija,Unassigned,96,0.9672353107758777,Sector
+Virovitičko-podravska županija,Communication,6,0.8988467676228844,Sector
+Virovitičko-podravska županija,Trade,1,0.4461245936581901,Sector
+Virovitičko-podravska županija,Business_Services,36,0.13812320000270095,Sector
+Virovitičko-podravska županija,Business_Products,44,0.8796126404195087,Sector
+Virovitičko-podravska županija,Construction,43,0.9125099701773824,Sector
+Virovitičko-podravska županija,Services,0,0.26731426598471775,Sector
+Virovitičko-podravska županija,Mining,86,0.5882599690017152,Sector
+Virovitičko-podravska županija,Health_Care,12,0.16648221472714708,Sector
+Virovitičko-podravska županija,EnergyExpL_Prod,42,0.004275955122514885,Sector
+Virovitičko-podravska županija,Utilities,96,0.3022257775351691,Sector

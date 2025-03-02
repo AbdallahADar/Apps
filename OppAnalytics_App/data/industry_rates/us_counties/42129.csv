@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Westmoreland,678,0.6577466817792668,Overall
+Westmoreland,HiTech,38,0.7737090387034317,Sector
+Westmoreland,Agriculture,21,0.7160456273028137,Sector
+Westmoreland,Transportation,66,0.6762415683413393,Sector
+Westmoreland,Consumer_Products,51,0.45735261702894303,Sector
+Westmoreland,Unassigned,4,0.7786563118525793,Sector
+Westmoreland,Communication,43,0.6480897812755338,Sector
+Westmoreland,Trade,16,0.911226370158737,Sector
+Westmoreland,Business_Services,85,0.6106703506628288,Sector
+Westmoreland,Business_Products,70,0.7855993484295478,Sector
+Westmoreland,Construction,39,0.9968153101538809,Sector
+Westmoreland,Services,26,0.8806774161992552,Sector
+Westmoreland,Mining,46,0.09373826621949743,Sector
+Westmoreland,Health_Care,93,0.14609337815493206,Sector
+Westmoreland,EnergyExpL_Prod,19,0.7149445822416037,Sector
+Westmoreland,Utilities,61,0.6763402599640762,Sector

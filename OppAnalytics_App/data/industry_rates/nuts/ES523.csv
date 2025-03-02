@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Valencia/València,821,0.5896242957916139,Overall
+Valencia/València,HiTech,50,0.9659185053309264,Sector
+Valencia/València,Agriculture,45,0.9610922599881508,Sector
+Valencia/València,Transportation,92,0.6554852829820359,Sector
+Valencia/València,Consumer_Products,40,0.9791034012617728,Sector
+Valencia/València,Unassigned,90,0.41221542771643405,Sector
+Valencia/València,Communication,83,0.1763136816194818,Sector
+Valencia/València,Trade,11,0.05451374176649615,Sector
+Valencia/València,Business_Services,64,0.6906304515769074,Sector
+Valencia/València,Business_Products,35,0.38082354387336226,Sector
+Valencia/València,Construction,96,0.257316638435229,Sector
+Valencia/València,Services,29,0.9937771701043583,Sector
+Valencia/València,Mining,19,0.901708349821148,Sector
+Valencia/València,Health_Care,66,0.3658876657080673,Sector
+Valencia/València,EnergyExpL_Prod,69,0.8291558009636777,Sector
+Valencia/València,Utilities,32,0.22042251572616056,Sector

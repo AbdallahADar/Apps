@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Daggett,881,0.4226419886778608,Overall
+Daggett,HiTech,84,0.7589092732402228,Sector
+Daggett,Agriculture,71,0.404347747395041,Sector
+Daggett,Transportation,46,0.591618151542648,Sector
+Daggett,Consumer_Products,91,0.2037063952796062,Sector
+Daggett,Unassigned,65,0.9198970354771732,Sector
+Daggett,Communication,47,0.12317240524445694,Sector
+Daggett,Trade,89,0.05602357746016429,Sector
+Daggett,Business_Services,68,0.39347798073145546,Sector
+Daggett,Business_Products,8,0.7709079503976177,Sector
+Daggett,Construction,44,0.5335561873022862,Sector
+Daggett,Services,76,0.47261346658187753,Sector
+Daggett,Mining,6,0.3048639784553091,Sector
+Daggett,Health_Care,97,0.019631067587536855,Sector
+Daggett,EnergyExpL_Prod,37,0.6639000968902086,Sector
+Daggett,Utilities,52,0.12300451658230749,Sector

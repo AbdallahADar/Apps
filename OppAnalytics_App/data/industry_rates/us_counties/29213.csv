@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Taney,658,0.5374938743426846,Overall
+Taney,HiTech,94,0.6629900572120286,Sector
+Taney,Agriculture,24,0.5560176890542546,Sector
+Taney,Transportation,3,0.2826136984575226,Sector
+Taney,Consumer_Products,17,0.8602157577638466,Sector
+Taney,Unassigned,31,0.631766250811065,Sector
+Taney,Communication,34,0.6466551241387285,Sector
+Taney,Trade,35,0.571801717494622,Sector
+Taney,Business_Services,46,0.5439854920280903,Sector
+Taney,Business_Products,67,0.39003816703150207,Sector
+Taney,Construction,7,0.8958149910802405,Sector
+Taney,Services,48,0.7350759317642029,Sector
+Taney,Mining,59,0.3132252821863545,Sector
+Taney,Health_Care,91,0.5316413689235964,Sector
+Taney,EnergyExpL_Prod,85,0.020582046480873584,Sector
+Taney,Utilities,17,0.4199845407133401,Sector

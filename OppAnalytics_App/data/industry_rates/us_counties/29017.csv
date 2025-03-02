@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bollinger,593,0.48366250069722105,Overall
+Bollinger,HiTech,87,0.09255878263922157,Sector
+Bollinger,Agriculture,2,0.7856334362797414,Sector
+Bollinger,Transportation,9,0.8289366298246569,Sector
+Bollinger,Consumer_Products,4,0.6522928585803056,Sector
+Bollinger,Unassigned,8,0.29654451978148977,Sector
+Bollinger,Communication,19,0.11109773618052277,Sector
+Bollinger,Trade,50,0.1731082729935185,Sector
+Bollinger,Business_Services,66,0.9339502115972247,Sector
+Bollinger,Business_Products,93,0.8470535655152444,Sector
+Bollinger,Construction,50,0.7231039643388362,Sector
+Bollinger,Services,36,0.39034798394451553,Sector
+Bollinger,Mining,38,0.12447421573502904,Sector
+Bollinger,Health_Care,58,0.9429587208621683,Sector
+Bollinger,EnergyExpL_Prod,68,0.21621118052484267,Sector
+Bollinger,Utilities,5,0.1366654316609982,Sector

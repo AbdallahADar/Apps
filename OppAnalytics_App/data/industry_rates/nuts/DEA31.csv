@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Bottrop, Kreisfreie Stadt",749,0.5774465009465601,Overall
+"Bottrop, Kreisfreie Stadt",HiTech,64,0.9687987783261129,Sector
+"Bottrop, Kreisfreie Stadt",Agriculture,43,0.6087200901935226,Sector
+"Bottrop, Kreisfreie Stadt",Transportation,10,0.8288556269589544,Sector
+"Bottrop, Kreisfreie Stadt",Consumer_Products,78,0.13285219999282483,Sector
+"Bottrop, Kreisfreie Stadt",Unassigned,15,0.9845411588756499,Sector
+"Bottrop, Kreisfreie Stadt",Communication,76,0.4784569815144166,Sector
+"Bottrop, Kreisfreie Stadt",Trade,31,0.651801538891177,Sector
+"Bottrop, Kreisfreie Stadt",Business_Services,93,0.5181899735629543,Sector
+"Bottrop, Kreisfreie Stadt",Business_Products,69,0.5819552736022017,Sector
+"Bottrop, Kreisfreie Stadt",Construction,22,0.9271098681896336,Sector
+"Bottrop, Kreisfreie Stadt",Services,79,0.12483297555951522,Sector
+"Bottrop, Kreisfreie Stadt",Mining,38,0.057781271162181014,Sector
+"Bottrop, Kreisfreie Stadt",Health_Care,22,0.45401753748293994,Sector
+"Bottrop, Kreisfreie Stadt",EnergyExpL_Prod,43,0.9788570344275381,Sector
+"Bottrop, Kreisfreie Stadt",Utilities,66,0.36492720545877944,Sector

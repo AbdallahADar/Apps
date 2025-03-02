@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Caddo,761,0.4702391558171301,Overall
+Caddo,HiTech,41,0.4565384093241319,Sector
+Caddo,Agriculture,60,0.28384968361303586,Sector
+Caddo,Transportation,32,0.27428801119928203,Sector
+Caddo,Consumer_Products,47,0.9786373901517078,Sector
+Caddo,Unassigned,85,0.13266804284911504,Sector
+Caddo,Communication,16,0.3240902334328729,Sector
+Caddo,Trade,39,0.6250560538633381,Sector
+Caddo,Business_Services,39,0.7794549551765301,Sector
+Caddo,Business_Products,97,0.05461235165192113,Sector
+Caddo,Construction,3,0.36515306218916477,Sector
+Caddo,Services,20,0.9698162604482888,Sector
+Caddo,Mining,51,0.6104411062956835,Sector
+Caddo,Health_Care,91,0.5312726223791083,Sector
+Caddo,EnergyExpL_Prod,66,0.13623738154194853,Sector
+Caddo,Utilities,74,0.5314717731408232,Sector

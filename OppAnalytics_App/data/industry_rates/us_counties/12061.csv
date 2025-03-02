@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Indian River,730,0.3730916979290111,Overall
+Indian River,HiTech,89,0.3356264690433587,Sector
+Indian River,Agriculture,83,0.6570069876321789,Sector
+Indian River,Transportation,22,0.08012218870127774,Sector
+Indian River,Consumer_Products,15,0.4874764011923086,Sector
+Indian River,Unassigned,87,0.3711224051924512,Sector
+Indian River,Communication,80,0.5284297411698026,Sector
+Indian River,Trade,24,0.5734101965421166,Sector
+Indian River,Business_Services,60,0.15704610305397626,Sector
+Indian River,Business_Products,80,0.7718728944951037,Sector
+Indian River,Construction,54,0.0010425364485031618,Sector
+Indian River,Services,1,0.26568076876424584,Sector
+Indian River,Mining,13,0.3308639106627411,Sector
+Indian River,Health_Care,80,0.17539491040458977,Sector
+Indian River,EnergyExpL_Prod,4,0.6364710435994212,Sector
+Indian River,Utilities,38,0.22480891203309017,Sector

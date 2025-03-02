@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bayburt,990,0.5718263533205478,Overall
+Bayburt,HiTech,35,0.6007110057150213,Sector
+Bayburt,Agriculture,94,0.8613266915926083,Sector
+Bayburt,Transportation,26,0.1912906434752365,Sector
+Bayburt,Consumer_Products,33,0.9202323671606516,Sector
+Bayburt,Unassigned,19,0.40145730597157314,Sector
+Bayburt,Communication,92,0.47104679456816034,Sector
+Bayburt,Trade,99,0.7881290602218162,Sector
+Bayburt,Business_Services,78,0.9526771464733101,Sector
+Bayburt,Business_Products,71,0.7730613050386592,Sector
+Bayburt,Construction,89,0.1656229053428946,Sector
+Bayburt,Services,90,0.6856125812527523,Sector
+Bayburt,Mining,55,0.348702630195863,Sector
+Bayburt,Health_Care,49,0.07820929564411372,Sector
+Bayburt,EnergyExpL_Prod,65,0.7264570265336798,Sector
+Bayburt,Utilities,95,0.6128585406218762,Sector

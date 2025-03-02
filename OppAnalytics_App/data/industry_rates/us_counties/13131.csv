@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Grady,585,0.41501811530759203,Overall
+Grady,HiTech,73,0.45869281948529683,Sector
+Grady,Agriculture,68,0.8409884897289768,Sector
+Grady,Transportation,6,0.6834938758293757,Sector
+Grady,Consumer_Products,75,0.08416910666277166,Sector
+Grady,Unassigned,48,0.2718005968574503,Sector
+Grady,Communication,15,0.4909539849934248,Sector
+Grady,Trade,52,0.18663741216755092,Sector
+Grady,Business_Services,22,0.3101500170049192,Sector
+Grady,Business_Products,94,0.8366382146926198,Sector
+Grady,Construction,17,0.32001955710639485,Sector
+Grady,Services,37,0.12986700945589713,Sector
+Grady,Mining,64,0.44320955376951476,Sector
+Grady,Health_Care,4,0.416512261109525,Sector
+Grady,EnergyExpL_Prod,8,0.7301158834024758,Sector
+Grady,Utilities,2,0.022022947347686284,Sector

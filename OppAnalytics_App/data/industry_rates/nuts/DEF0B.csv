@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rendsburg-Eckernförde,792,0.5839018135032585,Overall
+Rendsburg-Eckernförde,HiTech,60,0.461637696440206,Sector
+Rendsburg-Eckernförde,Agriculture,19,0.9952897127189843,Sector
+Rendsburg-Eckernförde,Transportation,28,0.42598477604011864,Sector
+Rendsburg-Eckernförde,Consumer_Products,95,0.934905817905891,Sector
+Rendsburg-Eckernförde,Unassigned,61,0.6825533635056127,Sector
+Rendsburg-Eckernförde,Communication,14,0.42109380571706756,Sector
+Rendsburg-Eckernförde,Trade,56,0.2206864633122333,Sector
+Rendsburg-Eckernförde,Business_Services,4,0.3865084890030053,Sector
+Rendsburg-Eckernförde,Business_Products,44,0.9070440825902102,Sector
+Rendsburg-Eckernförde,Construction,89,0.7473560646608137,Sector
+Rendsburg-Eckernförde,Services,32,0.4442591471441216,Sector
+Rendsburg-Eckernförde,Mining,88,0.21530336683391427,Sector
+Rendsburg-Eckernförde,Health_Care,65,0.9842941856045323,Sector
+Rendsburg-Eckernförde,EnergyExpL_Prod,85,0.27476474075725676,Sector
+Rendsburg-Eckernförde,Utilities,52,0.656845490314911,Sector

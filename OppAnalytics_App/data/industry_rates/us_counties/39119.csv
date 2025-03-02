@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Muskingum,554,0.5881942668547864,Overall
+Muskingum,HiTech,2,0.9890944013796098,Sector
+Muskingum,Agriculture,7,0.4332558673288204,Sector
+Muskingum,Transportation,64,0.4955523568292475,Sector
+Muskingum,Consumer_Products,23,0.8863748734988949,Sector
+Muskingum,Unassigned,34,0.19051893232566253,Sector
+Muskingum,Communication,64,0.5345171721423538,Sector
+Muskingum,Trade,17,0.7111280785621839,Sector
+Muskingum,Business_Services,21,0.6558466287214233,Sector
+Muskingum,Business_Products,65,0.18452494753917548,Sector
+Muskingum,Construction,20,0.5007141983613396,Sector
+Muskingum,Services,23,0.8926688187872159,Sector
+Muskingum,Mining,76,0.2615751141961973,Sector
+Muskingum,Health_Care,98,0.8526788014071659,Sector
+Muskingum,EnergyExpL_Prod,39,0.8782417785389075,Sector
+Muskingum,Utilities,1,0.3562220332035969,Sector

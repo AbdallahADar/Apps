@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Toplička oblast,945,0.6334742263621488,Overall
+Toplička oblast,HiTech,62,0.8960430040571437,Sector
+Toplička oblast,Agriculture,93,0.2959875437143775,Sector
+Toplička oblast,Transportation,12,0.4896233895026162,Sector
+Toplička oblast,Consumer_Products,84,0.7463443356217252,Sector
+Toplička oblast,Unassigned,49,0.8969221520184312,Sector
+Toplička oblast,Communication,63,0.8631852664641785,Sector
+Toplička oblast,Trade,97,0.34275573517646774,Sector
+Toplička oblast,Business_Services,65,0.808857679653142,Sector
+Toplička oblast,Business_Products,53,0.40328005885399965,Sector
+Toplička oblast,Construction,99,0.8128526288411991,Sector
+Toplička oblast,Services,23,0.46162398531696414,Sector
+Toplička oblast,Mining,88,0.6622874421963507,Sector
+Toplička oblast,Health_Care,70,0.9520357131812491,Sector
+Toplička oblast,EnergyExpL_Prod,86,0.6051843720216062,Sector
+Toplička oblast,Utilities,1,0.26513008881278166,Sector

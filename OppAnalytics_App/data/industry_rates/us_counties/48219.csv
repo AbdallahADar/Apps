@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hockley,821,0.5439544358133728,Overall
+Hockley,HiTech,14,0.7540360847207728,Sector
+Hockley,Agriculture,48,0.5977505363922226,Sector
+Hockley,Transportation,22,0.477329323562668,Sector
+Hockley,Consumer_Products,79,0.5380383511750683,Sector
+Hockley,Unassigned,89,0.21357289540184743,Sector
+Hockley,Communication,95,0.15168464087544276,Sector
+Hockley,Trade,85,0.164762672972685,Sector
+Hockley,Business_Services,44,0.8184800752349036,Sector
+Hockley,Business_Products,21,0.4296128743012062,Sector
+Hockley,Construction,86,0.9154897050748226,Sector
+Hockley,Services,15,0.9273676407573894,Sector
+Hockley,Mining,56,0.38022284524307026,Sector
+Hockley,Health_Care,17,0.9465600229897232,Sector
+Hockley,EnergyExpL_Prod,67,0.20542429917194838,Sector
+Hockley,Utilities,83,0.6389845693268223,Sector

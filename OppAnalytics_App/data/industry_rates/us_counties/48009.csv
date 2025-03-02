@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Archer,468,0.4007830362624345,Overall
+Archer,HiTech,3,0.6617093652067393,Sector
+Archer,Agriculture,87,0.4509920026204637,Sector
+Archer,Transportation,9,0.29274866250848597,Sector
+Archer,Consumer_Products,79,0.3728724549628759,Sector
+Archer,Unassigned,46,0.11777083878728156,Sector
+Archer,Communication,16,0.36620218162084217,Sector
+Archer,Trade,8,0.12500784682138188,Sector
+Archer,Business_Services,30,0.166604708027271,Sector
+Archer,Business_Products,48,0.04335888876188809,Sector
+Archer,Construction,4,0.6727321155834547,Sector
+Archer,Services,7,0.2928018729829275,Sector
+Archer,Mining,98,0.7860486913895735,Sector
+Archer,Health_Care,20,0.6822747984800402,Sector
+Archer,EnergyExpL_Prod,2,0.09515721115740516,Sector
+Archer,Utilities,11,0.885463905025888,Sector

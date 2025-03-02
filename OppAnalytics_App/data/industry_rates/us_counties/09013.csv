@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tolland,630,0.3830703486614463,Overall
+Tolland,HiTech,6,0.8476933977546969,Sector
+Tolland,Agriculture,86,0.3239061406451793,Sector
+Tolland,Transportation,62,0.06397828311492137,Sector
+Tolland,Consumer_Products,36,0.1063361751737869,Sector
+Tolland,Unassigned,10,0.5748175939837665,Sector
+Tolland,Communication,52,0.626636386179602,Sector
+Tolland,Trade,31,0.019791293551633116,Sector
+Tolland,Business_Services,85,0.17590923762561994,Sector
+Tolland,Business_Products,78,0.9743849364301069,Sector
+Tolland,Construction,57,0.1396073034674723,Sector
+Tolland,Services,16,0.1104573425914489,Sector
+Tolland,Mining,3,0.827545028344274,Sector
+Tolland,Health_Care,19,0.4435359887744833,Sector
+Tolland,EnergyExpL_Prod,55,0.4793806357522107,Sector
+Tolland,Utilities,34,0.03207548653249259,Sector

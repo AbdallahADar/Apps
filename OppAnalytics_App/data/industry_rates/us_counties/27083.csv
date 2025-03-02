@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lyon,547,0.5754954349822853,Overall
+Lyon,HiTech,45,0.24867239372527372,Sector
+Lyon,Agriculture,10,0.8818200926787693,Sector
+Lyon,Transportation,23,0.9892287131256902,Sector
+Lyon,Consumer_Products,41,0.1798803304138077,Sector
+Lyon,Unassigned,67,0.8635631146127007,Sector
+Lyon,Communication,20,0.9365154935138537,Sector
+Lyon,Trade,42,0.20474253543796472,Sector
+Lyon,Business_Services,3,0.05222142344458014,Sector
+Lyon,Business_Products,90,0.9556087340965005,Sector
+Lyon,Construction,16,0.8326402794201075,Sector
+Lyon,Services,19,0.7384112701398895,Sector
+Lyon,Mining,32,0.5962648206686826,Sector
+Lyon,Health_Care,30,0.4104055856494867,Sector
+Lyon,EnergyExpL_Prod,37,0.08924251564835561,Sector
+Lyon,Utilities,72,0.6532142221586152,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tarn,739,0.4387621055619544,Overall
+Tarn,HiTech,33,0.05158117202131096,Sector
+Tarn,Agriculture,1,0.007801732630253078,Sector
+Tarn,Transportation,69,0.8440403283012627,Sector
+Tarn,Consumer_Products,92,0.014792169279566392,Sector
+Tarn,Unassigned,75,0.063322524528716,Sector
+Tarn,Communication,5,0.17381765338791821,Sector
+Tarn,Trade,59,0.6477052463171178,Sector
+Tarn,Business_Services,57,0.7801614507102531,Sector
+Tarn,Business_Products,12,0.2246056430518928,Sector
+Tarn,Construction,38,0.11795189599637801,Sector
+Tarn,Services,59,0.9337718437672365,Sector
+Tarn,Mining,69,0.35893915181409974,Sector
+Tarn,Health_Care,99,0.9226750721369451,Sector
+Tarn,EnergyExpL_Prod,58,0.568625035250501,Sector
+Tarn,Utilities,13,0.8716406642358642,Sector

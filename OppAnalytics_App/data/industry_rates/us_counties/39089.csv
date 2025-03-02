@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Licking,899,0.4602272383236573,Overall
+Licking,HiTech,44,0.27979125308172503,Sector
+Licking,Agriculture,28,0.3214250361230411,Sector
+Licking,Transportation,36,0.2306615769567496,Sector
+Licking,Consumer_Products,96,0.694544407482039,Sector
+Licking,Unassigned,79,0.8584212178925824,Sector
+Licking,Communication,76,0.3764421308510232,Sector
+Licking,Trade,73,0.5785458431148073,Sector
+Licking,Business_Services,49,0.9726401236146633,Sector
+Licking,Business_Products,85,0.6859706177125061,Sector
+Licking,Construction,10,0.595518250298156,Sector
+Licking,Services,73,0.33355900169348884,Sector
+Licking,Mining,70,0.3083359162432209,Sector
+Licking,Health_Care,52,0.12274755004108195,Sector
+Licking,EnergyExpL_Prod,72,0.5351698617519621,Sector
+Licking,Utilities,56,0.009635787997811951,Sector

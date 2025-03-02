@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Wiesbaden, Kreisfreie Stadt",707,0.4926122637242464,Overall
+"Wiesbaden, Kreisfreie Stadt",HiTech,45,0.4126505224269288,Sector
+"Wiesbaden, Kreisfreie Stadt",Agriculture,1,0.2777758460401304,Sector
+"Wiesbaden, Kreisfreie Stadt",Transportation,64,0.271677737712019,Sector
+"Wiesbaden, Kreisfreie Stadt",Consumer_Products,8,0.5004506667720021,Sector
+"Wiesbaden, Kreisfreie Stadt",Unassigned,64,0.31944936353583797,Sector
+"Wiesbaden, Kreisfreie Stadt",Communication,95,0.5892078451420972,Sector
+"Wiesbaden, Kreisfreie Stadt",Trade,74,0.5031950629859085,Sector
+"Wiesbaden, Kreisfreie Stadt",Business_Services,21,0.01808721171248462,Sector
+"Wiesbaden, Kreisfreie Stadt",Business_Products,59,0.07425536173528013,Sector
+"Wiesbaden, Kreisfreie Stadt",Construction,41,0.9870877855063893,Sector
+"Wiesbaden, Kreisfreie Stadt",Services,23,0.2615155419973475,Sector
+"Wiesbaden, Kreisfreie Stadt",Mining,72,0.800233834731869,Sector
+"Wiesbaden, Kreisfreie Stadt",Health_Care,34,0.5989574052752957,Sector
+"Wiesbaden, Kreisfreie Stadt",EnergyExpL_Prod,92,0.9828605513094472,Sector
+"Wiesbaden, Kreisfreie Stadt",Utilities,14,0.7917792189806578,Sector

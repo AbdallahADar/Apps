@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McDonald,748,0.4920535748132205,Overall
+McDonald,HiTech,29,0.7928926088849787,Sector
+McDonald,Agriculture,58,0.4419519419501142,Sector
+McDonald,Transportation,56,0.9604479766400259,Sector
+McDonald,Consumer_Products,48,0.2779794760857087,Sector
+McDonald,Unassigned,72,0.023991134620686583,Sector
+McDonald,Communication,60,0.23898074550225257,Sector
+McDonald,Trade,90,0.7412506367267924,Sector
+McDonald,Business_Services,61,0.9763521592259679,Sector
+McDonald,Business_Products,7,0.3112461038416363,Sector
+McDonald,Construction,25,0.5294016285201919,Sector
+McDonald,Services,64,0.35875973502344904,Sector
+McDonald,Mining,13,0.6922849602542779,Sector
+McDonald,Health_Care,2,0.2631059025122535,Sector
+McDonald,EnergyExpL_Prod,81,0.6173391233335629,Sector
+McDonald,Utilities,82,0.1548194890764072,Sector

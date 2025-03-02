@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Uinta,796,0.5011388877093571,Overall
+Uinta,HiTech,95,0.9273447588580481,Sector
+Uinta,Agriculture,92,0.20350559668779145,Sector
+Uinta,Transportation,54,0.28405799762421746,Sector
+Uinta,Consumer_Products,68,0.43059732332455636,Sector
+Uinta,Unassigned,71,0.797363644591639,Sector
+Uinta,Communication,74,0.04509487634568765,Sector
+Uinta,Trade,14,0.10766259918252175,Sector
+Uinta,Business_Services,28,0.0494909287391293,Sector
+Uinta,Business_Products,67,0.5233613827010958,Sector
+Uinta,Construction,78,0.6291423068432265,Sector
+Uinta,Services,5,0.4870454815597123,Sector
+Uinta,Mining,34,0.848334547491747,Sector
+Uinta,Health_Care,57,0.750744188408966,Sector
+Uinta,EnergyExpL_Prod,39,0.4472390998681759,Sector
+Uinta,Utilities,20,0.9860985834138426,Sector

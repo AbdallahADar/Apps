@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Merrick,872,0.5628956767644822,Overall
+Merrick,HiTech,12,0.37956419428883614,Sector
+Merrick,Agriculture,76,0.17457933912512047,Sector
+Merrick,Transportation,81,0.8369196266228411,Sector
+Merrick,Consumer_Products,2,0.5829550337256134,Sector
+Merrick,Unassigned,86,0.9940259969874705,Sector
+Merrick,Communication,80,0.26454550386899567,Sector
+Merrick,Trade,38,0.9782453396762633,Sector
+Merrick,Business_Services,94,0.6825582990271519,Sector
+Merrick,Business_Products,93,0.06317981162280739,Sector
+Merrick,Construction,34,0.36328976122390944,Sector
+Merrick,Services,45,0.8885248851494605,Sector
+Merrick,Mining,91,0.7988979288498569,Sector
+Merrick,Health_Care,0,0.3168149493529627,Sector
+Merrick,EnergyExpL_Prod,78,0.691380550484803,Sector
+Merrick,Utilities,62,0.4279539314611399,Sector

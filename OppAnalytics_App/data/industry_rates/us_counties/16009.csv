@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Benewah,701,0.5380018822828023,Overall
+Benewah,HiTech,29,0.8691448101016063,Sector
+Benewah,Agriculture,26,0.9226472197285033,Sector
+Benewah,Transportation,21,0.3959016563644816,Sector
+Benewah,Consumer_Products,79,0.9296222938872187,Sector
+Benewah,Unassigned,86,0.19334070029602823,Sector
+Benewah,Communication,66,0.6016771550541468,Sector
+Benewah,Trade,33,0.7033623540589184,Sector
+Benewah,Business_Services,35,0.006571677573368739,Sector
+Benewah,Business_Products,62,0.23107722807708542,Sector
+Benewah,Construction,44,0.898654728644155,Sector
+Benewah,Services,82,0.9429525418543707,Sector
+Benewah,Mining,38,0.15279713514445936,Sector
+Benewah,Health_Care,80,0.7182322988033892,Sector
+Benewah,EnergyExpL_Prod,12,0.1598438458513053,Sector
+Benewah,Utilities,8,0.3442025888029959,Sector

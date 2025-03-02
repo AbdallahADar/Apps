@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lyman,591,0.549077320332579,Overall
+Lyman,HiTech,35,0.9751611106047485,Sector
+Lyman,Agriculture,57,0.1173009784738337,Sector
+Lyman,Transportation,21,0.8558261179938417,Sector
+Lyman,Consumer_Products,37,0.9350944344799628,Sector
+Lyman,Unassigned,98,0.5306285403742268,Sector
+Lyman,Communication,65,0.5785550217820438,Sector
+Lyman,Trade,49,0.7877049303803204,Sector
+Lyman,Business_Services,2,0.21346595084877296,Sector
+Lyman,Business_Products,3,0.5054508438473436,Sector
+Lyman,Construction,27,0.39145795820552354,Sector
+Lyman,Services,10,0.04653034720450544,Sector
+Lyman,Mining,72,0.33925806745367093,Sector
+Lyman,Health_Care,23,0.8107655067761368,Sector
+Lyman,EnergyExpL_Prod,20,0.7576848044884725,Sector
+Lyman,Utilities,72,0.3912751920752816,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pistoia,757,0.5067705266224117,Overall
+Pistoia,HiTech,78,0.9516596699108102,Sector
+Pistoia,Agriculture,38,0.7340604875708588,Sector
+Pistoia,Transportation,56,0.0851813218613846,Sector
+Pistoia,Consumer_Products,73,0.6366759301450542,Sector
+Pistoia,Unassigned,93,0.41453201825941977,Sector
+Pistoia,Communication,15,0.051155922955453126,Sector
+Pistoia,Trade,12,0.08894135370105904,Sector
+Pistoia,Business_Services,46,0.12366982778606717,Sector
+Pistoia,Business_Products,70,0.49613861703312034,Sector
+Pistoia,Construction,13,0.8844289756556469,Sector
+Pistoia,Services,29,0.7646894668619107,Sector
+Pistoia,Mining,92,0.815408309708723,Sector
+Pistoia,Health_Care,62,0.9835448652407136,Sector
+Pistoia,EnergyExpL_Prod,66,0.27087917180643173,Sector
+Pistoia,Utilities,14,0.30059196083952155,Sector

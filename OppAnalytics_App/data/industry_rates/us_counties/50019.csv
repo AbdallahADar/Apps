@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Orleans,798,0.5314539393206544,Overall
+Orleans,HiTech,53,0.055707748760784215,Sector
+Orleans,Agriculture,68,0.019305876278627787,Sector
+Orleans,Transportation,35,0.4348916629999051,Sector
+Orleans,Consumer_Products,30,0.24452503923291724,Sector
+Orleans,Unassigned,38,0.42636103425557437,Sector
+Orleans,Communication,80,0.9917514741827538,Sector
+Orleans,Trade,44,0.6566462208928608,Sector
+Orleans,Business_Services,88,0.28737623660588485,Sector
+Orleans,Business_Products,97,0.5977506645195744,Sector
+Orleans,Construction,7,0.116273821984469,Sector
+Orleans,Services,25,0.9095418287767322,Sector
+Orleans,Mining,38,0.8441802620750722,Sector
+Orleans,Health_Care,33,0.5705754738161913,Sector
+Orleans,EnergyExpL_Prod,91,0.9700399913603991,Sector
+Orleans,Utilities,71,0.8468817540680698,Sector

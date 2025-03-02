@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Moultrie,738,0.45355542710325364,Overall
+Moultrie,HiTech,3,0.3304990479221911,Sector
+Moultrie,Agriculture,92,0.10460046049611194,Sector
+Moultrie,Transportation,96,0.437728829657411,Sector
+Moultrie,Consumer_Products,49,0.0629226601972952,Sector
+Moultrie,Unassigned,48,0.7549103739893435,Sector
+Moultrie,Communication,56,0.31172848394521735,Sector
+Moultrie,Trade,44,0.7990867001452152,Sector
+Moultrie,Business_Services,70,0.04301268837248262,Sector
+Moultrie,Business_Products,34,0.49495561212261163,Sector
+Moultrie,Construction,2,0.26569192266752273,Sector
+Moultrie,Services,76,0.9113226996146374,Sector
+Moultrie,Mining,73,0.5759324891171179,Sector
+Moultrie,Health_Care,82,0.18175618136889016,Sector
+Moultrie,EnergyExpL_Prod,7,0.619999581967138,Sector
+Moultrie,Utilities,6,0.9091836749656188,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nidwalden,652,0.6006064130059906,Overall
+Nidwalden,HiTech,24,0.8360979935621953,Sector
+Nidwalden,Agriculture,67,0.2166633293297454,Sector
+Nidwalden,Transportation,13,0.037647374195018735,Sector
+Nidwalden,Consumer_Products,94,0.7529803647806352,Sector
+Nidwalden,Unassigned,43,0.8070521943652468,Sector
+Nidwalden,Communication,19,0.8185981231510747,Sector
+Nidwalden,Trade,58,0.9326003000110036,Sector
+Nidwalden,Business_Services,24,0.9595475612921227,Sector
+Nidwalden,Business_Products,67,0.48166210963094214,Sector
+Nidwalden,Construction,50,0.7049632643350595,Sector
+Nidwalden,Services,22,0.2886799379717818,Sector
+Nidwalden,Mining,17,0.8739820227253358,Sector
+Nidwalden,Health_Care,2,0.1561619247263828,Sector
+Nidwalden,EnergyExpL_Prod,98,0.7940415660004194,Sector
+Nidwalden,Utilities,54,0.3484181290128948,Sector

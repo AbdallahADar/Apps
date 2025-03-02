@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hohenlohekreis,935,0.564893078390044,Overall
+Hohenlohekreis,HiTech,50,0.3505773400430865,Sector
+Hohenlohekreis,Agriculture,8,0.360770359643664,Sector
+Hohenlohekreis,Transportation,96,0.20267559932710033,Sector
+Hohenlohekreis,Consumer_Products,97,0.36106920520873154,Sector
+Hohenlohekreis,Unassigned,74,0.2950738061468895,Sector
+Hohenlohekreis,Communication,1,0.7516077130703599,Sector
+Hohenlohekreis,Trade,1,0.330965469643007,Sector
+Hohenlohekreis,Business_Services,88,0.9223736924807768,Sector
+Hohenlohekreis,Business_Products,82,0.6955208250708629,Sector
+Hohenlohekreis,Construction,37,0.3562309648597344,Sector
+Hohenlohekreis,Services,65,0.9449284176708943,Sector
+Hohenlohekreis,Mining,77,0.9455090019765428,Sector
+Hohenlohekreis,Health_Care,81,0.8645277702389967,Sector
+Hohenlohekreis,EnergyExpL_Prod,90,0.7844901557260071,Sector
+Hohenlohekreis,Utilities,88,0.307075854744007,Sector

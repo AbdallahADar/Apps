@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Billings,671,0.44784313524354896,Overall
+Billings,HiTech,20,0.046597275891086865,Sector
+Billings,Agriculture,9,0.0008360301791766611,Sector
+Billings,Transportation,78,0.9646535302431322,Sector
+Billings,Consumer_Products,60,0.8341856809495776,Sector
+Billings,Unassigned,5,0.4235383004900759,Sector
+Billings,Communication,33,0.1284522536020869,Sector
+Billings,Trade,10,0.5668346630187873,Sector
+Billings,Business_Services,61,0.03721198847285734,Sector
+Billings,Business_Products,62,0.8842182239280266,Sector
+Billings,Construction,89,0.5392333529001512,Sector
+Billings,Services,94,0.7614081609821058,Sector
+Billings,Mining,27,0.28197889074089055,Sector
+Billings,Health_Care,48,0.13663043743897407,Sector
+Billings,EnergyExpL_Prod,25,0.5537543521973982,Sector
+Billings,Utilities,50,0.558113887618908,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bennington,816,0.46519171694201916,Overall
+Bennington,HiTech,66,0.07773585417344953,Sector
+Bennington,Agriculture,17,0.13900850356203198,Sector
+Bennington,Transportation,57,0.8338726746090581,Sector
+Bennington,Consumer_Products,14,0.21522952126965522,Sector
+Bennington,Unassigned,90,0.883080354928584,Sector
+Bennington,Communication,60,0.06961078690456446,Sector
+Bennington,Trade,52,0.5450655446318394,Sector
+Bennington,Business_Services,12,0.2460193986202277,Sector
+Bennington,Business_Products,47,0.12464233382079459,Sector
+Bennington,Construction,63,0.5749597733100902,Sector
+Bennington,Services,77,0.7429653069258279,Sector
+Bennington,Mining,87,0.8294383335573547,Sector
+Bennington,Health_Care,68,0.2443478999658546,Sector
+Bennington,EnergyExpL_Prod,21,0.8866879878791956,Sector
+Bennington,Utilities,85,0.5652114799717591,Sector

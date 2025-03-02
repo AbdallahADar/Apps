@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hall,759,0.4761610873454362,Overall
+Hall,HiTech,47,0.6705264663622381,Sector
+Hall,Agriculture,70,0.6019012214116769,Sector
+Hall,Transportation,15,0.5150760150109395,Sector
+Hall,Consumer_Products,23,0.8487901551361791,Sector
+Hall,Unassigned,54,0.4279603608021546,Sector
+Hall,Communication,91,0.01241074724498581,Sector
+Hall,Trade,90,0.3483443709018492,Sector
+Hall,Business_Services,63,0.07173263442282729,Sector
+Hall,Business_Products,18,0.9143337089742055,Sector
+Hall,Construction,78,0.3099040606609983,Sector
+Hall,Services,64,0.38889941520285753,Sector
+Hall,Mining,31,0.21673299111835376,Sector
+Hall,Health_Care,19,0.7591144573166675,Sector
+Hall,EnergyExpL_Prod,74,0.14486443854312692,Sector
+Hall,Utilities,22,0.9118252670724829,Sector

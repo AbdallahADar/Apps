@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jeff Davis,884,0.44331785963949005,Overall
+Jeff Davis,HiTech,37,0.36168784314714686,Sector
+Jeff Davis,Agriculture,55,0.9134676220192258,Sector
+Jeff Davis,Transportation,16,0.7326508250042943,Sector
+Jeff Davis,Consumer_Products,54,0.7224658788166174,Sector
+Jeff Davis,Unassigned,96,0.14631449630617643,Sector
+Jeff Davis,Communication,33,0.16316765207837847,Sector
+Jeff Davis,Trade,51,0.9359236278302272,Sector
+Jeff Davis,Business_Services,88,0.3405465947878028,Sector
+Jeff Davis,Business_Products,69,0.02703529310584618,Sector
+Jeff Davis,Construction,91,0.1710941698938313,Sector
+Jeff Davis,Services,56,0.6323820003653027,Sector
+Jeff Davis,Mining,3,0.2213127501616161,Sector
+Jeff Davis,Health_Care,89,0.412466826634187,Sector
+Jeff Davis,EnergyExpL_Prod,84,0.4957863020262271,Sector
+Jeff Davis,Utilities,62,0.37346601241547217,Sector

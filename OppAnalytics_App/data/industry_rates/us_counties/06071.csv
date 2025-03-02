@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,San Bernardino,758,0.6445434024060751,Overall
+San Bernardino,HiTech,93,0.5574751320770651,Sector
+San Bernardino,Agriculture,54,0.9015137947598908,Sector
+San Bernardino,Transportation,86,0.7860103997862076,Sector
+San Bernardino,Consumer_Products,8,0.5393047967041842,Sector
+San Bernardino,Unassigned,72,0.3378063341453035,Sector
+San Bernardino,Communication,27,0.8880048395759049,Sector
+San Bernardino,Trade,1,0.20775354448997774,Sector
+San Bernardino,Business_Services,63,0.7746420768704334,Sector
+San Bernardino,Business_Products,35,0.7407278238179972,Sector
+San Bernardino,Construction,82,0.8770129033009397,Sector
+San Bernardino,Services,69,0.5845098067634588,Sector
+San Bernardino,Mining,39,0.2432052194687223,Sector
+San Bernardino,Health_Care,8,0.6219802903673972,Sector
+San Bernardino,EnergyExpL_Prod,77,0.9369954114003999,Sector
+San Bernardino,Utilities,44,0.6712086625632451,Sector

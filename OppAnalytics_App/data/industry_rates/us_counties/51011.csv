@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Appomattox,690,0.6009663705515237,Overall
+Appomattox,HiTech,69,0.5982539235242506,Sector
+Appomattox,Agriculture,52,0.7262506601568344,Sector
+Appomattox,Transportation,26,0.4234432897823174,Sector
+Appomattox,Consumer_Products,31,0.7596336801082031,Sector
+Appomattox,Unassigned,12,0.9505605452996966,Sector
+Appomattox,Communication,91,0.4984279876266551,Sector
+Appomattox,Trade,48,0.9459820665235893,Sector
+Appomattox,Business_Services,37,0.33789389348171917,Sector
+Appomattox,Business_Products,29,0.034598915570858924,Sector
+Appomattox,Construction,22,0.1665125025927745,Sector
+Appomattox,Services,71,0.9094056852005382,Sector
+Appomattox,Mining,87,0.5216636312542731,Sector
+Appomattox,Health_Care,79,0.9198966191526555,Sector
+Appomattox,EnergyExpL_Prod,35,0.9480298586395423,Sector
+Appomattox,Utilities,1,0.2739422993589469,Sector

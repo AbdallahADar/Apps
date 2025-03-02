@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pacific,790,0.512354694524209,Overall
+Pacific,HiTech,75,0.1923832615968175,Sector
+Pacific,Agriculture,69,0.20725056191043523,Sector
+Pacific,Transportation,84,0.38631057615582653,Sector
+Pacific,Consumer_Products,49,0.5661066149488729,Sector
+Pacific,Unassigned,87,0.5727171165600927,Sector
+Pacific,Communication,65,0.7851443426954953,Sector
+Pacific,Trade,69,0.17417729793805892,Sector
+Pacific,Business_Services,78,0.8708357154129646,Sector
+Pacific,Business_Products,16,0.238180268714548,Sector
+Pacific,Construction,98,0.6900951479256335,Sector
+Pacific,Services,2,0.0021446662225057533,Sector
+Pacific,Mining,29,0.6944794034307322,Sector
+Pacific,Health_Care,28,0.7848575401973379,Sector
+Pacific,EnergyExpL_Prod,24,0.992496879736361,Sector
+Pacific,Utilities,17,0.5281410244174529,Sector

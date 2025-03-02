@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Baldwin,733,0.5277499011100981,Overall
+Baldwin,HiTech,82,0.2915770979188196,Sector
+Baldwin,Agriculture,12,0.8144307862793766,Sector
+Baldwin,Transportation,35,0.6840820949506456,Sector
+Baldwin,Consumer_Products,81,0.7778251872682382,Sector
+Baldwin,Unassigned,92,0.3041294252001371,Sector
+Baldwin,Communication,48,0.7119493177879713,Sector
+Baldwin,Trade,64,0.05104920877496222,Sector
+Baldwin,Business_Services,0,0.2844560464194221,Sector
+Baldwin,Business_Products,74,0.7837233723331704,Sector
+Baldwin,Construction,6,0.10987655008015507,Sector
+Baldwin,Services,65,0.4111912401226411,Sector
+Baldwin,Mining,50,0.7771124608966774,Sector
+Baldwin,Health_Care,68,0.663927748407763,Sector
+Baldwin,EnergyExpL_Prod,2,0.48653347112051815,Sector
+Baldwin,Utilities,54,0.764384509090973,Sector

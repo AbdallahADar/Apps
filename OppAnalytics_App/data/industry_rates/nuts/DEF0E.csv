@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Steinburg,772,0.4769891094453335,Overall
+Steinburg,HiTech,30,0.8056262973352472,Sector
+Steinburg,Agriculture,87,0.3767624341692152,Sector
+Steinburg,Transportation,29,0.16020154494319994,Sector
+Steinburg,Consumer_Products,77,0.47941403929086224,Sector
+Steinburg,Unassigned,67,0.24186334482624228,Sector
+Steinburg,Communication,22,0.5232142153424125,Sector
+Steinburg,Trade,39,0.41054802754902187,Sector
+Steinburg,Business_Services,41,0.38451379390042095,Sector
+Steinburg,Business_Products,2,0.12737622543528904,Sector
+Steinburg,Construction,66,0.8191332015154721,Sector
+Steinburg,Services,93,0.228866111917028,Sector
+Steinburg,Mining,75,0.392146303550999,Sector
+Steinburg,Health_Care,77,0.847367985769851,Sector
+Steinburg,EnergyExpL_Prod,12,0.9246157357736341,Sector
+Steinburg,Utilities,55,0.43318738036110793,Sector

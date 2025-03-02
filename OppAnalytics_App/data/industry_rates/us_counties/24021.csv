@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Frederick,948,0.5234304978073504,Overall
+Frederick,HiTech,42,0.4876203533748855,Sector
+Frederick,Agriculture,57,0.6165511732144533,Sector
+Frederick,Transportation,39,0.15610730004188977,Sector
+Frederick,Consumer_Products,74,0.9029020082670504,Sector
+Frederick,Unassigned,2,0.9134380988411211,Sector
+Frederick,Communication,88,0.3443354565061876,Sector
+Frederick,Trade,59,0.891811510298171,Sector
+Frederick,Business_Services,88,0.48677132372471,Sector
+Frederick,Business_Products,95,0.7151837772876237,Sector
+Frederick,Construction,85,0.08414578434711217,Sector
+Frederick,Services,81,0.5711032258559259,Sector
+Frederick,Mining,60,0.27214440429662756,Sector
+Frederick,Health_Care,47,0.43322854330198934,Sector
+Frederick,EnergyExpL_Prod,33,0.7384358639484884,Sector
+Frederick,Utilities,98,0.2376786438040196,Sector

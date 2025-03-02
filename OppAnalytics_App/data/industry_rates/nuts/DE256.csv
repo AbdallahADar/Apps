@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Ansbach, Landkreis",536,0.2953621979671691,Overall
+"Ansbach, Landkreis",HiTech,85,0.07746326837341344,Sector
+"Ansbach, Landkreis",Agriculture,81,0.15310913617218647,Sector
+"Ansbach, Landkreis",Transportation,16,0.7483456117430857,Sector
+"Ansbach, Landkreis",Consumer_Products,36,0.38868943576161863,Sector
+"Ansbach, Landkreis",Unassigned,38,0.6882474700156753,Sector
+"Ansbach, Landkreis",Communication,7,0.48450054583439794,Sector
+"Ansbach, Landkreis",Trade,23,0.27511931244264554,Sector
+"Ansbach, Landkreis",Business_Services,65,0.13178351326931415,Sector
+"Ansbach, Landkreis",Business_Products,18,0.1299576265569059,Sector
+"Ansbach, Landkreis",Construction,39,0.2931661994687591,Sector
+"Ansbach, Landkreis",Services,6,0.17053980644913325,Sector
+"Ansbach, Landkreis",Mining,36,0.4120258429291791,Sector
+"Ansbach, Landkreis",Health_Care,34,0.3761248032793916,Sector
+"Ansbach, Landkreis",EnergyExpL_Prod,34,0.016087500335900784,Sector
+"Ansbach, Landkreis",Utilities,18,0.08527289687593076,Sector

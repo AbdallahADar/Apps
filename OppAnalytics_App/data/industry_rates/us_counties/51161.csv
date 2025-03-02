@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Roanoke,431,0.5033874793361657,Overall
+Roanoke,HiTech,87,0.49114371520045774,Sector
+Roanoke,Agriculture,17,0.42197214933992633,Sector
+Roanoke,Transportation,6,0.49455696356732903,Sector
+Roanoke,Consumer_Products,13,0.8000828795647451,Sector
+Roanoke,Unassigned,20,0.5892217360186024,Sector
+Roanoke,Communication,65,0.6249689724831685,Sector
+Roanoke,Trade,13,0.03407794032580147,Sector
+Roanoke,Business_Services,16,0.6770787650925354,Sector
+Roanoke,Business_Products,16,0.24303992096144245,Sector
+Roanoke,Construction,2,0.6232373858242594,Sector
+Roanoke,Services,20,0.0892207124646337,Sector
+Roanoke,Mining,13,0.9510204503585606,Sector
+Roanoke,Health_Care,45,0.46709581927465393,Sector
+Roanoke,EnergyExpL_Prod,43,0.5690412556756136,Sector
+Roanoke,Utilities,55,0.4750535238907555,Sector

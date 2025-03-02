@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Custer,950,0.4001896746805637,Overall
+Custer,HiTech,47,0.12865262785318654,Sector
+Custer,Agriculture,34,0.44168311835085716,Sector
+Custer,Transportation,88,0.23385784869199489,Sector
+Custer,Consumer_Products,68,0.24047704142344506,Sector
+Custer,Unassigned,83,0.3251440883227893,Sector
+Custer,Communication,35,0.3728312292461443,Sector
+Custer,Trade,99,0.24499654727775955,Sector
+Custer,Business_Services,92,0.23630992741413315,Sector
+Custer,Business_Products,44,0.4563984075119639,Sector
+Custer,Construction,76,0.25969555267816413,Sector
+Custer,Services,64,0.4342871342356983,Sector
+Custer,Mining,13,0.513804663948926,Sector
+Custer,Health_Care,86,0.9654994735305744,Sector
+Custer,EnergyExpL_Prod,82,0.8619862082080932,Sector
+Custer,Utilities,39,0.2872212515147248,Sector

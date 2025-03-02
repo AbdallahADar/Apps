@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,İzmir,656,0.5945112516412002,Overall
+İzmir,HiTech,55,0.4346645482936824,Sector
+İzmir,Agriculture,30,0.7013307089457267,Sector
+İzmir,Transportation,31,0.5566010570623907,Sector
+İzmir,Consumer_Products,71,0.0894093536081978,Sector
+İzmir,Unassigned,11,0.7986030263684234,Sector
+İzmir,Communication,38,0.9564498235387344,Sector
+İzmir,Trade,88,0.5171059750841228,Sector
+İzmir,Business_Services,39,0.7695408130141616,Sector
+İzmir,Business_Products,83,0.4693382714814477,Sector
+İzmir,Construction,42,0.6301719526175513,Sector
+İzmir,Services,21,0.7458917088031993,Sector
+İzmir,Mining,33,0.6245657337281627,Sector
+İzmir,Health_Care,38,0.8097926993755485,Sector
+İzmir,EnergyExpL_Prod,49,0.21928891576472376,Sector
+İzmir,Utilities,27,0.5949141869319293,Sector

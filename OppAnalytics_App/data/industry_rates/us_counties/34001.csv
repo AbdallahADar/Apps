@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Atlantic,868,0.4949396942681128,Overall
+Atlantic,HiTech,19,0.7683513552184543,Sector
+Atlantic,Agriculture,30,0.91262634731135,Sector
+Atlantic,Transportation,92,0.8710772813298902,Sector
+Atlantic,Consumer_Products,49,0.18874032045761835,Sector
+Atlantic,Unassigned,78,0.569617624232262,Sector
+Atlantic,Communication,50,0.7457798989787504,Sector
+Atlantic,Trade,37,0.30708829793198666,Sector
+Atlantic,Business_Services,20,0.683603642864535,Sector
+Atlantic,Business_Products,62,0.8489427811401016,Sector
+Atlantic,Construction,85,0.13963859465702533,Sector
+Atlantic,Services,52,0.03882707659544837,Sector
+Atlantic,Mining,81,0.604535410862679,Sector
+Atlantic,Health_Care,81,0.15004996684774208,Sector
+Atlantic,EnergyExpL_Prod,42,0.040712136454950865,Sector
+Atlantic,Utilities,90,0.5545046791388967,Sector

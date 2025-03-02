@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Schweinfurt, Landkreis",826,0.5297660270925499,Overall
+"Schweinfurt, Landkreis",HiTech,25,0.49807400756262177,Sector
+"Schweinfurt, Landkreis",Agriculture,17,0.6813538533992333,Sector
+"Schweinfurt, Landkreis",Transportation,38,0.1987561815352037,Sector
+"Schweinfurt, Landkreis",Consumer_Products,55,0.13748914172250315,Sector
+"Schweinfurt, Landkreis",Unassigned,56,0.4760820319059673,Sector
+"Schweinfurt, Landkreis",Communication,9,0.2582470042707683,Sector
+"Schweinfurt, Landkreis",Trade,66,0.6057975842362848,Sector
+"Schweinfurt, Landkreis",Business_Services,67,0.5155608813430914,Sector
+"Schweinfurt, Landkreis",Business_Products,90,0.9200554674031858,Sector
+"Schweinfurt, Landkreis",Construction,72,0.10191090379976253,Sector
+"Schweinfurt, Landkreis",Services,4,0.6983593231837277,Sector
+"Schweinfurt, Landkreis",Mining,92,0.6315957616602194,Sector
+"Schweinfurt, Landkreis",Health_Care,81,0.6409927137608487,Sector
+"Schweinfurt, Landkreis",EnergyExpL_Prod,70,0.7796899843479053,Sector
+"Schweinfurt, Landkreis",Utilities,84,0.8025255662569262,Sector

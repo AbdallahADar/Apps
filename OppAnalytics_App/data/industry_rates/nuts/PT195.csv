@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Beira Baixa,831,0.41169507700701985,Overall
+Beira Baixa,HiTech,11,0.5271553733288531,Sector
+Beira Baixa,Agriculture,69,0.001583684917251249,Sector
+Beira Baixa,Transportation,47,0.27091483708727226,Sector
+Beira Baixa,Consumer_Products,80,0.2477898713423693,Sector
+Beira Baixa,Unassigned,5,0.9267654585053537,Sector
+Beira Baixa,Communication,98,0.0930724408603788,Sector
+Beira Baixa,Trade,45,0.2312638523273255,Sector
+Beira Baixa,Business_Services,94,0.2717894475637226,Sector
+Beira Baixa,Business_Products,57,0.9802829834248511,Sector
+Beira Baixa,Construction,65,0.6925669380371342,Sector
+Beira Baixa,Services,6,0.32568272776985896,Sector
+Beira Baixa,Mining,76,0.04467934879042568,Sector
+Beira Baixa,Health_Care,71,0.9805113073400634,Sector
+Beira Baixa,EnergyExpL_Prod,20,0.3783026751693852,Sector
+Beira Baixa,Utilities,87,0.20306520864105204,Sector

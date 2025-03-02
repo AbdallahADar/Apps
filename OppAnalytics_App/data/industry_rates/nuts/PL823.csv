@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rzeszowski,715,0.46933276772361626,Overall
+Rzeszowski,HiTech,31,0.12511237784516915,Sector
+Rzeszowski,Agriculture,74,0.8893634806388301,Sector
+Rzeszowski,Transportation,3,0.7192367801029974,Sector
+Rzeszowski,Consumer_Products,85,0.20901059574316738,Sector
+Rzeszowski,Unassigned,25,0.22196405367091798,Sector
+Rzeszowski,Communication,45,0.9870999411047274,Sector
+Rzeszowski,Trade,56,0.5836586507738127,Sector
+Rzeszowski,Business_Services,16,0.3075616762133243,Sector
+Rzeszowski,Business_Products,32,0.45552861734601247,Sector
+Rzeszowski,Construction,70,0.5802400680754017,Sector
+Rzeszowski,Services,80,0.15654185859868508,Sector
+Rzeszowski,Mining,98,0.5619420069461266,Sector
+Rzeszowski,Health_Care,13,0.6378522232680802,Sector
+Rzeszowski,EnergyExpL_Prod,27,0.4293789363305479,Sector
+Rzeszowski,Utilities,60,0.17550024919644225,Sector

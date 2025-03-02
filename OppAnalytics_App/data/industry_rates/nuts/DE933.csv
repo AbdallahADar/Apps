@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Harburg,785,0.5456095162299935,Overall
+Harburg,HiTech,45,0.6589162928104977,Sector
+Harburg,Agriculture,3,0.7265392802972027,Sector
+Harburg,Transportation,81,0.30541347220551385,Sector
+Harburg,Consumer_Products,87,0.4327507721902205,Sector
+Harburg,Unassigned,55,0.1033311323204118,Sector
+Harburg,Communication,25,0.08155230979454298,Sector
+Harburg,Trade,2,0.9044949616708671,Sector
+Harburg,Business_Services,91,0.7185376143689232,Sector
+Harburg,Business_Products,64,0.27323863434346674,Sector
+Harburg,Construction,31,0.5647172382003047,Sector
+Harburg,Services,5,0.7427827464656601,Sector
+Harburg,Mining,51,0.38831458710511246,Sector
+Harburg,Health_Care,94,0.956803199585756,Sector
+Harburg,EnergyExpL_Prod,88,0.7543485696054782,Sector
+Harburg,Utilities,63,0.5724019324859461,Sector

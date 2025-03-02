@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cooper,619,0.3152381865391412,Overall
+Cooper,HiTech,69,0.5457281143412976,Sector
+Cooper,Agriculture,68,0.13235109905489784,Sector
+Cooper,Transportation,58,0.2222153320309307,Sector
+Cooper,Consumer_Products,42,0.028751845970708345,Sector
+Cooper,Unassigned,10,0.2642622915393582,Sector
+Cooper,Communication,0,0.22270339500938663,Sector
+Cooper,Trade,3,0.02471943745557359,Sector
+Cooper,Business_Services,80,0.3365788047278935,Sector
+Cooper,Business_Products,56,0.35767256307683204,Sector
+Cooper,Construction,61,0.3062798936449882,Sector
+Cooper,Services,79,0.6184556935641985,Sector
+Cooper,Mining,10,0.2169885280203132,Sector
+Cooper,Health_Care,32,0.7910723529197238,Sector
+Cooper,EnergyExpL_Prod,26,0.1769407116909656,Sector
+Cooper,Utilities,25,0.48385273504005055,Sector

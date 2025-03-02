@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Trento,747,0.5849296073682708,Overall
+Trento,HiTech,9,0.6307687201514839,Sector
+Trento,Agriculture,61,0.46327476022642833,Sector
+Trento,Transportation,98,0.30133017689908603,Sector
+Trento,Consumer_Products,92,0.9921752960282046,Sector
+Trento,Unassigned,59,0.8789319167388424,Sector
+Trento,Communication,62,0.7537659769866865,Sector
+Trento,Trade,43,0.7223494604800624,Sector
+Trento,Business_Services,11,0.10859483636208256,Sector
+Trento,Business_Products,58,0.0995393326390599,Sector
+Trento,Construction,19,0.5298105256349833,Sector
+Trento,Services,56,0.8425255254850077,Sector
+Trento,Mining,1,0.8473381601444234,Sector
+Trento,Health_Care,35,0.6919038568663669,Sector
+Trento,EnergyExpL_Prod,96,0.7119172295050672,Sector
+Trento,Utilities,47,0.19971833637627956,Sector

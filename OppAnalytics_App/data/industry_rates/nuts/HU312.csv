@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Heves,653,0.4811811655876671,Overall
+Heves,HiTech,50,0.25641982405355424,Sector
+Heves,Agriculture,64,0.48564028692392125,Sector
+Heves,Transportation,46,0.3727288128273063,Sector
+Heves,Consumer_Products,8,0.05310474132109022,Sector
+Heves,Unassigned,16,0.0929058782725386,Sector
+Heves,Communication,87,0.021641739165091378,Sector
+Heves,Trade,8,0.98923870161387,Sector
+Heves,Business_Services,5,0.4396930876288242,Sector
+Heves,Business_Products,68,0.7322016269959202,Sector
+Heves,Construction,72,0.7361776095055331,Sector
+Heves,Services,92,0.6081390419977564,Sector
+Heves,Mining,12,0.4790060255984955,Sector
+Heves,Health_Care,27,0.8381448089326222,Sector
+Heves,EnergyExpL_Prod,92,0.20219946107973685,Sector
+Heves,Utilities,6,0.9104758378987461,Sector

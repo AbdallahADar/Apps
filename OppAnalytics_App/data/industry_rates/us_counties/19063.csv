@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Emmet,793,0.5879683216642522,Overall
+Emmet,HiTech,81,0.27069054477623855,Sector
+Emmet,Agriculture,2,0.7643748648864855,Sector
+Emmet,Transportation,33,0.41237675868844303,Sector
+Emmet,Consumer_Products,86,0.938216957416758,Sector
+Emmet,Unassigned,86,0.5006892974404867,Sector
+Emmet,Communication,34,0.540344028553892,Sector
+Emmet,Trade,65,0.004829808670325342,Sector
+Emmet,Business_Services,54,0.8616613693507225,Sector
+Emmet,Business_Products,12,0.6222892996523299,Sector
+Emmet,Construction,94,0.9223979789690653,Sector
+Emmet,Services,5,0.958403819111256,Sector
+Emmet,Mining,89,0.7296539025429882,Sector
+Emmet,Health_Care,14,0.4237798191767679,Sector
+Emmet,EnergyExpL_Prod,79,0.1290117952904426,Sector
+Emmet,Utilities,59,0.7408045804375816,Sector

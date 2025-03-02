@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vechta,722,0.44814193128125485,Overall
+Vechta,HiTech,19,0.5031790752586734,Sector
+Vechta,Agriculture,53,0.2642416402710055,Sector
+Vechta,Transportation,95,0.2972723754180877,Sector
+Vechta,Consumer_Products,32,0.07892567247989402,Sector
+Vechta,Unassigned,41,0.8851094252142326,Sector
+Vechta,Communication,62,0.6464574932909498,Sector
+Vechta,Trade,98,0.6459484788866527,Sector
+Vechta,Business_Services,19,0.7453515225767298,Sector
+Vechta,Business_Products,44,0.6892017794638302,Sector
+Vechta,Construction,59,0.24384685077652757,Sector
+Vechta,Services,91,0.027038557008881248,Sector
+Vechta,Mining,47,0.2606394937836547,Sector
+Vechta,Health_Care,53,0.661887596945789,Sector
+Vechta,EnergyExpL_Prod,2,0.41296957843390314,Sector
+Vechta,Utilities,7,0.3600594294100129,Sector

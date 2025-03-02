@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Onslow,915,0.4823638200569406,Overall
+Onslow,HiTech,96,0.66906911481124,Sector
+Onslow,Agriculture,49,0.6869684940210912,Sector
+Onslow,Transportation,66,0.4182466117254213,Sector
+Onslow,Consumer_Products,90,0.8382769435876221,Sector
+Onslow,Unassigned,32,0.3760173364223339,Sector
+Onslow,Communication,83,0.33325540577186064,Sector
+Onslow,Trade,78,0.16872817956384956,Sector
+Onslow,Business_Services,18,0.7964293580305706,Sector
+Onslow,Business_Products,59,0.380265997419559,Sector
+Onslow,Construction,17,0.057592327237125485,Sector
+Onslow,Services,74,0.14877699734512562,Sector
+Onslow,Mining,94,0.6347651983288228,Sector
+Onslow,Health_Care,88,0.6675105372849004,Sector
+Onslow,EnergyExpL_Prod,38,0.8836536300151294,Sector
+Onslow,Utilities,33,0.17590116928945843,Sector

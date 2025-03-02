@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Beiras e Serra da Estrela,777,0.46671910144340795,Overall
+Beiras e Serra da Estrela,HiTech,22,0.8127583754945852,Sector
+Beiras e Serra da Estrela,Agriculture,95,0.575397426391547,Sector
+Beiras e Serra da Estrela,Transportation,94,0.1016349773777564,Sector
+Beiras e Serra da Estrela,Consumer_Products,40,0.050387594496194676,Sector
+Beiras e Serra da Estrela,Unassigned,59,0.2111877109484689,Sector
+Beiras e Serra da Estrela,Communication,37,0.21187625815267253,Sector
+Beiras e Serra da Estrela,Trade,59,0.1535020450222806,Sector
+Beiras e Serra da Estrela,Business_Services,89,0.9718105274506417,Sector
+Beiras e Serra da Estrela,Business_Products,15,0.22727493749455152,Sector
+Beiras e Serra da Estrela,Construction,35,0.6770449307850614,Sector
+Beiras e Serra da Estrela,Services,26,0.10891719115040543,Sector
+Beiras e Serra da Estrela,Mining,47,0.7442212030762154,Sector
+Beiras e Serra da Estrela,Health_Care,7,0.8897517535512043,Sector
+Beiras e Serra da Estrela,EnergyExpL_Prod,95,0.4103806400929233,Sector
+Beiras e Serra da Estrela,Utilities,57,0.8546409501666116,Sector

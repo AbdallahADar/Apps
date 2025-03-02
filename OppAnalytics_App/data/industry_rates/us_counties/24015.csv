@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cecil,951,0.5162660980231466,Overall
+Cecil,HiTech,37,0.9856488553742718,Sector
+Cecil,Agriculture,94,0.06524453382571505,Sector
+Cecil,Transportation,18,0.5821667785309204,Sector
+Cecil,Consumer_Products,8,0.957802400491155,Sector
+Cecil,Unassigned,53,0.5357733009799178,Sector
+Cecil,Communication,60,0.9323033968175369,Sector
+Cecil,Trade,5,0.1314613745848654,Sector
+Cecil,Business_Services,98,0.166536426156633,Sector
+Cecil,Business_Products,65,0.21655642625685956,Sector
+Cecil,Construction,30,0.08483761621150476,Sector
+Cecil,Services,97,0.992352352004184,Sector
+Cecil,Mining,95,0.3142580577753348,Sector
+Cecil,Health_Care,94,0.5448797077322486,Sector
+Cecil,EnergyExpL_Prod,98,0.9374926271154058,Sector
+Cecil,Utilities,99,0.29667761649064706,Sector

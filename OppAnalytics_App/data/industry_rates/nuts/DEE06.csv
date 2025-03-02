@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jerichower Land,683,0.553250383417958,Overall
+Jerichower Land,HiTech,70,0.4417447812764952,Sector
+Jerichower Land,Agriculture,33,0.4471774397881638,Sector
+Jerichower Land,Transportation,64,0.6970480583414389,Sector
+Jerichower Land,Consumer_Products,41,0.38237254952866795,Sector
+Jerichower Land,Unassigned,3,0.2166028283885475,Sector
+Jerichower Land,Communication,60,0.8816711479740669,Sector
+Jerichower Land,Trade,72,0.5251360648918758,Sector
+Jerichower Land,Business_Services,54,0.6633231717387791,Sector
+Jerichower Land,Business_Products,64,0.966110468752237,Sector
+Jerichower Land,Construction,21,0.8447531180304676,Sector
+Jerichower Land,Services,52,0.1555945499565894,Sector
+Jerichower Land,Mining,34,0.6719909142094925,Sector
+Jerichower Land,Health_Care,60,0.7876739025662884,Sector
+Jerichower Land,EnergyExpL_Prod,44,0.3202627253032886,Sector
+Jerichower Land,Utilities,11,0.29729403052297154,Sector

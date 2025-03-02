@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Klamath,703,0.4403143485273328,Overall
+Klamath,HiTech,22,0.8574708551909065,Sector
+Klamath,Agriculture,54,0.1737451418585868,Sector
+Klamath,Transportation,33,0.2580623945558924,Sector
+Klamath,Consumer_Products,95,0.9055649882132822,Sector
+Klamath,Unassigned,57,0.30723739987607845,Sector
+Klamath,Communication,33,0.6973351354120458,Sector
+Klamath,Trade,24,0.077374580844639,Sector
+Klamath,Business_Services,99,0.06724546722355262,Sector
+Klamath,Business_Products,4,0.9690839030978761,Sector
+Klamath,Construction,25,0.41318626852675866,Sector
+Klamath,Services,91,0.4836289361922045,Sector
+Klamath,Mining,35,0.6936509075146873,Sector
+Klamath,Health_Care,33,0.05053601302208388,Sector
+Klamath,EnergyExpL_Prod,69,0.17626590360638172,Sector
+Klamath,Utilities,29,0.47432733277501604,Sector

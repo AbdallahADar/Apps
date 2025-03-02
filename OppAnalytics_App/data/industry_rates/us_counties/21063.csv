@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Elliott,1006,0.40455138467921875,Overall
+Elliott,HiTech,30,0.9352034762070138,Sector
+Elliott,Agriculture,76,0.07298304144019818,Sector
+Elliott,Transportation,92,0.7332467381129274,Sector
+Elliott,Consumer_Products,84,0.092169974045755,Sector
+Elliott,Unassigned,43,0.3111874712662791,Sector
+Elliott,Communication,1,0.6147371664760785,Sector
+Elliott,Trade,95,0.3155392735761864,Sector
+Elliott,Business_Services,63,0.7316607264078682,Sector
+Elliott,Business_Products,44,0.23380061484294024,Sector
+Elliott,Construction,58,0.1473222687196044,Sector
+Elliott,Services,90,0.7080402749281175,Sector
+Elliott,Mining,88,0.7768267226422748,Sector
+Elliott,Health_Care,91,0.17384977551293201,Sector
+Elliott,EnergyExpL_Prod,73,0.013420292588803395,Sector
+Elliott,Utilities,78,0.2082829534213012,Sector

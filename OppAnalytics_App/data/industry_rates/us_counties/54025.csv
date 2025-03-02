@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Greenbrier,895,0.4859917077235922,Overall
+Greenbrier,HiTech,78,0.3813865030134379,Sector
+Greenbrier,Agriculture,70,0.6259512622492439,Sector
+Greenbrier,Transportation,58,0.6962202334010699,Sector
+Greenbrier,Consumer_Products,93,0.29979085193034105,Sector
+Greenbrier,Unassigned,67,0.31507466085509794,Sector
+Greenbrier,Communication,18,0.8653419585711307,Sector
+Greenbrier,Trade,56,0.8062956480629953,Sector
+Greenbrier,Business_Services,97,0.1102275540944897,Sector
+Greenbrier,Business_Products,93,0.26017006717913016,Sector
+Greenbrier,Construction,19,0.345765185534594,Sector
+Greenbrier,Services,82,0.7562012106241913,Sector
+Greenbrier,Mining,48,0.1543030516662317,Sector
+Greenbrier,Health_Care,49,0.5031340221717673,Sector
+Greenbrier,EnergyExpL_Prod,27,0.18742576635659236,Sector
+Greenbrier,Utilities,40,0.9825876401435687,Sector

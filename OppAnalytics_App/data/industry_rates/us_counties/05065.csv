@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Izard,761,0.5815416297451237,Overall
+Izard,HiTech,24,0.4216444601174747,Sector
+Izard,Agriculture,51,0.9555842937965439,Sector
+Izard,Transportation,2,0.2468934624637652,Sector
+Izard,Consumer_Products,93,0.4777607912843047,Sector
+Izard,Unassigned,14,0.9564827142674253,Sector
+Izard,Communication,55,0.9277049375442695,Sector
+Izard,Trade,80,0.07011366421377163,Sector
+Izard,Business_Services,83,0.8530397658506875,Sector
+Izard,Business_Products,54,0.9075195480802635,Sector
+Izard,Construction,13,0.4349215068561454,Sector
+Izard,Services,76,0.5923239495076307,Sector
+Izard,Mining,39,0.008543283903968968,Sector
+Izard,Health_Care,99,0.6846003711064287,Sector
+Izard,EnergyExpL_Prod,28,0.4076482908654606,Sector
+Izard,Utilities,50,0.7783434063187148,Sector

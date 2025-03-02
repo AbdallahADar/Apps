@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Belluno,630,0.4030168812223758,Overall
+Belluno,HiTech,2,0.6551540832177946,Sector
+Belluno,Agriculture,97,0.35748923966621504,Sector
+Belluno,Transportation,67,0.3681610373812054,Sector
+Belluno,Consumer_Products,86,0.5810178794216746,Sector
+Belluno,Unassigned,59,0.009007318735370418,Sector
+Belluno,Communication,62,0.11649245505684314,Sector
+Belluno,Trade,36,0.5989512791202094,Sector
+Belluno,Business_Services,30,0.7548066579894976,Sector
+Belluno,Business_Products,45,0.2136336963592077,Sector
+Belluno,Construction,16,0.30851759545902036,Sector
+Belluno,Services,46,0.6741347585319817,Sector
+Belluno,Mining,20,0.1865840640427856,Sector
+Belluno,Health_Care,41,0.7809079707466623,Sector
+Belluno,EnergyExpL_Prod,22,0.14042938161758867,Sector
+Belluno,Utilities,1,0.29996580098958114,Sector

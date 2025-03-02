@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pontotoc,641,0.49603068680930507,Overall
+Pontotoc,HiTech,16,0.3703201279568864,Sector
+Pontotoc,Agriculture,9,0.520265866417469,Sector
+Pontotoc,Transportation,17,0.5567562534762682,Sector
+Pontotoc,Consumer_Products,31,0.7365544117680854,Sector
+Pontotoc,Unassigned,51,0.9428344220659575,Sector
+Pontotoc,Communication,35,0.6389481629239412,Sector
+Pontotoc,Trade,18,0.036729194359339856,Sector
+Pontotoc,Business_Services,93,0.9469220257459553,Sector
+Pontotoc,Business_Products,43,0.3020164515056242,Sector
+Pontotoc,Construction,54,0.029690489935203956,Sector
+Pontotoc,Services,83,0.6300304675545378,Sector
+Pontotoc,Mining,39,0.010293289764614633,Sector
+Pontotoc,Health_Care,13,0.22230044750815303,Sector
+Pontotoc,EnergyExpL_Prod,44,0.9389699878286513,Sector
+Pontotoc,Utilities,95,0.5578287033288886,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Switzerland,788,0.49105117857883207,Overall
+Switzerland,HiTech,58,0.0912736119686055,Sector
+Switzerland,Agriculture,34,0.271676249134401,Sector
+Switzerland,Transportation,8,0.18380827740626715,Sector
+Switzerland,Consumer_Products,53,0.8777752126177556,Sector
+Switzerland,Unassigned,45,0.6366692012647874,Sector
+Switzerland,Communication,33,0.17086975993005216,Sector
+Switzerland,Trade,60,0.4403936777033617,Sector
+Switzerland,Business_Services,96,0.3380325795377366,Sector
+Switzerland,Business_Products,54,0.3444335868799935,Sector
+Switzerland,Construction,43,0.5944981731879955,Sector
+Switzerland,Services,82,0.6592394921141617,Sector
+Switzerland,Mining,39,0.7684172912937629,Sector
+Switzerland,Health_Care,68,0.6637388315000523,Sector
+Switzerland,EnergyExpL_Prod,19,0.49901190430725184,Sector
+Switzerland,Utilities,96,0.8259298298362963,Sector

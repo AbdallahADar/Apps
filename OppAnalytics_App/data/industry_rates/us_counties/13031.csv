@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bulloch,720,0.4260555262479034,Overall
+Bulloch,HiTech,85,0.6652360990760896,Sector
+Bulloch,Agriculture,47,0.7567164793392008,Sector
+Bulloch,Transportation,22,0.5648005248462579,Sector
+Bulloch,Consumer_Products,86,0.355100171935408,Sector
+Bulloch,Unassigned,67,0.22958619735171037,Sector
+Bulloch,Communication,86,0.4520796965046803,Sector
+Bulloch,Trade,65,0.29660883295280016,Sector
+Bulloch,Business_Services,27,0.16051652801571425,Sector
+Bulloch,Business_Products,60,0.38696536246508373,Sector
+Bulloch,Construction,30,0.33002137582371893,Sector
+Bulloch,Services,58,0.4516714963550048,Sector
+Bulloch,Mining,44,0.6493829066419494,Sector
+Bulloch,Health_Care,6,0.5208847823499424,Sector
+Bulloch,EnergyExpL_Prod,23,0.5410511607014008,Sector
+Bulloch,Utilities,14,0.030211279359589116,Sector

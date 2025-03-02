@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Newton,808,0.3281490232125668,Overall
+Newton,HiTech,46,0.13759509304538053,Sector
+Newton,Agriculture,97,0.35255206408070194,Sector
+Newton,Transportation,55,0.4885774342482735,Sector
+Newton,Consumer_Products,79,0.7830520380301597,Sector
+Newton,Unassigned,23,0.5438024413126337,Sector
+Newton,Communication,45,0.11304542266748385,Sector
+Newton,Trade,19,0.4387959769038261,Sector
+Newton,Business_Services,30,0.22575101907985573,Sector
+Newton,Business_Products,80,0.1799820350973017,Sector
+Newton,Construction,84,0.9460297796343644,Sector
+Newton,Services,14,0.019720223762610067,Sector
+Newton,Mining,52,0.07079394262690764,Sector
+Newton,Health_Care,41,0.5379337740503077,Sector
+Newton,EnergyExpL_Prod,45,0.022203660820897086,Sector
+Newton,Utilities,98,0.06240044282779844,Sector

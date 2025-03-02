@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Waukesha,763,0.4672241516735861,Overall
+Waukesha,HiTech,76,0.40189701606395645,Sector
+Waukesha,Agriculture,0,0.2768574923635265,Sector
+Waukesha,Transportation,88,0.22809114785105,Sector
+Waukesha,Consumer_Products,85,0.06313339303619381,Sector
+Waukesha,Unassigned,80,0.920005917212582,Sector
+Waukesha,Communication,91,0.19200623778312698,Sector
+Waukesha,Trade,23,0.9896437863940384,Sector
+Waukesha,Business_Services,37,0.17686949245691597,Sector
+Waukesha,Business_Products,9,0.6323532190475949,Sector
+Waukesha,Construction,20,0.9126422854364645,Sector
+Waukesha,Services,63,0.28022197668225257,Sector
+Waukesha,Mining,22,0.8537565039680984,Sector
+Waukesha,Health_Care,55,0.4260804627509539,Sector
+Waukesha,EnergyExpL_Prod,45,0.645752419963529,Sector
+Waukesha,Utilities,69,0.009050924093508939,Sector

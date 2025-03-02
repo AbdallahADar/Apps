@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pordenone,799,0.4335765705082905,Overall
+Pordenone,HiTech,41,0.4378745117588275,Sector
+Pordenone,Agriculture,87,0.3044042141259946,Sector
+Pordenone,Transportation,97,0.10645319966091205,Sector
+Pordenone,Consumer_Products,56,0.17779592067898253,Sector
+Pordenone,Unassigned,35,0.058289758612937725,Sector
+Pordenone,Communication,38,0.41145780164999923,Sector
+Pordenone,Trade,26,0.9667361208100962,Sector
+Pordenone,Business_Services,68,0.9119233797500567,Sector
+Pordenone,Business_Products,81,0.8951286007832453,Sector
+Pordenone,Construction,12,0.8450257746804425,Sector
+Pordenone,Services,85,0.11336959316455397,Sector
+Pordenone,Mining,79,0.4179175060125686,Sector
+Pordenone,Health_Care,27,0.3946955657148671,Sector
+Pordenone,EnergyExpL_Prod,48,0.29936213939723444,Sector
+Pordenone,Utilities,19,0.1632144708236397,Sector

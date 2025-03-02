@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,İstanbul,654,0.5076655828067016,Overall
+İstanbul,HiTech,53,0.454716251626604,Sector
+İstanbul,Agriculture,32,0.9317742726080702,Sector
+İstanbul,Transportation,59,0.4794650282015853,Sector
+İstanbul,Consumer_Products,88,0.7482889433419344,Sector
+İstanbul,Unassigned,9,0.32731547784972115,Sector
+İstanbul,Communication,43,0.21599773596821947,Sector
+İstanbul,Trade,60,0.37395610103688826,Sector
+İstanbul,Business_Services,9,0.23996145963945448,Sector
+İstanbul,Business_Products,10,0.5755781249481134,Sector
+İstanbul,Construction,92,0.85193766612241,Sector
+İstanbul,Services,26,0.7008450670238676,Sector
+İstanbul,Mining,96,0.40693805500735036,Sector
+İstanbul,Health_Care,8,0.6979499555633618,Sector
+İstanbul,EnergyExpL_Prod,58,0.07510942984406055,Sector
+İstanbul,Utilities,11,0.5351501733188838,Sector

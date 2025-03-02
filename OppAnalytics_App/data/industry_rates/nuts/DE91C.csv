@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Göttingen,646,0.5934556839374813,Overall
+Göttingen,HiTech,14,0.9657603960920962,Sector
+Göttingen,Agriculture,86,0.3641031404445013,Sector
+Göttingen,Transportation,17,0.9546651564991105,Sector
+Göttingen,Consumer_Products,21,0.3950933393840389,Sector
+Göttingen,Unassigned,9,0.3548341817636975,Sector
+Göttingen,Communication,61,0.3859014380866286,Sector
+Göttingen,Trade,5,0.8842373327585615,Sector
+Göttingen,Business_Services,91,0.5632377651700878,Sector
+Göttingen,Business_Products,4,0.10105787166324898,Sector
+Göttingen,Construction,40,0.899895583761067,Sector
+Göttingen,Services,16,0.7120553656207521,Sector
+Göttingen,Mining,55,0.737151720524974,Sector
+Göttingen,Health_Care,59,0.5952469829883283,Sector
+Göttingen,EnergyExpL_Prod,85,0.2154492088225829,Sector
+Göttingen,Utilities,83,0.7731457754825438,Sector

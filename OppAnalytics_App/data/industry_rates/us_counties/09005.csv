@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Litchfield,655,0.6200055802703592,Overall
+Litchfield,HiTech,61,0.43148376386225507,Sector
+Litchfield,Agriculture,18,0.6884536326092118,Sector
+Litchfield,Transportation,42,0.6897175807351794,Sector
+Litchfield,Consumer_Products,92,0.32379503942925736,Sector
+Litchfield,Unassigned,26,0.6472863677290984,Sector
+Litchfield,Communication,71,0.4508892833660272,Sector
+Litchfield,Trade,19,0.8477011421782084,Sector
+Litchfield,Business_Services,11,0.4276893374415959,Sector
+Litchfield,Business_Products,4,0.5203312803259192,Sector
+Litchfield,Construction,11,0.5346383892287656,Sector
+Litchfield,Services,89,0.6602103650719549,Sector
+Litchfield,Mining,5,0.951087091291437,Sector
+Litchfield,Health_Care,86,0.5553339327980245,Sector
+Litchfield,EnergyExpL_Prod,96,0.8676340161271718,Sector
+Litchfield,Utilities,24,0.7038324818612824,Sector

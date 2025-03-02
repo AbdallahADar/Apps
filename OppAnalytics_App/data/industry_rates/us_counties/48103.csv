@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Crane,697,0.4474937551840011,Overall
+Crane,HiTech,18,0.34675555569239247,Sector
+Crane,Agriculture,29,0.4311473717973059,Sector
+Crane,Transportation,23,0.05774361049140331,Sector
+Crane,Consumer_Products,59,0.5959640785554483,Sector
+Crane,Unassigned,59,0.29649805008881225,Sector
+Crane,Communication,74,0.05460445745313036,Sector
+Crane,Trade,63,0.5420351153687195,Sector
+Crane,Business_Services,59,0.4491328467219291,Sector
+Crane,Business_Products,11,0.20431187261171435,Sector
+Crane,Construction,33,0.9335960837843917,Sector
+Crane,Services,8,0.7689502066578929,Sector
+Crane,Mining,93,0.3231121334204001,Sector
+Crane,Health_Care,22,0.9579749038797035,Sector
+Crane,EnergyExpL_Prod,59,0.39590839499878727,Sector
+Crane,Utilities,87,0.35467164623798564,Sector

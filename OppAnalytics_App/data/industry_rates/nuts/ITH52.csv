@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Parma,812,0.5672527397827046,Overall
+Parma,HiTech,25,0.0909401843743628,Sector
+Parma,Agriculture,95,0.3408250632003653,Sector
+Parma,Transportation,45,0.1794398119987043,Sector
+Parma,Consumer_Products,55,0.2589727676742801,Sector
+Parma,Unassigned,21,0.9207635576378455,Sector
+Parma,Communication,85,0.456512355115704,Sector
+Parma,Trade,36,0.9478386851246058,Sector
+Parma,Business_Services,66,0.5308431225872756,Sector
+Parma,Business_Products,32,0.10116828510697085,Sector
+Parma,Construction,13,0.9791140734936805,Sector
+Parma,Services,91,0.8494130995759395,Sector
+Parma,Mining,82,0.44221723785525324,Sector
+Parma,Health_Care,11,0.6584841619516797,Sector
+Parma,EnergyExpL_Prod,57,0.8918428189503769,Sector
+Parma,Utilities,98,0.8604158720935261,Sector

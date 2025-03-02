@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Montana,667,0.4357553968088143,Overall
+Montana,HiTech,20,0.5347718394169277,Sector
+Montana,Agriculture,34,0.46957218244282617,Sector
+Montana,Transportation,30,0.06663090081636491,Sector
+Montana,Consumer_Products,66,0.2912906525130332,Sector
+Montana,Unassigned,32,0.3172701154074852,Sector
+Montana,Communication,76,0.02699684712082262,Sector
+Montana,Trade,2,0.5759146752016574,Sector
+Montana,Business_Services,64,0.5838572504997883,Sector
+Montana,Business_Products,26,0.6169383311037651,Sector
+Montana,Construction,48,0.7058848884490505,Sector
+Montana,Services,10,0.3305447630067564,Sector
+Montana,Mining,87,0.1036675840451633,Sector
+Montana,Health_Care,96,0.8298850833563641,Sector
+Montana,EnergyExpL_Prod,70,0.47292928697358527,Sector
+Montana,Utilities,6,0.610176551778625,Sector

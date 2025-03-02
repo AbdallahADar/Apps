@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Konstanz,757,0.4612449333877604,Overall
+Konstanz,HiTech,31,0.7660925505203734,Sector
+Konstanz,Agriculture,79,0.8121203509078094,Sector
+Konstanz,Transportation,77,0.023142765906121743,Sector
+Konstanz,Consumer_Products,22,0.45019794016612147,Sector
+Konstanz,Unassigned,64,0.48017849803132984,Sector
+Konstanz,Communication,96,0.3063035016858453,Sector
+Konstanz,Trade,60,0.026178948961267934,Sector
+Konstanz,Business_Services,90,0.4940329887485815,Sector
+Konstanz,Business_Products,1,0.8054081223781027,Sector
+Konstanz,Construction,70,0.4231765357677739,Sector
+Konstanz,Services,15,0.7886186635648244,Sector
+Konstanz,Mining,89,0.6079874524029834,Sector
+Konstanz,Health_Care,24,0.5548679524196135,Sector
+Konstanz,EnergyExpL_Prod,3,0.31885400311840484,Sector
+Konstanz,Utilities,36,0.06151372623725282,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kaufman,767,0.5143608944214848,Overall
+Kaufman,HiTech,67,0.08358576582900634,Sector
+Kaufman,Agriculture,66,0.7526493370360198,Sector
+Kaufman,Transportation,41,0.8463325941280044,Sector
+Kaufman,Consumer_Products,92,0.7868463014839318,Sector
+Kaufman,Unassigned,67,0.8587376749571644,Sector
+Kaufman,Communication,8,0.989445957384839,Sector
+Kaufman,Trade,58,0.5051387891151835,Sector
+Kaufman,Business_Services,0,0.16259048325477488,Sector
+Kaufman,Business_Products,70,0.16126920808924727,Sector
+Kaufman,Construction,89,0.12006118784650222,Sector
+Kaufman,Services,0,0.6999552690590534,Sector
+Kaufman,Mining,80,0.2810492254257655,Sector
+Kaufman,Health_Care,69,0.8147593852650161,Sector
+Kaufman,EnergyExpL_Prod,9,0.3021317718101032,Sector
+Kaufman,Utilities,51,0.3508604656376608,Sector

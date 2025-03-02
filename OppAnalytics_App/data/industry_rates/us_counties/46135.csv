@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yankton,750,0.4956582326504787,Overall
+Yankton,HiTech,32,0.47307393981087853,Sector
+Yankton,Agriculture,11,0.7562096240053737,Sector
+Yankton,Transportation,58,0.7085586501614842,Sector
+Yankton,Consumer_Products,96,0.6951358302140211,Sector
+Yankton,Unassigned,91,0.2282931326632851,Sector
+Yankton,Communication,20,0.6112430502359585,Sector
+Yankton,Trade,75,0.4366689463835687,Sector
+Yankton,Business_Services,59,0.1923702095130999,Sector
+Yankton,Business_Products,97,0.31137454536661957,Sector
+Yankton,Construction,71,0.4580417129261902,Sector
+Yankton,Services,27,0.04147899420065271,Sector
+Yankton,Mining,13,0.3137982071650447,Sector
+Yankton,Health_Care,56,0.7818434525175891,Sector
+Yankton,EnergyExpL_Prod,12,0.7913016418916885,Sector
+Yankton,Utilities,32,0.6354815527017261,Sector

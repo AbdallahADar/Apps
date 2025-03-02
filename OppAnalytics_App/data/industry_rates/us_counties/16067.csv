@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Minidoka,691,0.4304831515713726,Overall
+Minidoka,HiTech,11,0.49384599160148435,Sector
+Minidoka,Agriculture,52,0.7554415789157358,Sector
+Minidoka,Transportation,92,0.7723623935999528,Sector
+Minidoka,Consumer_Products,25,0.33325056910456397,Sector
+Minidoka,Unassigned,68,0.46726536211197656,Sector
+Minidoka,Communication,88,0.10136735629537608,Sector
+Minidoka,Trade,70,0.11021103462642567,Sector
+Minidoka,Business_Services,37,0.6377040135409092,Sector
+Minidoka,Business_Products,33,0.3265538228383652,Sector
+Minidoka,Construction,15,0.39724128611433696,Sector
+Minidoka,Services,74,0.3333512605113065,Sector
+Minidoka,Mining,48,0.059529556615047996,Sector
+Minidoka,Health_Care,10,0.5197464109530616,Sector
+Minidoka,EnergyExpL_Prod,22,0.30769168356165655,Sector
+Minidoka,Utilities,46,0.8416849531803909,Sector

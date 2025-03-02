@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ebersberg,471,0.709222073222435,Overall
+Ebersberg,HiTech,21,0.35965759665564345,Sector
+Ebersberg,Agriculture,37,0.8211888160581164,Sector
+Ebersberg,Transportation,46,0.9635463207359598,Sector
+Ebersberg,Consumer_Products,18,0.8666241465834521,Sector
+Ebersberg,Unassigned,22,0.8248376415123728,Sector
+Ebersberg,Communication,31,0.9100325476547768,Sector
+Ebersberg,Trade,8,0.7171983659690996,Sector
+Ebersberg,Business_Services,11,0.7705219919440541,Sector
+Ebersberg,Business_Products,13,0.15457962400860925,Sector
+Ebersberg,Construction,30,0.8358105196069824,Sector
+Ebersberg,Services,85,0.9604181202042139,Sector
+Ebersberg,Mining,22,0.6232256708986882,Sector
+Ebersberg,Health_Care,15,0.5210740922304534,Sector
+Ebersberg,EnergyExpL_Prod,67,0.6632277907602198,Sector
+Ebersberg,Utilities,45,0.646387853513886,Sector

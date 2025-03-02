@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mureş,649,0.5032243331490306,Overall
+Mureş,HiTech,29,0.7166959761221141,Sector
+Mureş,Agriculture,23,0.8740397937898543,Sector
+Mureş,Transportation,47,0.1431422180610069,Sector
+Mureş,Consumer_Products,1,0.9621204644029213,Sector
+Mureş,Unassigned,15,0.5703970742348452,Sector
+Mureş,Communication,70,0.573045354371929,Sector
+Mureş,Trade,54,0.12861559379289766,Sector
+Mureş,Business_Services,67,0.316812818276915,Sector
+Mureş,Business_Products,36,0.4808431743985756,Sector
+Mureş,Construction,64,0.5210639260773744,Sector
+Mureş,Services,86,0.2525894533736631,Sector
+Mureş,Mining,6,0.3372654534762648,Sector
+Mureş,Health_Care,54,0.9774217893394282,Sector
+Mureş,EnergyExpL_Prod,94,0.41491666314240516,Sector
+Mureş,Utilities,3,0.2793952443752624,Sector

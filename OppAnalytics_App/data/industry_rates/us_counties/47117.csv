@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Marshall,766,0.5355685119470973,Overall
+Marshall,HiTech,28,0.05227756747956447,Sector
+Marshall,Agriculture,12,0.8950764074466973,Sector
+Marshall,Transportation,80,0.8874349925640348,Sector
+Marshall,Consumer_Products,69,0.046569645130310144,Sector
+Marshall,Unassigned,10,0.6105973680837485,Sector
+Marshall,Communication,92,0.6389902255816149,Sector
+Marshall,Trade,85,0.3692470007368841,Sector
+Marshall,Business_Services,30,0.9282298362201373,Sector
+Marshall,Business_Products,58,0.2209035626480088,Sector
+Marshall,Construction,7,0.5607753793450359,Sector
+Marshall,Services,52,0.1845861695588923,Sector
+Marshall,Mining,61,0.3680426514800379,Sector
+Marshall,Health_Care,76,0.9300908777793753,Sector
+Marshall,EnergyExpL_Prod,80,0.6730763116712415,Sector
+Marshall,Utilities,26,0.6676296834808747,Sector

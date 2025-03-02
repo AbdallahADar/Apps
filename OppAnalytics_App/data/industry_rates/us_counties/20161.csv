@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Riley,660,0.49759202275017356,Overall
+Riley,HiTech,16,0.4434582373423437,Sector
+Riley,Agriculture,25,0.20175248879753094,Sector
+Riley,Transportation,51,0.3083634266115446,Sector
+Riley,Consumer_Products,86,0.8000942290675552,Sector
+Riley,Unassigned,38,0.8506054194275773,Sector
+Riley,Communication,1,0.273406536607554,Sector
+Riley,Trade,51,0.7242780302017622,Sector
+Riley,Business_Services,74,0.14099611000529533,Sector
+Riley,Business_Products,97,0.7484520417868743,Sector
+Riley,Construction,22,0.5367723941204102,Sector
+Riley,Services,83,0.10837642246762746,Sector
+Riley,Mining,5,0.3031116455705537,Sector
+Riley,Health_Care,55,0.2754072387127344,Sector
+Riley,EnergyExpL_Prod,29,0.9245781981984623,Sector
+Riley,Utilities,27,0.8242279223347773,Sector

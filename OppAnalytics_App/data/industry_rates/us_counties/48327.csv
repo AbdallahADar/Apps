@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Menard,770,0.4259871942107681,Overall
+Menard,HiTech,32,0.3490054835864346,Sector
+Menard,Agriculture,55,0.22007898090207134,Sector
+Menard,Transportation,12,0.9347870075864119,Sector
+Menard,Consumer_Products,55,0.21047145454598548,Sector
+Menard,Unassigned,24,0.6033063170510027,Sector
+Menard,Communication,76,0.155010982012321,Sector
+Menard,Trade,96,0.7457498010338657,Sector
+Menard,Business_Services,96,0.8291674321542543,Sector
+Menard,Business_Products,71,0.13496941885434066,Sector
+Menard,Construction,33,0.2571470373907855,Sector
+Menard,Services,69,0.3063248722455967,Sector
+Menard,Mining,6,0.5881762438022834,Sector
+Menard,Health_Care,43,0.4171800564546564,Sector
+Menard,EnergyExpL_Prod,51,0.39354288197463405,Sector
+Menard,Utilities,51,0.24488994356687832,Sector

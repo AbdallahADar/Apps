@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Duplin,897,0.4690164270876072,Overall
+Duplin,HiTech,64,0.22404607055185333,Sector
+Duplin,Agriculture,68,0.5222866315273051,Sector
+Duplin,Transportation,19,0.39126548638617864,Sector
+Duplin,Consumer_Products,30,0.6513673795667907,Sector
+Duplin,Unassigned,84,0.3799715626732769,Sector
+Duplin,Communication,84,0.8964852067206484,Sector
+Duplin,Trade,73,0.44912685855320433,Sector
+Duplin,Business_Services,79,0.6409025543174729,Sector
+Duplin,Business_Products,21,0.3716638413508503,Sector
+Duplin,Construction,85,0.7942485046319213,Sector
+Duplin,Services,60,0.2001969519857112,Sector
+Duplin,Mining,99,0.15716734574081714,Sector
+Duplin,Health_Care,62,0.6553942231386805,Sector
+Duplin,EnergyExpL_Prod,31,0.02506130615087454,Sector
+Duplin,Utilities,38,0.6760624830185226,Sector

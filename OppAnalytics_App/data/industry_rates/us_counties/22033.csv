@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,East Baton Rouge,792,0.5945520714748188,Overall
+East Baton Rouge,HiTech,49,0.7392595749309071,Sector
+East Baton Rouge,Agriculture,46,0.7261638170947882,Sector
+East Baton Rouge,Transportation,47,0.19746961401072016,Sector
+East Baton Rouge,Consumer_Products,99,0.5040880393074334,Sector
+East Baton Rouge,Unassigned,69,0.887079303844218,Sector
+East Baton Rouge,Communication,3,0.9556335252852969,Sector
+East Baton Rouge,Trade,49,0.85091227746883,Sector
+East Baton Rouge,Business_Services,75,0.26795549465523005,Sector
+East Baton Rouge,Business_Products,88,0.13252139730184687,Sector
+East Baton Rouge,Construction,90,0.7613965161904419,Sector
+East Baton Rouge,Services,87,0.7174982812826275,Sector
+East Baton Rouge,Mining,45,0.9594632063565306,Sector
+East Baton Rouge,Health_Care,40,0.573628790479343,Sector
+East Baton Rouge,EnergyExpL_Prod,3,0.17089547357332024,Sector
+East Baton Rouge,Utilities,2,0.47431576034074796,Sector

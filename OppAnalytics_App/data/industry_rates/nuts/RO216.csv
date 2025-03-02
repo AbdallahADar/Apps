@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vaslui,737,0.4936770966917903,Overall
+Vaslui,HiTech,18,0.5985186434751921,Sector
+Vaslui,Agriculture,26,0.27988278289784085,Sector
+Vaslui,Transportation,97,0.8877624922164234,Sector
+Vaslui,Consumer_Products,41,0.38145388824593274,Sector
+Vaslui,Unassigned,72,0.2999128931722551,Sector
+Vaslui,Communication,34,0.5172619377669029,Sector
+Vaslui,Trade,5,0.9351214699297318,Sector
+Vaslui,Business_Services,17,0.2619681668294903,Sector
+Vaslui,Business_Products,10,0.4027128745774464,Sector
+Vaslui,Construction,87,0.2933642963226677,Sector
+Vaslui,Services,40,0.7122304715540889,Sector
+Vaslui,Mining,59,0.584160480084979,Sector
+Vaslui,Health_Care,73,0.1135927900439152,Sector
+Vaslui,EnergyExpL_Prod,93,0.8810665478342721,Sector
+Vaslui,Utilities,65,0.256146715425716,Sector

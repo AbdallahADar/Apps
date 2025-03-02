@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fluvanna,782,0.7306331847100535,Overall
+Fluvanna,HiTech,96,0.4583285372459438,Sector
+Fluvanna,Agriculture,17,0.9703152671183051,Sector
+Fluvanna,Transportation,72,0.8491928898868093,Sector
+Fluvanna,Consumer_Products,24,0.9480797576238148,Sector
+Fluvanna,Unassigned,85,0.5729494174005049,Sector
+Fluvanna,Communication,9,0.49217228102637267,Sector
+Fluvanna,Trade,44,0.9061034448529091,Sector
+Fluvanna,Business_Services,40,0.776485799015991,Sector
+Fluvanna,Business_Products,32,0.9632789884988422,Sector
+Fluvanna,Construction,99,0.24319019666284147,Sector
+Fluvanna,Services,78,0.7626406157765875,Sector
+Fluvanna,Mining,87,0.5438280464186344,Sector
+Fluvanna,Health_Care,29,0.914335188744814,Sector
+Fluvanna,EnergyExpL_Prod,65,0.6272775194584532,Sector
+Fluvanna,Utilities,5,0.9313198209199801,Sector

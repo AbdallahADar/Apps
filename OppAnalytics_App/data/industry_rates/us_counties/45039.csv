@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fairfield,670,0.49157204273718974,Overall
+Fairfield,HiTech,21,0.1178934225201762,Sector
+Fairfield,Agriculture,56,0.642355184632151,Sector
+Fairfield,Transportation,94,0.8413101321672721,Sector
+Fairfield,Consumer_Products,93,0.3674060193012342,Sector
+Fairfield,Unassigned,77,0.6192834695778483,Sector
+Fairfield,Communication,4,0.36523976912599265,Sector
+Fairfield,Trade,59,0.35948970160106675,Sector
+Fairfield,Business_Services,8,0.9563783384741492,Sector
+Fairfield,Business_Products,70,0.7428237673555093,Sector
+Fairfield,Construction,19,0.7509508386584699,Sector
+Fairfield,Services,10,0.9100000867579651,Sector
+Fairfield,Mining,5,0.47163734396776535,Sector
+Fairfield,Health_Care,91,0.030003366303316015,Sector
+Fairfield,EnergyExpL_Prod,17,0.004782566929734333,Sector
+Fairfield,Utilities,46,0.19402663368519524,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bursa,943,0.48805687571679324,Overall
+Bursa,HiTech,71,0.2676081993086641,Sector
+Bursa,Agriculture,96,0.30642999829070305,Sector
+Bursa,Transportation,23,0.15360327931288664,Sector
+Bursa,Consumer_Products,38,0.9874292753851863,Sector
+Bursa,Unassigned,97,0.2215930276380198,Sector
+Bursa,Communication,76,0.2566489140303554,Sector
+Bursa,Trade,33,0.4830579511935075,Sector
+Bursa,Business_Services,99,0.9881287741854194,Sector
+Bursa,Business_Products,0,0.6681431639852902,Sector
+Bursa,Construction,58,0.27575856075369654,Sector
+Bursa,Services,90,0.6843576876128289,Sector
+Bursa,Mining,80,0.9007470764590796,Sector
+Bursa,Health_Care,90,0.08402867451087281,Sector
+Bursa,EnergyExpL_Prod,62,0.9285087686178428,Sector
+Bursa,Utilities,30,0.11480978446754453,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kosciusko,885,0.5297403018392568,Overall
+Kosciusko,HiTech,47,0.24241642860226809,Sector
+Kosciusko,Agriculture,75,0.48866088254975726,Sector
+Kosciusko,Transportation,11,0.2213917161401593,Sector
+Kosciusko,Consumer_Products,4,0.4008019967687446,Sector
+Kosciusko,Unassigned,85,0.13472479838890772,Sector
+Kosciusko,Communication,79,0.6880008481221541,Sector
+Kosciusko,Trade,58,0.2664978308115068,Sector
+Kosciusko,Business_Services,53,0.9814100523481241,Sector
+Kosciusko,Business_Products,89,0.8854103082278035,Sector
+Kosciusko,Construction,91,0.787859454101449,Sector
+Kosciusko,Services,55,0.3361782769222742,Sector
+Kosciusko,Mining,32,0.2824035194472365,Sector
+Kosciusko,Health_Care,93,0.8984472148338484,Sector
+Kosciusko,EnergyExpL_Prod,74,0.7277441077336485,Sector
+Kosciusko,Utilities,39,0.6041570925909705,Sector

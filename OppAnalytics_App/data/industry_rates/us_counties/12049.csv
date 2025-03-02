@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hardee,717,0.5432027365256068,Overall
+Hardee,HiTech,14,0.593960081686658,Sector
+Hardee,Agriculture,91,0.8405580844685315,Sector
+Hardee,Transportation,5,0.25190023303682163,Sector
+Hardee,Consumer_Products,25,0.6857688313707953,Sector
+Hardee,Unassigned,15,0.03651501720524153,Sector
+Hardee,Communication,98,0.7839418496183351,Sector
+Hardee,Trade,30,0.18794382513752994,Sector
+Hardee,Business_Services,56,0.2567282564093415,Sector
+Hardee,Business_Products,23,0.18557009735373153,Sector
+Hardee,Construction,68,0.942845773775602,Sector
+Hardee,Services,96,0.6747704065091485,Sector
+Hardee,Mining,58,0.9816730548246733,Sector
+Hardee,Health_Care,46,0.5544113568846933,Sector
+Hardee,EnergyExpL_Prod,23,0.7820952122810304,Sector
+Hardee,Utilities,69,0.3893589673219664,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Brown,729,0.5299237290819735,Overall
+Brown,HiTech,36,0.2271492360875096,Sector
+Brown,Agriculture,71,0.855669347893007,Sector
+Brown,Transportation,51,0.8118986230809715,Sector
+Brown,Consumer_Products,88,0.4741784193887082,Sector
+Brown,Unassigned,12,0.3169661542947707,Sector
+Brown,Communication,17,0.8188869214723381,Sector
+Brown,Trade,58,0.6524479085555452,Sector
+Brown,Business_Services,54,0.035337779991882146,Sector
+Brown,Business_Products,68,0.27517297809742824,Sector
+Brown,Construction,97,0.7232555092920473,Sector
+Brown,Services,60,0.4357391949641499,Sector
+Brown,Mining,50,0.5008115285362539,Sector
+Brown,Health_Care,38,0.7667431717459612,Sector
+Brown,EnergyExpL_Prod,20,0.1083550988740204,Sector
+Brown,Utilities,9,0.9462440639550099,Sector

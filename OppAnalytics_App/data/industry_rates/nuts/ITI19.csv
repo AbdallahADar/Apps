@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Siena,566,0.3959762680016524,Overall
+Siena,HiTech,6,0.6936358611671056,Sector
+Siena,Agriculture,33,0.27859609299326404,Sector
+Siena,Transportation,30,0.34493131492723683,Sector
+Siena,Consumer_Products,80,0.49907379209365355,Sector
+Siena,Unassigned,79,0.3369191006138078,Sector
+Siena,Communication,92,0.3178672442256266,Sector
+Siena,Trade,63,0.5825549343543738,Sector
+Siena,Business_Services,30,0.21022522674797828,Sector
+Siena,Business_Products,79,0.011340030665099032,Sector
+Siena,Construction,2,0.5423866171997913,Sector
+Siena,Services,11,0.35833145359829977,Sector
+Siena,Mining,21,0.9750189054312312,Sector
+Siena,Health_Care,6,0.33048193926621316,Sector
+Siena,EnergyExpL_Prod,8,0.07191657098965054,Sector
+Siena,Utilities,26,0.3863649357514555,Sector

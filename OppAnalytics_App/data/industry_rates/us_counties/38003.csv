@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Barnes,564,0.4546452838711156,Overall
+Barnes,HiTech,7,0.7088565138481003,Sector
+Barnes,Agriculture,28,0.5707382718751611,Sector
+Barnes,Transportation,58,0.45654412225412155,Sector
+Barnes,Consumer_Products,13,0.6751345532034906,Sector
+Barnes,Unassigned,22,0.12552723612026817,Sector
+Barnes,Communication,62,0.3387970300839661,Sector
+Barnes,Trade,44,0.18203661867391174,Sector
+Barnes,Business_Services,73,0.30580815795402194,Sector
+Barnes,Business_Products,14,0.8981652594935119,Sector
+Barnes,Construction,93,0.8417286060187695,Sector
+Barnes,Services,12,0.5670383458760561,Sector
+Barnes,Mining,9,0.07111011301924619,Sector
+Barnes,Health_Care,48,0.1288291837328861,Sector
+Barnes,EnergyExpL_Prod,48,0.8411023924119012,Sector
+Barnes,Utilities,33,0.10826285350132114,Sector

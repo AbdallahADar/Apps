@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Haute-Loire,855,0.5152356892522967,Overall
+Haute-Loire,HiTech,89,0.7654086807184378,Sector
+Haute-Loire,Agriculture,39,0.2816047806329929,Sector
+Haute-Loire,Transportation,71,0.021261384580404163,Sector
+Haute-Loire,Consumer_Products,35,0.2973701863174488,Sector
+Haute-Loire,Unassigned,2,0.6527286545435159,Sector
+Haute-Loire,Communication,78,0.8253810934115771,Sector
+Haute-Loire,Trade,94,0.6354317355510407,Sector
+Haute-Loire,Business_Services,86,0.2837660034721683,Sector
+Haute-Loire,Business_Products,40,0.1589111539657726,Sector
+Haute-Loire,Construction,86,0.46036969102839664,Sector
+Haute-Loire,Services,94,0.662332879227283,Sector
+Haute-Loire,Mining,36,0.892230684782036,Sector
+Haute-Loire,Health_Care,6,0.5628936725168321,Sector
+Haute-Loire,EnergyExpL_Prod,6,0.4295379955280155,Sector
+Haute-Loire,Utilities,93,0.7993067425085291,Sector

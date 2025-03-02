@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Szczecinecko-pyrzycki,533,0.45987820900292103,Overall
+Szczecinecko-pyrzycki,HiTech,7,0.1184701208536254,Sector
+Szczecinecko-pyrzycki,Agriculture,44,0.637039748535367,Sector
+Szczecinecko-pyrzycki,Transportation,39,0.8703355327908592,Sector
+Szczecinecko-pyrzycki,Consumer_Products,10,0.1612094812759849,Sector
+Szczecinecko-pyrzycki,Unassigned,30,0.6371099895649966,Sector
+Szczecinecko-pyrzycki,Communication,85,0.23334236949102172,Sector
+Szczecinecko-pyrzycki,Trade,30,0.6005786674799697,Sector
+Szczecinecko-pyrzycki,Business_Services,83,0.047627710828955894,Sector
+Szczecinecko-pyrzycki,Business_Products,40,0.16084781387768377,Sector
+Szczecinecko-pyrzycki,Construction,30,0.2844963550688875,Sector
+Szczecinecko-pyrzycki,Services,22,0.8387212305153,Sector
+Szczecinecko-pyrzycki,Mining,35,0.15219894779200638,Sector
+Szczecinecko-pyrzycki,Health_Care,37,0.4264612438942763,Sector
+Szczecinecko-pyrzycki,EnergyExpL_Prod,28,0.8845583537507646,Sector
+Szczecinecko-pyrzycki,Utilities,13,0.8451755693241161,Sector

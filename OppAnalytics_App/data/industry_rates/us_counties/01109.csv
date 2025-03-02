@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pike,628,0.5317357471465943,Overall
+Pike,HiTech,55,0.5422141744637942,Sector
+Pike,Agriculture,62,0.2482508118298674,Sector
+Pike,Transportation,2,0.6160263568203369,Sector
+Pike,Consumer_Products,66,0.9688580827589593,Sector
+Pike,Unassigned,42,0.004003071614323672,Sector
+Pike,Communication,50,0.8854767385215201,Sector
+Pike,Trade,10,0.7438434634336796,Sector
+Pike,Business_Services,38,0.7239340823896152,Sector
+Pike,Business_Products,25,0.4878394490534885,Sector
+Pike,Construction,83,0.9124990540810511,Sector
+Pike,Services,16,0.8104661224838213,Sector
+Pike,Mining,56,0.44292283620423123,Sector
+Pike,Health_Care,84,0.24797122493767487,Sector
+Pike,EnergyExpL_Prod,30,0.12278609926151485,Sector
+Pike,Utilities,9,0.21894463934503605,Sector

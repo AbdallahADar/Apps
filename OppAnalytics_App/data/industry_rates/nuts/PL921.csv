@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Radomski,706,0.4438831417643037,Overall
+Radomski,HiTech,57,0.34912060353054464,Sector
+Radomski,Agriculture,99,0.43727217803536356,Sector
+Radomski,Transportation,16,0.7852644099941675,Sector
+Radomski,Consumer_Products,55,0.33731486921566733,Sector
+Radomski,Unassigned,81,0.5066491836802006,Sector
+Radomski,Communication,44,0.46481103236846055,Sector
+Radomski,Trade,16,0.9571633220961071,Sector
+Radomski,Business_Services,68,0.2322575944383649,Sector
+Radomski,Business_Products,11,0.6887834071824579,Sector
+Radomski,Construction,64,0.42572242683517836,Sector
+Radomski,Services,69,0.7142741059640667,Sector
+Radomski,Mining,28,0.038681150617972615,Sector
+Radomski,Health_Care,3,0.6599345021834858,Sector
+Radomski,EnergyExpL_Prod,7,0.01745678312484622,Sector
+Radomski,Utilities,88,0.04354155719767272,Sector

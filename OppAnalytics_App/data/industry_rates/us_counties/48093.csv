@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Comanche,714,0.3297061912225955,Overall
+Comanche,HiTech,25,0.013991374659905187,Sector
+Comanche,Agriculture,59,0.19885508955739895,Sector
+Comanche,Transportation,95,0.19820616450284956,Sector
+Comanche,Consumer_Products,31,0.8829219267199752,Sector
+Comanche,Unassigned,85,0.09835078654312313,Sector
+Comanche,Communication,42,0.8501326800007176,Sector
+Comanche,Trade,56,0.07974277543224084,Sector
+Comanche,Business_Services,87,0.142743798791789,Sector
+Comanche,Business_Products,20,0.11704693390042065,Sector
+Comanche,Construction,40,0.5411228943422666,Sector
+Comanche,Services,63,0.12843705471739408,Sector
+Comanche,Mining,9,0.2400914803194486,Sector
+Comanche,Health_Care,18,0.7577352241745151,Sector
+Comanche,EnergyExpL_Prod,29,0.6493573905955551,Sector
+Comanche,Utilities,55,0.0468572940813321,Sector

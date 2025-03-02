@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Antalya,562,0.5112170051357006,Overall
+Antalya,HiTech,77,0.7603332273873081,Sector
+Antalya,Agriculture,59,0.5991640885292817,Sector
+Antalya,Transportation,5,0.013315814249652336,Sector
+Antalya,Consumer_Products,55,0.7709947615124453,Sector
+Antalya,Unassigned,72,0.9073100939498986,Sector
+Antalya,Communication,2,0.739580404441048,Sector
+Antalya,Trade,91,0.8612625545371624,Sector
+Antalya,Business_Services,47,0.07019963551182817,Sector
+Antalya,Business_Products,8,0.17228735504378134,Sector
+Antalya,Construction,36,0.6837054982192227,Sector
+Antalya,Services,29,0.9812662041403026,Sector
+Antalya,Mining,30,0.1978791892174655,Sector
+Antalya,Health_Care,32,0.214259671960917,Sector
+Antalya,EnergyExpL_Prod,8,0.21881427664416386,Sector
+Antalya,Utilities,11,0.47788230169103063,Sector

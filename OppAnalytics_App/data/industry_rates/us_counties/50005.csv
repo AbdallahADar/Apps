@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Caledonia,1018,0.601167343674199,Overall
+Caledonia,HiTech,61,0.6243402658626925,Sector
+Caledonia,Agriculture,47,0.9874491975759954,Sector
+Caledonia,Transportation,77,0.8291246604767323,Sector
+Caledonia,Consumer_Products,92,0.9712646435694107,Sector
+Caledonia,Unassigned,99,0.9220040839732683,Sector
+Caledonia,Communication,71,0.38149171661621284,Sector
+Caledonia,Trade,17,0.9633258637939557,Sector
+Caledonia,Business_Services,85,0.1775149138284141,Sector
+Caledonia,Business_Products,29,0.11571404509327432,Sector
+Caledonia,Construction,82,0.15966198255002528,Sector
+Caledonia,Services,30,0.532553362595761,Sector
+Caledonia,Mining,92,0.7870094682156579,Sector
+Caledonia,Health_Care,56,0.7731131144412305,Sector
+Caledonia,EnergyExpL_Prod,95,0.6258481187743413,Sector
+Caledonia,Utilities,85,0.1670947177460136,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cleburne,766,0.4301538541154014,Overall
+Cleburne,HiTech,37,0.04750399240387171,Sector
+Cleburne,Agriculture,57,0.545913706651552,Sector
+Cleburne,Transportation,69,0.09459655440042902,Sector
+Cleburne,Consumer_Products,48,0.2852302310429603,Sector
+Cleburne,Unassigned,44,0.35215886937960394,Sector
+Cleburne,Communication,29,0.12409931518613604,Sector
+Cleburne,Trade,52,0.19656341244840703,Sector
+Cleburne,Business_Services,64,0.4019425896775888,Sector
+Cleburne,Business_Products,87,0.5600997756923419,Sector
+Cleburne,Construction,88,0.8316764626371387,Sector
+Cleburne,Services,41,0.7297424867682821,Sector
+Cleburne,Mining,75,0.17975900929466637,Sector
+Cleburne,Health_Care,23,0.6109112207875372,Sector
+Cleburne,EnergyExpL_Prod,34,0.9780504002708595,Sector
+Cleburne,Utilities,18,0.5140597850896458,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hitchcock,601,0.49542442636171574,Overall
+Hitchcock,HiTech,62,0.6559941085226381,Sector
+Hitchcock,Agriculture,14,0.8227348526604484,Sector
+Hitchcock,Transportation,82,0.8839299539843126,Sector
+Hitchcock,Consumer_Products,67,0.2449465420423821,Sector
+Hitchcock,Unassigned,2,0.5641624213555709,Sector
+Hitchcock,Communication,74,0.3778418257285301,Sector
+Hitchcock,Trade,40,0.323511757734564,Sector
+Hitchcock,Business_Services,25,0.19332216019488213,Sector
+Hitchcock,Business_Products,74,0.8948165028127472,Sector
+Hitchcock,Construction,13,0.2931228634579611,Sector
+Hitchcock,Services,13,0.40763768515459375,Sector
+Hitchcock,Mining,14,0.22937868267109462,Sector
+Hitchcock,Health_Care,23,0.8314887205661673,Sector
+Hitchcock,EnergyExpL_Prod,84,0.6028101959428748,Sector
+Hitchcock,Utilities,14,0.105668122596969,Sector

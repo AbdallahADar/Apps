@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cremona,752,0.5172142391202725,Overall
+Cremona,HiTech,84,0.606435757543563,Sector
+Cremona,Agriculture,98,0.6558795830593203,Sector
+Cremona,Transportation,65,0.09535836660361197,Sector
+Cremona,Consumer_Products,4,0.8937251806712408,Sector
+Cremona,Unassigned,66,0.8973887961880239,Sector
+Cremona,Communication,84,0.1011630233093771,Sector
+Cremona,Trade,48,0.12329547381645867,Sector
+Cremona,Business_Services,54,0.5036858110231538,Sector
+Cremona,Business_Products,87,0.5258392975775054,Sector
+Cremona,Construction,12,0.6553957251252337,Sector
+Cremona,Services,77,0.5476007667629251,Sector
+Cremona,Mining,6,0.6560468623768697,Sector
+Cremona,Health_Care,7,0.7937616994269173,Sector
+Cremona,EnergyExpL_Prod,33,0.47171013713118004,Sector
+Cremona,Utilities,27,0.23092710618870615,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Agglomeratie ’s-Gravenhage,758,0.38181256062248436,Overall
+Agglomeratie ’s-Gravenhage,HiTech,32,0.922913674945489,Sector
+Agglomeratie ’s-Gravenhage,Agriculture,46,0.8638004600844787,Sector
+Agglomeratie ’s-Gravenhage,Transportation,68,0.33795442050098545,Sector
+Agglomeratie ’s-Gravenhage,Consumer_Products,88,0.5743005235581142,Sector
+Agglomeratie ’s-Gravenhage,Unassigned,43,0.047598817009983474,Sector
+Agglomeratie ’s-Gravenhage,Communication,56,0.7268670230957271,Sector
+Agglomeratie ’s-Gravenhage,Trade,48,0.34341630797999667,Sector
+Agglomeratie ’s-Gravenhage,Business_Services,65,0.057066724907550714,Sector
+Agglomeratie ’s-Gravenhage,Business_Products,68,0.10917393941864195,Sector
+Agglomeratie ’s-Gravenhage,Construction,47,0.37892407733865785,Sector
+Agglomeratie ’s-Gravenhage,Services,8,0.09480027011276382,Sector
+Agglomeratie ’s-Gravenhage,Mining,38,0.40908530629469897,Sector
+Agglomeratie ’s-Gravenhage,Health_Care,60,0.2036905342339752,Sector
+Agglomeratie ’s-Gravenhage,EnergyExpL_Prod,1,0.3112799008803355,Sector
+Agglomeratie ’s-Gravenhage,Utilities,90,0.3463164289758669,Sector

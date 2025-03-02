@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Las Marías,730,0.5942578288340169,Overall
+Las Marías,HiTech,44,0.8190029667867564,Sector
+Las Marías,Agriculture,5,0.6066753141866376,Sector
+Las Marías,Transportation,53,0.596902714758753,Sector
+Las Marías,Consumer_Products,13,0.9676958696697859,Sector
+Las Marías,Unassigned,6,0.39991911259755264,Sector
+Las Marías,Communication,74,0.4447443853137245,Sector
+Las Marías,Trade,8,0.3479650767796346,Sector
+Las Marías,Business_Services,67,0.569907909585269,Sector
+Las Marías,Business_Products,23,0.06735517865644802,Sector
+Las Marías,Construction,64,0.9784875530455828,Sector
+Las Marías,Services,59,0.31267146469478013,Sector
+Las Marías,Mining,98,0.5664376460745313,Sector
+Las Marías,Health_Care,68,0.7622805098986042,Sector
+Las Marías,EnergyExpL_Prod,57,0.9661620837353949,Sector
+Las Marías,Utilities,91,0.5076596467267992,Sector

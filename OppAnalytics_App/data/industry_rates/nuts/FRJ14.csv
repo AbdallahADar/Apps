@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lozère,772,0.5194377570183798,Overall
+Lozère,HiTech,15,0.04847958544337849,Sector
+Lozère,Agriculture,86,0.4421231137365623,Sector
+Lozère,Transportation,15,0.5002887878137907,Sector
+Lozère,Consumer_Products,72,0.7231566714662162,Sector
+Lozère,Unassigned,32,0.9123899078455809,Sector
+Lozère,Communication,87,0.29215880609672185,Sector
+Lozère,Trade,41,0.4509323084169541,Sector
+Lozère,Business_Services,59,0.8718876032264183,Sector
+Lozère,Business_Products,30,0.35830632057263867,Sector
+Lozère,Construction,12,0.9277393500659059,Sector
+Lozère,Services,84,0.3348941553600038,Sector
+Lozère,Mining,44,0.8050862019799716,Sector
+Lozère,Health_Care,94,0.4697312305384508,Sector
+Lozère,EnergyExpL_Prod,3,0.19877096458084242,Sector
+Lozère,Utilities,98,0.4556213481322616,Sector

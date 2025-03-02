@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Juniata,921,0.42536244456352545,Overall
+Juniata,HiTech,98,0.33159193162888656,Sector
+Juniata,Agriculture,56,0.40038544628495465,Sector
+Juniata,Transportation,31,0.846480415219693,Sector
+Juniata,Consumer_Products,53,0.6852772945931848,Sector
+Juniata,Unassigned,67,0.1323125288345538,Sector
+Juniata,Communication,83,0.24500957520236566,Sector
+Juniata,Trade,9,0.3812148443229407,Sector
+Juniata,Business_Services,80,0.6155651787093972,Sector
+Juniata,Business_Products,10,0.00860076166963375,Sector
+Juniata,Construction,58,0.1039252361711015,Sector
+Juniata,Services,80,0.6649918538940297,Sector
+Juniata,Mining,72,0.5986217196536489,Sector
+Juniata,Health_Care,81,0.29591447652461644,Sector
+Juniata,EnergyExpL_Prod,96,0.7351784034932421,Sector
+Juniata,Utilities,47,0.33536700225063354,Sector

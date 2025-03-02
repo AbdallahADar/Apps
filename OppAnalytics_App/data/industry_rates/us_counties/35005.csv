@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chaves,620,0.5383929456610196,Overall
+Chaves,HiTech,25,0.5647360501483185,Sector
+Chaves,Agriculture,39,0.29006319379038015,Sector
+Chaves,Transportation,50,0.46103273710675585,Sector
+Chaves,Consumer_Products,50,0.4030641845360057,Sector
+Chaves,Unassigned,87,0.5472178750858863,Sector
+Chaves,Communication,29,0.4339553731361818,Sector
+Chaves,Trade,40,0.7196076896386147,Sector
+Chaves,Business_Services,11,0.2041215620728818,Sector
+Chaves,Business_Products,44,0.3534164377976047,Sector
+Chaves,Construction,3,0.6000865021207792,Sector
+Chaves,Services,5,0.8701255666590301,Sector
+Chaves,Mining,96,0.227238665786485,Sector
+Chaves,Health_Care,77,0.679536615560479,Sector
+Chaves,EnergyExpL_Prod,33,0.8293366120506415,Sector
+Chaves,Utilities,31,0.8923551194252498,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ripley,679,0.4236055894841576,Overall
+Ripley,HiTech,12,0.046759305963428255,Sector
+Ripley,Agriculture,15,0.43157966502870415,Sector
+Ripley,Transportation,65,0.424029469283317,Sector
+Ripley,Consumer_Products,7,0.018000307804393212,Sector
+Ripley,Unassigned,97,0.8457330203212764,Sector
+Ripley,Communication,21,0.7180819740204358,Sector
+Ripley,Trade,16,0.020015554563897253,Sector
+Ripley,Business_Services,50,0.7477233006632349,Sector
+Ripley,Business_Products,84,0.41198841564112565,Sector
+Ripley,Construction,30,0.47966401179499074,Sector
+Ripley,Services,52,0.762540505506436,Sector
+Ripley,Mining,18,0.029912308957639633,Sector
+Ripley,Health_Care,86,0.4289157408876553,Sector
+Ripley,EnergyExpL_Prod,42,0.8992906343183694,Sector
+Ripley,Utilities,84,0.08984962750746006,Sector

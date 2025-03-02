@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Uintah,459,0.48485136309330584,Overall
+Uintah,HiTech,9,0.4982582321748751,Sector
+Uintah,Agriculture,21,0.3789040463705925,Sector
+Uintah,Transportation,38,0.07900842978197187,Sector
+Uintah,Consumer_Products,14,0.24982673067622285,Sector
+Uintah,Unassigned,51,0.9731718068205077,Sector
+Uintah,Communication,37,0.44156114948888103,Sector
+Uintah,Trade,57,0.25846838357643365,Sector
+Uintah,Business_Services,5,0.6292685638735062,Sector
+Uintah,Business_Products,29,0.32183300325719266,Sector
+Uintah,Construction,17,0.8328957407809978,Sector
+Uintah,Services,64,0.36807995176992314,Sector
+Uintah,Mining,3,0.5711512607148156,Sector
+Uintah,Health_Care,40,0.986760874234418,Sector
+Uintah,EnergyExpL_Prod,27,0.36851966889307364,Sector
+Uintah,Utilities,47,0.3150626039861766,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Würzburg, Kreisfreie Stadt",621,0.4961537472797194,Overall
+"Würzburg, Kreisfreie Stadt",HiTech,78,0.43637278405557844,Sector
+"Würzburg, Kreisfreie Stadt",Agriculture,13,0.5956748770662641,Sector
+"Würzburg, Kreisfreie Stadt",Transportation,7,0.9190248040661833,Sector
+"Würzburg, Kreisfreie Stadt",Consumer_Products,44,0.8597716527468598,Sector
+"Würzburg, Kreisfreie Stadt",Unassigned,50,0.1602301729000335,Sector
+"Würzburg, Kreisfreie Stadt",Communication,78,0.08153977999961304,Sector
+"Würzburg, Kreisfreie Stadt",Trade,98,0.2539906563862262,Sector
+"Würzburg, Kreisfreie Stadt",Business_Services,18,0.6566429768043318,Sector
+"Würzburg, Kreisfreie Stadt",Business_Products,4,0.7275603469331865,Sector
+"Würzburg, Kreisfreie Stadt",Construction,66,0.26836670946257346,Sector
+"Würzburg, Kreisfreie Stadt",Services,99,0.6007779813912466,Sector
+"Würzburg, Kreisfreie Stadt",Mining,7,0.13045345450022905,Sector
+"Würzburg, Kreisfreie Stadt",Health_Care,19,0.5244283006453966,Sector
+"Würzburg, Kreisfreie Stadt",EnergyExpL_Prod,31,0.8121960440288174,Sector
+"Würzburg, Kreisfreie Stadt",Utilities,9,0.41527566820925155,Sector

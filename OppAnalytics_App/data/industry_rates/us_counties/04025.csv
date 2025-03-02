@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yavapai,768,0.4888640190128105,Overall
+Yavapai,HiTech,20,0.7776650559210955,Sector
+Yavapai,Agriculture,88,0.9282722969198421,Sector
+Yavapai,Transportation,10,0.19256397795528124,Sector
+Yavapai,Consumer_Products,88,0.8548269542875158,Sector
+Yavapai,Unassigned,74,0.4097501140923935,Sector
+Yavapai,Communication,97,0.7279626067864117,Sector
+Yavapai,Trade,10,0.21187485938176798,Sector
+Yavapai,Business_Services,75,0.21470308507146407,Sector
+Yavapai,Business_Products,85,0.9890553338190459,Sector
+Yavapai,Construction,3,0.6120736202127903,Sector
+Yavapai,Services,14,0.07183258829256489,Sector
+Yavapai,Mining,55,0.13898209821153484,Sector
+Yavapai,Health_Care,59,0.3747638354284807,Sector
+Yavapai,EnergyExpL_Prod,73,0.5891902719894704,Sector
+Yavapai,Utilities,17,0.23944358682249955,Sector

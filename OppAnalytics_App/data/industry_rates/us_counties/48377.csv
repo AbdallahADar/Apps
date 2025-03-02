@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Presidio,760,0.5953783649347201,Overall
+Presidio,HiTech,69,0.1733367000399546,Sector
+Presidio,Agriculture,14,0.9782265472490912,Sector
+Presidio,Transportation,40,0.9836723098357392,Sector
+Presidio,Consumer_Products,56,0.32544407208327175,Sector
+Presidio,Unassigned,80,0.2209261036552831,Sector
+Presidio,Communication,56,0.2259141097046906,Sector
+Presidio,Trade,88,0.3424662997130298,Sector
+Presidio,Business_Services,30,0.7032935484480881,Sector
+Presidio,Business_Products,78,0.5488167400302401,Sector
+Presidio,Construction,83,0.3812963827055791,Sector
+Presidio,Services,5,0.6640705565301105,Sector
+Presidio,Mining,29,0.8845436877243648,Sector
+Presidio,Health_Care,31,0.7760869990449709,Sector
+Presidio,EnergyExpL_Prod,3,0.7279476502804113,Sector
+Presidio,Utilities,98,0.9946337669759759,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Leavenworth,926,0.4579335245753643,Overall
+Leavenworth,HiTech,45,0.4862536293237354,Sector
+Leavenworth,Agriculture,6,0.29266842096380397,Sector
+Leavenworth,Transportation,84,0.8935186076370094,Sector
+Leavenworth,Consumer_Products,77,0.23926298679164515,Sector
+Leavenworth,Unassigned,36,0.09353408907331273,Sector
+Leavenworth,Communication,51,0.18777267757224525,Sector
+Leavenworth,Trade,67,0.276244519967486,Sector
+Leavenworth,Business_Services,92,0.28310758173823536,Sector
+Leavenworth,Business_Products,97,0.42228124009296475,Sector
+Leavenworth,Construction,42,0.4850521793594488,Sector
+Leavenworth,Services,79,0.8097338727430998,Sector
+Leavenworth,Mining,95,0.9060940395785945,Sector
+Leavenworth,Health_Care,42,0.434761871124292,Sector
+Leavenworth,EnergyExpL_Prod,27,0.7984676934137643,Sector
+Leavenworth,Utilities,86,0.26024945925082854,Sector

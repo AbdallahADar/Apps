@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yambol,993,0.46569623750908645,Overall
+Yambol,HiTech,49,0.26989675552626824,Sector
+Yambol,Agriculture,92,0.45649111911790474,Sector
+Yambol,Transportation,79,0.6824767384447795,Sector
+Yambol,Consumer_Products,57,0.8641954238739045,Sector
+Yambol,Unassigned,25,0.48866222821354144,Sector
+Yambol,Communication,60,0.04539061260461463,Sector
+Yambol,Trade,94,0.951302879649744,Sector
+Yambol,Business_Services,88,0.7445386888434052,Sector
+Yambol,Business_Products,63,0.8448853031397865,Sector
+Yambol,Construction,24,0.14775705988181254,Sector
+Yambol,Services,85,0.030776245320332518,Sector
+Yambol,Mining,71,0.12219194177281512,Sector
+Yambol,Health_Care,94,0.278714212868849,Sector
+Yambol,EnergyExpL_Prod,89,0.11260789061985765,Sector
+Yambol,Utilities,23,0.9455564627586821,Sector

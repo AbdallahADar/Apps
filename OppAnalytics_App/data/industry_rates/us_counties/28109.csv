@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pearl River,790,0.5156346876155978,Overall
+Pearl River,HiTech,4,0.49115694312075175,Sector
+Pearl River,Agriculture,7,0.8664431227640341,Sector
+Pearl River,Transportation,68,0.1536826854525153,Sector
+Pearl River,Consumer_Products,89,0.854758498100119,Sector
+Pearl River,Unassigned,90,0.41119714493836024,Sector
+Pearl River,Communication,46,0.9983139352830642,Sector
+Pearl River,Trade,33,0.1115219102838142,Sector
+Pearl River,Business_Services,51,0.4417735789905862,Sector
+Pearl River,Business_Products,32,0.8751821898714747,Sector
+Pearl River,Construction,39,0.18307783055121807,Sector
+Pearl River,Services,85,0.550121848494719,Sector
+Pearl River,Mining,76,0.7245408373755133,Sector
+Pearl River,Health_Care,59,0.5886750001927638,Sector
+Pearl River,EnergyExpL_Prod,32,0.2636352517282643,Sector
+Pearl River,Utilities,79,0.2204395370867701,Sector

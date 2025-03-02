@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Guadalajara,820,0.4774848104303549,Overall
+Guadalajara,HiTech,90,0.7328530431417836,Sector
+Guadalajara,Agriculture,20,0.1470010176422687,Sector
+Guadalajara,Transportation,50,0.38027667192857884,Sector
+Guadalajara,Consumer_Products,86,0.9655372634086361,Sector
+Guadalajara,Unassigned,86,0.7923373340614743,Sector
+Guadalajara,Communication,88,0.5310539433252613,Sector
+Guadalajara,Trade,2,0.06008750995989298,Sector
+Guadalajara,Business_Services,49,0.5658855074171174,Sector
+Guadalajara,Business_Products,71,0.33024707572505796,Sector
+Guadalajara,Construction,4,0.5224139797715632,Sector
+Guadalajara,Services,22,0.9738367151692439,Sector
+Guadalajara,Mining,74,0.7086865183068288,Sector
+Guadalajara,Health_Care,30,0.27667929036054906,Sector
+Guadalajara,EnergyExpL_Prod,58,0.03787153702477852,Sector
+Guadalajara,Utilities,90,0.13750474921228772,Sector

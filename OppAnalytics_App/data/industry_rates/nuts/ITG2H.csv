@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sud Sardegna,669,0.5790570784974286,Overall
+Sud Sardegna,HiTech,36,0.6274256152699593,Sector
+Sud Sardegna,Agriculture,7,0.2550298792587903,Sector
+Sud Sardegna,Transportation,97,0.9233547506637939,Sector
+Sud Sardegna,Consumer_Products,59,0.8804052355930388,Sector
+Sud Sardegna,Unassigned,15,0.30357110395268505,Sector
+Sud Sardegna,Communication,84,0.41479716336344263,Sector
+Sud Sardegna,Trade,12,0.8345416663982287,Sector
+Sud Sardegna,Business_Services,26,0.21646135230933583,Sector
+Sud Sardegna,Business_Products,3,0.5164768602495121,Sector
+Sud Sardegna,Construction,71,0.4598601388396659,Sector
+Sud Sardegna,Services,86,0.9481197141655258,Sector
+Sud Sardegna,Mining,15,0.21667950515013834,Sector
+Sud Sardegna,Health_Care,33,0.6488260904070029,Sector
+Sud Sardegna,EnergyExpL_Prod,80,0.4541633449304864,Sector
+Sud Sardegna,Utilities,45,0.9861437569098227,Sector

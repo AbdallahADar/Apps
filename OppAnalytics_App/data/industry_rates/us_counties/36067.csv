@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Onondaga,542,0.632415894283391,Overall
+Onondaga,HiTech,58,0.7555351066082657,Sector
+Onondaga,Agriculture,8,0.5080426136955932,Sector
+Onondaga,Transportation,29,0.9279379763629191,Sector
+Onondaga,Consumer_Products,15,0.2831292761644669,Sector
+Onondaga,Unassigned,48,0.9064405362411914,Sector
+Onondaga,Communication,49,0.9296676836666862,Sector
+Onondaga,Trade,29,0.6147332084097827,Sector
+Onondaga,Business_Services,43,0.7298343703370284,Sector
+Onondaga,Business_Products,53,0.3510678487928758,Sector
+Onondaga,Construction,5,0.7482432332307672,Sector
+Onondaga,Services,22,0.3987731871711151,Sector
+Onondaga,Mining,80,0.7642039474366348,Sector
+Onondaga,Health_Care,60,0.3919208253937909,Sector
+Onondaga,EnergyExpL_Prod,14,0.47316680806476563,Sector
+Onondaga,Utilities,29,0.7035417926749813,Sector

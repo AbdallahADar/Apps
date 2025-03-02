@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kastamonu,736,0.5455818185134276,Overall
+Kastamonu,HiTech,42,0.319062593278459,Sector
+Kastamonu,Agriculture,94,0.15498270926540236,Sector
+Kastamonu,Transportation,69,0.5086032684994739,Sector
+Kastamonu,Consumer_Products,41,0.5441316236591696,Sector
+Kastamonu,Unassigned,9,0.7037465401036416,Sector
+Kastamonu,Communication,54,0.5624500247405779,Sector
+Kastamonu,Trade,53,0.8876760025875325,Sector
+Kastamonu,Business_Services,76,0.4687583011296993,Sector
+Kastamonu,Business_Products,68,0.6807102818246051,Sector
+Kastamonu,Construction,6,0.30067584689305304,Sector
+Kastamonu,Services,24,0.32549992188189536,Sector
+Kastamonu,Mining,91,0.37435789860290536,Sector
+Kastamonu,Health_Care,50,0.720150560289513,Sector
+Kastamonu,EnergyExpL_Prod,44,0.7973987529640997,Sector
+Kastamonu,Utilities,15,0.835522951981386,Sector

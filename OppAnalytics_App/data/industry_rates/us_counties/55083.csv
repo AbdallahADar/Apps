@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oconto,613,0.4030959357613543,Overall
+Oconto,HiTech,4,0.28074415760004323,Sector
+Oconto,Agriculture,89,0.9045065202158478,Sector
+Oconto,Transportation,7,0.4775477597640615,Sector
+Oconto,Consumer_Products,54,0.14417695072463932,Sector
+Oconto,Unassigned,79,0.413141586059535,Sector
+Oconto,Communication,16,0.6927349753060594,Sector
+Oconto,Trade,18,0.08016501379471874,Sector
+Oconto,Business_Services,5,0.08414776419920111,Sector
+Oconto,Business_Products,87,0.13847365844906712,Sector
+Oconto,Construction,63,0.41629454211201045,Sector
+Oconto,Services,24,0.2929889513803581,Sector
+Oconto,Mining,81,0.8906674007672061,Sector
+Oconto,Health_Care,16,0.5829340365304929,Sector
+Oconto,EnergyExpL_Prod,22,0.5143884024910828,Sector
+Oconto,Utilities,48,0.13352731702599097,Sector

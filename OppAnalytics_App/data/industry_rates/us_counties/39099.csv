@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mahoning,898,0.4844814084489932,Overall
+Mahoning,HiTech,71,0.3218255549688892,Sector
+Mahoning,Agriculture,73,0.0008900131140668899,Sector
+Mahoning,Transportation,73,0.9010692788061999,Sector
+Mahoning,Consumer_Products,26,0.929197726480379,Sector
+Mahoning,Unassigned,96,0.07639325078920534,Sector
+Mahoning,Communication,77,0.28973800412245254,Sector
+Mahoning,Trade,48,0.2959872286254174,Sector
+Mahoning,Business_Services,32,0.9327314659170841,Sector
+Mahoning,Business_Products,30,0.08710404899207902,Sector
+Mahoning,Construction,87,0.3075188252891847,Sector
+Mahoning,Services,59,0.9603517064332113,Sector
+Mahoning,Mining,35,0.8563589036943395,Sector
+Mahoning,Health_Care,75,0.39666208507570844,Sector
+Mahoning,EnergyExpL_Prod,74,0.9020634141628125,Sector
+Mahoning,Utilities,42,0.009329620263866856,Sector

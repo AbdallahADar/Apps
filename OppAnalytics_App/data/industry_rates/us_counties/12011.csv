@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Broward,867,0.3433947161829258,Overall
+Broward,HiTech,89,0.26779201295974575,Sector
+Broward,Agriculture,76,0.5341592063345503,Sector
+Broward,Transportation,76,0.3487306912911088,Sector
+Broward,Consumer_Products,86,0.1503764724539094,Sector
+Broward,Unassigned,71,0.16421633246949907,Sector
+Broward,Communication,73,0.48274657131335563,Sector
+Broward,Trade,27,0.3328885567456926,Sector
+Broward,Business_Services,45,0.3488530409684565,Sector
+Broward,Business_Products,15,0.6095033775943027,Sector
+Broward,Construction,49,0.3551730069118181,Sector
+Broward,Services,12,0.3974771414651814,Sector
+Broward,Mining,18,0.4041629148868682,Sector
+Broward,Health_Care,88,0.3896183011040547,Sector
+Broward,EnergyExpL_Prod,57,0.13060537732578326,Sector
+Broward,Utilities,85,0.2346177389195604,Sector

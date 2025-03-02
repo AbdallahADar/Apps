@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Muğla,539,0.6257225762146487,Overall
+Muğla,HiTech,29,0.6830194921090038,Sector
+Muğla,Agriculture,49,0.8749921444580393,Sector
+Muğla,Transportation,29,0.8929815133492391,Sector
+Muğla,Consumer_Products,23,0.36695921854875857,Sector
+Muğla,Unassigned,46,0.508856123738033,Sector
+Muğla,Communication,79,0.5773941375859707,Sector
+Muğla,Trade,46,0.7241663149190446,Sector
+Muğla,Business_Services,25,0.8000213834019058,Sector
+Muğla,Business_Products,11,0.03592293388656387,Sector
+Muğla,Construction,15,0.8700223744578878,Sector
+Muğla,Services,68,0.9153502467321076,Sector
+Muğla,Mining,88,0.9569818066314235,Sector
+Muğla,Health_Care,12,0.20738571653505056,Sector
+Muğla,EnergyExpL_Prod,14,0.7760551307090074,Sector
+Muğla,Utilities,5,0.19573010615769482,Sector

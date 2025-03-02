@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hampton,910,0.5420502690830129,Overall
+Hampton,HiTech,7,0.238510344214243,Sector
+Hampton,Agriculture,22,0.815361608832845,Sector
+Hampton,Transportation,85,0.5551865969284657,Sector
+Hampton,Consumer_Products,66,0.6865199801377568,Sector
+Hampton,Unassigned,93,0.9395121520173495,Sector
+Hampton,Communication,96,0.06627475874491684,Sector
+Hampton,Trade,25,0.6071174503852398,Sector
+Hampton,Business_Services,91,0.4005447000250979,Sector
+Hampton,Business_Products,53,0.4406190366608074,Sector
+Hampton,Construction,63,0.19212998204540022,Sector
+Hampton,Services,29,0.9182417141335811,Sector
+Hampton,Mining,28,0.665266504821589,Sector
+Hampton,Health_Care,68,0.6093570512721754,Sector
+Hampton,EnergyExpL_Prod,85,0.4416788746757905,Sector
+Hampton,Utilities,99,0.5544332813499355,Sector

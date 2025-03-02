@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Anchorage,650,0.5490037538835432,Overall
+Anchorage,HiTech,58,0.6492918929669406,Sector
+Anchorage,Agriculture,10,0.4176373205546948,Sector
+Anchorage,Transportation,95,0.7373113304604306,Sector
+Anchorage,Consumer_Products,42,0.48603241933319563,Sector
+Anchorage,Unassigned,20,0.60557135560895,Sector
+Anchorage,Communication,19,0.9249397568314035,Sector
+Anchorage,Trade,39,0.4052641132879229,Sector
+Anchorage,Business_Services,57,0.9576604208436412,Sector
+Anchorage,Business_Products,93,0.018934739645700027,Sector
+Anchorage,Construction,4,0.9995524087726804,Sector
+Anchorage,Services,7,0.01561058532259163,Sector
+Anchorage,Mining,54,0.48116081087832974,Sector
+Anchorage,Health_Care,26,0.3468786313740999,Sector
+Anchorage,EnergyExpL_Prod,76,0.7283113988769047,Sector
+Anchorage,Utilities,50,0.4608991234956611,Sector

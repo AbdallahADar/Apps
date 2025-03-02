@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Charlotte,821,0.48458999005844844,Overall
+Charlotte,HiTech,82,0.156990780717978,Sector
+Charlotte,Agriculture,1,0.6179959679925318,Sector
+Charlotte,Transportation,61,0.7621062740534957,Sector
+Charlotte,Consumer_Products,35,0.15793900678090156,Sector
+Charlotte,Unassigned,70,0.09726860279077032,Sector
+Charlotte,Communication,68,0.8993278140365875,Sector
+Charlotte,Trade,68,0.687887176163528,Sector
+Charlotte,Business_Services,76,0.7839563098928483,Sector
+Charlotte,Business_Products,59,0.43294991774910985,Sector
+Charlotte,Construction,49,0.3496610370797374,Sector
+Charlotte,Services,58,0.09470752963323237,Sector
+Charlotte,Mining,2,0.9169611775629556,Sector
+Charlotte,Health_Care,53,0.7979478657693644,Sector
+Charlotte,EnergyExpL_Prod,40,0.19345397063918546,Sector
+Charlotte,Utilities,99,0.3196964200144996,Sector

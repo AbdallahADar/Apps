@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Burnet,706,0.4494443925170327,Overall
+Burnet,HiTech,68,0.8676675549898185,Sector
+Burnet,Agriculture,0,0.804413989112128,Sector
+Burnet,Transportation,71,0.7674288992708534,Sector
+Burnet,Consumer_Products,43,0.6978796641278164,Sector
+Burnet,Unassigned,78,0.09237173402671917,Sector
+Burnet,Communication,84,0.4297044875895185,Sector
+Burnet,Trade,73,0.9829943724283661,Sector
+Burnet,Business_Services,30,0.2351929412356819,Sector
+Burnet,Business_Products,22,0.19183092827756631,Sector
+Burnet,Construction,29,0.052903646530816695,Sector
+Burnet,Services,65,0.10854107331384011,Sector
+Burnet,Mining,23,0.28049346227234107,Sector
+Burnet,Health_Care,14,0.38250206565739964,Sector
+Burnet,EnergyExpL_Prod,84,0.46071534707018913,Sector
+Burnet,Utilities,22,0.38702572185243544,Sector

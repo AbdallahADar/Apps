@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sheridan,664,0.4940623936768546,Overall
+Sheridan,HiTech,99,0.14883901636027186,Sector
+Sheridan,Agriculture,24,0.3043320546444225,Sector
+Sheridan,Transportation,78,0.9985831781322134,Sector
+Sheridan,Consumer_Products,17,0.10933912844537719,Sector
+Sheridan,Unassigned,26,0.1099533197923015,Sector
+Sheridan,Communication,56,0.8521046222633366,Sector
+Sheridan,Trade,23,0.7438572414495057,Sector
+Sheridan,Business_Services,71,0.5455078116968087,Sector
+Sheridan,Business_Products,7,0.6275360188663975,Sector
+Sheridan,Construction,37,0.018558502483763673,Sector
+Sheridan,Services,30,0.48571415580830357,Sector
+Sheridan,Mining,13,0.2713700532416029,Sector
+Sheridan,Health_Care,90,0.9662608657630467,Sector
+Sheridan,EnergyExpL_Prod,22,0.28837467702311204,Sector
+Sheridan,Utilities,71,0.9406052591823546,Sector

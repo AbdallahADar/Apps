@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Elazığ,759,0.4550201786421635,Overall
+Elazığ,HiTech,91,0.5908238904820177,Sector
+Elazığ,Agriculture,35,0.0017463453978296961,Sector
+Elazığ,Transportation,69,0.33128250908811163,Sector
+Elazığ,Consumer_Products,24,0.4536689661451351,Sector
+Elazığ,Unassigned,69,0.7576131916730825,Sector
+Elazığ,Communication,81,0.5047804891044877,Sector
+Elazığ,Trade,56,0.8558256305427309,Sector
+Elazığ,Business_Services,54,0.9173727927795643,Sector
+Elazığ,Business_Products,23,0.1525367424606302,Sector
+Elazığ,Construction,31,0.31790563993691057,Sector
+Elazığ,Services,42,0.28436238721620877,Sector
+Elazığ,Mining,38,0.3584636481075013,Sector
+Elazığ,Health_Care,35,0.6236970487292386,Sector
+Elazığ,EnergyExpL_Prod,34,0.31291334354803224,Sector
+Elazığ,Utilities,77,0.3623100544209712,Sector

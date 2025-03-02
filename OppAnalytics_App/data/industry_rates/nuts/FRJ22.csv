@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Aveyron,664,0.5061759291440239,Overall
+Aveyron,HiTech,58,0.7018936292642407,Sector
+Aveyron,Agriculture,95,0.2707999023740456,Sector
+Aveyron,Transportation,66,0.6510079295553749,Sector
+Aveyron,Consumer_Products,82,0.1983960370774358,Sector
+Aveyron,Unassigned,62,0.31173273370458743,Sector
+Aveyron,Communication,13,0.9261184595917108,Sector
+Aveyron,Trade,0,0.8935361555779955,Sector
+Aveyron,Business_Services,24,0.25791269374929227,Sector
+Aveyron,Business_Products,25,0.6234171875786766,Sector
+Aveyron,Construction,64,0.9127887416255315,Sector
+Aveyron,Services,21,0.5692446284016018,Sector
+Aveyron,Mining,45,0.6274963590017268,Sector
+Aveyron,Health_Care,64,0.041761415277965175,Sector
+Aveyron,EnergyExpL_Prod,40,0.023959681018337675,Sector
+Aveyron,Utilities,5,0.5825733833618337,Sector

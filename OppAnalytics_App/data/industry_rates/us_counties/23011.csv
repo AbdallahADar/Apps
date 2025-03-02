@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kennebec,790,0.43862273809513763,Overall
+Kennebec,HiTech,20,0.9207446548796504,Sector
+Kennebec,Agriculture,99,0.11869834565179005,Sector
+Kennebec,Transportation,87,0.9059239456031247,Sector
+Kennebec,Consumer_Products,46,0.435540308646868,Sector
+Kennebec,Unassigned,20,0.0071218829965329356,Sector
+Kennebec,Communication,23,0.5024515134326821,Sector
+Kennebec,Trade,69,0.6237801326420678,Sector
+Kennebec,Business_Services,34,0.6587249332045623,Sector
+Kennebec,Business_Products,88,0.26365655535600874,Sector
+Kennebec,Construction,78,0.5381662918802705,Sector
+Kennebec,Services,95,0.7269444936565629,Sector
+Kennebec,Mining,38,0.6263626082103162,Sector
+Kennebec,Health_Care,14,0.020157617155383778,Sector
+Kennebec,EnergyExpL_Prod,0,0.16250517343294868,Sector
+Kennebec,Utilities,79,0.06856261467829594,Sector

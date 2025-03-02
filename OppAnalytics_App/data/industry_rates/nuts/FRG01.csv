@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Loire-Atlantique,687,0.4883357750027573,Overall
+Loire-Atlantique,HiTech,2,0.45924223217968296,Sector
+Loire-Atlantique,Agriculture,99,0.6194051402704375,Sector
+Loire-Atlantique,Transportation,3,0.15932591320994804,Sector
+Loire-Atlantique,Consumer_Products,59,0.18821506407068822,Sector
+Loire-Atlantique,Unassigned,81,0.5647951746254724,Sector
+Loire-Atlantique,Communication,60,0.48610012852642814,Sector
+Loire-Atlantique,Trade,89,0.3331768082468972,Sector
+Loire-Atlantique,Business_Services,11,0.4722149473407693,Sector
+Loire-Atlantique,Business_Products,28,0.6563575231343455,Sector
+Loire-Atlantique,Construction,61,0.24706513428736543,Sector
+Loire-Atlantique,Services,50,0.6955494931048795,Sector
+Loire-Atlantique,Mining,57,0.42642816818279794,Sector
+Loire-Atlantique,Health_Care,33,0.5393416196599128,Sector
+Loire-Atlantique,EnergyExpL_Prod,49,0.5219296611028675,Sector
+Loire-Atlantique,Utilities,5,0.955889617098867,Sector

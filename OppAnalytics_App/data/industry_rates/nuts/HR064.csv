@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Krapinsko-zagorska županija,698,0.5237221361234508,Overall
+Krapinsko-zagorska županija,HiTech,43,0.5852493297502639,Sector
+Krapinsko-zagorska županija,Agriculture,14,0.7599154027288071,Sector
+Krapinsko-zagorska županija,Transportation,6,0.3338460410904579,Sector
+Krapinsko-zagorska županija,Consumer_Products,80,0.7632576825266177,Sector
+Krapinsko-zagorska županija,Unassigned,51,0.3343136235724169,Sector
+Krapinsko-zagorska županija,Communication,9,0.9297515748578178,Sector
+Krapinsko-zagorska županija,Trade,96,0.13562052841696115,Sector
+Krapinsko-zagorska županija,Business_Services,34,0.7431678158379826,Sector
+Krapinsko-zagorska županija,Business_Products,92,0.22362327477956512,Sector
+Krapinsko-zagorska županija,Construction,52,0.9465231691027288,Sector
+Krapinsko-zagorska županija,Services,66,0.3826365327161978,Sector
+Krapinsko-zagorska županija,Mining,41,0.4853646730445723,Sector
+Krapinsko-zagorska županija,Health_Care,4,0.5419136202188533,Sector
+Krapinsko-zagorska županija,EnergyExpL_Prod,13,0.5874531881211452,Sector
+Krapinsko-zagorska županija,Utilities,97,0.10319558508737159,Sector

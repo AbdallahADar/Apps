@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Powhatan,785,0.43203239069629695,Overall
+Powhatan,HiTech,45,0.37348706949568244,Sector
+Powhatan,Agriculture,30,0.2605845200046639,Sector
+Powhatan,Transportation,87,0.2636105080295976,Sector
+Powhatan,Consumer_Products,0,0.5789834256224362,Sector
+Powhatan,Unassigned,69,0.3837237907041803,Sector
+Powhatan,Communication,32,0.2543060987685787,Sector
+Powhatan,Trade,88,0.6318327162755443,Sector
+Powhatan,Business_Services,65,0.5896952899969391,Sector
+Powhatan,Business_Products,71,0.3525827919511285,Sector
+Powhatan,Construction,70,0.4213804819184681,Sector
+Powhatan,Services,48,0.4093931095051818,Sector
+Powhatan,Mining,31,0.213186123578176,Sector
+Powhatan,Health_Care,65,0.37522348868702105,Sector
+Powhatan,EnergyExpL_Prod,29,0.6286403043546361,Sector
+Powhatan,Utilities,55,0.7438561415522201,Sector

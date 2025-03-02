@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sully,803,0.5155425963951905,Overall
+Sully,HiTech,32,0.6605969653559617,Sector
+Sully,Agriculture,6,0.08242154563057469,Sector
+Sully,Transportation,78,0.6029652835526542,Sector
+Sully,Consumer_Products,35,0.05909807427277758,Sector
+Sully,Unassigned,47,0.8093149244741231,Sector
+Sully,Communication,98,0.38034800660763124,Sector
+Sully,Trade,40,0.16903180939024454,Sector
+Sully,Business_Services,62,0.8304810216694203,Sector
+Sully,Business_Products,81,0.48062347549310935,Sector
+Sully,Construction,33,0.7188573138088317,Sector
+Sully,Services,74,0.8710618226580518,Sector
+Sully,Mining,94,0.29808411675983704,Sector
+Sully,Health_Care,79,0.06673453663762308,Sector
+Sully,EnergyExpL_Prod,39,0.7316082098068261,Sector
+Sully,Utilities,5,0.9719118398101911,Sector

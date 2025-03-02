@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Clackamas,731,0.5601638333177381,Overall
+Clackamas,HiTech,9,0.7831321220630163,Sector
+Clackamas,Agriculture,96,0.23422022058773895,Sector
+Clackamas,Transportation,17,0.5097979508692659,Sector
+Clackamas,Consumer_Products,59,0.85382185345365,Sector
+Clackamas,Unassigned,31,0.9633139172506758,Sector
+Clackamas,Communication,45,0.21230809388556082,Sector
+Clackamas,Trade,69,0.4755737048007902,Sector
+Clackamas,Business_Services,8,0.5041758628695865,Sector
+Clackamas,Business_Products,65,0.058919100486672704,Sector
+Clackamas,Construction,97,0.8340462056744344,Sector
+Clackamas,Services,3,0.6722254000744277,Sector
+Clackamas,Mining,93,0.8604915363343953,Sector
+Clackamas,Health_Care,21,0.6272326745589054,Sector
+Clackamas,EnergyExpL_Prod,74,0.46875062050984706,Sector
+Clackamas,Utilities,44,0.3444482363471061,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Västerbottens län,898,0.4898855185102973,Overall
+Västerbottens län,HiTech,77,0.49342691728334376,Sector
+Västerbottens län,Agriculture,25,0.7893018176567425,Sector
+Västerbottens län,Transportation,82,0.5449126393859584,Sector
+Västerbottens län,Consumer_Products,54,0.09612936860876009,Sector
+Västerbottens län,Unassigned,86,0.908923536276549,Sector
+Västerbottens län,Communication,84,0.3843899796992851,Sector
+Västerbottens län,Trade,60,0.007867486341410879,Sector
+Västerbottens län,Business_Services,53,0.84062475676278,Sector
+Västerbottens län,Business_Products,46,0.5136631695738462,Sector
+Västerbottens län,Construction,87,0.7001414655182079,Sector
+Västerbottens län,Services,6,0.17331651639008683,Sector
+Västerbottens län,Mining,93,0.7439060495273702,Sector
+Västerbottens län,Health_Care,95,0.6253537415403815,Sector
+Västerbottens län,EnergyExpL_Prod,9,0.5224983032744029,Sector
+Västerbottens län,Utilities,41,0.0038270298153355586,Sector

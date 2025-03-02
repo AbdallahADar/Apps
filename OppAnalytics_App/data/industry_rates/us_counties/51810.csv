@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Virginia Beach,564,0.520529270794217,Overall
+Virginia Beach,HiTech,76,0.3758102294866119,Sector
+Virginia Beach,Agriculture,1,0.517600579122184,Sector
+Virginia Beach,Transportation,36,0.002229958976336044,Sector
+Virginia Beach,Consumer_Products,35,0.5176378313007904,Sector
+Virginia Beach,Unassigned,70,0.7579326874516272,Sector
+Virginia Beach,Communication,59,0.9959820448748006,Sector
+Virginia Beach,Trade,78,0.9183555108938006,Sector
+Virginia Beach,Business_Services,0,0.8582120569549353,Sector
+Virginia Beach,Business_Products,36,0.42896257122625325,Sector
+Virginia Beach,Construction,28,0.6760035595440755,Sector
+Virginia Beach,Services,16,0.0011618096630267027,Sector
+Virginia Beach,Mining,2,0.015261906682224491,Sector
+Virginia Beach,Health_Care,29,0.2098338894972771,Sector
+Virginia Beach,EnergyExpL_Prod,93,0.6475732381193183,Sector
+Virginia Beach,Utilities,5,0.885381188119993,Sector

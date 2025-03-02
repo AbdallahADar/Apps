@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wiener Umland/Nordteil,729,0.5323492294062341,Overall
+Wiener Umland/Nordteil,HiTech,49,0.724196005873938,Sector
+Wiener Umland/Nordteil,Agriculture,32,0.29711789236687947,Sector
+Wiener Umland/Nordteil,Transportation,21,0.7477192611946445,Sector
+Wiener Umland/Nordteil,Consumer_Products,97,0.3997937272434373,Sector
+Wiener Umland/Nordteil,Unassigned,23,0.46101578907154195,Sector
+Wiener Umland/Nordteil,Communication,57,0.4434537362001486,Sector
+Wiener Umland/Nordteil,Trade,19,0.2675097390407015,Sector
+Wiener Umland/Nordteil,Business_Services,14,0.8436694738905226,Sector
+Wiener Umland/Nordteil,Business_Products,61,0.676078977052012,Sector
+Wiener Umland/Nordteil,Construction,97,0.3100595476826449,Sector
+Wiener Umland/Nordteil,Services,68,0.8896873397646233,Sector
+Wiener Umland/Nordteil,Mining,37,0.3977772709618217,Sector
+Wiener Umland/Nordteil,Health_Care,30,0.7711646656762302,Sector
+Wiener Umland/Nordteil,EnergyExpL_Prod,71,0.24960061215315932,Sector
+Wiener Umland/Nordteil,Utilities,53,0.506394402921206,Sector

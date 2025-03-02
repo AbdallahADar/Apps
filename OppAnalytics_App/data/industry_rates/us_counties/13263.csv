@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Talbot,710,0.5660938950197126,Overall
+Talbot,HiTech,21,0.6272726033194338,Sector
+Talbot,Agriculture,76,0.38619828409834456,Sector
+Talbot,Transportation,70,0.9645524171457922,Sector
+Talbot,Consumer_Products,55,0.7049768008708528,Sector
+Talbot,Unassigned,97,0.7837532091870917,Sector
+Talbot,Communication,30,0.18024129354328577,Sector
+Talbot,Trade,68,0.5236735778558921,Sector
+Talbot,Business_Services,68,0.813117151045575,Sector
+Talbot,Business_Products,51,0.8381815627569728,Sector
+Talbot,Construction,6,0.8222615287658493,Sector
+Talbot,Services,27,0.3494153060715428,Sector
+Talbot,Mining,9,0.2598574234414095,Sector
+Talbot,Health_Care,83,0.8579385536311972,Sector
+Talbot,EnergyExpL_Prod,29,0.37658744984075787,Sector
+Talbot,Utilities,20,0.0033812637216945607,Sector

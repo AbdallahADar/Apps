@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sanpete,635,0.5464115791745493,Overall
+Sanpete,HiTech,13,0.7023233844490542,Sector
+Sanpete,Agriculture,48,0.49689006330105745,Sector
+Sanpete,Transportation,41,0.944938447709547,Sector
+Sanpete,Consumer_Products,12,0.8406412239347216,Sector
+Sanpete,Unassigned,15,0.9588524453007533,Sector
+Sanpete,Communication,93,0.09203378322509659,Sector
+Sanpete,Trade,96,0.4578778089621478,Sector
+Sanpete,Business_Services,4,0.1588025882193459,Sector
+Sanpete,Business_Products,6,0.5626087676323628,Sector
+Sanpete,Construction,61,0.46427743565103474,Sector
+Sanpete,Services,74,0.20032466518834302,Sector
+Sanpete,Mining,85,0.4298060059672747,Sector
+Sanpete,Health_Care,65,0.45731392704667695,Sector
+Sanpete,EnergyExpL_Prod,17,0.7647016396389436,Sector
+Sanpete,Utilities,5,0.6647815013918799,Sector

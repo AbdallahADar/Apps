@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Spalding,778,0.44911017376871587,Overall
+Spalding,HiTech,48,0.7329767649595627,Sector
+Spalding,Agriculture,83,0.07630166684738149,Sector
+Spalding,Transportation,26,0.7725419680413637,Sector
+Spalding,Consumer_Products,59,0.11831022658498946,Sector
+Spalding,Unassigned,60,0.22928086881898613,Sector
+Spalding,Communication,80,0.611686961160773,Sector
+Spalding,Trade,95,0.054656199229986324,Sector
+Spalding,Business_Services,76,0.4963775861145203,Sector
+Spalding,Business_Products,51,0.4551939271371027,Sector
+Spalding,Construction,49,0.9678308182395007,Sector
+Spalding,Services,34,0.011792233824997944,Sector
+Spalding,Mining,71,0.6760585233633724,Sector
+Spalding,Health_Care,16,0.24799016282145114,Sector
+Spalding,EnergyExpL_Prod,22,0.4080330414169274,Sector
+Spalding,Utilities,8,0.8776216579698223,Sector

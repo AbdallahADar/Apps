@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Otero,563,0.47287748971221094,Overall
+Otero,HiTech,3,0.2673087557363072,Sector
+Otero,Agriculture,85,0.5922458025700195,Sector
+Otero,Transportation,10,0.9517676233649588,Sector
+Otero,Consumer_Products,64,0.18137097233653499,Sector
+Otero,Unassigned,6,0.8963717577703891,Sector
+Otero,Communication,94,0.5089106276812665,Sector
+Otero,Trade,48,0.35814655853623234,Sector
+Otero,Business_Services,2,0.1822751189385916,Sector
+Otero,Business_Products,76,0.21282551540430894,Sector
+Otero,Construction,22,0.9027820487313399,Sector
+Otero,Services,22,0.7534249738044267,Sector
+Otero,Mining,44,0.30724951126996625,Sector
+Otero,Health_Care,5,0.15144680972501423,Sector
+Otero,EnergyExpL_Prod,23,0.4445079115053717,Sector
+Otero,Utilities,59,0.3825283583084371,Sector

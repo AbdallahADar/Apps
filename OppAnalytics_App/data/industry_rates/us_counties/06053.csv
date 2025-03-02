@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Monterey,598,0.4452601766046819,Overall
+Monterey,HiTech,57,0.19649361682521915,Sector
+Monterey,Agriculture,82,0.37941623157633275,Sector
+Monterey,Transportation,77,0.42114541678141526,Sector
+Monterey,Consumer_Products,9,0.45299379018616326,Sector
+Monterey,Unassigned,12,0.13991085966785832,Sector
+Monterey,Communication,57,0.39823107213198383,Sector
+Monterey,Trade,72,0.6862129950236102,Sector
+Monterey,Business_Services,5,0.4847555114327532,Sector
+Monterey,Business_Products,62,0.4652977008848781,Sector
+Monterey,Construction,91,0.8049656206844432,Sector
+Monterey,Services,6,0.72906374514799,Sector
+Monterey,Mining,1,0.5351628445827067,Sector
+Monterey,Health_Care,13,0.1262289500857532,Sector
+Monterey,EnergyExpL_Prod,48,0.733393005715648,Sector
+Monterey,Utilities,6,0.1256312883434736,Sector

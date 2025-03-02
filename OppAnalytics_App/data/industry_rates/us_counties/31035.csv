@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Clay,616,0.5067817187968142,Overall
+Clay,HiTech,9,0.744732224269007,Sector
+Clay,Agriculture,97,0.015292901092706757,Sector
+Clay,Transportation,60,0.19450620383242345,Sector
+Clay,Consumer_Products,46,0.6069498608615452,Sector
+Clay,Unassigned,8,0.4216671091281977,Sector
+Clay,Communication,17,0.19286247228183873,Sector
+Clay,Trade,12,0.6528342938778797,Sector
+Clay,Business_Services,29,0.6749818626456096,Sector
+Clay,Business_Products,97,0.4982964701608603,Sector
+Clay,Construction,62,0.9114099333392388,Sector
+Clay,Services,1,0.0966051110492896,Sector
+Clay,Mining,39,0.8960213800891481,Sector
+Clay,Health_Care,26,0.8257592544622534,Sector
+Clay,EnergyExpL_Prod,63,0.2516521895376991,Sector
+Clay,Utilities,50,0.618154515324515,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wharton,670,0.5310869455080479,Overall
+Wharton,HiTech,20,0.9500044388699856,Sector
+Wharton,Agriculture,71,0.4943877355076014,Sector
+Wharton,Transportation,34,0.5352228106857164,Sector
+Wharton,Consumer_Products,84,0.3676370913540389,Sector
+Wharton,Unassigned,31,0.5163656316017681,Sector
+Wharton,Communication,9,0.6456643401154368,Sector
+Wharton,Trade,19,0.16394860398802025,Sector
+Wharton,Business_Services,65,0.8002046062749009,Sector
+Wharton,Business_Products,64,0.3670932358993303,Sector
+Wharton,Construction,47,0.37267628504905015,Sector
+Wharton,Services,40,0.6668864345008654,Sector
+Wharton,Mining,52,0.7637623422717225,Sector
+Wharton,Health_Care,8,0.1943600909105727,Sector
+Wharton,EnergyExpL_Prod,41,0.27969733493434523,Sector
+Wharton,Utilities,85,0.848393200657364,Sector

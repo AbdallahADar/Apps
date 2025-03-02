@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Liezen,717,0.5009341720108121,Overall
+Liezen,HiTech,1,0.6345123042990175,Sector
+Liezen,Agriculture,91,0.6789786475403884,Sector
+Liezen,Transportation,90,0.6565839863581889,Sector
+Liezen,Consumer_Products,14,0.6722221927409249,Sector
+Liezen,Unassigned,39,0.24844541882837667,Sector
+Liezen,Communication,45,0.121636021461212,Sector
+Liezen,Trade,19,0.9573545284034474,Sector
+Liezen,Business_Services,40,0.19392616515434513,Sector
+Liezen,Business_Products,17,0.5989405027447966,Sector
+Liezen,Construction,89,0.2551269481198656,Sector
+Liezen,Services,13,0.7236919988071467,Sector
+Liezen,Mining,15,0.5218389516531876,Sector
+Liezen,Health_Care,97,0.33280461169118314,Sector
+Liezen,EnergyExpL_Prod,51,0.27487878039824176,Sector
+Liezen,Utilities,96,0.6430715219618584,Sector

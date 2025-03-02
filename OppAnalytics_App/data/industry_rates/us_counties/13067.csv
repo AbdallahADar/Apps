@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cobb,656,0.46667588530159426,Overall
+Cobb,HiTech,68,0.26919028093888897,Sector
+Cobb,Agriculture,0,0.007203982670473175,Sector
+Cobb,Transportation,4,0.790218547912952,Sector
+Cobb,Consumer_Products,71,0.061613650620333305,Sector
+Cobb,Unassigned,86,0.4259002105081757,Sector
+Cobb,Communication,52,0.4580632067716095,Sector
+Cobb,Trade,31,0.9480615602098141,Sector
+Cobb,Business_Services,95,0.1659417907005467,Sector
+Cobb,Business_Products,50,0.8156057092339138,Sector
+Cobb,Construction,20,0.669545756701162,Sector
+Cobb,Services,10,0.30978290795111585,Sector
+Cobb,Mining,45,0.21978500259815037,Sector
+Cobb,Health_Care,88,0.12604148973434914,Sector
+Cobb,EnergyExpL_Prod,1,0.9904110443807791,Sector
+Cobb,Utilities,35,0.7427731385916515,Sector

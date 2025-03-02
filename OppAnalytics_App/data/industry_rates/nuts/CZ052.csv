@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Královéhradecký kraj,523,0.5756535223619942,Overall
+Královéhradecký kraj,HiTech,11,0.28176607037419765,Sector
+Královéhradecký kraj,Agriculture,9,0.6555572548508665,Sector
+Královéhradecký kraj,Transportation,89,0.22705067840230864,Sector
+Královéhradecký kraj,Consumer_Products,16,0.7960094681230394,Sector
+Královéhradecký kraj,Unassigned,40,0.7144848308080853,Sector
+Královéhradecký kraj,Communication,7,0.74162366208012,Sector
+Královéhradecký kraj,Trade,76,0.6657484579427589,Sector
+Královéhradecký kraj,Business_Services,6,0.9164248220160524,Sector
+Královéhradecký kraj,Business_Products,77,0.09504140659213567,Sector
+Královéhradecký kraj,Construction,42,0.7075771289736404,Sector
+Královéhradecký kraj,Services,42,0.068977025037532,Sector
+Královéhradecký kraj,Mining,5,0.5650388504654135,Sector
+Královéhradecký kraj,Health_Care,0,0.6249016675765725,Sector
+Královéhradecký kraj,EnergyExpL_Prod,78,0.7431886038547868,Sector
+Královéhradecký kraj,Utilities,25,0.8314129083324033,Sector

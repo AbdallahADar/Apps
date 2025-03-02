@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Brăila,571,0.42687355179243247,Overall
+Brăila,HiTech,91,0.3394196189933192,Sector
+Brăila,Agriculture,21,0.33670549451714327,Sector
+Brăila,Transportation,86,0.3802648034039683,Sector
+Brăila,Consumer_Products,17,0.1233273043431602,Sector
+Brăila,Unassigned,6,0.03829538791657883,Sector
+Brăila,Communication,44,0.9228980173443546,Sector
+Brăila,Trade,15,0.0969414164697121,Sector
+Brăila,Business_Services,4,0.633220703598289,Sector
+Brăila,Business_Products,89,0.2990182018022838,Sector
+Brăila,Construction,56,0.2146496191587579,Sector
+Brăila,Services,46,0.18891771274929592,Sector
+Brăila,Mining,33,0.31143844822683653,Sector
+Brăila,Health_Care,13,0.7463472934124663,Sector
+Brăila,EnergyExpL_Prod,39,0.9755847567456695,Sector
+Brăila,Utilities,11,0.796074498204652,Sector

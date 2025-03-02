@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Reggio Calabria,650,0.6594179472688292,Overall
+Reggio Calabria,HiTech,64,0.4239698838955557,Sector
+Reggio Calabria,Agriculture,42,0.9120266253038903,Sector
+Reggio Calabria,Transportation,20,0.8106871717531354,Sector
+Reggio Calabria,Consumer_Products,51,0.8996856737269455,Sector
+Reggio Calabria,Unassigned,49,0.8594461140790668,Sector
+Reggio Calabria,Communication,21,0.7858439820819633,Sector
+Reggio Calabria,Trade,12,0.30712000194440503,Sector
+Reggio Calabria,Business_Services,83,0.3894604389259664,Sector
+Reggio Calabria,Business_Products,42,0.9991021612455893,Sector
+Reggio Calabria,Construction,84,0.23664357331892394,Sector
+Reggio Calabria,Services,44,0.9121633665235239,Sector
+Reggio Calabria,Mining,3,0.6816093125229641,Sector
+Reggio Calabria,Health_Care,14,0.22744678476740476,Sector
+Reggio Calabria,EnergyExpL_Prod,53,0.9598424882418554,Sector
+Reggio Calabria,Utilities,68,0.48622163070124647,Sector

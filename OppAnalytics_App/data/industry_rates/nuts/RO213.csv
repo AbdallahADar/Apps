@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Iaşi,862,0.6045684385774748,Overall
+Iaşi,HiTech,41,0.30716033507404594,Sector
+Iaşi,Agriculture,34,0.08599299453831066,Sector
+Iaşi,Transportation,63,0.6385320186929699,Sector
+Iaşi,Consumer_Products,39,0.33312483894509315,Sector
+Iaşi,Unassigned,93,0.9588591153494924,Sector
+Iaşi,Communication,52,0.6277266656246714,Sector
+Iaşi,Trade,36,0.27557068536639595,Sector
+Iaşi,Business_Services,17,0.7144509800126982,Sector
+Iaşi,Business_Products,29,0.8278182399177196,Sector
+Iaşi,Construction,60,0.7684047931054169,Sector
+Iaşi,Services,92,0.9920069553841123,Sector
+Iaşi,Mining,96,0.5645830492388302,Sector
+Iaşi,Health_Care,79,0.21254756469792102,Sector
+Iaşi,EnergyExpL_Prod,41,0.9610477197923937,Sector
+Iaşi,Utilities,90,0.8007006229220484,Sector

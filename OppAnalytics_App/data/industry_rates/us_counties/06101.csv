@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sutter,805,0.5986459128598971,Overall
+Sutter,HiTech,38,0.047483467459307316,Sector
+Sutter,Agriculture,42,0.6576506352530079,Sector
+Sutter,Transportation,25,0.9427153557242198,Sector
+Sutter,Consumer_Products,81,0.7943651230024342,Sector
+Sutter,Unassigned,68,0.975314020713868,Sector
+Sutter,Communication,28,0.7480020228188988,Sector
+Sutter,Trade,79,0.9031279759500205,Sector
+Sutter,Business_Services,70,0.46286771302349894,Sector
+Sutter,Business_Products,71,0.8310717391629892,Sector
+Sutter,Construction,40,0.4149130397510682,Sector
+Sutter,Services,64,0.8751945830609119,Sector
+Sutter,Mining,30,0.018351804436140262,Sector
+Sutter,Health_Care,64,0.060458792433247144,Sector
+Sutter,EnergyExpL_Prod,66,0.6568109238239447,Sector
+Sutter,Utilities,39,0.5913614962848982,Sector

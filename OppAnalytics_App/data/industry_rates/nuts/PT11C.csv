@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tâmega e Sousa,776,0.4609547534138019,Overall
+Tâmega e Sousa,HiTech,39,0.24656908301162372,Sector
+Tâmega e Sousa,Agriculture,47,0.8050120940678187,Sector
+Tâmega e Sousa,Transportation,49,0.8362056277454523,Sector
+Tâmega e Sousa,Consumer_Products,82,0.7603762288604025,Sector
+Tâmega e Sousa,Unassigned,89,0.9013044312876285,Sector
+Tâmega e Sousa,Communication,81,0.13155830625349274,Sector
+Tâmega e Sousa,Trade,5,0.27774721083237097,Sector
+Tâmega e Sousa,Business_Services,71,0.12914438015804197,Sector
+Tâmega e Sousa,Business_Products,5,0.3387024436641266,Sector
+Tâmega e Sousa,Construction,39,0.02089021525267254,Sector
+Tâmega e Sousa,Services,18,0.5890203928843588,Sector
+Tâmega e Sousa,Mining,12,0.9148402460376893,Sector
+Tâmega e Sousa,Health_Care,71,0.1781911881730025,Sector
+Tâmega e Sousa,EnergyExpL_Prod,84,0.7792954131763961,Sector
+Tâmega e Sousa,Utilities,84,0.00546403980195187,Sector

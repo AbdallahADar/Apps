@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Crenshaw,702,0.5069474081694743,Overall
+Crenshaw,HiTech,24,0.09349565024098627,Sector
+Crenshaw,Agriculture,76,0.6225789791451833,Sector
+Crenshaw,Transportation,43,0.616848202949133,Sector
+Crenshaw,Consumer_Products,63,0.10332622401609781,Sector
+Crenshaw,Unassigned,1,0.7562814389563612,Sector
+Crenshaw,Communication,65,0.7450759265870502,Sector
+Crenshaw,Trade,17,0.4745987319253697,Sector
+Crenshaw,Business_Services,19,0.7506248663450895,Sector
+Crenshaw,Business_Products,13,0.46708147401258904,Sector
+Crenshaw,Construction,72,0.954897343290624,Sector
+Crenshaw,Services,72,0.05987760625408933,Sector
+Crenshaw,Mining,81,0.880606324833822,Sector
+Crenshaw,Health_Care,98,0.09404831253822665,Sector
+Crenshaw,EnergyExpL_Prod,30,0.7399677746320903,Sector
+Crenshaw,Utilities,28,0.24490226681540084,Sector

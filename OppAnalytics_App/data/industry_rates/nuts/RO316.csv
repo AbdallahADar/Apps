@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Prahova,671,0.5197625407097901,Overall
+Prahova,HiTech,15,0.7784761643403513,Sector
+Prahova,Agriculture,41,0.2814690830726071,Sector
+Prahova,Transportation,55,0.14940581742585146,Sector
+Prahova,Consumer_Products,88,0.6786822006214009,Sector
+Prahova,Unassigned,43,0.49292131894569824,Sector
+Prahova,Communication,66,0.4331981823106832,Sector
+Prahova,Trade,9,0.23295381731509712,Sector
+Prahova,Business_Services,18,0.3255803149936156,Sector
+Prahova,Business_Products,85,0.45009632502422425,Sector
+Prahova,Construction,53,0.6639385714066051,Sector
+Prahova,Services,35,0.8072539646895054,Sector
+Prahova,Mining,74,0.2164546459506328,Sector
+Prahova,Health_Care,16,0.6898000462619874,Sector
+Prahova,EnergyExpL_Prod,39,0.7215255452250376,Sector
+Prahova,Utilities,34,0.8746821130635551,Sector

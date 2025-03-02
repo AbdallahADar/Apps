@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Clinton,665,0.38303211168732487,Overall
+Clinton,HiTech,1,0.10173548814548516,Sector
+Clinton,Agriculture,70,0.8044178358803749,Sector
+Clinton,Transportation,43,0.11370941761636055,Sector
+Clinton,Consumer_Products,85,0.37264972890971215,Sector
+Clinton,Unassigned,55,0.02837228587301588,Sector
+Clinton,Communication,63,0.4197005209099808,Sector
+Clinton,Trade,19,0.1737785484077924,Sector
+Clinton,Business_Services,49,0.1486155201221805,Sector
+Clinton,Business_Products,26,0.7552005274181453,Sector
+Clinton,Construction,45,0.5077077590883804,Sector
+Clinton,Services,47,0.6325926122588156,Sector
+Clinton,Mining,11,0.019860986760099175,Sector
+Clinton,Health_Care,50,0.25645328698726166,Sector
+Clinton,EnergyExpL_Prod,7,0.9003403453389368,Sector
+Clinton,Utilities,94,0.5103468115933315,Sector

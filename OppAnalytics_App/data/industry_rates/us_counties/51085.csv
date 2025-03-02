@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hanover,702,0.5294698953208381,Overall
+Hanover,HiTech,15,0.9158576992125912,Sector
+Hanover,Agriculture,55,0.960794346319598,Sector
+Hanover,Transportation,46,0.2344564118167637,Sector
+Hanover,Consumer_Products,33,0.4893299835263618,Sector
+Hanover,Unassigned,6,0.1256156931045066,Sector
+Hanover,Communication,57,0.0651997958363435,Sector
+Hanover,Trade,58,0.2801234793790359,Sector
+Hanover,Business_Services,59,0.9444853694458684,Sector
+Hanover,Business_Products,54,0.41826152135538275,Sector
+Hanover,Construction,69,0.29188588186012476,Sector
+Hanover,Services,50,0.6193680264356254,Sector
+Hanover,Mining,87,0.5152950998568956,Sector
+Hanover,Health_Care,75,0.8679371731450031,Sector
+Hanover,EnergyExpL_Prod,26,0.5647790696383529,Sector
+Hanover,Utilities,12,0.6486588788801197,Sector

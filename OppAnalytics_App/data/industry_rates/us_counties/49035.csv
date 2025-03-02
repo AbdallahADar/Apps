@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Salt Lake,622,0.4270614384789166,Overall
+Salt Lake,HiTech,10,0.9664198454107225,Sector
+Salt Lake,Agriculture,96,0.45530018070753897,Sector
+Salt Lake,Transportation,65,0.8646086948475242,Sector
+Salt Lake,Consumer_Products,96,0.054646189174480275,Sector
+Salt Lake,Unassigned,20,0.1363794564871692,Sector
+Salt Lake,Communication,39,0.9508625854623823,Sector
+Salt Lake,Trade,6,0.45906498738274926,Sector
+Salt Lake,Business_Services,30,0.13658098779381234,Sector
+Salt Lake,Business_Products,45,0.5468568554863183,Sector
+Salt Lake,Construction,34,0.9014448027465922,Sector
+Salt Lake,Services,3,0.19785620428345707,Sector
+Salt Lake,Mining,7,0.3413164355803914,Sector
+Salt Lake,Health_Care,67,0.2317076840108626,Sector
+Salt Lake,EnergyExpL_Prod,53,0.1061775034619582,Sector
+Salt Lake,Utilities,51,0.05669916434779099,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Monroe,830,0.47764716601001,Overall
+Monroe,HiTech,5,0.11118534933141799,Sector
+Monroe,Agriculture,83,0.6255204599900478,Sector
+Monroe,Transportation,90,0.7187131939227168,Sector
+Monroe,Consumer_Products,33,0.24281462495101058,Sector
+Monroe,Unassigned,91,0.39680705463535537,Sector
+Monroe,Communication,21,0.5223249208474859,Sector
+Monroe,Trade,37,0.3166162566058143,Sector
+Monroe,Business_Services,73,0.6420986549379926,Sector
+Monroe,Business_Products,85,0.8184076321657882,Sector
+Monroe,Construction,49,0.5850382110680842,Sector
+Monroe,Services,26,0.5154326700635329,Sector
+Monroe,Mining,92,0.5249056883765928,Sector
+Monroe,Health_Care,22,0.9230769123628423,Sector
+Monroe,EnergyExpL_Prod,98,0.15707283150730533,Sector
+Monroe,Utilities,25,0.06469302938416377,Sector

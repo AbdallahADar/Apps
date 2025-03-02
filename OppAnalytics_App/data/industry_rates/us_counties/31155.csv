@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Saunders,712,0.46444381812270097,Overall
+Saunders,HiTech,16,0.2088862848608123,Sector
+Saunders,Agriculture,77,0.8502966548266822,Sector
+Saunders,Transportation,66,0.9087391567074083,Sector
+Saunders,Consumer_Products,50,0.5203019217297785,Sector
+Saunders,Unassigned,34,0.517818965783184,Sector
+Saunders,Communication,40,0.3664872572360599,Sector
+Saunders,Trade,55,0.7372355827097654,Sector
+Saunders,Business_Services,60,0.22489332345472723,Sector
+Saunders,Business_Products,27,0.13157428569467056,Sector
+Saunders,Construction,30,0.2456899004900096,Sector
+Saunders,Services,59,0.20703198816474844,Sector
+Saunders,Mining,97,0.039696687696611166,Sector
+Saunders,Health_Care,26,0.4757729567075847,Sector
+Saunders,EnergyExpL_Prod,12,0.7601060237825881,Sector
+Saunders,Utilities,63,0.7721262819958851,Sector

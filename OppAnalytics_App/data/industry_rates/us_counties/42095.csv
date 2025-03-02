@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Northampton,639,0.3540706779818566,Overall
+Northampton,HiTech,11,0.38449072360156433,Sector
+Northampton,Agriculture,92,0.6033356231134085,Sector
+Northampton,Transportation,92,0.3136331531563197,Sector
+Northampton,Consumer_Products,11,0.15786902722871687,Sector
+Northampton,Unassigned,3,0.19495419879876685,Sector
+Northampton,Communication,59,0.41934473901932534,Sector
+Northampton,Trade,31,0.8090083370723181,Sector
+Northampton,Business_Services,65,0.276255262846138,Sector
+Northampton,Business_Products,37,0.025632276651817776,Sector
+Northampton,Construction,44,0.05587378535476073,Sector
+Northampton,Services,26,0.30322872042169435,Sector
+Northampton,Mining,0,0.10457292694900644,Sector
+Northampton,Health_Care,67,0.38715977966671267,Sector
+Northampton,EnergyExpL_Prod,8,0.8659614551577498,Sector
+Northampton,Utilities,93,0.4097401606895482,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Buena Vista,623,0.5028579320036081,Overall
+Buena Vista,HiTech,62,0.5408353205222264,Sector
+Buena Vista,Agriculture,57,0.9350898462144903,Sector
+Buena Vista,Transportation,37,0.05469026028743118,Sector
+Buena Vista,Consumer_Products,81,0.9121858661079649,Sector
+Buena Vista,Unassigned,17,0.7238062083186346,Sector
+Buena Vista,Communication,39,0.787208495023375,Sector
+Buena Vista,Trade,54,0.1776963916762826,Sector
+Buena Vista,Business_Services,74,0.5547751687792277,Sector
+Buena Vista,Business_Products,29,0.04510201703669303,Sector
+Buena Vista,Construction,22,0.7022172424690212,Sector
+Buena Vista,Services,26,0.25698213923429136,Sector
+Buena Vista,Mining,23,0.09340833694770867,Sector
+Buena Vista,Health_Care,26,0.5504155670847571,Sector
+Buena Vista,EnergyExpL_Prod,16,0.8466609014693034,Sector
+Buena Vista,Utilities,60,0.3617952188827136,Sector

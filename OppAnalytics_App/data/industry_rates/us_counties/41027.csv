@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hood River,809,0.5039252002226585,Overall
+Hood River,HiTech,21,0.9991823381009033,Sector
+Hood River,Agriculture,98,0.12824498407678486,Sector
+Hood River,Transportation,21,0.17323834473615918,Sector
+Hood River,Consumer_Products,43,0.7823109338280333,Sector
+Hood River,Unassigned,75,0.6751038752397688,Sector
+Hood River,Communication,65,0.678693690905633,Sector
+Hood River,Trade,19,0.35669357988258177,Sector
+Hood River,Business_Services,51,0.2414797000714316,Sector
+Hood River,Business_Products,68,0.8767331470347859,Sector
+Hood River,Construction,52,0.09750891594121247,Sector
+Hood River,Services,77,0.1970550793286835,Sector
+Hood River,Mining,29,0.347532084712204,Sector
+Hood River,Health_Care,98,0.7378906596510428,Sector
+Hood River,EnergyExpL_Prod,64,0.611955152756532,Sector
+Hood River,Utilities,28,0.6552555170741216,Sector

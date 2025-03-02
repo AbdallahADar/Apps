@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Humboldt,430,0.5022611567516166,Overall
+Humboldt,HiTech,25,0.7717638424826501,Sector
+Humboldt,Agriculture,9,0.003085149668139442,Sector
+Humboldt,Transportation,26,0.9467459755739539,Sector
+Humboldt,Consumer_Products,33,0.19515336694124552,Sector
+Humboldt,Unassigned,11,0.7341095458533746,Sector
+Humboldt,Communication,3,0.7166872760878457,Sector
+Humboldt,Trade,55,0.5615463600358742,Sector
+Humboldt,Business_Services,31,0.7323996704544404,Sector
+Humboldt,Business_Products,41,0.682500658072829,Sector
+Humboldt,Construction,4,0.6713369545202875,Sector
+Humboldt,Services,24,0.09666828413581519,Sector
+Humboldt,Mining,78,0.199867967963697,Sector
+Humboldt,Health_Care,67,0.9320069294056821,Sector
+Humboldt,EnergyExpL_Prod,16,0.15337125019084252,Sector
+Humboldt,Utilities,7,0.13667411988757194,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Aargau,604,0.6197519810002696,Overall
+Aargau,HiTech,20,0.7809837426273192,Sector
+Aargau,Agriculture,22,0.018366003838742984,Sector
+Aargau,Transportation,83,0.42495166183177224,Sector
+Aargau,Consumer_Products,56,0.6059913293218412,Sector
+Aargau,Unassigned,56,0.6977282238672605,Sector
+Aargau,Communication,13,0.5903477882938825,Sector
+Aargau,Trade,6,0.9835578080573011,Sector
+Aargau,Business_Services,77,0.8987979042069106,Sector
+Aargau,Business_Products,4,0.9584236537803577,Sector
+Aargau,Construction,56,0.9184497936124115,Sector
+Aargau,Services,75,0.8240190019609561,Sector
+Aargau,Mining,25,0.1661971422819042,Sector
+Aargau,Health_Care,65,0.02791292934820111,Sector
+Aargau,EnergyExpL_Prod,34,0.6633507606739055,Sector
+Aargau,Utilities,12,0.7372019713012791,Sector

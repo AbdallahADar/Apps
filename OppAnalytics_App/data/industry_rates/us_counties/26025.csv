@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Calhoun,799,0.46477877797361516,Overall
+Calhoun,HiTech,83,0.006255144927817313,Sector
+Calhoun,Agriculture,43,0.9010526443333424,Sector
+Calhoun,Transportation,28,0.04771778973845975,Sector
+Calhoun,Consumer_Products,91,0.12281638749251655,Sector
+Calhoun,Unassigned,36,0.9358591217374703,Sector
+Calhoun,Communication,66,0.10468673426064079,Sector
+Calhoun,Trade,71,0.5418560850863584,Sector
+Calhoun,Business_Services,49,0.9983003197590609,Sector
+Calhoun,Business_Products,11,0.7376595439307638,Sector
+Calhoun,Construction,98,0.266279436702886,Sector
+Calhoun,Services,15,0.9681882826183141,Sector
+Calhoun,Mining,91,0.6718455830738976,Sector
+Calhoun,Health_Care,54,0.040172313339718824,Sector
+Calhoun,EnergyExpL_Prod,46,0.026176752725809882,Sector
+Calhoun,Utilities,17,0.6028155298771706,Sector

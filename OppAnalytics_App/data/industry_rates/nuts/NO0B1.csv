@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jan Mayen,741,0.4139019195978699,Overall
+Jan Mayen,HiTech,38,0.031082437554678766,Sector
+Jan Mayen,Agriculture,85,0.177283259700327,Sector
+Jan Mayen,Transportation,2,0.9827186379720085,Sector
+Jan Mayen,Consumer_Products,17,0.32080521014126895,Sector
+Jan Mayen,Unassigned,24,0.03526921619718659,Sector
+Jan Mayen,Communication,32,0.6777673227680404,Sector
+Jan Mayen,Trade,85,0.7560015794022191,Sector
+Jan Mayen,Business_Services,88,0.44934946026999967,Sector
+Jan Mayen,Business_Products,70,0.0014749251470114189,Sector
+Jan Mayen,Construction,25,0.21403009525561822,Sector
+Jan Mayen,Services,89,0.09747851304735988,Sector
+Jan Mayen,Mining,68,0.45134121588645426,Sector
+Jan Mayen,Health_Care,36,0.2523184425104804,Sector
+Jan Mayen,EnergyExpL_Prod,46,0.7937102008949539,Sector
+Jan Mayen,Utilities,36,0.9678982772204419,Sector

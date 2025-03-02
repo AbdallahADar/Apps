@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Iğdır,788,0.5258860306477782,Overall
+Iğdır,HiTech,88,0.6582818515850939,Sector
+Iğdır,Agriculture,60,0.4512116649293949,Sector
+Iğdır,Transportation,89,0.9335025576825153,Sector
+Iğdır,Consumer_Products,82,0.5400416857958614,Sector
+Iğdır,Unassigned,21,0.9534462615115054,Sector
+Iğdır,Communication,42,0.12981491583241467,Sector
+Iğdır,Trade,90,0.21282798740118958,Sector
+Iğdır,Business_Services,18,0.28287786524939373,Sector
+Iğdır,Business_Products,68,0.009300112280880901,Sector
+Iğdır,Construction,42,0.6362804429681781,Sector
+Iğdır,Services,14,0.8210002401355783,Sector
+Iğdır,Mining,63,0.1260458916599585,Sector
+Iğdır,Health_Care,24,0.8305169479318855,Sector
+Iğdır,EnergyExpL_Prod,72,0.3415398453758014,Sector
+Iğdır,Utilities,15,0.961602189377022,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cayuga,843,0.600354765455623,Overall
+Cayuga,HiTech,51,0.24896174876968058,Sector
+Cayuga,Agriculture,96,0.2512000875706628,Sector
+Cayuga,Transportation,83,0.1084866903988998,Sector
+Cayuga,Consumer_Products,93,0.6738530750168753,Sector
+Cayuga,Unassigned,13,0.5433300958989823,Sector
+Cayuga,Communication,93,0.507994062598387,Sector
+Cayuga,Trade,76,0.404246741751657,Sector
+Cayuga,Business_Services,64,0.8649792800504078,Sector
+Cayuga,Business_Products,25,0.77638399306473,Sector
+Cayuga,Construction,41,0.6993100465533838,Sector
+Cayuga,Services,29,0.48801356492061465,Sector
+Cayuga,Mining,72,0.8729248866018997,Sector
+Cayuga,Health_Care,7,0.9850053635145147,Sector
+Cayuga,EnergyExpL_Prod,56,0.6358622938074031,Sector
+Cayuga,Utilities,44,0.9447695513162471,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Runnels,767,0.48796651231769606,Overall
+Runnels,HiTech,82,0.9122337171144467,Sector
+Runnels,Agriculture,66,0.32105692425777876,Sector
+Runnels,Transportation,91,0.5986453384757958,Sector
+Runnels,Consumer_Products,19,0.7581339405844691,Sector
+Runnels,Unassigned,4,0.37011050407857604,Sector
+Runnels,Communication,72,0.767629552771369,Sector
+Runnels,Trade,54,0.22276092045790252,Sector
+Runnels,Business_Services,40,0.29210426293428493,Sector
+Runnels,Business_Products,55,0.03801225457479085,Sector
+Runnels,Construction,53,0.04949915176143438,Sector
+Runnels,Services,27,0.0021475639513205413,Sector
+Runnels,Mining,70,0.7664962909493895,Sector
+Runnels,Health_Care,67,0.9651800301637611,Sector
+Runnels,EnergyExpL_Prod,5,0.642500523178402,Sector
+Runnels,Utilities,62,0.6129867095117196,Sector

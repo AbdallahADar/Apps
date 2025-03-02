@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Örebro län,890,0.47444661847736813,Overall
+Örebro län,HiTech,81,0.08921953230770419,Sector
+Örebro län,Agriculture,62,0.8375529490372817,Sector
+Örebro län,Transportation,22,0.2811494299595436,Sector
+Örebro län,Consumer_Products,38,0.1974577871434231,Sector
+Örebro län,Unassigned,35,0.10763727283374858,Sector
+Örebro län,Communication,73,0.8077201660930504,Sector
+Örebro län,Trade,97,0.22119926209470164,Sector
+Örebro län,Business_Services,23,0.8639720008040369,Sector
+Örebro län,Business_Products,61,0.6256970346358908,Sector
+Örebro län,Construction,33,0.09767999272404237,Sector
+Örebro län,Services,62,0.45901436509361704,Sector
+Örebro län,Mining,69,0.9024610493203788,Sector
+Örebro län,Health_Care,87,0.8263485335318935,Sector
+Örebro län,EnergyExpL_Prod,58,0.03297347697573494,Sector
+Örebro län,Utilities,89,0.7666164246054742,Sector

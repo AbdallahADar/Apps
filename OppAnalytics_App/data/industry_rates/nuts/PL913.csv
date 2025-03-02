@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Warszawski zachodni,726,0.5665281739455825,Overall
+Warszawski zachodni,HiTech,93,0.5325865963693722,Sector
+Warszawski zachodni,Agriculture,82,0.5761576017413068,Sector
+Warszawski zachodni,Transportation,73,0.23609513952009065,Sector
+Warszawski zachodni,Consumer_Products,51,0.293080458442188,Sector
+Warszawski zachodni,Unassigned,85,0.8441934837785997,Sector
+Warszawski zachodni,Communication,7,0.9429454415794771,Sector
+Warszawski zachodni,Trade,58,0.015470195615143845,Sector
+Warszawski zachodni,Business_Services,80,0.42562573590082053,Sector
+Warszawski zachodni,Business_Products,56,0.7142712607885437,Sector
+Warszawski zachodni,Construction,10,0.8969646293179498,Sector
+Warszawski zachodni,Services,9,0.8074677199339746,Sector
+Warszawski zachodni,Mining,39,0.49723652493440595,Sector
+Warszawski zachodni,Health_Care,27,0.38030113326093895,Sector
+Warszawski zachodni,EnergyExpL_Prod,23,0.5866859646195746,Sector
+Warszawski zachodni,Utilities,33,0.7488407233813489,Sector

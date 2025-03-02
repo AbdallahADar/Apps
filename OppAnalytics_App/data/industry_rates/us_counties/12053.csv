@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hernando,615,0.581546001623721,Overall
+Hernando,HiTech,13,0.7811187232830378,Sector
+Hernando,Agriculture,92,0.9197641023965996,Sector
+Hernando,Transportation,45,0.8615062954613935,Sector
+Hernando,Consumer_Products,44,0.6136347116630481,Sector
+Hernando,Unassigned,30,0.21892487417076167,Sector
+Hernando,Communication,62,0.5385508066000085,Sector
+Hernando,Trade,14,0.9898007891682434,Sector
+Hernando,Business_Services,2,0.7702223504940613,Sector
+Hernando,Business_Products,9,0.7763052392190437,Sector
+Hernando,Construction,77,0.6511706998847565,Sector
+Hernando,Services,47,0.3144657024988803,Sector
+Hernando,Mining,57,0.39054830954047415,Sector
+Hernando,Health_Care,72,0.027547715115516458,Sector
+Hernando,EnergyExpL_Prod,18,0.20620368248373522,Sector
+Hernando,Utilities,33,0.6634260223762554,Sector

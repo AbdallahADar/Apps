@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stanislaus,792,0.550361980736631,Overall
+Stanislaus,HiTech,61,0.25275991106830786,Sector
+Stanislaus,Agriculture,28,0.7876024523738087,Sector
+Stanislaus,Transportation,72,0.45751326787279567,Sector
+Stanislaus,Consumer_Products,93,0.5658287878280945,Sector
+Stanislaus,Unassigned,36,0.23486610959298326,Sector
+Stanislaus,Communication,85,0.15885720019300653,Sector
+Stanislaus,Trade,68,0.3188468750345598,Sector
+Stanislaus,Business_Services,89,0.6127692448084697,Sector
+Stanislaus,Business_Products,44,0.4869810956482137,Sector
+Stanislaus,Construction,56,0.7873424413417202,Sector
+Stanislaus,Services,33,0.3819501600311018,Sector
+Stanislaus,Mining,42,0.8034100897591105,Sector
+Stanislaus,Health_Care,27,0.8038798176191223,Sector
+Stanislaus,EnergyExpL_Prod,4,0.7700680891310411,Sector
+Stanislaus,Utilities,54,0.8327541687471298,Sector

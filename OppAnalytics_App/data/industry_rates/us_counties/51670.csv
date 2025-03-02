@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hopewell,753,0.5054171486744304,Overall
+Hopewell,HiTech,31,0.11265892221510165,Sector
+Hopewell,Agriculture,52,0.7096645001311945,Sector
+Hopewell,Transportation,62,0.23421968320235265,Sector
+Hopewell,Consumer_Products,96,0.8617959318848588,Sector
+Hopewell,Unassigned,52,0.5133052568902409,Sector
+Hopewell,Communication,44,0.013637582841944051,Sector
+Hopewell,Trade,5,0.9862510117939153,Sector
+Hopewell,Business_Services,36,0.42086340811003464,Sector
+Hopewell,Business_Products,95,0.4448602801618655,Sector
+Hopewell,Construction,64,0.4447753404582344,Sector
+Hopewell,Services,56,0.5611288359664547,Sector
+Hopewell,Mining,48,0.6240780236781097,Sector
+Hopewell,Health_Care,1,0.8078061718397413,Sector
+Hopewell,EnergyExpL_Prod,31,0.2833049931435486,Sector
+Hopewell,Utilities,80,0.5629072877988596,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Summers,842,0.5970656746865142,Overall
+Summers,HiTech,26,0.465337142303911,Sector
+Summers,Agriculture,6,0.7067526566472279,Sector
+Summers,Transportation,16,0.8698499463669631,Sector
+Summers,Consumer_Products,77,0.7306549277140596,Sector
+Summers,Unassigned,88,0.0023199031009392135,Sector
+Summers,Communication,31,0.9599034870695675,Sector
+Summers,Trade,60,0.315875880332975,Sector
+Summers,Business_Services,30,0.27776356328520635,Sector
+Summers,Business_Products,35,0.8247229286422173,Sector
+Summers,Construction,83,0.39151098386131256,Sector
+Summers,Services,98,0.4023406389309869,Sector
+Summers,Mining,94,0.15244098844403542,Sector
+Summers,Health_Care,81,0.9612892441325894,Sector
+Summers,EnergyExpL_Prod,92,0.989975429269534,Sector
+Summers,Utilities,25,0.9052474001961867,Sector

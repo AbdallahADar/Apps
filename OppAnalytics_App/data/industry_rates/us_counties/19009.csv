@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Audubon,539,0.470692485179536,Overall
+Audubon,HiTech,73,0.19782484620428442,Sector
+Audubon,Agriculture,20,0.32327593702097357,Sector
+Audubon,Transportation,56,0.6410123122977411,Sector
+Audubon,Consumer_Products,99,0.06701078150168582,Sector
+Audubon,Unassigned,18,0.4335702967845877,Sector
+Audubon,Communication,5,0.5222801100259,Sector
+Audubon,Trade,38,0.80464390100074,Sector
+Audubon,Business_Services,23,0.20667076006276464,Sector
+Audubon,Business_Products,3,0.40081750625854584,Sector
+Audubon,Construction,22,0.9752576295094434,Sector
+Audubon,Services,38,0.4976451758627636,Sector
+Audubon,Mining,56,0.11710388666059346,Sector
+Audubon,Health_Care,4,0.8510851668280837,Sector
+Audubon,EnergyExpL_Prod,56,0.7739542782981282,Sector
+Audubon,Utilities,28,0.24823468937680493,Sector

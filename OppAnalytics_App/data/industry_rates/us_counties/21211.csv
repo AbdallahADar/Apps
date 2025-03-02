@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Shelby,748,0.605957550822652,Overall
+Shelby,HiTech,49,0.3859377139944289,Sector
+Shelby,Agriculture,9,0.7751568937181035,Sector
+Shelby,Transportation,55,0.45235915987116115,Sector
+Shelby,Consumer_Products,9,0.4268029431594059,Sector
+Shelby,Unassigned,80,0.7232131563076879,Sector
+Shelby,Communication,37,0.0934548810623288,Sector
+Shelby,Trade,15,0.0344256931291681,Sector
+Shelby,Business_Services,87,0.806725736626539,Sector
+Shelby,Business_Products,69,0.503929745367919,Sector
+Shelby,Construction,77,0.9464555284068662,Sector
+Shelby,Services,43,0.5042443622220902,Sector
+Shelby,Mining,51,0.6997010002934054,Sector
+Shelby,Health_Care,24,0.91954724374365,Sector
+Shelby,EnergyExpL_Prod,68,0.9997225483728073,Sector
+Shelby,Utilities,75,0.8176866560642204,Sector

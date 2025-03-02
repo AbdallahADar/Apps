@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ford,966,0.4950664864493658,Overall
+Ford,HiTech,97,0.9130512435721544,Sector
+Ford,Agriculture,78,0.21806446794473455,Sector
+Ford,Transportation,97,0.4494400314846968,Sector
+Ford,Consumer_Products,89,0.37735332076607986,Sector
+Ford,Unassigned,10,0.677887770259113,Sector
+Ford,Communication,51,0.17976148090977362,Sector
+Ford,Trade,67,0.7904939673548003,Sector
+Ford,Business_Services,62,0.4220447508211215,Sector
+Ford,Business_Products,80,0.41005208224248,Sector
+Ford,Construction,21,0.19802049469653116,Sector
+Ford,Services,60,0.5920324934773129,Sector
+Ford,Mining,67,0.6548160592282868,Sector
+Ford,Health_Care,99,0.58923648188567,Sector
+Ford,EnergyExpL_Prod,54,0.8711698093576453,Sector
+Ford,Utilities,34,0.08257284274008792,Sector

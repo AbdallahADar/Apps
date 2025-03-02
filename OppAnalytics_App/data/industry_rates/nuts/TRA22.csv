@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kars,685,0.4834817698769881,Overall
+Kars,HiTech,95,0.814588497739196,Sector
+Kars,Agriculture,86,0.6443850136235353,Sector
+Kars,Transportation,42,0.11249779641331892,Sector
+Kars,Consumer_Products,76,0.419264757242367,Sector
+Kars,Unassigned,53,0.31049493713066956,Sector
+Kars,Communication,39,0.6237969333211103,Sector
+Kars,Trade,29,0.42175941521341476,Sector
+Kars,Business_Services,29,0.10407725047481597,Sector
+Kars,Business_Products,5,0.11341673190462664,Sector
+Kars,Construction,94,0.9063508989041166,Sector
+Kars,Services,78,0.41460314917257146,Sector
+Kars,Mining,12,0.6831100730708598,Sector
+Kars,Health_Care,8,0.4641400769253262,Sector
+Kars,EnergyExpL_Prod,3,0.2712901804304533,Sector
+Kars,Utilities,36,0.94845083658844,Sector

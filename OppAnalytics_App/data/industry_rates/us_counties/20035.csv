@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cowley,832,0.45385018991551795,Overall
+Cowley,HiTech,76,0.22618032086375717,Sector
+Cowley,Agriculture,90,0.21368617224724573,Sector
+Cowley,Transportation,94,0.14523416866326622,Sector
+Cowley,Consumer_Products,45,0.6192194781298765,Sector
+Cowley,Unassigned,30,0.7715229360080036,Sector
+Cowley,Communication,30,0.33083025664478627,Sector
+Cowley,Trade,45,0.7628878486250996,Sector
+Cowley,Business_Services,5,0.5271267286406893,Sector
+Cowley,Business_Products,36,0.44182028130916096,Sector
+Cowley,Construction,66,0.4242419597774102,Sector
+Cowley,Services,74,0.8598234688541746,Sector
+Cowley,Mining,78,0.4108437110474985,Sector
+Cowley,Health_Care,22,0.7161627570345992,Sector
+Cowley,EnergyExpL_Prod,61,0.06597336574176527,Sector
+Cowley,Utilities,80,0.2921993951454357,Sector

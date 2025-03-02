@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hlavní město Praha,703,0.5203508506209688,Overall
+Hlavní město Praha,HiTech,20,0.5567236856697904,Sector
+Hlavní město Praha,Agriculture,19,0.9062938954550093,Sector
+Hlavní město Praha,Transportation,69,0.33629432848569807,Sector
+Hlavní město Praha,Consumer_Products,18,0.306939718203035,Sector
+Hlavní město Praha,Unassigned,61,0.9790502854356046,Sector
+Hlavní město Praha,Communication,60,0.6031326688433031,Sector
+Hlavní město Praha,Trade,21,0.8865305221185057,Sector
+Hlavní město Praha,Business_Services,63,0.48160457456678185,Sector
+Hlavní město Praha,Business_Products,37,0.33673695760961075,Sector
+Hlavní město Praha,Construction,68,0.1646085429411669,Sector
+Hlavní město Praha,Services,85,0.22338757007700472,Sector
+Hlavní město Praha,Mining,19,0.7316286014149851,Sector
+Hlavní město Praha,Health_Care,70,0.5187814889759582,Sector
+Hlavní město Praha,EnergyExpL_Prod,74,0.7161057921714067,Sector
+Hlavní město Praha,Utilities,19,0.05744412734667348,Sector

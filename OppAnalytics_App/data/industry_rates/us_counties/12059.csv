@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Holmes,777,0.4798936224075253,Overall
+Holmes,HiTech,89,0.7525446290396411,Sector
+Holmes,Agriculture,33,0.5174644502367265,Sector
+Holmes,Transportation,71,0.5983734230240464,Sector
+Holmes,Consumer_Products,39,0.2944272096373153,Sector
+Holmes,Unassigned,64,0.6095331817020478,Sector
+Holmes,Communication,64,0.6549863959915313,Sector
+Holmes,Trade,96,0.531146643642524,Sector
+Holmes,Business_Services,3,0.06307559935784923,Sector
+Holmes,Business_Products,60,0.9647548221230416,Sector
+Holmes,Construction,56,0.29237047577031383,Sector
+Holmes,Services,88,0.24030111231031293,Sector
+Holmes,Mining,12,0.22618454853769665,Sector
+Holmes,Health_Care,12,0.9416798849281917,Sector
+Holmes,EnergyExpL_Prod,4,0.2729679757483262,Sector
+Holmes,Utilities,86,0.2385939840633151,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mora,513,0.5070241060569067,Overall
+Mora,HiTech,4,0.5053817311037652,Sector
+Mora,Agriculture,18,0.7166606903544336,Sector
+Mora,Transportation,79,0.5490236197397842,Sector
+Mora,Consumer_Products,47,0.5318985333537866,Sector
+Mora,Unassigned,64,0.021376419513087552,Sector
+Mora,Communication,80,0.15841510188626706,Sector
+Mora,Trade,4,0.1713542138943035,Sector
+Mora,Business_Services,4,0.7937360703373323,Sector
+Mora,Business_Products,92,0.4602416237403183,Sector
+Mora,Construction,5,0.5176524092582457,Sector
+Mora,Services,53,0.5606136348069953,Sector
+Mora,Mining,23,0.9480884559435392,Sector
+Mora,Health_Care,9,0.29498111155330564,Sector
+Mora,EnergyExpL_Prod,26,0.9531391054111985,Sector
+Mora,Utilities,5,0.4227988699572386,Sector

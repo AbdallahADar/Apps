@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Matagorda,675,0.48054793390877837,Overall
+Matagorda,HiTech,25,0.8202719766415696,Sector
+Matagorda,Agriculture,96,0.5630486987452814,Sector
+Matagorda,Transportation,8,0.9073186184977996,Sector
+Matagorda,Consumer_Products,94,0.1254711946711463,Sector
+Matagorda,Unassigned,13,0.5415152570189733,Sector
+Matagorda,Communication,86,0.4454611523387775,Sector
+Matagorda,Trade,83,0.8212817150079466,Sector
+Matagorda,Business_Services,32,0.23702847929910797,Sector
+Matagorda,Business_Products,28,0.14003185782299665,Sector
+Matagorda,Construction,22,0.776145416952759,Sector
+Matagorda,Services,76,0.12733365228223525,Sector
+Matagorda,Mining,70,0.7262895632452936,Sector
+Matagorda,Health_Care,0,0.31825376295258767,Sector
+Matagorda,EnergyExpL_Prod,22,0.22805482435563684,Sector
+Matagorda,Utilities,20,0.43071283879956357,Sector

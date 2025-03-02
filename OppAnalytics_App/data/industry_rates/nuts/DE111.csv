@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Stuttgart, Stadtkreis",624,0.4709770496306398,Overall
+"Stuttgart, Stadtkreis",HiTech,63,0.7403231330203313,Sector
+"Stuttgart, Stadtkreis",Agriculture,65,0.757469216320488,Sector
+"Stuttgart, Stadtkreis",Transportation,9,0.028448507317842098,Sector
+"Stuttgart, Stadtkreis",Consumer_Products,62,0.05586748883097603,Sector
+"Stuttgart, Stadtkreis",Unassigned,12,0.7128916115309076,Sector
+"Stuttgart, Stadtkreis",Communication,31,0.42458401609189655,Sector
+"Stuttgart, Stadtkreis",Trade,48,0.11286151243590126,Sector
+"Stuttgart, Stadtkreis",Business_Services,54,0.5673288011571817,Sector
+"Stuttgart, Stadtkreis",Business_Products,64,0.9365759272818058,Sector
+"Stuttgart, Stadtkreis",Construction,27,0.22719962801622529,Sector
+"Stuttgart, Stadtkreis",Services,53,0.32107096543870317,Sector
+"Stuttgart, Stadtkreis",Mining,6,0.6038730299711905,Sector
+"Stuttgart, Stadtkreis",Health_Care,54,0.1485359241516907,Sector
+"Stuttgart, Stadtkreis",EnergyExpL_Prod,32,0.9061505977982784,Sector
+"Stuttgart, Stadtkreis",Utilities,44,0.5214753850961786,Sector

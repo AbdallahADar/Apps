@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Glasscock,802,0.5952233724305921,Overall
+Glasscock,HiTech,76,0.6001658920987607,Sector
+Glasscock,Agriculture,70,0.9319953229126705,Sector
+Glasscock,Transportation,68,0.6581840842156575,Sector
+Glasscock,Consumer_Products,65,0.6026839615715475,Sector
+Glasscock,Unassigned,85,0.42681143484985296,Sector
+Glasscock,Communication,51,0.8232713975924207,Sector
+Glasscock,Trade,84,0.9576903117599291,Sector
+Glasscock,Business_Services,44,0.3313353278123916,Sector
+Glasscock,Business_Products,0,0.49590445148203044,Sector
+Glasscock,Construction,57,0.12960256850558438,Sector
+Glasscock,Services,24,0.3401787168353272,Sector
+Glasscock,Mining,85,0.4703291780518367,Sector
+Glasscock,Health_Care,14,0.6511453832859245,Sector
+Glasscock,EnergyExpL_Prod,79,0.7668166312290623,Sector
+Glasscock,Utilities,0,0.7422359242558848,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sevilla,733,0.45713782577429873,Overall
+Sevilla,HiTech,94,0.05561056133155218,Sector
+Sevilla,Agriculture,61,0.49461480308380834,Sector
+Sevilla,Transportation,23,0.42012642991418914,Sector
+Sevilla,Consumer_Products,55,0.7762525740151928,Sector
+Sevilla,Unassigned,14,0.2670017044710058,Sector
+Sevilla,Communication,88,0.03039105928034358,Sector
+Sevilla,Trade,75,0.5724261580558733,Sector
+Sevilla,Business_Services,39,0.7983923094761223,Sector
+Sevilla,Business_Products,98,0.36810187533891625,Sector
+Sevilla,Construction,69,0.061648013265295454,Sector
+Sevilla,Services,19,0.4300173214326388,Sector
+Sevilla,Mining,17,0.9881353286257354,Sector
+Sevilla,Health_Care,25,0.6438182062926404,Sector
+Sevilla,EnergyExpL_Prod,55,0.33776154680382475,Sector
+Sevilla,Utilities,1,0.612769495227342,Sector

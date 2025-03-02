@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gallia,870,0.5489062933994925,Overall
+Gallia,HiTech,22,0.6146948334035371,Sector
+Gallia,Agriculture,81,0.9428917746935929,Sector
+Gallia,Transportation,24,0.7881709387485355,Sector
+Gallia,Consumer_Products,69,0.36613403695558855,Sector
+Gallia,Unassigned,85,0.31333766511095973,Sector
+Gallia,Communication,59,0.8070769727226843,Sector
+Gallia,Trade,60,0.7030993929319787,Sector
+Gallia,Business_Services,94,0.9424644538914118,Sector
+Gallia,Business_Products,1,0.3672242216305547,Sector
+Gallia,Construction,90,0.9716782265239597,Sector
+Gallia,Services,79,0.4508135134140048,Sector
+Gallia,Mining,74,0.08848704675753327,Sector
+Gallia,Health_Care,51,0.6725565145113495,Sector
+Gallia,EnergyExpL_Prod,19,0.059142572372179236,Sector
+Gallia,Utilities,62,0.14582223732451782,Sector

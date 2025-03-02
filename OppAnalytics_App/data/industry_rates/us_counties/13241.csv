@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rabun,962,0.4579382956926311,Overall
+Rabun,HiTech,94,0.22492242709883004,Sector
+Rabun,Agriculture,94,0.3096482004905813,Sector
+Rabun,Transportation,28,0.3415881623202439,Sector
+Rabun,Consumer_Products,86,0.37050600658557964,Sector
+Rabun,Unassigned,75,0.5033976403337843,Sector
+Rabun,Communication,16,0.7647882996462787,Sector
+Rabun,Trade,67,0.1341954484592628,Sector
+Rabun,Business_Services,49,0.881242038558226,Sector
+Rabun,Business_Products,76,0.09010245231370784,Sector
+Rabun,Construction,5,0.4784588730266218,Sector
+Rabun,Services,87,0.7998723587490062,Sector
+Rabun,Mining,74,0.7241641036235287,Sector
+Rabun,Health_Care,70,0.3754766845427897,Sector
+Rabun,EnergyExpL_Prod,45,0.1166200458267389,Sector
+Rabun,Utilities,96,0.7540916938142873,Sector

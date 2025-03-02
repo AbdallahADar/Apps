@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hughes,777,0.5100425054451909,Overall
+Hughes,HiTech,13,0.9921293628428948,Sector
+Hughes,Agriculture,81,0.12347945636506619,Sector
+Hughes,Transportation,98,0.6822787772322566,Sector
+Hughes,Consumer_Products,75,0.4296689066763647,Sector
+Hughes,Unassigned,69,0.46703320825418826,Sector
+Hughes,Communication,65,0.8446610379140354,Sector
+Hughes,Trade,38,0.2864048472984453,Sector
+Hughes,Business_Services,34,0.5977976800422719,Sector
+Hughes,Business_Products,29,0.9842265491192527,Sector
+Hughes,Construction,21,0.415633819494013,Sector
+Hughes,Services,35,0.3152715077235697,Sector
+Hughes,Mining,86,0.12072508132920712,Sector
+Hughes,Health_Care,30,0.9074909666734297,Sector
+Hughes,EnergyExpL_Prod,75,0.34992197456611984,Sector
+Hughes,Utilities,28,0.13391440614674988,Sector

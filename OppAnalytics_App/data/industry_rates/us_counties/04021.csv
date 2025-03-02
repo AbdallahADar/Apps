@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pinal,750,0.5191932147252246,Overall
+Pinal,HiTech,63,0.9188838519861228,Sector
+Pinal,Agriculture,63,0.6361813900013871,Sector
+Pinal,Transportation,68,0.2841487299222216,Sector
+Pinal,Consumer_Products,49,0.23974003334675287,Sector
+Pinal,Unassigned,44,0.7972022877148134,Sector
+Pinal,Communication,40,0.7041463223805838,Sector
+Pinal,Trade,50,0.16872331789698736,Sector
+Pinal,Business_Services,39,0.8686232088160237,Sector
+Pinal,Business_Products,52,0.8309102598525453,Sector
+Pinal,Construction,66,0.2547771495865214,Sector
+Pinal,Services,57,0.02310258459240222,Sector
+Pinal,Mining,53,0.637094185795276,Sector
+Pinal,Health_Care,91,0.16595818753495484,Sector
+Pinal,EnergyExpL_Prod,15,0.46764197103232796,Sector
+Pinal,Utilities,0,0.7907647404194484,Sector

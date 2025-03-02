@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Charlevoix,810,0.3665543776321878,Overall
+Charlevoix,HiTech,95,0.02183077280365353,Sector
+Charlevoix,Agriculture,57,0.30303845423039555,Sector
+Charlevoix,Transportation,84,0.057147660945174095,Sector
+Charlevoix,Consumer_Products,20,0.4733036786965603,Sector
+Charlevoix,Unassigned,89,0.9788825889299458,Sector
+Charlevoix,Communication,47,0.5155916547316217,Sector
+Charlevoix,Trade,62,0.3395047076560682,Sector
+Charlevoix,Business_Services,18,0.43905048916937006,Sector
+Charlevoix,Business_Products,13,0.6006959134537898,Sector
+Charlevoix,Construction,87,0.6977052971875092,Sector
+Charlevoix,Services,99,0.21088661751527948,Sector
+Charlevoix,Mining,73,0.43960663283180157,Sector
+Charlevoix,Health_Care,43,0.3546571446289377,Sector
+Charlevoix,EnergyExpL_Prod,0,0.010391984905590013,Sector
+Charlevoix,Utilities,23,0.05602206679711963,Sector

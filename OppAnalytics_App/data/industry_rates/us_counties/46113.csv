@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Shannon,848,0.4796108657502844,Overall
+Shannon,HiTech,74,0.29237355494543793,Sector
+Shannon,Agriculture,86,0.670384234305681,Sector
+Shannon,Transportation,41,0.6030156405798961,Sector
+Shannon,Consumer_Products,86,0.8722309543477573,Sector
+Shannon,Unassigned,91,0.00212341930493376,Sector
+Shannon,Communication,88,0.6333485945141004,Sector
+Shannon,Trade,41,0.09247317995747129,Sector
+Shannon,Business_Services,91,0.8385713868113419,Sector
+Shannon,Business_Products,42,0.3793991842073383,Sector
+Shannon,Construction,85,0.4290263728135387,Sector
+Shannon,Services,37,0.3043527030034122,Sector
+Shannon,Mining,66,0.528229869790856,Sector
+Shannon,Health_Care,7,0.5071575641763748,Sector
+Shannon,EnergyExpL_Prod,0,0.6601897092863164,Sector
+Shannon,Utilities,13,0.38128661820980936,Sector

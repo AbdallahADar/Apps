@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sweetwater,906,0.6331975675234597,Overall
+Sweetwater,HiTech,64,0.07020901684089875,Sector
+Sweetwater,Agriculture,68,0.9516302075832699,Sector
+Sweetwater,Transportation,86,0.6343558727704646,Sector
+Sweetwater,Consumer_Products,78,0.6287502483567434,Sector
+Sweetwater,Unassigned,80,0.9964516221850345,Sector
+Sweetwater,Communication,29,0.43532626718732204,Sector
+Sweetwater,Trade,9,0.7109751539889136,Sector
+Sweetwater,Business_Services,78,0.6704017304157721,Sector
+Sweetwater,Business_Products,93,0.9071920322778481,Sector
+Sweetwater,Construction,38,0.8192857701393713,Sector
+Sweetwater,Services,76,0.40231310210909044,Sector
+Sweetwater,Mining,60,0.6082874399597484,Sector
+Sweetwater,Health_Care,43,0.45130181535434233,Sector
+Sweetwater,EnergyExpL_Prod,31,0.8622889192035187,Sector
+Sweetwater,Utilities,73,0.3491943144795562,Sector

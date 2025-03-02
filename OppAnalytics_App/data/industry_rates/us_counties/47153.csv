@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sequatchie,712,0.6143298550604304,Overall
+Sequatchie,HiTech,91,0.5725641908059008,Sector
+Sequatchie,Agriculture,3,0.5964170446682246,Sector
+Sequatchie,Transportation,72,0.5262613069180166,Sector
+Sequatchie,Consumer_Products,14,0.9281142101523311,Sector
+Sequatchie,Unassigned,10,0.7742442633961104,Sector
+Sequatchie,Communication,56,0.18067806085667848,Sector
+Sequatchie,Trade,49,0.6712692560491923,Sector
+Sequatchie,Business_Services,15,0.2000818572659695,Sector
+Sequatchie,Business_Products,55,0.9357722314606888,Sector
+Sequatchie,Construction,33,0.5497102219179343,Sector
+Sequatchie,Services,35,0.11180784317616821,Sector
+Sequatchie,Mining,81,0.7297044924899924,Sector
+Sequatchie,Health_Care,92,0.9881994639470558,Sector
+Sequatchie,EnergyExpL_Prod,59,0.9169167769557128,Sector
+Sequatchie,Utilities,47,0.5332066058464782,Sector

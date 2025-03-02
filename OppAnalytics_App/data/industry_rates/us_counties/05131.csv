@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sebastian,689,0.5959744404171841,Overall
+Sebastian,HiTech,63,0.3635285237207221,Sector
+Sebastian,Agriculture,93,0.34318855221783073,Sector
+Sebastian,Transportation,45,0.902961157326279,Sector
+Sebastian,Consumer_Products,39,0.8024411539924484,Sector
+Sebastian,Unassigned,58,0.7591658536811094,Sector
+Sebastian,Communication,5,0.14610022917694465,Sector
+Sebastian,Trade,56,0.7487381525408044,Sector
+Sebastian,Business_Services,75,0.4696640294944525,Sector
+Sebastian,Business_Products,1,0.6987752169022304,Sector
+Sebastian,Construction,38,0.8854914746934192,Sector
+Sebastian,Services,22,0.9964419678075132,Sector
+Sebastian,Mining,10,0.28660916370814227,Sector
+Sebastian,Health_Care,36,0.4983990016055698,Sector
+Sebastian,EnergyExpL_Prod,82,0.12151039876942804,Sector
+Sebastian,Utilities,66,0.9166017306208667,Sector

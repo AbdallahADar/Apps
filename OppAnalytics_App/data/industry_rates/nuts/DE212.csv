@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"München, Kreisfreie Stadt",801,0.5353029166524669,Overall
+"München, Kreisfreie Stadt",HiTech,91,0.31542975055473965,Sector
+"München, Kreisfreie Stadt",Agriculture,70,0.26687366676706814,Sector
+"München, Kreisfreie Stadt",Transportation,86,0.7659963300883258,Sector
+"München, Kreisfreie Stadt",Consumer_Products,9,0.5584942149999799,Sector
+"München, Kreisfreie Stadt",Unassigned,86,0.6109041230659135,Sector
+"München, Kreisfreie Stadt",Communication,22,0.7148203385106928,Sector
+"München, Kreisfreie Stadt",Trade,28,0.005054434408557573,Sector
+"München, Kreisfreie Stadt",Business_Services,35,0.5554777336100397,Sector
+"München, Kreisfreie Stadt",Business_Products,82,0.14860553103014884,Sector
+"München, Kreisfreie Stadt",Construction,91,0.9772509139934472,Sector
+"München, Kreisfreie Stadt",Services,23,0.8441084562702296,Sector
+"München, Kreisfreie Stadt",Mining,67,0.5989332208547612,Sector
+"München, Kreisfreie Stadt",Health_Care,61,0.8981233155113957,Sector
+"München, Kreisfreie Stadt",EnergyExpL_Prod,9,0.42396320459834735,Sector
+"München, Kreisfreie Stadt",Utilities,41,0.3455085155233564,Sector

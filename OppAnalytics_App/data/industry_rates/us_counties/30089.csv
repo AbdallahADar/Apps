@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sanders,756,0.5366218276415469,Overall
+Sanders,HiTech,58,0.2151373646031257,Sector
+Sanders,Agriculture,16,0.025340355634082545,Sector
+Sanders,Transportation,62,0.4390490451154667,Sector
+Sanders,Consumer_Products,15,0.729378173075251,Sector
+Sanders,Unassigned,76,0.599160238737343,Sector
+Sanders,Communication,19,0.4366756955425244,Sector
+Sanders,Trade,47,0.5839625066120537,Sector
+Sanders,Business_Services,27,0.553900247718299,Sector
+Sanders,Business_Products,76,0.861828378744721,Sector
+Sanders,Construction,66,0.7043487774149703,Sector
+Sanders,Services,95,0.8439969470707619,Sector
+Sanders,Mining,49,0.3615189918159124,Sector
+Sanders,Health_Care,40,0.8257602470680994,Sector
+Sanders,EnergyExpL_Prod,14,0.17555450587162946,Sector
+Sanders,Utilities,96,0.6937159395989629,Sector

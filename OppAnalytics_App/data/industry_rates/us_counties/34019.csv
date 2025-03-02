@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hunterdon,690,0.49851233373774134,Overall
+Hunterdon,HiTech,92,0.7016524046338694,Sector
+Hunterdon,Agriculture,39,0.8117622115738773,Sector
+Hunterdon,Transportation,78,0.8580571304471893,Sector
+Hunterdon,Consumer_Products,0,0.7120237211637679,Sector
+Hunterdon,Unassigned,36,0.2568433727806583,Sector
+Hunterdon,Communication,51,0.2928987573541183,Sector
+Hunterdon,Trade,58,0.5701890310465861,Sector
+Hunterdon,Business_Services,68,0.8662987869460637,Sector
+Hunterdon,Business_Products,0,0.45517273841406447,Sector
+Hunterdon,Construction,47,0.27586022624932593,Sector
+Hunterdon,Services,13,0.5511071699260721,Sector
+Hunterdon,Mining,88,0.08812877015253096,Sector
+Hunterdon,Health_Care,2,0.48496604320884507,Sector
+Hunterdon,EnergyExpL_Prod,59,0.5278267411340453,Sector
+Hunterdon,Utilities,59,0.024897901035105918,Sector

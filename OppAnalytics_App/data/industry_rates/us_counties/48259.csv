@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kendall,923,0.38709173588541046,Overall
+Kendall,HiTech,83,0.12969819524838633,Sector
+Kendall,Agriculture,15,0.3395274940149985,Sector
+Kendall,Transportation,23,0.6610641230737148,Sector
+Kendall,Consumer_Products,93,0.47357460201688095,Sector
+Kendall,Unassigned,15,0.09212853870690474,Sector
+Kendall,Communication,12,0.005608497557688885,Sector
+Kendall,Trade,91,0.6698439040143039,Sector
+Kendall,Business_Services,84,0.5575484193030245,Sector
+Kendall,Business_Products,59,0.606398972936169,Sector
+Kendall,Construction,84,0.5379124065352389,Sector
+Kendall,Services,76,0.17098429899044165,Sector
+Kendall,Mining,85,0.3311857882900072,Sector
+Kendall,Health_Care,66,0.8681070000973526,Sector
+Kendall,EnergyExpL_Prod,74,0.24268942154788387,Sector
+Kendall,Utilities,63,0.12010437594816137,Sector

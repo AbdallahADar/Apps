@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Big Horn,673,0.539336939241367,Overall
+Big Horn,HiTech,20,0.7829650219881701,Sector
+Big Horn,Agriculture,7,0.9218523104406676,Sector
+Big Horn,Transportation,51,0.39541571158303557,Sector
+Big Horn,Consumer_Products,7,0.5590441792616155,Sector
+Big Horn,Unassigned,81,0.8414631984648447,Sector
+Big Horn,Communication,33,0.10229892489366021,Sector
+Big Horn,Trade,67,0.24276493419262912,Sector
+Big Horn,Business_Services,53,0.8117003064927111,Sector
+Big Horn,Business_Products,68,0.19881613037878032,Sector
+Big Horn,Construction,90,0.7076836527584967,Sector
+Big Horn,Services,40,0.45811927686917064,Sector
+Big Horn,Mining,87,0.1695592844761452,Sector
+Big Horn,Health_Care,18,0.7560538366221767,Sector
+Big Horn,EnergyExpL_Prod,7,0.8473814336572647,Sector
+Big Horn,Utilities,44,0.294935886541138,Sector

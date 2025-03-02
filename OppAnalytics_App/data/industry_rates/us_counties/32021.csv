@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mineral,653,0.5825091972309765,Overall
+Mineral,HiTech,60,0.9980849039285812,Sector
+Mineral,Agriculture,78,0.8835570211624892,Sector
+Mineral,Transportation,66,0.9578495099007706,Sector
+Mineral,Consumer_Products,41,0.5557171187674446,Sector
+Mineral,Unassigned,47,0.28904224270347767,Sector
+Mineral,Communication,94,0.38681581662979625,Sector
+Mineral,Trade,6,0.9069596781460653,Sector
+Mineral,Business_Services,45,0.9491387259071791,Sector
+Mineral,Business_Products,43,0.44759853106332037,Sector
+Mineral,Construction,4,0.8457202674313579,Sector
+Mineral,Services,46,0.48389061400368805,Sector
+Mineral,Mining,11,0.7320256286166086,Sector
+Mineral,Health_Care,3,0.15145665205730763,Sector
+Mineral,EnergyExpL_Prod,73,0.125737096415522,Sector
+Mineral,Utilities,36,0.024044151731039576,Sector

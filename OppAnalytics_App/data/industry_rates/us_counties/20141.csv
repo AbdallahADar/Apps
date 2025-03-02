@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Osborne,720,0.4645781948064396,Overall
+Osborne,HiTech,75,0.4196527387806054,Sector
+Osborne,Agriculture,0,0.7891045421547098,Sector
+Osborne,Transportation,4,0.29040649276865027,Sector
+Osborne,Consumer_Products,90,0.3833498179285806,Sector
+Osborne,Unassigned,69,0.0690659257075662,Sector
+Osborne,Communication,35,0.04928064113450692,Sector
+Osborne,Trade,85,0.8839980202704927,Sector
+Osborne,Business_Services,27,0.9565968537965266,Sector
+Osborne,Business_Products,51,0.5664261689392758,Sector
+Osborne,Construction,84,0.5345420074920534,Sector
+Osborne,Services,57,0.8910458797584105,Sector
+Osborne,Mining,84,0.0016082862656554564,Sector
+Osborne,Health_Care,11,0.5815463798830375,Sector
+Osborne,EnergyExpL_Prod,47,0.08419934774475435,Sector
+Osborne,Utilities,1,0.46784981947176807,Sector

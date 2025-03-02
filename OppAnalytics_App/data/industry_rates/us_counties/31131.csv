@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Otoe,754,0.5777441435744348,Overall
+Otoe,HiTech,49,0.3427904683120504,Sector
+Otoe,Agriculture,63,0.7071039658061367,Sector
+Otoe,Transportation,30,0.8565083041211955,Sector
+Otoe,Consumer_Products,18,0.734336375647163,Sector
+Otoe,Unassigned,45,0.6354916262813661,Sector
+Otoe,Communication,51,0.8859733246972186,Sector
+Otoe,Trade,51,0.3021077812597399,Sector
+Otoe,Business_Services,2,0.7132973935719549,Sector
+Otoe,Business_Products,84,0.944879983119666,Sector
+Otoe,Construction,83,0.6189716014578244,Sector
+Otoe,Services,22,0.6788400370752982,Sector
+Otoe,Mining,54,0.2790684344297195,Sector
+Otoe,Health_Care,86,0.7163124896969447,Sector
+Otoe,EnergyExpL_Prod,29,0.15397403827393907,Sector
+Otoe,Utilities,87,0.09650632986630647,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Navajo,574,0.4926343351490862,Overall
+Navajo,HiTech,57,0.41340513478278584,Sector
+Navajo,Agriculture,45,0.40934517993161124,Sector
+Navajo,Transportation,56,0.6911350373352693,Sector
+Navajo,Consumer_Products,47,0.3962198160856708,Sector
+Navajo,Unassigned,14,0.2528418999065034,Sector
+Navajo,Communication,28,0.8327070899462005,Sector
+Navajo,Trade,15,0.01664363831744964,Sector
+Navajo,Business_Services,39,0.6383117122146295,Sector
+Navajo,Business_Products,7,0.9396114142178169,Sector
+Navajo,Construction,18,0.006281976588123572,Sector
+Navajo,Services,13,0.4222265458521993,Sector
+Navajo,Mining,71,0.2565631140756125,Sector
+Navajo,Health_Care,85,0.6308349267433147,Sector
+Navajo,EnergyExpL_Prod,58,0.5952969528903528,Sector
+Navajo,Utilities,21,0.8880905883487538,Sector

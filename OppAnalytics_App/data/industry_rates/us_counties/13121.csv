@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fulton,573,0.41733361402242514,Overall
+Fulton,HiTech,92,0.08505632893770443,Sector
+Fulton,Agriculture,83,0.7506228214718255,Sector
+Fulton,Transportation,9,0.48400340973637657,Sector
+Fulton,Consumer_Products,7,0.6069624920890313,Sector
+Fulton,Unassigned,88,0.08705464650141637,Sector
+Fulton,Communication,1,0.9656359858715433,Sector
+Fulton,Trade,8,0.1938083200324071,Sector
+Fulton,Business_Services,5,0.34658668152569894,Sector
+Fulton,Business_Products,36,0.31677337300704866,Sector
+Fulton,Construction,63,0.4164467120448526,Sector
+Fulton,Services,44,0.8890683961533051,Sector
+Fulton,Mining,2,0.5039636345204122,Sector
+Fulton,Health_Care,27,0.19088838133774388,Sector
+Fulton,EnergyExpL_Prod,14,0.2887709337242397,Sector
+Fulton,Utilities,94,0.13436209338277227,Sector

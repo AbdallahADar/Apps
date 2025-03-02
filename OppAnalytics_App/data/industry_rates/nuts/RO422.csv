@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Caraş-Severin,700,0.5191280642597912,Overall
+Caraş-Severin,HiTech,62,0.10800728887085198,Sector
+Caraş-Severin,Agriculture,21,0.17624462770582805,Sector
+Caraş-Severin,Transportation,65,0.34606161590863327,Sector
+Caraş-Severin,Consumer_Products,51,0.9017144481717088,Sector
+Caraş-Severin,Unassigned,52,0.7482801057424723,Sector
+Caraş-Severin,Communication,24,0.8388009305145915,Sector
+Caraş-Severin,Trade,27,0.36833145110727405,Sector
+Caraş-Severin,Business_Services,10,0.6085252380311765,Sector
+Caraş-Severin,Business_Products,84,0.2730978521536297,Sector
+Caraş-Severin,Construction,9,0.815448111442995,Sector
+Caraş-Severin,Services,86,0.1254129032050224,Sector
+Caraş-Severin,Mining,76,0.8670321330732566,Sector
+Caraş-Severin,Health_Care,76,0.6662563948426778,Sector
+Caraş-Severin,EnergyExpL_Prod,39,0.6065416957667977,Sector
+Caraş-Severin,Utilities,18,0.33716616735995175,Sector

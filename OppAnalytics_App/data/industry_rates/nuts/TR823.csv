@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sinop,693,0.5620585469930733,Overall
+Sinop,HiTech,62,0.37068455028323877,Sector
+Sinop,Agriculture,41,0.8162605525588563,Sector
+Sinop,Transportation,17,0.20074446385570077,Sector
+Sinop,Consumer_Products,9,0.7322576245764573,Sector
+Sinop,Unassigned,86,0.4217910476034643,Sector
+Sinop,Communication,59,0.03047644341372513,Sector
+Sinop,Trade,16,0.4379952444956977,Sector
+Sinop,Business_Services,5,0.9805482640803533,Sector
+Sinop,Business_Products,50,0.6463074057694208,Sector
+Sinop,Construction,43,0.9766850224680658,Sector
+Sinop,Services,52,0.8719942099389268,Sector
+Sinop,Mining,50,0.30516500451189965,Sector
+Sinop,Health_Care,63,0.3011344153370281,Sector
+Sinop,EnergyExpL_Prod,42,0.4178241385824768,Sector
+Sinop,Utilities,98,0.9210098174207879,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dearborn,817,0.3594255205037454,Overall
+Dearborn,HiTech,45,0.5745894366252374,Sector
+Dearborn,Agriculture,86,0.5110160806888309,Sector
+Dearborn,Transportation,41,0.1004978370875248,Sector
+Dearborn,Consumer_Products,92,0.649181300338031,Sector
+Dearborn,Unassigned,33,0.11096657289592493,Sector
+Dearborn,Communication,60,0.861269942015943,Sector
+Dearborn,Trade,78,0.20726546000248158,Sector
+Dearborn,Business_Services,40,0.14757862763228313,Sector
+Dearborn,Business_Products,57,0.03726468013882267,Sector
+Dearborn,Construction,67,0.7052289306443622,Sector
+Dearborn,Services,21,0.045798003369306284,Sector
+Dearborn,Mining,50,0.1047718586106775,Sector
+Dearborn,Health_Care,79,0.23208819451630547,Sector
+Dearborn,EnergyExpL_Prod,53,0.1452117318972117,Sector
+Dearborn,Utilities,15,0.9586541510932386,Sector

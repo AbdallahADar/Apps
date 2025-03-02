@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kainuu,869,0.4887573326566025,Overall
+Kainuu,HiTech,30,0.9082861032309079,Sector
+Kainuu,Agriculture,34,0.3835676049230955,Sector
+Kainuu,Transportation,36,0.6512426787298803,Sector
+Kainuu,Consumer_Products,97,0.10074009880519086,Sector
+Kainuu,Unassigned,50,0.7633345496396936,Sector
+Kainuu,Communication,21,0.6305546777054879,Sector
+Kainuu,Trade,82,0.04710133960726792,Sector
+Kainuu,Business_Services,50,0.007287389617658846,Sector
+Kainuu,Business_Products,13,0.39448850300978666,Sector
+Kainuu,Construction,83,0.7896651235681441,Sector
+Kainuu,Services,42,0.41121999923539665,Sector
+Kainuu,Mining,95,0.5175703065665078,Sector
+Kainuu,Health_Care,72,0.48411142949222863,Sector
+Kainuu,EnergyExpL_Prod,82,0.9033351497234579,Sector
+Kainuu,Utilities,82,0.3388550359943324,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oberspreewald-Lausitz,691,0.6754809201251296,Overall
+Oberspreewald-Lausitz,HiTech,31,0.9751016119300097,Sector
+Oberspreewald-Lausitz,Agriculture,16,0.348335540464931,Sector
+Oberspreewald-Lausitz,Transportation,54,0.7056872506228917,Sector
+Oberspreewald-Lausitz,Consumer_Products,96,0.9273439708561747,Sector
+Oberspreewald-Lausitz,Unassigned,53,0.9775241452407003,Sector
+Oberspreewald-Lausitz,Communication,54,0.5810377916807008,Sector
+Oberspreewald-Lausitz,Trade,5,0.38146443240567307,Sector
+Oberspreewald-Lausitz,Business_Services,33,0.6692501205507232,Sector
+Oberspreewald-Lausitz,Business_Products,87,0.6537169957979106,Sector
+Oberspreewald-Lausitz,Construction,15,0.40944307190456386,Sector
+Oberspreewald-Lausitz,Services,70,0.7836407767224223,Sector
+Oberspreewald-Lausitz,Mining,54,0.5728491212184029,Sector
+Oberspreewald-Lausitz,Health_Care,37,0.5857932032090329,Sector
+Oberspreewald-Lausitz,EnergyExpL_Prod,48,0.9726449939429227,Sector
+Oberspreewald-Lausitz,Utilities,38,0.5883807753298836,Sector

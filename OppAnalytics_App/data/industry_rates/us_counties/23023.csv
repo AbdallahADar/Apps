@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sagadahoc,843,0.45284378939943803,Overall
+Sagadahoc,HiTech,37,0.2657740193617285,Sector
+Sagadahoc,Agriculture,55,0.5139735203972735,Sector
+Sagadahoc,Transportation,52,0.40649313588872893,Sector
+Sagadahoc,Consumer_Products,7,0.8445340882817612,Sector
+Sagadahoc,Unassigned,92,0.3716978379351532,Sector
+Sagadahoc,Communication,75,0.36179809649111827,Sector
+Sagadahoc,Trade,32,0.49643897675218585,Sector
+Sagadahoc,Business_Services,65,0.8617061603377226,Sector
+Sagadahoc,Business_Products,44,0.0429543485991849,Sector
+Sagadahoc,Construction,36,0.21675025219294908,Sector
+Sagadahoc,Services,91,0.12778673937578588,Sector
+Sagadahoc,Mining,23,0.15263119459622587,Sector
+Sagadahoc,Health_Care,94,0.5732146562171847,Sector
+Sagadahoc,EnergyExpL_Prod,64,0.6729893088143571,Sector
+Sagadahoc,Utilities,76,0.8839145057502109,Sector

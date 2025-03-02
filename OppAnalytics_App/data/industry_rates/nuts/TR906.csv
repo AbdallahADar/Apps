@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gümüşhane,836,0.5175942471788445,Overall
+Gümüşhane,HiTech,72,0.2074828492356784,Sector
+Gümüşhane,Agriculture,63,0.16544920173980893,Sector
+Gümüşhane,Transportation,8,0.9746319766750974,Sector
+Gümüşhane,Consumer_Products,40,0.8182561232693437,Sector
+Gümüşhane,Unassigned,87,0.12945764417942474,Sector
+Gümüşhane,Communication,13,0.4144575838864617,Sector
+Gümüşhane,Trade,91,0.7229821232774533,Sector
+Gümüşhane,Business_Services,65,0.6718357888826402,Sector
+Gümüşhane,Business_Products,90,0.3391133456589135,Sector
+Gümüşhane,Construction,62,0.5957265188227839,Sector
+Gümüşhane,Services,64,0.2707505230973749,Sector
+Gümüşhane,Mining,31,0.8810885507650839,Sector
+Gümüşhane,Health_Care,70,0.7498780334408846,Sector
+Gümüşhane,EnergyExpL_Prod,43,0.07987061447740307,Sector
+Gümüşhane,Utilities,37,0.7429328302743164,Sector

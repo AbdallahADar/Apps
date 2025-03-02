@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vukovarsko-srijemska županija,856,0.6295432954701916,Overall
+Vukovarsko-srijemska županija,HiTech,91,0.5988077857793243,Sector
+Vukovarsko-srijemska županija,Agriculture,20,0.512543741424095,Sector
+Vukovarsko-srijemska županija,Transportation,26,0.274536915562109,Sector
+Vukovarsko-srijemska županija,Consumer_Products,88,0.31463285509363215,Sector
+Vukovarsko-srijemska županija,Unassigned,68,0.7540563969294145,Sector
+Vukovarsko-srijemska županija,Communication,54,0.9622980952854041,Sector
+Vukovarsko-srijemska županija,Trade,5,0.9229549526401213,Sector
+Vukovarsko-srijemska županija,Business_Services,83,0.7637912056043604,Sector
+Vukovarsko-srijemska županija,Business_Products,84,0.9097096986591356,Sector
+Vukovarsko-srijemska županija,Construction,22,0.3707941088205744,Sector
+Vukovarsko-srijemska županija,Services,96,0.05098516905948869,Sector
+Vukovarsko-srijemska županija,Mining,96,0.792770591036467,Sector
+Vukovarsko-srijemska županija,Health_Care,1,0.8774912414917404,Sector
+Vukovarsko-srijemska županija,EnergyExpL_Prod,44,0.8006792454319198,Sector
+Vukovarsko-srijemska županija,Utilities,78,0.5370974292350893,Sector

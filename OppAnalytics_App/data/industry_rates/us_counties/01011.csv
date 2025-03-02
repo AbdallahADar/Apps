@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bullock,647,0.5485039386721771,Overall
+Bullock,HiTech,21,0.03120352476430721,Sector
+Bullock,Agriculture,5,0.8691060623420523,Sector
+Bullock,Transportation,85,0.6880069759002982,Sector
+Bullock,Consumer_Products,44,0.4043334052232972,Sector
+Bullock,Unassigned,79,0.9683249714320776,Sector
+Bullock,Communication,55,0.22424469819640747,Sector
+Bullock,Trade,19,0.48151483292565234,Sector
+Bullock,Business_Services,81,0.5290059529175677,Sector
+Bullock,Business_Products,11,0.24472960106130293,Sector
+Bullock,Construction,58,0.6445090895178356,Sector
+Bullock,Services,39,0.7814864740307078,Sector
+Bullock,Mining,65,0.5004205285719012,Sector
+Bullock,Health_Care,62,0.3837661709149274,Sector
+Bullock,EnergyExpL_Prod,3,0.7534902567679277,Sector
+Bullock,Utilities,20,0.7234165355163934,Sector

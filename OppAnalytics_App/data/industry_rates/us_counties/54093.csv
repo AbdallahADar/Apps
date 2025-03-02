@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tucker,853,0.5253557494258275,Overall
+Tucker,HiTech,33,0.8621469773201262,Sector
+Tucker,Agriculture,33,0.46006065938281204,Sector
+Tucker,Transportation,67,0.9081478996884703,Sector
+Tucker,Consumer_Products,63,0.3478576689923808,Sector
+Tucker,Unassigned,67,0.9482500339710301,Sector
+Tucker,Communication,83,0.14174748882820865,Sector
+Tucker,Trade,35,0.6810949775976403,Sector
+Tucker,Business_Services,99,0.924635992961469,Sector
+Tucker,Business_Products,48,0.8076079168387821,Sector
+Tucker,Construction,57,0.01837239343963315,Sector
+Tucker,Services,71,0.23049131576543602,Sector
+Tucker,Mining,17,0.26998856105596647,Sector
+Tucker,Health_Care,84,0.4445457853969692,Sector
+Tucker,EnergyExpL_Prod,82,0.6109914154033221,Sector
+Tucker,Utilities,14,0.22439715474516675,Sector

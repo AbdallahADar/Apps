@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tift,708,0.6017176132355361,Overall
+Tift,HiTech,10,0.44431925089478397,Sector
+Tift,Agriculture,13,0.17720895520301783,Sector
+Tift,Transportation,69,0.8133104565194026,Sector
+Tift,Consumer_Products,66,0.21067634191737927,Sector
+Tift,Unassigned,72,0.5349642238449476,Sector
+Tift,Communication,31,0.6666174145013587,Sector
+Tift,Trade,15,0.5915387894881389,Sector
+Tift,Business_Services,26,0.9917356920519537,Sector
+Tift,Business_Products,92,0.1460207763920095,Sector
+Tift,Construction,28,0.6471107404636807,Sector
+Tift,Services,59,0.940289751534084,Sector
+Tift,Mining,59,0.478665716705609,Sector
+Tift,Health_Care,58,0.9145797699474185,Sector
+Tift,EnergyExpL_Prod,90,0.6839068871323364,Sector
+Tift,Utilities,20,0.7848194319369202,Sector

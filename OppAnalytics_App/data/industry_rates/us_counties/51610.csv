@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Falls Church,761,0.4711252335340302,Overall
+Falls Church,HiTech,78,0.34429046382766104,Sector
+Falls Church,Agriculture,11,0.0938660148598014,Sector
+Falls Church,Transportation,96,0.20845934939771116,Sector
+Falls Church,Consumer_Products,7,0.2903660874842744,Sector
+Falls Church,Unassigned,82,0.5699172202039597,Sector
+Falls Church,Communication,7,0.2472483100536036,Sector
+Falls Church,Trade,78,0.6384550529615461,Sector
+Falls Church,Business_Services,3,0.8749518470345975,Sector
+Falls Church,Business_Products,88,0.125604401801918,Sector
+Falls Church,Construction,47,0.10216838890101265,Sector
+Falls Church,Services,49,0.9194119804903115,Sector
+Falls Church,Mining,99,0.7202206765314296,Sector
+Falls Church,Health_Care,53,0.9091119476334681,Sector
+Falls Church,EnergyExpL_Prod,0,0.8221901433604097,Sector
+Falls Church,Utilities,63,0.200616618468748,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Charles City,533,0.4031059209848481,Overall
+Charles City,HiTech,35,0.144485203082791,Sector
+Charles City,Agriculture,23,0.4164806798609725,Sector
+Charles City,Transportation,0,0.20803533570719446,Sector
+Charles City,Consumer_Products,7,0.3532053855270837,Sector
+Charles City,Unassigned,36,0.659353701898689,Sector
+Charles City,Communication,53,0.8302105349564387,Sector
+Charles City,Trade,1,0.008349854141070923,Sector
+Charles City,Business_Services,38,0.6348910035847732,Sector
+Charles City,Business_Products,42,0.473926033745357,Sector
+Charles City,Construction,50,0.25301042021448616,Sector
+Charles City,Services,32,0.7151837022503351,Sector
+Charles City,Mining,92,0.5167931045174623,Sector
+Charles City,Health_Care,27,0.3308100078155367,Sector
+Charles City,EnergyExpL_Prod,10,0.24291298491078817,Sector
+Charles City,Utilities,87,0.2589408625597426,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Twente,700,0.5727492040432106,Overall
+Twente,HiTech,50,0.1095084273660728,Sector
+Twente,Agriculture,54,0.11816899364148148,Sector
+Twente,Transportation,93,0.6164503312724621,Sector
+Twente,Consumer_Products,5,0.33374873001738126,Sector
+Twente,Unassigned,25,0.7695995027495519,Sector
+Twente,Communication,87,0.34111623342540554,Sector
+Twente,Trade,42,0.9325819661884133,Sector
+Twente,Business_Services,48,0.6312910427815328,Sector
+Twente,Business_Products,37,0.8857245854607637,Sector
+Twente,Construction,7,0.8744816523807395,Sector
+Twente,Services,17,0.5701747796803676,Sector
+Twente,Mining,1,0.7448951403706381,Sector
+Twente,Health_Care,65,0.8229629172654935,Sector
+Twente,EnergyExpL_Prod,87,0.6982303472114378,Sector
+Twente,Utilities,82,0.1423034108364175,Sector

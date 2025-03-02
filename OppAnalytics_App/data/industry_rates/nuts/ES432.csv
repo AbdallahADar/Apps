@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cáceres,694,0.5996033697410927,Overall
+Cáceres,HiTech,86,0.9986617791317277,Sector
+Cáceres,Agriculture,21,0.04432882540522054,Sector
+Cáceres,Transportation,80,0.9534560481911591,Sector
+Cáceres,Consumer_Products,1,0.5735381847656528,Sector
+Cáceres,Unassigned,47,0.9552125401813502,Sector
+Cáceres,Communication,81,0.008494900755804835,Sector
+Cáceres,Trade,28,0.9022857563324684,Sector
+Cáceres,Business_Services,13,0.5216230589471452,Sector
+Cáceres,Business_Products,84,0.8789619530850727,Sector
+Cáceres,Construction,65,0.7116839541428642,Sector
+Cáceres,Services,50,0.08381684102877074,Sector
+Cáceres,Mining,67,0.19419009295668344,Sector
+Cáceres,Health_Care,57,0.983879249756202,Sector
+Cáceres,EnergyExpL_Prod,10,0.4956966957928721,Sector
+Cáceres,Utilities,4,0.6882206656433967,Sector

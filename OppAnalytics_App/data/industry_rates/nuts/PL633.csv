@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Trójmiejski,635,0.5523050805406414,Overall
+Trójmiejski,HiTech,52,0.7128275843053333,Sector
+Trójmiejski,Agriculture,26,0.770760068547695,Sector
+Trójmiejski,Transportation,52,0.8790692067715238,Sector
+Trójmiejski,Consumer_Products,50,0.27007123878307915,Sector
+Trójmiejski,Unassigned,0,0.696576611935215,Sector
+Trójmiejski,Communication,4,0.49099686441698487,Sector
+Trójmiejski,Trade,28,0.24226728573423317,Sector
+Trójmiejski,Business_Services,82,0.43333598398706297,Sector
+Trójmiejski,Business_Products,61,0.8664330534724017,Sector
+Trójmiejski,Construction,60,0.41654605961179436,Sector
+Trójmiejski,Services,5,0.7655922313892185,Sector
+Trójmiejski,Mining,34,0.17920612958362614,Sector
+Trójmiejski,Health_Care,55,0.08229198271659233,Sector
+Trójmiejski,EnergyExpL_Prod,47,0.6860017634080988,Sector
+Trójmiejski,Utilities,79,0.7926001434467627,Sector

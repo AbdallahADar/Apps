@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arecibo,905,0.4703215588918705,Overall
+Arecibo,HiTech,30,0.08030722979252458,Sector
+Arecibo,Agriculture,95,0.22947270980480194,Sector
+Arecibo,Transportation,76,0.4454039376601584,Sector
+Arecibo,Consumer_Products,54,0.17960989811586825,Sector
+Arecibo,Unassigned,86,0.27665753483526434,Sector
+Arecibo,Communication,42,0.8057418273303341,Sector
+Arecibo,Trade,67,0.06808775032623315,Sector
+Arecibo,Business_Services,36,0.8997304987866608,Sector
+Arecibo,Business_Products,53,0.32165576109244365,Sector
+Arecibo,Construction,67,0.5530300835147128,Sector
+Arecibo,Services,53,0.7030946815225283,Sector
+Arecibo,Mining,87,0.7204642763609888,Sector
+Arecibo,Health_Care,24,0.7171431254871726,Sector
+Arecibo,EnergyExpL_Prod,85,0.3504812715424578,Sector
+Arecibo,Utilities,50,0.7039427972059075,Sector

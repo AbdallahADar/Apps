@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Imperial,704,0.522225927395267,Overall
+Imperial,HiTech,97,0.887599982882913,Sector
+Imperial,Agriculture,11,0.8356584226538656,Sector
+Imperial,Transportation,98,0.8830746091416862,Sector
+Imperial,Consumer_Products,91,0.04472121334425272,Sector
+Imperial,Unassigned,72,0.28902894995697614,Sector
+Imperial,Communication,71,0.3618731438823709,Sector
+Imperial,Trade,35,0.5053992860994344,Sector
+Imperial,Business_Services,10,0.07857436982836996,Sector
+Imperial,Business_Products,29,0.1968926553362741,Sector
+Imperial,Construction,6,0.6792040461979444,Sector
+Imperial,Services,46,0.48130262590001816,Sector
+Imperial,Mining,59,0.8470952376134655,Sector
+Imperial,Health_Care,42,0.26846547611701954,Sector
+Imperial,EnergyExpL_Prod,25,0.6072519394616248,Sector
+Imperial,Utilities,12,0.867246952512789,Sector

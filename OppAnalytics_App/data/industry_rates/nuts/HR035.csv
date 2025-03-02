@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Splitsko-dalmatinska županija,727,0.4263000483016783,Overall
+Splitsko-dalmatinska županija,HiTech,76,0.625206738224679,Sector
+Splitsko-dalmatinska županija,Agriculture,88,0.01988217975735751,Sector
+Splitsko-dalmatinska županija,Transportation,41,0.21166119840652797,Sector
+Splitsko-dalmatinska županija,Consumer_Products,27,0.14515837520644548,Sector
+Splitsko-dalmatinska županija,Unassigned,38,0.7812447823088585,Sector
+Splitsko-dalmatinska županija,Communication,1,0.0035680305361849296,Sector
+Splitsko-dalmatinska županija,Trade,14,0.3607273207183884,Sector
+Splitsko-dalmatinska županija,Business_Services,19,0.7029911062538722,Sector
+Splitsko-dalmatinska županija,Business_Products,1,0.7506389326194409,Sector
+Splitsko-dalmatinska županija,Construction,56,0.34541664872282085,Sector
+Splitsko-dalmatinska županija,Services,77,0.22746184448408324,Sector
+Splitsko-dalmatinska županija,Mining,91,0.9475037800506902,Sector
+Splitsko-dalmatinska županija,Health_Care,96,0.5523415417356403,Sector
+Splitsko-dalmatinska županija,EnergyExpL_Prod,5,0.1348123108336322,Sector
+Splitsko-dalmatinska županija,Utilities,97,0.585885934666552,Sector

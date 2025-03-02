@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Aube,744,0.5070844796088353,Overall
+Aube,HiTech,27,0.6472807385165535,Sector
+Aube,Agriculture,73,0.8442827862616461,Sector
+Aube,Transportation,81,0.2417290610060402,Sector
+Aube,Consumer_Products,5,0.788751404089892,Sector
+Aube,Unassigned,48,0.9547248360376449,Sector
+Aube,Communication,64,0.06704241638776853,Sector
+Aube,Trade,86,0.1629744706608115,Sector
+Aube,Business_Services,16,0.16372223819184772,Sector
+Aube,Business_Products,80,0.13824025265936524,Sector
+Aube,Construction,16,0.7638979218130567,Sector
+Aube,Services,20,0.8179526752446328,Sector
+Aube,Mining,81,0.1397728682348639,Sector
+Aube,Health_Care,13,0.9648145311952203,Sector
+Aube,EnergyExpL_Prod,88,0.535683491945937,Sector
+Aube,Utilities,46,0.37539750188724763,Sector

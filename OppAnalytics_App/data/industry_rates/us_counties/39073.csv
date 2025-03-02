@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hocking,675,0.6147330224008594,Overall
+Hocking,HiTech,44,0.4562739159296594,Sector
+Hocking,Agriculture,24,0.9484944210672575,Sector
+Hocking,Transportation,97,0.9885501562445708,Sector
+Hocking,Consumer_Products,74,0.6343806199870843,Sector
+Hocking,Unassigned,12,0.40125231959185037,Sector
+Hocking,Communication,76,0.35472476174950474,Sector
+Hocking,Trade,20,0.6449568538399155,Sector
+Hocking,Business_Services,33,0.4932686980759189,Sector
+Hocking,Business_Products,9,0.528289822721068,Sector
+Hocking,Construction,40,0.8716586636666956,Sector
+Hocking,Services,77,0.041938151466437756,Sector
+Hocking,Mining,52,0.7492117837146972,Sector
+Hocking,Health_Care,10,0.9538849497564571,Sector
+Hocking,EnergyExpL_Prod,11,0.4456997941632015,Sector
+Hocking,Utilities,96,0.7084104240385696,Sector

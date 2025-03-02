@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gove,695,0.5426605088254051,Overall
+Gove,HiTech,38,0.8923337183528316,Sector
+Gove,Agriculture,1,0.6695947023060058,Sector
+Gove,Transportation,97,0.7846321139216982,Sector
+Gove,Consumer_Products,64,0.6124905733614175,Sector
+Gove,Unassigned,17,0.40212970584842456,Sector
+Gove,Communication,38,0.05067400761922258,Sector
+Gove,Trade,80,0.8010270596186624,Sector
+Gove,Business_Services,58,0.6727315745945384,Sector
+Gove,Business_Products,55,0.1968978985034796,Sector
+Gove,Construction,7,0.9736990365821573,Sector
+Gove,Services,59,0.5284939307221574,Sector
+Gove,Mining,52,0.21433634498087928,Sector
+Gove,Health_Care,66,0.10630569591120986,Sector
+Gove,EnergyExpL_Prod,56,0.9995605864605188,Sector
+Gove,Utilities,7,0.2350006835978714,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rīga,684,0.39136608454608257,Overall
+Rīga,HiTech,49,0.09948800947904912,Sector
+Rīga,Agriculture,19,0.8544784619506853,Sector
+Rīga,Transportation,9,0.24609785548507868,Sector
+Rīga,Consumer_Products,59,0.021703650009837316,Sector
+Rīga,Unassigned,49,0.5651689332743259,Sector
+Rīga,Communication,82,0.4761918055253559,Sector
+Rīga,Trade,66,0.4788498218422853,Sector
+Rīga,Business_Services,32,0.0005424909578756187,Sector
+Rīga,Business_Products,31,0.1454491720971346,Sector
+Rīga,Construction,21,0.6676034290960156,Sector
+Rīga,Services,38,0.5721883571097951,Sector
+Rīga,Mining,86,0.603462131930052,Sector
+Rīga,Health_Care,39,0.5471564805118049,Sector
+Rīga,EnergyExpL_Prod,78,0.2106390366792309,Sector
+Rīga,Utilities,26,0.3814716322427131,Sector

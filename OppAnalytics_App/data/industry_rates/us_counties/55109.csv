@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,St. Croix,863,0.48658573413251127,Overall
+St. Croix,HiTech,78,0.21850665643139322,Sector
+St. Croix,Agriculture,8,0.878875069579572,Sector
+St. Croix,Transportation,93,0.42020431637404587,Sector
+St. Croix,Consumer_Products,70,0.343704478629148,Sector
+St. Croix,Unassigned,98,0.5278003719616267,Sector
+St. Croix,Communication,85,0.49799759848610703,Sector
+St. Croix,Trade,63,0.9645737562620358,Sector
+St. Croix,Business_Services,62,0.8094880335476976,Sector
+St. Croix,Business_Products,43,0.38414591874991433,Sector
+St. Croix,Construction,12,0.3378397680721311,Sector
+St. Croix,Services,58,0.03275557565831533,Sector
+St. Croix,Mining,1,0.29443980398592073,Sector
+St. Croix,Health_Care,75,0.6323713626049401,Sector
+St. Croix,EnergyExpL_Prod,69,0.8539021765713078,Sector
+St. Croix,Utilities,48,0.1021811250735144,Sector

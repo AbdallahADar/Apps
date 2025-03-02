@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jugovzhodna Slovenija,733,0.4932388483421072,Overall
+Jugovzhodna Slovenija,HiTech,60,0.24511066386872848,Sector
+Jugovzhodna Slovenija,Agriculture,76,0.43969717642991646,Sector
+Jugovzhodna Slovenija,Transportation,63,0.7286328288159589,Sector
+Jugovzhodna Slovenija,Consumer_Products,76,0.9638054381370758,Sector
+Jugovzhodna Slovenija,Unassigned,76,0.4912045706217131,Sector
+Jugovzhodna Slovenija,Communication,78,0.5547983180386754,Sector
+Jugovzhodna Slovenija,Trade,19,0.4859693745956015,Sector
+Jugovzhodna Slovenija,Business_Services,14,0.5908431899108597,Sector
+Jugovzhodna Slovenija,Business_Products,62,0.20340221107365608,Sector
+Jugovzhodna Slovenija,Construction,53,0.8958427732591612,Sector
+Jugovzhodna Slovenija,Services,42,0.232420729933131,Sector
+Jugovzhodna Slovenija,Mining,77,0.09159836263259924,Sector
+Jugovzhodna Slovenija,Health_Care,18,0.3481964848922553,Sector
+Jugovzhodna Slovenija,EnergyExpL_Prod,2,0.1977154524182283,Sector
+Jugovzhodna Slovenija,Utilities,17,0.9293451505040476,Sector

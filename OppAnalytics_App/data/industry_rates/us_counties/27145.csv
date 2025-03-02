@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stearns,637,0.5173927105728257,Overall
+Stearns,HiTech,44,0.03100121583516291,Sector
+Stearns,Agriculture,70,0.6705964906866496,Sector
+Stearns,Transportation,72,0.9267779411792164,Sector
+Stearns,Consumer_Products,33,0.09242372675280375,Sector
+Stearns,Unassigned,11,0.639083253071751,Sector
+Stearns,Communication,70,0.6292112076924545,Sector
+Stearns,Trade,31,0.1518224854466802,Sector
+Stearns,Business_Services,24,0.1714417822905846,Sector
+Stearns,Business_Products,26,0.9953156191594836,Sector
+Stearns,Construction,84,0.5463988601509941,Sector
+Stearns,Services,82,0.6277140155258841,Sector
+Stearns,Mining,59,0.8297092927157096,Sector
+Stearns,Health_Care,6,0.43346172088612034,Sector
+Stearns,EnergyExpL_Prod,1,0.538635960226734,Sector
+Stearns,Utilities,24,0.4772970869721568,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ingham,841,0.5408324420535333,Overall
+Ingham,HiTech,19,0.9003378999348469,Sector
+Ingham,Agriculture,91,0.05781288435105736,Sector
+Ingham,Transportation,82,0.8923004356305776,Sector
+Ingham,Consumer_Products,93,0.4268758704563227,Sector
+Ingham,Unassigned,92,0.8637822478462124,Sector
+Ingham,Communication,51,0.034534183407878394,Sector
+Ingham,Trade,34,0.9401961723908906,Sector
+Ingham,Business_Services,24,0.4504109615872621,Sector
+Ingham,Business_Products,9,0.5959083545636167,Sector
+Ingham,Construction,66,0.8303963894521839,Sector
+Ingham,Services,95,0.0742847156980253,Sector
+Ingham,Mining,31,0.34380215639564093,Sector
+Ingham,Health_Care,46,0.26993335221623915,Sector
+Ingham,EnergyExpL_Prod,57,0.5439612549369318,Sector
+Ingham,Utilities,51,0.8879497519353144,Sector

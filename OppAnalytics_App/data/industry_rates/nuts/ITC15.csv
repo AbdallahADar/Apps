@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Novara,803,0.44957578362701434,Overall
+Novara,HiTech,4,0.06956637220653294,Sector
+Novara,Agriculture,82,0.24627241933790633,Sector
+Novara,Transportation,45,0.5334096961219891,Sector
+Novara,Consumer_Products,72,0.07117994264518623,Sector
+Novara,Unassigned,70,0.11670446932702938,Sector
+Novara,Communication,86,0.7531796714402886,Sector
+Novara,Trade,12,0.11492525224014472,Sector
+Novara,Business_Services,41,0.7054984955345112,Sector
+Novara,Business_Products,20,0.7950290294235407,Sector
+Novara,Construction,50,0.8964444080396129,Sector
+Novara,Services,85,0.397723205706104,Sector
+Novara,Mining,93,0.09299481443419011,Sector
+Novara,Health_Care,89,0.9371323578188607,Sector
+Novara,EnergyExpL_Prod,47,0.4179407463929872,Sector
+Novara,Utilities,7,0.595635873736331,Sector

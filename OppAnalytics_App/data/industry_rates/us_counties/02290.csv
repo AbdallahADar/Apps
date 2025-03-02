@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yukon-Koyukuk,500,0.4110751640834174,Overall
+Yukon-Koyukuk,HiTech,8,0.400616800841072,Sector
+Yukon-Koyukuk,Agriculture,1,0.33587552055733483,Sector
+Yukon-Koyukuk,Transportation,18,0.6151438736963689,Sector
+Yukon-Koyukuk,Consumer_Products,0,0.09981007158622357,Sector
+Yukon-Koyukuk,Unassigned,18,0.8191575315963443,Sector
+Yukon-Koyukuk,Communication,24,0.0736299032632497,Sector
+Yukon-Koyukuk,Trade,81,0.19248622192386688,Sector
+Yukon-Koyukuk,Business_Services,86,0.038415584583275986,Sector
+Yukon-Koyukuk,Business_Products,11,0.12402593246167937,Sector
+Yukon-Koyukuk,Construction,24,0.22017464350664162,Sector
+Yukon-Koyukuk,Services,96,0.5657974008260965,Sector
+Yukon-Koyukuk,Mining,50,0.2660062991977379,Sector
+Yukon-Koyukuk,Health_Care,67,0.8134237738161895,Sector
+Yukon-Koyukuk,EnergyExpL_Prod,14,0.7811191465851058,Sector
+Yukon-Koyukuk,Utilities,2,0.8204447568100736,Sector

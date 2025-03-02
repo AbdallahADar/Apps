@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Webster,723,0.6077178757507308,Overall
+Webster,HiTech,47,0.5760898064493905,Sector
+Webster,Agriculture,43,0.9209233596738094,Sector
+Webster,Transportation,73,0.9217067000315808,Sector
+Webster,Consumer_Products,50,0.4893242979383414,Sector
+Webster,Unassigned,96,0.058829733431626785,Sector
+Webster,Communication,2,0.8458423061356087,Sector
+Webster,Trade,80,0.6620151404685918,Sector
+Webster,Business_Services,12,0.4094216716039514,Sector
+Webster,Business_Products,61,0.7069937358696672,Sector
+Webster,Construction,28,0.6935441340324905,Sector
+Webster,Services,18,0.20771370729677863,Sector
+Webster,Mining,68,0.7744078248074852,Sector
+Webster,Health_Care,79,0.09463902227759735,Sector
+Webster,EnergyExpL_Prod,6,0.9151681711332726,Sector
+Webster,Utilities,60,0.839148525110769,Sector

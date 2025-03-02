@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hatay,607,0.5460964412654893,Overall
+Hatay,HiTech,93,0.8052521343713747,Sector
+Hatay,Agriculture,7,0.5098679814508595,Sector
+Hatay,Transportation,17,0.28658953945248267,Sector
+Hatay,Consumer_Products,48,0.9277456395002232,Sector
+Hatay,Unassigned,27,0.10365327429778781,Sector
+Hatay,Communication,11,0.918629571543234,Sector
+Hatay,Trade,47,0.11268868286213995,Sector
+Hatay,Business_Services,2,0.43408527282865605,Sector
+Hatay,Business_Products,86,0.4361522827256583,Sector
+Hatay,Construction,90,0.615900821084512,Sector
+Hatay,Services,17,0.7702545936366382,Sector
+Hatay,Mining,63,0.8557041987664724,Sector
+Hatay,Health_Care,73,0.5995312219097811,Sector
+Hatay,EnergyExpL_Prod,17,0.25454599234193453,Sector
+Hatay,Utilities,9,0.5608454122105856,Sector

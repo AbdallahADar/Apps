@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Muskogee,852,0.4105610179087036,Overall
+Muskogee,HiTech,38,0.19273916573673144,Sector
+Muskogee,Agriculture,82,0.21954791873596746,Sector
+Muskogee,Transportation,83,0.956810179399229,Sector
+Muskogee,Consumer_Products,72,0.0877614082600725,Sector
+Muskogee,Unassigned,62,0.011052978140684844,Sector
+Muskogee,Communication,77,0.8559838451970136,Sector
+Muskogee,Trade,73,0.7919231095657621,Sector
+Muskogee,Business_Services,67,0.1918250085543426,Sector
+Muskogee,Business_Products,41,0.04519165056337826,Sector
+Muskogee,Construction,76,0.09657076951986909,Sector
+Muskogee,Services,30,0.902313868826624,Sector
+Muskogee,Mining,91,0.5066951781312413,Sector
+Muskogee,Health_Care,15,0.9373102052901178,Sector
+Muskogee,EnergyExpL_Prod,9,0.13290476850417354,Sector
+Muskogee,Utilities,36,0.22978521420534626,Sector

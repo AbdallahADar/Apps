@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Limestone,892,0.5092337353477007,Overall
+Limestone,HiTech,91,0.06253472026802775,Sector
+Limestone,Agriculture,81,0.6458397470132133,Sector
+Limestone,Transportation,34,0.9935581311915007,Sector
+Limestone,Consumer_Products,65,0.45104053521202003,Sector
+Limestone,Unassigned,70,0.2754097855050477,Sector
+Limestone,Communication,28,0.4392723982389384,Sector
+Limestone,Trade,70,0.5760411888524988,Sector
+Limestone,Business_Services,82,0.789677079132282,Sector
+Limestone,Business_Products,83,0.3294721955131442,Sector
+Limestone,Construction,37,0.9169432284942133,Sector
+Limestone,Services,77,0.3024284667308964,Sector
+Limestone,Mining,82,0.49814499484430574,Sector
+Limestone,Health_Care,85,0.9664575207964102,Sector
+Limestone,EnergyExpL_Prod,2,0.12884133894090766,Sector
+Limestone,Utilities,5,0.26284469948210154,Sector

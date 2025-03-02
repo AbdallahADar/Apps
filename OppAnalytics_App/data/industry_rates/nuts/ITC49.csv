@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lodi,700,0.5485461111043695,Overall
+Lodi,HiTech,27,0.8549959568577538,Sector
+Lodi,Agriculture,57,0.3806765738740904,Sector
+Lodi,Transportation,10,0.9757920873175536,Sector
+Lodi,Consumer_Products,31,0.03270367822297304,Sector
+Lodi,Unassigned,25,0.9325653991848176,Sector
+Lodi,Communication,92,0.47764940694251545,Sector
+Lodi,Trade,38,0.615469567657979,Sector
+Lodi,Business_Services,82,0.015841889904575912,Sector
+Lodi,Business_Products,99,0.5290028224643577,Sector
+Lodi,Construction,24,0.5182201307402676,Sector
+Lodi,Services,75,0.7157245220900645,Sector
+Lodi,Mining,45,0.7677171856613767,Sector
+Lodi,Health_Care,5,0.734763446446317,Sector
+Lodi,EnergyExpL_Prod,40,0.4577242934105299,Sector
+Lodi,Utilities,50,0.21934470579036858,Sector

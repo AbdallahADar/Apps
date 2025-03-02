@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Claiborne,747,0.42223475424180623,Overall
+Claiborne,HiTech,31,0.38618432725162055,Sector
+Claiborne,Agriculture,3,0.1949567065890151,Sector
+Claiborne,Transportation,44,0.8906861411451348,Sector
+Claiborne,Consumer_Products,22,0.40833073928489594,Sector
+Claiborne,Unassigned,76,0.31938773533362597,Sector
+Claiborne,Communication,94,0.8854140354918234,Sector
+Claiborne,Trade,82,0.24565954976183735,Sector
+Claiborne,Business_Services,3,0.09199537026718185,Sector
+Claiborne,Business_Products,32,0.5256013323671841,Sector
+Claiborne,Construction,98,0.3115078425913326,Sector
+Claiborne,Services,10,0.09170461768410954,Sector
+Claiborne,Mining,85,0.3934794021358363,Sector
+Claiborne,Health_Care,6,0.8458937755058161,Sector
+Claiborne,EnergyExpL_Prod,86,0.0786211416208753,Sector
+Claiborne,Utilities,75,0.6640985965968048,Sector

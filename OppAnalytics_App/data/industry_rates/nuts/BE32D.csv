@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Thuin,864,0.45388500054885594,Overall
+Arr. Thuin,HiTech,57,0.3258956052141776,Sector
+Arr. Thuin,Agriculture,97,0.45675835502880113,Sector
+Arr. Thuin,Transportation,42,0.7953705405999106,Sector
+Arr. Thuin,Consumer_Products,78,0.3535038198492503,Sector
+Arr. Thuin,Unassigned,87,0.3432739372935393,Sector
+Arr. Thuin,Communication,10,0.5065253606948674,Sector
+Arr. Thuin,Trade,70,0.4992443444610988,Sector
+Arr. Thuin,Business_Services,49,0.8891341477287356,Sector
+Arr. Thuin,Business_Products,64,0.5005573458533285,Sector
+Arr. Thuin,Construction,33,0.5961863322214226,Sector
+Arr. Thuin,Services,34,0.12009082944009652,Sector
+Arr. Thuin,Mining,88,0.39427913854538943,Sector
+Arr. Thuin,Health_Care,54,0.04229484745530132,Sector
+Arr. Thuin,EnergyExpL_Prod,40,0.5451700223992392,Sector
+Arr. Thuin,Utilities,61,0.4399903814476803,Sector

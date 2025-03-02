@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Calaveras,668,0.640753818073417,Overall
+Calaveras,HiTech,13,0.6193000295997574,Sector
+Calaveras,Agriculture,31,0.8758420716314524,Sector
+Calaveras,Transportation,30,0.35834587685342145,Sector
+Calaveras,Consumer_Products,7,0.9744461680465786,Sector
+Calaveras,Unassigned,30,0.8417805720780185,Sector
+Calaveras,Communication,90,0.40425414729783693,Sector
+Calaveras,Trade,83,0.45595067639461484,Sector
+Calaveras,Business_Services,31,0.11978319755627109,Sector
+Calaveras,Business_Products,54,0.7301250192138729,Sector
+Calaveras,Construction,92,0.8147815450698297,Sector
+Calaveras,Services,89,0.5563706780327939,Sector
+Calaveras,Mining,6,0.9608194444412096,Sector
+Calaveras,Health_Care,12,0.5423162885532807,Sector
+Calaveras,EnergyExpL_Prod,52,0.44199731054030755,Sector
+Calaveras,Utilities,48,0.9151942457920109,Sector

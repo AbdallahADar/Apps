@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Plymouth,866,0.5655894862967741,Overall
+Plymouth,HiTech,48,0.3827166449004269,Sector
+Plymouth,Agriculture,86,0.04929847816797228,Sector
+Plymouth,Transportation,59,0.1450162867377861,Sector
+Plymouth,Consumer_Products,99,0.8147418287225497,Sector
+Plymouth,Unassigned,79,0.5925815755081575,Sector
+Plymouth,Communication,32,0.4848525060023785,Sector
+Plymouth,Trade,61,0.49068782569055225,Sector
+Plymouth,Business_Services,66,0.8468589534360523,Sector
+Plymouth,Business_Products,24,0.5940938225272375,Sector
+Plymouth,Construction,34,0.6396460804438605,Sector
+Plymouth,Services,47,0.6593227777911648,Sector
+Plymouth,Mining,60,0.4157071429760959,Sector
+Plymouth,Health_Care,98,0.7909792343606512,Sector
+Plymouth,EnergyExpL_Prod,25,0.6342775687269129,Sector
+Plymouth,Utilities,48,0.9430615684598125,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McCreary,831,0.591660148696662,Overall
+McCreary,HiTech,78,0.8318356752640279,Sector
+McCreary,Agriculture,49,0.7252496137773099,Sector
+McCreary,Transportation,83,0.7742458418370174,Sector
+McCreary,Consumer_Products,70,0.8151518642647176,Sector
+McCreary,Unassigned,84,0.4994495942802498,Sector
+McCreary,Communication,56,0.05870736804681931,Sector
+McCreary,Trade,42,0.36066130493313064,Sector
+McCreary,Business_Services,5,0.40497436484909266,Sector
+McCreary,Business_Products,74,0.28634012770710016,Sector
+McCreary,Construction,81,0.9757633909000432,Sector
+McCreary,Services,97,0.5352821507070982,Sector
+McCreary,Mining,36,0.7279366857673856,Sector
+McCreary,Health_Care,28,0.21378271223071632,Sector
+McCreary,EnergyExpL_Prod,30,0.8359126269512291,Sector
+McCreary,Utilities,18,0.8296089089339924,Sector

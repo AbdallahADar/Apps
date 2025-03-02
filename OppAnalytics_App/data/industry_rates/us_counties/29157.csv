@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Perry,840,0.5754806954055968,Overall
+Perry,HiTech,32,0.9112833374534528,Sector
+Perry,Agriculture,50,0.9628153920010067,Sector
+Perry,Transportation,62,0.1971735855787936,Sector
+Perry,Consumer_Products,72,0.3085758329254763,Sector
+Perry,Unassigned,16,0.5879079342071425,Sector
+Perry,Communication,70,0.6583464554981805,Sector
+Perry,Trade,99,0.7872697193529121,Sector
+Perry,Business_Services,45,0.6171390442437825,Sector
+Perry,Business_Products,13,0.901728816206658,Sector
+Perry,Construction,62,0.9721161489565322,Sector
+Perry,Services,86,0.18138813444874824,Sector
+Perry,Mining,58,0.2539747975239034,Sector
+Perry,Health_Care,85,0.3641033956744111,Sector
+Perry,EnergyExpL_Prod,37,0.2725032699190987,Sector
+Perry,Utilities,53,0.655884567093852,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Webb,770,0.40132168088651643,Overall
+Webb,HiTech,39,0.6239491747709857,Sector
+Webb,Agriculture,23,0.029735408825250276,Sector
+Webb,Transportation,85,0.6958091437886347,Sector
+Webb,Consumer_Products,8,0.8371783857046976,Sector
+Webb,Unassigned,90,0.7318084536366564,Sector
+Webb,Communication,99,0.11983177695252256,Sector
+Webb,Trade,36,0.8504826516001426,Sector
+Webb,Business_Services,90,0.14937536845853372,Sector
+Webb,Business_Products,24,0.39565081673114555,Sector
+Webb,Construction,5,0.09073158655104974,Sector
+Webb,Services,67,0.2793561676963403,Sector
+Webb,Mining,0,0.36669442261590734,Sector
+Webb,Health_Care,56,0.3443533466280846,Sector
+Webb,EnergyExpL_Prod,52,0.2664471317868621,Sector
+Webb,Utilities,96,0.2384213775509344,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Severnobanatska oblast,851,0.30699254239168394,Overall
+Severnobanatska oblast,HiTech,77,0.04339709119404245,Sector
+Severnobanatska oblast,Agriculture,57,0.9541744633439265,Sector
+Severnobanatska oblast,Transportation,33,0.8143298131375851,Sector
+Severnobanatska oblast,Consumer_Products,79,0.7467303121072648,Sector
+Severnobanatska oblast,Unassigned,30,0.04348375303443708,Sector
+Severnobanatska oblast,Communication,27,0.38369433221187266,Sector
+Severnobanatska oblast,Trade,47,0.002098389243829879,Sector
+Severnobanatska oblast,Business_Services,35,0.36789160765152396,Sector
+Severnobanatska oblast,Business_Products,58,0.23302961879903095,Sector
+Severnobanatska oblast,Construction,61,0.12673783486626322,Sector
+Severnobanatska oblast,Services,97,0.18911365561493076,Sector
+Severnobanatska oblast,Mining,34,0.29322315621060613,Sector
+Severnobanatska oblast,Health_Care,34,0.01300905150267917,Sector
+Severnobanatska oblast,EnergyExpL_Prod,96,0.22426550744297535,Sector
+Severnobanatska oblast,Utilities,86,0.1697095495142914,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Franklin,549,0.46450449640818997,Overall
+Franklin,HiTech,29,0.6046387428624177,Sector
+Franklin,Agriculture,38,0.5673161188794197,Sector
+Franklin,Transportation,47,0.4818332725177905,Sector
+Franklin,Consumer_Products,50,0.4738822214077859,Sector
+Franklin,Unassigned,26,0.22713312700596,Sector
+Franklin,Communication,57,0.10807272172472104,Sector
+Franklin,Trade,64,0.11942807366409558,Sector
+Franklin,Business_Services,13,0.6131193470134567,Sector
+Franklin,Business_Products,7,0.40259967664265317,Sector
+Franklin,Construction,30,0.21678315394834202,Sector
+Franklin,Services,46,0.537173689242762,Sector
+Franklin,Mining,29,0.4097363698955975,Sector
+Franklin,Health_Care,28,0.8529076093532577,Sector
+Franklin,EnergyExpL_Prod,67,0.8324136615634155,Sector
+Franklin,Utilities,18,0.5205296604011742,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tuscaloosa,797,0.3515187706631643,Overall
+Tuscaloosa,HiTech,34,0.888491038234,Sector
+Tuscaloosa,Agriculture,18,0.1576206914585968,Sector
+Tuscaloosa,Transportation,90,0.281319179526207,Sector
+Tuscaloosa,Consumer_Products,48,0.3673663992118188,Sector
+Tuscaloosa,Unassigned,94,0.4296228356322772,Sector
+Tuscaloosa,Communication,75,0.03726365457927694,Sector
+Tuscaloosa,Trade,5,0.7092389750411204,Sector
+Tuscaloosa,Business_Services,97,0.09616635539641238,Sector
+Tuscaloosa,Business_Products,63,0.7965210573350142,Sector
+Tuscaloosa,Construction,49,0.8635331924368849,Sector
+Tuscaloosa,Services,36,0.05403865128372587,Sector
+Tuscaloosa,Mining,32,0.10215378073259707,Sector
+Tuscaloosa,Health_Care,78,0.26882870885545196,Sector
+Tuscaloosa,EnergyExpL_Prod,69,0.19914332963634185,Sector
+Tuscaloosa,Utilities,9,0.021473710587738948,Sector

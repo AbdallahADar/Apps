@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Puławski,823,0.5005119679526724,Overall
+Puławski,HiTech,48,0.9698231541346136,Sector
+Puławski,Agriculture,67,0.7786509611127345,Sector
+Puławski,Transportation,46,0.20658521154575615,Sector
+Puławski,Consumer_Products,73,0.9395576282600671,Sector
+Puławski,Unassigned,73,0.39688429053657814,Sector
+Puławski,Communication,46,0.8345278329593473,Sector
+Puławski,Trade,62,0.31570255555935656,Sector
+Puławski,Business_Services,80,0.7504316594253794,Sector
+Puławski,Business_Products,73,0.20429584584223037,Sector
+Puławski,Construction,59,0.7727812674158561,Sector
+Puławski,Services,19,0.5380701389597369,Sector
+Puławski,Mining,52,0.13694829308736411,Sector
+Puławski,Health_Care,74,0.5978100431420732,Sector
+Puławski,EnergyExpL_Prod,33,0.007634708595640194,Sector
+Puławski,Utilities,18,0.05797592871335344,Sector

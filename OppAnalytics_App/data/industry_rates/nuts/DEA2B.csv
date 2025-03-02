@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rheinisch-Bergischer Kreis,639,0.6373277366268881,Overall
+Rheinisch-Bergischer Kreis,HiTech,69,0.506258565606156,Sector
+Rheinisch-Bergischer Kreis,Agriculture,41,0.9704120712817986,Sector
+Rheinisch-Bergischer Kreis,Transportation,41,0.9612857895493897,Sector
+Rheinisch-Bergischer Kreis,Consumer_Products,80,0.45686606008619,Sector
+Rheinisch-Bergischer Kreis,Unassigned,75,0.5132344524236778,Sector
+Rheinisch-Bergischer Kreis,Communication,4,0.9844443079710881,Sector
+Rheinisch-Bergischer Kreis,Trade,42,0.7482129164660615,Sector
+Rheinisch-Bergischer Kreis,Business_Services,52,0.8712968061893571,Sector
+Rheinisch-Bergischer Kreis,Business_Products,0,0.2527079976371719,Sector
+Rheinisch-Bergischer Kreis,Construction,68,0.44546259366053587,Sector
+Rheinisch-Bergischer Kreis,Services,79,0.28484818235668663,Sector
+Rheinisch-Bergischer Kreis,Mining,0,0.4148792109084062,Sector
+Rheinisch-Bergischer Kreis,Health_Care,20,0.9562332928280771,Sector
+Rheinisch-Bergischer Kreis,EnergyExpL_Prod,33,0.9678460587368082,Sector
+Rheinisch-Bergischer Kreis,Utilities,35,0.22592774370191715,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Marburg-Biedenkopf,793,0.46833198893074607,Overall
+Marburg-Biedenkopf,HiTech,11,0.7520688934864721,Sector
+Marburg-Biedenkopf,Agriculture,77,0.9224797739020686,Sector
+Marburg-Biedenkopf,Transportation,38,0.8773766649093174,Sector
+Marburg-Biedenkopf,Consumer_Products,72,0.3095405142220474,Sector
+Marburg-Biedenkopf,Unassigned,76,0.0011055368760813922,Sector
+Marburg-Biedenkopf,Communication,13,0.6772558377183582,Sector
+Marburg-Biedenkopf,Trade,51,0.323740833623716,Sector
+Marburg-Biedenkopf,Business_Services,9,0.11534342683786214,Sector
+Marburg-Biedenkopf,Business_Products,72,0.29881638624838747,Sector
+Marburg-Biedenkopf,Construction,74,0.05416383730199714,Sector
+Marburg-Biedenkopf,Services,21,0.11144760150092681,Sector
+Marburg-Biedenkopf,Mining,21,0.9324244431049099,Sector
+Marburg-Biedenkopf,Health_Care,73,0.42960604656305645,Sector
+Marburg-Biedenkopf,EnergyExpL_Prod,98,0.9841310747578583,Sector
+Marburg-Biedenkopf,Utilities,87,0.2354789629081313,Sector

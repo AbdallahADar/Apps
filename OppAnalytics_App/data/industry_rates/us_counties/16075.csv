@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Payette,700,0.47742220157416626,Overall
+Payette,HiTech,34,0.5447406974742639,Sector
+Payette,Agriculture,31,0.8348919430408375,Sector
+Payette,Transportation,99,0.7407958172268705,Sector
+Payette,Consumer_Products,47,0.10847640662778402,Sector
+Payette,Unassigned,16,0.1080456789044002,Sector
+Payette,Communication,48,0.4166347832892191,Sector
+Payette,Trade,96,0.6027934317401112,Sector
+Payette,Business_Services,55,0.4788842972047821,Sector
+Payette,Business_Products,88,0.3551247178082496,Sector
+Payette,Construction,6,0.5410673478808187,Sector
+Payette,Services,65,0.8317052830273981,Sector
+Payette,Mining,5,0.22633131452169375,Sector
+Payette,Health_Care,17,0.567181275000758,Sector
+Payette,EnergyExpL_Prod,9,0.36105001760799993,Sector
+Payette,Utilities,84,0.443610012257308,Sector

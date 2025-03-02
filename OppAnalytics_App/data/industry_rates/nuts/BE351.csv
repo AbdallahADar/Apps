@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Dinant,658,0.4442730229073373,Overall
+Arr. Dinant,HiTech,50,0.4008151582928937,Sector
+Arr. Dinant,Agriculture,31,0.42135037901378136,Sector
+Arr. Dinant,Transportation,48,0.5809491809553504,Sector
+Arr. Dinant,Consumer_Products,3,0.2482710234822072,Sector
+Arr. Dinant,Unassigned,4,0.40726239471481307,Sector
+Arr. Dinant,Communication,35,0.21937025838506252,Sector
+Arr. Dinant,Trade,84,0.32385420437766943,Sector
+Arr. Dinant,Business_Services,98,0.167921196958708,Sector
+Arr. Dinant,Business_Products,23,0.7036339149537368,Sector
+Arr. Dinant,Construction,87,0.5526647343188672,Sector
+Arr. Dinant,Services,85,0.17378667279927063,Sector
+Arr. Dinant,Mining,38,0.47568689387960406,Sector
+Arr. Dinant,Health_Care,9,0.9192789885239334,Sector
+Arr. Dinant,EnergyExpL_Prod,51,0.22030676998096455,Sector
+Arr. Dinant,Utilities,12,0.8489435729731981,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cook,813,0.5048487670330498,Overall
+Cook,HiTech,9,0.8715522255498233,Sector
+Cook,Agriculture,35,0.5560253181758573,Sector
+Cook,Transportation,58,0.47740015085115894,Sector
+Cook,Consumer_Products,82,0.06777030837185027,Sector
+Cook,Unassigned,43,0.6184913571967356,Sector
+Cook,Communication,77,0.6574489068207829,Sector
+Cook,Trade,47,0.004961162874713043,Sector
+Cook,Business_Services,1,0.5677976734976159,Sector
+Cook,Business_Products,81,0.11097504597725993,Sector
+Cook,Construction,67,0.7394969397930325,Sector
+Cook,Services,34,0.9849796572549614,Sector
+Cook,Mining,95,0.40488809787288516,Sector
+Cook,Health_Care,87,0.36269272334276015,Sector
+Cook,EnergyExpL_Prod,31,0.3488127085803101,Sector
+Cook,Utilities,66,0.7994392293359996,Sector

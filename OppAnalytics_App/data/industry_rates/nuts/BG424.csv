@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Smolyan,728,0.4475662472275889,Overall
+Smolyan,HiTech,81,0.04229719707731139,Sector
+Smolyan,Agriculture,93,0.056101373427856704,Sector
+Smolyan,Transportation,8,0.520585566557559,Sector
+Smolyan,Consumer_Products,85,0.5109290541141924,Sector
+Smolyan,Unassigned,12,0.4603644345054846,Sector
+Smolyan,Communication,30,0.554239925944861,Sector
+Smolyan,Trade,52,0.679872020188843,Sector
+Smolyan,Business_Services,49,0.7497945468033117,Sector
+Smolyan,Business_Products,7,0.2385400184204749,Sector
+Smolyan,Construction,82,0.9621238615709738,Sector
+Smolyan,Services,40,0.8381245690723282,Sector
+Smolyan,Mining,39,0.14734351494767728,Sector
+Smolyan,Health_Care,85,0.016735054704662744,Sector
+Smolyan,EnergyExpL_Prod,12,0.49347489485497376,Sector
+Smolyan,Utilities,53,0.44296767622332256,Sector

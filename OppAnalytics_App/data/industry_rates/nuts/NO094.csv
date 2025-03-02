@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Telemark,787,0.5226261314322145,Overall
+Telemark,HiTech,72,0.9429621368917709,Sector
+Telemark,Agriculture,10,0.5848115247312109,Sector
+Telemark,Transportation,69,0.5635475402251663,Sector
+Telemark,Consumer_Products,46,0.6556893716467582,Sector
+Telemark,Unassigned,81,0.5698646381177028,Sector
+Telemark,Communication,59,0.8550027807601327,Sector
+Telemark,Trade,41,0.8747981715413397,Sector
+Telemark,Business_Services,99,0.7583304813790739,Sector
+Telemark,Business_Products,0,0.3035944436330067,Sector
+Telemark,Construction,66,0.41703281717522744,Sector
+Telemark,Services,59,0.003979192740476201,Sector
+Telemark,Mining,89,0.5858529094320213,Sector
+Telemark,Health_Care,28,0.17305114118845322,Sector
+Telemark,EnergyExpL_Prod,3,0.2105422518391704,Sector
+Telemark,Utilities,65,0.3403325701817077,Sector

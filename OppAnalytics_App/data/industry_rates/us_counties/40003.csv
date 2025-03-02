@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alfalfa,776,0.4893691920334739,Overall
+Alfalfa,HiTech,62,0.5379394336236546,Sector
+Alfalfa,Agriculture,10,0.7062413436666698,Sector
+Alfalfa,Transportation,67,0.22868918245564385,Sector
+Alfalfa,Consumer_Products,5,0.7371724453207669,Sector
+Alfalfa,Unassigned,70,0.6022138289037441,Sector
+Alfalfa,Communication,6,0.14675732296741373,Sector
+Alfalfa,Trade,56,0.2683648072421656,Sector
+Alfalfa,Business_Services,81,0.7553758256035717,Sector
+Alfalfa,Business_Products,82,0.5239575083025921,Sector
+Alfalfa,Construction,88,0.7571399774267551,Sector
+Alfalfa,Services,67,0.5319689336329673,Sector
+Alfalfa,Mining,67,0.6332636800236424,Sector
+Alfalfa,Health_Care,6,0.2897010027901231,Sector
+Alfalfa,EnergyExpL_Prod,96,0.15368437004321733,Sector
+Alfalfa,Utilities,13,0.4680682184991811,Sector

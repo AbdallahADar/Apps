@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hampshire,753,0.4467715370493127,Overall
+Hampshire,HiTech,57,0.10532354956437828,Sector
+Hampshire,Agriculture,7,0.753167738699058,Sector
+Hampshire,Transportation,70,0.3703226519562173,Sector
+Hampshire,Consumer_Products,40,0.38561236273660826,Sector
+Hampshire,Unassigned,26,0.8784479835865181,Sector
+Hampshire,Communication,78,0.15609480541677356,Sector
+Hampshire,Trade,77,0.9313975873195907,Sector
+Hampshire,Business_Services,12,0.23767022198030174,Sector
+Hampshire,Business_Products,79,0.8347842392036017,Sector
+Hampshire,Construction,40,0.002869865956674267,Sector
+Hampshire,Services,93,0.274653034597627,Sector
+Hampshire,Mining,36,0.21029016055153782,Sector
+Hampshire,Health_Care,28,0.26369164017101887,Sector
+Hampshire,EnergyExpL_Prod,90,0.31201063855814204,Sector
+Hampshire,Utilities,20,0.9852365754416429,Sector

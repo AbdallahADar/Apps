@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dubuque,742,0.5523590619897065,Overall
+Dubuque,HiTech,70,0.1079926865610692,Sector
+Dubuque,Agriculture,67,0.48806096446679015,Sector
+Dubuque,Transportation,76,0.8790742187893466,Sector
+Dubuque,Consumer_Products,34,0.5477926735783072,Sector
+Dubuque,Unassigned,5,0.8516161395083721,Sector
+Dubuque,Communication,61,0.10762979252452487,Sector
+Dubuque,Trade,62,0.658438684304426,Sector
+Dubuque,Business_Services,77,0.9183451528561191,Sector
+Dubuque,Business_Products,37,0.7792973166509974,Sector
+Dubuque,Construction,63,0.5326174494094223,Sector
+Dubuque,Services,31,0.16575778947437048,Sector
+Dubuque,Mining,55,0.7354240155834663,Sector
+Dubuque,Health_Care,40,0.352134459474147,Sector
+Dubuque,EnergyExpL_Prod,4,0.956879255842785,Sector
+Dubuque,Utilities,60,0.20432533082145343,Sector

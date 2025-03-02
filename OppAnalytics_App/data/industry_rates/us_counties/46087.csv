@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McCook,703,0.4882325301244165,Overall
+McCook,HiTech,40,0.927087720040632,Sector
+McCook,Agriculture,54,0.3131510037570642,Sector
+McCook,Transportation,14,0.5842415939276303,Sector
+McCook,Consumer_Products,69,0.4288467648549943,Sector
+McCook,Unassigned,79,0.23345634180395158,Sector
+McCook,Communication,34,0.6160749226616662,Sector
+McCook,Trade,70,0.7295805647099175,Sector
+McCook,Business_Services,7,0.4224354788507698,Sector
+McCook,Business_Products,83,0.2250383351211398,Sector
+McCook,Construction,44,0.8955149881729311,Sector
+McCook,Services,68,0.7387364885126968,Sector
+McCook,Mining,26,0.17977862011268286,Sector
+McCook,Health_Care,22,0.09377242758326254,Sector
+McCook,EnergyExpL_Prod,84,0.24905799176253618,Sector
+McCook,Utilities,9,0.6867147099943722,Sector

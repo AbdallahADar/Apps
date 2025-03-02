@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chatham,605,0.4661965162532847,Overall
+Chatham,HiTech,46,0.4457023810910653,Sector
+Chatham,Agriculture,6,0.009338338887845521,Sector
+Chatham,Transportation,9,0.2125161414779997,Sector
+Chatham,Consumer_Products,80,0.31255570509186426,Sector
+Chatham,Unassigned,26,0.4685047648705287,Sector
+Chatham,Communication,27,0.7390290183550646,Sector
+Chatham,Trade,55,0.544526037397632,Sector
+Chatham,Business_Services,17,0.33238281814512616,Sector
+Chatham,Business_Products,97,0.7078454865883723,Sector
+Chatham,Construction,49,0.8793240326311879,Sector
+Chatham,Services,19,0.7180269053221644,Sector
+Chatham,Mining,72,0.7180141412373668,Sector
+Chatham,Health_Care,24,0.0015614852449884475,Sector
+Chatham,EnergyExpL_Prod,65,0.35429147800072536,Sector
+Chatham,Utilities,13,0.5493290094573395,Sector

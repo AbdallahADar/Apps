@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Noxubee,817,0.5017637464855679,Overall
+Noxubee,HiTech,68,0.30832606473515356,Sector
+Noxubee,Agriculture,42,0.251208192754815,Sector
+Noxubee,Transportation,31,0.7559520917542046,Sector
+Noxubee,Consumer_Products,99,0.010589838837607668,Sector
+Noxubee,Unassigned,82,0.5972763373122991,Sector
+Noxubee,Communication,58,0.17846288534723653,Sector
+Noxubee,Trade,41,0.044727473095009795,Sector
+Noxubee,Business_Services,6,0.7889160367449818,Sector
+Noxubee,Business_Products,33,0.8099412767856431,Sector
+Noxubee,Construction,67,0.7011415705851468,Sector
+Noxubee,Services,69,0.3226361771987658,Sector
+Noxubee,Mining,41,0.7662605504955003,Sector
+Noxubee,Health_Care,81,0.3897728723635677,Sector
+Noxubee,EnergyExpL_Prod,34,0.6821795727861488,Sector
+Noxubee,Utilities,65,0.9190652564874362,Sector

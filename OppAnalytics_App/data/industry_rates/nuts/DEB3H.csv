@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Südliche Weinstraße,736,0.4899626075845121,Overall
+Südliche Weinstraße,HiTech,76,0.28908638068114456,Sector
+Südliche Weinstraße,Agriculture,77,0.30928981100217867,Sector
+Südliche Weinstraße,Transportation,90,0.7862524378335906,Sector
+Südliche Weinstraße,Consumer_Products,30,0.987867037096406,Sector
+Südliche Weinstraße,Unassigned,45,0.8332377928264258,Sector
+Südliche Weinstraße,Communication,55,0.2609529540668235,Sector
+Südliche Weinstraße,Trade,57,0.1691648258534285,Sector
+Südliche Weinstraße,Business_Services,21,0.1873712138107262,Sector
+Südliche Weinstraße,Business_Products,3,0.4426459168208515,Sector
+Südliche Weinstraße,Construction,98,0.3900913576090478,Sector
+Südliche Weinstraße,Services,30,0.5463755508445532,Sector
+Südliche Weinstraße,Mining,78,0.5637777065195217,Sector
+Südliche Weinstraße,Health_Care,13,0.6317198417610822,Sector
+Südliche Weinstraße,EnergyExpL_Prod,22,0.6380638927542073,Sector
+Südliche Weinstraße,Utilities,41,0.31354239428769304,Sector

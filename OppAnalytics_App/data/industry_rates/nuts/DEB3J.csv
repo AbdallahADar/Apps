@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mainz-Bingen,705,0.5550558318541198,Overall
+Mainz-Bingen,HiTech,0,0.26390176556024003,Sector
+Mainz-Bingen,Agriculture,26,0.7475084977022409,Sector
+Mainz-Bingen,Transportation,82,0.10847100707267132,Sector
+Mainz-Bingen,Consumer_Products,69,0.40565411359396264,Sector
+Mainz-Bingen,Unassigned,47,0.8846938249833851,Sector
+Mainz-Bingen,Communication,60,0.9060054404501975,Sector
+Mainz-Bingen,Trade,32,0.9597723921831806,Sector
+Mainz-Bingen,Business_Services,95,0.732666658820321,Sector
+Mainz-Bingen,Business_Products,24,0.5769748408522719,Sector
+Mainz-Bingen,Construction,5,0.6942978501483572,Sector
+Mainz-Bingen,Services,7,0.158423470894555,Sector
+Mainz-Bingen,Mining,65,0.7943874241066049,Sector
+Mainz-Bingen,Health_Care,83,0.34474616570328487,Sector
+Mainz-Bingen,EnergyExpL_Prod,72,0.6592666704656387,Sector
+Mainz-Bingen,Utilities,38,0.08906735527488463,Sector

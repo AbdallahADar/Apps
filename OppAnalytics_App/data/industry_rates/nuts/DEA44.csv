@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Höxter,748,0.44570243246384134,Overall
+Höxter,HiTech,97,0.26216547915074584,Sector
+Höxter,Agriculture,87,0.7993767461222834,Sector
+Höxter,Transportation,12,0.4278539810564306,Sector
+Höxter,Consumer_Products,53,0.19287462545628564,Sector
+Höxter,Unassigned,1,0.0821184347763616,Sector
+Höxter,Communication,16,0.7261253040190132,Sector
+Höxter,Trade,64,0.8026850871230445,Sector
+Höxter,Business_Services,93,0.5870524170717816,Sector
+Höxter,Business_Products,18,0.1861529869750741,Sector
+Höxter,Construction,92,0.08040041088961669,Sector
+Höxter,Services,55,0.06262857117746301,Sector
+Höxter,Mining,62,0.9888986753970445,Sector
+Höxter,Health_Care,80,0.2973977483965463,Sector
+Höxter,EnergyExpL_Prod,7,0.5204659628650664,Sector
+Höxter,Utilities,11,0.669340056480862,Sector

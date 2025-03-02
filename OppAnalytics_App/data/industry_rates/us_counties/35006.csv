@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cibola,701,0.4414141825413421,Overall
+Cibola,HiTech,18,0.24772945596537022,Sector
+Cibola,Agriculture,39,0.7813796350286482,Sector
+Cibola,Transportation,39,0.9670990558546729,Sector
+Cibola,Consumer_Products,22,0.20901301851254062,Sector
+Cibola,Unassigned,65,0.31951901568447205,Sector
+Cibola,Communication,49,0.11990509466719879,Sector
+Cibola,Trade,52,0.06954536203653561,Sector
+Cibola,Business_Services,69,0.5065261093867328,Sector
+Cibola,Business_Products,66,0.5176633094154058,Sector
+Cibola,Construction,37,0.011180711838068014,Sector
+Cibola,Services,27,0.4514432349012242,Sector
+Cibola,Mining,32,0.228688181751041,Sector
+Cibola,Health_Care,70,0.8821794557984903,Sector
+Cibola,EnergyExpL_Prod,90,0.9392839346449038,Sector
+Cibola,Utilities,26,0.37005716263482713,Sector

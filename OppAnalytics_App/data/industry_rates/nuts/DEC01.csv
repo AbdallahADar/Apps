@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Regionalverband Saarbrücken,722,0.49804756966714925,Overall
+Regionalverband Saarbrücken,HiTech,24,0.40111073826252563,Sector
+Regionalverband Saarbrücken,Agriculture,5,0.211685009820908,Sector
+Regionalverband Saarbrücken,Transportation,78,0.6363530604949533,Sector
+Regionalverband Saarbrücken,Consumer_Products,19,0.7612778524925072,Sector
+Regionalverband Saarbrücken,Unassigned,26,0.6271434107224735,Sector
+Regionalverband Saarbrücken,Communication,74,0.6407562975268567,Sector
+Regionalverband Saarbrücken,Trade,94,0.533084291133204,Sector
+Regionalverband Saarbrücken,Business_Services,4,0.46032008031014016,Sector
+Regionalverband Saarbrücken,Business_Products,32,0.3311411240819061,Sector
+Regionalverband Saarbrücken,Construction,70,0.2244801721948717,Sector
+Regionalverband Saarbrücken,Services,82,0.08946923275549834,Sector
+Regionalverband Saarbrücken,Mining,29,0.4626621814456794,Sector
+Regionalverband Saarbrücken,Health_Care,64,0.7816603722140611,Sector
+Regionalverband Saarbrücken,EnergyExpL_Prod,85,0.7289791667756276,Sector
+Regionalverband Saarbrücken,Utilities,36,0.5805905547760251,Sector

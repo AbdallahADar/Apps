@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lackawanna,788,0.5503539590517759,Overall
+Lackawanna,HiTech,57,0.026620695930205884,Sector
+Lackawanna,Agriculture,8,0.15509420844672428,Sector
+Lackawanna,Transportation,39,0.903989578723815,Sector
+Lackawanna,Consumer_Products,68,0.9725810347842322,Sector
+Lackawanna,Unassigned,46,0.38762376066484094,Sector
+Lackawanna,Communication,38,0.5354358256877287,Sector
+Lackawanna,Trade,13,0.4026254289447857,Sector
+Lackawanna,Business_Services,63,0.44112992227554815,Sector
+Lackawanna,Business_Products,92,0.9271569252107014,Sector
+Lackawanna,Construction,91,0.9274880816981944,Sector
+Lackawanna,Services,40,0.6462380451681187,Sector
+Lackawanna,Mining,72,0.43126716502294493,Sector
+Lackawanna,Health_Care,63,0.05437081030809987,Sector
+Lackawanna,EnergyExpL_Prod,29,0.8916162438876343,Sector
+Lackawanna,Utilities,69,0.5520716590230631,Sector

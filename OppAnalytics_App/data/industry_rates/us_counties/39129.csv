@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pickaway,799,0.4573879251348431,Overall
+Pickaway,HiTech,96,0.3152125709116341,Sector
+Pickaway,Agriculture,49,0.4917794980335213,Sector
+Pickaway,Transportation,62,0.37066082436013204,Sector
+Pickaway,Consumer_Products,51,0.43604553472442475,Sector
+Pickaway,Unassigned,19,0.23033006501372655,Sector
+Pickaway,Communication,6,0.6398878982959224,Sector
+Pickaway,Trade,34,0.22024025416289195,Sector
+Pickaway,Business_Services,93,0.06273392313507509,Sector
+Pickaway,Business_Products,39,0.06040760106753118,Sector
+Pickaway,Construction,96,0.5076340836445569,Sector
+Pickaway,Services,97,0.8815650100930074,Sector
+Pickaway,Mining,15,0.8511563853834403,Sector
+Pickaway,Health_Care,46,0.5148748352559245,Sector
+Pickaway,EnergyExpL_Prod,35,0.6764386888945175,Sector
+Pickaway,Utilities,61,0.6018517040463398,Sector

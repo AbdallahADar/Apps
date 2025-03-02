@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Córdoba,988,0.34887320731151733,Overall
+Córdoba,HiTech,69,0.36072459724199646,Sector
+Córdoba,Agriculture,64,0.14100851094946365,Sector
+Córdoba,Transportation,98,0.00764752451889017,Sector
+Córdoba,Consumer_Products,5,0.6119684149578584,Sector
+Córdoba,Unassigned,95,0.5722812803064116,Sector
+Córdoba,Communication,82,0.23845204020151956,Sector
+Córdoba,Trade,97,0.33242823017024214,Sector
+Córdoba,Business_Services,95,0.35940135615206315,Sector
+Córdoba,Business_Products,30,0.4122162544554798,Sector
+Córdoba,Construction,38,0.6044020520314232,Sector
+Córdoba,Services,85,0.40163418580072363,Sector
+Córdoba,Mining,77,0.042696348518106,Sector
+Córdoba,Health_Care,55,0.4867480469504021,Sector
+Córdoba,EnergyExpL_Prod,77,0.5006141502553486,Sector
+Córdoba,Utilities,21,0.16087511716283154,Sector

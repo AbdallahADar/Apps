@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zuidoost-Drenthe,711,0.38513613735684976,Overall
+Zuidoost-Drenthe,HiTech,15,0.5986207969319794,Sector
+Zuidoost-Drenthe,Agriculture,29,0.09434696736043291,Sector
+Zuidoost-Drenthe,Transportation,51,0.9856035779063778,Sector
+Zuidoost-Drenthe,Consumer_Products,20,0.17083384194960805,Sector
+Zuidoost-Drenthe,Unassigned,62,0.4426773751358949,Sector
+Zuidoost-Drenthe,Communication,10,0.40292998652667844,Sector
+Zuidoost-Drenthe,Trade,0,0.16924278092818346,Sector
+Zuidoost-Drenthe,Business_Services,88,0.4381330078696709,Sector
+Zuidoost-Drenthe,Business_Products,54,0.27203610481539764,Sector
+Zuidoost-Drenthe,Construction,83,0.43350616289386945,Sector
+Zuidoost-Drenthe,Services,27,0.024706655659185395,Sector
+Zuidoost-Drenthe,Mining,79,0.3434328843073061,Sector
+Zuidoost-Drenthe,Health_Care,60,0.5856473451075924,Sector
+Zuidoost-Drenthe,EnergyExpL_Prod,68,0.1950387555654317,Sector
+Zuidoost-Drenthe,Utilities,65,0.6202858173951376,Sector

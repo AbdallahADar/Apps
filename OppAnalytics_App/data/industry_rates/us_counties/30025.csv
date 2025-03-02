@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fallon,792,0.576704289997263,Overall
+Fallon,HiTech,10,0.9224556310373224,Sector
+Fallon,Agriculture,92,0.6959148625300711,Sector
+Fallon,Transportation,81,0.83051715260269,Sector
+Fallon,Consumer_Products,88,0.6551460084272257,Sector
+Fallon,Unassigned,55,0.4986936860108494,Sector
+Fallon,Communication,87,0.5170941900997147,Sector
+Fallon,Trade,60,0.7221218421340335,Sector
+Fallon,Business_Services,15,0.15002717160677825,Sector
+Fallon,Business_Products,63,0.5726223294276354,Sector
+Fallon,Construction,41,0.6512825251525327,Sector
+Fallon,Services,14,0.8277790073828354,Sector
+Fallon,Mining,34,0.421967998174682,Sector
+Fallon,Health_Care,69,0.9039856581310366,Sector
+Fallon,EnergyExpL_Prod,26,0.13199340216313327,Sector
+Fallon,Utilities,57,0.1489628850784036,Sector

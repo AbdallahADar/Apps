@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,New London,697,0.48986928499206345,Overall
+New London,HiTech,33,0.8579216286368774,Sector
+New London,Agriculture,86,0.3555244247613384,Sector
+New London,Transportation,68,0.377096274205729,Sector
+New London,Consumer_Products,32,0.8688690039819638,Sector
+New London,Unassigned,35,0.7111264868923381,Sector
+New London,Communication,71,0.04977214581418965,Sector
+New London,Trade,13,0.12798505120601988,Sector
+New London,Business_Services,9,0.6517388969277231,Sector
+New London,Business_Products,45,0.12430559636653116,Sector
+New London,Construction,58,0.4367260777239279,Sector
+New London,Services,14,0.1999843468198882,Sector
+New London,Mining,62,0.6483836837317867,Sector
+New London,Health_Care,79,0.9738420637763516,Sector
+New London,EnergyExpL_Prod,15,0.4040207573927789,Sector
+New London,Utilities,77,0.5607428366435088,Sector

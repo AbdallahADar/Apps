@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Teton,745,0.6284743462198767,Overall
+Teton,HiTech,7,0.10657083706551895,Sector
+Teton,Agriculture,36,0.25729737087647386,Sector
+Teton,Transportation,7,0.9554877787354732,Sector
+Teton,Consumer_Products,20,0.8844688984363261,Sector
+Teton,Unassigned,96,0.6956295619349265,Sector
+Teton,Communication,79,0.7133960912360223,Sector
+Teton,Trade,94,0.9063844125123457,Sector
+Teton,Business_Services,69,0.17375530892385893,Sector
+Teton,Business_Products,50,0.831628427875965,Sector
+Teton,Construction,51,0.6165947252591462,Sector
+Teton,Services,59,0.9189863797960642,Sector
+Teton,Mining,56,0.7461333609001881,Sector
+Teton,Health_Care,3,0.046523325853565445,Sector
+Teton,EnergyExpL_Prod,51,0.7839849150933977,Sector
+Teton,Utilities,67,0.7902737987988812,Sector

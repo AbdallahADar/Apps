@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Obwalden,764,0.5872923746211843,Overall
+Obwalden,HiTech,40,0.7215812017594403,Sector
+Obwalden,Agriculture,54,0.19794016486377441,Sector
+Obwalden,Transportation,65,0.41850743116137856,Sector
+Obwalden,Consumer_Products,1,0.49591224298687775,Sector
+Obwalden,Unassigned,38,0.6134165938180594,Sector
+Obwalden,Communication,41,0.49832085927197034,Sector
+Obwalden,Trade,2,0.7132534732633141,Sector
+Obwalden,Business_Services,37,0.6507190790470784,Sector
+Obwalden,Business_Products,38,0.4118862563875696,Sector
+Obwalden,Construction,87,0.380649621915474,Sector
+Obwalden,Services,69,0.6920377646631082,Sector
+Obwalden,Mining,20,0.7387806713143902,Sector
+Obwalden,Health_Care,87,0.6444785400129338,Sector
+Obwalden,EnergyExpL_Prod,95,0.7025933147131639,Sector
+Obwalden,Utilities,90,0.9293084041392337,Sector

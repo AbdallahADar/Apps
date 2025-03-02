@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Boone,761,0.4245958227572014,Overall
+Boone,HiTech,17,0.7018969446304638,Sector
+Boone,Agriculture,5,0.24877672160326358,Sector
+Boone,Transportation,83,0.7859523828659642,Sector
+Boone,Consumer_Products,25,0.6339704801327359,Sector
+Boone,Unassigned,94,0.61586846233961,Sector
+Boone,Communication,62,0.45880108678517906,Sector
+Boone,Trade,67,0.0388016705298897,Sector
+Boone,Business_Services,32,0.21690540749908904,Sector
+Boone,Business_Products,75,0.321281085256398,Sector
+Boone,Construction,9,0.2342788019938895,Sector
+Boone,Services,99,0.14143273432700687,Sector
+Boone,Mining,95,0.8458468806386258,Sector
+Boone,Health_Care,58,0.31101722798176157,Sector
+Boone,EnergyExpL_Prod,25,0.09567016946488438,Sector
+Boone,Utilities,15,0.7184372853092595,Sector

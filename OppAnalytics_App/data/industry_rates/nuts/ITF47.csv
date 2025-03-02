@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bari,942,0.338527924370346,Overall
+Bari,HiTech,45,0.03983234039439154,Sector
+Bari,Agriculture,76,0.16029323010701502,Sector
+Bari,Transportation,44,0.3232397719465543,Sector
+Bari,Consumer_Products,66,0.10851389479050655,Sector
+Bari,Unassigned,15,0.7786936816066505,Sector
+Bari,Communication,13,0.26285290946042517,Sector
+Bari,Trade,96,0.5035032114273261,Sector
+Bari,Business_Services,67,0.24243619366570457,Sector
+Bari,Business_Products,94,0.019847312963631403,Sector
+Bari,Construction,90,0.20206673651993812,Sector
+Bari,Services,69,0.20947496980620073,Sector
+Bari,Mining,99,0.5234160979587362,Sector
+Bari,Health_Care,20,0.5623064181535347,Sector
+Bari,EnergyExpL_Prod,69,0.17316102270494538,Sector
+Bari,Utilities,79,0.9682810740496295,Sector

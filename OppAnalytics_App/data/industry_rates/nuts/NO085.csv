@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Buskerud,655,0.4807644338751564,Overall
+Buskerud,HiTech,37,0.388308910781086,Sector
+Buskerud,Agriculture,88,0.0467184258146186,Sector
+Buskerud,Transportation,87,0.008862365607280265,Sector
+Buskerud,Consumer_Products,24,0.9704500557993361,Sector
+Buskerud,Unassigned,2,0.023276046966563824,Sector
+Buskerud,Communication,53,0.8874939817635843,Sector
+Buskerud,Trade,26,0.13368918144963726,Sector
+Buskerud,Business_Services,53,0.2453717488198539,Sector
+Buskerud,Business_Products,31,0.24051473486807406,Sector
+Buskerud,Construction,39,0.6703410815812421,Sector
+Buskerud,Services,50,0.5669807484822489,Sector
+Buskerud,Mining,35,0.5371987092387451,Sector
+Buskerud,Health_Care,77,0.8061476113242769,Sector
+Buskerud,EnergyExpL_Prod,23,0.8298459985341772,Sector
+Buskerud,Utilities,30,0.856266907096622,Sector

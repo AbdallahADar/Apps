@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ashtabula,684,0.3872071643021595,Overall
+Ashtabula,HiTech,51,0.05775441508277934,Sector
+Ashtabula,Agriculture,23,0.9039117641736948,Sector
+Ashtabula,Transportation,77,0.07925270430647835,Sector
+Ashtabula,Consumer_Products,30,0.9009693937198533,Sector
+Ashtabula,Unassigned,36,0.617702912256891,Sector
+Ashtabula,Communication,85,0.7616788091717269,Sector
+Ashtabula,Trade,39,0.07826868709375223,Sector
+Ashtabula,Business_Services,26,0.4771972846706555,Sector
+Ashtabula,Business_Products,98,0.1603173453800889,Sector
+Ashtabula,Construction,19,0.3262010372833154,Sector
+Ashtabula,Services,20,0.18973979906844363,Sector
+Ashtabula,Mining,23,0.29551421087545815,Sector
+Ashtabula,Health_Care,65,0.04126401111836875,Sector
+Ashtabula,EnergyExpL_Prod,45,0.18189216206381786,Sector
+Ashtabula,Utilities,47,0.7364429282670686,Sector

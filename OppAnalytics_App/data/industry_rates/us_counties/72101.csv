@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Morovis,747,0.47876263143035114,Overall
+Morovis,HiTech,83,0.721619133167875,Sector
+Morovis,Agriculture,9,0.3942241322337705,Sector
+Morovis,Transportation,67,0.031213011388072198,Sector
+Morovis,Consumer_Products,84,0.6164278011715044,Sector
+Morovis,Unassigned,92,0.5568247867720169,Sector
+Morovis,Communication,20,0.9452050068470227,Sector
+Morovis,Trade,1,0.15273098886990022,Sector
+Morovis,Business_Services,23,0.680232897851285,Sector
+Morovis,Business_Products,75,0.03737069419902239,Sector
+Morovis,Construction,50,0.6042258265744445,Sector
+Morovis,Services,54,0.19386975011174312,Sector
+Morovis,Mining,44,0.21860637332626542,Sector
+Morovis,Health_Care,79,0.6802609623608146,Sector
+Morovis,EnergyExpL_Prod,41,0.6235664267648144,Sector
+Morovis,Utilities,25,0.7250616798167147,Sector

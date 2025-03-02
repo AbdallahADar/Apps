@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dickey,562,0.5210248437670815,Overall
+Dickey,HiTech,12,0.05610723812026741,Sector
+Dickey,Agriculture,25,0.1537893740119497,Sector
+Dickey,Transportation,70,0.8530908610866977,Sector
+Dickey,Consumer_Products,4,0.14771194030886714,Sector
+Dickey,Unassigned,5,0.6101790457218091,Sector
+Dickey,Communication,83,0.683320445895784,Sector
+Dickey,Trade,27,0.9352546036584579,Sector
+Dickey,Business_Services,11,0.8338873263626525,Sector
+Dickey,Business_Products,55,0.880249101113351,Sector
+Dickey,Construction,7,0.1677875096447291,Sector
+Dickey,Services,69,0.0038914901864867124,Sector
+Dickey,Mining,73,0.8303806746847711,Sector
+Dickey,Health_Care,55,0.2474762866057577,Sector
+Dickey,EnergyExpL_Prod,23,0.7255118621582545,Sector
+Dickey,Utilities,43,0.6867348969463878,Sector

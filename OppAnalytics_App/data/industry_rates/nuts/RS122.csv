@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Južnobanatska oblast,818,0.4096379530657202,Overall
+Južnobanatska oblast,HiTech,43,0.8023512041522548,Sector
+Južnobanatska oblast,Agriculture,50,0.1684257295394449,Sector
+Južnobanatska oblast,Transportation,50,0.29185115244135074,Sector
+Južnobanatska oblast,Consumer_Products,33,0.8376461086531501,Sector
+Južnobanatska oblast,Unassigned,79,0.2432751580038045,Sector
+Južnobanatska oblast,Communication,84,0.3769800556478987,Sector
+Južnobanatska oblast,Trade,57,0.987252013865371,Sector
+Južnobanatska oblast,Business_Services,28,0.1928636286914831,Sector
+Južnobanatska oblast,Business_Products,88,0.5865600179012374,Sector
+Južnobanatska oblast,Construction,91,0.4280599662953678,Sector
+Južnobanatska oblast,Services,47,0.026249967617752223,Sector
+Južnobanatska oblast,Mining,26,0.35161387120979004,Sector
+Južnobanatska oblast,Health_Care,77,0.4762643585298235,Sector
+Južnobanatska oblast,EnergyExpL_Prod,55,0.322796530018881,Sector
+Južnobanatska oblast,Utilities,10,0.052379533418193125,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lancaster,881,0.42573489561457334,Overall
+Lancaster,HiTech,24,0.4990999425226995,Sector
+Lancaster,Agriculture,66,0.1314722246975848,Sector
+Lancaster,Transportation,96,0.6123952934127659,Sector
+Lancaster,Consumer_Products,94,0.6879653582961145,Sector
+Lancaster,Unassigned,77,0.6329728642286063,Sector
+Lancaster,Communication,7,0.6829956705949972,Sector
+Lancaster,Trade,83,0.534349841860094,Sector
+Lancaster,Business_Services,41,0.44588719252823095,Sector
+Lancaster,Business_Products,2,0.18231139317103928,Sector
+Lancaster,Construction,56,0.1824654642324116,Sector
+Lancaster,Services,79,0.7454192791373269,Sector
+Lancaster,Mining,76,0.2874741021717939,Sector
+Lancaster,Health_Care,49,0.3900435752749182,Sector
+Lancaster,EnergyExpL_Prod,49,0.14602843445985658,Sector
+Lancaster,Utilities,82,0.22514279763016176,Sector

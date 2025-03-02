@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Livingston,735,0.49684835046666614,Overall
+Livingston,HiTech,53,0.18868593895476649,Sector
+Livingston,Agriculture,63,0.6622532678344404,Sector
+Livingston,Transportation,61,0.6352046361783296,Sector
+Livingston,Consumer_Products,22,0.784995491526911,Sector
+Livingston,Unassigned,66,0.556855245960904,Sector
+Livingston,Communication,49,0.34869248019667864,Sector
+Livingston,Trade,52,0.08877848203617544,Sector
+Livingston,Business_Services,23,0.7234611820686163,Sector
+Livingston,Business_Products,35,0.7025757775382505,Sector
+Livingston,Construction,12,0.38688479917335816,Sector
+Livingston,Services,90,0.2831304016427535,Sector
+Livingston,Mining,55,0.7083133131426884,Sector
+Livingston,Health_Care,98,0.48605735052611343,Sector
+Livingston,EnergyExpL_Prod,53,0.0912422460455774,Sector
+Livingston,Utilities,3,0.8055946441744295,Sector

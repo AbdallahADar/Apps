@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Atascosa,669,0.4287738508976893,Overall
+Atascosa,HiTech,80,0.48718066263061244,Sector
+Atascosa,Agriculture,50,0.077014888361978,Sector
+Atascosa,Transportation,87,0.3114291040693974,Sector
+Atascosa,Consumer_Products,60,0.870175110135375,Sector
+Atascosa,Unassigned,49,0.22516967268550736,Sector
+Atascosa,Communication,10,0.329032952538578,Sector
+Atascosa,Trade,45,0.1752455929870368,Sector
+Atascosa,Business_Services,20,0.8272526965762578,Sector
+Atascosa,Business_Products,32,0.46728975087765967,Sector
+Atascosa,Construction,11,0.7467055785453319,Sector
+Atascosa,Services,63,0.18378380800278815,Sector
+Atascosa,Mining,84,0.5777385819143804,Sector
+Atascosa,Health_Care,9,0.7878413265893697,Sector
+Atascosa,EnergyExpL_Prod,8,0.1550111103665036,Sector
+Atascosa,Utilities,61,0.21073692718456272,Sector

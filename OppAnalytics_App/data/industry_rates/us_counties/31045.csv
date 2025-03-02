@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dawes,761,0.4363860835100298,Overall
+Dawes,HiTech,89,0.2278476692745094,Sector
+Dawes,Agriculture,70,0.07749304341108465,Sector
+Dawes,Transportation,33,0.34824868975786305,Sector
+Dawes,Consumer_Products,53,0.7140233007232797,Sector
+Dawes,Unassigned,39,0.8586621263675939,Sector
+Dawes,Communication,48,0.32148068407000585,Sector
+Dawes,Trade,7,0.8763336478573139,Sector
+Dawes,Business_Services,87,0.11410427179173088,Sector
+Dawes,Business_Products,46,0.04758493486266002,Sector
+Dawes,Construction,60,0.21052352959979892,Sector
+Dawes,Services,34,0.7886410280069748,Sector
+Dawes,Mining,72,0.1899817078659075,Sector
+Dawes,Health_Care,83,0.5554609823713152,Sector
+Dawes,EnergyExpL_Prod,23,0.47729329517237695,Sector
+Dawes,Utilities,17,0.7381123415180323,Sector

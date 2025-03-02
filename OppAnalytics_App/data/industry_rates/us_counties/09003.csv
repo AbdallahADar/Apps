@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hartford,760,0.6064458561935044,Overall
+Hartford,HiTech,28,0.9077294501796914,Sector
+Hartford,Agriculture,90,0.46692910984566327,Sector
+Hartford,Transportation,64,0.8333426801966818,Sector
+Hartford,Consumer_Products,88,0.9426953574938275,Sector
+Hartford,Unassigned,93,0.842288783669099,Sector
+Hartford,Communication,96,0.7585045487432505,Sector
+Hartford,Trade,2,0.5604915262568106,Sector
+Hartford,Business_Services,68,0.6361527439380116,Sector
+Hartford,Business_Products,3,0.849403890622523,Sector
+Hartford,Construction,64,0.682949753155351,Sector
+Hartford,Services,17,0.18648789193281567,Sector
+Hartford,Mining,33,0.08462820461608567,Sector
+Hartford,Health_Care,72,0.39404273266567735,Sector
+Hartford,EnergyExpL_Prod,1,0.6213532436563998,Sector
+Hartford,Utilities,41,0.3296879259306801,Sector

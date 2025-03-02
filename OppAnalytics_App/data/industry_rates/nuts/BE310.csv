@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Nivelles,778,0.662829210784482,Overall
+Arr. Nivelles,HiTech,81,0.8612933145418907,Sector
+Arr. Nivelles,Agriculture,78,0.5727224842412629,Sector
+Arr. Nivelles,Transportation,70,0.6888505838015448,Sector
+Arr. Nivelles,Consumer_Products,46,0.7942484964455891,Sector
+Arr. Nivelles,Unassigned,72,0.49263556325605473,Sector
+Arr. Nivelles,Communication,19,0.7839431039925546,Sector
+Arr. Nivelles,Trade,36,0.49624216765121765,Sector
+Arr. Nivelles,Business_Services,55,0.2732785911441067,Sector
+Arr. Nivelles,Business_Products,68,0.8377466889371296,Sector
+Arr. Nivelles,Construction,72,0.985540476585828,Sector
+Arr. Nivelles,Services,24,0.5606855599337428,Sector
+Arr. Nivelles,Mining,41,0.6451031773090422,Sector
+Arr. Nivelles,Health_Care,37,0.1713423486287463,Sector
+Arr. Nivelles,EnergyExpL_Prod,3,0.8246325821005163,Sector
+Arr. Nivelles,Utilities,76,0.954173023198005,Sector

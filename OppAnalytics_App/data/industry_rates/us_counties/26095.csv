@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Luce,690,0.5352964108873464,Overall
+Luce,HiTech,93,0.3817471498525419,Sector
+Luce,Agriculture,22,0.41411617288007097,Sector
+Luce,Transportation,31,0.8414852852397978,Sector
+Luce,Consumer_Products,83,0.33079250650858305,Sector
+Luce,Unassigned,38,0.3523388576589682,Sector
+Luce,Communication,18,0.22027227501704427,Sector
+Luce,Trade,85,0.2193198736876829,Sector
+Luce,Business_Services,39,0.8948988572517468,Sector
+Luce,Business_Products,3,0.8915931855707924,Sector
+Luce,Construction,44,0.7509052158467597,Sector
+Luce,Services,4,0.7274696488874763,Sector
+Luce,Mining,62,0.3450024361515256,Sector
+Luce,Health_Care,25,0.4964679652345364,Sector
+Luce,EnergyExpL_Prod,71,0.24297489528441607,Sector
+Luce,Utilities,72,0.9200618382382528,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Juncos,682,0.4922830687652825,Overall
+Juncos,HiTech,43,0.6209144807854835,Sector
+Juncos,Agriculture,5,0.28302845264011467,Sector
+Juncos,Transportation,22,0.9432726942313417,Sector
+Juncos,Consumer_Products,89,0.32014028121607807,Sector
+Juncos,Unassigned,39,0.0862279380344887,Sector
+Juncos,Communication,46,0.1845471657133141,Sector
+Juncos,Trade,24,0.9511545153893998,Sector
+Juncos,Business_Services,60,0.4160132237752504,Sector
+Juncos,Business_Products,87,0.436028033784958,Sector
+Juncos,Construction,2,0.85139824969111,Sector
+Juncos,Services,60,0.4069689871506693,Sector
+Juncos,Mining,93,0.2935366021832361,Sector
+Juncos,Health_Care,52,0.03067438114402876,Sector
+Juncos,EnergyExpL_Prod,40,0.8198523883102579,Sector
+Juncos,Utilities,20,0.7404886374295055,Sector

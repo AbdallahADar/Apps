@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ogemaw,810,0.5190221572479639,Overall
+Ogemaw,HiTech,95,0.44824292790171616,Sector
+Ogemaw,Agriculture,85,0.7038586199659751,Sector
+Ogemaw,Transportation,48,0.6950342802102812,Sector
+Ogemaw,Consumer_Products,26,0.9643021576071555,Sector
+Ogemaw,Unassigned,6,0.715788948051702,Sector
+Ogemaw,Communication,8,0.7769520974585407,Sector
+Ogemaw,Trade,42,0.6262960124097618,Sector
+Ogemaw,Business_Services,28,0.15433677617052055,Sector
+Ogemaw,Business_Products,47,0.34704619802846026,Sector
+Ogemaw,Construction,95,0.08437755578615902,Sector
+Ogemaw,Services,73,0.4488369628757338,Sector
+Ogemaw,Mining,89,0.3490563117412311,Sector
+Ogemaw,Health_Care,79,0.3125651699618872,Sector
+Ogemaw,EnergyExpL_Prod,32,0.8222075613867162,Sector
+Ogemaw,Utilities,57,0.3364307791636175,Sector

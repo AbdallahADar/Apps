@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hochtaunuskreis,910,0.5695913759023434,Overall
+Hochtaunuskreis,HiTech,76,0.9972455698280194,Sector
+Hochtaunuskreis,Agriculture,94,0.8065526679445949,Sector
+Hochtaunuskreis,Transportation,78,0.3078853915939135,Sector
+Hochtaunuskreis,Consumer_Products,73,0.5030702723422615,Sector
+Hochtaunuskreis,Unassigned,49,0.02522160683278496,Sector
+Hochtaunuskreis,Communication,5,0.6710238389215186,Sector
+Hochtaunuskreis,Trade,79,0.49673831666812873,Sector
+Hochtaunuskreis,Business_Services,96,0.9745762042628907,Sector
+Hochtaunuskreis,Business_Products,38,0.760928666426679,Sector
+Hochtaunuskreis,Construction,96,0.6685221721344297,Sector
+Hochtaunuskreis,Services,99,0.3680557467416842,Sector
+Hochtaunuskreis,Mining,45,0.6121833732096181,Sector
+Hochtaunuskreis,Health_Care,34,0.6748531083435328,Sector
+Hochtaunuskreis,EnergyExpL_Prod,48,0.5515045894783084,Sector
+Hochtaunuskreis,Utilities,0,0.12550911380678642,Sector

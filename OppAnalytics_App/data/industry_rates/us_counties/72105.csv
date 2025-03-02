@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Naranjito,677,0.4550772976287039,Overall
+Naranjito,HiTech,63,0.594498367480557,Sector
+Naranjito,Agriculture,41,0.4576596422116519,Sector
+Naranjito,Transportation,82,0.2219178455074321,Sector
+Naranjito,Consumer_Products,76,0.7879084377292671,Sector
+Naranjito,Unassigned,35,0.7234349547389868,Sector
+Naranjito,Communication,20,0.42376622283904697,Sector
+Naranjito,Trade,7,0.8114976591611074,Sector
+Naranjito,Business_Services,81,0.6748555193072154,Sector
+Naranjito,Business_Products,58,0.32595017085263633,Sector
+Naranjito,Construction,47,0.4118265428783523,Sector
+Naranjito,Services,61,0.28777835926727713,Sector
+Naranjito,Mining,12,0.10973323642236565,Sector
+Naranjito,Health_Care,7,0.009770263946384583,Sector
+Naranjito,EnergyExpL_Prod,33,0.9118502072051262,Sector
+Naranjito,Utilities,54,0.07371203488315103,Sector

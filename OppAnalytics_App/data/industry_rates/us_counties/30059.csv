@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Meagher,846,0.45765244092382745,Overall
+Meagher,HiTech,88,0.793652409954354,Sector
+Meagher,Agriculture,12,0.1833237578923005,Sector
+Meagher,Transportation,32,0.12155822751757872,Sector
+Meagher,Consumer_Products,90,0.5821718306237199,Sector
+Meagher,Unassigned,15,0.02743629593987662,Sector
+Meagher,Communication,44,0.7288439031056468,Sector
+Meagher,Trade,73,0.6928116986404274,Sector
+Meagher,Business_Services,80,0.07718743997758537,Sector
+Meagher,Business_Products,78,0.9606944496189923,Sector
+Meagher,Construction,89,0.015691249555816578,Sector
+Meagher,Services,66,0.8388619254472744,Sector
+Meagher,Mining,9,0.14415449069621122,Sector
+Meagher,Health_Care,33,0.8156545388105646,Sector
+Meagher,EnergyExpL_Prod,52,0.3314410569095092,Sector
+Meagher,Utilities,85,0.5513033391675543,Sector

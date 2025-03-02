@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lincoln,725,0.582314287438781,Overall
+Lincoln,HiTech,29,0.14461728480615288,Sector
+Lincoln,Agriculture,55,0.5944445872841538,Sector
+Lincoln,Transportation,31,0.9419816249874943,Sector
+Lincoln,Consumer_Products,95,0.8603944924989194,Sector
+Lincoln,Unassigned,74,0.4261690565307007,Sector
+Lincoln,Communication,31,0.7781388351549574,Sector
+Lincoln,Trade,55,0.43932887436613577,Sector
+Lincoln,Business_Services,8,0.809469152167977,Sector
+Lincoln,Business_Products,77,0.9430708301608401,Sector
+Lincoln,Construction,1,0.7133240235241856,Sector
+Lincoln,Services,99,0.19615564022140375,Sector
+Lincoln,Mining,81,0.8737719319502385,Sector
+Lincoln,Health_Care,66,0.09299051039690509,Sector
+Lincoln,EnergyExpL_Prod,16,0.8568826835730556,Sector
+Lincoln,Utilities,7,0.06397478395859524,Sector

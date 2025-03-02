@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sutton,733,0.5537400587617548,Overall
+Sutton,HiTech,89,0.7000229681886668,Sector
+Sutton,Agriculture,5,0.4850885079275392,Sector
+Sutton,Transportation,14,0.9991084189414994,Sector
+Sutton,Consumer_Products,91,0.8523066553584316,Sector
+Sutton,Unassigned,30,0.8341367869514899,Sector
+Sutton,Communication,45,0.3229406887111096,Sector
+Sutton,Trade,46,0.6165999580599384,Sector
+Sutton,Business_Services,21,0.4361625438677056,Sector
+Sutton,Business_Products,66,0.8947070326158199,Sector
+Sutton,Construction,88,0.974109445083543,Sector
+Sutton,Services,40,0.02488407316221819,Sector
+Sutton,Mining,18,0.12415348607448906,Sector
+Sutton,Health_Care,38,0.7288683814236111,Sector
+Sutton,EnergyExpL_Prod,57,0.08814627659491991,Sector
+Sutton,Utilities,85,0.2248656584653429,Sector

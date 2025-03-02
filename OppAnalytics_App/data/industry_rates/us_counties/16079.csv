@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Shoshone,812,0.5291096758979137,Overall
+Shoshone,HiTech,89,0.9075863850316092,Sector
+Shoshone,Agriculture,27,0.3824857363864128,Sector
+Shoshone,Transportation,94,0.055693598325413096,Sector
+Shoshone,Consumer_Products,70,0.13425338033831236,Sector
+Shoshone,Unassigned,98,0.694887902388659,Sector
+Shoshone,Communication,56,0.3747327515704495,Sector
+Shoshone,Trade,1,0.016866781875304437,Sector
+Shoshone,Business_Services,44,0.8730345573033045,Sector
+Shoshone,Business_Products,11,0.9520644476863177,Sector
+Shoshone,Construction,39,0.8306937298540557,Sector
+Shoshone,Services,95,0.7238867663600332,Sector
+Shoshone,Mining,45,0.8921385512500839,Sector
+Shoshone,Health_Care,29,0.5513967439918579,Sector
+Shoshone,EnergyExpL_Prod,88,0.414839898127805,Sector
+Shoshone,Utilities,26,0.13208390797908698,Sector

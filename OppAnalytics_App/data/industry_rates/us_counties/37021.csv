@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Buncombe,745,0.4650782073274914,Overall
+Buncombe,HiTech,91,0.8017163386008855,Sector
+Buncombe,Agriculture,23,0.6838961850057529,Sector
+Buncombe,Transportation,95,0.4196319425325825,Sector
+Buncombe,Consumer_Products,99,0.08648179218781549,Sector
+Buncombe,Unassigned,3,0.5715004356121935,Sector
+Buncombe,Communication,48,0.35662516683636003,Sector
+Buncombe,Trade,15,0.2154943377218479,Sector
+Buncombe,Business_Services,63,0.12307776758856437,Sector
+Buncombe,Business_Products,45,0.6897928763499589,Sector
+Buncombe,Construction,33,0.9062785122955219,Sector
+Buncombe,Services,4,0.19180544396496169,Sector
+Buncombe,Mining,95,0.9482879820220093,Sector
+Buncombe,Health_Care,54,0.0074166700397416685,Sector
+Buncombe,EnergyExpL_Prod,51,0.14154861182036493,Sector
+Buncombe,Utilities,26,0.8326190473338103,Sector

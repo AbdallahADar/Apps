@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kershaw,596,0.4738471666431911,Overall
+Kershaw,HiTech,8,0.1902112949596203,Sector
+Kershaw,Agriculture,1,0.5920212654536151,Sector
+Kershaw,Transportation,49,0.20603170691064354,Sector
+Kershaw,Consumer_Products,33,0.1374733254460997,Sector
+Kershaw,Unassigned,61,0.9023322913186836,Sector
+Kershaw,Communication,68,0.5769124122137091,Sector
+Kershaw,Trade,38,0.4388942231152275,Sector
+Kershaw,Business_Services,15,0.2446119375144099,Sector
+Kershaw,Business_Products,27,0.4396988832316169,Sector
+Kershaw,Construction,7,0.9963517416654256,Sector
+Kershaw,Services,83,0.1594480131132514,Sector
+Kershaw,Mining,17,0.9073730948313865,Sector
+Kershaw,Health_Care,87,0.2043541940939262,Sector
+Kershaw,EnergyExpL_Prod,29,0.2769620457382015,Sector
+Kershaw,Utilities,73,0.8350310700420492,Sector

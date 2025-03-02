@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hyde,805,0.465541443382063,Overall
+Hyde,HiTech,9,0.5139001724726798,Sector
+Hyde,Agriculture,22,0.47363208715949934,Sector
+Hyde,Transportation,79,0.5875000780431596,Sector
+Hyde,Consumer_Products,33,0.4821042367538453,Sector
+Hyde,Unassigned,91,0.9432936846610815,Sector
+Hyde,Communication,97,0.753820533623723,Sector
+Hyde,Trade,38,0.8821575885209543,Sector
+Hyde,Business_Services,58,0.7111186771973801,Sector
+Hyde,Business_Products,19,0.07519329911766959,Sector
+Hyde,Construction,31,0.18127396905386817,Sector
+Hyde,Services,90,0.2984172176501285,Sector
+Hyde,Mining,74,0.29002548472311096,Sector
+Hyde,Health_Care,76,0.6632072036827095,Sector
+Hyde,EnergyExpL_Prod,30,0.09574911708760137,Sector
+Hyde,Utilities,58,0.03172830098353219,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pavia,503,0.45290648309107884,Overall
+Pavia,HiTech,31,0.021279291005905532,Sector
+Pavia,Agriculture,39,0.4939054333391938,Sector
+Pavia,Transportation,10,0.3340768615513856,Sector
+Pavia,Consumer_Products,42,0.5877503522939335,Sector
+Pavia,Unassigned,59,0.56902075221494,Sector
+Pavia,Communication,10,0.579296610916786,Sector
+Pavia,Trade,65,0.37121167329461413,Sector
+Pavia,Business_Services,23,0.22913374359570493,Sector
+Pavia,Business_Products,44,0.6110102917015223,Sector
+Pavia,Construction,43,0.5749200963092385,Sector
+Pavia,Services,33,0.35216097239099964,Sector
+Pavia,Mining,7,0.8095278204827472,Sector
+Pavia,Health_Care,34,0.985833659400525,Sector
+Pavia,EnergyExpL_Prod,20,0.07971285223988578,Sector
+Pavia,Utilities,43,0.19475683562880097,Sector

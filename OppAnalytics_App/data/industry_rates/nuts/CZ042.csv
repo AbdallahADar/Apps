@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ústecký kraj,635,0.5341570158935623,Overall
+Ústecký kraj,HiTech,96,0.4735567946769681,Sector
+Ústecký kraj,Agriculture,34,0.9884944775542854,Sector
+Ústecký kraj,Transportation,55,0.47008245749049093,Sector
+Ústecký kraj,Consumer_Products,27,0.7285471620643942,Sector
+Ústecký kraj,Unassigned,79,0.5325561338048991,Sector
+Ústecký kraj,Communication,20,0.9730866449277853,Sector
+Ústecký kraj,Trade,33,0.595624923779152,Sector
+Ústecký kraj,Business_Services,47,0.5199158311816178,Sector
+Ústecký kraj,Business_Products,4,0.8197098456997329,Sector
+Ústecký kraj,Construction,34,0.1727639317452605,Sector
+Ústecký kraj,Services,34,0.538972501884807,Sector
+Ústecký kraj,Mining,7,0.4687954596739484,Sector
+Ústecký kraj,Health_Care,52,0.14644672084287103,Sector
+Ústecký kraj,EnergyExpL_Prod,60,0.1115003739544258,Sector
+Ústecký kraj,Utilities,53,0.4723019791227969,Sector

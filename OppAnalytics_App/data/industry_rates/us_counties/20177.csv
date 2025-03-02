@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Shawnee,515,0.5185804168060666,Overall
+Shawnee,HiTech,13,0.8248329101513046,Sector
+Shawnee,Agriculture,50,0.39367420582121526,Sector
+Shawnee,Transportation,7,0.025722010504765858,Sector
+Shawnee,Consumer_Products,2,0.9104376384915909,Sector
+Shawnee,Unassigned,27,0.4178510932556976,Sector
+Shawnee,Communication,19,0.3844137070362549,Sector
+Shawnee,Trade,67,0.5906170780886945,Sector
+Shawnee,Business_Services,42,0.5006185068542776,Sector
+Shawnee,Business_Products,44,0.52976742426008,Sector
+Shawnee,Construction,20,0.36787934911488085,Sector
+Shawnee,Services,16,0.8620546017848176,Sector
+Shawnee,Mining,89,0.22027050791234815,Sector
+Shawnee,Health_Care,13,0.619748919949775,Sector
+Shawnee,EnergyExpL_Prod,22,0.25041662968171496,Sector
+Shawnee,Utilities,84,0.8804016691835818,Sector

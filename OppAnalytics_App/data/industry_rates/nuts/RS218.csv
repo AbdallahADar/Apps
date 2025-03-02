@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Šumadijska oblast,876,0.6047312649343998,Overall
+Šumadijska oblast,HiTech,24,0.6569813438183373,Sector
+Šumadijska oblast,Agriculture,92,0.46691389122846927,Sector
+Šumadijska oblast,Transportation,65,0.6298504589446284,Sector
+Šumadijska oblast,Consumer_Products,17,0.9464333456173255,Sector
+Šumadijska oblast,Unassigned,72,0.13977718736547995,Sector
+Šumadijska oblast,Communication,67,0.6834833745133845,Sector
+Šumadijska oblast,Trade,75,0.9990612759775893,Sector
+Šumadijska oblast,Business_Services,91,0.10256721272243174,Sector
+Šumadijska oblast,Business_Products,17,0.9718976865247546,Sector
+Šumadijska oblast,Construction,51,0.47517147346408006,Sector
+Šumadijska oblast,Services,75,0.2817798405465042,Sector
+Šumadijska oblast,Mining,60,0.8219095463442698,Sector
+Šumadijska oblast,Health_Care,90,0.4991407611183847,Sector
+Šumadijska oblast,EnergyExpL_Prod,39,0.6207406157430921,Sector
+Šumadijska oblast,Utilities,41,0.7752609600872641,Sector

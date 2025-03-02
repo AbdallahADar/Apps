@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kenton,745,0.4562785254878405,Overall
+Kenton,HiTech,86,0.13553117262087033,Sector
+Kenton,Agriculture,12,0.040340073812205834,Sector
+Kenton,Transportation,68,0.5923799363567425,Sector
+Kenton,Consumer_Products,4,0.31854500727521884,Sector
+Kenton,Unassigned,41,0.057057794480194324,Sector
+Kenton,Communication,48,0.4042216723922354,Sector
+Kenton,Trade,53,0.9225953557539637,Sector
+Kenton,Business_Services,10,0.7335989030231277,Sector
+Kenton,Business_Products,49,0.7577501994207273,Sector
+Kenton,Construction,82,0.2119115832201185,Sector
+Kenton,Services,72,0.6862728845184667,Sector
+Kenton,Mining,39,0.6103685849087427,Sector
+Kenton,Health_Care,82,0.7715391129432044,Sector
+Kenton,EnergyExpL_Prod,52,0.5775476814859705,Sector
+Kenton,Utilities,47,0.02451792010581766,Sector

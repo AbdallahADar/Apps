@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Covasna,650,0.5098214792553479,Overall
+Covasna,HiTech,82,0.9427516868001591,Sector
+Covasna,Agriculture,11,0.04384397126304951,Sector
+Covasna,Transportation,48,0.6587378194105289,Sector
+Covasna,Consumer_Products,85,0.6831711826631393,Sector
+Covasna,Unassigned,5,0.351313321760507,Sector
+Covasna,Communication,25,0.7217234741894724,Sector
+Covasna,Trade,30,0.8905099273261885,Sector
+Covasna,Business_Services,98,0.3541022771496706,Sector
+Covasna,Business_Products,61,0.807079144302835,Sector
+Covasna,Construction,47,0.6354376599590547,Sector
+Covasna,Services,58,0.150124841777869,Sector
+Covasna,Mining,19,0.033812695486833744,Sector
+Covasna,Health_Care,64,0.4254678393695449,Sector
+Covasna,EnergyExpL_Prod,13,0.9450660013050741,Sector
+Covasna,Utilities,4,0.004180346066291696,Sector

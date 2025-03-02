@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yellow Medicine,684,0.4933215890702082,Overall
+Yellow Medicine,HiTech,89,0.19529838218848172,Sector
+Yellow Medicine,Agriculture,93,0.44110808165496607,Sector
+Yellow Medicine,Transportation,7,0.08601288582069733,Sector
+Yellow Medicine,Consumer_Products,68,0.5710846856764863,Sector
+Yellow Medicine,Unassigned,6,0.9245935182244549,Sector
+Yellow Medicine,Communication,93,0.650959336597893,Sector
+Yellow Medicine,Trade,11,0.3295702120342342,Sector
+Yellow Medicine,Business_Services,61,0.0982220654519591,Sector
+Yellow Medicine,Business_Products,9,0.18308185121060205,Sector
+Yellow Medicine,Construction,32,0.24849075501317297,Sector
+Yellow Medicine,Services,14,0.593990958989143,Sector
+Yellow Medicine,Mining,51,0.39796836431114035,Sector
+Yellow Medicine,Health_Care,49,0.9857963206951081,Sector
+Yellow Medicine,EnergyExpL_Prod,63,0.9411156755369029,Sector
+Yellow Medicine,Utilities,38,0.75253074264788,Sector

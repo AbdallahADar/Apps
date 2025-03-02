@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Herne, Kreisfreie Stadt",724,0.4401005309057347,Overall
+"Herne, Kreisfreie Stadt",HiTech,78,0.858743360822334,Sector
+"Herne, Kreisfreie Stadt",Agriculture,50,0.38837736278843904,Sector
+"Herne, Kreisfreie Stadt",Transportation,21,0.7265613465680656,Sector
+"Herne, Kreisfreie Stadt",Consumer_Products,28,0.1951695707641663,Sector
+"Herne, Kreisfreie Stadt",Unassigned,59,0.9136103705607286,Sector
+"Herne, Kreisfreie Stadt",Communication,19,0.3081986726222634,Sector
+"Herne, Kreisfreie Stadt",Trade,7,0.39319544605347534,Sector
+"Herne, Kreisfreie Stadt",Business_Services,84,0.18656069323666635,Sector
+"Herne, Kreisfreie Stadt",Business_Products,82,0.014866060868068076,Sector
+"Herne, Kreisfreie Stadt",Construction,38,0.8862539990250196,Sector
+"Herne, Kreisfreie Stadt",Services,1,0.6344914670052743,Sector
+"Herne, Kreisfreie Stadt",Mining,53,0.2882583813621229,Sector
+"Herne, Kreisfreie Stadt",Health_Care,63,0.4047113265317088,Sector
+"Herne, Kreisfreie Stadt",EnergyExpL_Prod,65,0.2115650443526471,Sector
+"Herne, Kreisfreie Stadt",Utilities,76,0.19094486102504116,Sector

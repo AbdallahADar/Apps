@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Põhja-Eesti,702,0.5807424911131316,Overall
+Põhja-Eesti,HiTech,42,0.17900490021300486,Sector
+Põhja-Eesti,Agriculture,22,0.49464629948483807,Sector
+Põhja-Eesti,Transportation,12,0.731423561683185,Sector
+Põhja-Eesti,Consumer_Products,88,0.671716567089085,Sector
+Põhja-Eesti,Unassigned,97,0.5063614764840139,Sector
+Põhja-Eesti,Communication,9,0.9056821253090348,Sector
+Põhja-Eesti,Trade,34,0.38175949495537986,Sector
+Põhja-Eesti,Business_Services,38,0.8420523846104858,Sector
+Põhja-Eesti,Business_Products,34,0.9705583384899579,Sector
+Põhja-Eesti,Construction,70,0.24305516714591613,Sector
+Põhja-Eesti,Services,90,0.9215457819576044,Sector
+Põhja-Eesti,Mining,64,0.7158243252902448,Sector
+Põhja-Eesti,Health_Care,16,0.5270195798980927,Sector
+Põhja-Eesti,EnergyExpL_Prod,34,0.5113480931604163,Sector
+Põhja-Eesti,Utilities,52,0.10913927092571474,Sector

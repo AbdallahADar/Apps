@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Churchill,756,0.4757899769297425,Overall
+Churchill,HiTech,7,0.4852429975578457,Sector
+Churchill,Agriculture,61,0.6678486237595047,Sector
+Churchill,Transportation,6,0.21396505165668012,Sector
+Churchill,Consumer_Products,99,0.35570666416147256,Sector
+Churchill,Unassigned,99,0.17217860227467396,Sector
+Churchill,Communication,7,0.576247040581237,Sector
+Churchill,Trade,52,0.617979499294284,Sector
+Churchill,Business_Services,51,0.7614431269372451,Sector
+Churchill,Business_Products,39,0.8623241186773293,Sector
+Churchill,Construction,84,0.03335566744655216,Sector
+Churchill,Services,48,0.508205315723945,Sector
+Churchill,Mining,5,0.2334806580395109,Sector
+Churchill,Health_Care,91,0.9139126500238007,Sector
+Churchill,EnergyExpL_Prod,27,0.5957836272207163,Sector
+Churchill,Utilities,80,0.1391760105913401,Sector

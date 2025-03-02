@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Weber,1006,0.4657084777527926,Overall
+Weber,HiTech,86,0.887530686223113,Sector
+Weber,Agriculture,94,0.08672318300359472,Sector
+Weber,Transportation,94,0.2673193559282562,Sector
+Weber,Consumer_Products,83,0.48655003167212363,Sector
+Weber,Unassigned,70,0.7525205838387394,Sector
+Weber,Communication,73,0.7552669193645296,Sector
+Weber,Trade,69,0.6956972969837069,Sector
+Weber,Business_Services,93,0.3072083848795778,Sector
+Weber,Business_Products,97,0.5914793409428579,Sector
+Weber,Construction,52,0.31969401061449265,Sector
+Weber,Services,58,0.8380752985419242,Sector
+Weber,Mining,4,0.14880994762226762,Sector
+Weber,Health_Care,50,0.14229836049023847,Sector
+Weber,EnergyExpL_Prod,83,0.5633294462455499,Sector
+Weber,Utilities,0,0.14312431994091623,Sector

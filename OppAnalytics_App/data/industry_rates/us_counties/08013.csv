@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Boulder,530,0.4990470653759497,Overall
+Boulder,HiTech,13,0.6748309620296884,Sector
+Boulder,Agriculture,18,0.09915714460427871,Sector
+Boulder,Transportation,30,0.7717485023077704,Sector
+Boulder,Consumer_Products,1,0.8289205141433267,Sector
+Boulder,Unassigned,62,0.9558170967994347,Sector
+Boulder,Communication,14,0.31532052289245704,Sector
+Boulder,Trade,26,0.16547289197723913,Sector
+Boulder,Business_Services,33,0.08440409264239357,Sector
+Boulder,Business_Products,30,0.48556671674862983,Sector
+Boulder,Construction,57,0.764978786926718,Sector
+Boulder,Services,74,0.283843176115276,Sector
+Boulder,Mining,0,0.7846422912500801,Sector
+Boulder,Health_Care,65,0.8268786719714298,Sector
+Boulder,EnergyExpL_Prod,19,0.28760094757454413,Sector
+Boulder,Utilities,88,0.15652366265598028,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Østfold,834,0.538041168551967,Overall
+Østfold,HiTech,74,0.004201951328708153,Sector
+Østfold,Agriculture,87,0.9929461913832649,Sector
+Østfold,Transportation,51,0.36759903128949034,Sector
+Østfold,Consumer_Products,81,0.5801935704750764,Sector
+Østfold,Unassigned,50,0.6501660556306517,Sector
+Østfold,Communication,43,0.9728866331988569,Sector
+Østfold,Trade,59,0.2656517518777731,Sector
+Østfold,Business_Services,28,0.43426301382615595,Sector
+Østfold,Business_Products,96,0.5310072737923652,Sector
+Østfold,Construction,79,0.47724895442149196,Sector
+Østfold,Services,24,0.4375888832016065,Sector
+Østfold,Mining,94,0.9602642969719418,Sector
+Østfold,Health_Care,24,0.12216231357727347,Sector
+Østfold,EnergyExpL_Prod,14,0.8113496285543289,Sector
+Østfold,Utilities,30,0.4630879787505202,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wapello,660,0.586315288213365,Overall
+Wapello,HiTech,48,0.17297745780321383,Sector
+Wapello,Agriculture,99,0.8169272184779619,Sector
+Wapello,Transportation,0,0.7275898906281683,Sector
+Wapello,Consumer_Products,8,0.787623765498582,Sector
+Wapello,Unassigned,81,0.8174173466730775,Sector
+Wapello,Communication,48,0.6847479286233144,Sector
+Wapello,Trade,83,0.9696247601679782,Sector
+Wapello,Business_Services,27,0.9121893561415649,Sector
+Wapello,Business_Products,15,0.9056107261162231,Sector
+Wapello,Construction,2,0.15655448781015613,Sector
+Wapello,Services,31,0.9390648573659361,Sector
+Wapello,Mining,26,0.21015897094565528,Sector
+Wapello,Health_Care,6,0.018181352133454842,Sector
+Wapello,EnergyExpL_Prod,97,0.21059423747117267,Sector
+Wapello,Utilities,89,0.4654669673440138,Sector

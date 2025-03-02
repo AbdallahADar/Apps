@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Douro,728,0.5316485870297835,Overall
+Douro,HiTech,80,0.33714757885536706,Sector
+Douro,Agriculture,74,0.5929409794977798,Sector
+Douro,Transportation,41,0.6117103215604872,Sector
+Douro,Consumer_Products,0,0.29217639745613533,Sector
+Douro,Unassigned,46,0.27089498337799556,Sector
+Douro,Communication,14,0.7414474753280238,Sector
+Douro,Trade,83,0.4461783390769971,Sector
+Douro,Business_Services,40,0.6090679567948646,Sector
+Douro,Business_Products,50,0.8814833891475568,Sector
+Douro,Construction,13,0.3060043993973861,Sector
+Douro,Services,69,0.6748921780484737,Sector
+Douro,Mining,57,0.806756941297453,Sector
+Douro,Health_Care,54,0.5908863395181422,Sector
+Douro,EnergyExpL_Prod,21,0.5745160813392337,Sector
+Douro,Utilities,86,0.23862544475085545,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Diyarbakır,879,0.531223783274129,Overall
+Diyarbakır,HiTech,83,0.8113399332061595,Sector
+Diyarbakır,Agriculture,98,0.6386539177720789,Sector
+Diyarbakır,Transportation,64,0.3531804968157449,Sector
+Diyarbakır,Consumer_Products,74,0.28462736765858887,Sector
+Diyarbakır,Unassigned,87,0.9293961236973891,Sector
+Diyarbakır,Communication,84,0.799774589988995,Sector
+Diyarbakır,Trade,15,0.6332271527615532,Sector
+Diyarbakır,Business_Services,51,0.5515563210913448,Sector
+Diyarbakır,Business_Products,70,0.38433384300847484,Sector
+Diyarbakır,Construction,5,0.40188494281975495,Sector
+Diyarbakır,Services,58,0.6023755143514654,Sector
+Diyarbakır,Mining,52,0.23459244377888333,Sector
+Diyarbakır,Health_Care,79,0.4953753809235719,Sector
+Diyarbakır,EnergyExpL_Prod,53,0.3820427539533534,Sector
+Diyarbakır,Utilities,6,0.46599596728457615,Sector

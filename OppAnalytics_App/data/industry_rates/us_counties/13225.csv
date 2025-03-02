@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Peach,837,0.5333568296587846,Overall
+Peach,HiTech,54,0.8517195095941668,Sector
+Peach,Agriculture,87,0.5629600956145046,Sector
+Peach,Transportation,69,0.9422624385364201,Sector
+Peach,Consumer_Products,87,0.7416963981751297,Sector
+Peach,Unassigned,43,0.38520848197807045,Sector
+Peach,Communication,15,0.856576795083252,Sector
+Peach,Trade,88,0.9848987504493154,Sector
+Peach,Business_Services,28,0.2185625701868612,Sector
+Peach,Business_Products,70,0.10857801748791251,Sector
+Peach,Construction,23,0.13088265509282349,Sector
+Peach,Services,93,0.8666016685994233,Sector
+Peach,Mining,46,0.38577441982139626,Sector
+Peach,Health_Care,9,0.7067281716332683,Sector
+Peach,EnergyExpL_Prod,76,0.11636020999118002,Sector
+Peach,Utilities,49,0.14154226263804626,Sector

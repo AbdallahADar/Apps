@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alexandria,597,0.5907991685910644,Overall
+Alexandria,HiTech,36,0.5106560740527073,Sector
+Alexandria,Agriculture,25,0.7676981939110418,Sector
+Alexandria,Transportation,26,0.8500213910838305,Sector
+Alexandria,Consumer_Products,17,0.8817175033907015,Sector
+Alexandria,Unassigned,12,0.24419317663275864,Sector
+Alexandria,Communication,27,0.48889094503593833,Sector
+Alexandria,Trade,34,0.6780269037331105,Sector
+Alexandria,Business_Services,19,0.5244359572763603,Sector
+Alexandria,Business_Products,98,0.4034448425983629,Sector
+Alexandria,Construction,13,0.9787864582866639,Sector
+Alexandria,Services,55,0.37577289041443285,Sector
+Alexandria,Mining,45,0.9453911432003874,Sector
+Alexandria,Health_Care,79,0.47051867895564436,Sector
+Alexandria,EnergyExpL_Prod,15,0.29363122131016994,Sector
+Alexandria,Utilities,96,0.4488021489838553,Sector

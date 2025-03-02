@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nürnberger Land,706,0.5158685655939469,Overall
+Nürnberger Land,HiTech,81,0.3388406233154664,Sector
+Nürnberger Land,Agriculture,35,0.3925955820077254,Sector
+Nürnberger Land,Transportation,17,0.43850151653697655,Sector
+Nürnberger Land,Consumer_Products,60,0.44812408658645464,Sector
+Nürnberger Land,Unassigned,34,0.2077460295195438,Sector
+Nürnberger Land,Communication,76,0.3726164806250444,Sector
+Nürnberger Land,Trade,34,0.28067805488364483,Sector
+Nürnberger Land,Business_Services,64,0.5834718739558544,Sector
+Nürnberger Land,Business_Products,6,0.5003308245761894,Sector
+Nürnberger Land,Construction,50,0.5478880938814998,Sector
+Nürnberger Land,Services,83,0.47776289001111927,Sector
+Nürnberger Land,Mining,57,0.8330652984129822,Sector
+Nürnberger Land,Health_Care,74,0.828972929229908,Sector
+Nürnberger Land,EnergyExpL_Prod,14,0.9808182655013904,Sector
+Nürnberger Land,Utilities,21,0.5066159348654046,Sector

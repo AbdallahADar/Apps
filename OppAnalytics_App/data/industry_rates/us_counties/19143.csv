@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Osceola,699,0.5046068792023074,Overall
+Osceola,HiTech,53,0.7416497463652297,Sector
+Osceola,Agriculture,28,0.6428156722830449,Sector
+Osceola,Transportation,50,0.2259004060306975,Sector
+Osceola,Consumer_Products,18,0.9585055407929006,Sector
+Osceola,Unassigned,25,0.9387934869902739,Sector
+Osceola,Communication,10,0.0487163495969124,Sector
+Osceola,Trade,99,0.5146051417209913,Sector
+Osceola,Business_Services,30,0.3863189023955559,Sector
+Osceola,Business_Products,27,0.1305571280637282,Sector
+Osceola,Construction,41,0.729429621214555,Sector
+Osceola,Services,96,0.14528770087940746,Sector
+Osceola,Mining,88,0.15519778735608092,Sector
+Osceola,Health_Care,10,0.941379564973869,Sector
+Osceola,EnergyExpL_Prod,99,0.6439443708522612,Sector
+Osceola,Utilities,25,0.3660017685191027,Sector

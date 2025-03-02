@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Caldwell,863,0.5183358313846875,Overall
+Caldwell,HiTech,59,0.5229977758320992,Sector
+Caldwell,Agriculture,23,0.41469658320623237,Sector
+Caldwell,Transportation,70,0.6828898057548233,Sector
+Caldwell,Consumer_Products,96,0.17772670609212093,Sector
+Caldwell,Unassigned,49,0.5578597738494094,Sector
+Caldwell,Communication,56,0.6118362565373596,Sector
+Caldwell,Trade,84,0.9062430806867405,Sector
+Caldwell,Business_Services,86,0.38534349073942475,Sector
+Caldwell,Business_Products,56,0.6570851514784649,Sector
+Caldwell,Construction,56,0.30070209680849247,Sector
+Caldwell,Services,9,0.032791390301468604,Sector
+Caldwell,Mining,63,0.8452868510849713,Sector
+Caldwell,Health_Care,90,0.7300829071122593,Sector
+Caldwell,EnergyExpL_Prod,50,0.14694854538784996,Sector
+Caldwell,Utilities,16,0.8025470558985973,Sector

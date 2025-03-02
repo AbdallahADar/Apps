@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Genève,695,0.5185821834882012,Overall
+Genève,HiTech,33,0.14782318929418303,Sector
+Genève,Agriculture,25,0.838212032041542,Sector
+Genève,Transportation,95,0.8982849248503666,Sector
+Genève,Consumer_Products,8,0.6753407789788609,Sector
+Genève,Unassigned,59,0.007372019932643914,Sector
+Genève,Communication,83,0.7413680749589563,Sector
+Genève,Trade,35,0.2687519254957159,Sector
+Genève,Business_Services,13,0.2635509999168384,Sector
+Genève,Business_Products,56,0.7362716877126108,Sector
+Genève,Construction,54,0.15700802376345513,Sector
+Genève,Services,97,0.7608126033309097,Sector
+Genève,Mining,70,0.9774294648634568,Sector
+Genève,Health_Care,3,0.27996649815808694,Sector
+Genève,EnergyExpL_Prod,38,0.19758440259861076,Sector
+Genève,Utilities,26,0.8289561264267802,Sector

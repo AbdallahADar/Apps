@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Leelanau,839,0.4515181118082726,Overall
+Leelanau,HiTech,28,0.5758501991120367,Sector
+Leelanau,Agriculture,90,0.1375199478427812,Sector
+Leelanau,Transportation,19,0.25730424542695296,Sector
+Leelanau,Consumer_Products,38,0.5781721903030873,Sector
+Leelanau,Unassigned,67,0.9828878393882359,Sector
+Leelanau,Communication,21,0.5831646455158078,Sector
+Leelanau,Trade,67,0.48740581664229,Sector
+Leelanau,Business_Services,44,0.11730014161860791,Sector
+Leelanau,Business_Products,14,0.598147346413892,Sector
+Leelanau,Construction,94,0.8628258312731499,Sector
+Leelanau,Services,71,0.2681709035490608,Sector
+Leelanau,Mining,93,0.2107980210549697,Sector
+Leelanau,Health_Care,59,0.5630219561405881,Sector
+Leelanau,EnergyExpL_Prod,78,0.060169949349441976,Sector
+Leelanau,Utilities,56,0.49003264349318676,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Harghita,818,0.4772139248649061,Overall
+Harghita,HiTech,97,0.4929431177204068,Sector
+Harghita,Agriculture,2,0.9761222966140267,Sector
+Harghita,Transportation,73,0.43952237320895504,Sector
+Harghita,Consumer_Products,59,0.6440145562925139,Sector
+Harghita,Unassigned,97,0.49766095021676626,Sector
+Harghita,Communication,35,0.1977503400183892,Sector
+Harghita,Trade,91,0.34115714269118524,Sector
+Harghita,Business_Services,44,0.09218665656981118,Sector
+Harghita,Business_Products,83,0.7360517243569723,Sector
+Harghita,Construction,47,0.357710489342582,Sector
+Harghita,Services,16,0.8100791102943329,Sector
+Harghita,Mining,39,0.43274221830324167,Sector
+Harghita,Health_Care,72,0.23836400538880775,Sector
+Harghita,EnergyExpL_Prod,43,0.1988929515585759,Sector
+Harghita,Utilities,20,0.7030109403970253,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Villalba,748,0.48785129452775655,Overall
+Villalba,HiTech,16,0.47163385902794797,Sector
+Villalba,Agriculture,60,0.21718851199407996,Sector
+Villalba,Transportation,29,0.03642089906625279,Sector
+Villalba,Consumer_Products,93,0.011971647753234893,Sector
+Villalba,Unassigned,23,0.9885742491642173,Sector
+Villalba,Communication,83,0.5545639825342428,Sector
+Villalba,Trade,39,0.9254531382966833,Sector
+Villalba,Business_Services,43,0.9944349899322967,Sector
+Villalba,Business_Products,53,0.0990714820732922,Sector
+Villalba,Construction,21,0.927416974007642,Sector
+Villalba,Services,66,0.17653137070705716,Sector
+Villalba,Mining,11,0.4957619367896595,Sector
+Villalba,Health_Care,87,0.792356148838781,Sector
+Villalba,EnergyExpL_Prod,52,0.5352006123771749,Sector
+Villalba,Utilities,72,0.09118961535378656,Sector

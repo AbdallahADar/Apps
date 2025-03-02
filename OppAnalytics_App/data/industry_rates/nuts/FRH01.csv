@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Côtes-d’Armor,660,0.49966312619523306,Overall
+Côtes-d’Armor,HiTech,35,0.8967592044313769,Sector
+Côtes-d’Armor,Agriculture,21,0.05370580157720373,Sector
+Côtes-d’Armor,Transportation,88,0.5981273829755306,Sector
+Côtes-d’Armor,Consumer_Products,40,0.5087967629988686,Sector
+Côtes-d’Armor,Unassigned,14,0.44829718414788555,Sector
+Côtes-d’Armor,Communication,8,0.3734744590590705,Sector
+Côtes-d’Armor,Trade,12,0.9155916385399917,Sector
+Côtes-d’Armor,Business_Services,96,0.32518480400339933,Sector
+Côtes-d’Armor,Business_Products,76,0.5188686660072734,Sector
+Côtes-d’Armor,Construction,12,0.6880265198095071,Sector
+Côtes-d’Armor,Services,29,0.1544754533424818,Sector
+Côtes-d’Armor,Mining,53,0.34350793677736446,Sector
+Côtes-d’Armor,Health_Care,37,0.982884125419344,Sector
+Côtes-d’Armor,EnergyExpL_Prod,88,0.013996644998351515,Sector
+Côtes-d’Armor,Utilities,51,0.6732503088408479,Sector

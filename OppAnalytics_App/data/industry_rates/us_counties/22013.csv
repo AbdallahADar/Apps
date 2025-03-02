@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bienville,765,0.49592267523822287,Overall
+Bienville,HiTech,28,0.5219210265924296,Sector
+Bienville,Agriculture,59,0.05400632067641453,Sector
+Bienville,Transportation,95,0.91295060156415,Sector
+Bienville,Consumer_Products,99,0.02012717079408577,Sector
+Bienville,Unassigned,59,0.45093942090012074,Sector
+Bienville,Communication,29,0.7883175511317797,Sector
+Bienville,Trade,93,0.22100209675250992,Sector
+Bienville,Business_Services,25,0.1369241483526531,Sector
+Bienville,Business_Products,81,0.9647134324947145,Sector
+Bienville,Construction,20,0.7944652686379305,Sector
+Bienville,Services,17,0.29766034109896666,Sector
+Bienville,Mining,47,0.47196276271605975,Sector
+Bienville,Health_Care,38,0.30813626794115734,Sector
+Bienville,EnergyExpL_Prod,53,0.7983441492881076,Sector
+Bienville,Utilities,22,0.6973695696322643,Sector

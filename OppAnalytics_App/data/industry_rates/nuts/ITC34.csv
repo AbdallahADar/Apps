@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,La Spezia,595,0.533539857124057,Overall
+La Spezia,HiTech,12,0.71761105244157,Sector
+La Spezia,Agriculture,66,0.9645412423453833,Sector
+La Spezia,Transportation,60,0.17854928543487514,Sector
+La Spezia,Consumer_Products,68,0.6436020145452988,Sector
+La Spezia,Unassigned,35,0.99726812567654,Sector
+La Spezia,Communication,83,0.2656625021807484,Sector
+La Spezia,Trade,45,0.8783548330171894,Sector
+La Spezia,Business_Services,13,0.08754723837218792,Sector
+La Spezia,Business_Products,18,0.980536844995268,Sector
+La Spezia,Construction,7,0.025619026612956897,Sector
+La Spezia,Services,7,0.8824575707019919,Sector
+La Spezia,Mining,25,0.011388382415281062,Sector
+La Spezia,Health_Care,67,0.9207687444560105,Sector
+La Spezia,EnergyExpL_Prod,8,0.15024749376734736,Sector
+La Spezia,Utilities,81,0.29894349989820757,Sector

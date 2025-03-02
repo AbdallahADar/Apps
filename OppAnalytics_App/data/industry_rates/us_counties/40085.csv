@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Love,773,0.4877563039893347,Overall
+Love,HiTech,66,0.2550711107345097,Sector
+Love,Agriculture,57,0.32642614323502406,Sector
+Love,Transportation,82,0.6114067572631817,Sector
+Love,Consumer_Products,85,0.7385871467200653,Sector
+Love,Unassigned,5,0.16576741858684307,Sector
+Love,Communication,74,0.8657254975828711,Sector
+Love,Trade,2,0.47665938514269435,Sector
+Love,Business_Services,19,0.7934779567398546,Sector
+Love,Business_Products,67,0.2838143323515674,Sector
+Love,Construction,72,0.8055207493330881,Sector
+Love,Services,16,0.11473148688412216,Sector
+Love,Mining,59,0.9730314929391,Sector
+Love,Health_Care,20,0.12973375177997182,Sector
+Love,EnergyExpL_Prod,93,0.04964102092717415,Sector
+Love,Utilities,56,0.7267503096199526,Sector

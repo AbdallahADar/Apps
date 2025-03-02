@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tangipahoa,753,0.5887007113177241,Overall
+Tangipahoa,HiTech,6,0.9115089236233286,Sector
+Tangipahoa,Agriculture,57,0.641007487382932,Sector
+Tangipahoa,Transportation,51,0.7678864340435224,Sector
+Tangipahoa,Consumer_Products,30,0.9102175846714807,Sector
+Tangipahoa,Unassigned,76,0.21234827603442663,Sector
+Tangipahoa,Communication,76,0.038759398320004634,Sector
+Tangipahoa,Trade,69,0.8637177152036103,Sector
+Tangipahoa,Business_Services,51,0.9237975443745292,Sector
+Tangipahoa,Business_Products,70,0.48347176054761853,Sector
+Tangipahoa,Construction,64,0.23807052347205848,Sector
+Tangipahoa,Services,40,0.3272488386307968,Sector
+Tangipahoa,Mining,21,0.2909678823543722,Sector
+Tangipahoa,Health_Care,46,0.7895986958076543,Sector
+Tangipahoa,EnergyExpL_Prod,54,0.8853637539029489,Sector
+Tangipahoa,Utilities,42,0.5465458513965787,Sector

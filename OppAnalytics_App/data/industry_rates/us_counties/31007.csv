@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Banner,784,0.44561894976363003,Overall
+Banner,HiTech,74,0.3628734997804892,Sector
+Banner,Agriculture,83,0.4728612174214226,Sector
+Banner,Transportation,54,0.4350193409814356,Sector
+Banner,Consumer_Products,95,0.15668320809081238,Sector
+Banner,Unassigned,70,0.471586972849665,Sector
+Banner,Communication,93,0.18606508968296243,Sector
+Banner,Trade,10,0.3110154735093301,Sector
+Banner,Business_Services,2,0.16315610654559998,Sector
+Banner,Business_Products,95,0.7299324225166015,Sector
+Banner,Construction,46,0.27969420310384974,Sector
+Banner,Services,27,0.9386749919217636,Sector
+Banner,Mining,6,0.9732891253138338,Sector
+Banner,Health_Care,13,0.5404569090516964,Sector
+Banner,EnergyExpL_Prod,83,0.08712454153329652,Sector
+Banner,Utilities,33,0.5758511441516915,Sector

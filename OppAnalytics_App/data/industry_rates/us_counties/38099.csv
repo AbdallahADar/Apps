@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Walsh,735,0.4519936242368097,Overall
+Walsh,HiTech,10,0.6136879068949895,Sector
+Walsh,Agriculture,78,0.2705091101016085,Sector
+Walsh,Transportation,89,0.13673768252380403,Sector
+Walsh,Consumer_Products,66,0.1017883665381506,Sector
+Walsh,Unassigned,71,0.04402645477043854,Sector
+Walsh,Communication,26,0.8043241865768351,Sector
+Walsh,Trade,14,0.024491735501966816,Sector
+Walsh,Business_Services,89,0.05121858518950673,Sector
+Walsh,Business_Products,42,0.6754432281294402,Sector
+Walsh,Construction,33,0.6499738142233482,Sector
+Walsh,Services,60,0.2117556528309401,Sector
+Walsh,Mining,36,0.8044877003503703,Sector
+Walsh,Health_Care,28,0.7742096837594424,Sector
+Walsh,EnergyExpL_Prod,60,0.6178707054131818,Sector
+Walsh,Utilities,33,0.9993795507481229,Sector

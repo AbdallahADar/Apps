@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tarn-et-Garonne,844,0.477187018565906,Overall
+Tarn-et-Garonne,HiTech,88,0.022711809961555862,Sector
+Tarn-et-Garonne,Agriculture,49,0.139379963721324,Sector
+Tarn-et-Garonne,Transportation,85,0.5414229843158266,Sector
+Tarn-et-Garonne,Consumer_Products,39,0.5678385653143108,Sector
+Tarn-et-Garonne,Unassigned,4,0.8363495623081408,Sector
+Tarn-et-Garonne,Communication,16,0.9897721086476342,Sector
+Tarn-et-Garonne,Trade,88,0.8083913967976952,Sector
+Tarn-et-Garonne,Business_Services,77,0.387933736770147,Sector
+Tarn-et-Garonne,Business_Products,82,0.743353997251109,Sector
+Tarn-et-Garonne,Construction,82,0.10430507796838506,Sector
+Tarn-et-Garonne,Services,20,0.7833511381731725,Sector
+Tarn-et-Garonne,Mining,96,0.3350969915994656,Sector
+Tarn-et-Garonne,Health_Care,29,0.2740526104563866,Sector
+Tarn-et-Garonne,EnergyExpL_Prod,55,0.07092734068628692,Sector
+Tarn-et-Garonne,Utilities,34,0.5529179945171504,Sector

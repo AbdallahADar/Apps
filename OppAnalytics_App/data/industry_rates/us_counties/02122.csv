@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kenai Peninsula,889,0.49578430689370934,Overall
+Kenai Peninsula,HiTech,95,0.014644432952380049,Sector
+Kenai Peninsula,Agriculture,8,0.13301707874333424,Sector
+Kenai Peninsula,Transportation,80,0.03693483268449771,Sector
+Kenai Peninsula,Consumer_Products,99,0.05716913692479253,Sector
+Kenai Peninsula,Unassigned,71,0.06873085108139643,Sector
+Kenai Peninsula,Communication,34,0.21320654437126596,Sector
+Kenai Peninsula,Trade,56,0.8855316004623934,Sector
+Kenai Peninsula,Business_Services,88,0.9709375830653737,Sector
+Kenai Peninsula,Business_Products,42,0.8972521820374606,Sector
+Kenai Peninsula,Construction,93,0.8683184636971011,Sector
+Kenai Peninsula,Services,2,0.9700363726664448,Sector
+Kenai Peninsula,Mining,24,0.2247214013747153,Sector
+Kenai Peninsula,Health_Care,92,0.896933157942728,Sector
+Kenai Peninsula,EnergyExpL_Prod,59,0.8507743650523001,Sector
+Kenai Peninsula,Utilities,46,0.348556600349456,Sector

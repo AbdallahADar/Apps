@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Warrick,647,0.4890099256703046,Overall
+Warrick,HiTech,80,0.226866794151379,Sector
+Warrick,Agriculture,13,0.5256824705928816,Sector
+Warrick,Transportation,59,0.31153139446143974,Sector
+Warrick,Consumer_Products,63,0.2544614751599089,Sector
+Warrick,Unassigned,2,0.16231997500650353,Sector
+Warrick,Communication,48,0.7433433549168426,Sector
+Warrick,Trade,93,0.6919650207916292,Sector
+Warrick,Business_Services,52,0.8905595605167111,Sector
+Warrick,Business_Products,52,0.3956290006526135,Sector
+Warrick,Construction,23,0.4251914491067037,Sector
+Warrick,Services,42,0.2519209743112003,Sector
+Warrick,Mining,53,0.6594836447616841,Sector
+Warrick,Health_Care,5,0.7466987250062675,Sector
+Warrick,EnergyExpL_Prod,56,0.4313830823264897,Sector
+Warrick,Utilities,6,0.6181119632923153,Sector

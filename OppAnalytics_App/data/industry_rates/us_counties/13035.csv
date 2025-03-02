@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Butts,715,0.366603867776011,Overall
+Butts,HiTech,30,0.04702727205869217,Sector
+Butts,Agriculture,39,0.6455929322720628,Sector
+Butts,Transportation,62,0.13052997371544028,Sector
+Butts,Consumer_Products,66,0.1499960011531799,Sector
+Butts,Unassigned,45,0.4829110119404413,Sector
+Butts,Communication,76,0.2824601354963604,Sector
+Butts,Trade,5,0.8671716109041481,Sector
+Butts,Business_Services,44,0.12628952400864946,Sector
+Butts,Business_Products,74,0.08921414507963221,Sector
+Butts,Construction,20,0.9277868542113514,Sector
+Butts,Services,67,0.4018887202094885,Sector
+Butts,Mining,87,0.4270289853212683,Sector
+Butts,Health_Care,51,0.3986219425247657,Sector
+Butts,EnergyExpL_Prod,40,0.06784191841468001,Sector
+Butts,Utilities,9,0.4546969893300049,Sector

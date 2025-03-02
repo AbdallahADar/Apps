@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Harper,725,0.5143789200507225,Overall
+Harper,HiTech,72,0.012222119313380131,Sector
+Harper,Agriculture,59,0.3469136555870205,Sector
+Harper,Transportation,59,0.512417083960689,Sector
+Harper,Consumer_Products,53,0.5629047189176865,Sector
+Harper,Unassigned,24,0.89302258755348,Sector
+Harper,Communication,66,0.6176886660112724,Sector
+Harper,Trade,16,0.7812108731259824,Sector
+Harper,Business_Services,58,0.7013868424999434,Sector
+Harper,Business_Products,3,0.8499668799037882,Sector
+Harper,Construction,14,0.8725414068981024,Sector
+Harper,Services,82,0.08962972526320978,Sector
+Harper,Mining,32,0.022535213018306632,Sector
+Harper,Health_Care,81,0.5630367176775236,Sector
+Harper,EnergyExpL_Prod,91,0.4566965447870135,Sector
+Harper,Utilities,15,0.43351076624343743,Sector

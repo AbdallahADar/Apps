@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pinellas,818,0.45601585744713563,Overall
+Pinellas,HiTech,10,0.4494999141774251,Sector
+Pinellas,Agriculture,38,0.18424301459543402,Sector
+Pinellas,Transportation,99,0.7944631504367645,Sector
+Pinellas,Consumer_Products,41,0.5230271501820146,Sector
+Pinellas,Unassigned,98,0.16803249261049968,Sector
+Pinellas,Communication,64,0.2240208657760241,Sector
+Pinellas,Trade,62,0.02797724183536132,Sector
+Pinellas,Business_Services,51,0.25739448456234437,Sector
+Pinellas,Business_Products,32,0.7702232065190503,Sector
+Pinellas,Construction,96,0.451004882241542,Sector
+Pinellas,Services,34,0.044045209948911146,Sector
+Pinellas,Mining,65,0.666218552323211,Sector
+Pinellas,Health_Care,40,0.3276730666201124,Sector
+Pinellas,EnergyExpL_Prod,9,0.9548859172011479,Sector
+Pinellas,Utilities,79,0.9975287126771927,Sector

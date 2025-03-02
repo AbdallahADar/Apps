@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fort Bend,689,0.6169577583524624,Overall
+Fort Bend,HiTech,8,0.5044024721029297,Sector
+Fort Bend,Agriculture,10,0.2320033015969315,Sector
+Fort Bend,Transportation,96,0.3108297638463149,Sector
+Fort Bend,Consumer_Products,5,0.9839393809513891,Sector
+Fort Bend,Unassigned,11,0.8019255536383683,Sector
+Fort Bend,Communication,93,0.44565242468079913,Sector
+Fort Bend,Trade,27,0.7451420165372116,Sector
+Fort Bend,Business_Services,95,0.5781151004091506,Sector
+Fort Bend,Business_Products,13,0.6090469311012409,Sector
+Fort Bend,Construction,89,0.7455819625877951,Sector
+Fort Bend,Services,16,0.9375650899746301,Sector
+Fort Bend,Mining,31,0.32820343371453875,Sector
+Fort Bend,Health_Care,60,0.9292679967370142,Sector
+Fort Bend,EnergyExpL_Prod,71,0.621926677877288,Sector
+Fort Bend,Utilities,64,0.48076426953133344,Sector

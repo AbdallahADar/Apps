@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dublin,894,0.5195484702977934,Overall
+Dublin,HiTech,42,0.49044107525756375,Sector
+Dublin,Agriculture,87,0.4099910219656917,Sector
+Dublin,Transportation,98,0.686565447406887,Sector
+Dublin,Consumer_Products,40,0.5317827300457313,Sector
+Dublin,Unassigned,95,0.6680745315515201,Sector
+Dublin,Communication,67,0.7282324961285055,Sector
+Dublin,Trade,81,0.8842008310713959,Sector
+Dublin,Business_Services,56,0.38639464481174035,Sector
+Dublin,Business_Products,47,0.0011094874155739287,Sector
+Dublin,Construction,55,0.8075459132606765,Sector
+Dublin,Services,6,0.46986865596225647,Sector
+Dublin,Mining,88,0.20959865226823982,Sector
+Dublin,Health_Care,18,0.1383768741232455,Sector
+Dublin,EnergyExpL_Prod,66,0.4224619105247637,Sector
+Dublin,Utilities,48,0.9585827826731091,Sector

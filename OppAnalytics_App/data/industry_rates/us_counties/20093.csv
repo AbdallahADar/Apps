@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kearny,840,0.4953439848980387,Overall
+Kearny,HiTech,83,0.27729322556789626,Sector
+Kearny,Agriculture,35,0.8736666899703742,Sector
+Kearny,Transportation,99,0.1738619517904647,Sector
+Kearny,Consumer_Products,8,0.718469049852196,Sector
+Kearny,Unassigned,73,0.6153149783982208,Sector
+Kearny,Communication,62,0.8228812019082143,Sector
+Kearny,Trade,95,0.6439865466186843,Sector
+Kearny,Business_Services,42,0.32839793331029965,Sector
+Kearny,Business_Products,88,0.060869659277663746,Sector
+Kearny,Construction,39,0.11557991067331919,Sector
+Kearny,Services,4,0.8614881032119992,Sector
+Kearny,Mining,73,0.21771064300647458,Sector
+Kearny,Health_Care,72,0.972497411910524,Sector
+Kearny,EnergyExpL_Prod,29,0.38730610590520764,Sector
+Kearny,Utilities,38,0.3608363620690407,Sector

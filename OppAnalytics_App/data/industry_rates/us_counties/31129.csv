@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nuckolls,705,0.42857323926491436,Overall
+Nuckolls,HiTech,60,0.386497476718226,Sector
+Nuckolls,Agriculture,71,0.33333509323035726,Sector
+Nuckolls,Transportation,29,0.2279045167019691,Sector
+Nuckolls,Consumer_Products,42,0.07059584463570723,Sector
+Nuckolls,Unassigned,69,0.8223285687868853,Sector
+Nuckolls,Communication,18,0.19088897489268608,Sector
+Nuckolls,Trade,90,0.8605184154467269,Sector
+Nuckolls,Business_Services,99,0.7206545676273975,Sector
+Nuckolls,Business_Products,65,0.32349918291557744,Sector
+Nuckolls,Construction,57,0.1492123552917436,Sector
+Nuckolls,Services,9,0.3358857468615618,Sector
+Nuckolls,Mining,23,0.7823849604779622,Sector
+Nuckolls,Health_Care,20,0.5998387861797446,Sector
+Nuckolls,EnergyExpL_Prod,47,0.21598021258295852,Sector
+Nuckolls,Utilities,6,0.40907388662421174,Sector

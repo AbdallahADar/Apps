@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Skopski,757,0.6925052466090303,Overall
+Skopski,HiTech,29,0.4403230358132645,Sector
+Skopski,Agriculture,94,0.8626952988452502,Sector
+Skopski,Transportation,97,0.8637908693239464,Sector
+Skopski,Consumer_Products,17,0.6849989643245742,Sector
+Skopski,Unassigned,48,0.0028712823094864115,Sector
+Skopski,Communication,58,0.6018461327480342,Sector
+Skopski,Trade,57,0.9815535715323728,Sector
+Skopski,Business_Services,24,0.893264610924462,Sector
+Skopski,Business_Products,97,0.7483789422120694,Sector
+Skopski,Construction,37,0.44469783171022337,Sector
+Skopski,Services,37,0.9865594739420825,Sector
+Skopski,Mining,45,0.2621184523814205,Sector
+Skopski,Health_Care,41,0.9950874037794937,Sector
+Skopski,EnergyExpL_Prod,25,0.6401980749254278,Sector
+Skopski,Utilities,51,0.9791947543633476,Sector

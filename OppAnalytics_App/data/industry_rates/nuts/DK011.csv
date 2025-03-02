@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Byen København,590,0.5550216462525207,Overall
+Byen København,HiTech,11,0.4034047853091286,Sector
+Byen København,Agriculture,49,0.7545592360967138,Sector
+Byen København,Transportation,19,0.8101428370724235,Sector
+Byen København,Consumer_Products,21,0.15164751747139604,Sector
+Byen København,Unassigned,38,0.9676178006093133,Sector
+Byen København,Communication,38,0.4086271637429949,Sector
+Byen København,Trade,9,0.6463214732510696,Sector
+Byen København,Business_Services,15,0.24730836105520393,Sector
+Byen København,Business_Products,48,0.954503767912887,Sector
+Byen København,Construction,66,0.8402920904808181,Sector
+Byen København,Services,83,0.6389676948103791,Sector
+Byen København,Mining,98,0.3725757427497304,Sector
+Byen København,Health_Care,51,0.3285280112478869,Sector
+Byen København,EnergyExpL_Prod,2,0.3318046670124615,Sector
+Byen København,Utilities,42,0.469023544965405,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,St. John the Baptist,657,0.4219619665812327,Overall
+St. John the Baptist,HiTech,66,0.44475182109216416,Sector
+St. John the Baptist,Agriculture,48,0.17338313349794843,Sector
+St. John the Baptist,Transportation,9,0.8040433339494201,Sector
+St. John the Baptist,Consumer_Products,13,0.41274549773987723,Sector
+St. John the Baptist,Unassigned,51,0.2948847497731655,Sector
+St. John the Baptist,Communication,8,0.2975847067463123,Sector
+St. John the Baptist,Trade,0,0.33460302203693904,Sector
+St. John the Baptist,Business_Services,98,0.09082524052515462,Sector
+St. John the Baptist,Business_Products,82,0.43289430799771855,Sector
+St. John the Baptist,Construction,90,0.8162135473127524,Sector
+St. John the Baptist,Services,93,0.25459489461917095,Sector
+St. John the Baptist,Mining,20,0.5595942807704392,Sector
+St. John the Baptist,Health_Care,57,0.45009999016493274,Sector
+St. John the Baptist,EnergyExpL_Prod,1,0.817639134904424,Sector
+St. John the Baptist,Utilities,21,0.14557183758807135,Sector

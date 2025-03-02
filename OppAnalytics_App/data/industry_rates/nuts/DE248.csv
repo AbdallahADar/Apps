@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Forchheim,772,0.529213298573087,Overall
+Forchheim,HiTech,65,0.6148329763193447,Sector
+Forchheim,Agriculture,43,0.5401060823861387,Sector
+Forchheim,Transportation,74,0.5218124604898243,Sector
+Forchheim,Consumer_Products,0,0.5542620655454858,Sector
+Forchheim,Unassigned,66,0.2599585897252997,Sector
+Forchheim,Communication,60,0.305077165594587,Sector
+Forchheim,Trade,42,0.988442063120487,Sector
+Forchheim,Business_Services,41,0.14483983763891206,Sector
+Forchheim,Business_Products,21,0.43558668482797325,Sector
+Forchheim,Construction,59,0.22020250807684394,Sector
+Forchheim,Services,46,0.9863050029118661,Sector
+Forchheim,Mining,86,0.8704706160204213,Sector
+Forchheim,Health_Care,74,0.06223679446533226,Sector
+Forchheim,EnergyExpL_Prod,40,0.5094951517356433,Sector
+Forchheim,Utilities,55,0.9245714797381449,Sector

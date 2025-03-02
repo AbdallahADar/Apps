@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Utenos apskritis,743,0.5845058064327127,Overall
+Utenos apskritis,HiTech,23,0.30942018899442336,Sector
+Utenos apskritis,Agriculture,2,0.5218430918950608,Sector
+Utenos apskritis,Transportation,13,0.510692886651686,Sector
+Utenos apskritis,Consumer_Products,11,0.48762837544630355,Sector
+Utenos apskritis,Unassigned,88,0.9342107750522906,Sector
+Utenos apskritis,Communication,47,0.2313356811360079,Sector
+Utenos apskritis,Trade,19,0.23414871936162474,Sector
+Utenos apskritis,Business_Services,87,0.9428438126515299,Sector
+Utenos apskritis,Business_Products,46,0.2540266131139679,Sector
+Utenos apskritis,Construction,45,0.3306880429080935,Sector
+Utenos apskritis,Services,62,0.9006073450471492,Sector
+Utenos apskritis,Mining,46,0.6590458799115829,Sector
+Utenos apskritis,Health_Care,94,0.7087865279901182,Sector
+Utenos apskritis,EnergyExpL_Prod,69,0.8607822239255203,Sector
+Utenos apskritis,Utilities,91,0.8815269324053308,Sector

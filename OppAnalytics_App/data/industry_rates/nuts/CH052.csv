@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Schaffhausen,841,0.5628583818374444,Overall
+Schaffhausen,HiTech,63,0.9409421133248819,Sector
+Schaffhausen,Agriculture,5,0.4493648796106433,Sector
+Schaffhausen,Transportation,75,0.7109100803812332,Sector
+Schaffhausen,Consumer_Products,99,0.7182727393455561,Sector
+Schaffhausen,Unassigned,66,0.6117424490033043,Sector
+Schaffhausen,Communication,21,0.23052999106262761,Sector
+Schaffhausen,Trade,85,0.9780306148341981,Sector
+Schaffhausen,Business_Services,6,0.5401148383975357,Sector
+Schaffhausen,Business_Products,70,0.24687671693937507,Sector
+Schaffhausen,Construction,55,0.37810778165213554,Sector
+Schaffhausen,Services,94,0.0407836518207958,Sector
+Schaffhausen,Mining,51,0.7955551479325109,Sector
+Schaffhausen,Health_Care,11,0.776535579919443,Sector
+Schaffhausen,EnergyExpL_Prod,45,0.4927210961064258,Sector
+Schaffhausen,Utilities,95,0.5323880472309998,Sector

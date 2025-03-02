@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Doddridge,816,0.5629686057074345,Overall
+Doddridge,HiTech,82,0.527593641897696,Sector
+Doddridge,Agriculture,61,0.49717363093781697,Sector
+Doddridge,Transportation,37,0.1498919972141043,Sector
+Doddridge,Consumer_Products,88,0.9899878621002821,Sector
+Doddridge,Unassigned,48,0.8954065485698786,Sector
+Doddridge,Communication,36,0.6059995744962609,Sector
+Doddridge,Trade,20,0.40686624320895504,Sector
+Doddridge,Business_Services,97,0.28474146237403486,Sector
+Doddridge,Business_Products,97,0.398790772247985,Sector
+Doddridge,Construction,60,0.8185181175014836,Sector
+Doddridge,Services,33,0.9943168218612081,Sector
+Doddridge,Mining,83,0.5788056286341104,Sector
+Doddridge,Health_Care,29,0.11096738626142943,Sector
+Doddridge,EnergyExpL_Prod,32,0.9973109268167116,Sector
+Doddridge,Utilities,13,0.18815847148956155,Sector

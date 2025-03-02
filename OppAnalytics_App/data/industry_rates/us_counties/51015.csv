@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Augusta,689,0.4091404495991607,Overall
+Augusta,HiTech,41,0.13795974200658867,Sector
+Augusta,Agriculture,36,0.5649631529458357,Sector
+Augusta,Transportation,16,0.5703138573646436,Sector
+Augusta,Consumer_Products,11,0.10282569083736826,Sector
+Augusta,Unassigned,93,0.13461161629227014,Sector
+Augusta,Communication,90,0.2521928970704692,Sector
+Augusta,Trade,3,0.6799053977631431,Sector
+Augusta,Business_Services,83,0.04572984034647931,Sector
+Augusta,Business_Products,74,0.34616079787341525,Sector
+Augusta,Construction,54,0.5468325596349831,Sector
+Augusta,Services,59,0.5430791252171879,Sector
+Augusta,Mining,19,0.06545212111319598,Sector
+Augusta,Health_Care,19,0.22201868246333933,Sector
+Augusta,EnergyExpL_Prod,29,0.9507361844907158,Sector
+Augusta,Utilities,62,0.9743250785677756,Sector

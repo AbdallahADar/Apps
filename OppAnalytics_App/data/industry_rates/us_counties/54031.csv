@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hardy,769,0.32548006300974536,Overall
+Hardy,HiTech,10,0.009785231136916317,Sector
+Hardy,Agriculture,27,0.27407927056777204,Sector
+Hardy,Transportation,95,0.05293111582624088,Sector
+Hardy,Consumer_Products,11,0.018039707980370023,Sector
+Hardy,Unassigned,51,0.7464256379675109,Sector
+Hardy,Communication,40,0.042275568560305676,Sector
+Hardy,Trade,21,0.9138590641702766,Sector
+Hardy,Business_Services,73,0.5881006156479023,Sector
+Hardy,Business_Products,43,0.00775210389437575,Sector
+Hardy,Construction,99,0.30853603357449344,Sector
+Hardy,Services,99,0.08334247525725236,Sector
+Hardy,Mining,15,0.9403664413720868,Sector
+Hardy,Health_Care,58,0.033948123924930074,Sector
+Hardy,EnergyExpL_Prod,85,0.4290087111236257,Sector
+Hardy,Utilities,42,0.4337508441421213,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Faulk,706,0.44842552166978655,Overall
+Faulk,HiTech,10,0.9102097559120457,Sector
+Faulk,Agriculture,63,0.7929135114935436,Sector
+Faulk,Transportation,2,0.7964821988608483,Sector
+Faulk,Consumer_Products,78,0.5801532307849738,Sector
+Faulk,Unassigned,32,0.836713833807301,Sector
+Faulk,Communication,27,0.056223614936976585,Sector
+Faulk,Trade,89,0.03719812505795683,Sector
+Faulk,Business_Services,84,0.10016429921286929,Sector
+Faulk,Business_Products,70,0.22098443860386652,Sector
+Faulk,Construction,22,0.5234736316870833,Sector
+Faulk,Services,71,0.364181699924895,Sector
+Faulk,Mining,3,0.19127761101870322,Sector
+Faulk,Health_Care,16,0.019819411755020555,Sector
+Faulk,EnergyExpL_Prod,69,0.8594617001365817,Sector
+Faulk,Utilities,70,0.43712576185413154,Sector

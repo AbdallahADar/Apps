@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hormigueros,755,0.4975627351462157,Overall
+Hormigueros,HiTech,31,0.894476370492457,Sector
+Hormigueros,Agriculture,5,0.5189574140717268,Sector
+Hormigueros,Transportation,47,0.9856404837186341,Sector
+Hormigueros,Consumer_Products,43,0.4432846034678837,Sector
+Hormigueros,Unassigned,3,0.8810593471403969,Sector
+Hormigueros,Communication,27,0.23457860945348796,Sector
+Hormigueros,Trade,98,0.305182253271049,Sector
+Hormigueros,Business_Services,66,0.3298892255597463,Sector
+Hormigueros,Business_Products,97,0.37032042469464665,Sector
+Hormigueros,Construction,49,0.6266495498937741,Sector
+Hormigueros,Services,81,0.1791861815358281,Sector
+Hormigueros,Mining,76,0.25798855211827143,Sector
+Hormigueros,Health_Care,41,0.8472776027988842,Sector
+Hormigueros,EnergyExpL_Prod,45,0.040317769994339225,Sector
+Hormigueros,Utilities,46,0.5486326389821108,Sector

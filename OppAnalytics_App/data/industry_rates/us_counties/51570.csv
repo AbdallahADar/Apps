@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Colonial Heights,848,0.42216737215179595,Overall
+Colonial Heights,HiTech,44,0.4612434712852468,Sector
+Colonial Heights,Agriculture,36,0.9887332433549295,Sector
+Colonial Heights,Transportation,50,0.21107128042951417,Sector
+Colonial Heights,Consumer_Products,83,0.26534066562967673,Sector
+Colonial Heights,Unassigned,40,0.004988208472155531,Sector
+Colonial Heights,Communication,74,0.0025229373073538675,Sector
+Colonial Heights,Trade,59,0.44655591743609346,Sector
+Colonial Heights,Business_Services,53,0.011872064589970144,Sector
+Colonial Heights,Business_Products,15,0.9032623903839151,Sector
+Colonial Heights,Construction,66,0.608876875071382,Sector
+Colonial Heights,Services,60,0.35349895834595313,Sector
+Colonial Heights,Mining,56,0.6264383807558442,Sector
+Colonial Heights,Health_Care,54,0.11308716350162384,Sector
+Colonial Heights,EnergyExpL_Prod,59,0.7861904270052337,Sector
+Colonial Heights,Utilities,99,0.548828598708048,Sector

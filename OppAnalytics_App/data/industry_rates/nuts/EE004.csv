@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lääne-Eesti,641,0.33089289800612043,Overall
+Lääne-Eesti,HiTech,4,0.3983791118693779,Sector
+Lääne-Eesti,Agriculture,62,0.4330210378506313,Sector
+Lääne-Eesti,Transportation,2,0.5239860098513183,Sector
+Lääne-Eesti,Consumer_Products,16,0.05433055639155804,Sector
+Lääne-Eesti,Unassigned,61,0.012794400381452187,Sector
+Lääne-Eesti,Communication,8,0.10531779512125738,Sector
+Lääne-Eesti,Trade,31,0.28451252093075996,Sector
+Lääne-Eesti,Business_Services,25,0.8213523668982101,Sector
+Lääne-Eesti,Business_Products,78,0.5194250992210915,Sector
+Lääne-Eesti,Construction,52,0.09106306829678124,Sector
+Lääne-Eesti,Services,64,0.20424186685058865,Sector
+Lääne-Eesti,Mining,81,0.1858892437547398,Sector
+Lääne-Eesti,Health_Care,2,0.598719088777916,Sector
+Lääne-Eesti,EnergyExpL_Prod,92,0.26707041413675536,Sector
+Lääne-Eesti,Utilities,63,0.46329088975936894,Sector

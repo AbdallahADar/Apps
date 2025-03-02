@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vinton,657,0.5524893680496862,Overall
+Vinton,HiTech,18,0.2842510343456771,Sector
+Vinton,Agriculture,21,0.7424854928943632,Sector
+Vinton,Transportation,26,0.8425408173634549,Sector
+Vinton,Consumer_Products,38,0.810425138857399,Sector
+Vinton,Unassigned,99,0.6954499996204994,Sector
+Vinton,Communication,86,0.9425785226794082,Sector
+Vinton,Trade,26,0.2431043465580197,Sector
+Vinton,Business_Services,2,0.6706038819837149,Sector
+Vinton,Business_Products,1,0.7915502832803897,Sector
+Vinton,Construction,68,0.250679957091243,Sector
+Vinton,Services,86,0.6900719269816407,Sector
+Vinton,Mining,18,0.4524322362810106,Sector
+Vinton,Health_Care,61,0.49167923268361646,Sector
+Vinton,EnergyExpL_Prod,72,0.30381995801552697,Sector
+Vinton,Utilities,35,0.07566769210932933,Sector

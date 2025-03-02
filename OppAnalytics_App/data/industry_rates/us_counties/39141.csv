@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ross,652,0.5509935856800434,Overall
+Ross,HiTech,39,0.69814834316379,Sector
+Ross,Agriculture,55,0.3129982613401766,Sector
+Ross,Transportation,18,0.990303740317007,Sector
+Ross,Consumer_Products,34,0.2985403862119115,Sector
+Ross,Unassigned,67,0.8824016120565317,Sector
+Ross,Communication,48,0.11434056578521057,Sector
+Ross,Trade,18,0.3584286774688028,Sector
+Ross,Business_Services,74,0.42023993937399773,Sector
+Ross,Business_Products,2,0.3852783033260664,Sector
+Ross,Construction,43,0.7844310285258769,Sector
+Ross,Services,56,0.98213938401663,Sector
+Ross,Mining,8,0.4387781272880007,Sector
+Ross,Health_Care,30,0.021545797764028984,Sector
+Ross,EnergyExpL_Prod,97,0.9537820492454125,Sector
+Ross,Utilities,63,0.6235475693172096,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wittenberg,785,0.4741157456910534,Overall
+Wittenberg,HiTech,85,0.7441324985470074,Sector
+Wittenberg,Agriculture,89,0.2813482629305196,Sector
+Wittenberg,Transportation,60,0.9248726560982362,Sector
+Wittenberg,Consumer_Products,17,0.10057557750386614,Sector
+Wittenberg,Unassigned,49,0.28615545013020127,Sector
+Wittenberg,Communication,83,0.35875335954242593,Sector
+Wittenberg,Trade,52,0.9353415698468868,Sector
+Wittenberg,Business_Services,70,0.11224404674512123,Sector
+Wittenberg,Business_Products,26,0.2775542639345784,Sector
+Wittenberg,Construction,6,0.5572646339534223,Sector
+Wittenberg,Services,48,0.036222575497540155,Sector
+Wittenberg,Mining,58,0.7359902002403916,Sector
+Wittenberg,Health_Care,19,0.7651646163043694,Sector
+Wittenberg,EnergyExpL_Prod,72,0.8813993914564491,Sector
+Wittenberg,Utilities,51,0.11471708263478675,Sector

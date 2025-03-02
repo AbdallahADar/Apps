@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Coryell,816,0.55620331327189,Overall
+Coryell,HiTech,84,0.8182513345444472,Sector
+Coryell,Agriculture,90,0.8054218956607029,Sector
+Coryell,Transportation,51,0.5377757693140974,Sector
+Coryell,Consumer_Products,37,0.4300565757801612,Sector
+Coryell,Unassigned,55,0.35835493934632967,Sector
+Coryell,Communication,69,0.5796584611052622,Sector
+Coryell,Trade,17,0.9677253992137362,Sector
+Coryell,Business_Services,75,0.547188104340253,Sector
+Coryell,Business_Products,23,0.23722811975203106,Sector
+Coryell,Construction,65,0.49384699703310453,Sector
+Coryell,Services,81,0.5912033911222159,Sector
+Coryell,Mining,58,0.3741241404691311,Sector
+Coryell,Health_Care,24,0.7982280714713982,Sector
+Coryell,EnergyExpL_Prod,86,0.42209184572992453,Sector
+Coryell,Utilities,1,0.38189465419555435,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Camden,821,0.4559585019482741,Overall
+Camden,HiTech,30,0.11753280166627156,Sector
+Camden,Agriculture,7,0.6260313111880716,Sector
+Camden,Transportation,31,0.16776088104604736,Sector
+Camden,Consumer_Products,51,0.8631175798518954,Sector
+Camden,Unassigned,96,0.011761582757702893,Sector
+Camden,Communication,91,0.8538660786990411,Sector
+Camden,Trade,74,0.7427805711788035,Sector
+Camden,Business_Services,89,0.40596474732262233,Sector
+Camden,Business_Products,3,0.6701713222286473,Sector
+Camden,Construction,54,0.15451493831765728,Sector
+Camden,Services,41,0.29382874079806176,Sector
+Camden,Mining,41,0.2170630827988158,Sector
+Camden,Health_Care,58,0.2516770518219894,Sector
+Camden,EnergyExpL_Prod,94,0.8491566805048534,Sector
+Camden,Utilities,61,0.6141501590436308,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,San Augustine,819,0.34722773983939614,Overall
+San Augustine,HiTech,18,0.4138238654064368,Sector
+San Augustine,Agriculture,61,0.6080533199112921,Sector
+San Augustine,Transportation,10,0.017530833318758487,Sector
+San Augustine,Consumer_Products,94,0.12172023981325164,Sector
+San Augustine,Unassigned,50,0.3606447864474587,Sector
+San Augustine,Communication,84,0.005998078454870548,Sector
+San Augustine,Trade,65,0.1805602961338605,Sector
+San Augustine,Business_Services,64,0.8560613191886575,Sector
+San Augustine,Business_Products,10,0.8486669700244238,Sector
+San Augustine,Construction,34,0.15845809326147764,Sector
+San Augustine,Services,32,0.08584910678709678,Sector
+San Augustine,Mining,78,0.808282716733713,Sector
+San Augustine,Health_Care,75,0.2161038524581015,Sector
+San Augustine,EnergyExpL_Prod,55,0.1567613072641154,Sector
+San Augustine,Utilities,89,0.3699013123874274,Sector

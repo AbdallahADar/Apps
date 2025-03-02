@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Beckham,815,0.5088705212777522,Overall
+Beckham,HiTech,22,0.6496984125534302,Sector
+Beckham,Agriculture,18,0.06989036297293982,Sector
+Beckham,Transportation,59,0.5824718818316755,Sector
+Beckham,Consumer_Products,45,0.042163760487477164,Sector
+Beckham,Unassigned,42,0.3550626813663519,Sector
+Beckham,Communication,85,0.6858245543374428,Sector
+Beckham,Trade,48,0.9182735818756531,Sector
+Beckham,Business_Services,67,0.10119148795239596,Sector
+Beckham,Business_Products,62,0.8606234173305911,Sector
+Beckham,Construction,69,0.7858187997403958,Sector
+Beckham,Services,83,0.443805737351887,Sector
+Beckham,Mining,10,0.47792300587496195,Sector
+Beckham,Health_Care,24,0.8739336391681113,Sector
+Beckham,EnergyExpL_Prod,90,0.025858149513260154,Sector
+Beckham,Utilities,91,0.7605183468097109,Sector

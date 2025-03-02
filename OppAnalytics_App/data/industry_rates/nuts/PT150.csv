@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Algarve,819,0.6298743587893525,Overall
+Algarve,HiTech,23,0.9702951989009815,Sector
+Algarve,Agriculture,29,0.804729299011427,Sector
+Algarve,Transportation,30,0.12147797247349412,Sector
+Algarve,Consumer_Products,98,0.9142804499726107,Sector
+Algarve,Unassigned,87,0.7706738993478457,Sector
+Algarve,Communication,89,0.9104509084616764,Sector
+Algarve,Trade,6,0.768531966645386,Sector
+Algarve,Business_Services,85,0.47533108395502444,Sector
+Algarve,Business_Products,22,0.9320312128617644,Sector
+Algarve,Construction,15,0.847829820813082,Sector
+Algarve,Services,80,0.12949502179707728,Sector
+Algarve,Mining,61,0.35448668011939266,Sector
+Algarve,Health_Care,98,0.08921739454690192,Sector
+Algarve,EnergyExpL_Prod,45,0.6090493342703911,Sector
+Algarve,Utilities,51,0.7502351386632324,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oeste,742,0.557942194884223,Overall
+Oeste,HiTech,17,0.9953838655092279,Sector
+Oeste,Agriculture,72,0.7191079643674572,Sector
+Oeste,Transportation,73,0.7201901028667551,Sector
+Oeste,Consumer_Products,83,0.2986829547326144,Sector
+Oeste,Unassigned,92,0.007264643268926729,Sector
+Oeste,Communication,41,0.780648645891517,Sector
+Oeste,Trade,10,0.5594765850749132,Sector
+Oeste,Business_Services,16,0.8072625767900315,Sector
+Oeste,Business_Products,98,0.2871050499512813,Sector
+Oeste,Construction,30,0.9674697464222483,Sector
+Oeste,Services,18,0.1414229111978531,Sector
+Oeste,Mining,36,0.338674289757809,Sector
+Oeste,Health_Care,89,0.6861751553690159,Sector
+Oeste,EnergyExpL_Prod,65,0.9018816491859196,Sector
+Oeste,Utilities,2,0.15838678287777497,Sector

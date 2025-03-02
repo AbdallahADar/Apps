@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Douglas,634,0.5443126178258272,Overall
+Douglas,HiTech,0,0.5007723880233228,Sector
+Douglas,Agriculture,15,0.6725577536309034,Sector
+Douglas,Transportation,0,0.3390531482724901,Sector
+Douglas,Consumer_Products,98,0.9186249516466574,Sector
+Douglas,Unassigned,44,0.8198513003259456,Sector
+Douglas,Communication,85,0.435435539365009,Sector
+Douglas,Trade,89,0.8247080538002859,Sector
+Douglas,Business_Services,41,0.816831307594698,Sector
+Douglas,Business_Products,72,0.6676635815448656,Sector
+Douglas,Construction,23,0.06970034411072035,Sector
+Douglas,Services,30,0.223019393647797,Sector
+Douglas,Mining,16,0.122306338071698,Sector
+Douglas,Health_Care,18,0.9978153814130619,Sector
+Douglas,EnergyExpL_Prod,28,0.553247207621764,Sector
+Douglas,Utilities,75,0.20310257831818757,Sector

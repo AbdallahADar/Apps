@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sremska oblast,812,0.5143304502508845,Overall
+Sremska oblast,HiTech,50,0.3558125656713752,Sector
+Sremska oblast,Agriculture,45,0.7059092973356955,Sector
+Sremska oblast,Transportation,0,0.8392340721245813,Sector
+Sremska oblast,Consumer_Products,76,0.8001068735095853,Sector
+Sremska oblast,Unassigned,63,0.05585625354919821,Sector
+Sremska oblast,Communication,98,0.12839738390237732,Sector
+Sremska oblast,Trade,72,0.6974804214961579,Sector
+Sremska oblast,Business_Services,76,0.30718083167564336,Sector
+Sremska oblast,Business_Products,75,0.7791570146084505,Sector
+Sremska oblast,Construction,38,0.3753105374422715,Sector
+Sremska oblast,Services,93,0.8534113612062979,Sector
+Sremska oblast,Mining,8,0.5816388270077176,Sector
+Sremska oblast,Health_Care,43,0.36477780088114964,Sector
+Sremska oblast,EnergyExpL_Prod,22,0.6941292319808885,Sector
+Sremska oblast,Utilities,53,0.1765542813718768,Sector

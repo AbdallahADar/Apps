@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Issaquena,796,0.42643105931093334,Overall
+Issaquena,HiTech,59,0.26141705350092315,Sector
+Issaquena,Agriculture,5,0.46656588241621955,Sector
+Issaquena,Transportation,60,0.25910461112745165,Sector
+Issaquena,Consumer_Products,92,0.5800652242102224,Sector
+Issaquena,Unassigned,19,0.7511858816118889,Sector
+Issaquena,Communication,78,0.6657555050731856,Sector
+Issaquena,Trade,39,0.10403573696912183,Sector
+Issaquena,Business_Services,40,0.13137710491018828,Sector
+Issaquena,Business_Products,98,0.061042543156638374,Sector
+Issaquena,Construction,14,0.42796780671970747,Sector
+Issaquena,Services,27,0.17915923591817318,Sector
+Issaquena,Mining,86,0.4403805493827442,Sector
+Issaquena,Health_Care,71,0.7122077777526363,Sector
+Issaquena,EnergyExpL_Prod,51,0.8320993303995723,Sector
+Issaquena,Utilities,57,0.5241016465153263,Sector

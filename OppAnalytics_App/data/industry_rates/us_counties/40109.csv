@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oklahoma,632,0.5021233607741756,Overall
+Oklahoma,HiTech,3,0.484347320523684,Sector
+Oklahoma,Agriculture,81,0.32309480709000826,Sector
+Oklahoma,Transportation,99,0.559784561545565,Sector
+Oklahoma,Consumer_Products,25,0.3476934226617816,Sector
+Oklahoma,Unassigned,54,0.8787125436167851,Sector
+Oklahoma,Communication,43,0.342383090326576,Sector
+Oklahoma,Trade,48,0.28169283720267246,Sector
+Oklahoma,Business_Services,5,0.9647297911785605,Sector
+Oklahoma,Business_Products,64,0.8129478110858105,Sector
+Oklahoma,Construction,49,0.5043569130836262,Sector
+Oklahoma,Services,37,0.06985499132743578,Sector
+Oklahoma,Mining,77,0.9978682950873397,Sector
+Oklahoma,Health_Care,15,0.34433183793817423,Sector
+Oklahoma,EnergyExpL_Prod,18,0.3401578473970016,Sector
+Oklahoma,Utilities,14,0.27989434154761395,Sector

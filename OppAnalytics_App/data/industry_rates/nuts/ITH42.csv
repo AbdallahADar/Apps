@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Udine,865,0.3936248127204046,Overall
+Udine,HiTech,82,0.666777796095964,Sector
+Udine,Agriculture,20,0.9838853889969154,Sector
+Udine,Transportation,94,0.3269545694616859,Sector
+Udine,Consumer_Products,62,0.2466668402826403,Sector
+Udine,Unassigned,33,0.051970219051743594,Sector
+Udine,Communication,69,0.03181312151856386,Sector
+Udine,Trade,66,0.9705809654387635,Sector
+Udine,Business_Services,81,0.03182215764769658,Sector
+Udine,Business_Products,55,0.2048888543088967,Sector
+Udine,Construction,55,0.16544787275647355,Sector
+Udine,Services,33,0.15430757296289754,Sector
+Udine,Mining,71,0.05027015413032154,Sector
+Udine,Health_Care,6,0.21694211620546144,Sector
+Udine,EnergyExpL_Prod,70,0.8434584665717553,Sector
+Udine,Utilities,68,0.9585860953762898,Sector

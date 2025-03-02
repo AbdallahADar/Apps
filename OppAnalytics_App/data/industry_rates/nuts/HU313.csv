@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nógrád,867,0.5320274400627246,Overall
+Nógrád,HiTech,62,0.44320729250331914,Sector
+Nógrád,Agriculture,61,0.6886063575001398,Sector
+Nógrád,Transportation,26,0.6027619778535921,Sector
+Nógrád,Consumer_Products,99,0.7670015441641981,Sector
+Nógrád,Unassigned,76,0.9540298010334235,Sector
+Nógrád,Communication,22,0.8188312196430912,Sector
+Nógrád,Trade,97,0.08919850443250477,Sector
+Nógrád,Business_Services,35,0.29796073940829826,Sector
+Nógrád,Business_Products,79,0.16709039114388846,Sector
+Nógrád,Construction,3,0.1099757249498039,Sector
+Nógrád,Services,52,0.46513674842330943,Sector
+Nógrád,Mining,99,0.811305344303635,Sector
+Nógrád,Health_Care,25,0.9477723108256096,Sector
+Nógrád,EnergyExpL_Prod,68,0.023162689413323778,Sector
+Nógrád,Utilities,63,0.7943709553427319,Sector

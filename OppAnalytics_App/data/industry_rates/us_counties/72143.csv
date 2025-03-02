@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vega Alta,635,0.5972035202766993,Overall
+Vega Alta,HiTech,72,0.6647441030249382,Sector
+Vega Alta,Agriculture,41,0.6848680575395782,Sector
+Vega Alta,Transportation,70,0.3231483125983975,Sector
+Vega Alta,Consumer_Products,95,0.20018862815053207,Sector
+Vega Alta,Unassigned,62,0.3933047418579033,Sector
+Vega Alta,Communication,85,0.796351207131407,Sector
+Vega Alta,Trade,24,0.9121297825557825,Sector
+Vega Alta,Business_Services,9,0.9816091392875997,Sector
+Vega Alta,Business_Products,27,0.14277933602041304,Sector
+Vega Alta,Construction,5,0.7446096451553258,Sector
+Vega Alta,Services,52,0.5896939432522855,Sector
+Vega Alta,Mining,8,0.3882820805375403,Sector
+Vega Alta,Health_Care,23,0.7677755966100587,Sector
+Vega Alta,EnergyExpL_Prod,28,0.8912366687647899,Sector
+Vega Alta,Utilities,34,0.4773315616639374,Sector

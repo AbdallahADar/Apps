@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Neosho,823,0.4197702087729617,Overall
+Neosho,HiTech,37,0.5676057991405611,Sector
+Neosho,Agriculture,93,0.0770801954068212,Sector
+Neosho,Transportation,87,0.3110266575489623,Sector
+Neosho,Consumer_Products,18,0.9976903449623762,Sector
+Neosho,Unassigned,75,0.48927311436485965,Sector
+Neosho,Communication,56,0.4634051397069977,Sector
+Neosho,Trade,9,0.3516679055209495,Sector
+Neosho,Business_Services,53,0.9494361905767637,Sector
+Neosho,Business_Products,7,0.005212755187714135,Sector
+Neosho,Construction,49,0.6305806821545864,Sector
+Neosho,Services,90,0.9443590222647233,Sector
+Neosho,Mining,40,0.029625827101834368,Sector
+Neosho,Health_Care,75,0.2377301313835899,Sector
+Neosho,EnergyExpL_Prod,41,0.14161483246969053,Sector
+Neosho,Utilities,93,0.10024453380399478,Sector

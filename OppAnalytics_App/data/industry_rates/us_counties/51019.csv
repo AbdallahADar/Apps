@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bedford,937,0.5347116680610567,Overall
+Bedford,HiTech,46,0.8635510039265404,Sector
+Bedford,Agriculture,89,0.46702700452307866,Sector
+Bedford,Transportation,85,0.12160476514088336,Sector
+Bedford,Consumer_Products,54,0.8139982288046163,Sector
+Bedford,Unassigned,99,0.7975286499068645,Sector
+Bedford,Communication,95,0.3700642982262565,Sector
+Bedford,Trade,6,0.14483039391715335,Sector
+Bedford,Business_Services,81,0.9454613705193873,Sector
+Bedford,Business_Products,49,0.6488767692548083,Sector
+Bedford,Construction,81,0.1742264016191103,Sector
+Bedford,Services,11,0.15965666464167572,Sector
+Bedford,Mining,61,0.10216488305088256,Sector
+Bedford,Health_Care,30,0.9071273430270358,Sector
+Bedford,EnergyExpL_Prod,65,0.9669244792233667,Sector
+Bedford,Utilities,85,0.5376327651341898,Sector

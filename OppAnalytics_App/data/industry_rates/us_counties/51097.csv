@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,King and Queen,633,0.6034319772816908,Overall
+King and Queen,HiTech,20,0.476882050288146,Sector
+King and Queen,Agriculture,8,0.1461361046217743,Sector
+King and Queen,Transportation,62,0.9111064184061726,Sector
+King and Queen,Consumer_Products,47,0.9461830329660957,Sector
+King and Queen,Unassigned,15,0.9454797595227449,Sector
+King and Queen,Communication,45,0.41435501101841865,Sector
+King and Queen,Trade,64,0.8015550092510176,Sector
+King and Queen,Business_Services,22,0.8725474869138263,Sector
+King and Queen,Business_Products,47,0.34550611612775284,Sector
+King and Queen,Construction,17,0.3488212661066036,Sector
+King and Queen,Services,46,0.23512682891925174,Sector
+King and Queen,Mining,66,0.991064901372758,Sector
+King and Queen,Health_Care,89,0.22898082551686827,Sector
+King and Queen,EnergyExpL_Prod,3,0.7888524495192185,Sector
+King and Queen,Utilities,82,0.5988823986747142,Sector

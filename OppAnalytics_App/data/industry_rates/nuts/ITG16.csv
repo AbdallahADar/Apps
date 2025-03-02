@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Enna,761,0.5370697260656581,Overall
+Enna,HiTech,50,0.9234851918668011,Sector
+Enna,Agriculture,47,0.25614844311232776,Sector
+Enna,Transportation,5,0.2424296659221511,Sector
+Enna,Consumer_Products,74,0.18080575409779287,Sector
+Enna,Unassigned,58,0.0022532311412750694,Sector
+Enna,Communication,2,0.7177025834653838,Sector
+Enna,Trade,95,0.8508965308813925,Sector
+Enna,Business_Services,54,0.3236164279171019,Sector
+Enna,Business_Products,32,0.687126182584102,Sector
+Enna,Construction,97,0.711015954064153,Sector
+Enna,Services,58,0.7829795832870646,Sector
+Enna,Mining,63,0.28433775040872933,Sector
+Enna,Health_Care,50,0.4969610194902423,Sector
+Enna,EnergyExpL_Prod,64,0.7100997757857153,Sector
+Enna,Utilities,12,0.8861877969606387,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lovech,945,0.5126305739513826,Overall
+Lovech,HiTech,67,0.42890224166814006,Sector
+Lovech,Agriculture,61,0.593330486340649,Sector
+Lovech,Transportation,92,0.06697681034127712,Sector
+Lovech,Consumer_Products,84,0.8050634493886624,Sector
+Lovech,Unassigned,32,0.6538032236670113,Sector
+Lovech,Communication,98,0.7366716549640991,Sector
+Lovech,Trade,90,0.622238521599524,Sector
+Lovech,Business_Services,18,0.35390042407032785,Sector
+Lovech,Business_Products,3,0.412996030908406,Sector
+Lovech,Construction,67,0.3006800973007955,Sector
+Lovech,Services,73,0.0002101856379888023,Sector
+Lovech,Mining,44,0.7932658256117513,Sector
+Lovech,Health_Care,74,0.5571449165263476,Sector
+Lovech,EnergyExpL_Prod,54,0.6207308559743453,Sector
+Lovech,Utilities,88,0.7435438852714121,Sector

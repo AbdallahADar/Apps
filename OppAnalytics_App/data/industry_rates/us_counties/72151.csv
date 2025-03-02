@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yabucoa,552,0.43533256011451893,Overall
+Yabucoa,HiTech,43,0.5479841074314872,Sector
+Yabucoa,Agriculture,12,0.7674689076767272,Sector
+Yabucoa,Transportation,19,0.1946056954782831,Sector
+Yabucoa,Consumer_Products,12,0.406504607682855,Sector
+Yabucoa,Unassigned,5,0.49724844397122836,Sector
+Yabucoa,Communication,36,0.5966651498288179,Sector
+Yabucoa,Trade,79,0.5717815902421927,Sector
+Yabucoa,Business_Services,33,0.12222553321679552,Sector
+Yabucoa,Business_Products,66,0.8129991628733111,Sector
+Yabucoa,Construction,50,0.14408433911459062,Sector
+Yabucoa,Services,44,0.163291498011351,Sector
+Yabucoa,Mining,77,0.07163263695501276,Sector
+Yabucoa,Health_Care,14,0.05736221054221702,Sector
+Yabucoa,EnergyExpL_Prod,32,0.718059088181558,Sector
+Yabucoa,Utilities,30,0.8580754305113559,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zollernalbkreis,720,0.494261083226446,Overall
+Zollernalbkreis,HiTech,68,0.8266377311912919,Sector
+Zollernalbkreis,Agriculture,92,0.6126976104656385,Sector
+Zollernalbkreis,Transportation,78,0.31991765218115065,Sector
+Zollernalbkreis,Consumer_Products,78,0.9523598537927468,Sector
+Zollernalbkreis,Unassigned,38,0.2309305825472434,Sector
+Zollernalbkreis,Communication,61,0.8129995338567332,Sector
+Zollernalbkreis,Trade,43,0.21500060726936898,Sector
+Zollernalbkreis,Business_Services,67,0.15209405421635014,Sector
+Zollernalbkreis,Business_Products,0,0.20784425877854784,Sector
+Zollernalbkreis,Construction,9,0.06496617005333438,Sector
+Zollernalbkreis,Services,9,0.609843971038561,Sector
+Zollernalbkreis,Mining,52,0.818988746895808,Sector
+Zollernalbkreis,Health_Care,94,0.35395106967538936,Sector
+Zollernalbkreis,EnergyExpL_Prod,11,0.5833361225439778,Sector
+Zollernalbkreis,Utilities,20,0.6523482838905486,Sector

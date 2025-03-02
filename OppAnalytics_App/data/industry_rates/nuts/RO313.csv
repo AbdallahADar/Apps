@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dâmboviţa,684,0.3708454644060168,Overall
+Dâmboviţa,HiTech,76,0.27429776583202836,Sector
+Dâmboviţa,Agriculture,3,0.16940279135210679,Sector
+Dâmboviţa,Transportation,17,0.9223809921779499,Sector
+Dâmboviţa,Consumer_Products,21,0.23022046063121648,Sector
+Dâmboviţa,Unassigned,23,0.09620355608386155,Sector
+Dâmboviţa,Communication,88,0.29941845248183907,Sector
+Dâmboviţa,Trade,94,0.04378697370799611,Sector
+Dâmboviţa,Business_Services,25,0.7611496006206921,Sector
+Dâmboviţa,Business_Products,33,0.5789497563620285,Sector
+Dâmboviţa,Construction,40,0.30661586106275696,Sector
+Dâmboviţa,Services,86,0.25403089677777047,Sector
+Dâmboviţa,Mining,53,0.4615881000421235,Sector
+Dâmboviţa,Health_Care,57,0.5293955840309057,Sector
+Dâmboviţa,EnergyExpL_Prod,7,0.2565962491237629,Sector
+Dâmboviţa,Utilities,61,0.37864492580321385,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Shasta,729,0.5011206679925839,Overall
+Shasta,HiTech,32,0.2962471682421177,Sector
+Shasta,Agriculture,55,0.19815845598270088,Sector
+Shasta,Transportation,76,0.8255078137248977,Sector
+Shasta,Consumer_Products,1,0.800054221462627,Sector
+Shasta,Unassigned,82,0.19975872239671366,Sector
+Shasta,Communication,33,0.45417847033641545,Sector
+Shasta,Trade,82,0.020383161428879526,Sector
+Shasta,Business_Services,75,0.9348105633857882,Sector
+Shasta,Business_Products,86,0.9993315840335699,Sector
+Shasta,Construction,45,0.5178523353803962,Sector
+Shasta,Services,35,0.3759147331442454,Sector
+Shasta,Mining,70,0.11249424219794624,Sector
+Shasta,Health_Care,32,0.18882182643355439,Sector
+Shasta,EnergyExpL_Prod,15,0.7810184015765298,Sector
+Shasta,Utilities,10,0.8122783201623769,Sector

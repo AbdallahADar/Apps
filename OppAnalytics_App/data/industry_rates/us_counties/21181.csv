@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nicholas,686,0.29330840091404775,Overall
+Nicholas,HiTech,90,0.002050222102702337,Sector
+Nicholas,Agriculture,45,0.5602051446155266,Sector
+Nicholas,Transportation,10,0.19440615091832592,Sector
+Nicholas,Consumer_Products,21,0.17769018546200943,Sector
+Nicholas,Unassigned,56,0.1445040629162072,Sector
+Nicholas,Communication,59,0.03583662024768419,Sector
+Nicholas,Trade,1,0.2388313860355814,Sector
+Nicholas,Business_Services,40,0.4959192433847144,Sector
+Nicholas,Business_Products,60,0.367061290427971,Sector
+Nicholas,Construction,45,0.19961660522098945,Sector
+Nicholas,Services,18,0.2523576433534085,Sector
+Nicholas,Mining,80,0.2957444332929704,Sector
+Nicholas,Health_Care,57,0.3082872158201182,Sector
+Nicholas,EnergyExpL_Prod,34,0.29034858811434405,Sector
+Nicholas,Utilities,70,0.8367672217981638,Sector

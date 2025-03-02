@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zonguldak,724,0.4744286658931499,Overall
+Zonguldak,HiTech,88,0.48814380546266556,Sector
+Zonguldak,Agriculture,46,0.8868539594854816,Sector
+Zonguldak,Transportation,17,0.22285829752397035,Sector
+Zonguldak,Consumer_Products,96,0.6218247221170701,Sector
+Zonguldak,Unassigned,93,0.20253799792235228,Sector
+Zonguldak,Communication,23,0.028111165114957926,Sector
+Zonguldak,Trade,21,0.4597272209580371,Sector
+Zonguldak,Business_Services,1,0.9161834963817128,Sector
+Zonguldak,Business_Products,14,0.5816186846353608,Sector
+Zonguldak,Construction,46,0.2693143378689006,Sector
+Zonguldak,Services,76,0.34970562121339055,Sector
+Zonguldak,Mining,55,0.9028264729291632,Sector
+Zonguldak,Health_Care,56,0.15247389750989104,Sector
+Zonguldak,EnergyExpL_Prod,82,0.6862706025969246,Sector
+Zonguldak,Utilities,10,0.34797970667737,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Des Moines,782,0.5324203516314141,Overall
+Des Moines,HiTech,80,0.8976106392985913,Sector
+Des Moines,Agriculture,97,0.0867579918628536,Sector
+Des Moines,Transportation,93,0.9133804496103155,Sector
+Des Moines,Consumer_Products,61,0.419681053000289,Sector
+Des Moines,Unassigned,31,0.5296366345742675,Sector
+Des Moines,Communication,6,0.6189597698128593,Sector
+Des Moines,Trade,68,0.29529140202666837,Sector
+Des Moines,Business_Services,30,0.8722051998529312,Sector
+Des Moines,Business_Products,2,0.653754949980723,Sector
+Des Moines,Construction,71,0.5058440369773128,Sector
+Des Moines,Services,46,0.36561854485033296,Sector
+Des Moines,Mining,81,0.6404735006813226,Sector
+Des Moines,Health_Care,65,0.719428025397517,Sector
+Des Moines,EnergyExpL_Prod,29,0.2158139006556088,Sector
+Des Moines,Utilities,22,0.2518491758896202,Sector

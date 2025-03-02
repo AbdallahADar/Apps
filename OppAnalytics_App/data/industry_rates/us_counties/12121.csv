@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Suwannee,852,0.533202945552714,Overall
+Suwannee,HiTech,54,0.9600407616939103,Sector
+Suwannee,Agriculture,43,0.6602820304696904,Sector
+Suwannee,Transportation,62,0.0650888009152294,Sector
+Suwannee,Consumer_Products,83,0.5971446540346341,Sector
+Suwannee,Unassigned,15,0.6014640508372205,Sector
+Suwannee,Communication,21,0.3756992914278987,Sector
+Suwannee,Trade,80,0.014269853632057461,Sector
+Suwannee,Business_Services,36,0.5218757640101627,Sector
+Suwannee,Business_Products,83,0.5904116424365597,Sector
+Suwannee,Construction,80,0.5139661180803644,Sector
+Suwannee,Services,87,0.8866278251145886,Sector
+Suwannee,Mining,74,0.7483026507760839,Sector
+Suwannee,Health_Care,24,0.7488364027067947,Sector
+Suwannee,EnergyExpL_Prod,91,0.4704567793356411,Sector
+Suwannee,Utilities,19,0.24357755781987267,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vorpommern-Greifswald,623,0.4466881595254294,Overall
+Vorpommern-Greifswald,HiTech,47,0.733918163847598,Sector
+Vorpommern-Greifswald,Agriculture,16,0.4169660968130301,Sector
+Vorpommern-Greifswald,Transportation,9,0.19987831962002922,Sector
+Vorpommern-Greifswald,Consumer_Products,72,0.5295759346917024,Sector
+Vorpommern-Greifswald,Unassigned,45,0.34278301325445715,Sector
+Vorpommern-Greifswald,Communication,78,0.983209601674123,Sector
+Vorpommern-Greifswald,Trade,43,0.5960945841346112,Sector
+Vorpommern-Greifswald,Business_Services,33,0.648013279980541,Sector
+Vorpommern-Greifswald,Business_Products,5,0.3486655474451159,Sector
+Vorpommern-Greifswald,Construction,1,0.30954049091823566,Sector
+Vorpommern-Greifswald,Services,86,0.16025185035185707,Sector
+Vorpommern-Greifswald,Mining,32,0.4615787067936433,Sector
+Vorpommern-Greifswald,Health_Care,68,0.27169731082399506,Sector
+Vorpommern-Greifswald,EnergyExpL_Prod,69,0.27101182899654686,Sector
+Vorpommern-Greifswald,Utilities,19,0.42713766353595406,Sector

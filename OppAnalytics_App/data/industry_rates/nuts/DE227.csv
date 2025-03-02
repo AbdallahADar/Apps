@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Landshut, Landkreis",852,0.47886320777714164,Overall
+"Landshut, Landkreis",HiTech,99,0.24304459491751385,Sector
+"Landshut, Landkreis",Agriculture,99,0.7326552950221656,Sector
+"Landshut, Landkreis",Transportation,26,0.6843335695340186,Sector
+"Landshut, Landkreis",Consumer_Products,49,0.19826793988360303,Sector
+"Landshut, Landkreis",Unassigned,80,0.2860325948263238,Sector
+"Landshut, Landkreis",Communication,12,0.6108093411635689,Sector
+"Landshut, Landkreis",Trade,52,0.16245404563459254,Sector
+"Landshut, Landkreis",Business_Services,39,0.45015388415090185,Sector
+"Landshut, Landkreis",Business_Products,27,0.2615478716453383,Sector
+"Landshut, Landkreis",Construction,35,0.9376326965970875,Sector
+"Landshut, Landkreis",Services,73,0.054035655762958434,Sector
+"Landshut, Landkreis",Mining,6,0.5650291949533306,Sector
+"Landshut, Landkreis",Health_Care,83,0.34241363685935755,Sector
+"Landshut, Landkreis",EnergyExpL_Prod,85,0.7001209848855003,Sector
+"Landshut, Landkreis",Utilities,87,0.9544168108208633,Sector

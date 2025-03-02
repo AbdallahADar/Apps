@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tyler,607,0.6227416139033299,Overall
+Tyler,HiTech,3,0.7266831154887714,Sector
+Tyler,Agriculture,98,0.44892673250632575,Sector
+Tyler,Transportation,80,0.806097159157453,Sector
+Tyler,Consumer_Products,22,0.9991096249109653,Sector
+Tyler,Unassigned,18,0.8620681474035948,Sector
+Tyler,Communication,20,0.6660694635768887,Sector
+Tyler,Trade,7,0.7264366056649991,Sector
+Tyler,Business_Services,48,0.888637526370262,Sector
+Tyler,Business_Products,75,0.16149232212252596,Sector
+Tyler,Construction,51,0.5382339689980948,Sector
+Tyler,Services,15,0.8229003180172033,Sector
+Tyler,Mining,53,0.05310060819869045,Sector
+Tyler,Health_Care,60,0.9936792809544566,Sector
+Tyler,EnergyExpL_Prod,30,0.01440727326892588,Sector
+Tyler,Utilities,27,0.6332820619107928,Sector

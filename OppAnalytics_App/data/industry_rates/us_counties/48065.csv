@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Carson,809,0.7024030442272604,Overall
+Carson,HiTech,54,0.4003492045013455,Sector
+Carson,Agriculture,93,0.6419754878920967,Sector
+Carson,Transportation,52,0.5456760235650536,Sector
+Carson,Consumer_Products,97,0.5917588103837657,Sector
+Carson,Unassigned,4,0.5951328541773134,Sector
+Carson,Communication,65,0.8091422765576637,Sector
+Carson,Trade,42,0.9586743742183085,Sector
+Carson,Business_Services,32,0.5318364498349605,Sector
+Carson,Business_Products,73,0.6460388625601663,Sector
+Carson,Construction,39,0.8934756496675483,Sector
+Carson,Services,85,0.9380993777026946,Sector
+Carson,Mining,48,0.687036196144627,Sector
+Carson,Health_Care,19,0.8735608232170646,Sector
+Carson,EnergyExpL_Prod,12,0.6648770155896412,Sector
+Carson,Utilities,94,0.7584122573966594,Sector

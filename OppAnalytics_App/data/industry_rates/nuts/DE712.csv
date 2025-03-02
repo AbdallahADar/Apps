@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Frankfurt am Main, Kreisfreie Stadt",707,0.5512420388631977,Overall
+"Frankfurt am Main, Kreisfreie Stadt",HiTech,21,0.37773864234900156,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Agriculture,71,0.6800734650166312,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Transportation,68,0.19983703057588664,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Consumer_Products,8,0.3759851654833939,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Unassigned,44,0.45533898871192013,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Communication,0,0.03689090357700764,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Trade,41,0.4819073790662928,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Business_Services,66,0.06217465945979617,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Business_Products,22,0.9726917873459949,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Construction,32,0.9346422984013331,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Services,95,0.8966971846763249,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Mining,81,0.2572226357090135,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Health_Care,68,0.9971258088379642,Sector
+"Frankfurt am Main, Kreisfreie Stadt",EnergyExpL_Prod,69,0.7604291175301963,Sector
+"Frankfurt am Main, Kreisfreie Stadt",Utilities,21,0.7798755162072089,Sector

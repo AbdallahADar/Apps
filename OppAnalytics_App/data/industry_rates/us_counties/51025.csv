@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Brunswick,776,0.3968148692634687,Overall
+Brunswick,HiTech,75,0.7545148480564836,Sector
+Brunswick,Agriculture,9,0.9197500797563732,Sector
+Brunswick,Transportation,33,0.4126386586329449,Sector
+Brunswick,Consumer_Products,28,0.5985995431575021,Sector
+Brunswick,Unassigned,16,0.1261262954042507,Sector
+Brunswick,Communication,58,0.03350285104631234,Sector
+Brunswick,Trade,90,0.9550323507404664,Sector
+Brunswick,Business_Services,69,0.4428463318275895,Sector
+Brunswick,Business_Products,20,0.08434318305300215,Sector
+Brunswick,Construction,92,0.05065501318523602,Sector
+Brunswick,Services,27,0.20632200023859015,Sector
+Brunswick,Mining,79,0.2490861360092126,Sector
+Brunswick,Health_Care,56,0.46731912098330686,Sector
+Brunswick,EnergyExpL_Prod,74,0.43628141480412885,Sector
+Brunswick,Utilities,50,0.21520521205663012,Sector

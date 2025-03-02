@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zuid-Limburg,603,0.35356363402581237,Overall
+Zuid-Limburg,HiTech,1,0.006747160766958582,Sector
+Zuid-Limburg,Agriculture,31,0.07517931946461098,Sector
+Zuid-Limburg,Transportation,35,0.3881098317739433,Sector
+Zuid-Limburg,Consumer_Products,48,0.09453604128448134,Sector
+Zuid-Limburg,Unassigned,89,0.5248135795496287,Sector
+Zuid-Limburg,Communication,71,0.11426792402900265,Sector
+Zuid-Limburg,Trade,36,0.014497354712489363,Sector
+Zuid-Limburg,Business_Services,10,0.2633896202240754,Sector
+Zuid-Limburg,Business_Products,6,0.28256632238849055,Sector
+Zuid-Limburg,Construction,33,0.5512077408050559,Sector
+Zuid-Limburg,Services,48,0.22643642193251157,Sector
+Zuid-Limburg,Mining,2,0.6146055931296208,Sector
+Zuid-Limburg,Health_Care,67,0.36160659119344296,Sector
+Zuid-Limburg,EnergyExpL_Prod,96,0.9450460698623598,Sector
+Zuid-Limburg,Utilities,30,0.8404449392705133,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Amberg, Kreisfreie Stadt",728,0.5382420051522525,Overall
+"Amberg, Kreisfreie Stadt",HiTech,11,0.6338543674004358,Sector
+"Amberg, Kreisfreie Stadt",Agriculture,53,0.810123952920776,Sector
+"Amberg, Kreisfreie Stadt",Transportation,55,0.8715620589400146,Sector
+"Amberg, Kreisfreie Stadt",Consumer_Products,32,0.2837172699478624,Sector
+"Amberg, Kreisfreie Stadt",Unassigned,98,0.5612571108195855,Sector
+"Amberg, Kreisfreie Stadt",Communication,44,0.8642355657418804,Sector
+"Amberg, Kreisfreie Stadt",Trade,54,0.7604466666249666,Sector
+"Amberg, Kreisfreie Stadt",Business_Services,53,0.4766937488495431,Sector
+"Amberg, Kreisfreie Stadt",Business_Products,11,0.43366235044044654,Sector
+"Amberg, Kreisfreie Stadt",Construction,98,0.016180465106769515,Sector
+"Amberg, Kreisfreie Stadt",Services,26,0.6095699932075749,Sector
+"Amberg, Kreisfreie Stadt",Mining,11,0.23035614798364845,Sector
+"Amberg, Kreisfreie Stadt",Health_Care,95,0.6303944989310768,Sector
+"Amberg, Kreisfreie Stadt",EnergyExpL_Prod,41,0.4029787498512756,Sector
+"Amberg, Kreisfreie Stadt",Utilities,46,0.48859713051793097,Sector

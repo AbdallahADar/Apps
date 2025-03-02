@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Garvin,612,0.48357029583073585,Overall
+Garvin,HiTech,3,0.1223280021130283,Sector
+Garvin,Agriculture,16,0.5998903622781697,Sector
+Garvin,Transportation,79,0.233605185171179,Sector
+Garvin,Consumer_Products,18,0.9094717038382737,Sector
+Garvin,Unassigned,14,0.07299531361201028,Sector
+Garvin,Communication,80,0.5369958838148946,Sector
+Garvin,Trade,60,0.24443222242018714,Sector
+Garvin,Business_Services,36,0.8882076451701071,Sector
+Garvin,Business_Products,10,0.2900500667641812,Sector
+Garvin,Construction,40,0.2942161126197129,Sector
+Garvin,Services,91,0.8207117229224201,Sector
+Garvin,Mining,12,0.313652164878387,Sector
+Garvin,Health_Care,73,0.8599817079700209,Sector
+Garvin,EnergyExpL_Prod,12,0.15978994434696492,Sector
+Garvin,Utilities,68,0.907226399541501,Sector

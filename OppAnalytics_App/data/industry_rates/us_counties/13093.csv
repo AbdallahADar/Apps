@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dooly,698,0.5559998712789234,Overall
+Dooly,HiTech,61,0.760806598621359,Sector
+Dooly,Agriculture,13,0.471569800997385,Sector
+Dooly,Transportation,65,0.4648118443210756,Sector
+Dooly,Consumer_Products,9,0.4403354130901235,Sector
+Dooly,Unassigned,34,0.4344320923844984,Sector
+Dooly,Communication,29,0.3169544672237379,Sector
+Dooly,Trade,40,0.8979109562803439,Sector
+Dooly,Business_Services,16,0.4224548341362766,Sector
+Dooly,Business_Products,56,0.42149786878296636,Sector
+Dooly,Construction,74,0.9597223488496991,Sector
+Dooly,Services,36,0.8282770118299096,Sector
+Dooly,Mining,30,0.5453088187042329,Sector
+Dooly,Health_Care,96,0.4422076894882011,Sector
+Dooly,EnergyExpL_Prod,52,0.5463835159974804,Sector
+Dooly,Utilities,87,0.3873248084765619,Sector

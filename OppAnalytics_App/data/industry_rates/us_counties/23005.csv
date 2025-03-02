@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cumberland,867,0.6617794261434256,Overall
+Cumberland,HiTech,87,0.9959328524355309,Sector
+Cumberland,Agriculture,85,0.31740651693160726,Sector
+Cumberland,Transportation,93,0.7306998633042239,Sector
+Cumberland,Consumer_Products,89,0.4366646916020277,Sector
+Cumberland,Unassigned,52,0.44885593454437855,Sector
+Cumberland,Communication,17,0.8431663839143455,Sector
+Cumberland,Trade,82,0.7633444912758149,Sector
+Cumberland,Business_Services,33,0.7566697377985317,Sector
+Cumberland,Business_Products,45,0.13654132723879575,Sector
+Cumberland,Construction,18,0.9673851032458278,Sector
+Cumberland,Services,51,0.8938498866036007,Sector
+Cumberland,Mining,32,0.933308628377757,Sector
+Cumberland,Health_Care,37,0.29610577281352646,Sector
+Cumberland,EnergyExpL_Prod,87,0.5196538631571684,Sector
+Cumberland,Utilities,59,0.8871063389082473,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Niobrara,613,0.5298667307785606,Overall
+Niobrara,HiTech,76,0.3466748900970976,Sector
+Niobrara,Agriculture,42,0.9480305790943712,Sector
+Niobrara,Transportation,78,0.6415617897602943,Sector
+Niobrara,Consumer_Products,47,0.23374304050673378,Sector
+Niobrara,Unassigned,41,0.7972896561919063,Sector
+Niobrara,Communication,26,0.5827404996403952,Sector
+Niobrara,Trade,30,0.03093753120099918,Sector
+Niobrara,Business_Services,32,0.8278168496852454,Sector
+Niobrara,Business_Products,8,0.6801734975180967,Sector
+Niobrara,Construction,7,0.7904997797568006,Sector
+Niobrara,Services,65,0.19189640221819093,Sector
+Niobrara,Mining,67,0.5090475132435587,Sector
+Niobrara,Health_Care,20,0.8716281935992757,Sector
+Niobrara,EnergyExpL_Prod,2,0.021487964102562818,Sector
+Niobrara,Utilities,72,0.4744727750628802,Sector

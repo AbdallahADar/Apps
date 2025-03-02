@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Delaware,743,0.4769520895789365,Overall
+Delaware,HiTech,66,0.07909149358543055,Sector
+Delaware,Agriculture,28,0.1715307848925114,Sector
+Delaware,Transportation,22,0.1929918756202572,Sector
+Delaware,Consumer_Products,47,0.30330747197565056,Sector
+Delaware,Unassigned,82,0.8564526017132862,Sector
+Delaware,Communication,17,0.4846455348050617,Sector
+Delaware,Trade,80,0.9115461064936149,Sector
+Delaware,Business_Services,46,0.05755858691214111,Sector
+Delaware,Business_Products,8,0.4508226104231263,Sector
+Delaware,Construction,91,0.8993196201039156,Sector
+Delaware,Services,23,0.9721218223135172,Sector
+Delaware,Mining,90,0.40799546290766653,Sector
+Delaware,Health_Care,85,0.16638481510425263,Sector
+Delaware,EnergyExpL_Prod,1,0.7022550988109879,Sector
+Delaware,Utilities,57,0.49825745802262766,Sector

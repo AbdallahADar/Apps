@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Saarlouis,925,0.42658800353447446,Overall
+Saarlouis,HiTech,48,0.7393251130588773,Sector
+Saarlouis,Agriculture,94,0.06628789477595176,Sector
+Saarlouis,Transportation,92,0.48124432144848206,Sector
+Saarlouis,Consumer_Products,92,0.22949639105704622,Sector
+Saarlouis,Unassigned,84,0.1240802498776773,Sector
+Saarlouis,Communication,48,0.4095022501979002,Sector
+Saarlouis,Trade,77,0.7916852852359109,Sector
+Saarlouis,Business_Services,34,0.07102397408214256,Sector
+Saarlouis,Business_Products,23,0.2973905617438648,Sector
+Saarlouis,Construction,99,0.38442733141981744,Sector
+Saarlouis,Services,78,0.543136213510051,Sector
+Saarlouis,Mining,62,0.2512242594674762,Sector
+Saarlouis,Health_Care,34,0.612160764303042,Sector
+Saarlouis,EnergyExpL_Prod,47,0.7051082777651835,Sector
+Saarlouis,Utilities,13,0.6927271650736941,Sector

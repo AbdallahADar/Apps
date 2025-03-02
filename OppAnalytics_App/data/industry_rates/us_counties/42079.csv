@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Luzerne,701,0.570219714311376,Overall
+Luzerne,HiTech,28,0.7933164576868285,Sector
+Luzerne,Agriculture,82,0.8563967335768222,Sector
+Luzerne,Transportation,8,0.09443501290570899,Sector
+Luzerne,Consumer_Products,23,0.8004096181255694,Sector
+Luzerne,Unassigned,79,0.7436903072628794,Sector
+Luzerne,Communication,74,0.4068328151581162,Sector
+Luzerne,Trade,86,0.597594625562058,Sector
+Luzerne,Business_Services,32,0.5393836230095692,Sector
+Luzerne,Business_Products,52,0.7074806992899593,Sector
+Luzerne,Construction,58,0.253993031961929,Sector
+Luzerne,Services,88,0.5158434064767814,Sector
+Luzerne,Mining,2,0.0951042840273616,Sector
+Luzerne,Health_Care,12,0.9573163402282995,Sector
+Luzerne,EnergyExpL_Prod,34,0.6501482711757738,Sector
+Luzerne,Utilities,43,0.541350488222982,Sector

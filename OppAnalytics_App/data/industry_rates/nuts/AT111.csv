@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mittelburgenland,749,0.49006757092555014,Overall
+Mittelburgenland,HiTech,45,0.13549389246869648,Sector
+Mittelburgenland,Agriculture,61,0.9605460204629747,Sector
+Mittelburgenland,Transportation,86,0.4444221676250749,Sector
+Mittelburgenland,Consumer_Products,40,0.37651072415050213,Sector
+Mittelburgenland,Unassigned,66,0.5695328558428836,Sector
+Mittelburgenland,Communication,52,0.8461995177682642,Sector
+Mittelburgenland,Trade,1,0.4030735330969555,Sector
+Mittelburgenland,Business_Services,59,0.9798550670302022,Sector
+Mittelburgenland,Business_Products,93,0.690499731561123,Sector
+Mittelburgenland,Construction,21,0.8219938130362415,Sector
+Mittelburgenland,Services,11,0.11255143272326307,Sector
+Mittelburgenland,Mining,47,0.1305588864799394,Sector
+Mittelburgenland,Health_Care,75,0.048772139169216966,Sector
+Mittelburgenland,EnergyExpL_Prod,41,0.40559871975601425,Sector
+Mittelburgenland,Utilities,51,0.4254050627118996,Sector

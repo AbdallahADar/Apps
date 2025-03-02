@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Walla Walla,880,0.4054230421360041,Overall
+Walla Walla,HiTech,74,0.8946409727872839,Sector
+Walla Walla,Agriculture,99,0.044590118717916405,Sector
+Walla Walla,Transportation,70,0.2373876071293216,Sector
+Walla Walla,Consumer_Products,9,0.26852405593501905,Sector
+Walla Walla,Unassigned,81,0.11631292612182842,Sector
+Walla Walla,Communication,90,0.08149908174832521,Sector
+Walla Walla,Trade,37,0.3722938645624493,Sector
+Walla Walla,Business_Services,47,0.3179323211295141,Sector
+Walla Walla,Business_Products,93,0.8242985767090881,Sector
+Walla Walla,Construction,33,0.7359816764889271,Sector
+Walla Walla,Services,73,0.27077235750081785,Sector
+Walla Walla,Mining,14,0.3636449074081355,Sector
+Walla Walla,Health_Care,39,0.47268301418002723,Sector
+Walla Walla,EnergyExpL_Prod,73,0.9574947856163285,Sector
+Walla Walla,Utilities,48,0.12328936600508056,Sector

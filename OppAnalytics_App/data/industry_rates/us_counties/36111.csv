@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ulster,791,0.44117193648358827,Overall
+Ulster,HiTech,24,0.031889177986038075,Sector
+Ulster,Agriculture,78,0.6514551084664362,Sector
+Ulster,Transportation,76,0.3330596233400428,Sector
+Ulster,Consumer_Products,79,0.03504221864898083,Sector
+Ulster,Unassigned,22,0.7378053058485851,Sector
+Ulster,Communication,60,0.28340376317788496,Sector
+Ulster,Trade,43,0.8830892150071898,Sector
+Ulster,Business_Services,50,0.4163426431792079,Sector
+Ulster,Business_Products,75,0.5795302333235964,Sector
+Ulster,Construction,73,0.6381486595526439,Sector
+Ulster,Services,82,0.11261376353175057,Sector
+Ulster,Mining,47,0.1457622636969076,Sector
+Ulster,Health_Care,59,0.7089696653774866,Sector
+Ulster,EnergyExpL_Prod,15,0.9354334388945392,Sector
+Ulster,Utilities,8,0.12503396722253513,Sector

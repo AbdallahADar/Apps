@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zavala,814,0.5501353638333062,Overall
+Zavala,HiTech,42,0.0891561107357286,Sector
+Zavala,Agriculture,67,0.7443069690296348,Sector
+Zavala,Transportation,61,0.7247464485313035,Sector
+Zavala,Consumer_Products,15,0.8925070140444314,Sector
+Zavala,Unassigned,42,0.8370440032939573,Sector
+Zavala,Communication,75,0.6861069421796504,Sector
+Zavala,Trade,91,0.6739806435345036,Sector
+Zavala,Business_Services,37,0.13721523933851476,Sector
+Zavala,Business_Products,48,0.9167341614321438,Sector
+Zavala,Construction,19,0.16519623749759837,Sector
+Zavala,Services,65,0.026700790691688736,Sector
+Zavala,Mining,99,0.4672614538125064,Sector
+Zavala,Health_Care,19,0.4573478151439657,Sector
+Zavala,EnergyExpL_Prod,51,0.6640939121100288,Sector
+Zavala,Utilities,83,0.7696327161239371,Sector

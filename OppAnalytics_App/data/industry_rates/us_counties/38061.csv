@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mountrail,732,0.5942428945707497,Overall
+Mountrail,HiTech,10,0.946619268058693,Sector
+Mountrail,Agriculture,48,0.5835714485125661,Sector
+Mountrail,Transportation,21,0.27468916015488354,Sector
+Mountrail,Consumer_Products,67,0.6721352832192625,Sector
+Mountrail,Unassigned,42,0.8127023607507744,Sector
+Mountrail,Communication,35,0.9025335927139372,Sector
+Mountrail,Trade,55,0.6945191847915779,Sector
+Mountrail,Business_Services,45,0.08313007079297074,Sector
+Mountrail,Business_Products,93,0.5612070504320278,Sector
+Mountrail,Construction,63,0.9738586394696918,Sector
+Mountrail,Services,67,0.9618920611742268,Sector
+Mountrail,Mining,35,0.6700957617290925,Sector
+Mountrail,Health_Care,40,0.10977331705701099,Sector
+Mountrail,EnergyExpL_Prod,90,0.19755701491632094,Sector
+Mountrail,Utilities,21,0.46935920478821136,Sector

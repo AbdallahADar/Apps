@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wasatch,571,0.34970300848367725,Overall
+Wasatch,HiTech,5,0.04656727298267027,Sector
+Wasatch,Agriculture,84,0.7852953200888367,Sector
+Wasatch,Transportation,44,0.29278653297763124,Sector
+Wasatch,Consumer_Products,45,0.20199025754929534,Sector
+Wasatch,Unassigned,25,0.39253886815181616,Sector
+Wasatch,Communication,2,0.4036938555965276,Sector
+Wasatch,Trade,32,0.7271123308321135,Sector
+Wasatch,Business_Services,63,0.005820668313590627,Sector
+Wasatch,Business_Products,25,0.12827696851430592,Sector
+Wasatch,Construction,20,0.48886322494317813,Sector
+Wasatch,Services,5,0.7199675076104021,Sector
+Wasatch,Mining,76,0.1054146121566667,Sector
+Wasatch,Health_Care,43,0.004065730684666202,Sector
+Wasatch,EnergyExpL_Prod,85,0.4209735433260915,Sector
+Wasatch,Utilities,17,0.5221784335273661,Sector

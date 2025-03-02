@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Berlin,879,0.4978544586007743,Overall
+Berlin,HiTech,83,0.6143876649851104,Sector
+Berlin,Agriculture,68,0.9096590207409738,Sector
+Berlin,Transportation,97,0.6671322553911813,Sector
+Berlin,Consumer_Products,78,0.013708166286552359,Sector
+Berlin,Unassigned,49,0.555416384030939,Sector
+Berlin,Communication,90,0.7039321769815902,Sector
+Berlin,Trade,40,0.8843681276527131,Sector
+Berlin,Business_Services,98,0.4637112728545628,Sector
+Berlin,Business_Products,52,0.30794217029418547,Sector
+Berlin,Construction,16,0.40350913425640655,Sector
+Berlin,Services,92,0.3686136211413972,Sector
+Berlin,Mining,3,0.4392186267646453,Sector
+Berlin,Health_Care,1,0.1981837321848975,Sector
+Berlin,EnergyExpL_Prod,25,0.5642668519057971,Sector
+Berlin,Utilities,87,0.3737676735406631,Sector

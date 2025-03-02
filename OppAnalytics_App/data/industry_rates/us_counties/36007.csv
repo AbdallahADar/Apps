@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Broome,722,0.4589688642706931,Overall
+Broome,HiTech,27,0.5099501592450311,Sector
+Broome,Agriculture,48,0.8545465350111868,Sector
+Broome,Transportation,99,0.1501773918155167,Sector
+Broome,Consumer_Products,29,0.22257295720988346,Sector
+Broome,Unassigned,92,0.9457764685948631,Sector
+Broome,Communication,75,0.5416616223101165,Sector
+Broome,Trade,41,0.09780573523865899,Sector
+Broome,Business_Services,40,0.15945209491749535,Sector
+Broome,Business_Products,8,0.5039133985878759,Sector
+Broome,Construction,28,0.7572802980706187,Sector
+Broome,Services,67,0.30932352512354677,Sector
+Broome,Mining,10,0.32887357313462084,Sector
+Broome,Health_Care,30,0.1622197448695888,Sector
+Broome,EnergyExpL_Prod,47,0.5362372397551965,Sector
+Broome,Utilities,81,0.8047422201761976,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dewey,826,0.4261132630131247,Overall
+Dewey,HiTech,1,0.8499478736168391,Sector
+Dewey,Agriculture,91,0.2574458416908114,Sector
+Dewey,Transportation,78,0.17681848618457807,Sector
+Dewey,Consumer_Products,47,0.11409543496462082,Sector
+Dewey,Unassigned,18,0.4908469983261995,Sector
+Dewey,Communication,77,0.4995959803852541,Sector
+Dewey,Trade,80,0.5064173970432962,Sector
+Dewey,Business_Services,96,0.8454596958121402,Sector
+Dewey,Business_Products,18,0.34912585904492155,Sector
+Dewey,Construction,16,0.33549457391305915,Sector
+Dewey,Services,63,0.4424055461084133,Sector
+Dewey,Mining,76,0.30803825590702305,Sector
+Dewey,Health_Care,57,0.6371438151690427,Sector
+Dewey,EnergyExpL_Prod,28,0.22780711657199304,Sector
+Dewey,Utilities,80,0.35105607045867726,Sector

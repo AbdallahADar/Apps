@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,El Paso,820,0.47914569986373523,Overall
+El Paso,HiTech,10,0.19632967916714428,Sector
+El Paso,Agriculture,30,0.7300731363045782,Sector
+El Paso,Transportation,4,0.5802652192797986,Sector
+El Paso,Consumer_Products,88,0.09757548022204432,Sector
+El Paso,Unassigned,74,0.2171506742588809,Sector
+El Paso,Communication,85,0.6773124400926775,Sector
+El Paso,Trade,55,0.7072208702801128,Sector
+El Paso,Business_Services,95,0.11698337503441902,Sector
+El Paso,Business_Products,85,0.872964583785585,Sector
+El Paso,Construction,49,0.6625156888587623,Sector
+El Paso,Services,8,0.2526302753522337,Sector
+El Paso,Mining,79,0.9498607795773252,Sector
+El Paso,Health_Care,25,0.028154475415033353,Sector
+El Paso,EnergyExpL_Prod,77,0.38451314994222063,Sector
+El Paso,Utilities,56,0.7136356703852128,Sector

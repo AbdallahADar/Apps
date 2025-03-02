@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Brandenburg an der Havel, Kreisfreie Stadt",755,0.5004656965840439,Overall
+"Brandenburg an der Havel, Kreisfreie Stadt",HiTech,99,0.14149426123926268,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Agriculture,37,0.24885190757762976,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Transportation,83,0.4160215611609216,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Consumer_Products,1,0.24207355089548344,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Unassigned,33,0.5669471745294934,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Communication,50,0.06528765391990843,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Trade,91,0.5076197398238217,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Business_Services,42,0.675282586923577,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Business_Products,12,0.8228070217788184,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Construction,99,0.7337277951384545,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Services,47,0.03747463793517947,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Mining,71,0.6138631397659757,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Health_Care,2,0.8918147699112026,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",EnergyExpL_Prod,48,0.9016909528776466,Sector
+"Brandenburg an der Havel, Kreisfreie Stadt",Utilities,40,0.6420286952832831,Sector

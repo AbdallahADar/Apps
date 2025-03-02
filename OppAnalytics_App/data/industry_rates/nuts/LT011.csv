@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vilniaus apskritis,800,0.6242059895353056,Overall
+Vilniaus apskritis,HiTech,42,0.7305045168599218,Sector
+Vilniaus apskritis,Agriculture,96,0.3438707750968565,Sector
+Vilniaus apskritis,Transportation,2,0.2632435905528464,Sector
+Vilniaus apskritis,Consumer_Products,88,0.7235333636022385,Sector
+Vilniaus apskritis,Unassigned,16,0.8723870510324724,Sector
+Vilniaus apskritis,Communication,88,0.5794250093555507,Sector
+Vilniaus apskritis,Trade,42,0.8295950389804779,Sector
+Vilniaus apskritis,Business_Services,60,0.7746687464933721,Sector
+Vilniaus apskritis,Business_Products,59,0.6868140096879508,Sector
+Vilniaus apskritis,Construction,70,0.7701929719153077,Sector
+Vilniaus apskritis,Services,79,0.48908575621961103,Sector
+Vilniaus apskritis,Mining,54,0.342148515747807,Sector
+Vilniaus apskritis,Health_Care,1,0.6861336482862341,Sector
+Vilniaus apskritis,EnergyExpL_Prod,24,0.4787667418321273,Sector
+Vilniaus apskritis,Utilities,79,0.7927201073668113,Sector

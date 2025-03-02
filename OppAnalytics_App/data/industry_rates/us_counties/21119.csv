@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Knott,598,0.42444320618848347,Overall
+Knott,HiTech,4,0.011572836908490092,Sector
+Knott,Agriculture,68,0.2224137825280187,Sector
+Knott,Transportation,27,0.025815149903876677,Sector
+Knott,Consumer_Products,82,0.9982318093846361,Sector
+Knott,Unassigned,97,0.32865160385252046,Sector
+Knott,Communication,34,0.0007552341041978661,Sector
+Knott,Trade,5,0.3185338654772061,Sector
+Knott,Business_Services,81,0.3524996918809309,Sector
+Knott,Business_Products,14,0.8994325802680408,Sector
+Knott,Construction,15,0.25210890718262524,Sector
+Knott,Services,6,0.4061765012668983,Sector
+Knott,Mining,23,0.875414336333014,Sector
+Knott,Health_Care,72,0.9178894241478208,Sector
+Knott,EnergyExpL_Prod,37,0.2826695121617602,Sector
+Knott,Utilities,33,0.4744828574272165,Sector

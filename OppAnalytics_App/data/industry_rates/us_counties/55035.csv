@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Eau Claire,687,0.3727847519575437,Overall
+Eau Claire,HiTech,41,0.26957858451430994,Sector
+Eau Claire,Agriculture,74,0.044990309331817024,Sector
+Eau Claire,Transportation,47,0.9960896777946271,Sector
+Eau Claire,Consumer_Products,67,0.6926947964100622,Sector
+Eau Claire,Unassigned,88,0.719773519187189,Sector
+Eau Claire,Communication,85,0.27672808136398597,Sector
+Eau Claire,Trade,97,0.6683092909151569,Sector
+Eau Claire,Business_Services,46,0.05703861499994012,Sector
+Eau Claire,Business_Products,1,0.11008402134448958,Sector
+Eau Claire,Construction,13,0.25763229768790885,Sector
+Eau Claire,Services,36,0.5810949757185767,Sector
+Eau Claire,Mining,11,0.2058396986791724,Sector
+Eau Claire,Health_Care,35,0.015183293182567836,Sector
+Eau Claire,EnergyExpL_Prod,19,0.14305922004445448,Sector
+Eau Claire,Utilities,27,0.5536748981888971,Sector

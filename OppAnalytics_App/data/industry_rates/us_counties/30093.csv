@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Silver Bow,579,0.5394133565578138,Overall
+Silver Bow,HiTech,24,0.6103992686843078,Sector
+Silver Bow,Agriculture,19,0.11291714545530718,Sector
+Silver Bow,Transportation,20,0.6702320397445007,Sector
+Silver Bow,Consumer_Products,45,0.9393443348770135,Sector
+Silver Bow,Unassigned,37,0.5204487563700252,Sector
+Silver Bow,Communication,40,0.4238668115562032,Sector
+Silver Bow,Trade,48,0.5452983612296755,Sector
+Silver Bow,Business_Services,39,0.4637095188863628,Sector
+Silver Bow,Business_Products,60,0.6754326087097005,Sector
+Silver Bow,Construction,6,0.49714404707643245,Sector
+Silver Bow,Services,33,0.5492727770625169,Sector
+Silver Bow,Mining,57,0.0014263010372038698,Sector
+Silver Bow,Health_Care,50,0.9572244835783826,Sector
+Silver Bow,EnergyExpL_Prod,52,0.953900907147449,Sector
+Silver Bow,Utilities,49,0.1705829869521257,Sector

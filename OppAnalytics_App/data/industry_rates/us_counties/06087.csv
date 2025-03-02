@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Santa Cruz,783,0.6071528838227441,Overall
+Santa Cruz,HiTech,77,0.6867364344242872,Sector
+Santa Cruz,Agriculture,52,0.9762504560301154,Sector
+Santa Cruz,Transportation,96,0.4093657480355499,Sector
+Santa Cruz,Consumer_Products,80,0.06650048902915406,Sector
+Santa Cruz,Unassigned,44,0.36630221891740666,Sector
+Santa Cruz,Communication,28,0.8437675152318358,Sector
+Santa Cruz,Trade,56,0.33646068760545755,Sector
+Santa Cruz,Business_Services,31,0.9729123825148297,Sector
+Santa Cruz,Business_Products,98,0.6279881767354959,Sector
+Santa Cruz,Construction,69,0.2800135119961219,Sector
+Santa Cruz,Services,14,0.8918230462291449,Sector
+Santa Cruz,Mining,9,0.9444910420313536,Sector
+Santa Cruz,Health_Care,9,0.715716138758315,Sector
+Santa Cruz,EnergyExpL_Prod,62,0.6930772372223939,Sector
+Santa Cruz,Utilities,58,0.29588817257970135,Sector

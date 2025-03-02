@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Schuylkill,769,0.38280290645762677,Overall
+Schuylkill,HiTech,43,0.9623282308998539,Sector
+Schuylkill,Agriculture,83,0.030363187993230456,Sector
+Schuylkill,Transportation,42,0.18588997004380514,Sector
+Schuylkill,Consumer_Products,61,0.5932427567755006,Sector
+Schuylkill,Unassigned,5,0.1250230341204478,Sector
+Schuylkill,Communication,49,0.4445248466276952,Sector
+Schuylkill,Trade,96,0.7462729061820386,Sector
+Schuylkill,Business_Services,66,0.5746535491934303,Sector
+Schuylkill,Business_Products,23,0.6013839013262,Sector
+Schuylkill,Construction,70,0.46484265451462914,Sector
+Schuylkill,Services,88,0.2855811134701448,Sector
+Schuylkill,Mining,32,0.08189182400923545,Sector
+Schuylkill,Health_Care,45,0.23090349571177293,Sector
+Schuylkill,EnergyExpL_Prod,12,0.011070731462817784,Sector
+Schuylkill,Utilities,54,0.40407139453359986,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chautauqua,806,0.481983573221695,Overall
+Chautauqua,HiTech,83,0.33832995979848435,Sector
+Chautauqua,Agriculture,8,0.9218982588545082,Sector
+Chautauqua,Transportation,21,0.6170507111427689,Sector
+Chautauqua,Consumer_Products,96,0.019747704084237205,Sector
+Chautauqua,Unassigned,59,0.9281335624806321,Sector
+Chautauqua,Communication,17,0.03465551323374927,Sector
+Chautauqua,Trade,53,0.0035344242076552623,Sector
+Chautauqua,Business_Services,30,0.5190571226384223,Sector
+Chautauqua,Business_Products,67,0.9563039059796052,Sector
+Chautauqua,Construction,77,0.6878473264858098,Sector
+Chautauqua,Services,5,0.8370311738708801,Sector
+Chautauqua,Mining,62,0.11886040041877532,Sector
+Chautauqua,Health_Care,54,0.6076534512880419,Sector
+Chautauqua,EnergyExpL_Prod,78,0.11990529155866514,Sector
+Chautauqua,Utilities,96,0.5197447922831899,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Reggio nell’Emilia,741,0.386567782212035,Overall
+Reggio nell’Emilia,HiTech,38,0.5655124042789986,Sector
+Reggio nell’Emilia,Agriculture,18,0.651223717252367,Sector
+Reggio nell’Emilia,Transportation,47,0.4952114472555633,Sector
+Reggio nell’Emilia,Consumer_Products,87,0.11269512849278018,Sector
+Reggio nell’Emilia,Unassigned,52,0.825581563019205,Sector
+Reggio nell’Emilia,Communication,60,0.16823287610019788,Sector
+Reggio nell’Emilia,Trade,21,0.0736205824871391,Sector
+Reggio nell’Emilia,Business_Services,25,0.10512748604279643,Sector
+Reggio nell’Emilia,Business_Products,22,0.2202957567636048,Sector
+Reggio nell’Emilia,Construction,55,0.46717123843254293,Sector
+Reggio nell’Emilia,Services,38,0.6539535204958998,Sector
+Reggio nell’Emilia,Mining,66,0.5072123088617566,Sector
+Reggio nell’Emilia,Health_Care,95,0.1953422315326082,Sector
+Reggio nell’Emilia,EnergyExpL_Prod,52,0.3408622585952906,Sector
+Reggio nell’Emilia,Utilities,65,0.4164742135697739,Sector

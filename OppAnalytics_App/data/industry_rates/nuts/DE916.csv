@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Goslar,860,0.5907667464715366,Overall
+Goslar,HiTech,48,0.7939183389621299,Sector
+Goslar,Agriculture,55,0.313819519290398,Sector
+Goslar,Transportation,96,0.5961355504826895,Sector
+Goslar,Consumer_Products,81,0.5968215589794302,Sector
+Goslar,Unassigned,77,0.7966009096785601,Sector
+Goslar,Communication,62,0.04524565700574701,Sector
+Goslar,Trade,1,0.7315627526569659,Sector
+Goslar,Business_Services,88,0.1544038023177744,Sector
+Goslar,Business_Products,56,0.5743433212181843,Sector
+Goslar,Construction,83,0.4882422115940236,Sector
+Goslar,Services,54,0.6430926876142775,Sector
+Goslar,Mining,69,0.719128064439558,Sector
+Goslar,Health_Care,33,0.8187935827745434,Sector
+Goslar,EnergyExpL_Prod,12,0.7557392887400964,Sector
+Goslar,Utilities,45,0.8336539513186698,Sector

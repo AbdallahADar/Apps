@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Celle,718,0.496964329509065,Overall
+Celle,HiTech,24,0.21678026971113618,Sector
+Celle,Agriculture,74,0.30481119186350547,Sector
+Celle,Transportation,14,0.39046582917316286,Sector
+Celle,Consumer_Products,30,0.8525166961886952,Sector
+Celle,Unassigned,24,0.20707442853807423,Sector
+Celle,Communication,35,0.11077328204874748,Sector
+Celle,Trade,28,0.557539768784277,Sector
+Celle,Business_Services,60,0.15475829236977867,Sector
+Celle,Business_Products,30,0.682823646802456,Sector
+Celle,Construction,85,0.6708965745785912,Sector
+Celle,Services,61,0.9678968058657718,Sector
+Celle,Mining,85,0.9567793927223,Sector
+Celle,Health_Care,83,0.320563746698725,Sector
+Celle,EnergyExpL_Prod,12,0.41868813649011993,Sector
+Celle,Utilities,73,0.6420968808006335,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Greer,710,0.4630162042887208,Overall
+Greer,HiTech,79,0.322262069797158,Sector
+Greer,Agriculture,23,0.4758256465798697,Sector
+Greer,Transportation,8,0.6664951234946784,Sector
+Greer,Consumer_Products,23,0.3695289720236703,Sector
+Greer,Unassigned,3,0.33022749447513067,Sector
+Greer,Communication,97,0.4801366890737433,Sector
+Greer,Trade,58,0.7925097835888085,Sector
+Greer,Business_Services,55,0.9203368782498136,Sector
+Greer,Business_Products,32,0.7470560645502682,Sector
+Greer,Construction,56,0.8835407028533738,Sector
+Greer,Services,23,0.35047454356340757,Sector
+Greer,Mining,63,0.14547138928048853,Sector
+Greer,Health_Care,5,0.10178202442699402,Sector
+Greer,EnergyExpL_Prod,99,0.14420314802660583,Sector
+Greer,Utilities,86,0.21539253434680294,Sector

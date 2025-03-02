@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mersin,806,0.43199042315092,Overall
+Mersin,HiTech,62,0.1736419229965629,Sector
+Mersin,Agriculture,9,0.13475332200275436,Sector
+Mersin,Transportation,1,0.20468145269445148,Sector
+Mersin,Consumer_Products,80,0.8130152105306452,Sector
+Mersin,Unassigned,39,0.8520215413586507,Sector
+Mersin,Communication,91,0.43388542312497747,Sector
+Mersin,Trade,83,0.10301101941946422,Sector
+Mersin,Business_Services,54,0.9017975317254554,Sector
+Mersin,Business_Products,35,0.2776175826480578,Sector
+Mersin,Construction,94,0.03185215980114786,Sector
+Mersin,Services,3,0.7897186747139001,Sector
+Mersin,Mining,96,0.3571510784409416,Sector
+Mersin,Health_Care,36,0.561701073056225,Sector
+Mersin,EnergyExpL_Prod,77,0.8042715579547273,Sector
+Mersin,Utilities,46,0.04073679679583697,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Nürnberg, Kreisfreie Stadt",513,0.5281855383281939,Overall
+"Nürnberg, Kreisfreie Stadt",HiTech,60,0.3635606510301992,Sector
+"Nürnberg, Kreisfreie Stadt",Agriculture,85,0.3847168388554648,Sector
+"Nürnberg, Kreisfreie Stadt",Transportation,6,0.6521883343436997,Sector
+"Nürnberg, Kreisfreie Stadt",Consumer_Products,5,0.07409787304233006,Sector
+"Nürnberg, Kreisfreie Stadt",Unassigned,7,0.41853070347092436,Sector
+"Nürnberg, Kreisfreie Stadt",Communication,50,0.19110994063649855,Sector
+"Nürnberg, Kreisfreie Stadt",Trade,30,0.6584131133126886,Sector
+"Nürnberg, Kreisfreie Stadt",Business_Services,44,0.8313034195364291,Sector
+"Nürnberg, Kreisfreie Stadt",Business_Products,21,0.48644075487244565,Sector
+"Nürnberg, Kreisfreie Stadt",Construction,20,0.3697417285534421,Sector
+"Nürnberg, Kreisfreie Stadt",Services,71,0.996731019956009,Sector
+"Nürnberg, Kreisfreie Stadt",Mining,46,0.8751946000042592,Sector
+"Nürnberg, Kreisfreie Stadt",Health_Care,31,0.416254360061447,Sector
+"Nürnberg, Kreisfreie Stadt",EnergyExpL_Prod,13,0.6162632666713469,Sector
+"Nürnberg, Kreisfreie Stadt",Utilities,24,0.5882364705757256,Sector

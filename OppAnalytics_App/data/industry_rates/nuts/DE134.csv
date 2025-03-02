@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ortenaukreis,740,0.5174953868805248,Overall
+Ortenaukreis,HiTech,65,0.0640666426643759,Sector
+Ortenaukreis,Agriculture,65,0.7864182683975005,Sector
+Ortenaukreis,Transportation,60,0.7713232860888353,Sector
+Ortenaukreis,Consumer_Products,80,0.4466831433683457,Sector
+Ortenaukreis,Unassigned,26,0.7917215812486181,Sector
+Ortenaukreis,Communication,24,0.0869666647069608,Sector
+Ortenaukreis,Trade,31,0.7471485667581474,Sector
+Ortenaukreis,Business_Services,31,0.7675158957016843,Sector
+Ortenaukreis,Business_Products,72,0.7864869599843725,Sector
+Ortenaukreis,Construction,30,0.12835291319634545,Sector
+Ortenaukreis,Services,72,0.1461003722898685,Sector
+Ortenaukreis,Mining,70,0.15180406066293828,Sector
+Ortenaukreis,Health_Care,5,0.1715133963169989,Sector
+Ortenaukreis,EnergyExpL_Prod,68,0.9915920311955431,Sector
+Ortenaukreis,Utilities,41,0.9247370206273368,Sector

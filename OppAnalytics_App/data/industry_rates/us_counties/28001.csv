@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Adams,926,0.49380568062497,Overall
+Adams,HiTech,52,0.7096468498301025,Sector
+Adams,Agriculture,62,0.148270539923412,Sector
+Adams,Transportation,80,0.15201664449015295,Sector
+Adams,Consumer_Products,70,0.6194323195104268,Sector
+Adams,Unassigned,93,0.10562030503704833,Sector
+Adams,Communication,74,0.5758969988104737,Sector
+Adams,Trade,57,0.4789869706161295,Sector
+Adams,Business_Services,53,0.8783568533288273,Sector
+Adams,Business_Products,57,0.8128001046647051,Sector
+Adams,Construction,44,0.29786744512070296,Sector
+Adams,Services,78,0.2833654037947624,Sector
+Adams,Mining,79,0.5167311626541908,Sector
+Adams,Health_Care,1,0.8365446464304601,Sector
+Adams,EnergyExpL_Prod,27,0.3835227744186752,Sector
+Adams,Utilities,99,0.6080261907444808,Sector

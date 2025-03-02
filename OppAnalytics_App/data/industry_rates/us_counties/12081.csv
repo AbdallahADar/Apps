@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Manatee,798,0.508549067168853,Overall
+Manatee,HiTech,57,0.18186357012660403,Sector
+Manatee,Agriculture,9,0.1537076124105362,Sector
+Manatee,Transportation,43,0.3540353842006314,Sector
+Manatee,Consumer_Products,95,0.5686004278622613,Sector
+Manatee,Unassigned,81,0.6047944503098296,Sector
+Manatee,Communication,40,0.5135266882223289,Sector
+Manatee,Trade,70,0.4153160346659416,Sector
+Manatee,Business_Services,7,0.4287508373090091,Sector
+Manatee,Business_Products,13,0.9089977617538868,Sector
+Manatee,Construction,46,0.44916848757481564,Sector
+Manatee,Services,94,0.9231549505204585,Sector
+Manatee,Mining,35,0.43604674952597755,Sector
+Manatee,Health_Care,93,0.8691649720080371,Sector
+Manatee,EnergyExpL_Prod,54,0.28574476113593184,Sector
+Manatee,Utilities,61,0.5353633199065452,Sector

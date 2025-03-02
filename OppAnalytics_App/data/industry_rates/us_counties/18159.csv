@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tipton,723,0.6206428113236142,Overall
+Tipton,HiTech,88,0.9913683003253828,Sector
+Tipton,Agriculture,11,0.5176132752682074,Sector
+Tipton,Transportation,90,0.016994775500306702,Sector
+Tipton,Consumer_Products,18,0.8752356074232267,Sector
+Tipton,Unassigned,95,0.487452090557973,Sector
+Tipton,Communication,7,0.7494668375202016,Sector
+Tipton,Trade,90,0.6844341517202838,Sector
+Tipton,Business_Services,5,0.5517775292979658,Sector
+Tipton,Business_Products,16,0.9202087381569644,Sector
+Tipton,Construction,47,0.16326438447177638,Sector
+Tipton,Services,48,0.42121519892436743,Sector
+Tipton,Mining,79,0.7605894931684993,Sector
+Tipton,Health_Care,59,0.9270229675747116,Sector
+Tipton,EnergyExpL_Prod,62,0.5290216223315354,Sector
+Tipton,Utilities,8,0.7139771976128095,Sector

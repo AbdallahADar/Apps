@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Schwerin, Kreisfreie Stadt",841,0.6561101987102934,Overall
+"Schwerin, Kreisfreie Stadt",HiTech,87,0.8722565849477855,Sector
+"Schwerin, Kreisfreie Stadt",Agriculture,82,0.9803744118764323,Sector
+"Schwerin, Kreisfreie Stadt",Transportation,75,0.3686938942731173,Sector
+"Schwerin, Kreisfreie Stadt",Consumer_Products,19,0.9823842946231327,Sector
+"Schwerin, Kreisfreie Stadt",Unassigned,69,0.6706703052604907,Sector
+"Schwerin, Kreisfreie Stadt",Communication,51,0.8548330681059118,Sector
+"Schwerin, Kreisfreie Stadt",Trade,33,0.4676776305960465,Sector
+"Schwerin, Kreisfreie Stadt",Business_Services,42,0.10684913105972149,Sector
+"Schwerin, Kreisfreie Stadt",Business_Products,25,0.9259270178645843,Sector
+"Schwerin, Kreisfreie Stadt",Construction,31,0.8889892036122455,Sector
+"Schwerin, Kreisfreie Stadt",Services,90,0.7598327190549538,Sector
+"Schwerin, Kreisfreie Stadt",Mining,15,0.2001046637980961,Sector
+"Schwerin, Kreisfreie Stadt",Health_Care,86,0.9852433802367636,Sector
+"Schwerin, Kreisfreie Stadt",EnergyExpL_Prod,97,0.49502524504593004,Sector
+"Schwerin, Kreisfreie Stadt",Utilities,39,0.2827914302991906,Sector

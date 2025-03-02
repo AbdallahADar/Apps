@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Iowa,943,0.5226870352986768,Overall
+Iowa,HiTech,94,0.7463733289168354,Sector
+Iowa,Agriculture,52,0.3847261232767115,Sector
+Iowa,Transportation,63,0.39572856133959833,Sector
+Iowa,Consumer_Products,89,0.8466158645068093,Sector
+Iowa,Unassigned,2,0.6429425077653563,Sector
+Iowa,Communication,52,0.2876699132489128,Sector
+Iowa,Trade,51,0.031025481627998897,Sector
+Iowa,Business_Services,61,0.18185159177596943,Sector
+Iowa,Business_Products,78,0.8125349422157073,Sector
+Iowa,Construction,96,0.6015682981899197,Sector
+Iowa,Services,62,0.9077793800217795,Sector
+Iowa,Mining,79,0.037436439057555115,Sector
+Iowa,Health_Care,78,0.9160991235803936,Sector
+Iowa,EnergyExpL_Prod,31,0.5675464742592401,Sector
+Iowa,Utilities,55,0.48040749969736374,Sector

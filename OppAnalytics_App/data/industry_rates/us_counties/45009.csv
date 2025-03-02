@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bamberg,626,0.6634623436945336,Overall
+Bamberg,HiTech,81,0.7049907168545951,Sector
+Bamberg,Agriculture,42,0.8635843277725669,Sector
+Bamberg,Transportation,0,0.9602358216343826,Sector
+Bamberg,Consumer_Products,93,0.81986276741435,Sector
+Bamberg,Unassigned,59,0.4791712154686878,Sector
+Bamberg,Communication,11,0.4751762793666522,Sector
+Bamberg,Trade,30,0.17247531142320505,Sector
+Bamberg,Business_Services,55,0.7060419326845205,Sector
+Bamberg,Business_Products,93,0.911711672834782,Sector
+Bamberg,Construction,30,0.593665052210418,Sector
+Bamberg,Services,36,0.4064038683531177,Sector
+Bamberg,Mining,6,0.2799824437496139,Sector
+Bamberg,Health_Care,38,0.993948101834536,Sector
+Bamberg,EnergyExpL_Prod,40,0.8189150850271824,Sector
+Bamberg,Utilities,12,0.7657705587893935,Sector

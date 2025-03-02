@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Harz,889,0.5474388649794916,Overall
+Harz,HiTech,71,0.555253583492258,Sector
+Harz,Agriculture,32,0.56422194992218,Sector
+Harz,Transportation,67,0.17275666361213282,Sector
+Harz,Consumer_Products,67,0.5622199302459102,Sector
+Harz,Unassigned,45,0.5367063906953367,Sector
+Harz,Communication,88,0.6917101387011224,Sector
+Harz,Trade,44,0.44337295309197366,Sector
+Harz,Business_Services,75,0.27114761374114305,Sector
+Harz,Business_Products,48,0.9397499430562383,Sector
+Harz,Construction,94,0.48493944642074105,Sector
+Harz,Services,43,0.4491211701209743,Sector
+Harz,Mining,88,0.7130532522055395,Sector
+Harz,Health_Care,34,0.7071311969927189,Sector
+Harz,EnergyExpL_Prod,68,0.20821898094385627,Sector
+Harz,Utilities,25,0.9119797614502478,Sector

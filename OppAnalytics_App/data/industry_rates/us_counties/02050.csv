@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bethel,702,0.5710014731278618,Overall
+Bethel,HiTech,1,0.4485898665921634,Sector
+Bethel,Agriculture,78,0.633015584677398,Sector
+Bethel,Transportation,66,0.8848345780201766,Sector
+Bethel,Consumer_Products,34,0.773886189825297,Sector
+Bethel,Unassigned,16,0.12841978850314562,Sector
+Bethel,Communication,47,0.04112049588877442,Sector
+Bethel,Trade,46,0.8504409055911927,Sector
+Bethel,Business_Services,27,0.727970304296158,Sector
+Bethel,Business_Products,53,0.6123709177144729,Sector
+Bethel,Construction,73,0.15526173348756633,Sector
+Bethel,Services,30,0.33656969201724474,Sector
+Bethel,Mining,29,0.6255763782265006,Sector
+Bethel,Health_Care,62,0.515755170944321,Sector
+Bethel,EnergyExpL_Prod,50,0.9126112425570945,Sector
+Bethel,Utilities,90,0.9185992485764213,Sector

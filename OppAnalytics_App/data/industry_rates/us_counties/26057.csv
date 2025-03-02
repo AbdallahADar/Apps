@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gratiot,628,0.49296166099333383,Overall
+Gratiot,HiTech,0,0.20994741246041349,Sector
+Gratiot,Agriculture,32,0.5055385996587592,Sector
+Gratiot,Transportation,2,0.8183485344150346,Sector
+Gratiot,Consumer_Products,64,0.7930785622845813,Sector
+Gratiot,Unassigned,35,0.28340424913106876,Sector
+Gratiot,Communication,90,0.29220985207960803,Sector
+Gratiot,Trade,43,0.22228004544105984,Sector
+Gratiot,Business_Services,31,0.5442292707253691,Sector
+Gratiot,Business_Products,83,0.9469061424228552,Sector
+Gratiot,Construction,29,0.41704493485961136,Sector
+Gratiot,Services,14,0.6358914031633595,Sector
+Gratiot,Mining,58,0.8839141916712161,Sector
+Gratiot,Health_Care,42,0.210369890209416,Sector
+Gratiot,EnergyExpL_Prod,35,0.4538625499738156,Sector
+Gratiot,Utilities,70,0.1773992764038388,Sector

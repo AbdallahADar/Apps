@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Razgrad,927,0.5455379713769151,Overall
+Razgrad,HiTech,48,0.11123133169760469,Sector
+Razgrad,Agriculture,91,0.6570255926900822,Sector
+Razgrad,Transportation,85,0.25902953712803845,Sector
+Razgrad,Consumer_Products,17,0.13860463626203945,Sector
+Razgrad,Unassigned,82,0.7770725962680496,Sector
+Razgrad,Communication,0,0.43389872240874816,Sector
+Razgrad,Trade,69,0.7169064646519742,Sector
+Razgrad,Business_Services,79,0.8235937422881348,Sector
+Razgrad,Business_Products,64,0.9278208922290359,Sector
+Razgrad,Construction,52,0.36536509873871115,Sector
+Razgrad,Services,62,0.5481253388981701,Sector
+Razgrad,Mining,37,0.23431601750026232,Sector
+Razgrad,Health_Care,80,0.8874938093317846,Sector
+Razgrad,EnergyExpL_Prod,71,0.4324686158705018,Sector
+Razgrad,Utilities,90,0.870117174690589,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arroyo,745,0.6088866086539046,Overall
+Arroyo,HiTech,92,0.9610024174029043,Sector
+Arroyo,Agriculture,69,0.4785099520411703,Sector
+Arroyo,Transportation,24,0.10429451024693304,Sector
+Arroyo,Consumer_Products,22,0.8129781566406444,Sector
+Arroyo,Unassigned,15,0.9374994246799545,Sector
+Arroyo,Communication,60,0.6043902287779228,Sector
+Arroyo,Trade,58,0.6784950268963567,Sector
+Arroyo,Business_Services,37,0.9410003778142275,Sector
+Arroyo,Business_Products,63,0.8982838266364477,Sector
+Arroyo,Construction,71,0.5987565565819588,Sector
+Arroyo,Services,7,0.8625103449113759,Sector
+Arroyo,Mining,45,0.3117146364930249,Sector
+Arroyo,Health_Care,75,0.31654826819377,Sector
+Arroyo,EnergyExpL_Prod,18,0.17621426993486344,Sector
+Arroyo,Utilities,89,0.45110113255701356,Sector

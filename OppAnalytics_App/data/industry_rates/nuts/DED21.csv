@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Dresden, Kreisfreie Stadt",745,0.4242214633437136,Overall
+"Dresden, Kreisfreie Stadt",HiTech,94,0.7091419523615093,Sector
+"Dresden, Kreisfreie Stadt",Agriculture,11,0.254140434857935,Sector
+"Dresden, Kreisfreie Stadt",Transportation,60,0.8101758724020743,Sector
+"Dresden, Kreisfreie Stadt",Consumer_Products,15,0.10661645197311809,Sector
+"Dresden, Kreisfreie Stadt",Unassigned,4,0.4107786461109567,Sector
+"Dresden, Kreisfreie Stadt",Communication,55,0.4915241450185045,Sector
+"Dresden, Kreisfreie Stadt",Trade,80,0.43934909012258516,Sector
+"Dresden, Kreisfreie Stadt",Business_Services,76,0.04825731095466501,Sector
+"Dresden, Kreisfreie Stadt",Business_Products,48,0.5102740306715681,Sector
+"Dresden, Kreisfreie Stadt",Construction,67,0.7225200548094521,Sector
+"Dresden, Kreisfreie Stadt",Services,6,0.016861723846313015,Sector
+"Dresden, Kreisfreie Stadt",Mining,55,0.8111218234996028,Sector
+"Dresden, Kreisfreie Stadt",Health_Care,11,0.05491958072133851,Sector
+"Dresden, Kreisfreie Stadt",EnergyExpL_Prod,65,0.8116419073538338,Sector
+"Dresden, Kreisfreie Stadt",Utilities,98,0.16599892545224681,Sector

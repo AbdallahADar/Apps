@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ransom,862,0.5796457180701376,Overall
+Ransom,HiTech,95,0.9457366052470152,Sector
+Ransom,Agriculture,3,0.4747209085773222,Sector
+Ransom,Transportation,82,0.4531526901603282,Sector
+Ransom,Consumer_Products,73,0.8348241897964039,Sector
+Ransom,Unassigned,35,0.9603550142383638,Sector
+Ransom,Communication,96,0.9559364725750005,Sector
+Ransom,Trade,91,0.2075083014039517,Sector
+Ransom,Business_Services,21,0.25657027365975593,Sector
+Ransom,Business_Products,94,0.29570285967589693,Sector
+Ransom,Construction,29,0.9287815083082777,Sector
+Ransom,Services,95,0.9893152098777475,Sector
+Ransom,Mining,82,0.20571031648962212,Sector
+Ransom,Health_Care,8,0.06438799306185827,Sector
+Ransom,EnergyExpL_Prod,35,0.33303200969836244,Sector
+Ransom,Utilities,23,0.7889514182821572,Sector

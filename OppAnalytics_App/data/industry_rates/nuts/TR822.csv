@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Çankırı,795,0.5003601707507543,Overall
+Çankırı,HiTech,59,0.9671941951373688,Sector
+Çankırı,Agriculture,26,0.5376979194823319,Sector
+Çankırı,Transportation,66,0.773745007769136,Sector
+Çankırı,Consumer_Products,30,0.04820485046984235,Sector
+Çankırı,Unassigned,51,0.957652974737657,Sector
+Çankırı,Communication,3,0.8892032926352846,Sector
+Çankırı,Trade,99,0.007378095069701995,Sector
+Çankırı,Business_Services,95,0.3907880965125593,Sector
+Çankırı,Business_Products,68,0.9264622479454975,Sector
+Çankırı,Construction,28,0.20514222376405644,Sector
+Çankırı,Services,9,0.11160884112881742,Sector
+Çankırı,Mining,16,0.9911055892174478,Sector
+Çankırı,Health_Care,75,0.17289894347476387,Sector
+Çankırı,EnergyExpL_Prod,78,0.460919568495756,Sector
+Çankırı,Utilities,92,0.06540071542109338,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Baker,574,0.3621423925870942,Overall
+Baker,HiTech,20,0.063988739078358,Sector
+Baker,Agriculture,58,0.987913690118209,Sector
+Baker,Transportation,31,0.18270127792549806,Sector
+Baker,Consumer_Products,0,0.12079094368645982,Sector
+Baker,Unassigned,60,0.8071889602984352,Sector
+Baker,Communication,46,0.43152336960210325,Sector
+Baker,Trade,18,0.2656467004765306,Sector
+Baker,Business_Services,4,0.08329529341623543,Sector
+Baker,Business_Products,35,0.34044609988825825,Sector
+Baker,Construction,58,0.5783035465757729,Sector
+Baker,Services,58,0.26598017680226427,Sector
+Baker,Mining,38,0.09005161721816879,Sector
+Baker,Health_Care,79,0.2643666040134338,Sector
+Baker,EnergyExpL_Prod,42,0.7212099239118985,Sector
+Baker,Utilities,27,0.22872894579478742,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kielecki,770,0.5931977891948816,Overall
+Kielecki,HiTech,69,0.057730420120913783,Sector
+Kielecki,Agriculture,93,0.26513593473255215,Sector
+Kielecki,Transportation,22,0.7728818781419431,Sector
+Kielecki,Consumer_Products,92,0.9809941877065436,Sector
+Kielecki,Unassigned,51,0.5761144471401743,Sector
+Kielecki,Communication,39,0.822303342775102,Sector
+Kielecki,Trade,62,0.9532410986321977,Sector
+Kielecki,Business_Services,63,0.2702804663416717,Sector
+Kielecki,Business_Products,89,0.8354698839839633,Sector
+Kielecki,Construction,15,0.9197430326957914,Sector
+Kielecki,Services,16,0.05473634292061902,Sector
+Kielecki,Mining,62,0.7506007125456559,Sector
+Kielecki,Health_Care,51,0.8034123568404247,Sector
+Kielecki,EnergyExpL_Prod,44,0.4413518645458574,Sector
+Kielecki,Utilities,2,0.3939708687998138,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Santa Barbara,949,0.49204957843855385,Overall
+Santa Barbara,HiTech,42,0.1282775553047798,Sector
+Santa Barbara,Agriculture,99,0.26094912978698104,Sector
+Santa Barbara,Transportation,45,0.8798026623292894,Sector
+Santa Barbara,Consumer_Products,49,0.5066828688692505,Sector
+Santa Barbara,Unassigned,87,0.26520529311855556,Sector
+Santa Barbara,Communication,77,0.15663449614465563,Sector
+Santa Barbara,Trade,76,0.8609376203169127,Sector
+Santa Barbara,Business_Services,52,0.21001263687274718,Sector
+Santa Barbara,Business_Products,18,0.6420947475362073,Sector
+Santa Barbara,Construction,69,0.7427835754267329,Sector
+Santa Barbara,Services,59,0.19923388465665637,Sector
+Santa Barbara,Mining,92,0.6088461755158997,Sector
+Santa Barbara,Health_Care,77,0.9719829005091803,Sector
+Santa Barbara,EnergyExpL_Prod,50,0.2873655358625833,Sector
+Santa Barbara,Utilities,57,0.6599345943278766,Sector

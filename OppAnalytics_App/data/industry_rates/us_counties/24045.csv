@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wicomico,718,0.5747345018447234,Overall
+Wicomico,HiTech,71,0.14794090844188024,Sector
+Wicomico,Agriculture,33,0.3815379394910763,Sector
+Wicomico,Transportation,22,0.09346397324506084,Sector
+Wicomico,Consumer_Products,94,0.3681423275547283,Sector
+Wicomico,Unassigned,85,0.5699484322573519,Sector
+Wicomico,Communication,69,0.9575440842929892,Sector
+Wicomico,Trade,47,0.4259401309401256,Sector
+Wicomico,Business_Services,32,0.8155444660708683,Sector
+Wicomico,Business_Products,36,0.6859276363500585,Sector
+Wicomico,Construction,31,0.9225955225895345,Sector
+Wicomico,Services,76,0.9281158299047584,Sector
+Wicomico,Mining,15,0.2292868943877472,Sector
+Wicomico,Health_Care,16,0.8176998315411796,Sector
+Wicomico,EnergyExpL_Prod,54,0.783981248654068,Sector
+Wicomico,Utilities,37,0.49334830194942225,Sector

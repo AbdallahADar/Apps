@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Auglaize,726,0.5365820367697388,Overall
+Auglaize,HiTech,83,0.8997473985879284,Sector
+Auglaize,Agriculture,44,0.8110733947137475,Sector
+Auglaize,Transportation,7,0.9016716236862315,Sector
+Auglaize,Consumer_Products,75,0.14004885579322912,Sector
+Auglaize,Unassigned,4,0.984692931558374,Sector
+Auglaize,Communication,87,0.08028733494287499,Sector
+Auglaize,Trade,7,0.794830722587952,Sector
+Auglaize,Business_Services,13,0.9559706867461452,Sector
+Auglaize,Business_Products,68,0.20049343517755103,Sector
+Auglaize,Construction,82,0.30570283921677877,Sector
+Auglaize,Services,67,0.029590830604801832,Sector
+Auglaize,Mining,66,0.9303581878430752,Sector
+Auglaize,Health_Care,43,0.4897881174614014,Sector
+Auglaize,EnergyExpL_Prod,62,0.20013970939082315,Sector
+Auglaize,Utilities,18,0.32433448323516745,Sector

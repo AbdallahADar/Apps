@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Deaf Smith,607,0.5027585146277971,Overall
+Deaf Smith,HiTech,18,0.9882696341254165,Sector
+Deaf Smith,Agriculture,48,0.27865563627985523,Sector
+Deaf Smith,Transportation,48,0.3325106886106629,Sector
+Deaf Smith,Consumer_Products,17,0.07783071318424739,Sector
+Deaf Smith,Unassigned,89,0.6188883040270273,Sector
+Deaf Smith,Communication,93,0.9638105321706683,Sector
+Deaf Smith,Trade,30,0.3830226326236583,Sector
+Deaf Smith,Business_Services,36,0.21778566035328129,Sector
+Deaf Smith,Business_Products,24,0.3764618392401434,Sector
+Deaf Smith,Construction,17,0.9277339463911844,Sector
+Deaf Smith,Services,77,0.4535560622002287,Sector
+Deaf Smith,Mining,25,0.8874836740150256,Sector
+Deaf Smith,Health_Care,15,0.11934590883565521,Sector
+Deaf Smith,EnergyExpL_Prod,26,0.14012457515272003,Sector
+Deaf Smith,Utilities,44,0.7758979122071825,Sector

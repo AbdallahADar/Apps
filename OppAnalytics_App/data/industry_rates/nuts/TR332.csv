@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Afyonkarahisar,700,0.5062220270908795,Overall
+Afyonkarahisar,HiTech,16,0.6305334753760646,Sector
+Afyonkarahisar,Agriculture,6,0.11391102560016608,Sector
+Afyonkarahisar,Transportation,63,0.10825171732742966,Sector
+Afyonkarahisar,Consumer_Products,97,0.5827458544396529,Sector
+Afyonkarahisar,Unassigned,82,0.4326974466410225,Sector
+Afyonkarahisar,Communication,76,0.9288008466312285,Sector
+Afyonkarahisar,Trade,36,0.5214962453896983,Sector
+Afyonkarahisar,Business_Services,86,0.7813384418648041,Sector
+Afyonkarahisar,Business_Products,54,0.4975224437688408,Sector
+Afyonkarahisar,Construction,33,0.47537721259717913,Sector
+Afyonkarahisar,Services,22,0.8614328293453819,Sector
+Afyonkarahisar,Mining,69,0.5862623722969558,Sector
+Afyonkarahisar,Health_Care,9,0.13175142818891306,Sector
+Afyonkarahisar,EnergyExpL_Prod,7,0.6592514057569713,Sector
+Afyonkarahisar,Utilities,44,0.2819576611388832,Sector

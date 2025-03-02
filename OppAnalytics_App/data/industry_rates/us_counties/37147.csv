@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pitt,743,0.47243345050620356,Overall
+Pitt,HiTech,21,0.31738481164769605,Sector
+Pitt,Agriculture,56,0.16174169705672903,Sector
+Pitt,Transportation,38,0.7653305061856442,Sector
+Pitt,Consumer_Products,52,0.9505578342151505,Sector
+Pitt,Unassigned,83,0.5834433463474765,Sector
+Pitt,Communication,35,0.8133756663911281,Sector
+Pitt,Trade,39,0.1765108959133228,Sector
+Pitt,Business_Services,98,0.15569557490514507,Sector
+Pitt,Business_Products,86,0.40010902275458116,Sector
+Pitt,Construction,7,0.5599631232315656,Sector
+Pitt,Services,2,0.2830924444186629,Sector
+Pitt,Mining,19,0.19168819681312643,Sector
+Pitt,Health_Care,33,0.8679080757547237,Sector
+Pitt,EnergyExpL_Prod,88,0.08279499267588197,Sector
+Pitt,Utilities,86,0.7769055692822184,Sector

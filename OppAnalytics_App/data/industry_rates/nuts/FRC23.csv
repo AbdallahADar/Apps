@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Haute-Saône,566,0.415140671257318,Overall
+Haute-Saône,HiTech,26,0.08717672507835017,Sector
+Haute-Saône,Agriculture,6,0.33685447686676706,Sector
+Haute-Saône,Transportation,40,0.4729087625480707,Sector
+Haute-Saône,Consumer_Products,21,0.5186676063901796,Sector
+Haute-Saône,Unassigned,14,0.21852836702476208,Sector
+Haute-Saône,Communication,90,0.27897632074118905,Sector
+Haute-Saône,Trade,7,0.02603643395340094,Sector
+Haute-Saône,Business_Services,89,0.2562385936899704,Sector
+Haute-Saône,Business_Products,79,0.8007245703664783,Sector
+Haute-Saône,Construction,9,0.5150039222960465,Sector
+Haute-Saône,Services,61,0.8980650777548467,Sector
+Haute-Saône,Mining,1,0.9345212936648224,Sector
+Haute-Saône,Health_Care,94,0.06059015163991366,Sector
+Haute-Saône,EnergyExpL_Prod,16,0.2652048805634687,Sector
+Haute-Saône,Utilities,13,0.557612886281503,Sector

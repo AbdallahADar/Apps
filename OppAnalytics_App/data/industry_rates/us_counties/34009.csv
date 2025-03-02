@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cape May,716,0.5492339771186503,Overall
+Cape May,HiTech,1,0.9953833858204202,Sector
+Cape May,Agriculture,13,0.35799353759894237,Sector
+Cape May,Transportation,72,0.866769864270158,Sector
+Cape May,Consumer_Products,23,0.26429366699878043,Sector
+Cape May,Unassigned,21,0.76585692475731,Sector
+Cape May,Communication,94,0.2638288279863803,Sector
+Cape May,Trade,19,0.03925984306220709,Sector
+Cape May,Business_Services,16,0.9589988696822629,Sector
+Cape May,Business_Products,91,0.2463014593911098,Sector
+Cape May,Construction,77,0.790503632748443,Sector
+Cape May,Services,43,0.7158313815496017,Sector
+Cape May,Mining,30,0.37838763689107213,Sector
+Cape May,Health_Care,29,0.31709343580945004,Sector
+Cape May,EnergyExpL_Prod,89,0.8459558249515412,Sector
+Cape May,Utilities,98,0.4320513652620759,Sector

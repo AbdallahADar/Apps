@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,King George,590,0.4729850153876451,Overall
+King George,HiTech,29,0.04638668461440243,Sector
+King George,Agriculture,29,0.05828407581486983,Sector
+King George,Transportation,4,0.866913842450432,Sector
+King George,Consumer_Products,27,0.5806782284651661,Sector
+King George,Unassigned,84,0.18638110997257562,Sector
+King George,Communication,26,0.3642555747408611,Sector
+King George,Trade,93,0.403961054636649,Sector
+King George,Business_Services,29,0.10514721765098822,Sector
+King George,Business_Products,51,0.6061514944042186,Sector
+King George,Construction,35,0.8015019204624793,Sector
+King George,Services,45,0.6390040871960727,Sector
+King George,Mining,65,0.9358669345636237,Sector
+King George,Health_Care,9,0.0512685242546177,Sector
+King George,EnergyExpL_Prod,44,0.9648924541206736,Sector
+King George,Utilities,20,0.4840820274670463,Sector

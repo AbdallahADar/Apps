@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rieti,824,0.28906593705995315,Overall
+Rieti,HiTech,38,0.4331579411143467,Sector
+Rieti,Agriculture,92,0.36862046800022175,Sector
+Rieti,Transportation,14,0.026114617825791497,Sector
+Rieti,Consumer_Products,5,0.012225195169524028,Sector
+Rieti,Unassigned,37,0.32127566477274905,Sector
+Rieti,Communication,68,0.6479926989748657,Sector
+Rieti,Trade,51,0.06998013179088036,Sector
+Rieti,Business_Services,40,0.5507693526932881,Sector
+Rieti,Business_Products,76,0.3113076726779216,Sector
+Rieti,Construction,86,0.5229859458046717,Sector
+Rieti,Services,5,0.6177803148468414,Sector
+Rieti,Mining,82,0.04295244152553335,Sector
+Rieti,Health_Care,51,0.08845129343569469,Sector
+Rieti,EnergyExpL_Prod,99,0.03426637956285905,Sector
+Rieti,Utilities,80,0.28810893770410917,Sector

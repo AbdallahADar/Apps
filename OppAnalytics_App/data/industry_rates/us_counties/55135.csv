@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Waupaca,868,0.48260037545550577,Overall
+Waupaca,HiTech,45,0.7245538238669279,Sector
+Waupaca,Agriculture,94,0.5843134546717228,Sector
+Waupaca,Transportation,53,0.6332572116325256,Sector
+Waupaca,Consumer_Products,54,0.43294035464479874,Sector
+Waupaca,Unassigned,69,0.7294313739443316,Sector
+Waupaca,Communication,67,0.17563050753133236,Sector
+Waupaca,Trade,15,0.14006521866152866,Sector
+Waupaca,Business_Services,52,0.8510389040380322,Sector
+Waupaca,Business_Products,81,0.3645027004224669,Sector
+Waupaca,Construction,65,0.22477217613502687,Sector
+Waupaca,Services,3,0.6206512707965649,Sector
+Waupaca,Mining,18,0.22514802538071987,Sector
+Waupaca,Health_Care,69,0.4959382826702755,Sector
+Waupaca,EnergyExpL_Prod,86,0.8373392839067549,Sector
+Waupaca,Utilities,97,0.19942304352957752,Sector

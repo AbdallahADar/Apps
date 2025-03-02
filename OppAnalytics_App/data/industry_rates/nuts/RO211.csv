@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bacău,726,0.4143375205178775,Overall
+Bacău,HiTech,12,0.8194208956912694,Sector
+Bacău,Agriculture,1,0.8135508825251543,Sector
+Bacău,Transportation,41,0.7726659844359666,Sector
+Bacău,Consumer_Products,5,0.7320810713694429,Sector
+Bacău,Unassigned,14,0.010405829017516521,Sector
+Bacău,Communication,47,0.8049626205248386,Sector
+Bacău,Trade,90,0.16794232654051722,Sector
+Bacău,Business_Services,98,0.4889559453999587,Sector
+Bacău,Business_Products,13,0.06891046936355494,Sector
+Bacău,Construction,61,0.08971233257904632,Sector
+Bacău,Services,66,0.40763152863618735,Sector
+Bacău,Mining,84,0.06632176351999064,Sector
+Bacău,Health_Care,41,0.14657663584807423,Sector
+Bacău,EnergyExpL_Prod,70,0.2557783995374897,Sector
+Bacău,Utilities,83,0.5701461227791541,Sector

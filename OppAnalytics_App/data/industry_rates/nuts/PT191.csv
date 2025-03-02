@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Região de Aveiro,734,0.5065605896633578,Overall
+Região de Aveiro,HiTech,77,0.4047791836984538,Sector
+Região de Aveiro,Agriculture,66,0.5993427665551666,Sector
+Região de Aveiro,Transportation,90,0.860706042645622,Sector
+Região de Aveiro,Consumer_Products,18,0.7208463949875069,Sector
+Região de Aveiro,Unassigned,7,0.6177307269770177,Sector
+Região de Aveiro,Communication,51,0.3072302780175368,Sector
+Região de Aveiro,Trade,52,0.10440437391007984,Sector
+Região de Aveiro,Business_Services,34,0.764472540542122,Sector
+Região de Aveiro,Business_Products,3,0.22488676298322807,Sector
+Região de Aveiro,Construction,67,0.5517733826707,Sector
+Região de Aveiro,Services,71,0.9317497157186415,Sector
+Região de Aveiro,Mining,66,0.4531178608818329,Sector
+Região de Aveiro,Health_Care,82,0.8159955601449257,Sector
+Região de Aveiro,EnergyExpL_Prod,32,0.13879707708501132,Sector
+Região de Aveiro,Utilities,18,0.10257617813252062,Sector

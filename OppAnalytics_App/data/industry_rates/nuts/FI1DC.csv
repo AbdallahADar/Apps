@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pohjois-Karjala,697,0.6165128719999861,Overall
+Pohjois-Karjala,HiTech,30,0.9939851982895078,Sector
+Pohjois-Karjala,Agriculture,66,0.20953655830569418,Sector
+Pohjois-Karjala,Transportation,54,0.34793825240362397,Sector
+Pohjois-Karjala,Consumer_Products,16,0.6740164149442103,Sector
+Pohjois-Karjala,Unassigned,24,0.6243760545976652,Sector
+Pohjois-Karjala,Communication,46,0.39688889037203956,Sector
+Pohjois-Karjala,Trade,83,0.900475165302294,Sector
+Pohjois-Karjala,Business_Services,12,0.7908482810286958,Sector
+Pohjois-Karjala,Business_Products,92,0.28784572473143843,Sector
+Pohjois-Karjala,Construction,69,0.7696646761385113,Sector
+Pohjois-Karjala,Services,33,0.6524637888791749,Sector
+Pohjois-Karjala,Mining,80,0.92834844761099,Sector
+Pohjois-Karjala,Health_Care,36,0.9500857068567569,Sector
+Pohjois-Karjala,EnergyExpL_Prod,35,0.44410653659479493,Sector
+Pohjois-Karjala,Utilities,21,0.2771133839443948,Sector

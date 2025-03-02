@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Denali,764,0.6089561582084493,Overall
+Denali,HiTech,18,0.4404795193334732,Sector
+Denali,Agriculture,79,0.004066731498279297,Sector
+Denali,Transportation,32,0.7768660409787497,Sector
+Denali,Consumer_Products,95,0.10276435156490638,Sector
+Denali,Unassigned,77,0.7189519372669685,Sector
+Denali,Communication,58,0.9210976438166657,Sector
+Denali,Trade,70,0.9400282623041931,Sector
+Denali,Business_Services,40,0.6107776929850098,Sector
+Denali,Business_Products,75,0.40470329992069165,Sector
+Denali,Construction,4,0.9653016680407959,Sector
+Denali,Services,89,0.3390491874384549,Sector
+Denali,Mining,3,0.8599835279192033,Sector
+Denali,Health_Care,52,0.4335413106968924,Sector
+Denali,EnergyExpL_Prod,38,0.7012931053804352,Sector
+Denali,Utilities,34,0.9154380939820204,Sector

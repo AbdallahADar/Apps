@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Günzburg,714,0.39189866337858653,Overall
+Günzburg,HiTech,70,0.4932217357324714,Sector
+Günzburg,Agriculture,73,0.6381781013914236,Sector
+Günzburg,Transportation,63,0.6396600089009009,Sector
+Günzburg,Consumer_Products,74,0.4689190863685193,Sector
+Günzburg,Unassigned,10,0.2255865997560027,Sector
+Günzburg,Communication,24,0.21910430315171803,Sector
+Günzburg,Trade,53,0.2745790439744843,Sector
+Günzburg,Business_Services,22,0.8457482057784006,Sector
+Günzburg,Business_Products,66,0.5447438722765902,Sector
+Günzburg,Construction,28,0.3574783300026443,Sector
+Günzburg,Services,83,0.37288250094289477,Sector
+Günzburg,Mining,88,0.46551913714030213,Sector
+Günzburg,Health_Care,29,0.2763597765039044,Sector
+Günzburg,EnergyExpL_Prod,12,0.04783078798146567,Sector
+Günzburg,Utilities,19,0.008668460777075393,Sector

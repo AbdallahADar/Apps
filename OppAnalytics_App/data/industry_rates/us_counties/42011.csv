@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Berks,924,0.4233281483033442,Overall
+Berks,HiTech,60,0.5208123168679645,Sector
+Berks,Agriculture,90,0.3986316511228919,Sector
+Berks,Transportation,62,0.9773709075907256,Sector
+Berks,Consumer_Products,71,0.21935210980106123,Sector
+Berks,Unassigned,56,0.589493879334582,Sector
+Berks,Communication,47,0.9037453232985534,Sector
+Berks,Trade,49,0.18897527276184345,Sector
+Berks,Business_Services,50,0.09152701989678735,Sector
+Berks,Business_Products,69,0.7971468788209948,Sector
+Berks,Construction,64,0.2351749862178153,Sector
+Berks,Services,34,0.11301310623358185,Sector
+Berks,Mining,56,0.3053255911376438,Sector
+Berks,Health_Care,79,0.48314982018580943,Sector
+Berks,EnergyExpL_Prod,43,0.44903735357203634,Sector
+Berks,Utilities,94,0.07716600770787219,Sector

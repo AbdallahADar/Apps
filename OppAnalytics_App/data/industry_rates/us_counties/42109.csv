@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Snyder,554,0.4693039600952123,Overall
+Snyder,HiTech,99,0.4624673985867578,Sector
+Snyder,Agriculture,13,0.282854263769181,Sector
+Snyder,Transportation,84,0.02851778218908152,Sector
+Snyder,Consumer_Products,30,0.7718829956797713,Sector
+Snyder,Unassigned,20,0.9920297732274445,Sector
+Snyder,Communication,12,0.9959954441921215,Sector
+Snyder,Trade,20,0.41173876893243266,Sector
+Snyder,Business_Services,52,0.44796040581601304,Sector
+Snyder,Business_Products,9,0.16389002599103863,Sector
+Snyder,Construction,4,0.14541675373434926,Sector
+Snyder,Services,32,0.4415419480053937,Sector
+Snyder,Mining,70,0.2578278180478487,Sector
+Snyder,Health_Care,5,0.9814135299362355,Sector
+Snyder,EnergyExpL_Prod,31,0.4742537046978418,Sector
+Snyder,Utilities,73,0.18176878862267476,Sector

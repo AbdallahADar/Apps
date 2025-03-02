@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Armstrong,953,0.5156482335218938,Overall
+Armstrong,HiTech,95,0.5651627264169475,Sector
+Armstrong,Agriculture,87,0.840880765629809,Sector
+Armstrong,Transportation,86,0.023466962151808657,Sector
+Armstrong,Consumer_Products,43,0.07378362294738139,Sector
+Armstrong,Unassigned,56,0.9716281494158752,Sector
+Armstrong,Communication,64,0.30543388794589676,Sector
+Armstrong,Trade,89,0.14688876251997962,Sector
+Armstrong,Business_Services,56,0.575750970358719,Sector
+Armstrong,Business_Products,99,0.5344033425032736,Sector
+Armstrong,Construction,11,0.634359955712795,Sector
+Armstrong,Services,22,0.8863098430024507,Sector
+Armstrong,Mining,94,0.44224215083305796,Sector
+Armstrong,Health_Care,53,0.8603623722507252,Sector
+Armstrong,EnergyExpL_Prod,66,0.10423907893874329,Sector
+Armstrong,Utilities,32,0.7698109122009433,Sector

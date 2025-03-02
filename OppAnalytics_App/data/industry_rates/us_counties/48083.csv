@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Coleman,810,0.49978348048404636,Overall
+Coleman,HiTech,45,0.2984200447406805,Sector
+Coleman,Agriculture,84,0.7945324520772574,Sector
+Coleman,Transportation,82,0.7182395307119809,Sector
+Coleman,Consumer_Products,2,0.44701357981695466,Sector
+Coleman,Unassigned,14,0.3999099286366201,Sector
+Coleman,Communication,53,0.8152118897384207,Sector
+Coleman,Trade,73,0.03716197039260172,Sector
+Coleman,Business_Services,59,0.35251978868134237,Sector
+Coleman,Business_Products,98,0.08992730565697005,Sector
+Coleman,Construction,63,0.4090230795645349,Sector
+Coleman,Services,30,0.9480241028449612,Sector
+Coleman,Mining,80,0.4576359293662666,Sector
+Coleman,Health_Care,49,0.1911990680997011,Sector
+Coleman,EnergyExpL_Prod,0,0.7860556624893364,Sector
+Coleman,Utilities,78,0.7518778744430666,Sector

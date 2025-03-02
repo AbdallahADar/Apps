@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pitkin,817,0.5867399240198339,Overall
+Pitkin,HiTech,7,0.7024044146121409,Sector
+Pitkin,Agriculture,96,0.30355463466227195,Sector
+Pitkin,Transportation,65,0.769891600184722,Sector
+Pitkin,Consumer_Products,93,0.2839013411405019,Sector
+Pitkin,Unassigned,57,0.8349141787657097,Sector
+Pitkin,Communication,3,0.315638667778126,Sector
+Pitkin,Trade,75,0.32289597957245264,Sector
+Pitkin,Business_Services,83,0.9199535361895655,Sector
+Pitkin,Business_Products,37,0.05514248293247237,Sector
+Pitkin,Construction,41,0.9527971330930897,Sector
+Pitkin,Services,49,0.8633635955523172,Sector
+Pitkin,Mining,54,0.5669803826068948,Sector
+Pitkin,Health_Care,94,0.9109872139115773,Sector
+Pitkin,EnergyExpL_Prod,51,0.824269296667183,Sector
+Pitkin,Utilities,12,0.1744044026284821,Sector

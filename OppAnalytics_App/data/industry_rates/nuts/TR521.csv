@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Konya,683,0.4638651222930356,Overall
+Konya,HiTech,30,0.2359526499864616,Sector
+Konya,Agriculture,9,0.7903582054564275,Sector
+Konya,Transportation,88,0.7365416481359959,Sector
+Konya,Consumer_Products,97,0.415745698797355,Sector
+Konya,Unassigned,52,0.23012955117052136,Sector
+Konya,Communication,88,0.8023678057352873,Sector
+Konya,Trade,8,0.41524693090779274,Sector
+Konya,Business_Services,61,0.7075638645780523,Sector
+Konya,Business_Products,25,0.6048010590056078,Sector
+Konya,Construction,2,0.26237194583541257,Sector
+Konya,Services,7,0.08056413925883943,Sector
+Konya,Mining,35,0.1117317733186497,Sector
+Konya,Health_Care,96,0.11038127467989078,Sector
+Konya,EnergyExpL_Prod,16,0.8664357606107974,Sector
+Konya,Utilities,69,0.5877845269184429,Sector

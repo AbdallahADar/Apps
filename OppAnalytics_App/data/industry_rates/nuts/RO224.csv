@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Galaţi,961,0.5512525251267743,Overall
+Galaţi,HiTech,93,0.8833678366352798,Sector
+Galaţi,Agriculture,81,0.8361606243210489,Sector
+Galaţi,Transportation,84,0.7659359649217077,Sector
+Galaţi,Consumer_Products,89,0.7927066443116983,Sector
+Galaţi,Unassigned,89,0.5027223399050648,Sector
+Galaţi,Communication,56,0.6305076164540471,Sector
+Galaţi,Trade,24,0.10272228087396051,Sector
+Galaţi,Business_Services,56,0.4676826335597476,Sector
+Galaţi,Business_Products,53,0.17726555752111017,Sector
+Galaţi,Construction,20,0.2549714948731626,Sector
+Galaţi,Services,91,0.10324102881953745,Sector
+Galaţi,Mining,76,0.921089933991444,Sector
+Galaţi,Health_Care,78,0.9361675360034397,Sector
+Galaţi,EnergyExpL_Prod,42,0.25936875948965754,Sector
+Galaţi,Utilities,29,0.6348776252207078,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Paulding,754,0.5649537489782206,Overall
+Paulding,HiTech,8,0.10759763169700609,Sector
+Paulding,Agriculture,82,0.6526319821540046,Sector
+Paulding,Transportation,89,0.38553739468708415,Sector
+Paulding,Consumer_Products,45,0.5750035165909892,Sector
+Paulding,Unassigned,33,0.801081364014214,Sector
+Paulding,Communication,28,0.16441196379164813,Sector
+Paulding,Trade,64,0.7775204529979034,Sector
+Paulding,Business_Services,36,0.6112614994924173,Sector
+Paulding,Business_Products,93,0.14924688845286727,Sector
+Paulding,Construction,23,0.8485051130571835,Sector
+Paulding,Services,63,0.23400698185721402,Sector
+Paulding,Mining,85,0.573595246109555,Sector
+Paulding,Health_Care,2,0.9624442567898741,Sector
+Paulding,EnergyExpL_Prod,32,0.8428985941818777,Sector
+Paulding,Utilities,71,0.7885633487994693,Sector

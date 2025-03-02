@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Putnam,560,0.5748826084687606,Overall
+Putnam,HiTech,2,0.7792805251880799,Sector
+Putnam,Agriculture,75,0.7040996436460563,Sector
+Putnam,Transportation,52,0.9668655425428394,Sector
+Putnam,Consumer_Products,25,0.05099904640709996,Sector
+Putnam,Unassigned,94,0.2676368379863814,Sector
+Putnam,Communication,3,0.011592476221807035,Sector
+Putnam,Trade,83,0.8639154081112638,Sector
+Putnam,Business_Services,1,0.5035553249833732,Sector
+Putnam,Business_Products,37,0.7773716822335929,Sector
+Putnam,Construction,51,0.20927122185529212,Sector
+Putnam,Services,13,0.8375679264611884,Sector
+Putnam,Mining,2,0.0006534607018411354,Sector
+Putnam,Health_Care,15,0.9687315466929142,Sector
+Putnam,EnergyExpL_Prod,35,0.6870426870666468,Sector
+Putnam,Utilities,72,0.9946557969330331,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Coshocton,773,0.5727820715809732,Overall
+Coshocton,HiTech,74,0.7346824965101083,Sector
+Coshocton,Agriculture,65,0.2578009796560954,Sector
+Coshocton,Transportation,65,0.9803174573008273,Sector
+Coshocton,Consumer_Products,58,0.8672877963207579,Sector
+Coshocton,Unassigned,5,0.803211553213048,Sector
+Coshocton,Communication,37,0.6876814922387463,Sector
+Coshocton,Trade,5,0.39731087732822357,Sector
+Coshocton,Business_Services,60,0.5190164746032997,Sector
+Coshocton,Business_Products,67,0.41099634431220744,Sector
+Coshocton,Construction,79,0.22375431219512,Sector
+Coshocton,Services,40,0.48996947304987715,Sector
+Coshocton,Mining,39,0.5228504860126151,Sector
+Coshocton,Health_Care,36,0.6914858642995313,Sector
+Coshocton,EnergyExpL_Prod,57,0.015503657067920673,Sector
+Coshocton,Utilities,86,0.9898618096062195,Sector

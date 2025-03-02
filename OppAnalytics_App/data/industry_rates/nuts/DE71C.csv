@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Offenbach, Landkreis",700,0.5111437972020443,Overall
+"Offenbach, Landkreis",HiTech,50,0.1427976738555643,Sector
+"Offenbach, Landkreis",Agriculture,5,0.022491297925546383,Sector
+"Offenbach, Landkreis",Transportation,43,0.8645476861348964,Sector
+"Offenbach, Landkreis",Consumer_Products,88,0.3062373647454446,Sector
+"Offenbach, Landkreis",Unassigned,3,0.7149347323740355,Sector
+"Offenbach, Landkreis",Communication,35,0.6009397576128378,Sector
+"Offenbach, Landkreis",Trade,26,0.786474700337563,Sector
+"Offenbach, Landkreis",Business_Services,99,0.1391317646589323,Sector
+"Offenbach, Landkreis",Business_Products,64,0.5142297328493568,Sector
+"Offenbach, Landkreis",Construction,58,0.29485643015578844,Sector
+"Offenbach, Landkreis",Services,78,0.18428216784748874,Sector
+"Offenbach, Landkreis",Mining,16,0.8287838878675878,Sector
+"Offenbach, Landkreis",Health_Care,40,0.9838623708879556,Sector
+"Offenbach, Landkreis",EnergyExpL_Prod,57,0.5114456512417026,Sector
+"Offenbach, Landkreis",Utilities,38,0.7721417395359647,Sector

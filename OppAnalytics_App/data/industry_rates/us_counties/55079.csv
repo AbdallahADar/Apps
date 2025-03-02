@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Milwaukee,679,0.5335836307444407,Overall
+Milwaukee,HiTech,31,0.20441985514627525,Sector
+Milwaukee,Agriculture,24,0.9610830433736055,Sector
+Milwaukee,Transportation,64,0.88330710256728,Sector
+Milwaukee,Consumer_Products,10,0.845611529992472,Sector
+Milwaukee,Unassigned,24,0.10026025941439898,Sector
+Milwaukee,Communication,39,0.7272342723144437,Sector
+Milwaukee,Trade,79,0.6151016260326491,Sector
+Milwaukee,Business_Services,98,0.8918222362819613,Sector
+Milwaukee,Business_Products,28,0.5213788061295782,Sector
+Milwaukee,Construction,22,0.4436670821618762,Sector
+Milwaukee,Services,0,0.2958483121617017,Sector
+Milwaukee,Mining,76,0.2626329084699698,Sector
+Milwaukee,Health_Care,62,0.12351504059160201,Sector
+Milwaukee,EnergyExpL_Prod,59,0.6805340072128172,Sector
+Milwaukee,Utilities,63,0.4473383793159793,Sector

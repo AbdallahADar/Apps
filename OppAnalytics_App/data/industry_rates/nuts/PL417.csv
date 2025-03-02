@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Leszczyński,591,0.4450116032868684,Overall
+Leszczyński,HiTech,29,0.539239514289354,Sector
+Leszczyński,Agriculture,83,0.7127477731681805,Sector
+Leszczyński,Transportation,28,0.28061622638894,Sector
+Leszczyński,Consumer_Products,10,0.7714130396999539,Sector
+Leszczyński,Unassigned,32,0.0730631067735199,Sector
+Leszczyński,Communication,18,0.5136420473513249,Sector
+Leszczyński,Trade,40,0.9413975162224459,Sector
+Leszczyński,Business_Services,83,0.41431175228954753,Sector
+Leszczyński,Business_Products,22,0.12454727912678631,Sector
+Leszczyński,Construction,82,0.61733169065361,Sector
+Leszczyński,Services,91,0.026829091499875557,Sector
+Leszczyński,Mining,10,0.4884626848382492,Sector
+Leszczyński,Health_Care,35,0.9312918416405139,Sector
+Leszczyński,EnergyExpL_Prod,17,0.17185958366400178,Sector
+Leszczyński,Utilities,11,0.0684209016967231,Sector

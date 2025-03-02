@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Henderson,650,0.4924631381156031,Overall
+Henderson,HiTech,61,0.13197637549921115,Sector
+Henderson,Agriculture,77,0.6413305968714552,Sector
+Henderson,Transportation,32,0.5333588759902497,Sector
+Henderson,Consumer_Products,4,0.6226642357899137,Sector
+Henderson,Unassigned,32,0.17046967605990648,Sector
+Henderson,Communication,50,0.6275252920637816,Sector
+Henderson,Trade,48,0.30276454248837925,Sector
+Henderson,Business_Services,2,0.6515217893791257,Sector
+Henderson,Business_Products,63,0.6680108855244836,Sector
+Henderson,Construction,32,0.19612581043209676,Sector
+Henderson,Services,81,0.5538510815236071,Sector
+Henderson,Mining,30,0.12293419053125187,Sector
+Henderson,Health_Care,89,0.9476549687988269,Sector
+Henderson,EnergyExpL_Prod,4,0.5070915823348977,Sector
+Henderson,Utilities,45,0.7096671684468595,Sector

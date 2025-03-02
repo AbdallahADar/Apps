@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Angelina,925,0.5063434545202322,Overall
+Angelina,HiTech,9,0.7424587337941472,Sector
+Angelina,Agriculture,49,0.2860683411958109,Sector
+Angelina,Transportation,72,0.3262525449445952,Sector
+Angelina,Consumer_Products,33,0.2002541743733186,Sector
+Angelina,Unassigned,89,0.40646519216138455,Sector
+Angelina,Communication,84,0.1539683998233755,Sector
+Angelina,Trade,99,0.962193699086962,Sector
+Angelina,Business_Services,90,0.17837184185318233,Sector
+Angelina,Business_Products,88,0.8196824513583757,Sector
+Angelina,Construction,71,0.34178175129628263,Sector
+Angelina,Services,45,0.9457108535762373,Sector
+Angelina,Mining,53,0.7506598677218895,Sector
+Angelina,Health_Care,54,0.8406590485468969,Sector
+Angelina,EnergyExpL_Prod,61,0.18824609206252663,Sector
+Angelina,Utilities,28,0.4523788260084981,Sector

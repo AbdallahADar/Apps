@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Maaseik,525,0.4583466667163695,Overall
+Arr. Maaseik,HiTech,17,0.4766689362734656,Sector
+Arr. Maaseik,Agriculture,64,0.7139092802341305,Sector
+Arr. Maaseik,Transportation,95,0.8107354518816718,Sector
+Arr. Maaseik,Consumer_Products,19,0.04672067808142144,Sector
+Arr. Maaseik,Unassigned,24,0.7279505870718306,Sector
+Arr. Maaseik,Communication,33,0.02702719307246937,Sector
+Arr. Maaseik,Trade,11,0.998617258377747,Sector
+Arr. Maaseik,Business_Services,0,0.29113562126640213,Sector
+Arr. Maaseik,Business_Products,37,0.27374152058475587,Sector
+Arr. Maaseik,Construction,94,0.24427562792943425,Sector
+Arr. Maaseik,Services,29,0.26888582487478485,Sector
+Arr. Maaseik,Mining,7,0.10674604657678022,Sector
+Arr. Maaseik,Health_Care,37,0.8599666376733127,Sector
+Arr. Maaseik,EnergyExpL_Prod,57,0.614812138571086,Sector
+Arr. Maaseik,Utilities,1,0.41400719827625043,Sector

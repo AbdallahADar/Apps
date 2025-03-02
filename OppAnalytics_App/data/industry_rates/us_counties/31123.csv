@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Morrill,836,0.40702177685404034,Overall
+Morrill,HiTech,17,0.12041233639115934,Sector
+Morrill,Agriculture,68,0.10437165961331163,Sector
+Morrill,Transportation,35,0.8466185741475205,Sector
+Morrill,Consumer_Products,77,0.044299845419082384,Sector
+Morrill,Unassigned,14,0.44846155177010816,Sector
+Morrill,Communication,87,0.38204502216691505,Sector
+Morrill,Trade,68,0.6648976871812251,Sector
+Morrill,Business_Services,94,0.34191879254088586,Sector
+Morrill,Business_Products,66,0.3578477398254529,Sector
+Morrill,Construction,10,0.8523473579934638,Sector
+Morrill,Services,47,0.11609994856525829,Sector
+Morrill,Mining,42,0.4567968243769641,Sector
+Morrill,Health_Care,89,0.842808427951819,Sector
+Morrill,EnergyExpL_Prod,45,0.2895272070543782,Sector
+Morrill,Utilities,77,0.236873677813062,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Tielt,484,0.3565762887536806,Overall
+Arr. Tielt,HiTech,8,0.07383584687867517,Sector
+Arr. Tielt,Agriculture,59,0.4528462344581995,Sector
+Arr. Tielt,Transportation,8,0.6867186089988854,Sector
+Arr. Tielt,Consumer_Products,7,0.013611772761331187,Sector
+Arr. Tielt,Unassigned,30,0.5067291747946695,Sector
+Arr. Tielt,Communication,97,0.30277611189708675,Sector
+Arr. Tielt,Trade,27,0.14723465437632788,Sector
+Arr. Tielt,Business_Services,9,0.23382679713412968,Sector
+Arr. Tielt,Business_Products,8,0.047529451396376654,Sector
+Arr. Tielt,Construction,21,0.42636563559408514,Sector
+Arr. Tielt,Services,90,0.5652339976563142,Sector
+Arr. Tielt,Mining,55,0.7844335455636954,Sector
+Arr. Tielt,Health_Care,3,0.6001246702156557,Sector
+Arr. Tielt,EnergyExpL_Prod,28,0.44514571235139255,Sector
+Arr. Tielt,Utilities,34,0.062232117228383954,Sector

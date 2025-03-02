@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Avoyelles,816,0.4744567367714366,Overall
+Avoyelles,HiTech,18,0.24131926144811167,Sector
+Avoyelles,Agriculture,40,0.9926027810134398,Sector
+Avoyelles,Transportation,50,0.8646599476802126,Sector
+Avoyelles,Consumer_Products,46,0.37414361677080565,Sector
+Avoyelles,Unassigned,67,0.09930687055817633,Sector
+Avoyelles,Communication,42,0.834454659450762,Sector
+Avoyelles,Trade,49,0.7888586814193889,Sector
+Avoyelles,Business_Services,10,0.24548332934749673,Sector
+Avoyelles,Business_Products,81,0.03730790465251643,Sector
+Avoyelles,Construction,48,0.7887406983193054,Sector
+Avoyelles,Services,83,0.9973060717543278,Sector
+Avoyelles,Mining,30,0.14430593671063086,Sector
+Avoyelles,Health_Care,72,0.07011654077401908,Sector
+Avoyelles,EnergyExpL_Prod,99,0.6293594127646513,Sector
+Avoyelles,Utilities,81,0.008885338907705154,Sector

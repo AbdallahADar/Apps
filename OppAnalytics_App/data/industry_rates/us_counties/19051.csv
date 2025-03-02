@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Davis,603,0.48600230034910186,Overall
+Davis,HiTech,82,0.547545723564626,Sector
+Davis,Agriculture,42,0.19391455638915733,Sector
+Davis,Transportation,4,0.841317863519579,Sector
+Davis,Consumer_Products,33,0.9668420663235411,Sector
+Davis,Unassigned,13,0.9588113787407946,Sector
+Davis,Communication,56,0.29368670017327725,Sector
+Davis,Trade,22,0.14816443308303728,Sector
+Davis,Business_Services,15,0.5704016744348328,Sector
+Davis,Business_Products,46,0.7753617397898636,Sector
+Davis,Construction,77,0.14684166115386266,Sector
+Davis,Services,21,0.291625866375251,Sector
+Davis,Mining,35,0.903964906119914,Sector
+Davis,Health_Care,25,0.5294535126154303,Sector
+Davis,EnergyExpL_Prod,98,0.014877178746617203,Sector
+Davis,Utilities,34,0.10722524420674462,Sector

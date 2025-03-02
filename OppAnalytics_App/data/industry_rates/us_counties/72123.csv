@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Salinas,823,0.3154751435919897,Overall
+Salinas,HiTech,63,0.5830276727300774,Sector
+Salinas,Agriculture,92,0.26162012735423124,Sector
+Salinas,Transportation,91,0.24001267658969683,Sector
+Salinas,Consumer_Products,14,0.561733357171439,Sector
+Salinas,Unassigned,61,0.9032546742369021,Sector
+Salinas,Communication,33,0.07370131955884929,Sector
+Salinas,Trade,96,0.43607648051191494,Sector
+Salinas,Business_Services,35,0.21794471923870162,Sector
+Salinas,Business_Products,73,0.1764956041860145,Sector
+Salinas,Construction,92,0.08281964659814589,Sector
+Salinas,Services,27,0.4113275972592847,Sector
+Salinas,Mining,33,0.023288197865514948,Sector
+Salinas,Health_Care,12,0.0300797853408572,Sector
+Salinas,EnergyExpL_Prod,50,0.14965374985526148,Sector
+Salinas,Utilities,51,0.5810915453829534,Sector

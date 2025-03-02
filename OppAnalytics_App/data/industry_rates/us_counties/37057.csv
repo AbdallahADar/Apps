@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Davidson,634,0.4874159169309245,Overall
+Davidson,HiTech,85,0.9301155016894994,Sector
+Davidson,Agriculture,32,0.7957796074260465,Sector
+Davidson,Transportation,27,0.14139728451575495,Sector
+Davidson,Consumer_Products,96,0.745765516801262,Sector
+Davidson,Unassigned,86,0.9816443308290627,Sector
+Davidson,Communication,4,0.041279097793322506,Sector
+Davidson,Trade,22,0.496254644849382,Sector
+Davidson,Business_Services,35,0.21502088764114724,Sector
+Davidson,Business_Products,13,0.3067382260581617,Sector
+Davidson,Construction,37,0.27755718711777644,Sector
+Davidson,Services,43,0.36290532676693477,Sector
+Davidson,Mining,1,0.02455656863900868,Sector
+Davidson,Health_Care,89,0.8238506915941484,Sector
+Davidson,EnergyExpL_Prod,47,0.807739900000566,Sector
+Davidson,Utilities,17,0.3606339822417949,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rock Island,782,0.48502515873891816,Overall
+Rock Island,HiTech,36,0.43521357058047494,Sector
+Rock Island,Agriculture,74,0.5326621399806376,Sector
+Rock Island,Transportation,58,0.4989111989945626,Sector
+Rock Island,Consumer_Products,78,0.24918139359822045,Sector
+Rock Island,Unassigned,21,0.2204735234553451,Sector
+Rock Island,Communication,90,0.8776133951447298,Sector
+Rock Island,Trade,42,0.664280934848016,Sector
+Rock Island,Business_Services,36,0.9688663850674445,Sector
+Rock Island,Business_Products,40,0.2878000949563728,Sector
+Rock Island,Construction,3,0.7016414679043265,Sector
+Rock Island,Services,21,0.5450393931955521,Sector
+Rock Island,Mining,34,0.02303165385642547,Sector
+Rock Island,Health_Care,96,0.3764327481111017,Sector
+Rock Island,EnergyExpL_Prod,62,0.3515518146401473,Sector
+Rock Island,Utilities,91,0.542677666750416,Sector

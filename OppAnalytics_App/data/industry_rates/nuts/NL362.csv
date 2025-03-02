@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Delft en Westland,740,0.4696323373201475,Overall
+Delft en Westland,HiTech,20,0.5943439782734027,Sector
+Delft en Westland,Agriculture,17,0.671990156831465,Sector
+Delft en Westland,Transportation,97,0.8882567486445202,Sector
+Delft en Westland,Consumer_Products,44,0.48101396449590805,Sector
+Delft en Westland,Unassigned,42,0.8053738334569128,Sector
+Delft en Westland,Communication,71,0.7012171594954381,Sector
+Delft en Westland,Trade,92,0.6686944013200535,Sector
+Delft en Westland,Business_Services,17,0.13458765553735852,Sector
+Delft en Westland,Business_Products,17,0.6015048965448069,Sector
+Delft en Westland,Construction,22,0.08103504159780206,Sector
+Delft en Westland,Services,88,0.019807125033316608,Sector
+Delft en Westland,Mining,64,0.2762372449962479,Sector
+Delft en Westland,Health_Care,76,0.18313804214712348,Sector
+Delft en Westland,EnergyExpL_Prod,35,0.19157378191249996,Sector
+Delft en Westland,Utilities,38,0.7457110295153562,Sector

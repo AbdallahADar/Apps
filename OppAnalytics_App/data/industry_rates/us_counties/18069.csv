@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Huntington,711,0.3657663156038979,Overall
+Huntington,HiTech,88,0.14350587878618526,Sector
+Huntington,Agriculture,9,0.2782950309520167,Sector
+Huntington,Transportation,17,0.28144336841178397,Sector
+Huntington,Consumer_Products,6,0.5622263524672841,Sector
+Huntington,Unassigned,70,0.6703999240605832,Sector
+Huntington,Communication,31,0.3708785688828161,Sector
+Huntington,Trade,57,0.8315161885835511,Sector
+Huntington,Business_Services,65,0.47041348266842387,Sector
+Huntington,Business_Products,97,0.1668888261826431,Sector
+Huntington,Construction,73,0.378598731003436,Sector
+Huntington,Services,3,0.06269962851934463,Sector
+Huntington,Mining,35,0.5204584425420649,Sector
+Huntington,Health_Care,92,0.19784914615496207,Sector
+Huntington,EnergyExpL_Prod,36,0.15348252938565232,Sector
+Huntington,Utilities,32,0.39783863545772125,Sector

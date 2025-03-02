@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Terry,874,0.5793914199957073,Overall
+Terry,HiTech,62,0.9637290365438178,Sector
+Terry,Agriculture,74,0.2216187989399957,Sector
+Terry,Transportation,38,0.8568333129392346,Sector
+Terry,Consumer_Products,92,0.7371790677368373,Sector
+Terry,Unassigned,68,0.9974369634646317,Sector
+Terry,Communication,48,0.701808592256278,Sector
+Terry,Trade,61,0.08873278852967126,Sector
+Terry,Business_Services,80,0.4085832833592623,Sector
+Terry,Business_Products,81,0.527028617289756,Sector
+Terry,Construction,53,0.8045934349473447,Sector
+Terry,Services,12,0.117226718542911,Sector
+Terry,Mining,65,0.48516210358092415,Sector
+Terry,Health_Care,10,0.6090404228763161,Sector
+Terry,EnergyExpL_Prod,80,0.8252958161841417,Sector
+Terry,Utilities,50,0.3466023427444871,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Marin,768,0.33857368584428277,Overall
+Marin,HiTech,85,0.15623746143269435,Sector
+Marin,Agriculture,70,0.6382624239063786,Sector
+Marin,Transportation,82,0.2076168762488253,Sector
+Marin,Consumer_Products,72,0.10339415179936895,Sector
+Marin,Unassigned,75,0.9760536040436917,Sector
+Marin,Communication,69,0.1497852954124662,Sector
+Marin,Trade,71,0.2723996953249428,Sector
+Marin,Business_Services,7,0.9751011586790702,Sector
+Marin,Business_Products,41,0.1303509293858932,Sector
+Marin,Construction,47,0.2346758026918465,Sector
+Marin,Services,7,0.019211791386405386,Sector
+Marin,Mining,37,0.5399922192130405,Sector
+Marin,Health_Care,53,0.06460743885702258,Sector
+Marin,EnergyExpL_Prod,37,0.29673327475210776,Sector
+Marin,Utilities,15,0.31418316453048745,Sector

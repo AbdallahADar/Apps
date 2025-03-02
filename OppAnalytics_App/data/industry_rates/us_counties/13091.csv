@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dodge,777,0.5068674862659275,Overall
+Dodge,HiTech,61,0.9980476428806204,Sector
+Dodge,Agriculture,84,0.35962203036405427,Sector
+Dodge,Transportation,18,0.1557067930333612,Sector
+Dodge,Consumer_Products,37,0.06495891669832898,Sector
+Dodge,Unassigned,13,0.5478988291478785,Sector
+Dodge,Communication,10,0.4377995114975394,Sector
+Dodge,Trade,81,0.6329238881013174,Sector
+Dodge,Business_Services,35,0.5133757277074015,Sector
+Dodge,Business_Products,21,0.2565746551113972,Sector
+Dodge,Construction,23,0.636633825610298,Sector
+Dodge,Services,98,0.596257355488268,Sector
+Dodge,Mining,68,0.7543679900309253,Sector
+Dodge,Health_Care,62,0.6218052657240779,Sector
+Dodge,EnergyExpL_Prod,71,0.12154986890388664,Sector
+Dodge,Utilities,95,0.9054899936895592,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Giresun,773,0.33966589166956035,Overall
+Giresun,HiTech,47,0.20483605309595854,Sector
+Giresun,Agriculture,25,0.4132802782374462,Sector
+Giresun,Transportation,93,0.019107858222456753,Sector
+Giresun,Consumer_Products,4,0.4355843797841815,Sector
+Giresun,Unassigned,69,0.3456936654720909,Sector
+Giresun,Communication,31,0.6476672377612952,Sector
+Giresun,Trade,24,0.7985601118177839,Sector
+Giresun,Business_Services,39,0.10429768253585092,Sector
+Giresun,Business_Products,84,0.6475233450556717,Sector
+Giresun,Construction,64,0.0547939581662229,Sector
+Giresun,Services,62,0.010877060126598281,Sector
+Giresun,Mining,64,0.14349215683010919,Sector
+Giresun,Health_Care,33,0.477609183826042,Sector
+Giresun,EnergyExpL_Prod,80,0.12785750752849112,Sector
+Giresun,Utilities,54,0.6638078965832067,Sector

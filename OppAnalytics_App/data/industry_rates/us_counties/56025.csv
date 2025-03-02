@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Natrona,616,0.4193877375972343,Overall
+Natrona,HiTech,19,0.2499098041882586,Sector
+Natrona,Agriculture,1,0.6936811902401601,Sector
+Natrona,Transportation,83,0.5771096684425666,Sector
+Natrona,Consumer_Products,60,0.2236026102537254,Sector
+Natrona,Unassigned,10,0.27982241016370757,Sector
+Natrona,Communication,33,0.6973100302806984,Sector
+Natrona,Trade,3,0.21802882831909698,Sector
+Natrona,Business_Services,87,0.635210351259555,Sector
+Natrona,Business_Products,29,0.056366795752236465,Sector
+Natrona,Construction,39,0.36534986600271735,Sector
+Natrona,Services,90,0.07179580230544325,Sector
+Natrona,Mining,56,0.36578516656738913,Sector
+Natrona,Health_Care,11,0.7758279994995798,Sector
+Natrona,EnergyExpL_Prod,26,0.7101142850021641,Sector
+Natrona,Utilities,69,0.3709012556812161,Sector

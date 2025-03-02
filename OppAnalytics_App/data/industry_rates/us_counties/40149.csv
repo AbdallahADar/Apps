@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Washita,748,0.4808732766355843,Overall
+Washita,HiTech,2,0.7350268775746562,Sector
+Washita,Agriculture,69,0.7776756129413799,Sector
+Washita,Transportation,27,0.052684274597246894,Sector
+Washita,Consumer_Products,98,0.9018080796201883,Sector
+Washita,Unassigned,75,0.3802342015171851,Sector
+Washita,Communication,12,0.6296843210057611,Sector
+Washita,Trade,36,0.4879603320062924,Sector
+Washita,Business_Services,90,0.5001055993153942,Sector
+Washita,Business_Products,83,0.44683756308366174,Sector
+Washita,Construction,16,0.9738517309939067,Sector
+Washita,Services,72,0.5027596195927324,Sector
+Washita,Mining,65,0.028107598773487563,Sector
+Washita,Health_Care,0,0.10113717351220852,Sector
+Washita,EnergyExpL_Prod,67,0.27506840755977047,Sector
+Washita,Utilities,36,0.4201577574398935,Sector

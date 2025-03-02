@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Miller,859,0.5563395932173804,Overall
+Miller,HiTech,44,0.38177974942869086,Sector
+Miller,Agriculture,79,0.9599345661056469,Sector
+Miller,Transportation,54,0.5962352138591193,Sector
+Miller,Consumer_Products,13,0.7273675489199083,Sector
+Miller,Unassigned,76,0.686544650342911,Sector
+Miller,Communication,90,0.07417137605345003,Sector
+Miller,Trade,48,0.6504396664224183,Sector
+Miller,Business_Services,33,0.05480600282441772,Sector
+Miller,Business_Products,90,0.6691037746481115,Sector
+Miller,Construction,97,0.7595053074910507,Sector
+Miller,Services,45,0.33265939186805926,Sector
+Miller,Mining,96,0.7667284278005659,Sector
+Miller,Health_Care,26,0.05996455651694654,Sector
+Miller,EnergyExpL_Prod,26,0.7898048269323308,Sector
+Miller,Utilities,42,0.8360488390470772,Sector

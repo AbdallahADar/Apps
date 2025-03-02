@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Río Grande,774,0.5160641486767098,Overall
+Río Grande,HiTech,1,0.28452611131770134,Sector
+Río Grande,Agriculture,83,0.544692020913436,Sector
+Río Grande,Transportation,98,0.7426555170890556,Sector
+Río Grande,Consumer_Products,24,0.14365116050352178,Sector
+Río Grande,Unassigned,10,0.8712903452180576,Sector
+Río Grande,Communication,56,0.913006778203758,Sector
+Río Grande,Trade,68,0.8213778455185359,Sector
+Río Grande,Business_Services,93,0.795186554985282,Sector
+Río Grande,Business_Products,61,0.8512219078525555,Sector
+Río Grande,Construction,28,0.7111452713577779,Sector
+Río Grande,Services,82,0.3046566684286799,Sector
+Río Grande,Mining,48,0.2111418458449359,Sector
+Río Grande,Health_Care,10,0.18663266934267453,Sector
+Río Grande,EnergyExpL_Prod,92,0.08931502695518323,Sector
+Río Grande,Utilities,20,0.2704625066194918,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kalamazoo,659,0.46441781875769805,Overall
+Kalamazoo,HiTech,80,0.06057125706206079,Sector
+Kalamazoo,Agriculture,58,0.5630801712516448,Sector
+Kalamazoo,Transportation,31,0.6093937809936807,Sector
+Kalamazoo,Consumer_Products,10,0.8730423196429136,Sector
+Kalamazoo,Unassigned,43,0.44300750266830335,Sector
+Kalamazoo,Communication,5,0.6124656229201481,Sector
+Kalamazoo,Trade,51,0.8468756485142269,Sector
+Kalamazoo,Business_Services,49,0.1806207717635825,Sector
+Kalamazoo,Business_Products,41,0.8028145997090981,Sector
+Kalamazoo,Construction,28,0.11874803984242355,Sector
+Kalamazoo,Services,83,0.2576990618379197,Sector
+Kalamazoo,Mining,37,0.8005554915606925,Sector
+Kalamazoo,Health_Care,22,0.549692801542586,Sector
+Kalamazoo,EnergyExpL_Prod,37,0.2165474197044427,Sector
+Kalamazoo,Utilities,84,0.031152792351746394,Sector

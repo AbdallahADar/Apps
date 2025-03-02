@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Murray,791,0.5340883332323,Overall
+Murray,HiTech,87,0.8084871181858617,Sector
+Murray,Agriculture,5,0.3394114869815691,Sector
+Murray,Transportation,53,0.3393034066449486,Sector
+Murray,Consumer_Products,4,0.1318551138545826,Sector
+Murray,Unassigned,42,0.3715906803274982,Sector
+Murray,Communication,95,0.30886019041915236,Sector
+Murray,Trade,53,0.9976301697309483,Sector
+Murray,Business_Services,91,0.48943390441942836,Sector
+Murray,Business_Products,20,0.5502479354162991,Sector
+Murray,Construction,92,0.6559750875254937,Sector
+Murray,Services,53,0.9663703006286954,Sector
+Murray,Mining,82,0.7921477400876161,Sector
+Murray,Health_Care,65,0.020405618877778364,Sector
+Murray,EnergyExpL_Prod,23,0.757083781332667,Sector
+Murray,Utilities,26,0.48252246405196153,Sector

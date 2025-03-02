@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bond,895,0.49199000642222435,Overall
+Bond,HiTech,40,0.052980221932117266,Sector
+Bond,Agriculture,28,0.8427883666800721,Sector
+Bond,Transportation,1,0.7803693429322994,Sector
+Bond,Consumer_Products,75,0.08279294749675226,Sector
+Bond,Unassigned,55,0.7236289514311419,Sector
+Bond,Communication,54,0.77012817842899,Sector
+Bond,Trade,95,0.17257936316305944,Sector
+Bond,Business_Services,96,0.7754176274556495,Sector
+Bond,Business_Products,81,0.4092631867301574,Sector
+Bond,Construction,22,0.03162102003044365,Sector
+Bond,Services,79,0.6432655538008882,Sector
+Bond,Mining,54,0.8634319999339333,Sector
+Bond,Health_Care,75,0.44119679762840824,Sector
+Bond,EnergyExpL_Prod,72,0.49649465251617686,Sector
+Bond,Utilities,68,0.293891886173276,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Barnwell,665,0.5985051043420426,Overall
+Barnwell,HiTech,40,0.33791904007080087,Sector
+Barnwell,Agriculture,45,0.7617341251552617,Sector
+Barnwell,Transportation,25,0.9481112193541225,Sector
+Barnwell,Consumer_Products,17,0.18302948408350106,Sector
+Barnwell,Unassigned,97,0.784088626596742,Sector
+Barnwell,Communication,56,0.9686673572370913,Sector
+Barnwell,Trade,74,0.8700633609136,Sector
+Barnwell,Business_Services,21,0.3637261586632129,Sector
+Barnwell,Business_Products,21,0.504334953230553,Sector
+Barnwell,Construction,2,0.5617665782225428,Sector
+Barnwell,Services,52,0.7955755592646365,Sector
+Barnwell,Mining,24,0.0032921950550861556,Sector
+Barnwell,Health_Care,87,0.8121199214500904,Sector
+Barnwell,EnergyExpL_Prod,37,0.11547023408611634,Sector
+Barnwell,Utilities,67,0.9676777517472819,Sector

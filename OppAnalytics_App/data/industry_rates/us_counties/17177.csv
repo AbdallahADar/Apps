@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stephenson,762,0.5332471562573547,Overall
+Stephenson,HiTech,54,0.6761878040739344,Sector
+Stephenson,Agriculture,51,0.21924069364481058,Sector
+Stephenson,Transportation,5,0.31723487431842556,Sector
+Stephenson,Consumer_Products,51,0.7757068699764603,Sector
+Stephenson,Unassigned,95,0.3356601197452075,Sector
+Stephenson,Communication,35,0.6834473692729431,Sector
+Stephenson,Trade,46,0.646523089249843,Sector
+Stephenson,Business_Services,50,0.695583806223025,Sector
+Stephenson,Business_Products,48,0.2609005173337994,Sector
+Stephenson,Construction,83,0.0069410126418012474,Sector
+Stephenson,Services,61,0.6195741459835741,Sector
+Stephenson,Mining,18,0.9321434366522939,Sector
+Stephenson,Health_Care,19,0.8995259132042656,Sector
+Stephenson,EnergyExpL_Prod,61,0.7483614371886906,Sector
+Stephenson,Utilities,85,0.18167625435124735,Sector

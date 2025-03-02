@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Roseau,727,0.42072884508006686,Overall
+Roseau,HiTech,95,0.5491458615315509,Sector
+Roseau,Agriculture,20,0.462214604742178,Sector
+Roseau,Transportation,53,0.16339565072807882,Sector
+Roseau,Consumer_Products,16,0.8624976563935297,Sector
+Roseau,Unassigned,19,0.09046224464865493,Sector
+Roseau,Communication,55,0.8013652404631405,Sector
+Roseau,Trade,55,0.08961441484141797,Sector
+Roseau,Business_Services,65,0.34272508734386375,Sector
+Roseau,Business_Products,78,0.9619369905757376,Sector
+Roseau,Construction,47,0.27981185287335975,Sector
+Roseau,Services,20,0.5262621214801605,Sector
+Roseau,Mining,78,0.17761349537410565,Sector
+Roseau,Health_Care,49,0.16826333470395405,Sector
+Roseau,EnergyExpL_Prod,67,0.7005564009194933,Sector
+Roseau,Utilities,10,0.13506771958177766,Sector

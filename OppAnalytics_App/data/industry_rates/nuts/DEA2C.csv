@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rhein-Sieg-Kreis,729,0.40081303008256575,Overall
+Rhein-Sieg-Kreis,HiTech,84,0.0722147384819114,Sector
+Rhein-Sieg-Kreis,Agriculture,15,0.19747897723595687,Sector
+Rhein-Sieg-Kreis,Transportation,8,0.4937633975635961,Sector
+Rhein-Sieg-Kreis,Consumer_Products,4,0.9819894471056692,Sector
+Rhein-Sieg-Kreis,Unassigned,61,0.8711728664387828,Sector
+Rhein-Sieg-Kreis,Communication,91,0.605209687882654,Sector
+Rhein-Sieg-Kreis,Trade,34,0.06310992603838139,Sector
+Rhein-Sieg-Kreis,Business_Services,11,0.5370498830075318,Sector
+Rhein-Sieg-Kreis,Business_Products,1,0.12922487975945307,Sector
+Rhein-Sieg-Kreis,Construction,20,0.6797527679488828,Sector
+Rhein-Sieg-Kreis,Services,81,0.49378360669851307,Sector
+Rhein-Sieg-Kreis,Mining,79,0.1752384235637009,Sector
+Rhein-Sieg-Kreis,Health_Care,92,0.009912391487664873,Sector
+Rhein-Sieg-Kreis,EnergyExpL_Prod,78,0.20203571145346033,Sector
+Rhein-Sieg-Kreis,Utilities,70,0.500258746572327,Sector

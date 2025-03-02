@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Blekinge län,742,0.614984051208391,Overall
+Blekinge län,HiTech,17,0.72872361736685,Sector
+Blekinge län,Agriculture,64,0.0604236977751581,Sector
+Blekinge län,Transportation,44,0.11307103939392515,Sector
+Blekinge län,Consumer_Products,50,0.7628388334627917,Sector
+Blekinge län,Unassigned,4,0.6509152880520631,Sector
+Blekinge län,Communication,11,0.40647003667325554,Sector
+Blekinge län,Trade,87,0.821475902771694,Sector
+Blekinge län,Business_Services,88,0.5765294689745551,Sector
+Blekinge län,Business_Products,54,0.971796489324427,Sector
+Blekinge län,Construction,84,0.31850735169350775,Sector
+Blekinge län,Services,67,0.5769015877846794,Sector
+Blekinge län,Mining,99,0.943601508133758,Sector
+Blekinge län,Health_Care,36,0.7706896892217545,Sector
+Blekinge län,EnergyExpL_Prod,37,0.6188470881045933,Sector
+Blekinge län,Utilities,0,0.9039691693928531,Sector

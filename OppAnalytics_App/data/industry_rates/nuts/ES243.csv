@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zaragoza,779,0.39516775479216315,Overall
+Zaragoza,HiTech,96,0.2697593802803028,Sector
+Zaragoza,Agriculture,95,0.2683600297123676,Sector
+Zaragoza,Transportation,74,0.7180301007250209,Sector
+Zaragoza,Consumer_Products,4,0.7379179782091854,Sector
+Zaragoza,Unassigned,13,0.7044718189184531,Sector
+Zaragoza,Communication,1,0.6049571873918962,Sector
+Zaragoza,Trade,50,0.02632271346893189,Sector
+Zaragoza,Business_Services,57,0.06305510514110457,Sector
+Zaragoza,Business_Products,86,0.14488548623933506,Sector
+Zaragoza,Construction,40,0.8992087431134576,Sector
+Zaragoza,Services,62,0.5038753413490302,Sector
+Zaragoza,Mining,67,0.13236917472324694,Sector
+Zaragoza,Health_Care,0,0.43510113205035406,Sector
+Zaragoza,EnergyExpL_Prod,52,0.2782072808534387,Sector
+Zaragoza,Utilities,82,0.14099484970632215,Sector

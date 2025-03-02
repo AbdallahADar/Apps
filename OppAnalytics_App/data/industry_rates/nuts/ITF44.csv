@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Brindisi,747,0.5217109267072154,Overall
+Brindisi,HiTech,20,0.9910472466489696,Sector
+Brindisi,Agriculture,77,0.5252939631867837,Sector
+Brindisi,Transportation,56,0.9895082606186383,Sector
+Brindisi,Consumer_Products,91,0.07859948185995247,Sector
+Brindisi,Unassigned,74,0.098639179164559,Sector
+Brindisi,Communication,6,0.4276058709646009,Sector
+Brindisi,Trade,80,0.9451147626620818,Sector
+Brindisi,Business_Services,29,0.6754030935319506,Sector
+Brindisi,Business_Products,23,0.3423478879473134,Sector
+Brindisi,Construction,89,0.29014931117431675,Sector
+Brindisi,Services,42,0.07890916467534848,Sector
+Brindisi,Mining,48,0.7740484089932386,Sector
+Brindisi,Health_Care,6,0.9691283732478411,Sector
+Brindisi,EnergyExpL_Prod,96,0.3950866479000146,Sector
+Brindisi,Utilities,10,0.24478224803262272,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Euskirchen,702,0.4275567858612432,Overall
+Euskirchen,HiTech,98,0.4433539476718985,Sector
+Euskirchen,Agriculture,28,0.38539297966602604,Sector
+Euskirchen,Transportation,3,0.7195447388016842,Sector
+Euskirchen,Consumer_Products,27,0.2747809150064494,Sector
+Euskirchen,Unassigned,66,0.11084158729895721,Sector
+Euskirchen,Communication,93,0.4417944619812938,Sector
+Euskirchen,Trade,91,0.038769988513444154,Sector
+Euskirchen,Business_Services,22,0.2844210818563021,Sector
+Euskirchen,Business_Products,45,0.6837917848253214,Sector
+Euskirchen,Construction,28,0.6695727525086775,Sector
+Euskirchen,Services,56,0.061552178077150965,Sector
+Euskirchen,Mining,3,0.7843652052050185,Sector
+Euskirchen,Health_Care,85,0.8805183195171236,Sector
+Euskirchen,EnergyExpL_Prod,53,0.08953279180443185,Sector
+Euskirchen,Utilities,4,0.5451190551848686,Sector

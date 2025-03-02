@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Orange,620,0.5920361223552706,Overall
+Orange,HiTech,39,0.7665120863077675,Sector
+Orange,Agriculture,31,0.7942067626086184,Sector
+Orange,Transportation,21,0.8626185544249078,Sector
+Orange,Consumer_Products,49,0.9616306566253374,Sector
+Orange,Unassigned,22,0.8659979214992624,Sector
+Orange,Communication,25,0.8590140726435525,Sector
+Orange,Trade,60,0.862826824073676,Sector
+Orange,Business_Services,85,0.8204407620394133,Sector
+Orange,Business_Products,5,0.36174410441652605,Sector
+Orange,Construction,97,0.2830314344274719,Sector
+Orange,Services,89,0.0712551767351356,Sector
+Orange,Mining,14,0.2732663627713139,Sector
+Orange,Health_Care,4,0.4765490143817557,Sector
+Orange,EnergyExpL_Prod,75,0.39779804641459904,Sector
+Orange,Utilities,4,0.22365005595972065,Sector

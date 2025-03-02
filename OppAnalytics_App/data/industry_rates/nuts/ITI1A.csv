@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Grosseto,933,0.66180496903457,Overall
+Grosseto,HiTech,52,0.8743749163342281,Sector
+Grosseto,Agriculture,61,0.8300328060336796,Sector
+Grosseto,Transportation,73,0.5604408071378478,Sector
+Grosseto,Consumer_Products,75,0.6393937740436593,Sector
+Grosseto,Unassigned,97,0.617269327599808,Sector
+Grosseto,Communication,79,0.6767223749383502,Sector
+Grosseto,Trade,16,0.16922171534131114,Sector
+Grosseto,Business_Services,81,0.8418818009680122,Sector
+Grosseto,Business_Products,64,0.7834273646172321,Sector
+Grosseto,Construction,65,0.8499143006025173,Sector
+Grosseto,Services,79,0.1602182690173084,Sector
+Grosseto,Mining,15,0.8241167385397642,Sector
+Grosseto,Health_Care,89,0.9666314965534576,Sector
+Grosseto,EnergyExpL_Prod,12,0.2551570479068933,Sector
+Grosseto,Utilities,75,0.8782717958844798,Sector

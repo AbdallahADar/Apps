@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chelan,616,0.4074479998919845,Overall
+Chelan,HiTech,53,0.3946441811991034,Sector
+Chelan,Agriculture,84,0.016267982033566053,Sector
+Chelan,Transportation,59,0.5215517258940495,Sector
+Chelan,Consumer_Products,35,0.6994184183346838,Sector
+Chelan,Unassigned,18,0.010765086283571756,Sector
+Chelan,Communication,2,0.13806745038241863,Sector
+Chelan,Trade,43,0.3264983955308586,Sector
+Chelan,Business_Services,66,0.3684890941981025,Sector
+Chelan,Business_Products,13,0.32277399813626695,Sector
+Chelan,Construction,15,0.8197122863766978,Sector
+Chelan,Services,78,0.3658259279458822,Sector
+Chelan,Mining,44,0.7782895980935081,Sector
+Chelan,Health_Care,13,0.38580773276716307,Sector
+Chelan,EnergyExpL_Prod,29,0.3613861113137844,Sector
+Chelan,Utilities,64,0.60222200989011,Sector

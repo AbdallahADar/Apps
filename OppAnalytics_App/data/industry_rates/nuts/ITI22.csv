@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Terni,670,0.46760387688477895,Overall
+Terni,HiTech,83,0.9481039226564867,Sector
+Terni,Agriculture,57,0.6508624950732942,Sector
+Terni,Transportation,46,0.8069563982525841,Sector
+Terni,Consumer_Products,31,0.05992577279547018,Sector
+Terni,Unassigned,72,0.42843590641591167,Sector
+Terni,Communication,92,0.24528797027432214,Sector
+Terni,Trade,12,0.5332103137268869,Sector
+Terni,Business_Services,6,0.03341585978579509,Sector
+Terni,Business_Products,38,0.5690934861074288,Sector
+Terni,Construction,27,0.6665031404269527,Sector
+Terni,Services,60,0.2354065011491846,Sector
+Terni,Mining,65,0.20293487830101575,Sector
+Terni,Health_Care,38,0.08906638180217419,Sector
+Terni,EnergyExpL_Prod,9,0.9930126338647234,Sector
+Terni,Utilities,34,0.5518424926394536,Sector

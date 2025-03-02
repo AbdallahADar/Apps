@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mettmann,687,0.48330434223669777,Overall
+Mettmann,HiTech,4,0.4323014716910183,Sector
+Mettmann,Agriculture,73,0.3440498534823898,Sector
+Mettmann,Transportation,59,0.12891515831276823,Sector
+Mettmann,Consumer_Products,65,0.7326346597317762,Sector
+Mettmann,Unassigned,34,0.4779341734133731,Sector
+Mettmann,Communication,13,0.2693746516832186,Sector
+Mettmann,Trade,75,0.7611261190651357,Sector
+Mettmann,Business_Services,41,0.5188384991633767,Sector
+Mettmann,Business_Products,65,0.5925242873149775,Sector
+Mettmann,Construction,57,0.8442989629243681,Sector
+Mettmann,Services,34,0.7343834101042916,Sector
+Mettmann,Mining,3,0.18342766575783487,Sector
+Mettmann,Health_Care,86,0.9369257425538817,Sector
+Mettmann,EnergyExpL_Prod,55,0.1800940992649126,Sector
+Mettmann,Utilities,23,0.11273637908714385,Sector

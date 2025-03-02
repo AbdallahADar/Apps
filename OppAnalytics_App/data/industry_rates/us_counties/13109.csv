@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Evans,704,0.5447440427854496,Overall
+Evans,HiTech,4,0.09696543345319941,Sector
+Evans,Agriculture,90,0.06452869424549323,Sector
+Evans,Transportation,67,0.3772160395283144,Sector
+Evans,Consumer_Products,38,0.6190335411120623,Sector
+Evans,Unassigned,31,0.3347765535579492,Sector
+Evans,Communication,62,0.7044575753961007,Sector
+Evans,Trade,11,0.8430636130550331,Sector
+Evans,Business_Services,45,0.6858153413971686,Sector
+Evans,Business_Products,93,0.616631059556085,Sector
+Evans,Construction,6,0.899381301455511,Sector
+Evans,Services,26,0.9549111402630601,Sector
+Evans,Mining,64,0.47637112878762344,Sector
+Evans,Health_Care,36,0.8685428854095525,Sector
+Evans,EnergyExpL_Prod,76,0.32028570893230635,Sector
+Evans,Utilities,55,0.30918062563228454,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wood,916,0.6342005010665743,Overall
+Wood,HiTech,56,0.9895133845301967,Sector
+Wood,Agriculture,62,0.7924358193441299,Sector
+Wood,Transportation,73,0.6716957867142095,Sector
+Wood,Consumer_Products,81,0.7707132636223872,Sector
+Wood,Unassigned,55,0.8194188411296071,Sector
+Wood,Communication,27,0.9518064691978924,Sector
+Wood,Trade,95,0.8452528496331576,Sector
+Wood,Business_Services,59,0.6013349031564336,Sector
+Wood,Business_Products,90,0.4220966526400399,Sector
+Wood,Construction,32,0.21856927669201587,Sector
+Wood,Services,28,0.3472705872495815,Sector
+Wood,Mining,96,0.921328246207448,Sector
+Wood,Health_Care,60,0.12103585136978334,Sector
+Wood,EnergyExpL_Prod,52,0.9313323836648335,Sector
+Wood,Utilities,50,0.10920320084690094,Sector

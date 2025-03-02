@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Crotone,747,0.5165435425853889,Overall
+Crotone,HiTech,67,0.1276866967304704,Sector
+Crotone,Agriculture,25,0.2948444615315686,Sector
+Crotone,Transportation,2,0.18048677033129779,Sector
+Crotone,Consumer_Products,34,0.5330580595211272,Sector
+Crotone,Unassigned,47,0.5438820351720994,Sector
+Crotone,Communication,83,0.8497559689531258,Sector
+Crotone,Trade,48,0.39385829853608667,Sector
+Crotone,Business_Services,93,0.6416964384128941,Sector
+Crotone,Business_Products,89,0.4416301959578035,Sector
+Crotone,Construction,43,0.8902446800953143,Sector
+Crotone,Services,59,0.007095510016741691,Sector
+Crotone,Mining,68,0.7004102827657482,Sector
+Crotone,Health_Care,61,0.8013865937891844,Sector
+Crotone,EnergyExpL_Prod,7,0.8690732781632416,Sector
+Crotone,Utilities,21,0.4730438688041294,Sector

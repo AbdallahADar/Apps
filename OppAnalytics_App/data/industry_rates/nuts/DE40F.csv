@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Prignitz,846,0.4355344113845618,Overall
+Prignitz,HiTech,48,0.5154330177344634,Sector
+Prignitz,Agriculture,86,0.1582019472813958,Sector
+Prignitz,Transportation,80,0.13215031895757434,Sector
+Prignitz,Consumer_Products,46,0.8490914436540854,Sector
+Prignitz,Unassigned,46,0.7867061329757955,Sector
+Prignitz,Communication,5,0.2122083572219874,Sector
+Prignitz,Trade,44,0.9660854816792077,Sector
+Prignitz,Business_Services,61,0.05208354164245432,Sector
+Prignitz,Business_Products,84,0.16207289314629336,Sector
+Prignitz,Construction,99,0.33550636270300827,Sector
+Prignitz,Services,97,0.48716989179359793,Sector
+Prignitz,Mining,51,0.04051276639371926,Sector
+Prignitz,Health_Care,7,0.6232624476915062,Sector
+Prignitz,EnergyExpL_Prod,17,0.3512797368909647,Sector
+Prignitz,Utilities,75,0.8612518310023721,Sector

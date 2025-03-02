@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hakkari,542,0.4882784680931612,Overall
+Hakkari,HiTech,49,0.28477668933223477,Sector
+Hakkari,Agriculture,27,0.2815059715583549,Sector
+Hakkari,Transportation,6,0.7274505734965648,Sector
+Hakkari,Consumer_Products,9,0.3994320845912096,Sector
+Hakkari,Unassigned,41,0.6037745798413646,Sector
+Hakkari,Communication,95,0.2731329664019072,Sector
+Hakkari,Trade,17,0.9099315128396077,Sector
+Hakkari,Business_Services,21,0.33150651069656123,Sector
+Hakkari,Business_Products,31,0.10318948207761047,Sector
+Hakkari,Construction,83,0.7894614481337316,Sector
+Hakkari,Services,78,0.5289659075193659,Sector
+Hakkari,Mining,30,0.9119512054216266,Sector
+Hakkari,Health_Care,25,0.44791993578828737,Sector
+Hakkari,EnergyExpL_Prod,5,0.19182830694928732,Sector
+Hakkari,Utilities,25,0.5393498467497039,Sector

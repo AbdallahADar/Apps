@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bytomski,854,0.6054001035093588,Overall
+Bytomski,HiTech,58,0.568016788937943,Sector
+Bytomski,Agriculture,53,0.9778692922992388,Sector
+Bytomski,Transportation,13,0.3968324387946395,Sector
+Bytomski,Consumer_Products,81,0.8656932773522688,Sector
+Bytomski,Unassigned,55,0.5302895958920532,Sector
+Bytomski,Communication,94,0.35707305376252374,Sector
+Bytomski,Trade,64,0.6494026048314014,Sector
+Bytomski,Business_Services,86,0.97455937540648,Sector
+Bytomski,Business_Products,91,0.5913195739378785,Sector
+Bytomski,Construction,82,0.9775112101087013,Sector
+Bytomski,Services,72,0.022830444573903153,Sector
+Bytomski,Mining,12,0.1699491904021343,Sector
+Bytomski,Health_Care,18,0.9171848863646995,Sector
+Bytomski,EnergyExpL_Prod,52,0.5648709647012864,Sector
+Bytomski,Utilities,23,0.5175988552752319,Sector

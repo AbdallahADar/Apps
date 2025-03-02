@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Hof, Kreisfreie Stadt",710,0.4308029679842788,Overall
+"Hof, Kreisfreie Stadt",HiTech,42,0.7669258981199952,Sector
+"Hof, Kreisfreie Stadt",Agriculture,43,0.07103784330210694,Sector
+"Hof, Kreisfreie Stadt",Transportation,99,0.8909225100817818,Sector
+"Hof, Kreisfreie Stadt",Consumer_Products,23,0.19109693254218318,Sector
+"Hof, Kreisfreie Stadt",Unassigned,66,0.9145811162645643,Sector
+"Hof, Kreisfreie Stadt",Communication,38,0.21854999268758513,Sector
+"Hof, Kreisfreie Stadt",Trade,14,0.4772918602906474,Sector
+"Hof, Kreisfreie Stadt",Business_Services,4,0.1221442947695065,Sector
+"Hof, Kreisfreie Stadt",Business_Products,62,0.16143547375621814,Sector
+"Hof, Kreisfreie Stadt",Construction,98,0.013684318927898897,Sector
+"Hof, Kreisfreie Stadt",Services,44,0.7379711936222508,Sector
+"Hof, Kreisfreie Stadt",Mining,36,0.7865559564569041,Sector
+"Hof, Kreisfreie Stadt",Health_Care,41,0.35959284878775966,Sector
+"Hof, Kreisfreie Stadt",EnergyExpL_Prod,17,0.6023342553974135,Sector
+"Hof, Kreisfreie Stadt",Utilities,83,0.14792002475736732,Sector

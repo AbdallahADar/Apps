@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Beauregard,597,0.40670146897300313,Overall
+Beauregard,HiTech,37,0.3772517143556625,Sector
+Beauregard,Agriculture,35,0.24630163634031188,Sector
+Beauregard,Transportation,3,0.3987227795222982,Sector
+Beauregard,Consumer_Products,13,0.395778762701963,Sector
+Beauregard,Unassigned,6,0.7941804538089212,Sector
+Beauregard,Communication,19,0.2950593506925372,Sector
+Beauregard,Trade,52,0.40489990538620035,Sector
+Beauregard,Business_Services,74,0.010136301372772105,Sector
+Beauregard,Business_Products,28,0.6043908542014118,Sector
+Beauregard,Construction,66,0.058407219466385385,Sector
+Beauregard,Services,99,0.28863379910233633,Sector
+Beauregard,Mining,33,0.6144251693067009,Sector
+Beauregard,Health_Care,30,0.5657450700447392,Sector
+Beauregard,EnergyExpL_Prod,99,0.2346604206673818,Sector
+Beauregard,Utilities,3,0.8119285976254245,Sector

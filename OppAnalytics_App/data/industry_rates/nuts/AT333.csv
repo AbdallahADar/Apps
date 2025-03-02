@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Osttirol,860,0.45362478236914244,Overall
+Osttirol,HiTech,10,0.8105656402143275,Sector
+Osttirol,Agriculture,84,0.20930344358819564,Sector
+Osttirol,Transportation,57,0.9603154416555508,Sector
+Osttirol,Consumer_Products,21,0.0681450715818438,Sector
+Osttirol,Unassigned,69,0.2059584104774841,Sector
+Osttirol,Communication,15,0.6112444587519447,Sector
+Osttirol,Trade,40,0.2032640709110627,Sector
+Osttirol,Business_Services,74,0.11763084402961721,Sector
+Osttirol,Business_Products,63,0.5344642611516954,Sector
+Osttirol,Construction,89,0.9448543754774936,Sector
+Osttirol,Services,78,0.8987242199747455,Sector
+Osttirol,Mining,50,0.2741723230878885,Sector
+Osttirol,Health_Care,77,0.047416972630058174,Sector
+Osttirol,EnergyExpL_Prod,61,0.3162420419104871,Sector
+Osttirol,Utilities,72,0.6020701600947417,Sector

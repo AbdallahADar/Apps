@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Rosenheim, Kreisfreie Stadt",856,0.5582233858684553,Overall
+"Rosenheim, Kreisfreie Stadt",HiTech,52,0.6759192393229049,Sector
+"Rosenheim, Kreisfreie Stadt",Agriculture,0,0.8065907617953256,Sector
+"Rosenheim, Kreisfreie Stadt",Transportation,80,0.9799381160694541,Sector
+"Rosenheim, Kreisfreie Stadt",Consumer_Products,69,0.423952504091495,Sector
+"Rosenheim, Kreisfreie Stadt",Unassigned,88,0.9998240127844168,Sector
+"Rosenheim, Kreisfreie Stadt",Communication,43,0.14246002090062237,Sector
+"Rosenheim, Kreisfreie Stadt",Trade,53,0.33954524637656414,Sector
+"Rosenheim, Kreisfreie Stadt",Business_Services,85,0.3798259616105424,Sector
+"Rosenheim, Kreisfreie Stadt",Business_Products,83,0.11828979252889482,Sector
+"Rosenheim, Kreisfreie Stadt",Construction,52,0.9972017482425811,Sector
+"Rosenheim, Kreisfreie Stadt",Services,23,0.6769672041374849,Sector
+"Rosenheim, Kreisfreie Stadt",Mining,6,0.24399418209896284,Sector
+"Rosenheim, Kreisfreie Stadt",Health_Care,98,0.13014550963087934,Sector
+"Rosenheim, Kreisfreie Stadt",EnergyExpL_Prod,44,0.7369690547112222,Sector
+"Rosenheim, Kreisfreie Stadt",Utilities,80,0.721727433725479,Sector

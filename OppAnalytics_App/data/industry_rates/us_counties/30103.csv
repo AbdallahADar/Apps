@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Treasure,701,0.5742675845428359,Overall
+Treasure,HiTech,64,0.8905984630764072,Sector
+Treasure,Agriculture,78,0.524818189104817,Sector
+Treasure,Transportation,4,0.7504931606592647,Sector
+Treasure,Consumer_Products,49,0.3676319361071487,Sector
+Treasure,Unassigned,72,0.7382421775583893,Sector
+Treasure,Communication,72,0.8845094305365714,Sector
+Treasure,Trade,18,0.9346003368021787,Sector
+Treasure,Business_Services,62,0.7221709649523302,Sector
+Treasure,Business_Products,89,0.6174533907126267,Sector
+Treasure,Construction,37,0.0479733012113529,Sector
+Treasure,Services,7,0.27760946125580677,Sector
+Treasure,Mining,96,0.34312267568707,Sector
+Treasure,Health_Care,4,0.2643832234632927,Sector
+Treasure,EnergyExpL_Prod,16,0.626159652169951,Sector
+Treasure,Utilities,33,0.62424740484533,Sector

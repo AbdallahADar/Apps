@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McIntosh,696,0.5795068251964424,Overall
+McIntosh,HiTech,61,0.6541853586659705,Sector
+McIntosh,Agriculture,24,0.30364166005758797,Sector
+McIntosh,Transportation,85,0.7911666527284162,Sector
+McIntosh,Consumer_Products,41,0.9917377037727184,Sector
+McIntosh,Unassigned,45,0.8533942070562304,Sector
+McIntosh,Communication,68,0.1582837436586424,Sector
+McIntosh,Trade,9,0.5815132818101985,Sector
+McIntosh,Business_Services,82,0.7704427292391683,Sector
+McIntosh,Business_Products,50,0.4963021643975827,Sector
+McIntosh,Construction,77,0.7439556247306769,Sector
+McIntosh,Services,23,0.21934044155557608,Sector
+McIntosh,Mining,2,0.8401242435286476,Sector
+McIntosh,Health_Care,23,0.5277997125166792,Sector
+McIntosh,EnergyExpL_Prod,93,0.5205038193283954,Sector
+McIntosh,Utilities,13,0.24021103490014561,Sector

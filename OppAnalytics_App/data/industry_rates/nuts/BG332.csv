@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dobrich,752,0.4589180520729842,Overall
+Dobrich,HiTech,91,0.2121048891502858,Sector
+Dobrich,Agriculture,28,0.3091663868818356,Sector
+Dobrich,Transportation,17,0.015582534172588813,Sector
+Dobrich,Consumer_Products,58,0.6833213025659816,Sector
+Dobrich,Unassigned,29,0.02293850996139679,Sector
+Dobrich,Communication,28,0.44373613583125193,Sector
+Dobrich,Trade,16,0.4846043712785608,Sector
+Dobrich,Business_Services,99,0.6266786356285259,Sector
+Dobrich,Business_Products,52,0.22901808871558993,Sector
+Dobrich,Construction,32,0.13267223893644597,Sector
+Dobrich,Services,17,0.970623814990248,Sector
+Dobrich,Mining,77,0.47347368762783615,Sector
+Dobrich,Health_Care,45,0.9284313414654525,Sector
+Dobrich,EnergyExpL_Prod,79,0.7546235888355599,Sector
+Dobrich,Utilities,84,0.5967952550532043,Sector

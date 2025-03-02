@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nordfriesland,793,0.3746034945320368,Overall
+Nordfriesland,HiTech,14,0.3171070053298216,Sector
+Nordfriesland,Agriculture,17,0.5038799973354412,Sector
+Nordfriesland,Transportation,15,0.3266705745323145,Sector
+Nordfriesland,Consumer_Products,74,0.2947779509237497,Sector
+Nordfriesland,Unassigned,63,0.7811855907215242,Sector
+Nordfriesland,Communication,78,0.01698759984839482,Sector
+Nordfriesland,Trade,98,0.26261676225835695,Sector
+Nordfriesland,Business_Services,66,0.2140556931444263,Sector
+Nordfriesland,Business_Products,65,0.917666102489269,Sector
+Nordfriesland,Construction,76,0.6134453612625014,Sector
+Nordfriesland,Services,41,0.16381461207785286,Sector
+Nordfriesland,Mining,81,0.2793066240736086,Sector
+Nordfriesland,Health_Care,44,0.6613680075293666,Sector
+Nordfriesland,EnergyExpL_Prod,8,0.14252602131686753,Sector
+Nordfriesland,Utilities,53,0.12364451513705565,Sector

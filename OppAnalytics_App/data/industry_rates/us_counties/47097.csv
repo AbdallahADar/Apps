@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lauderdale,639,0.518289143265796,Overall
+Lauderdale,HiTech,35,0.9033191423089598,Sector
+Lauderdale,Agriculture,52,0.026678995586773224,Sector
+Lauderdale,Transportation,75,0.4564116297755245,Sector
+Lauderdale,Consumer_Products,51,0.05065286819406689,Sector
+Lauderdale,Unassigned,3,0.7718904474068478,Sector
+Lauderdale,Communication,90,0.08852676618960187,Sector
+Lauderdale,Trade,53,0.5368798849004424,Sector
+Lauderdale,Business_Services,13,0.0890828973707507,Sector
+Lauderdale,Business_Products,72,0.886920955921297,Sector
+Lauderdale,Construction,9,0.8679511094766643,Sector
+Lauderdale,Services,30,0.5532156522105361,Sector
+Lauderdale,Mining,99,0.931817072249802,Sector
+Lauderdale,Health_Care,3,0.12434269236834739,Sector
+Lauderdale,EnergyExpL_Prod,27,0.8984574048897563,Sector
+Lauderdale,Utilities,27,0.5881896301375691,Sector

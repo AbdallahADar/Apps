@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ticino,854,0.4742666159087785,Overall
+Ticino,HiTech,51,0.9749159645067799,Sector
+Ticino,Agriculture,92,0.5169038804069899,Sector
+Ticino,Transportation,32,0.1801698953351759,Sector
+Ticino,Consumer_Products,79,0.6426323396622251,Sector
+Ticino,Unassigned,31,0.11307246918884939,Sector
+Ticino,Communication,81,0.5430195142919185,Sector
+Ticino,Trade,68,0.5480995840819689,Sector
+Ticino,Business_Services,72,0.22673351778383588,Sector
+Ticino,Business_Products,18,0.8121372752974084,Sector
+Ticino,Construction,83,0.6541911394578152,Sector
+Ticino,Services,16,0.5526273471285634,Sector
+Ticino,Mining,90,0.3201374943215032,Sector
+Ticino,Health_Care,5,0.5096707430908609,Sector
+Ticino,EnergyExpL_Prod,86,0.5184623007690379,Sector
+Ticino,Utilities,50,0.0012257733087452927,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Spink,571,0.475783534040193,Overall
+Spink,HiTech,52,0.9942495342708859,Sector
+Spink,Agriculture,4,0.07050277938320182,Sector
+Spink,Transportation,0,0.024225377728513187,Sector
+Spink,Consumer_Products,55,0.016310783744082014,Sector
+Spink,Unassigned,37,0.09119159486571182,Sector
+Spink,Communication,23,0.5305805473181872,Sector
+Spink,Trade,77,0.5807999278204393,Sector
+Spink,Business_Services,54,0.17550861580459653,Sector
+Spink,Business_Products,35,0.8640699547752259,Sector
+Spink,Construction,23,0.16510619346518196,Sector
+Spink,Services,82,0.9288671991618794,Sector
+Spink,Mining,96,0.9306026940763836,Sector
+Spink,Health_Care,7,0.9867522395174196,Sector
+Spink,EnergyExpL_Prod,19,0.4428390576884579,Sector
+Spink,Utilities,7,0.33514651098272985,Sector

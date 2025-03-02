@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bacon,879,0.5616391711371155,Overall
+Bacon,HiTech,77,0.10335078536861764,Sector
+Bacon,Agriculture,79,0.6767236245812178,Sector
+Bacon,Transportation,75,0.9042842854210922,Sector
+Bacon,Consumer_Products,23,0.8613079463329538,Sector
+Bacon,Unassigned,77,0.16503101574815449,Sector
+Bacon,Communication,50,0.722329657427698,Sector
+Bacon,Trade,11,0.8235674615272013,Sector
+Bacon,Business_Services,88,0.366273463942558,Sector
+Bacon,Business_Products,20,0.01185167721883762,Sector
+Bacon,Construction,5,0.29535920945812755,Sector
+Bacon,Services,66,0.19123309012614076,Sector
+Bacon,Mining,71,0.8974701666831896,Sector
+Bacon,Health_Care,89,0.8111416160035845,Sector
+Bacon,EnergyExpL_Prod,99,0.8515201653670812,Sector
+Bacon,Utilities,49,0.7431434018502783,Sector

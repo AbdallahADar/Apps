@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rhône,820,0.5150056161758259,Overall
+Rhône,HiTech,35,0.4459611417370032,Sector
+Rhône,Agriculture,96,0.8351325800896439,Sector
+Rhône,Transportation,98,0.38606024734270217,Sector
+Rhône,Consumer_Products,31,0.7399295291001774,Sector
+Rhône,Unassigned,97,0.513671309188766,Sector
+Rhône,Communication,96,0.10520889104807019,Sector
+Rhône,Trade,66,0.8804576939469885,Sector
+Rhône,Business_Services,20,0.3390868731085205,Sector
+Rhône,Business_Products,42,0.4951262031081416,Sector
+Rhône,Construction,98,0.37323426694126793,Sector
+Rhône,Services,17,0.6239842219763563,Sector
+Rhône,Mining,42,0.36936155127560233,Sector
+Rhône,Health_Care,30,0.6176727699024752,Sector
+Rhône,EnergyExpL_Prod,3,0.4554654104316357,Sector
+Rhône,Utilities,49,0.5447315534400368,Sector

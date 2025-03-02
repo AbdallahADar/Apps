@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Door,636,0.4809228923396607,Overall
+Door,HiTech,39,0.7796267509830642,Sector
+Door,Agriculture,12,0.9500651652037232,Sector
+Door,Transportation,5,0.1732051194677814,Sector
+Door,Consumer_Products,94,0.7261598092315691,Sector
+Door,Unassigned,72,0.12550569772877196,Sector
+Door,Communication,28,0.19565706630375201,Sector
+Door,Trade,14,0.6982023806213392,Sector
+Door,Business_Services,84,0.18973217012787824,Sector
+Door,Business_Products,35,0.027494455859920164,Sector
+Door,Construction,11,0.5122692460521894,Sector
+Door,Services,81,0.7831208889629587,Sector
+Door,Mining,41,0.19550236599472048,Sector
+Door,Health_Care,20,0.09678461117584847,Sector
+Door,EnergyExpL_Prod,78,0.9177251881863296,Sector
+Door,Utilities,22,0.8427924691950652,Sector

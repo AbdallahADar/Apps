@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vienne,699,0.4233165072083117,Overall
+Vienne,HiTech,49,0.11359220542196224,Sector
+Vienne,Agriculture,42,0.5305233286826141,Sector
+Vienne,Transportation,27,0.5228851239336902,Sector
+Vienne,Consumer_Products,46,0.8101166094940555,Sector
+Vienne,Unassigned,37,0.3838975515590465,Sector
+Vienne,Communication,78,0.41398311173711755,Sector
+Vienne,Trade,46,0.23003299139402822,Sector
+Vienne,Business_Services,65,0.2640829124329209,Sector
+Vienne,Business_Products,60,0.41604279513713105,Sector
+Vienne,Construction,90,0.2005620532893253,Sector
+Vienne,Services,3,0.4352120998200494,Sector
+Vienne,Mining,55,0.14295432734516123,Sector
+Vienne,Health_Care,4,0.17260983877608793,Sector
+Vienne,EnergyExpL_Prod,58,0.8872677571917293,Sector
+Vienne,Utilities,39,0.8259849019097562,Sector

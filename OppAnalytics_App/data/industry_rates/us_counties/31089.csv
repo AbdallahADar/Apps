@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Holt,711,0.5158673659456523,Overall
+Holt,HiTech,56,0.7299864221512936,Sector
+Holt,Agriculture,60,0.6045321475727249,Sector
+Holt,Transportation,44,0.07355087794979975,Sector
+Holt,Consumer_Products,72,0.6770866359828679,Sector
+Holt,Unassigned,89,0.9804086270805935,Sector
+Holt,Communication,36,0.6198382116295609,Sector
+Holt,Trade,62,0.8414959018475041,Sector
+Holt,Business_Services,82,0.9685256509496198,Sector
+Holt,Business_Products,9,0.11521998032946934,Sector
+Holt,Construction,15,0.40383622393348917,Sector
+Holt,Services,17,0.6950404768813543,Sector
+Holt,Mining,13,0.07761459883958188,Sector
+Holt,Health_Care,46,0.4878813559785584,Sector
+Holt,EnergyExpL_Prod,86,0.0727153160619266,Sector
+Holt,Utilities,24,0.3902780619964409,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Williamsburg,584,0.5164790442144476,Overall
+Williamsburg,HiTech,37,0.9478949023547877,Sector
+Williamsburg,Agriculture,0,0.934639035915343,Sector
+Williamsburg,Transportation,65,0.4223637496760645,Sector
+Williamsburg,Consumer_Products,69,0.7446345978711616,Sector
+Williamsburg,Unassigned,9,0.8944250240379225,Sector
+Williamsburg,Communication,98,0.0572398129103141,Sector
+Williamsburg,Trade,38,0.8321372964537584,Sector
+Williamsburg,Business_Services,4,0.10714795057737725,Sector
+Williamsburg,Business_Products,25,0.6581905936777903,Sector
+Williamsburg,Construction,8,0.1470615964422478,Sector
+Williamsburg,Services,66,0.0010047844750926682,Sector
+Williamsburg,Mining,69,0.6329929379231428,Sector
+Williamsburg,Health_Care,30,0.027598131251079017,Sector
+Williamsburg,EnergyExpL_Prod,49,0.6301124906124557,Sector
+Williamsburg,Utilities,17,0.7097427590381773,Sector

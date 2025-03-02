@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Montezuma,636,0.471455897846907,Overall
+Montezuma,HiTech,91,0.1669592277594254,Sector
+Montezuma,Agriculture,6,0.4771257871875261,Sector
+Montezuma,Transportation,78,0.5356326068403208,Sector
+Montezuma,Consumer_Products,17,0.5244021407253969,Sector
+Montezuma,Unassigned,64,0.13602687187001983,Sector
+Montezuma,Communication,99,0.6073639693617534,Sector
+Montezuma,Trade,45,0.07963141683584907,Sector
+Montezuma,Business_Services,33,0.7134666199470671,Sector
+Montezuma,Business_Products,21,0.9501370910768769,Sector
+Montezuma,Construction,39,0.3703961621163747,Sector
+Montezuma,Services,13,0.20700277842161807,Sector
+Montezuma,Mining,8,0.1260777796229683,Sector
+Montezuma,Health_Care,5,0.5273757846215426,Sector
+Montezuma,EnergyExpL_Prod,43,0.9695404306282946,Sector
+Montezuma,Utilities,74,0.6806998006885724,Sector

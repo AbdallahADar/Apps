@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Caguas,660,0.5968233101094575,Overall
+Caguas,HiTech,60,0.6410706482355962,Sector
+Caguas,Agriculture,61,0.6582301679076631,Sector
+Caguas,Transportation,72,0.5267082045833776,Sector
+Caguas,Consumer_Products,8,0.7681758117201977,Sector
+Caguas,Unassigned,8,0.7080505989792809,Sector
+Caguas,Communication,74,0.8226934214405324,Sector
+Caguas,Trade,12,0.27044654520395817,Sector
+Caguas,Business_Services,3,0.9916894296653764,Sector
+Caguas,Business_Products,73,0.05190863000385448,Sector
+Caguas,Construction,6,0.8044083583064641,Sector
+Caguas,Services,46,0.8393238973771674,Sector
+Caguas,Mining,98,0.42253963586461885,Sector
+Caguas,Health_Care,39,0.9853126891843742,Sector
+Caguas,EnergyExpL_Prod,82,0.34000208668988696,Sector
+Caguas,Utilities,18,0.12178952647951335,Sector

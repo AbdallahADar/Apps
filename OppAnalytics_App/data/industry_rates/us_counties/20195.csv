@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Trego,718,0.4145221275242827,Overall
+Trego,HiTech,69,0.22203736210713576,Sector
+Trego,Agriculture,31,0.8857551837709139,Sector
+Trego,Transportation,52,0.7135865512212103,Sector
+Trego,Consumer_Products,35,0.021473982185293172,Sector
+Trego,Unassigned,75,0.07237250947487162,Sector
+Trego,Communication,89,0.4269263965757384,Sector
+Trego,Trade,27,0.1522269086871213,Sector
+Trego,Business_Services,85,0.8866653301285082,Sector
+Trego,Business_Products,48,0.35034946738460504,Sector
+Trego,Construction,35,0.8373624322476625,Sector
+Trego,Services,23,0.16551383289487342,Sector
+Trego,Mining,17,0.6524750427714897,Sector
+Trego,Health_Care,30,0.49586812218298637,Sector
+Trego,EnergyExpL_Prod,15,0.12907422906115096,Sector
+Trego,Utilities,87,0.20614456217067967,Sector

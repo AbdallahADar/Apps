@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cortland,752,0.5965593445648566,Overall
+Cortland,HiTech,25,0.9382619633516658,Sector
+Cortland,Agriculture,75,0.6288354826841892,Sector
+Cortland,Transportation,34,0.9316175719024834,Sector
+Cortland,Consumer_Products,23,0.19224728810416813,Sector
+Cortland,Unassigned,78,0.5482509031679069,Sector
+Cortland,Communication,59,0.8155971319062397,Sector
+Cortland,Trade,5,0.3625680320432093,Sector
+Cortland,Business_Services,86,0.9756898400004349,Sector
+Cortland,Business_Products,19,0.5769283859324937,Sector
+Cortland,Construction,36,0.8997421134815097,Sector
+Cortland,Services,78,0.529352183713989,Sector
+Cortland,Mining,35,0.6810102039116084,Sector
+Cortland,Health_Care,30,0.12915062155124635,Sector
+Cortland,EnergyExpL_Prod,95,0.3331281853900758,Sector
+Cortland,Utilities,74,0.40601026133162865,Sector

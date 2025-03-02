@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Val-de-Marne,546,0.4482436993849938,Overall
+Val-de-Marne,HiTech,30,0.13539036552900974,Sector
+Val-de-Marne,Agriculture,59,0.2359339147845365,Sector
+Val-de-Marne,Transportation,7,0.20895289498559388,Sector
+Val-de-Marne,Consumer_Products,32,0.9098795347576805,Sector
+Val-de-Marne,Unassigned,20,0.19249105414927514,Sector
+Val-de-Marne,Communication,0,0.7133621798818967,Sector
+Val-de-Marne,Trade,83,0.48129633236624203,Sector
+Val-de-Marne,Business_Services,40,0.6864077847185065,Sector
+Val-de-Marne,Business_Products,19,0.06277771802554555,Sector
+Val-de-Marne,Construction,25,0.8306724970508792,Sector
+Val-de-Marne,Services,64,0.6150523803683144,Sector
+Val-de-Marne,Mining,26,0.42084081790574257,Sector
+Val-de-Marne,Health_Care,56,0.9071018813462787,Sector
+Val-de-Marne,EnergyExpL_Prod,17,0.11182125438636048,Sector
+Val-de-Marne,Utilities,68,0.21167488051904437,Sector

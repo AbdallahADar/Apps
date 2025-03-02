@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hendricks,695,0.48939575915026334,Overall
+Hendricks,HiTech,44,0.8712449529711167,Sector
+Hendricks,Agriculture,40,0.07422914894381671,Sector
+Hendricks,Transportation,37,0.8295611806871797,Sector
+Hendricks,Consumer_Products,22,0.3599265554295338,Sector
+Hendricks,Unassigned,41,0.03871863952379517,Sector
+Hendricks,Communication,68,0.11188018865740712,Sector
+Hendricks,Trade,17,0.535479392254937,Sector
+Hendricks,Business_Services,82,0.30773650471507885,Sector
+Hendricks,Business_Products,30,0.4897373031087425,Sector
+Hendricks,Construction,77,0.9460672602717564,Sector
+Hendricks,Services,62,0.9037635481099024,Sector
+Hendricks,Mining,44,0.4022386925907313,Sector
+Hendricks,Health_Care,35,0.01957313290694862,Sector
+Hendricks,EnergyExpL_Prod,8,0.5934611908804164,Sector
+Hendricks,Utilities,88,0.8573186962025873,Sector

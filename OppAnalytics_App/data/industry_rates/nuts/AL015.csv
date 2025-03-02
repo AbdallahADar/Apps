@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Shkodër,736,0.4854057415364167,Overall
+Shkodër,HiTech,15,0.4250280191003871,Sector
+Shkodër,Agriculture,20,0.21485490575785882,Sector
+Shkodër,Transportation,88,0.3609268189633037,Sector
+Shkodër,Consumer_Products,57,0.12212996678484178,Sector
+Shkodër,Unassigned,69,0.8267910489402694,Sector
+Shkodër,Communication,23,0.6830043224031433,Sector
+Shkodër,Trade,68,0.43983938228837016,Sector
+Shkodër,Business_Services,19,0.5573765637940385,Sector
+Shkodër,Business_Products,94,0.37705622075475065,Sector
+Shkodër,Construction,89,0.9224020597922045,Sector
+Shkodër,Services,45,0.43074635514748993,Sector
+Shkodër,Mining,89,0.39563143996181016,Sector
+Shkodër,Health_Care,1,0.7489812327130404,Sector
+Shkodër,EnergyExpL_Prod,47,0.34644982550972847,Sector
+Shkodër,Utilities,12,0.4298679611350127,Sector

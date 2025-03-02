@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Concho,719,0.49964983678479674,Overall
+Concho,HiTech,94,0.2146731866927789,Sector
+Concho,Agriculture,53,0.47394578360845063,Sector
+Concho,Transportation,77,0.2695991346831176,Sector
+Concho,Consumer_Products,27,0.7313961597313254,Sector
+Concho,Unassigned,43,0.6691595174243289,Sector
+Concho,Communication,85,0.6102383744233473,Sector
+Concho,Trade,19,0.2985569243339198,Sector
+Concho,Business_Services,40,0.2814292863636221,Sector
+Concho,Business_Products,91,0.35553484372899036,Sector
+Concho,Construction,41,0.22895466112271112,Sector
+Concho,Services,3,0.7424140386890796,Sector
+Concho,Mining,41,0.3684946500883548,Sector
+Concho,Health_Care,50,0.9898487850085036,Sector
+Concho,EnergyExpL_Prod,33,0.3028239671223091,Sector
+Concho,Utilities,22,0.9576782387511114,Sector

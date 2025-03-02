@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Berat,703,0.43531293183035824,Overall
+Berat,HiTech,41,0.6269044422066865,Sector
+Berat,Agriculture,20,0.34836486538324296,Sector
+Berat,Transportation,98,0.808316485403094,Sector
+Berat,Consumer_Products,44,0.4167009644887051,Sector
+Berat,Unassigned,90,0.0752278019874717,Sector
+Berat,Communication,59,0.2459143003177512,Sector
+Berat,Trade,5,0.3299005990415619,Sector
+Berat,Business_Services,51,0.03256623701934702,Sector
+Berat,Business_Products,29,0.4942210788810263,Sector
+Berat,Construction,30,0.2775998747291417,Sector
+Berat,Services,80,0.6570278056048231,Sector
+Berat,Mining,5,0.3750130970565957,Sector
+Berat,Health_Care,35,0.6522969425062323,Sector
+Berat,EnergyExpL_Prod,20,0.911175134391265,Sector
+Berat,Utilities,96,0.27846434843842904,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wetteraukreis,766,0.43659560826810034,Overall
+Wetteraukreis,HiTech,37,0.1036850971506964,Sector
+Wetteraukreis,Agriculture,58,0.8245351001660113,Sector
+Wetteraukreis,Transportation,69,0.7967594366469496,Sector
+Wetteraukreis,Consumer_Products,70,0.41672040130369514,Sector
+Wetteraukreis,Unassigned,8,0.2204447860426626,Sector
+Wetteraukreis,Communication,97,0.7808850805882018,Sector
+Wetteraukreis,Trade,38,0.9056489758604253,Sector
+Wetteraukreis,Business_Services,61,0.20408217986541866,Sector
+Wetteraukreis,Business_Products,81,0.14596117146928222,Sector
+Wetteraukreis,Construction,61,0.9175973216135742,Sector
+Wetteraukreis,Services,85,0.052124094977122004,Sector
+Wetteraukreis,Mining,17,0.10256457620612158,Sector
+Wetteraukreis,Health_Care,23,0.525747986974476,Sector
+Wetteraukreis,EnergyExpL_Prod,27,0.0799130136469447,Sector
+Wetteraukreis,Utilities,34,0.47226490150992173,Sector

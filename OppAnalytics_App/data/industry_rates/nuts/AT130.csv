@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wien,780,0.4948912794950941,Overall
+Wien,HiTech,97,0.6210520112727276,Sector
+Wien,Agriculture,25,0.31494620993190414,Sector
+Wien,Transportation,31,0.22651538762413492,Sector
+Wien,Consumer_Products,77,0.22391793654610892,Sector
+Wien,Unassigned,34,0.5919525161079854,Sector
+Wien,Communication,8,0.19396924247582548,Sector
+Wien,Trade,90,0.35122446061169843,Sector
+Wien,Business_Services,69,0.9616803632474512,Sector
+Wien,Business_Products,15,0.5903529981886306,Sector
+Wien,Construction,61,0.4251136652084937,Sector
+Wien,Services,1,0.9169957527907003,Sector
+Wien,Mining,81,0.5466771189799255,Sector
+Wien,Health_Care,67,0.9042051371707964,Sector
+Wien,EnergyExpL_Prod,62,0.011921032242387164,Sector
+Wien,Utilities,62,0.5428453600276424,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Val-d’Oise,765,0.5258471950269675,Overall
+Val-d’Oise,HiTech,30,0.6729288587212046,Sector
+Val-d’Oise,Agriculture,99,0.921480433181313,Sector
+Val-d’Oise,Transportation,4,0.321920197854507,Sector
+Val-d’Oise,Consumer_Products,6,0.5684301961658836,Sector
+Val-d’Oise,Unassigned,71,0.7467627646982865,Sector
+Val-d’Oise,Communication,0,0.40331152998654873,Sector
+Val-d’Oise,Trade,72,0.398161299469456,Sector
+Val-d’Oise,Business_Services,75,0.7314637625757485,Sector
+Val-d’Oise,Business_Products,58,0.4425808765805431,Sector
+Val-d’Oise,Construction,4,0.5724847176186137,Sector
+Val-d’Oise,Services,99,0.3828322078442501,Sector
+Val-d’Oise,Mining,81,0.38668038376537384,Sector
+Val-d’Oise,Health_Care,68,0.3668239001507124,Sector
+Val-d’Oise,EnergyExpL_Prod,25,0.5017544587836102,Sector
+Val-d’Oise,Utilities,73,0.4700923380084626,Sector

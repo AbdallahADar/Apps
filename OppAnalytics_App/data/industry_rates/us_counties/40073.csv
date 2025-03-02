@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kingfisher,705,0.5411370269767648,Overall
+Kingfisher,HiTech,92,0.14146354807678285,Sector
+Kingfisher,Agriculture,34,0.4387319538426139,Sector
+Kingfisher,Transportation,91,0.8233940999249341,Sector
+Kingfisher,Consumer_Products,54,0.9114990972152351,Sector
+Kingfisher,Unassigned,51,0.7019080048955723,Sector
+Kingfisher,Communication,24,0.27015236262084086,Sector
+Kingfisher,Trade,1,0.3525126265839874,Sector
+Kingfisher,Business_Services,27,0.6281409234712605,Sector
+Kingfisher,Business_Products,86,0.47759192897426017,Sector
+Kingfisher,Construction,69,0.16466576879308514,Sector
+Kingfisher,Services,25,0.8092402702333494,Sector
+Kingfisher,Mining,9,0.6436991385854494,Sector
+Kingfisher,Health_Care,42,0.04012658281106063,Sector
+Kingfisher,EnergyExpL_Prod,47,0.9828263823999638,Sector
+Kingfisher,Utilities,53,0.731102716223075,Sector

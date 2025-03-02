@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bossier,911,0.4460684444782674,Overall
+Bossier,HiTech,10,0.784779784072793,Sector
+Bossier,Agriculture,76,0.024759490972845688,Sector
+Bossier,Transportation,39,0.07710895747186142,Sector
+Bossier,Consumer_Products,61,0.7557792958977204,Sector
+Bossier,Unassigned,72,0.8800060172143661,Sector
+Bossier,Communication,93,0.03803344742582915,Sector
+Bossier,Trade,56,0.02376439474519676,Sector
+Bossier,Business_Services,87,0.32770672674945545,Sector
+Bossier,Business_Products,77,0.07097428742272471,Sector
+Bossier,Construction,87,0.57108956023873,Sector
+Bossier,Services,38,0.859315135528865,Sector
+Bossier,Mining,52,0.6621844144454928,Sector
+Bossier,Health_Care,47,0.5096356702939757,Sector
+Bossier,EnergyExpL_Prod,70,0.8096596519141369,Sector
+Bossier,Utilities,46,0.2962298327800177,Sector

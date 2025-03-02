@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Llano,797,0.43893169966557355,Overall
+Llano,HiTech,97,0.5201020264024936,Sector
+Llano,Agriculture,54,0.8675974117645906,Sector
+Llano,Transportation,91,0.7149032779532088,Sector
+Llano,Consumer_Products,36,0.8170657134834483,Sector
+Llano,Unassigned,85,0.022286060468429625,Sector
+Llano,Communication,68,0.6597219298714655,Sector
+Llano,Trade,13,0.6221609691912253,Sector
+Llano,Business_Services,26,0.35449776210980055,Sector
+Llano,Business_Products,41,0.19883394491827655,Sector
+Llano,Construction,23,0.48926547663707165,Sector
+Llano,Services,97,0.3045143578691505,Sector
+Llano,Mining,32,0.3634265136189895,Sector
+Llano,Health_Care,13,0.07114739250136082,Sector
+Llano,EnergyExpL_Prod,53,0.5745528869976785,Sector
+Llano,Utilities,68,0.003899771196413049,Sector

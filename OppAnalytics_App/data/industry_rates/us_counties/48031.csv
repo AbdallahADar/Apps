@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Blanco,720,0.46718835184047847,Overall
+Blanco,HiTech,46,0.5763271660904066,Sector
+Blanco,Agriculture,35,0.4533832343412052,Sector
+Blanco,Transportation,78,0.477218451125917,Sector
+Blanco,Consumer_Products,43,0.18010255926646113,Sector
+Blanco,Unassigned,44,0.28030201801934707,Sector
+Blanco,Communication,8,0.6223663901634356,Sector
+Blanco,Trade,9,0.9185421649652776,Sector
+Blanco,Business_Services,18,0.8453197850887643,Sector
+Blanco,Business_Products,70,0.09222415654514682,Sector
+Blanco,Construction,95,0.5221787304796803,Sector
+Blanco,Services,65,0.5242108929090246,Sector
+Blanco,Mining,24,0.8870049451510255,Sector
+Blanco,Health_Care,93,0.047727629272483085,Sector
+Blanco,EnergyExpL_Prod,2,0.16035931038254592,Sector
+Blanco,Utilities,90,0.42055784380645633,Sector

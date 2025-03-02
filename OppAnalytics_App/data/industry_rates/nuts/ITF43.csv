@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Taranto,850,0.408519822954088,Overall
+Taranto,HiTech,51,0.13286845141526837,Sector
+Taranto,Agriculture,97,0.4408902244052858,Sector
+Taranto,Transportation,95,0.8989821233851075,Sector
+Taranto,Consumer_Products,33,0.7235176126963442,Sector
+Taranto,Unassigned,97,0.840306838752949,Sector
+Taranto,Communication,49,0.917417666750753,Sector
+Taranto,Trade,87,0.3201917840590327,Sector
+Taranto,Business_Services,36,0.35269199801455176,Sector
+Taranto,Business_Products,68,0.234447653613425,Sector
+Taranto,Construction,4,0.1965940389785794,Sector
+Taranto,Services,67,0.10132769268576258,Sector
+Taranto,Mining,22,0.2302242307410185,Sector
+Taranto,Health_Care,98,0.18950119824397837,Sector
+Taranto,EnergyExpL_Prod,26,0.2762463829475962,Sector
+Taranto,Utilities,20,0.27258944762166726,Sector

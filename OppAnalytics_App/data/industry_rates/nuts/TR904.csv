@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rize,750,0.45010514842540633,Overall
+Rize,HiTech,0,0.4880213308601441,Sector
+Rize,Agriculture,18,0.4016930012855554,Sector
+Rize,Transportation,52,0.00013379381534439627,Sector
+Rize,Consumer_Products,99,0.33919679091059707,Sector
+Rize,Unassigned,32,0.5533711812790213,Sector
+Rize,Communication,66,0.5748220476591942,Sector
+Rize,Trade,30,0.31240884428754834,Sector
+Rize,Business_Services,36,0.822580339712058,Sector
+Rize,Business_Products,98,0.08037339510605712,Sector
+Rize,Construction,92,0.2147651717558372,Sector
+Rize,Services,36,0.6650291693674725,Sector
+Rize,Mining,82,0.7059793125385128,Sector
+Rize,Health_Care,50,0.31496281102191737,Sector
+Rize,EnergyExpL_Prod,22,0.8581855273608502,Sector
+Rize,Utilities,37,0.42005450942098543,Sector

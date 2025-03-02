@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wahkiakum,780,0.4595299110189767,Overall
+Wahkiakum,HiTech,68,0.2670550841303787,Sector
+Wahkiakum,Agriculture,13,0.08356383257484645,Sector
+Wahkiakum,Transportation,17,0.44473713544039195,Sector
+Wahkiakum,Consumer_Products,73,0.6234093314686739,Sector
+Wahkiakum,Unassigned,74,0.6520355013738964,Sector
+Wahkiakum,Communication,98,0.8067683655903802,Sector
+Wahkiakum,Trade,99,0.2144063339410902,Sector
+Wahkiakum,Business_Services,78,0.19933842493289322,Sector
+Wahkiakum,Business_Products,35,0.16998585504766017,Sector
+Wahkiakum,Construction,71,0.10480584271410942,Sector
+Wahkiakum,Services,53,0.21737072070269026,Sector
+Wahkiakum,Mining,7,0.9032129857066298,Sector
+Wahkiakum,Health_Care,2,0.6722091179920512,Sector
+Wahkiakum,EnergyExpL_Prod,37,0.920489929531732,Sector
+Wahkiakum,Utilities,55,0.613560204137227,Sector

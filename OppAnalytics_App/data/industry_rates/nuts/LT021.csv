@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alytaus apskritis,607,0.5053784898166522,Overall
+Alytaus apskritis,HiTech,34,0.4955718606012669,Sector
+Alytaus apskritis,Agriculture,32,0.21209086005960043,Sector
+Alytaus apskritis,Transportation,59,0.8342185882261103,Sector
+Alytaus apskritis,Consumer_Products,69,0.5504076000072505,Sector
+Alytaus apskritis,Unassigned,38,0.6910422555821034,Sector
+Alytaus apskritis,Communication,7,0.2639869062588339,Sector
+Alytaus apskritis,Trade,5,0.9082405988283754,Sector
+Alytaus apskritis,Business_Services,24,0.925418765338158,Sector
+Alytaus apskritis,Business_Products,45,0.051333556945911574,Sector
+Alytaus apskritis,Construction,27,0.37767230567278254,Sector
+Alytaus apskritis,Services,31,0.4630588988177925,Sector
+Alytaus apskritis,Mining,45,0.14333219395141772,Sector
+Alytaus apskritis,Health_Care,75,0.1918106431309854,Sector
+Alytaus apskritis,EnergyExpL_Prod,26,0.8880554082752357,Sector
+Alytaus apskritis,Utilities,90,0.5844369055539597,Sector

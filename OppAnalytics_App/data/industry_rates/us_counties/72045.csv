@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Comerío,680,0.4920510034079807,Overall
+Comerío,HiTech,59,0.8724381646901457,Sector
+Comerío,Agriculture,5,0.4273375951906958,Sector
+Comerío,Transportation,36,0.07414070922588256,Sector
+Comerío,Consumer_Products,41,0.013102359153496779,Sector
+Comerío,Unassigned,61,0.909290387930131,Sector
+Comerío,Communication,38,0.2638289454022129,Sector
+Comerío,Trade,35,0.7365493878167192,Sector
+Comerío,Business_Services,97,0.5100840022078074,Sector
+Comerío,Business_Products,62,0.5623316887543056,Sector
+Comerío,Construction,27,0.9749192661322926,Sector
+Comerío,Services,34,0.5648357265853388,Sector
+Comerío,Mining,66,0.7689976918923912,Sector
+Comerío,Health_Care,65,0.18455323765865816,Sector
+Comerío,EnergyExpL_Prod,47,0.10992445713571064,Sector
+Comerío,Utilities,7,0.4084314313439217,Sector

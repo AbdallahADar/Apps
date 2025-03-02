@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Toa Baja,844,0.5174200698109437,Overall
+Toa Baja,HiTech,14,0.47764102821507926,Sector
+Toa Baja,Agriculture,12,0.7791598644660369,Sector
+Toa Baja,Transportation,16,0.3087256758847109,Sector
+Toa Baja,Consumer_Products,63,0.9641196696087614,Sector
+Toa Baja,Unassigned,62,0.7974428693422965,Sector
+Toa Baja,Communication,95,0.3844324477197332,Sector
+Toa Baja,Trade,92,0.01256124370332945,Sector
+Toa Baja,Business_Services,49,0.939540740914918,Sector
+Toa Baja,Business_Products,66,0.5231342149057078,Sector
+Toa Baja,Construction,85,0.5622962313509117,Sector
+Toa Baja,Services,21,0.7108884422528984,Sector
+Toa Baja,Mining,99,0.06648360376332241,Sector
+Toa Baja,Health_Care,35,0.34687552829570967,Sector
+Toa Baja,EnergyExpL_Prod,49,0.5168196523745571,Sector
+Toa Baja,Utilities,86,0.3711798343661825,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yolo,934,0.4096134783347895,Overall
+Yolo,HiTech,40,0.11920427500535591,Sector
+Yolo,Agriculture,88,0.7079044280281409,Sector
+Yolo,Transportation,82,0.013885959268421066,Sector
+Yolo,Consumer_Products,10,0.3331798223276289,Sector
+Yolo,Unassigned,10,0.9271253274847339,Sector
+Yolo,Communication,61,0.5871443163008647,Sector
+Yolo,Trade,92,0.6211641679203483,Sector
+Yolo,Business_Services,84,0.12310006681887731,Sector
+Yolo,Business_Products,80,0.027090172951938718,Sector
+Yolo,Construction,94,0.1579395177487305,Sector
+Yolo,Services,49,0.36553456881163093,Sector
+Yolo,Mining,55,0.7598349076806269,Sector
+Yolo,Health_Care,77,0.9185465678925063,Sector
+Yolo,EnergyExpL_Prod,35,0.16704022005037256,Sector
+Yolo,Utilities,77,0.31550785673166437,Sector

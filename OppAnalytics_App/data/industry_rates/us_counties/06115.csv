@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yuba,865,0.5711174249445727,Overall
+Yuba,HiTech,18,0.5108106710136702,Sector
+Yuba,Agriculture,31,0.6959152326250931,Sector
+Yuba,Transportation,52,0.32070588962128854,Sector
+Yuba,Consumer_Products,96,0.8437219065881343,Sector
+Yuba,Unassigned,0,0.011441938176623756,Sector
+Yuba,Communication,88,0.7580062491655254,Sector
+Yuba,Trade,45,0.9132713980521547,Sector
+Yuba,Business_Services,49,0.1132751525868666,Sector
+Yuba,Business_Products,71,0.1623538834971877,Sector
+Yuba,Construction,28,0.9739328882671267,Sector
+Yuba,Services,62,0.914541234374915,Sector
+Yuba,Mining,88,0.7054523420423908,Sector
+Yuba,Health_Care,52,0.7457599251809396,Sector
+Yuba,EnergyExpL_Prod,89,0.8242397845792024,Sector
+Yuba,Utilities,96,0.07333287839747349,Sector

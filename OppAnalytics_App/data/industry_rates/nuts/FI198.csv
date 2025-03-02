@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Keski-Suomi,810,0.41033672201606597,Overall
+Keski-Suomi,HiTech,55,0.3998498910232766,Sector
+Keski-Suomi,Agriculture,23,0.03399708965736836,Sector
+Keski-Suomi,Transportation,77,0.11235907504876352,Sector
+Keski-Suomi,Consumer_Products,43,0.3942945998436378,Sector
+Keski-Suomi,Unassigned,56,0.09590005406011326,Sector
+Keski-Suomi,Communication,25,0.9833032260345785,Sector
+Keski-Suomi,Trade,83,0.4332789501155252,Sector
+Keski-Suomi,Business_Services,19,0.5198984130722138,Sector
+Keski-Suomi,Business_Products,39,0.8695680128894336,Sector
+Keski-Suomi,Construction,23,0.3036369586316674,Sector
+Keski-Suomi,Services,59,0.6625058374902486,Sector
+Keski-Suomi,Mining,64,0.4034697042884996,Sector
+Keski-Suomi,Health_Care,55,0.18679066546155998,Sector
+Keski-Suomi,EnergyExpL_Prod,91,0.05823322542646858,Sector
+Keski-Suomi,Utilities,98,0.6979651271976337,Sector

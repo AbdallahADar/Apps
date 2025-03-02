@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Erie,724,0.46613336448884135,Overall
+Erie,HiTech,58,0.17315581882912512,Sector
+Erie,Agriculture,84,0.19009205450240674,Sector
+Erie,Transportation,55,0.918926572315999,Sector
+Erie,Consumer_Products,18,0.24025409749763782,Sector
+Erie,Unassigned,36,0.04933824554586874,Sector
+Erie,Communication,39,0.6036928866522592,Sector
+Erie,Trade,13,0.4608308899949599,Sector
+Erie,Business_Services,82,0.8130966001237893,Sector
+Erie,Business_Products,34,0.99401014559169,Sector
+Erie,Construction,5,0.024547594586872834,Sector
+Erie,Services,29,0.9532386871778481,Sector
+Erie,Mining,76,0.5690173230334514,Sector
+Erie,Health_Care,32,0.019312985270942273,Sector
+Erie,EnergyExpL_Prod,90,0.03549657394445238,Sector
+Erie,Utilities,73,0.946989992265318,Sector

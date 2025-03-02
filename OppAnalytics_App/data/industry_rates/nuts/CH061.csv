@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Luzern,749,0.5796086452591249,Overall
+Luzern,HiTech,37,0.17238641264428156,Sector
+Luzern,Agriculture,27,0.8918705812577684,Sector
+Luzern,Transportation,16,0.37053370370353034,Sector
+Luzern,Consumer_Products,39,0.8724911453931712,Sector
+Luzern,Unassigned,84,0.6038751258052137,Sector
+Luzern,Communication,55,0.1574505347095596,Sector
+Luzern,Trade,97,0.6552373433791874,Sector
+Luzern,Business_Services,97,0.11102731677937794,Sector
+Luzern,Business_Products,50,0.7221350748414427,Sector
+Luzern,Construction,3,0.8201085291298982,Sector
+Luzern,Services,44,0.9306544506587364,Sector
+Luzern,Mining,53,0.9805178720034312,Sector
+Luzern,Health_Care,17,0.5942657067631765,Sector
+Luzern,EnergyExpL_Prod,75,0.3599771289674245,Sector
+Luzern,Utilities,55,0.45159875285067574,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sosnowiecki,554,0.5966107121887403,Overall
+Sosnowiecki,HiTech,57,0.6181979630317835,Sector
+Sosnowiecki,Agriculture,11,0.513219739677565,Sector
+Sosnowiecki,Transportation,25,0.5639062140467261,Sector
+Sosnowiecki,Consumer_Products,4,0.06662535737710917,Sector
+Sosnowiecki,Unassigned,36,0.8105345611781106,Sector
+Sosnowiecki,Communication,90,0.8616931712938967,Sector
+Sosnowiecki,Trade,6,0.3500506781373004,Sector
+Sosnowiecki,Business_Services,56,0.9954664977837576,Sector
+Sosnowiecki,Business_Products,1,0.9652901385456302,Sector
+Sosnowiecki,Construction,16,0.8614446559275034,Sector
+Sosnowiecki,Services,4,0.48648446447465876,Sector
+Sosnowiecki,Mining,98,0.13925421859025944,Sector
+Sosnowiecki,Health_Care,95,0.8668856617840683,Sector
+Sosnowiecki,EnergyExpL_Prod,14,0.7751183820695996,Sector
+Sosnowiecki,Utilities,41,0.07498897891313472,Sector

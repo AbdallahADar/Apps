@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Manche ,864,0.5159044470708588,Overall
+Manche ,HiTech,27,0.6044646649654689,Sector
+Manche ,Agriculture,16,0.2719518491423937,Sector
+Manche ,Transportation,44,0.6471293230750725,Sector
+Manche ,Consumer_Products,65,0.971813096116098,Sector
+Manche ,Unassigned,41,0.5542572894046102,Sector
+Manche ,Communication,36,0.5532796563584556,Sector
+Manche ,Trade,91,0.4183426776566157,Sector
+Manche ,Business_Services,86,0.30000967334125606,Sector
+Manche ,Business_Products,94,0.40313079120214124,Sector
+Manche ,Construction,17,0.5556241252358496,Sector
+Manche ,Services,13,0.7853347038304695,Sector
+Manche ,Mining,93,0.24283380088852524,Sector
+Manche ,Health_Care,96,0.07108149638863392,Sector
+Manche ,EnergyExpL_Prod,96,0.9325242143694329,Sector
+Manche ,Utilities,49,0.42678934408785885,Sector

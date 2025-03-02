@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Börde,840,0.43249573652155493,Overall
+Börde,HiTech,54,0.32686464997054665,Sector
+Börde,Agriculture,90,0.038618496782458545,Sector
+Börde,Transportation,29,0.5365414793471289,Sector
+Börde,Consumer_Products,38,0.22100796268592393,Sector
+Börde,Unassigned,7,0.7982526585874977,Sector
+Börde,Communication,90,0.10241068717807356,Sector
+Börde,Trade,36,0.008697880094700183,Sector
+Börde,Business_Services,27,0.6069131442584972,Sector
+Börde,Business_Products,83,0.5760701962101037,Sector
+Börde,Construction,85,0.9029869259216831,Sector
+Börde,Services,89,0.5161162104536143,Sector
+Börde,Mining,76,0.81194602578323,Sector
+Börde,Health_Care,6,0.11487164756537716,Sector
+Börde,EnergyExpL_Prod,74,0.7694382844514895,Sector
+Börde,Utilities,56,0.1566997985329982,Sector

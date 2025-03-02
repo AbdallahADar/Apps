@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yvelines ,644,0.5038801709945945,Overall
+Yvelines ,HiTech,20,0.8353485253727678,Sector
+Yvelines ,Agriculture,10,0.11284987496700327,Sector
+Yvelines ,Transportation,11,0.4959372125072936,Sector
+Yvelines ,Consumer_Products,5,0.3343471025053232,Sector
+Yvelines ,Unassigned,67,0.9438241848402112,Sector
+Yvelines ,Communication,42,0.23404097335738283,Sector
+Yvelines ,Trade,33,0.7063989582974493,Sector
+Yvelines ,Business_Services,15,0.575496683547014,Sector
+Yvelines ,Business_Products,71,0.2997105826233035,Sector
+Yvelines ,Construction,90,0.8378557331915559,Sector
+Yvelines ,Services,45,0.6001048205905516,Sector
+Yvelines ,Mining,18,0.47459875557575437,Sector
+Yvelines ,Health_Care,96,0.26372398194224056,Sector
+Yvelines ,EnergyExpL_Prod,46,0.42593998152947055,Sector
+Yvelines ,Utilities,75,0.41802519407159466,Sector

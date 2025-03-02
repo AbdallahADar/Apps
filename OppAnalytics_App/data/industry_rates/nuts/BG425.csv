@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kardzhali,546,0.4894897912722401,Overall
+Kardzhali,HiTech,85,0.09195115627841977,Sector
+Kardzhali,Agriculture,1,0.15355167489595778,Sector
+Kardzhali,Transportation,50,0.5370947506469083,Sector
+Kardzhali,Consumer_Products,10,0.6979351704457802,Sector
+Kardzhali,Unassigned,22,0.7463862082186588,Sector
+Kardzhali,Communication,13,0.3410603925876685,Sector
+Kardzhali,Trade,41,0.41508237649554014,Sector
+Kardzhali,Business_Services,65,0.8496765171344589,Sector
+Kardzhali,Business_Products,0,0.7351056580817118,Sector
+Kardzhali,Construction,65,0.2838841467567852,Sector
+Kardzhali,Services,8,0.7946110844926444,Sector
+Kardzhali,Mining,55,0.250724026842291,Sector
+Kardzhali,Health_Care,91,0.2438839859556381,Sector
+Kardzhali,EnergyExpL_Prod,36,0.39015920769137846,Sector
+Kardzhali,Utilities,4,0.8112405125597594,Sector

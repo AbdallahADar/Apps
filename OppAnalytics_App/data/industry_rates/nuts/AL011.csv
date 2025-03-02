@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dibër,704,0.6201889824802669,Overall
+Dibër,HiTech,59,0.5122120452112898,Sector
+Dibër,Agriculture,6,0.528612284579074,Sector
+Dibër,Transportation,36,0.5250213037902438,Sector
+Dibër,Consumer_Products,59,0.907979647787664,Sector
+Dibër,Unassigned,86,0.23324643462916173,Sector
+Dibër,Communication,95,0.5499844846370128,Sector
+Dibër,Trade,31,0.37381692390648646,Sector
+Dibër,Business_Services,51,0.4728177263456924,Sector
+Dibër,Business_Products,65,0.8286084106520886,Sector
+Dibër,Construction,5,0.5772974070684532,Sector
+Dibër,Services,30,0.5496893654297541,Sector
+Dibër,Mining,90,0.8519031436949995,Sector
+Dibër,Health_Care,32,0.6740301746568688,Sector
+Dibër,EnergyExpL_Prod,18,0.9313339188029309,Sector
+Dibër,Utilities,41,0.7862814660122841,Sector

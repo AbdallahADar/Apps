@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stokes,507,0.47615622407550295,Overall
+Stokes,HiTech,18,0.08361408495398048,Sector
+Stokes,Agriculture,5,0.5820608013001063,Sector
+Stokes,Transportation,43,0.056982209118361715,Sector
+Stokes,Consumer_Products,37,0.1776116016038859,Sector
+Stokes,Unassigned,82,0.6125344879309149,Sector
+Stokes,Communication,48,0.18703877241970768,Sector
+Stokes,Trade,58,0.6614854496402819,Sector
+Stokes,Business_Services,33,0.5195541249661925,Sector
+Stokes,Business_Products,21,0.04612747916485771,Sector
+Stokes,Construction,15,0.6457294206713892,Sector
+Stokes,Services,57,0.7682428853642308,Sector
+Stokes,Mining,4,0.8984561907616118,Sector
+Stokes,Health_Care,5,0.4834510556576287,Sector
+Stokes,EnergyExpL_Prod,62,0.7863317232277347,Sector
+Stokes,Utilities,19,0.63312307435166,Sector

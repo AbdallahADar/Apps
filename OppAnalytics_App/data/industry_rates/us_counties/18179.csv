@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wells,732,0.6239038979717481,Overall
+Wells,HiTech,50,0.9870833672764675,Sector
+Wells,Agriculture,17,0.040755766579516184,Sector
+Wells,Transportation,56,0.6404769944660513,Sector
+Wells,Consumer_Products,68,0.9221157122720358,Sector
+Wells,Unassigned,21,0.672839888042259,Sector
+Wells,Communication,51,0.41715775892925555,Sector
+Wells,Trade,62,0.6215291353343578,Sector
+Wells,Business_Services,95,0.44419178136111837,Sector
+Wells,Business_Products,90,0.8074245475021401,Sector
+Wells,Construction,4,0.4389033205312076,Sector
+Wells,Services,39,0.8261823362270561,Sector
+Wells,Mining,6,0.20857836946088237,Sector
+Wells,Health_Care,35,0.9084715294925537,Sector
+Wells,EnergyExpL_Prod,41,0.83050734037267,Sector
+Wells,Utilities,97,0.5923406217286494,Sector

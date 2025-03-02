@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Osage,679,0.5533851552831065,Overall
+Osage,HiTech,28,0.5665368596026241,Sector
+Osage,Agriculture,35,0.17605743087174175,Sector
+Osage,Transportation,38,0.1324331712510023,Sector
+Osage,Consumer_Products,61,0.5712898856894962,Sector
+Osage,Unassigned,50,0.7402722028180935,Sector
+Osage,Communication,19,0.6832818065901161,Sector
+Osage,Trade,57,0.8320403318832865,Sector
+Osage,Business_Services,69,0.4940388562206415,Sector
+Osage,Business_Products,77,0.10941762632734864,Sector
+Osage,Construction,81,0.22709302580624868,Sector
+Osage,Services,65,0.9398811978239839,Sector
+Osage,Mining,37,0.9800687348782486,Sector
+Osage,Health_Care,4,0.4047478759350903,Sector
+Osage,EnergyExpL_Prod,41,0.8066228235128011,Sector
+Osage,Utilities,17,0.6369955000358754,Sector

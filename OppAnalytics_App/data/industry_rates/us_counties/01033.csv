@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Colbert,645,0.42992214861374317,Overall
+Colbert,HiTech,44,0.8816867526178446,Sector
+Colbert,Agriculture,23,0.6547827323762698,Sector
+Colbert,Transportation,34,0.0017895109127105124,Sector
+Colbert,Consumer_Products,36,0.9618338071231266,Sector
+Colbert,Unassigned,75,0.13288261598996787,Sector
+Colbert,Communication,66,0.11913108834715502,Sector
+Colbert,Trade,35,0.2635727498156496,Sector
+Colbert,Business_Services,7,0.5602611441616594,Sector
+Colbert,Business_Products,19,0.28870353582190467,Sector
+Colbert,Construction,53,0.590694454605721,Sector
+Colbert,Services,48,0.0003259835781032061,Sector
+Colbert,Mining,94,0.5316886643702634,Sector
+Colbert,Health_Care,73,0.5015645085162825,Sector
+Colbert,EnergyExpL_Prod,37,0.24634498798961868,Sector
+Colbert,Utilities,1,0.7135696929798706,Sector

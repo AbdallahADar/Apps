@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Adair,652,0.6085307293715023,Overall
+Adair,HiTech,92,0.4641699005778911,Sector
+Adair,Agriculture,23,0.6718001917301809,Sector
+Adair,Transportation,61,0.6039487164381274,Sector
+Adair,Consumer_Products,11,0.5588175210087845,Sector
+Adair,Unassigned,33,0.7398002141113654,Sector
+Adair,Communication,45,0.2881114918093811,Sector
+Adair,Trade,1,0.6936128584024257,Sector
+Adair,Business_Services,14,0.46829112240588133,Sector
+Adair,Business_Products,62,0.8006857830573467,Sector
+Adair,Construction,91,0.18716316838491365,Sector
+Adair,Services,62,0.6822281258854367,Sector
+Adair,Mining,28,0.9990930508623331,Sector
+Adair,Health_Care,62,0.6264270274202016,Sector
+Adair,EnergyExpL_Prod,30,0.7928174786103868,Sector
+Adair,Utilities,37,0.5509942898678791,Sector

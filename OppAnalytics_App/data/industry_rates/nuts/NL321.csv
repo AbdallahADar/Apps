@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kop van Noord-Holland,815,0.4823566628377209,Overall
+Kop van Noord-Holland,HiTech,66,0.4725608204053525,Sector
+Kop van Noord-Holland,Agriculture,57,0.030573363110308338,Sector
+Kop van Noord-Holland,Transportation,78,0.1531145074781307,Sector
+Kop van Noord-Holland,Consumer_Products,29,0.5806173804660563,Sector
+Kop van Noord-Holland,Unassigned,97,0.590671036065621,Sector
+Kop van Noord-Holland,Communication,64,0.8632569730675763,Sector
+Kop van Noord-Holland,Trade,71,0.786877821226628,Sector
+Kop van Noord-Holland,Business_Services,91,0.973182663627812,Sector
+Kop van Noord-Holland,Business_Products,19,0.16976147342821246,Sector
+Kop van Noord-Holland,Construction,10,0.20776186226726379,Sector
+Kop van Noord-Holland,Services,84,0.20373372256496292,Sector
+Kop van Noord-Holland,Mining,37,0.5016788093784829,Sector
+Kop van Noord-Holland,Health_Care,22,0.6088657543814197,Sector
+Kop van Noord-Holland,EnergyExpL_Prod,42,0.8439929110640721,Sector
+Kop van Noord-Holland,Utilities,48,0.2487008440339148,Sector

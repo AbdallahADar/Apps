@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Daniels,877,0.44455965983009454,Overall
+Daniels,HiTech,36,0.6691454297651995,Sector
+Daniels,Agriculture,95,0.36304181026321725,Sector
+Daniels,Transportation,39,0.626579950170587,Sector
+Daniels,Consumer_Products,28,0.15266428324653702,Sector
+Daniels,Unassigned,82,0.29335106632104835,Sector
+Daniels,Communication,70,0.44444325799996964,Sector
+Daniels,Trade,53,0.7726756610226404,Sector
+Daniels,Business_Services,63,0.3140154610715232,Sector
+Daniels,Business_Products,97,0.32580626545133795,Sector
+Daniels,Construction,5,0.39100842450035256,Sector
+Daniels,Services,51,0.3748188716701403,Sector
+Daniels,Mining,87,0.7247699774922987,Sector
+Daniels,Health_Care,62,0.1663374541836239,Sector
+Daniels,EnergyExpL_Prod,28,0.8162928414841221,Sector
+Daniels,Utilities,81,0.2334441428088201,Sector

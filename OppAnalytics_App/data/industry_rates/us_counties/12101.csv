@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pasco,648,0.43899374081329495,Overall
+Pasco,HiTech,54,0.8191960567565303,Sector
+Pasco,Agriculture,65,0.6935066567214625,Sector
+Pasco,Transportation,60,0.8711597213234381,Sector
+Pasco,Consumer_Products,34,0.8537434510603302,Sector
+Pasco,Unassigned,51,0.7295418092651946,Sector
+Pasco,Communication,11,0.11721808122899058,Sector
+Pasco,Trade,99,0.15668582148387422,Sector
+Pasco,Business_Services,10,0.5301060529712542,Sector
+Pasco,Business_Products,78,0.2091902291366622,Sector
+Pasco,Construction,87,0.14788104629128218,Sector
+Pasco,Services,0,0.13380720195425233,Sector
+Pasco,Mining,3,0.23266128967687671,Sector
+Pasco,Health_Care,3,0.3156101508951191,Sector
+Pasco,EnergyExpL_Prod,27,0.23671161397356533,Sector
+Pasco,Utilities,66,0.5378869294605927,Sector

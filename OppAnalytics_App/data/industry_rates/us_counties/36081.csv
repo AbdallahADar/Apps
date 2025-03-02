@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Queens,687,0.5264415256768981,Overall
+Queens,HiTech,32,0.09291388971636516,Sector
+Queens,Agriculture,99,0.9989933221766969,Sector
+Queens,Transportation,5,0.2878902233274647,Sector
+Queens,Consumer_Products,4,0.3132486364128988,Sector
+Queens,Unassigned,48,0.093689127177639,Sector
+Queens,Communication,87,0.6625668653265976,Sector
+Queens,Trade,14,0.3544087980337478,Sector
+Queens,Business_Services,3,0.6583397819878015,Sector
+Queens,Business_Products,57,0.7394022306006152,Sector
+Queens,Construction,47,0.7034219682497281,Sector
+Queens,Services,54,0.7169597603261376,Sector
+Queens,Mining,0,0.300707332064728,Sector
+Queens,Health_Care,70,0.4826097563854894,Sector
+Queens,EnergyExpL_Prod,77,0.8888833615876356,Sector
+Queens,Utilities,90,0.6025878317799265,Sector

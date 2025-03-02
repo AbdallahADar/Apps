@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nowata,764,0.545104788976492,Overall
+Nowata,HiTech,50,0.9613323794223153,Sector
+Nowata,Agriculture,58,0.26172697698471104,Sector
+Nowata,Transportation,63,0.11250182496093275,Sector
+Nowata,Consumer_Products,10,0.9034285216422568,Sector
+Nowata,Unassigned,25,0.8678291988807509,Sector
+Nowata,Communication,53,0.1458490459724895,Sector
+Nowata,Trade,99,0.946349007347209,Sector
+Nowata,Business_Services,81,0.19224481416536388,Sector
+Nowata,Business_Products,58,0.9264971894921279,Sector
+Nowata,Construction,85,0.4634713623820178,Sector
+Nowata,Services,66,0.7151994224711834,Sector
+Nowata,Mining,83,0.2722981182929002,Sector
+Nowata,Health_Care,6,0.7670505895712111,Sector
+Nowata,EnergyExpL_Prod,21,0.2575972862447721,Sector
+Nowata,Utilities,6,0.3831960968171374,Sector

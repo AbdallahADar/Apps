@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Araba/Álava,867,0.48894809466651207,Overall
+Araba/Álava,HiTech,83,0.9346891251017849,Sector
+Araba/Álava,Agriculture,12,0.8254623932662595,Sector
+Araba/Álava,Transportation,41,0.27725874522295957,Sector
+Araba/Álava,Consumer_Products,86,0.06147873484538402,Sector
+Araba/Álava,Unassigned,71,0.4546243382081623,Sector
+Araba/Álava,Communication,71,0.23365811107738654,Sector
+Araba/Álava,Trade,91,0.3423519190758679,Sector
+Araba/Álava,Business_Services,46,0.849420990795797,Sector
+Araba/Álava,Business_Products,12,0.24059253046950602,Sector
+Araba/Álava,Construction,68,0.8455192602030214,Sector
+Araba/Álava,Services,56,0.9698272617163107,Sector
+Araba/Álava,Mining,72,0.04495931183895463,Sector
+Araba/Álava,Health_Care,86,0.23032881318771292,Sector
+Araba/Álava,EnergyExpL_Prod,60,0.1388325678852801,Sector
+Araba/Álava,Utilities,12,0.8852173171032937,Sector

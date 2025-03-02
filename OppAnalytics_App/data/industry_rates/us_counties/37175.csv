@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Transylvania,764,0.6052573358206381,Overall
+Transylvania,HiTech,28,0.7392450717268605,Sector
+Transylvania,Agriculture,96,0.502594971804944,Sector
+Transylvania,Transportation,80,0.632106351404897,Sector
+Transylvania,Consumer_Products,9,0.49290347639925003,Sector
+Transylvania,Unassigned,23,0.8754251575266387,Sector
+Transylvania,Communication,21,0.7486432958841106,Sector
+Transylvania,Trade,13,0.79959772930024,Sector
+Transylvania,Business_Services,72,0.6000381374864213,Sector
+Transylvania,Business_Products,71,0.9433253474993112,Sector
+Transylvania,Construction,26,0.7472005912450496,Sector
+Transylvania,Services,52,0.4396943696881669,Sector
+Transylvania,Mining,70,0.4194845615599768,Sector
+Transylvania,Health_Care,83,0.3892601053812793,Sector
+Transylvania,EnergyExpL_Prod,58,0.447653508715672,Sector
+Transylvania,Utilities,62,0.3016873616867546,Sector

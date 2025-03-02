@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tokat,659,0.4774554311376903,Overall
+Tokat,HiTech,31,0.3445234847571005,Sector
+Tokat,Agriculture,47,0.580441660372289,Sector
+Tokat,Transportation,73,0.6665107794482019,Sector
+Tokat,Consumer_Products,58,0.3349040609511881,Sector
+Tokat,Unassigned,47,0.31884570155253733,Sector
+Tokat,Communication,22,0.4490074346743105,Sector
+Tokat,Trade,1,0.38668347147918314,Sector
+Tokat,Business_Services,42,0.5873186007701607,Sector
+Tokat,Business_Products,31,0.6882135393335138,Sector
+Tokat,Construction,98,0.5741150714763106,Sector
+Tokat,Services,28,0.5609950082506313,Sector
+Tokat,Mining,31,0.31243358110096753,Sector
+Tokat,Health_Care,2,0.3585486982792623,Sector
+Tokat,EnergyExpL_Prod,81,0.7609582985649574,Sector
+Tokat,Utilities,67,0.23833207605474027,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oberallgäu,632,0.48363242827572966,Overall
+Oberallgäu,HiTech,18,0.06375527910568912,Sector
+Oberallgäu,Agriculture,9,0.6038672968235634,Sector
+Oberallgäu,Transportation,38,0.7111752904925631,Sector
+Oberallgäu,Consumer_Products,33,0.2388940543797483,Sector
+Oberallgäu,Unassigned,85,0.7209265581613891,Sector
+Oberallgäu,Communication,91,0.872580483439272,Sector
+Oberallgäu,Trade,0,0.09857139028145057,Sector
+Oberallgäu,Business_Services,83,0.6140391866142881,Sector
+Oberallgäu,Business_Products,49,0.748921884191166,Sector
+Oberallgäu,Construction,30,0.5792348827510683,Sector
+Oberallgäu,Services,75,0.036382353756578056,Sector
+Oberallgäu,Mining,43,0.8219773776956354,Sector
+Oberallgäu,Health_Care,6,0.14595656795231415,Sector
+Oberallgäu,EnergyExpL_Prod,65,0.3923085753553336,Sector
+Oberallgäu,Utilities,7,0.6058952431358854,Sector

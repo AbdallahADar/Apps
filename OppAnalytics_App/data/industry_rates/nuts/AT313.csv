@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mühlviertel,672,0.6029197012638184,Overall
+Mühlviertel,HiTech,7,0.9455432473353657,Sector
+Mühlviertel,Agriculture,88,0.9847591383246295,Sector
+Mühlviertel,Transportation,54,0.30880842734161595,Sector
+Mühlviertel,Consumer_Products,59,0.2565284272366637,Sector
+Mühlviertel,Unassigned,36,0.07265699836352713,Sector
+Mühlviertel,Communication,76,0.5034111999514497,Sector
+Mühlviertel,Trade,4,0.7876704368511936,Sector
+Mühlviertel,Business_Services,74,0.972725372013163,Sector
+Mühlviertel,Business_Products,36,0.9204523931032772,Sector
+Mühlviertel,Construction,25,0.6562949979872087,Sector
+Mühlviertel,Services,78,0.6107957025426859,Sector
+Mühlviertel,Mining,25,0.03288785243330905,Sector
+Mühlviertel,Health_Care,2,0.04671215028726061,Sector
+Mühlviertel,EnergyExpL_Prod,51,0.9495678410501037,Sector
+Mühlviertel,Utilities,57,0.9949813341358237,Sector

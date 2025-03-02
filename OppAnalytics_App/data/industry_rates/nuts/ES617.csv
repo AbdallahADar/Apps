@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Málaga,911,0.4644368515075775,Overall
+Málaga,HiTech,89,0.9126272160566911,Sector
+Málaga,Agriculture,46,0.07843723772427713,Sector
+Málaga,Transportation,77,0.08942087137149268,Sector
+Málaga,Consumer_Products,48,0.2773460449981978,Sector
+Málaga,Unassigned,47,0.9748111751291452,Sector
+Málaga,Communication,84,0.23436415360744778,Sector
+Málaga,Trade,96,0.3200329846468334,Sector
+Málaga,Business_Services,23,0.24088319295201377,Sector
+Málaga,Business_Products,19,0.287118398459127,Sector
+Málaga,Construction,70,0.4991317161411005,Sector
+Málaga,Services,51,0.6413896090535598,Sector
+Málaga,Mining,49,0.4086588880924473,Sector
+Málaga,Health_Care,60,0.9543130392218444,Sector
+Málaga,EnergyExpL_Prod,97,0.5787338942148939,Sector
+Málaga,Utilities,55,0.46928435094459076,Sector

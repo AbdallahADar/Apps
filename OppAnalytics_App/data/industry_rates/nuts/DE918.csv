@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Northeim,831,0.5033287763600961,Overall
+Northeim,HiTech,85,0.9594917585454427,Sector
+Northeim,Agriculture,12,0.4842097681495915,Sector
+Northeim,Transportation,62,0.20934105130174419,Sector
+Northeim,Consumer_Products,57,0.2560955895379309,Sector
+Northeim,Unassigned,79,0.6566002439837172,Sector
+Northeim,Communication,74,0.31515721447792944,Sector
+Northeim,Trade,93,0.8358973223507582,Sector
+Northeim,Business_Services,66,0.8607138579566332,Sector
+Northeim,Business_Products,62,0.08718909916795314,Sector
+Northeim,Construction,61,0.3567804207721499,Sector
+Northeim,Services,20,0.09166936539616788,Sector
+Northeim,Mining,22,0.6406874932809054,Sector
+Northeim,Health_Care,22,0.5330079604463108,Sector
+Northeim,EnergyExpL_Prod,45,0.8013343837014367,Sector
+Northeim,Utilities,71,0.4617561163327697,Sector

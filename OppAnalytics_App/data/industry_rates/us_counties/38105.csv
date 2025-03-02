@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Williams,735,0.49243112817256285,Overall
+Williams,HiTech,50,0.5148552733099875,Sector
+Williams,Agriculture,85,0.23677505895038042,Sector
+Williams,Transportation,52,0.88125669689701,Sector
+Williams,Consumer_Products,2,0.8927690338926465,Sector
+Williams,Unassigned,60,0.24245576121981727,Sector
+Williams,Communication,37,0.025478078200986132,Sector
+Williams,Trade,58,0.11515837881803881,Sector
+Williams,Business_Services,51,0.5313015432899628,Sector
+Williams,Business_Products,25,0.7497014785586625,Sector
+Williams,Construction,69,0.9555088268177383,Sector
+Williams,Services,97,0.8687375838205743,Sector
+Williams,Mining,23,0.253405459343532,Sector
+Williams,Health_Care,15,0.4355375185998177,Sector
+Williams,EnergyExpL_Prod,65,0.4323025287842822,Sector
+Williams,Utilities,46,0.25122370208500555,Sector

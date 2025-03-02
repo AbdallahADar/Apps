@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Montgomery,647,0.550271857944803,Overall
+Montgomery,HiTech,32,0.6100137172076985,Sector
+Montgomery,Agriculture,58,0.7845762128386042,Sector
+Montgomery,Transportation,63,0.2317181247875011,Sector
+Montgomery,Consumer_Products,26,0.6443855141024273,Sector
+Montgomery,Unassigned,10,0.08807795152836906,Sector
+Montgomery,Communication,93,0.47017303879179995,Sector
+Montgomery,Trade,37,0.8474615456066592,Sector
+Montgomery,Business_Services,8,0.9777446221099049,Sector
+Montgomery,Business_Products,3,0.8940845508006828,Sector
+Montgomery,Construction,18,0.3310876151325032,Sector
+Montgomery,Services,45,0.21047118772979734,Sector
+Montgomery,Mining,88,0.9523254859883715,Sector
+Montgomery,Health_Care,22,0.12087707328754205,Sector
+Montgomery,EnergyExpL_Prod,72,0.9146284735054476,Sector
+Montgomery,Utilities,72,0.17645275575473696,Sector

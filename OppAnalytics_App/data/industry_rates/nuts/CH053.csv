@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Appenzell Ausserrhoden,620,0.47743632039016703,Overall
+Appenzell Ausserrhoden,HiTech,40,0.3380006413714908,Sector
+Appenzell Ausserrhoden,Agriculture,71,0.0434993562614282,Sector
+Appenzell Ausserrhoden,Transportation,2,0.7062753254027617,Sector
+Appenzell Ausserrhoden,Consumer_Products,39,0.9682840703867915,Sector
+Appenzell Ausserrhoden,Unassigned,41,0.6014316105230174,Sector
+Appenzell Ausserrhoden,Communication,69,0.6545000264788249,Sector
+Appenzell Ausserrhoden,Trade,6,0.8589840316241418,Sector
+Appenzell Ausserrhoden,Business_Services,60,0.23501228915415362,Sector
+Appenzell Ausserrhoden,Business_Products,73,0.4716994018875189,Sector
+Appenzell Ausserrhoden,Construction,65,0.05707039983653783,Sector
+Appenzell Ausserrhoden,Services,0,0.39676582144951533,Sector
+Appenzell Ausserrhoden,Mining,88,0.38986643798073595,Sector
+Appenzell Ausserrhoden,Health_Care,15,0.6228425198451911,Sector
+Appenzell Ausserrhoden,EnergyExpL_Prod,23,0.14408579698006163,Sector
+Appenzell Ausserrhoden,Utilities,28,0.6732270766703352,Sector

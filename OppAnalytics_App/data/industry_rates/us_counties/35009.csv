@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Curry,628,0.4784784895158822,Overall
+Curry,HiTech,16,0.4696295897221041,Sector
+Curry,Agriculture,19,0.5974767012322518,Sector
+Curry,Transportation,24,0.5813825868288014,Sector
+Curry,Consumer_Products,45,0.2703788433114295,Sector
+Curry,Unassigned,34,0.9749355912585359,Sector
+Curry,Communication,7,0.5238592582340985,Sector
+Curry,Trade,27,0.4593908236049127,Sector
+Curry,Business_Services,64,0.3617489812083531,Sector
+Curry,Business_Products,94,0.6406520560280504,Sector
+Curry,Construction,47,0.049841683527797165,Sector
+Curry,Services,30,0.12549069132560287,Sector
+Curry,Mining,71,0.6177368634486641,Sector
+Curry,Health_Care,44,0.14778815015033753,Sector
+Curry,EnergyExpL_Prod,14,0.6673273629551416,Sector
+Curry,Utilities,92,0.6895381599021506,Sector

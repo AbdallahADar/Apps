@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Boyd,811,0.5007407058558955,Overall
+Boyd,HiTech,36,0.31757795411898315,Sector
+Boyd,Agriculture,58,0.1720959467514862,Sector
+Boyd,Transportation,76,0.7401471755949409,Sector
+Boyd,Consumer_Products,98,0.6753038641305517,Sector
+Boyd,Unassigned,56,0.24842179647207685,Sector
+Boyd,Communication,28,0.8925796843855425,Sector
+Boyd,Trade,90,0.1340351879780628,Sector
+Boyd,Business_Services,4,0.21047267344191523,Sector
+Boyd,Business_Products,85,0.2831962283513969,Sector
+Boyd,Construction,68,0.06144623533014171,Sector
+Boyd,Services,44,0.9634474117397808,Sector
+Boyd,Mining,37,0.640955893926441,Sector
+Boyd,Health_Care,45,0.9957354634494504,Sector
+Boyd,EnergyExpL_Prod,39,0.9776214091135218,Sector
+Boyd,Utilities,47,0.19807366305414031,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rock,657,0.5364559726625835,Overall
+Rock,HiTech,44,0.4894811250259743,Sector
+Rock,Agriculture,86,0.2743829303953168,Sector
+Rock,Transportation,66,0.10517177687148505,Sector
+Rock,Consumer_Products,7,0.8931411040758336,Sector
+Rock,Unassigned,57,0.610626748259586,Sector
+Rock,Communication,9,0.9376222695121612,Sector
+Rock,Trade,58,0.7332079962079583,Sector
+Rock,Business_Services,26,0.6948968201801858,Sector
+Rock,Business_Products,9,0.21687713910579398,Sector
+Rock,Construction,10,0.04684556726516276,Sector
+Rock,Services,86,0.5459329269449108,Sector
+Rock,Mining,93,0.8474134845169049,Sector
+Rock,Health_Care,37,0.3684487834882022,Sector
+Rock,EnergyExpL_Prod,3,0.9202593722266972,Sector
+Rock,Utilities,66,0.36253154586257963,Sector

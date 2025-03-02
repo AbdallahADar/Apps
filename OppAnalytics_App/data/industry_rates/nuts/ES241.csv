@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Huesca,834,0.3020145405742059,Overall
+Huesca,HiTech,1,0.10211181669638802,Sector
+Huesca,Agriculture,61,0.25245750545031465,Sector
+Huesca,Transportation,39,0.060015734961979095,Sector
+Huesca,Consumer_Products,97,0.19681084088586043,Sector
+Huesca,Unassigned,95,0.2730566701463991,Sector
+Huesca,Communication,89,0.28641867755429584,Sector
+Huesca,Trade,40,0.08258685471699179,Sector
+Huesca,Business_Services,0,0.7273520402552924,Sector
+Huesca,Business_Products,2,0.5252790826196067,Sector
+Huesca,Construction,62,0.10774361178206693,Sector
+Huesca,Services,98,0.18933385205578646,Sector
+Huesca,Mining,98,0.12289565594204532,Sector
+Huesca,Health_Care,39,0.8384973823060848,Sector
+Huesca,EnergyExpL_Prod,57,0.3535824593752819,Sector
+Huesca,Utilities,56,0.4120759238646957,Sector

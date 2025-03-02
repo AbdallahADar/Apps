@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Montour,1029,0.4456341155799712,Overall
+Montour,HiTech,77,0.6079708062706568,Sector
+Montour,Agriculture,78,0.7413611074888161,Sector
+Montour,Transportation,49,0.8014564026729674,Sector
+Montour,Consumer_Products,47,0.5211957595431864,Sector
+Montour,Unassigned,97,0.41200412861445046,Sector
+Montour,Communication,76,0.7279614889307195,Sector
+Montour,Trade,73,0.2462813386280841,Sector
+Montour,Business_Services,87,0.5379453620968757,Sector
+Montour,Business_Products,17,0.26777771658290217,Sector
+Montour,Construction,95,0.024579618057473773,Sector
+Montour,Services,97,0.3115166749038283,Sector
+Montour,Mining,2,0.3269849370349951,Sector
+Montour,Health_Care,98,0.1612525423631873,Sector
+Montour,EnergyExpL_Prod,87,0.45136966008389456,Sector
+Montour,Utilities,49,0.54485419042753,Sector

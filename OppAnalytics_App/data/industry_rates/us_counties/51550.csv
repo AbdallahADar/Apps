@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chesapeake,549,0.5114360955239872,Overall
+Chesapeake,HiTech,20,0.7659631974506378,Sector
+Chesapeake,Agriculture,72,0.6528032625183564,Sector
+Chesapeake,Transportation,31,0.2683282954878745,Sector
+Chesapeake,Consumer_Products,27,0.5464031176297528,Sector
+Chesapeake,Unassigned,33,0.14264393618558968,Sector
+Chesapeake,Communication,4,0.5531693905057764,Sector
+Chesapeake,Trade,3,0.7302653505472047,Sector
+Chesapeake,Business_Services,63,0.6359057268266444,Sector
+Chesapeake,Business_Products,15,0.44843018763024056,Sector
+Chesapeake,Construction,57,0.5671780809099799,Sector
+Chesapeake,Services,99,0.5170298970645294,Sector
+Chesapeake,Mining,9,0.522706228920928,Sector
+Chesapeake,Health_Care,24,0.7020910045749438,Sector
+Chesapeake,EnergyExpL_Prod,12,0.08048656658053166,Sector
+Chesapeake,Utilities,80,0.5381371900268167,Sector

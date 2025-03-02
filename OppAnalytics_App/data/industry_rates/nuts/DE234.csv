@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Amberg-Sulzbach,750,0.6137511720970944,Overall
+Amberg-Sulzbach,HiTech,15,0.6534504344525748,Sector
+Amberg-Sulzbach,Agriculture,75,0.7300933481591999,Sector
+Amberg-Sulzbach,Transportation,31,0.5886780598610614,Sector
+Amberg-Sulzbach,Consumer_Products,47,0.845100344451175,Sector
+Amberg-Sulzbach,Unassigned,73,0.8030363726455851,Sector
+Amberg-Sulzbach,Communication,89,0.0010520509262581523,Sector
+Amberg-Sulzbach,Trade,69,0.8864873276710045,Sector
+Amberg-Sulzbach,Business_Services,69,0.8649783424397964,Sector
+Amberg-Sulzbach,Business_Products,62,0.44447682464368643,Sector
+Amberg-Sulzbach,Construction,0,0.7029204732933153,Sector
+Amberg-Sulzbach,Services,42,0.38421571256168985,Sector
+Amberg-Sulzbach,Mining,20,0.038995246252542026,Sector
+Amberg-Sulzbach,Health_Care,94,0.4904361499404962,Sector
+Amberg-Sulzbach,EnergyExpL_Prod,27,0.8806764237674188,Sector
+Amberg-Sulzbach,Utilities,37,0.8916704703906116,Sector

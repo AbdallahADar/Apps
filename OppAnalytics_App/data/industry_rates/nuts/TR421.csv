@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kocaeli,866,0.4418326017807149,Overall
+Kocaeli,HiTech,69,0.43459300622356123,Sector
+Kocaeli,Agriculture,23,0.5246547376350824,Sector
+Kocaeli,Transportation,88,0.627173232059605,Sector
+Kocaeli,Consumer_Products,72,0.9926149921518592,Sector
+Kocaeli,Unassigned,84,0.23864963021734853,Sector
+Kocaeli,Communication,22,0.4655731425146351,Sector
+Kocaeli,Trade,88,0.45408143703509074,Sector
+Kocaeli,Business_Services,72,0.2085976614055448,Sector
+Kocaeli,Business_Products,78,0.09662094341226712,Sector
+Kocaeli,Construction,9,0.20814570064268056,Sector
+Kocaeli,Services,18,0.8292194073438977,Sector
+Kocaeli,Mining,36,0.23686357199620467,Sector
+Kocaeli,Health_Care,81,0.45930897702391793,Sector
+Kocaeli,EnergyExpL_Prod,50,0.8090082444068478,Sector
+Kocaeli,Utilities,76,0.042384342642179385,Sector

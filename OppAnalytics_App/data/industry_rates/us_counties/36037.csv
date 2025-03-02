@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Genesee,807,0.4542149425446827,Overall
+Genesee,HiTech,48,0.37265725042061904,Sector
+Genesee,Agriculture,58,0.07909654809268762,Sector
+Genesee,Transportation,87,0.3384680142362114,Sector
+Genesee,Consumer_Products,80,0.8953697313379252,Sector
+Genesee,Unassigned,97,0.925958178625916,Sector
+Genesee,Communication,38,0.056253660252994164,Sector
+Genesee,Trade,73,0.4637420575963861,Sector
+Genesee,Business_Services,27,0.12239460989249706,Sector
+Genesee,Business_Products,20,0.623739063096786,Sector
+Genesee,Construction,13,0.4121975074701214,Sector
+Genesee,Services,89,0.08548572349477346,Sector
+Genesee,Mining,11,0.5425684278758478,Sector
+Genesee,Health_Care,92,0.3321737154043978,Sector
+Genesee,EnergyExpL_Prod,28,0.6562729433002196,Sector
+Genesee,Utilities,46,0.9068467070728575,Sector

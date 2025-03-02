@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oregon,649,0.4667152715844276,Overall
+Oregon,HiTech,1,0.12218927799066692,Sector
+Oregon,Agriculture,40,0.2002726517047423,Sector
+Oregon,Transportation,39,0.9064907320675292,Sector
+Oregon,Consumer_Products,23,0.9688485641999032,Sector
+Oregon,Unassigned,34,0.1098629392833339,Sector
+Oregon,Communication,85,0.8765518100625691,Sector
+Oregon,Trade,18,0.0005580734498213946,Sector
+Oregon,Business_Services,2,0.8508512359581782,Sector
+Oregon,Business_Products,70,0.889679963409781,Sector
+Oregon,Construction,35,0.7559838598567086,Sector
+Oregon,Services,51,0.15290446653442735,Sector
+Oregon,Mining,64,0.743670541489257,Sector
+Oregon,Health_Care,77,0.031234790866677575,Sector
+Oregon,EnergyExpL_Prod,26,0.30146080879282844,Sector
+Oregon,Utilities,84,0.09016935809998905,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pleven,963,0.5494150852453707,Overall
+Pleven,HiTech,57,0.9163786039311058,Sector
+Pleven,Agriculture,99,0.43414148428577093,Sector
+Pleven,Transportation,93,0.645424043807119,Sector
+Pleven,Consumer_Products,27,0.20119655297305272,Sector
+Pleven,Unassigned,98,0.5225924810494956,Sector
+Pleven,Communication,72,0.06957170095195508,Sector
+Pleven,Trade,74,0.7933318419437012,Sector
+Pleven,Business_Services,63,0.627332762525672,Sector
+Pleven,Business_Products,71,0.8876881834606312,Sector
+Pleven,Construction,78,0.5380663692940928,Sector
+Pleven,Services,84,0.30736341127196465,Sector
+Pleven,Mining,47,0.10166867277112357,Sector
+Pleven,Health_Care,46,0.7361229627723639,Sector
+Pleven,EnergyExpL_Prod,19,0.9871611758621891,Sector
+Pleven,Utilities,35,0.47318603178032304,Sector

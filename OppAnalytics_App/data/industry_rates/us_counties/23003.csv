@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Aroostook,623,0.4706433772726554,Overall
+Aroostook,HiTech,76,0.5540625659430193,Sector
+Aroostook,Agriculture,19,0.6669631289170561,Sector
+Aroostook,Transportation,47,0.6917641193513789,Sector
+Aroostook,Consumer_Products,57,0.11269999831811206,Sector
+Aroostook,Unassigned,72,0.09141309717811197,Sector
+Aroostook,Communication,42,0.6547842724480148,Sector
+Aroostook,Trade,30,0.22186601514764526,Sector
+Aroostook,Business_Services,31,0.3760729103931506,Sector
+Aroostook,Business_Products,43,0.6706103753273781,Sector
+Aroostook,Construction,26,0.7828541390563621,Sector
+Aroostook,Services,24,0.2845602049338263,Sector
+Aroostook,Mining,27,0.7973728740906517,Sector
+Aroostook,Health_Care,93,0.6606879529751232,Sector
+Aroostook,EnergyExpL_Prod,29,0.35500118768751876,Sector
+Aroostook,Utilities,7,0.1389378173224819,Sector

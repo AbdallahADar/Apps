@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Posey,734,0.685622274120491,Overall
+Posey,HiTech,74,0.9246820483695579,Sector
+Posey,Agriculture,35,0.6208142307820155,Sector
+Posey,Transportation,20,0.844798316969343,Sector
+Posey,Consumer_Products,3,0.9763244405398639,Sector
+Posey,Unassigned,67,0.9748992990700264,Sector
+Posey,Communication,12,0.9354789278650829,Sector
+Posey,Trade,91,0.8179234957842592,Sector
+Posey,Business_Services,28,0.5660793849861085,Sector
+Posey,Business_Products,70,0.16356305800620763,Sector
+Posey,Construction,76,0.7773964511553917,Sector
+Posey,Services,37,0.9997144573128544,Sector
+Posey,Mining,80,0.6688455394645743,Sector
+Posey,Health_Care,36,0.5770178938376263,Sector
+Posey,EnergyExpL_Prod,23,0.0521249138817127,Sector
+Posey,Utilities,82,0.3846716537827425,Sector

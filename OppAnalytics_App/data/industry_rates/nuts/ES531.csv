@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Eivissa y Formentera,651,0.49831719411194253,Overall
+Eivissa y Formentera,HiTech,46,0.9758600382784507,Sector
+Eivissa y Formentera,Agriculture,30,0.7110568886407175,Sector
+Eivissa y Formentera,Transportation,4,0.6512312682195321,Sector
+Eivissa y Formentera,Consumer_Products,38,0.1803575153449073,Sector
+Eivissa y Formentera,Unassigned,50,0.3149699183286577,Sector
+Eivissa y Formentera,Communication,65,0.21380209183081622,Sector
+Eivissa y Formentera,Trade,53,0.7732967050157269,Sector
+Eivissa y Formentera,Business_Services,4,0.6429577186905414,Sector
+Eivissa y Formentera,Business_Products,50,0.21529664652733715,Sector
+Eivissa y Formentera,Construction,74,0.8440499228434123,Sector
+Eivissa y Formentera,Services,45,0.40906500104182664,Sector
+Eivissa y Formentera,Mining,32,0.5689304601701327,Sector
+Eivissa y Formentera,Health_Care,74,0.34884992412096627,Sector
+Eivissa y Formentera,EnergyExpL_Prod,35,0.5822300710626638,Sector
+Eivissa y Formentera,Utilities,51,0.042803741563447906,Sector

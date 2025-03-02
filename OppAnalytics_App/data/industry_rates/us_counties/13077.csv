@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Coweta,745,0.5054729555358176,Overall
+Coweta,HiTech,79,0.1060942239861572,Sector
+Coweta,Agriculture,23,0.5669218553741848,Sector
+Coweta,Transportation,6,0.2859635064670337,Sector
+Coweta,Consumer_Products,85,0.2794769906442762,Sector
+Coweta,Unassigned,83,0.5610538460308635,Sector
+Coweta,Communication,89,0.9071865141990068,Sector
+Coweta,Trade,5,0.4054765717142961,Sector
+Coweta,Business_Services,46,0.7956166127585939,Sector
+Coweta,Business_Products,52,0.2523595791776341,Sector
+Coweta,Construction,84,0.7713920825452617,Sector
+Coweta,Services,7,0.6806589377055302,Sector
+Coweta,Mining,90,0.7170571151675456,Sector
+Coweta,Health_Care,55,0.15596789569122893,Sector
+Coweta,EnergyExpL_Prod,28,0.2603224537792337,Sector
+Coweta,Utilities,13,0.8365461477964192,Sector

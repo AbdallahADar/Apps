@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vilas,727,0.37609512406783574,Overall
+Vilas,HiTech,87,0.29334751225252853,Sector
+Vilas,Agriculture,89,0.30712755680940085,Sector
+Vilas,Transportation,0,0.7264554280547739,Sector
+Vilas,Consumer_Products,37,0.010049279910469444,Sector
+Vilas,Unassigned,57,0.16149348211486025,Sector
+Vilas,Communication,71,0.7028708583271865,Sector
+Vilas,Trade,21,0.6159395901935153,Sector
+Vilas,Business_Services,74,0.04199039319917097,Sector
+Vilas,Business_Products,21,0.14697221370297198,Sector
+Vilas,Construction,55,0.11516330588267076,Sector
+Vilas,Services,62,0.5317190899072596,Sector
+Vilas,Mining,49,0.11014456862284328,Sector
+Vilas,Health_Care,28,0.9411228810283929,Sector
+Vilas,EnergyExpL_Prod,51,0.2327891923751375,Sector
+Vilas,Utilities,25,0.7042415086363544,Sector

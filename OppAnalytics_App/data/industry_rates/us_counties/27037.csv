@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dakota,720,0.4357028775386331,Overall
+Dakota,HiTech,32,0.041264434383642024,Sector
+Dakota,Agriculture,66,0.857609785044594,Sector
+Dakota,Transportation,35,0.33762751992816153,Sector
+Dakota,Consumer_Products,37,0.25619828965564284,Sector
+Dakota,Unassigned,88,0.10297735453507839,Sector
+Dakota,Communication,15,0.021851570851682656,Sector
+Dakota,Trade,81,0.6723750462354151,Sector
+Dakota,Business_Services,77,0.34312030258503823,Sector
+Dakota,Business_Products,90,0.872214858266082,Sector
+Dakota,Construction,48,0.5902766489748559,Sector
+Dakota,Services,3,0.4462793891586557,Sector
+Dakota,Mining,19,0.3543246115384754,Sector
+Dakota,Health_Care,90,0.18606150152740575,Sector
+Dakota,EnergyExpL_Prod,36,0.7065899700470348,Sector
+Dakota,Utilities,3,0.7467718803477329,Sector

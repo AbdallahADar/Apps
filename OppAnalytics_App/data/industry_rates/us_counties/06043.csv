@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mariposa,749,0.5074713475874421,Overall
+Mariposa,HiTech,66,0.3273050617728931,Sector
+Mariposa,Agriculture,12,0.15345528368883632,Sector
+Mariposa,Transportation,36,0.44533087410828576,Sector
+Mariposa,Consumer_Products,43,0.12829108814756374,Sector
+Mariposa,Unassigned,50,0.18971460418472463,Sector
+Mariposa,Communication,43,0.10593789481734006,Sector
+Mariposa,Trade,51,0.5001212848847291,Sector
+Mariposa,Business_Services,13,0.4259712567281634,Sector
+Mariposa,Business_Products,83,0.41253091569977907,Sector
+Mariposa,Construction,59,0.8645525755482936,Sector
+Mariposa,Services,83,0.7511844620929835,Sector
+Mariposa,Mining,20,0.9061385851406066,Sector
+Mariposa,Health_Care,92,0.7319899741603167,Sector
+Mariposa,EnergyExpL_Prod,59,0.8025257263205021,Sector
+Mariposa,Utilities,39,0.8670206265166142,Sector

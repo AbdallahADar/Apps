@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Rosenheim, Landkreis",885,0.5248055908427017,Overall
+"Rosenheim, Landkreis",HiTech,11,0.6421634106817143,Sector
+"Rosenheim, Landkreis",Agriculture,77,0.32301225650621324,Sector
+"Rosenheim, Landkreis",Transportation,90,0.39615890655391117,Sector
+"Rosenheim, Landkreis",Consumer_Products,73,0.787651180180976,Sector
+"Rosenheim, Landkreis",Unassigned,36,0.3761807049445056,Sector
+"Rosenheim, Landkreis",Communication,64,0.3752050482566872,Sector
+"Rosenheim, Landkreis",Trade,36,0.135695436910636,Sector
+"Rosenheim, Landkreis",Business_Services,34,0.7556732766513644,Sector
+"Rosenheim, Landkreis",Business_Products,92,0.9650975308063651,Sector
+"Rosenheim, Landkreis",Construction,38,0.5942435540337255,Sector
+"Rosenheim, Landkreis",Services,96,0.3186799528972729,Sector
+"Rosenheim, Landkreis",Mining,52,0.7792576515485783,Sector
+"Rosenheim, Landkreis",Health_Care,67,0.5932407164977627,Sector
+"Rosenheim, Landkreis",EnergyExpL_Prod,77,0.15975230784989558,Sector
+"Rosenheim, Landkreis",Utilities,42,0.6700719283209179,Sector

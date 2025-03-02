@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Grayson,703,0.4891971904877128,Overall
+Grayson,HiTech,25,0.5118469304993563,Sector
+Grayson,Agriculture,33,0.3332320004183361,Sector
+Grayson,Transportation,14,0.6980645735096416,Sector
+Grayson,Consumer_Products,82,0.9964837613985026,Sector
+Grayson,Unassigned,89,0.620204248522769,Sector
+Grayson,Communication,98,0.11975079364141439,Sector
+Grayson,Trade,13,0.16121308123579714,Sector
+Grayson,Business_Services,46,0.5084200092917072,Sector
+Grayson,Business_Products,65,0.999895073576495,Sector
+Grayson,Construction,84,0.25055622130114064,Sector
+Grayson,Services,78,0.506510889090368,Sector
+Grayson,Mining,17,0.541319354557729,Sector
+Grayson,Health_Care,13,0.28667627261589723,Sector
+Grayson,EnergyExpL_Prod,38,0.10563768066944645,Sector
+Grayson,Utilities,8,0.6981469669870924,Sector

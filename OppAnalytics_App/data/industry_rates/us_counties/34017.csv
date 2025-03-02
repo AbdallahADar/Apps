@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hudson,856,0.3160165895465799,Overall
+Hudson,HiTech,88,0.41448083787340895,Sector
+Hudson,Agriculture,95,0.12025013188820022,Sector
+Hudson,Transportation,22,0.3677724210067682,Sector
+Hudson,Consumer_Products,27,0.1421213434919787,Sector
+Hudson,Unassigned,23,0.580579680639811,Sector
+Hudson,Communication,79,0.6091522649590111,Sector
+Hudson,Trade,82,0.38886857913771644,Sector
+Hudson,Business_Services,95,0.18401217950118287,Sector
+Hudson,Business_Products,77,0.6597006417359966,Sector
+Hudson,Construction,33,0.33567447382518023,Sector
+Hudson,Services,55,0.015180799355445251,Sector
+Hudson,Mining,33,0.26173238598771187,Sector
+Hudson,Health_Care,53,0.1685308843509269,Sector
+Hudson,EnergyExpL_Prod,30,0.2686055686780695,Sector
+Hudson,Utilities,64,0.22358665076729045,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Świecki,772,0.5652186712607071,Overall
+Świecki,HiTech,85,0.7440344705338338,Sector
+Świecki,Agriculture,93,0.7583529581934324,Sector
+Świecki,Transportation,94,0.5004027537967667,Sector
+Świecki,Consumer_Products,18,0.8812925709820046,Sector
+Świecki,Unassigned,18,0.7064622052714589,Sector
+Świecki,Communication,26,0.08442310144315035,Sector
+Świecki,Trade,43,0.4318850855705225,Sector
+Świecki,Business_Services,4,0.9296954846605436,Sector
+Świecki,Business_Products,80,0.5810528961766179,Sector
+Świecki,Construction,27,0.3286668671620745,Sector
+Świecki,Services,63,0.0947999574377768,Sector
+Świecki,Mining,91,0.12097302340920124,Sector
+Świecki,Health_Care,8,0.8294916808875465,Sector
+Świecki,EnergyExpL_Prod,86,0.594346122510935,Sector
+Świecki,Utilities,36,0.8924008908747415,Sector

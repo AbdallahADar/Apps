@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Allen,799,0.4616673265529002,Overall
+Allen,HiTech,87,0.2579489835121529,Sector
+Allen,Agriculture,99,0.583079942519855,Sector
+Allen,Transportation,33,0.1106645695049262,Sector
+Allen,Consumer_Products,0,0.22112230869423777,Sector
+Allen,Unassigned,55,0.21483679875936845,Sector
+Allen,Communication,90,0.22050231148532262,Sector
+Allen,Trade,41,0.3772266502001509,Sector
+Allen,Business_Services,89,0.44992117591296144,Sector
+Allen,Business_Products,89,0.8436174736491405,Sector
+Allen,Construction,0,0.8619672122301804,Sector
+Allen,Services,40,0.5830724371593184,Sector
+Allen,Mining,12,0.252398843298847,Sector
+Allen,Health_Care,70,0.9647663760482647,Sector
+Allen,EnergyExpL_Prod,29,0.04389448381876493,Sector
+Allen,Utilities,65,0.9399903315000129,Sector

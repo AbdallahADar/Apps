@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Midland,914,0.5617613332557245,Overall
+Midland,HiTech,74,0.7172695201482258,Sector
+Midland,Agriculture,41,0.4764082372231019,Sector
+Midland,Transportation,12,0.42939566440464016,Sector
+Midland,Consumer_Products,96,0.1990675069595086,Sector
+Midland,Unassigned,63,0.04985199907865878,Sector
+Midland,Communication,87,0.9530666887760469,Sector
+Midland,Trade,86,0.33127248340774185,Sector
+Midland,Business_Services,89,0.13699521117892388,Sector
+Midland,Business_Products,0,0.793369183091288,Sector
+Midland,Construction,98,0.9275573462338792,Sector
+Midland,Services,27,0.8218501539687826,Sector
+Midland,Mining,68,0.6657490034301804,Sector
+Midland,Health_Care,60,0.8831864599657576,Sector
+Midland,EnergyExpL_Prod,94,0.365453456688589,Sector
+Midland,Utilities,19,0.6759270842805449,Sector

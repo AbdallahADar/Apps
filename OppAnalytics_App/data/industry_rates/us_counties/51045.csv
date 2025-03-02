@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Craig,508,0.4716219185920652,Overall
+Craig,HiTech,65,0.47326517260898193,Sector
+Craig,Agriculture,76,0.05128505870579614,Sector
+Craig,Transportation,30,0.6583209590652536,Sector
+Craig,Consumer_Products,9,0.47256621246826724,Sector
+Craig,Unassigned,24,0.8346511056426049,Sector
+Craig,Communication,21,0.47688067669406076,Sector
+Craig,Trade,38,0.41360463679565596,Sector
+Craig,Business_Services,21,0.4071737420308881,Sector
+Craig,Business_Products,40,0.34628541912980526,Sector
+Craig,Construction,24,0.15394735922016234,Sector
+Craig,Services,20,0.9301418094825518,Sector
+Craig,Mining,2,0.24927264027843477,Sector
+Craig,Health_Care,31,0.08145735529044196,Sector
+Craig,EnergyExpL_Prod,53,0.817713971198195,Sector
+Craig,Utilities,54,0.7077626602698773,Sector

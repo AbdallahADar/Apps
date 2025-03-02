@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sacramento,823,0.43720057458815076,Overall
+Sacramento,HiTech,51,0.5572260726322186,Sector
+Sacramento,Agriculture,88,0.1155744054774499,Sector
+Sacramento,Transportation,76,0.2969439961087593,Sector
+Sacramento,Consumer_Products,9,0.6279618751282101,Sector
+Sacramento,Unassigned,61,0.32250329202673855,Sector
+Sacramento,Communication,15,0.4455512931107196,Sector
+Sacramento,Trade,74,0.11672648995093926,Sector
+Sacramento,Business_Services,58,0.4077284619621181,Sector
+Sacramento,Business_Products,45,0.7273387819133221,Sector
+Sacramento,Construction,79,0.36772821736749817,Sector
+Sacramento,Services,20,0.8575741981972983,Sector
+Sacramento,Mining,21,0.5564542801150558,Sector
+Sacramento,Health_Care,45,0.045624647232051285,Sector
+Sacramento,EnergyExpL_Prod,82,0.2542913306296617,Sector
+Sacramento,Utilities,99,0.8587812769702196,Sector

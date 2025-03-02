@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Granville,649,0.6105929091790215,Overall
+Granville,HiTech,36,0.9656995822252508,Sector
+Granville,Agriculture,21,0.8190716355900933,Sector
+Granville,Transportation,95,0.07594029657397672,Sector
+Granville,Consumer_Products,49,0.8973930288529708,Sector
+Granville,Unassigned,4,0.8058767785387035,Sector
+Granville,Communication,81,0.050857361148645364,Sector
+Granville,Trade,85,0.4828747662415841,Sector
+Granville,Business_Services,39,0.9362932181474797,Sector
+Granville,Business_Products,38,0.9394632065773043,Sector
+Granville,Construction,90,0.2196290797105105,Sector
+Granville,Services,2,0.22844083505212476,Sector
+Granville,Mining,43,0.214438038978909,Sector
+Granville,Health_Care,52,0.9750774586749428,Sector
+Granville,EnergyExpL_Prod,10,0.8426701354993309,Sector
+Granville,Utilities,4,0.7051682158734958,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Coffee,752,0.39613498968765565,Overall
+Coffee,HiTech,1,0.23600830302581333,Sector
+Coffee,Agriculture,95,0.5318087211631208,Sector
+Coffee,Transportation,95,0.05811105803143424,Sector
+Coffee,Consumer_Products,12,0.517531368036182,Sector
+Coffee,Unassigned,28,0.6488372845598467,Sector
+Coffee,Communication,49,0.18412992675065343,Sector
+Coffee,Trade,68,0.5654617659885812,Sector
+Coffee,Business_Services,90,0.22940885184269155,Sector
+Coffee,Business_Products,98,0.5520561782401255,Sector
+Coffee,Construction,20,0.6672717526559317,Sector
+Coffee,Services,20,0.5055272936990352,Sector
+Coffee,Mining,9,0.2751913575676096,Sector
+Coffee,Health_Care,50,0.7940292548972846,Sector
+Coffee,EnergyExpL_Prod,83,0.01694851761334737,Sector
+Coffee,Utilities,34,0.15970321124317843,Sector

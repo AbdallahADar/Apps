@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kurzeme,759,0.5706718699690435,Overall
+Kurzeme,HiTech,10,0.7866720234108614,Sector
+Kurzeme,Agriculture,44,0.8566875336484022,Sector
+Kurzeme,Transportation,38,0.2239137472908359,Sector
+Kurzeme,Consumer_Products,76,0.3915674858535626,Sector
+Kurzeme,Unassigned,78,0.8267762713739144,Sector
+Kurzeme,Communication,63,0.6611336346998038,Sector
+Kurzeme,Trade,57,0.17046301551374632,Sector
+Kurzeme,Business_Services,55,0.1806826798009452,Sector
+Kurzeme,Business_Products,7,0.9350374276912297,Sector
+Kurzeme,Construction,83,0.5292482503674852,Sector
+Kurzeme,Services,57,0.8243339955792641,Sector
+Kurzeme,Mining,13,0.9400370422342543,Sector
+Kurzeme,Health_Care,50,0.26012244452637934,Sector
+Kurzeme,EnergyExpL_Prod,47,0.6323202313780968,Sector
+Kurzeme,Utilities,81,0.341082266166872,Sector

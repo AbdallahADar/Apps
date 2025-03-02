@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Trnavský kraj,792,0.6263125195222786,Overall
+Trnavský kraj,HiTech,99,0.6760015633446385,Sector
+Trnavský kraj,Agriculture,96,0.6132374357378101,Sector
+Trnavský kraj,Transportation,78,0.7718595949807034,Sector
+Trnavský kraj,Consumer_Products,79,0.48452094461470663,Sector
+Trnavský kraj,Unassigned,4,0.8401212130458161,Sector
+Trnavský kraj,Communication,4,0.3420044818950452,Sector
+Trnavský kraj,Trade,36,0.7183784627236078,Sector
+Trnavský kraj,Business_Services,66,0.7253223781332008,Sector
+Trnavský kraj,Business_Products,17,0.4585148810121138,Sector
+Trnavský kraj,Construction,55,0.70616901913686,Sector
+Trnavský kraj,Services,83,0.1836818278989959,Sector
+Trnavský kraj,Mining,21,0.6607639161552414,Sector
+Trnavský kraj,Health_Care,60,0.4098495282895417,Sector
+Trnavský kraj,EnergyExpL_Prod,48,0.8641524116612853,Sector
+Trnavský kraj,Utilities,46,0.9401101342046131,Sector

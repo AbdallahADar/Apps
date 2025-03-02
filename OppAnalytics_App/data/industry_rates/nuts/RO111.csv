@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bihor,738,0.669525547252676,Overall
+Bihor,HiTech,68,0.9013896702801499,Sector
+Bihor,Agriculture,73,0.28527774873476264,Sector
+Bihor,Transportation,29,0.9507203496642377,Sector
+Bihor,Consumer_Products,64,0.6331521549147053,Sector
+Bihor,Unassigned,63,0.8521652270417028,Sector
+Bihor,Communication,97,0.9597013582208126,Sector
+Bihor,Trade,54,0.3841735849545923,Sector
+Bihor,Business_Services,73,0.33035157580876007,Sector
+Bihor,Business_Products,6,0.79277961137498,Sector
+Bihor,Construction,78,0.6285969313974198,Sector
+Bihor,Services,7,0.8764522913808664,Sector
+Bihor,Mining,70,0.9634306305366189,Sector
+Bihor,Health_Care,8,0.7656060658106288,Sector
+Bihor,EnergyExpL_Prod,6,0.641181426095063,Sector
+Bihor,Utilities,42,0.0779045825748399,Sector

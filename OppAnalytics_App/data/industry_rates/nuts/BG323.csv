@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ruse,566,0.5412773385023559,Overall
+Ruse,HiTech,71,0.586196753841035,Sector
+Ruse,Agriculture,25,0.4790666533562076,Sector
+Ruse,Transportation,44,0.169290998241313,Sector
+Ruse,Consumer_Products,22,0.3096432202512591,Sector
+Ruse,Unassigned,8,0.08579105520699237,Sector
+Ruse,Communication,93,0.6939150180220107,Sector
+Ruse,Trade,7,0.9816408667361337,Sector
+Ruse,Business_Services,13,0.7044224943796148,Sector
+Ruse,Business_Products,35,0.9831690058397418,Sector
+Ruse,Construction,49,0.8780221961514345,Sector
+Ruse,Services,46,0.7290499258162396,Sector
+Ruse,Mining,93,0.155435690963862,Sector
+Ruse,Health_Care,17,0.5365354575641758,Sector
+Ruse,EnergyExpL_Prod,21,0.7129950243165954,Sector
+Ruse,Utilities,22,0.11398571684872427,Sector

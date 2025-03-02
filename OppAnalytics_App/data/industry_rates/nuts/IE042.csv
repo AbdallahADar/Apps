@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,West,800,0.524341587813373,Overall
+West,HiTech,20,0.9845699166838913,Sector
+West,Agriculture,64,0.6363286198757863,Sector
+West,Transportation,67,0.9524991542232651,Sector
+West,Consumer_Products,73,0.5474612622395634,Sector
+West,Unassigned,78,0.38012666704605147,Sector
+West,Communication,96,0.627862769381799,Sector
+West,Trade,49,0.787755961593859,Sector
+West,Business_Services,91,0.1900368265595651,Sector
+West,Business_Products,13,0.41119010678703294,Sector
+West,Construction,71,0.13759761567254225,Sector
+West,Services,71,0.43808452676440346,Sector
+West,Mining,23,0.2973541980936637,Sector
+West,Health_Care,0,0.9416647541647968,Sector
+West,EnergyExpL_Prod,37,0.3458995380147547,Sector
+West,Utilities,47,0.18669190009962078,Sector

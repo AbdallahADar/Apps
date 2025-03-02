@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jayuya,745,0.434709049986511,Overall
+Jayuya,HiTech,59,0.33070479326629076,Sector
+Jayuya,Agriculture,41,0.16545470015806685,Sector
+Jayuya,Transportation,40,0.7434416032467815,Sector
+Jayuya,Consumer_Products,18,0.5524696406792543,Sector
+Jayuya,Unassigned,77,0.34142522160149225,Sector
+Jayuya,Communication,80,0.7598447895425122,Sector
+Jayuya,Trade,66,0.285138967013294,Sector
+Jayuya,Business_Services,92,0.05160688476086417,Sector
+Jayuya,Business_Products,37,0.2570792611472459,Sector
+Jayuya,Construction,15,0.461616510565767,Sector
+Jayuya,Services,19,0.8271113190428107,Sector
+Jayuya,Mining,12,0.16677098074844166,Sector
+Jayuya,Health_Care,98,0.8381021473305414,Sector
+Jayuya,EnergyExpL_Prod,57,0.06519953843120174,Sector
+Jayuya,Utilities,34,0.6746693922631006,Sector

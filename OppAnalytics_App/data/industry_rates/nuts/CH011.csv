@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vaud,675,0.5287035620256458,Overall
+Vaud,HiTech,68,0.5694708954931642,Sector
+Vaud,Agriculture,7,0.8554658660408324,Sector
+Vaud,Transportation,73,0.3284234079955721,Sector
+Vaud,Consumer_Products,20,0.10430824684424655,Sector
+Vaud,Unassigned,18,0.5690352577996454,Sector
+Vaud,Communication,1,0.6850099012000158,Sector
+Vaud,Trade,40,0.9744422309574657,Sector
+Vaud,Business_Services,88,0.7650737990934959,Sector
+Vaud,Business_Products,26,0.5458019427447022,Sector
+Vaud,Construction,41,0.2901624404131513,Sector
+Vaud,Services,88,0.32103323247677473,Sector
+Vaud,Mining,9,0.41838637952086366,Sector
+Vaud,Health_Care,76,0.48146843184542154,Sector
+Vaud,EnergyExpL_Prod,90,0.24038476062063663,Sector
+Vaud,Utilities,30,0.7820866373387017,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fayette,852,0.512466695234824,Overall
+Fayette,HiTech,42,0.4515769511005706,Sector
+Fayette,Agriculture,91,0.9355028334298756,Sector
+Fayette,Transportation,89,0.8589053987164439,Sector
+Fayette,Consumer_Products,79,0.3400829851047914,Sector
+Fayette,Unassigned,80,0.41815238083121564,Sector
+Fayette,Communication,43,0.3712844064162204,Sector
+Fayette,Trade,19,0.8599564371277364,Sector
+Fayette,Business_Services,18,0.8370049815849563,Sector
+Fayette,Business_Products,58,0.1103264127398298,Sector
+Fayette,Construction,63,0.40357216876814017,Sector
+Fayette,Services,62,0.7227334768699429,Sector
+Fayette,Mining,99,0.3584347641493737,Sector
+Fayette,Health_Care,81,0.22649529712873206,Sector
+Fayette,EnergyExpL_Prod,26,0.38753030974892966,Sector
+Fayette,Utilities,2,0.40544162480560186,Sector

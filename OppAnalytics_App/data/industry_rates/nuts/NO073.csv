@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Finnmark/Finnmárku/Finmarkku,738,0.560791205951978,Overall
+Finnmark/Finnmárku/Finmarkku,HiTech,58,0.1841174289174351,Sector
+Finnmark/Finnmárku/Finmarkku,Agriculture,7,0.924761099774978,Sector
+Finnmark/Finnmárku/Finmarkku,Transportation,7,0.5733498293478064,Sector
+Finnmark/Finnmárku/Finmarkku,Consumer_Products,39,0.5609322784261705,Sector
+Finnmark/Finnmárku/Finmarkku,Unassigned,32,0.29863460492266714,Sector
+Finnmark/Finnmárku/Finmarkku,Communication,41,0.25518866480543057,Sector
+Finnmark/Finnmárku/Finmarkku,Trade,92,0.986506457200317,Sector
+Finnmark/Finnmárku/Finmarkku,Business_Services,80,0.34766223784590056,Sector
+Finnmark/Finnmárku/Finmarkku,Business_Products,77,0.3798523443963966,Sector
+Finnmark/Finnmárku/Finmarkku,Construction,30,0.5022578273898527,Sector
+Finnmark/Finnmárku/Finmarkku,Services,64,0.4564952888275823,Sector
+Finnmark/Finnmárku/Finmarkku,Mining,48,0.7931579372695159,Sector
+Finnmark/Finnmárku/Finmarkku,Health_Care,40,0.7019686070124024,Sector
+Finnmark/Finnmárku/Finmarkku,EnergyExpL_Prod,40,0.4702490884245215,Sector
+Finnmark/Finnmárku/Finmarkku,Utilities,83,0.9767343947186924,Sector

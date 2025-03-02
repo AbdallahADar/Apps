@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bergstraße,809,0.5027272014134669,Overall
+Bergstraße,HiTech,38,0.8336292256441223,Sector
+Bergstraße,Agriculture,14,0.9905784673176654,Sector
+Bergstraße,Transportation,94,0.9397102870288656,Sector
+Bergstraße,Consumer_Products,81,0.08503078895445793,Sector
+Bergstraße,Unassigned,16,0.576682223569735,Sector
+Bergstraße,Communication,12,0.35210764207686907,Sector
+Bergstraße,Trade,72,0.11895808938142427,Sector
+Bergstraße,Business_Services,98,0.37139752398100834,Sector
+Bergstraße,Business_Products,44,0.7226982287621357,Sector
+Bergstraße,Construction,33,0.6519580953021792,Sector
+Bergstraße,Services,68,0.750224655656185,Sector
+Bergstraße,Mining,96,0.14766061163717004,Sector
+Bergstraße,Health_Care,35,0.17894436298081773,Sector
+Bergstraße,EnergyExpL_Prod,10,0.6651252719772237,Sector
+Bergstraße,Utilities,98,0.1562025469321453,Sector

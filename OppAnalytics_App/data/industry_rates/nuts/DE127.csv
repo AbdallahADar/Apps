@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Neckar-Odenwald-Kreis,661,0.5188182977099879,Overall
+Neckar-Odenwald-Kreis,HiTech,12,0.9202075321529325,Sector
+Neckar-Odenwald-Kreis,Agriculture,35,0.748613102859301,Sector
+Neckar-Odenwald-Kreis,Transportation,23,0.6291504487069508,Sector
+Neckar-Odenwald-Kreis,Consumer_Products,30,0.08181480795555185,Sector
+Neckar-Odenwald-Kreis,Unassigned,94,0.050186761601919816,Sector
+Neckar-Odenwald-Kreis,Communication,23,0.4441429484026147,Sector
+Neckar-Odenwald-Kreis,Trade,24,0.4106281120592362,Sector
+Neckar-Odenwald-Kreis,Business_Services,91,0.9950597030234793,Sector
+Neckar-Odenwald-Kreis,Business_Products,0,0.8000880162176615,Sector
+Neckar-Odenwald-Kreis,Construction,63,0.45566482819067633,Sector
+Neckar-Odenwald-Kreis,Services,20,0.5746093642020709,Sector
+Neckar-Odenwald-Kreis,Mining,71,0.9554885656530715,Sector
+Neckar-Odenwald-Kreis,Health_Care,53,0.10244924802127486,Sector
+Neckar-Odenwald-Kreis,EnergyExpL_Prod,56,0.11386770966796778,Sector
+Neckar-Odenwald-Kreis,Utilities,66,0.5003033169351079,Sector

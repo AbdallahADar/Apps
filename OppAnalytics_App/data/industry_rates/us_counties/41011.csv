@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Coos,745,0.4686747033507016,Overall
+Coos,HiTech,39,0.021925208010885266,Sector
+Coos,Agriculture,58,0.6070166887357206,Sector
+Coos,Transportation,89,0.12564809273848232,Sector
+Coos,Consumer_Products,75,0.5225161559382608,Sector
+Coos,Unassigned,6,0.28563883043914307,Sector
+Coos,Communication,12,0.43895509947516775,Sector
+Coos,Trade,65,0.9647732402505305,Sector
+Coos,Business_Services,10,0.4939281518529164,Sector
+Coos,Business_Products,44,0.3512416004737785,Sector
+Coos,Construction,55,0.7325109395778365,Sector
+Coos,Services,42,0.15895450741334893,Sector
+Coos,Mining,31,0.01686064928533293,Sector
+Coos,Health_Care,67,0.5308487265102512,Sector
+Coos,EnergyExpL_Prod,70,0.7894408654138009,Sector
+Coos,Utilities,82,0.9898617941450681,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Glenn,827,0.6265458128059502,Overall
+Glenn,HiTech,52,0.8064258902846572,Sector
+Glenn,Agriculture,57,0.7526638501435235,Sector
+Glenn,Transportation,55,0.03581607282139221,Sector
+Glenn,Consumer_Products,96,0.4636762884377045,Sector
+Glenn,Unassigned,88,0.8863854154115316,Sector
+Glenn,Communication,9,0.9144537382175105,Sector
+Glenn,Trade,95,0.7660023110018738,Sector
+Glenn,Business_Services,33,0.5834657826792641,Sector
+Glenn,Business_Products,82,0.4127112859492993,Sector
+Glenn,Construction,77,0.6511530355277042,Sector
+Glenn,Services,4,0.013950447662653964,Sector
+Glenn,Mining,63,0.8503929719182647,Sector
+Glenn,Health_Care,11,0.5003216915125864,Sector
+Glenn,EnergyExpL_Prod,99,0.906226659954192,Sector
+Glenn,Utilities,6,0.854541750567094,Sector

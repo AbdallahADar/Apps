@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Spokane,726,0.5081909550700826,Overall
+Spokane,HiTech,67,0.3225521360539839,Sector
+Spokane,Agriculture,60,0.277239327917699,Sector
+Spokane,Transportation,2,0.4764176818662852,Sector
+Spokane,Consumer_Products,73,0.693389990068187,Sector
+Spokane,Unassigned,66,0.4031994069860889,Sector
+Spokane,Communication,7,0.6284961571119345,Sector
+Spokane,Trade,4,0.5729756844578796,Sector
+Spokane,Business_Services,50,0.9448453837885756,Sector
+Spokane,Business_Products,5,0.09647652920449201,Sector
+Spokane,Construction,66,0.9887645161322649,Sector
+Spokane,Services,42,0.8423389025569268,Sector
+Spokane,Mining,83,0.005111191398468606,Sector
+Spokane,Health_Care,78,0.5927123116777923,Sector
+Spokane,EnergyExpL_Prod,47,0.6084196282472413,Sector
+Spokane,Utilities,76,0.16992547858341822,Sector

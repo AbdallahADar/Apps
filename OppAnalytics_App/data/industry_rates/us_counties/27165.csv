@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Watonwan,600,0.5720485954130556,Overall
+Watonwan,HiTech,6,0.37757540778731713,Sector
+Watonwan,Agriculture,25,0.28525053442261517,Sector
+Watonwan,Transportation,6,0.9786382020355744,Sector
+Watonwan,Consumer_Products,72,0.7325332006520571,Sector
+Watonwan,Unassigned,34,0.24135466037900455,Sector
+Watonwan,Communication,13,0.014965671496024568,Sector
+Watonwan,Trade,37,0.7494182025705368,Sector
+Watonwan,Business_Services,91,0.803787630246282,Sector
+Watonwan,Business_Products,17,0.9267504814971385,Sector
+Watonwan,Construction,35,0.16907967938356983,Sector
+Watonwan,Services,51,0.8990242901276062,Sector
+Watonwan,Mining,70,0.5235571963738729,Sector
+Watonwan,Health_Care,32,0.4018476408092859,Sector
+Watonwan,EnergyExpL_Prod,33,0.48458111508408486,Sector
+Watonwan,Utilities,78,0.9923650183308638,Sector

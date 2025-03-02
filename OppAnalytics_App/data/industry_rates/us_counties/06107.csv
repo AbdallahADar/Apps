@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tulare,639,0.5644603770341373,Overall
+Tulare,HiTech,98,0.8551169244215845,Sector
+Tulare,Agriculture,13,0.910545356803901,Sector
+Tulare,Transportation,32,0.021949751145807994,Sector
+Tulare,Consumer_Products,56,0.44920694493168134,Sector
+Tulare,Unassigned,28,0.9576898719571257,Sector
+Tulare,Communication,48,0.4100170784365894,Sector
+Tulare,Trade,23,0.1607590344467028,Sector
+Tulare,Business_Services,57,0.340863120221336,Sector
+Tulare,Business_Products,45,0.6382528340647315,Sector
+Tulare,Construction,70,0.6808027677992682,Sector
+Tulare,Services,27,0.3732034988124312,Sector
+Tulare,Mining,25,0.5081258397789231,Sector
+Tulare,Health_Care,23,0.9165812861557049,Sector
+Tulare,EnergyExpL_Prod,92,0.5690246254921812,Sector
+Tulare,Utilities,2,0.6747667210440891,Sector

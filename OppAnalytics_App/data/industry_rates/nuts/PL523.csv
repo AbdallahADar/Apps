@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nyski,726,0.5419623570745319,Overall
+Nyski,HiTech,25,0.7471197240320856,Sector
+Nyski,Agriculture,74,0.8247216899492875,Sector
+Nyski,Transportation,7,0.871576789022565,Sector
+Nyski,Consumer_Products,51,0.674017706441012,Sector
+Nyski,Unassigned,40,0.9137883656789795,Sector
+Nyski,Communication,65,0.013522355009160214,Sector
+Nyski,Trade,71,0.5576423841395358,Sector
+Nyski,Business_Services,66,0.6248709459487509,Sector
+Nyski,Business_Products,42,0.9444671462957266,Sector
+Nyski,Construction,56,0.4590819207980871,Sector
+Nyski,Services,89,0.18795970052948707,Sector
+Nyski,Mining,23,0.05470730506510635,Sector
+Nyski,Health_Care,88,0.7291896917569132,Sector
+Nyski,EnergyExpL_Prod,10,0.3442032596086585,Sector
+Nyski,Utilities,19,0.18256637184262348,Sector

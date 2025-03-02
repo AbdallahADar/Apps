@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Greene,711,0.4556390529403721,Overall
+Greene,HiTech,28,0.21546066461561364,Sector
+Greene,Agriculture,46,0.3752176214521442,Sector
+Greene,Transportation,6,0.0565531423607053,Sector
+Greene,Consumer_Products,80,0.482392166419383,Sector
+Greene,Unassigned,37,0.25991264479134357,Sector
+Greene,Communication,39,0.7647409888749634,Sector
+Greene,Trade,17,0.16355489503054688,Sector
+Greene,Business_Services,38,0.11077711195508355,Sector
+Greene,Business_Products,23,0.6986868861371354,Sector
+Greene,Construction,38,0.5156778035518994,Sector
+Greene,Services,83,0.8910005365759575,Sector
+Greene,Mining,72,0.4939462327136407,Sector
+Greene,Health_Care,90,0.1697811521194994,Sector
+Greene,EnergyExpL_Prod,28,0.9640157787966139,Sector
+Greene,Utilities,86,0.6728681687110525,Sector

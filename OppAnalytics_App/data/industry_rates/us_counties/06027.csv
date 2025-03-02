@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Inyo,726,0.4810239160590335,Overall
+Inyo,HiTech,63,0.08079085420366294,Sector
+Inyo,Agriculture,18,0.34421545246322893,Sector
+Inyo,Transportation,80,0.25270166752593115,Sector
+Inyo,Consumer_Products,62,0.6734877296293722,Sector
+Inyo,Unassigned,49,0.3706456654544594,Sector
+Inyo,Communication,47,0.5846502955957802,Sector
+Inyo,Trade,55,0.3462225746886949,Sector
+Inyo,Business_Services,50,0.33278128486513026,Sector
+Inyo,Business_Products,3,0.6248153251914763,Sector
+Inyo,Construction,41,0.7405695783071222,Sector
+Inyo,Services,4,0.8976572155706308,Sector
+Inyo,Mining,38,0.084758067712004,Sector
+Inyo,Health_Care,49,0.7970981580076792,Sector
+Inyo,EnergyExpL_Prod,78,0.9957186610762756,Sector
+Inyo,Utilities,89,0.08924621059405546,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stafford,748,0.5052996770458897,Overall
+Stafford,HiTech,77,0.47317107371556144,Sector
+Stafford,Agriculture,42,0.9893826504606262,Sector
+Stafford,Transportation,10,0.9661008492155388,Sector
+Stafford,Consumer_Products,82,0.8905996007292194,Sector
+Stafford,Unassigned,26,0.5943186713301537,Sector
+Stafford,Communication,3,0.8640137035194823,Sector
+Stafford,Trade,52,0.060534563729144564,Sector
+Stafford,Business_Services,91,0.3014778702658627,Sector
+Stafford,Business_Products,86,0.3093924452530663,Sector
+Stafford,Construction,48,0.38396068462208843,Sector
+Stafford,Services,72,0.6086335126155431,Sector
+Stafford,Mining,62,0.30922447492666316,Sector
+Stafford,Health_Care,83,0.30706888247179154,Sector
+Stafford,EnergyExpL_Prod,6,0.41881323856701624,Sector
+Stafford,Utilities,8,0.10280293426658815,Sector

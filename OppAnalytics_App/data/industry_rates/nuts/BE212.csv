@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Mechelen,822,0.42955608708286225,Overall
+Arr. Mechelen,HiTech,99,0.6881451844211517,Sector
+Arr. Mechelen,Agriculture,64,0.2976290294306574,Sector
+Arr. Mechelen,Transportation,44,0.2862078068456032,Sector
+Arr. Mechelen,Consumer_Products,56,0.08334711011850604,Sector
+Arr. Mechelen,Unassigned,83,0.4454371898714914,Sector
+Arr. Mechelen,Communication,4,0.3148501019282647,Sector
+Arr. Mechelen,Trade,89,0.42559579437179396,Sector
+Arr. Mechelen,Business_Services,91,0.7348021517066503,Sector
+Arr. Mechelen,Business_Products,46,0.05154190271510284,Sector
+Arr. Mechelen,Construction,84,0.0031697723589424465,Sector
+Arr. Mechelen,Services,81,0.48070590610977115,Sector
+Arr. Mechelen,Mining,42,0.7424814527310402,Sector
+Arr. Mechelen,Health_Care,5,0.8694416445262776,Sector
+Arr. Mechelen,EnergyExpL_Prod,6,0.34007068677248753,Sector
+Arr. Mechelen,Utilities,28,0.6799155723351925,Sector

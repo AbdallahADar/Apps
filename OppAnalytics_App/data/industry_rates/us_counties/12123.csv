@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Taylor,823,0.5798702485108563,Overall
+Taylor,HiTech,13,0.9157383022067961,Sector
+Taylor,Agriculture,35,0.5217800878024328,Sector
+Taylor,Transportation,86,0.8601595389218406,Sector
+Taylor,Consumer_Products,93,0.5745242794134553,Sector
+Taylor,Unassigned,43,0.4410139419875009,Sector
+Taylor,Communication,45,0.5511649012841938,Sector
+Taylor,Trade,76,0.421476566002985,Sector
+Taylor,Business_Services,12,0.3884089875672794,Sector
+Taylor,Business_Products,10,0.3926731101697154,Sector
+Taylor,Construction,87,0.24877338255453074,Sector
+Taylor,Services,93,0.5284751916390065,Sector
+Taylor,Mining,67,0.7837165512029841,Sector
+Taylor,Health_Care,40,0.6550979545010681,Sector
+Taylor,EnergyExpL_Prod,91,0.7082997891364828,Sector
+Taylor,Utilities,32,0.7067511432725754,Sector

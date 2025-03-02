@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Częstochowski,768,0.5513243218703803,Overall
+Częstochowski,HiTech,21,0.9705775166893829,Sector
+Częstochowski,Agriculture,43,0.10213741723157743,Sector
+Częstochowski,Transportation,41,0.7127727987822422,Sector
+Częstochowski,Consumer_Products,81,0.9520656823466144,Sector
+Częstochowski,Unassigned,68,0.9927431864527996,Sector
+Częstochowski,Communication,86,0.14618263490556993,Sector
+Częstochowski,Trade,96,0.47402798018594283,Sector
+Częstochowski,Business_Services,48,0.664363142536907,Sector
+Częstochowski,Business_Products,22,0.7710165054001356,Sector
+Częstochowski,Construction,18,0.9464681804065841,Sector
+Częstochowski,Services,98,0.0012487949974833157,Sector
+Częstochowski,Mining,61,0.1660563491881285,Sector
+Częstochowski,Health_Care,3,0.10218642967559477,Sector
+Częstochowski,EnergyExpL_Prod,51,0.4661026483973494,Sector
+Częstochowski,Utilities,31,0.8019155608593915,Sector

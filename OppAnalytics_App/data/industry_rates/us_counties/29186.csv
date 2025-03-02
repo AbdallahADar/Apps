@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ste. Genevieve,733,0.4544565662281585,Overall
+Ste. Genevieve,HiTech,71,0.48335488602026555,Sector
+Ste. Genevieve,Agriculture,21,0.5990631193620012,Sector
+Ste. Genevieve,Transportation,3,0.7428312835039139,Sector
+Ste. Genevieve,Consumer_Products,63,0.4748047931145558,Sector
+Ste. Genevieve,Unassigned,26,0.9529195980459585,Sector
+Ste. Genevieve,Communication,35,0.3766954440587188,Sector
+Ste. Genevieve,Trade,19,0.10270872861438207,Sector
+Ste. Genevieve,Business_Services,60,0.1492951007519283,Sector
+Ste. Genevieve,Business_Products,59,0.526980922608284,Sector
+Ste. Genevieve,Construction,26,0.4100728022516682,Sector
+Ste. Genevieve,Services,87,0.07016929766276736,Sector
+Ste. Genevieve,Mining,32,0.8541664877677992,Sector
+Ste. Genevieve,Health_Care,82,0.37489439425430104,Sector
+Ste. Genevieve,EnergyExpL_Prod,81,0.5515311436298451,Sector
+Ste. Genevieve,Utilities,68,0.1473604917759891,Sector

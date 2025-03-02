@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ottawa,768,0.5025882392910727,Overall
+Ottawa,HiTech,83,0.3838280753164304,Sector
+Ottawa,Agriculture,90,0.8527757806117697,Sector
+Ottawa,Transportation,64,0.25081679399827306,Sector
+Ottawa,Consumer_Products,12,0.9556807742543808,Sector
+Ottawa,Unassigned,0,0.8790642100140734,Sector
+Ottawa,Communication,42,0.8755732034890201,Sector
+Ottawa,Trade,81,0.3744093226706563,Sector
+Ottawa,Business_Services,64,0.5421542302761786,Sector
+Ottawa,Business_Products,95,0.5620472666288242,Sector
+Ottawa,Construction,20,0.868371333979037,Sector
+Ottawa,Services,21,0.021715305000533203,Sector
+Ottawa,Mining,37,0.1690282207293482,Sector
+Ottawa,Health_Care,71,0.10440578668710288,Sector
+Ottawa,EnergyExpL_Prod,61,0.5754657909683469,Sector
+Ottawa,Utilities,27,0.12348749474211451,Sector

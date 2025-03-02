@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Agder,663,0.5639364807445016,Overall
+Agder,HiTech,5,0.46411375200229366,Sector
+Agder,Agriculture,76,0.18529601943487695,Sector
+Agder,Transportation,66,0.3142334728406253,Sector
+Agder,Consumer_Products,28,0.9991074441641205,Sector
+Agder,Unassigned,81,0.9819353108952334,Sector
+Agder,Communication,26,0.13526835687226846,Sector
+Agder,Trade,41,0.5624119678156941,Sector
+Agder,Business_Services,20,0.6496974417486139,Sector
+Agder,Business_Products,22,0.6909850272927743,Sector
+Agder,Construction,62,0.6381042441919234,Sector
+Agder,Services,52,0.9551477584690962,Sector
+Agder,Mining,56,0.14972436476500617,Sector
+Agder,Health_Care,22,0.978490981290641,Sector
+Agder,EnergyExpL_Prod,85,0.5443811682380508,Sector
+Agder,Utilities,21,0.21014990114630694,Sector

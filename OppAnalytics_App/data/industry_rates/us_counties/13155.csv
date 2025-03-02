@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Irwin,900,0.5846988260748203,Overall
+Irwin,HiTech,62,0.5016793464279343,Sector
+Irwin,Agriculture,42,0.3798576626393044,Sector
+Irwin,Transportation,75,0.9041164581849115,Sector
+Irwin,Consumer_Products,51,0.9831542328603894,Sector
+Irwin,Unassigned,53,0.4494070616369229,Sector
+Irwin,Communication,43,0.7403565166541293,Sector
+Irwin,Trade,75,0.1586255937562291,Sector
+Irwin,Business_Services,77,0.06668165660276026,Sector
+Irwin,Business_Products,54,0.7870854398599502,Sector
+Irwin,Construction,93,0.9606590148099364,Sector
+Irwin,Services,45,0.28227177115404267,Sector
+Irwin,Mining,51,0.9487993389177891,Sector
+Irwin,Health_Care,44,0.9748239557445127,Sector
+Irwin,EnergyExpL_Prod,83,0.6011429591542519,Sector
+Irwin,Utilities,52,0.03182138271923829,Sector

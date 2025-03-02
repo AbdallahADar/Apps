@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Shumen,694,0.3649618525973587,Overall
+Shumen,HiTech,27,0.4033626833710343,Sector
+Shumen,Agriculture,88,0.8428992861479638,Sector
+Shumen,Transportation,10,0.07568113430562673,Sector
+Shumen,Consumer_Products,17,0.2764406363731907,Sector
+Shumen,Unassigned,73,0.1321942826288941,Sector
+Shumen,Communication,23,0.11536236745882833,Sector
+Shumen,Trade,6,0.21514306905174385,Sector
+Shumen,Business_Services,83,0.05590445320775339,Sector
+Shumen,Business_Products,57,0.43042434909483906,Sector
+Shumen,Construction,32,0.5527913419998896,Sector
+Shumen,Services,89,0.5525836847825353,Sector
+Shumen,Mining,79,0.026650580475365726,Sector
+Shumen,Health_Care,27,0.6648107085439505,Sector
+Shumen,EnergyExpL_Prod,37,0.6525199877214611,Sector
+Shumen,Utilities,46,0.47765922379730397,Sector

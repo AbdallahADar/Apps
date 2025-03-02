@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cottonwood,889,0.664532553089314,Overall
+Cottonwood,HiTech,41,0.488368291896471,Sector
+Cottonwood,Agriculture,85,0.6149377295465284,Sector
+Cottonwood,Transportation,22,0.3870637301698724,Sector
+Cottonwood,Consumer_Products,50,0.9787986379716734,Sector
+Cottonwood,Unassigned,85,0.7035367155099166,Sector
+Cottonwood,Communication,57,0.8417740030810974,Sector
+Cottonwood,Trade,7,0.6964440232854427,Sector
+Cottonwood,Business_Services,81,0.5958672305652356,Sector
+Cottonwood,Business_Products,93,0.11688767386973553,Sector
+Cottonwood,Construction,59,0.9108108337955362,Sector
+Cottonwood,Services,74,0.6482973910724857,Sector
+Cottonwood,Mining,62,0.9769056606611434,Sector
+Cottonwood,Health_Care,65,0.575469380867841,Sector
+Cottonwood,EnergyExpL_Prod,54,0.5986603897137642,Sector
+Cottonwood,Utilities,54,0.8341666043329674,Sector

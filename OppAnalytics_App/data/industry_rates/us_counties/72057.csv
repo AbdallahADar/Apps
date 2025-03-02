@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Guayama,650,0.6143931274629485,Overall
+Guayama,HiTech,11,0.29402893559030874,Sector
+Guayama,Agriculture,30,0.7504019015005103,Sector
+Guayama,Transportation,27,0.3903830524286491,Sector
+Guayama,Consumer_Products,60,0.35123708630281447,Sector
+Guayama,Unassigned,55,0.3656721883380539,Sector
+Guayama,Communication,31,0.7924546505572071,Sector
+Guayama,Trade,54,0.9234310820103186,Sector
+Guayama,Business_Services,30,0.2772165061710584,Sector
+Guayama,Business_Products,13,0.5510132698960062,Sector
+Guayama,Construction,19,0.8469298883873305,Sector
+Guayama,Services,85,0.9359512783184493,Sector
+Guayama,Mining,89,0.3647300004494569,Sector
+Guayama,Health_Care,43,0.530826202510839,Sector
+Guayama,EnergyExpL_Prod,28,0.9370229400854333,Sector
+Guayama,Utilities,75,0.904597929397792,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rotenburg (Wümme),969,0.5976206276230823,Overall
+Rotenburg (Wümme),HiTech,72,0.7790250929365644,Sector
+Rotenburg (Wümme),Agriculture,86,0.7429182328832317,Sector
+Rotenburg (Wümme),Transportation,41,0.606994001539492,Sector
+Rotenburg (Wümme),Consumer_Products,18,0.2685324341028963,Sector
+Rotenburg (Wümme),Unassigned,17,0.8153251016999763,Sector
+Rotenburg (Wümme),Communication,79,0.8490120736134964,Sector
+Rotenburg (Wümme),Trade,7,0.31238115425982416,Sector
+Rotenburg (Wümme),Business_Services,74,0.1332666996487386,Sector
+Rotenburg (Wümme),Business_Products,92,0.6753892775630223,Sector
+Rotenburg (Wümme),Construction,59,0.4535813079862405,Sector
+Rotenburg (Wümme),Services,85,0.9274548765352398,Sector
+Rotenburg (Wümme),Mining,62,0.9453795496748927,Sector
+Rotenburg (Wümme),Health_Care,95,0.2144169407144214,Sector
+Rotenburg (Wümme),EnergyExpL_Prod,97,0.34742649631279776,Sector
+Rotenburg (Wümme),Utilities,85,0.8932061748754005,Sector

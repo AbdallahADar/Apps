@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,San Diego,863,0.513863918004967,Overall
+San Diego,HiTech,31,0.7342844094354647,Sector
+San Diego,Agriculture,36,0.4861155496607298,Sector
+San Diego,Transportation,79,0.42050064803837883,Sector
+San Diego,Consumer_Products,35,0.5556223836504554,Sector
+San Diego,Unassigned,66,0.7204571252357531,Sector
+San Diego,Communication,45,0.3516282731427357,Sector
+San Diego,Trade,56,0.370191528110527,Sector
+San Diego,Business_Services,86,0.2021877561910873,Sector
+San Diego,Business_Products,94,0.41275898934186384,Sector
+San Diego,Construction,46,0.9549748779000606,Sector
+San Diego,Services,33,0.7761715823587083,Sector
+San Diego,Mining,90,0.6150263799789772,Sector
+San Diego,Health_Care,73,0.17278960228127604,Sector
+San Diego,EnergyExpL_Prod,35,0.028505100920576454,Sector
+San Diego,Utilities,58,0.9067445638279096,Sector

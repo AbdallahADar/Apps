@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oliver,823,0.5179555511799894,Overall
+Oliver,HiTech,24,0.5317176663552706,Sector
+Oliver,Agriculture,38,0.6584996050485392,Sector
+Oliver,Transportation,55,0.8947113476929989,Sector
+Oliver,Consumer_Products,24,0.8024378407172625,Sector
+Oliver,Unassigned,15,0.6721291305242324,Sector
+Oliver,Communication,73,0.47302421669174066,Sector
+Oliver,Trade,82,0.0556810178255136,Sector
+Oliver,Business_Services,90,0.7363940135908221,Sector
+Oliver,Business_Products,62,0.7047332873820324,Sector
+Oliver,Construction,95,0.12070830833843738,Sector
+Oliver,Services,45,0.29054348819106435,Sector
+Oliver,Mining,1,0.6408580198978784,Sector
+Oliver,Health_Care,89,0.6762692332170029,Sector
+Oliver,EnergyExpL_Prod,58,0.03559221973225779,Sector
+Oliver,Utilities,72,0.4760338724947889,Sector

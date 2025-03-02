@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,North Slope,877,0.5286423647542133,Overall
+North Slope,HiTech,66,0.6871515217033128,Sector
+North Slope,Agriculture,27,0.9214034933765483,Sector
+North Slope,Transportation,98,0.9698823583187882,Sector
+North Slope,Consumer_Products,51,0.08838936867866776,Sector
+North Slope,Unassigned,17,0.4222047418634206,Sector
+North Slope,Communication,18,0.03974716429468761,Sector
+North Slope,Trade,97,0.9047364086734888,Sector
+North Slope,Business_Services,52,0.12755081887345254,Sector
+North Slope,Business_Products,19,0.7019907155340457,Sector
+North Slope,Construction,73,0.3469139699599897,Sector
+North Slope,Services,91,0.515828010611084,Sector
+North Slope,Mining,30,0.9370417012530776,Sector
+North Slope,Health_Care,71,0.29721868556173103,Sector
+North Slope,EnergyExpL_Prod,81,0.115864252959887,Sector
+North Slope,Utilities,86,0.853712259651019,Sector

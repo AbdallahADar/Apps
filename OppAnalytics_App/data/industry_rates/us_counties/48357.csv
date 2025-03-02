@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ochiltree,858,0.4929853753424076,Overall
+Ochiltree,HiTech,90,0.8778951435105958,Sector
+Ochiltree,Agriculture,42,0.34704057812849765,Sector
+Ochiltree,Transportation,44,0.04645734096637899,Sector
+Ochiltree,Consumer_Products,96,0.29562134836123866,Sector
+Ochiltree,Unassigned,12,0.6866162858761311,Sector
+Ochiltree,Communication,87,0.0899900805836652,Sector
+Ochiltree,Trade,98,0.7927179907284423,Sector
+Ochiltree,Business_Services,24,0.753212803301177,Sector
+Ochiltree,Business_Products,99,0.5537121945921284,Sector
+Ochiltree,Construction,4,0.3033780459813519,Sector
+Ochiltree,Services,15,0.0016207990992795906,Sector
+Ochiltree,Mining,99,0.2912712206693261,Sector
+Ochiltree,Health_Care,58,0.7807482771618087,Sector
+Ochiltree,EnergyExpL_Prod,75,0.7413128136310166,Sector
+Ochiltree,Utilities,15,0.8331857075450749,Sector

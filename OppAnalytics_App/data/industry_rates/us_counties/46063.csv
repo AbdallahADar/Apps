@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Harding,595,0.40593292586759666,Overall
+Harding,HiTech,38,0.9046592725240286,Sector
+Harding,Agriculture,17,0.3847697025655681,Sector
+Harding,Transportation,82,0.7141971708533347,Sector
+Harding,Consumer_Products,43,0.03207718907258128,Sector
+Harding,Unassigned,82,0.34259447132817644,Sector
+Harding,Communication,27,0.011169750632280095,Sector
+Harding,Trade,41,0.6772070346166105,Sector
+Harding,Business_Services,98,0.2913798579017841,Sector
+Harding,Business_Products,81,0.848514818670908,Sector
+Harding,Construction,14,0.16841758400000872,Sector
+Harding,Services,8,0.22493241700846223,Sector
+Harding,Mining,16,0.4278371675384558,Sector
+Harding,Health_Care,22,0.5437145340991293,Sector
+Harding,EnergyExpL_Prod,19,0.08947310006416276,Sector
+Harding,Utilities,7,0.4280498171384586,Sector

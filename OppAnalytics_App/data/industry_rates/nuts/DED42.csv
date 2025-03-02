@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Erzgebirgskreis,717,0.6460494409956484,Overall
+Erzgebirgskreis,HiTech,52,0.9637192066648637,Sector
+Erzgebirgskreis,Agriculture,48,0.3545211441026481,Sector
+Erzgebirgskreis,Transportation,60,0.35825139561669894,Sector
+Erzgebirgskreis,Consumer_Products,8,0.4789255994674312,Sector
+Erzgebirgskreis,Unassigned,13,0.48096831309336885,Sector
+Erzgebirgskreis,Communication,47,0.45453880081299824,Sector
+Erzgebirgskreis,Trade,3,0.9636958765656061,Sector
+Erzgebirgskreis,Business_Services,75,0.9310304772842674,Sector
+Erzgebirgskreis,Business_Products,22,0.6181342358446305,Sector
+Erzgebirgskreis,Construction,64,0.8218903385684002,Sector
+Erzgebirgskreis,Services,61,0.874703239461962,Sector
+Erzgebirgskreis,Mining,56,0.9087363279648776,Sector
+Erzgebirgskreis,Health_Care,71,0.10847170447226184,Sector
+Erzgebirgskreis,EnergyExpL_Prod,72,0.85045145963947,Sector
+Erzgebirgskreis,Utilities,65,0.5227034953752437,Sector

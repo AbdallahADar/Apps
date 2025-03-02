@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,St. Joseph,659,0.3846363654500188,Overall
+St. Joseph,HiTech,38,0.6084744998838599,Sector
+St. Joseph,Agriculture,29,0.39794702592523734,Sector
+St. Joseph,Transportation,52,0.2942101707625163,Sector
+St. Joseph,Consumer_Products,50,0.355152870672101,Sector
+St. Joseph,Unassigned,0,0.3396051821020025,Sector
+St. Joseph,Communication,52,0.3612699406965383,Sector
+St. Joseph,Trade,42,0.8160207524642575,Sector
+St. Joseph,Business_Services,32,0.4998319494985983,Sector
+St. Joseph,Business_Products,6,0.33992780202952944,Sector
+St. Joseph,Construction,22,0.33345065701759247,Sector
+St. Joseph,Services,41,0.33285073867790016,Sector
+St. Joseph,Mining,75,0.09944998770130531,Sector
+St. Joseph,Health_Care,84,0.04778055192636743,Sector
+St. Joseph,EnergyExpL_Prod,57,0.4830147086752825,Sector
+St. Joseph,Utilities,79,0.46055864371719357,Sector

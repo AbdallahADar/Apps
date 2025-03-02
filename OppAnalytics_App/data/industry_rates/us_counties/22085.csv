@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sabine,564,0.5975265773656457,Overall
+Sabine,HiTech,42,0.988544765694885,Sector
+Sabine,Agriculture,75,0.5126439252145581,Sector
+Sabine,Transportation,20,0.3432004779637824,Sector
+Sabine,Consumer_Products,9,0.8636329429451712,Sector
+Sabine,Unassigned,33,0.08808025103968375,Sector
+Sabine,Communication,11,0.8068957593894466,Sector
+Sabine,Trade,9,0.6219583048219,Sector
+Sabine,Business_Services,91,0.37831687318324614,Sector
+Sabine,Business_Products,33,0.27292152189269514,Sector
+Sabine,Construction,48,0.9582926515134791,Sector
+Sabine,Services,13,0.8081048221233083,Sector
+Sabine,Mining,50,0.7466079202490974,Sector
+Sabine,Health_Care,52,0.8884402903616692,Sector
+Sabine,EnergyExpL_Prod,72,0.5184417188421103,Sector
+Sabine,Utilities,6,0.16681643524965406,Sector

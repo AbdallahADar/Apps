@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Choctaw,609,0.4944628210601163,Overall
+Choctaw,HiTech,9,0.17261582737943715,Sector
+Choctaw,Agriculture,62,0.8747914559252937,Sector
+Choctaw,Transportation,83,0.1690045501699875,Sector
+Choctaw,Consumer_Products,24,0.4717591909041321,Sector
+Choctaw,Unassigned,23,0.21724417066478274,Sector
+Choctaw,Communication,51,0.6038001706235018,Sector
+Choctaw,Trade,76,0.3519667963682972,Sector
+Choctaw,Business_Services,6,0.61315466234377,Sector
+Choctaw,Business_Products,61,0.7999902592512413,Sector
+Choctaw,Construction,46,0.3590001112447515,Sector
+Choctaw,Services,53,0.27461487903210124,Sector
+Choctaw,Mining,32,0.9811407794217508,Sector
+Choctaw,Health_Care,14,0.5709983585849714,Sector
+Choctaw,EnergyExpL_Prod,47,0.7255833757208855,Sector
+Choctaw,Utilities,22,0.23127772826684123,Sector

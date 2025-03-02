@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tulcea,810,0.44725307338885034,Overall
+Tulcea,HiTech,15,0.8847141563400607,Sector
+Tulcea,Agriculture,71,0.13081283811235644,Sector
+Tulcea,Transportation,5,0.45374805304256416,Sector
+Tulcea,Consumer_Products,82,0.31299997552545256,Sector
+Tulcea,Unassigned,79,0.48100490631293524,Sector
+Tulcea,Communication,78,0.03373855070498433,Sector
+Tulcea,Trade,18,0.45951526152457856,Sector
+Tulcea,Business_Services,89,0.7417883598116601,Sector
+Tulcea,Business_Products,82,0.36451171396467075,Sector
+Tulcea,Construction,4,0.5939432747640419,Sector
+Tulcea,Services,72,0.2679599981523615,Sector
+Tulcea,Mining,91,0.5020544660527272,Sector
+Tulcea,Health_Care,89,0.32631295815520334,Sector
+Tulcea,EnergyExpL_Prod,30,0.34464910919816627,Sector
+Tulcea,Utilities,5,0.8110424791709908,Sector

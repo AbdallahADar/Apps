@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sitka,870,0.49216411358116063,Overall
+Sitka,HiTech,70,0.043943691466270085,Sector
+Sitka,Agriculture,77,0.9908959000343537,Sector
+Sitka,Transportation,65,0.8854460794539113,Sector
+Sitka,Consumer_Products,99,0.10242578058850005,Sector
+Sitka,Unassigned,30,0.7417320372103412,Sector
+Sitka,Communication,48,0.5957890230490294,Sector
+Sitka,Trade,64,0.5649618205112834,Sector
+Sitka,Business_Services,95,0.2537131432420222,Sector
+Sitka,Business_Products,76,0.3738653199770813,Sector
+Sitka,Construction,44,0.11617411387056342,Sector
+Sitka,Services,10,0.6311648723558976,Sector
+Sitka,Mining,21,0.6840462146276679,Sector
+Sitka,Health_Care,55,0.13197320557908954,Sector
+Sitka,EnergyExpL_Prod,48,0.7853522503403484,Sector
+Sitka,Utilities,68,0.48097825141105033,Sector

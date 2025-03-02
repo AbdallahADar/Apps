@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Savona,642,0.5185562464954964,Overall
+Savona,HiTech,2,0.2591103342369542,Sector
+Savona,Agriculture,96,0.868134198623042,Sector
+Savona,Transportation,77,0.7415193572730573,Sector
+Savona,Consumer_Products,11,0.026643045497412143,Sector
+Savona,Unassigned,81,0.014199698115964332,Sector
+Savona,Communication,9,0.4689730757281947,Sector
+Savona,Trade,97,0.7281289309224885,Sector
+Savona,Business_Services,33,0.10003469180896574,Sector
+Savona,Business_Products,0,0.47384485610767,Sector
+Savona,Construction,13,0.20852434127961816,Sector
+Savona,Services,13,0.7781783287419887,Sector
+Savona,Mining,8,0.9858114624394136,Sector
+Savona,Health_Care,60,0.2962958153477784,Sector
+Savona,EnergyExpL_Prod,93,0.8375050567859087,Sector
+Savona,Utilities,49,0.9914405045239891,Sector

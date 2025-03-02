@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Catanzaro,712,0.40441410598109573,Overall
+Catanzaro,HiTech,54,0.5855488985952142,Sector
+Catanzaro,Agriculture,46,0.22817283250076603,Sector
+Catanzaro,Transportation,85,0.6276700925590494,Sector
+Catanzaro,Consumer_Products,66,0.29982566196609217,Sector
+Catanzaro,Unassigned,17,0.2913436730657335,Sector
+Catanzaro,Communication,68,0.7167553272923683,Sector
+Catanzaro,Trade,76,0.39830226772691646,Sector
+Catanzaro,Business_Services,51,0.028853760409287,Sector
+Catanzaro,Business_Products,30,0.4592544866177706,Sector
+Catanzaro,Construction,59,0.6433557235620575,Sector
+Catanzaro,Services,27,0.3300367788078371,Sector
+Catanzaro,Mining,14,0.22246455599174986,Sector
+Catanzaro,Health_Care,38,0.010270423228230796,Sector
+Catanzaro,EnergyExpL_Prod,59,0.5442922763899564,Sector
+Catanzaro,Utilities,22,0.6800648310034055,Sector

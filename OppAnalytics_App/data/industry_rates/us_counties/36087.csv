@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rockland,707,0.5087590752797079,Overall
+Rockland,HiTech,64,0.4034835148746386,Sector
+Rockland,Agriculture,13,0.527924134268859,Sector
+Rockland,Transportation,19,0.2367617215227491,Sector
+Rockland,Consumer_Products,39,0.6473520334455598,Sector
+Rockland,Unassigned,0,0.8588729301827642,Sector
+Rockland,Communication,14,0.602921399505705,Sector
+Rockland,Trade,67,0.6980046205379923,Sector
+Rockland,Business_Services,58,0.7056660194810187,Sector
+Rockland,Business_Products,61,0.03637606518958869,Sector
+Rockland,Construction,42,0.821856815317413,Sector
+Rockland,Services,28,0.06205757156332248,Sector
+Rockland,Mining,74,0.3196133271018088,Sector
+Rockland,Health_Care,99,0.9841198294276544,Sector
+Rockland,EnergyExpL_Prod,69,0.3833393423109457,Sector
+Rockland,Utilities,60,0.3430368044655966,Sector

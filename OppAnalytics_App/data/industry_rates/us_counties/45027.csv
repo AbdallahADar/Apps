@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Clarendon,544,0.5648339637940238,Overall
+Clarendon,HiTech,0,0.3810425677139456,Sector
+Clarendon,Agriculture,16,0.9343343276461914,Sector
+Clarendon,Transportation,97,0.771683416266847,Sector
+Clarendon,Consumer_Products,20,0.3907477597541542,Sector
+Clarendon,Unassigned,22,0.8442880239846434,Sector
+Clarendon,Communication,45,0.13845609281121674,Sector
+Clarendon,Trade,18,0.8834671974357761,Sector
+Clarendon,Business_Services,55,0.0535191135705636,Sector
+Clarendon,Business_Products,70,0.9193121564797929,Sector
+Clarendon,Construction,14,0.3056953998157351,Sector
+Clarendon,Services,44,0.9970670092240485,Sector
+Clarendon,Mining,75,0.037577973194839354,Sector
+Clarendon,Health_Care,2,0.7026533074235596,Sector
+Clarendon,EnergyExpL_Prod,37,0.4646978473353167,Sector
+Clarendon,Utilities,29,0.6479672642537277,Sector

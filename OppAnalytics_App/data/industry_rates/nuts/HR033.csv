@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zadarska županija,805,0.5164582612848889,Overall
+Zadarska županija,HiTech,76,0.3226165102056834,Sector
+Zadarska županija,Agriculture,14,0.363701582299072,Sector
+Zadarska županija,Transportation,79,0.3121911479851309,Sector
+Zadarska županija,Consumer_Products,2,0.9662441154215811,Sector
+Zadarska županija,Unassigned,38,0.10569303897129556,Sector
+Zadarska županija,Communication,58,0.8870393824179897,Sector
+Zadarska županija,Trade,49,0.5754423073368088,Sector
+Zadarska županija,Business_Services,94,0.5137893405259794,Sector
+Zadarska županija,Business_Products,32,0.8279657140755201,Sector
+Zadarska županija,Construction,87,0.16942160922802996,Sector
+Zadarska županija,Services,24,0.14650645314394362,Sector
+Zadarska županija,Mining,79,0.6838840583432331,Sector
+Zadarska županija,Health_Care,49,0.4624626655006119,Sector
+Zadarska županija,EnergyExpL_Prod,93,0.6203388664928303,Sector
+Zadarska županija,Utilities,31,0.7895771273256241,Sector

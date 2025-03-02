@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Leflore,629,0.549911512077993,Overall
+Leflore,HiTech,34,0.6482067103513655,Sector
+Leflore,Agriculture,65,0.15458301583713574,Sector
+Leflore,Transportation,4,0.5785631261319755,Sector
+Leflore,Consumer_Products,84,0.4928517861744085,Sector
+Leflore,Unassigned,25,0.8965408603851064,Sector
+Leflore,Communication,16,0.4945842008508997,Sector
+Leflore,Trade,9,0.09429804815457699,Sector
+Leflore,Business_Services,19,0.5425612800497112,Sector
+Leflore,Business_Products,96,0.6892385533016191,Sector
+Leflore,Construction,28,0.6011556095592429,Sector
+Leflore,Services,86,0.3088764680777838,Sector
+Leflore,Mining,97,0.2254438992778398,Sector
+Leflore,Health_Care,20,0.7749781597120676,Sector
+Leflore,EnergyExpL_Prod,5,0.8659097349880388,Sector
+Leflore,Utilities,41,0.8808812283181253,Sector

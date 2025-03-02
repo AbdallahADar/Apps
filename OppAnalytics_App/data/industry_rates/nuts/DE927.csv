@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nienburg (Weser),646,0.41441286482511847,Overall
+Nienburg (Weser),HiTech,17,0.8081499838443343,Sector
+Nienburg (Weser),Agriculture,29,0.023183986003512347,Sector
+Nienburg (Weser),Transportation,88,0.47690921807684905,Sector
+Nienburg (Weser),Consumer_Products,42,0.5304765466523362,Sector
+Nienburg (Weser),Unassigned,22,0.553483709828002,Sector
+Nienburg (Weser),Communication,51,0.24111639139045116,Sector
+Nienburg (Weser),Trade,34,0.11470809856161557,Sector
+Nienburg (Weser),Business_Services,18,0.5728905729584404,Sector
+Nienburg (Weser),Business_Products,23,0.29729515224978587,Sector
+Nienburg (Weser),Construction,81,0.7147710618129484,Sector
+Nienburg (Weser),Services,40,0.13325784798489348,Sector
+Nienburg (Weser),Mining,52,0.5773512372316956,Sector
+Nienburg (Weser),Health_Care,64,0.5573384358654481,Sector
+Nienburg (Weser),EnergyExpL_Prod,51,0.35385836143783067,Sector
+Nienburg (Weser),Utilities,34,0.2614023684786335,Sector

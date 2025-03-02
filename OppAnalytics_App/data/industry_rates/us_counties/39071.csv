@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Highland,652,0.536281811294136,Overall
+Highland,HiTech,4,0.0711477903733817,Sector
+Highland,Agriculture,31,0.7083234885856454,Sector
+Highland,Transportation,58,0.8032234929575454,Sector
+Highland,Consumer_Products,26,0.9722150471043463,Sector
+Highland,Unassigned,72,0.9341636139615138,Sector
+Highland,Communication,24,0.10195214579250123,Sector
+Highland,Trade,69,0.4389829093033538,Sector
+Highland,Business_Services,48,0.13113968327913073,Sector
+Highland,Business_Products,45,0.9936606132913638,Sector
+Highland,Construction,87,0.12219403716856725,Sector
+Highland,Services,14,0.8465790766184705,Sector
+Highland,Mining,51,0.12206185434728067,Sector
+Highland,Health_Care,44,0.7131025904963234,Sector
+Highland,EnergyExpL_Prod,64,0.14461728279199249,Sector
+Highland,Utilities,15,0.9408635433406227,Sector

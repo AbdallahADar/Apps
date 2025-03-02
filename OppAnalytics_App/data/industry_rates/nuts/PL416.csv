@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kaliski,758,0.4698464604126959,Overall
+Kaliski,HiTech,4,0.4626209977850899,Sector
+Kaliski,Agriculture,91,0.9939510615539039,Sector
+Kaliski,Transportation,74,0.8348001217996891,Sector
+Kaliski,Consumer_Products,12,0.01732057467355086,Sector
+Kaliski,Unassigned,82,0.16564241447746375,Sector
+Kaliski,Communication,45,0.3940837573491305,Sector
+Kaliski,Trade,0,0.20355458824492223,Sector
+Kaliski,Business_Services,42,0.9163353976615123,Sector
+Kaliski,Business_Products,32,0.8896792230335264,Sector
+Kaliski,Construction,65,0.19485941678965113,Sector
+Kaliski,Services,38,0.06990773465116684,Sector
+Kaliski,Mining,94,0.21077048577930568,Sector
+Kaliski,Health_Care,90,0.6741976103663961,Sector
+Kaliski,EnergyExpL_Prod,60,0.2714967906446696,Sector
+Kaliski,Utilities,29,0.7484767313804597,Sector

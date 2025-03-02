@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Latah,856,0.371641516882303,Overall
+Latah,HiTech,63,0.003677705481436311,Sector
+Latah,Agriculture,75,0.9082062996234131,Sector
+Latah,Transportation,99,0.5894150742882499,Sector
+Latah,Consumer_Products,37,0.08872241248615909,Sector
+Latah,Unassigned,40,0.48200566945143264,Sector
+Latah,Communication,91,0.15183741927551175,Sector
+Latah,Trade,67,0.0029744798741700995,Sector
+Latah,Business_Services,81,0.5855662149366184,Sector
+Latah,Business_Products,89,0.618108485021027,Sector
+Latah,Construction,15,0.7821979431805577,Sector
+Latah,Services,65,0.10676102501814722,Sector
+Latah,Mining,42,0.4650646347345031,Sector
+Latah,Health_Care,4,0.12294166708919196,Sector
+Latah,EnergyExpL_Prod,31,0.6309886909989055,Sector
+Latah,Utilities,57,0.03615503177522128,Sector

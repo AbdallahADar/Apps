@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Caltanissetta,856,0.45214077144188936,Overall
+Caltanissetta,HiTech,22,0.31189760840638847,Sector
+Caltanissetta,Agriculture,25,0.7205749857718993,Sector
+Caltanissetta,Transportation,19,0.9746987754583274,Sector
+Caltanissetta,Consumer_Products,80,0.18460031706668578,Sector
+Caltanissetta,Unassigned,93,0.22125164604477776,Sector
+Caltanissetta,Communication,63,0.41056519285102067,Sector
+Caltanissetta,Trade,72,0.039349539251494314,Sector
+Caltanissetta,Business_Services,98,0.8063740362312747,Sector
+Caltanissetta,Business_Products,1,0.4034485016997653,Sector
+Caltanissetta,Construction,79,0.9234192599291469,Sector
+Caltanissetta,Services,64,0.363736856137582,Sector
+Caltanissetta,Mining,55,0.04148997106900154,Sector
+Caltanissetta,Health_Care,98,0.6519219673577745,Sector
+Caltanissetta,EnergyExpL_Prod,77,0.6900816115913613,Sector
+Caltanissetta,Utilities,10,0.038701302761840806,Sector

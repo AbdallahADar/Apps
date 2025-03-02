@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Požeško-slavonska županija,700,0.38246817669267963,Overall
+Požeško-slavonska županija,HiTech,47,0.20882524162276783,Sector
+Požeško-slavonska županija,Agriculture,23,0.5066323286377311,Sector
+Požeško-slavonska županija,Transportation,56,0.19221180216511569,Sector
+Požeško-slavonska županija,Consumer_Products,57,0.06411701071521814,Sector
+Požeško-slavonska županija,Unassigned,36,0.10813890235676804,Sector
+Požeško-slavonska županija,Communication,48,0.4959653814612236,Sector
+Požeško-slavonska županija,Trade,21,0.39268840077551836,Sector
+Požeško-slavonska županija,Business_Services,90,0.7295137407003973,Sector
+Požeško-slavonska županija,Business_Products,16,0.23091838651323737,Sector
+Požeško-slavonska županija,Construction,35,0.4270904755787053,Sector
+Požeško-slavonska županija,Services,89,0.35369358164803866,Sector
+Požeško-slavonska županija,Mining,33,0.247337789621209,Sector
+Požeško-slavonska županija,Health_Care,5,0.4064839173078507,Sector
+Požeško-slavonska županija,EnergyExpL_Prod,55,0.4904843901859266,Sector
+Požeško-slavonska županija,Utilities,89,0.8829213011004867,Sector

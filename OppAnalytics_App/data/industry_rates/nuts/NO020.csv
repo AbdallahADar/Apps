@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Innlandet,675,0.4776283160706215,Overall
+Innlandet,HiTech,95,0.11267596066778207,Sector
+Innlandet,Agriculture,38,0.5876302498101457,Sector
+Innlandet,Transportation,95,0.971067603764861,Sector
+Innlandet,Consumer_Products,42,0.7485602224457419,Sector
+Innlandet,Unassigned,97,0.19876389336725853,Sector
+Innlandet,Communication,6,0.6859613891118025,Sector
+Innlandet,Trade,33,0.2204261504035684,Sector
+Innlandet,Business_Services,84,0.44160758433904423,Sector
+Innlandet,Business_Products,8,0.36159302976280194,Sector
+Innlandet,Construction,0,0.16018313977633314,Sector
+Innlandet,Services,39,0.6824113124760048,Sector
+Innlandet,Mining,29,0.47330312985605627,Sector
+Innlandet,Health_Care,15,0.07763062787516051,Sector
+Innlandet,EnergyExpL_Prod,64,0.8277623926004887,Sector
+Innlandet,Utilities,30,0.614848054802272,Sector

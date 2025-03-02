@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Middlesex,842,0.5990776949031262,Overall
+Middlesex,HiTech,76,0.7791621633242015,Sector
+Middlesex,Agriculture,54,0.6242677559333656,Sector
+Middlesex,Transportation,43,0.039106683987193525,Sector
+Middlesex,Consumer_Products,82,0.1807286131987642,Sector
+Middlesex,Unassigned,37,0.9870692805953143,Sector
+Middlesex,Communication,96,0.9443088062332111,Sector
+Middlesex,Trade,65,0.9607780645599666,Sector
+Middlesex,Business_Services,20,0.952466752317844,Sector
+Middlesex,Business_Products,74,0.8657109568224237,Sector
+Middlesex,Construction,42,0.5986254841172589,Sector
+Middlesex,Services,92,0.5190657437256548,Sector
+Middlesex,Mining,20,0.4814510562167805,Sector
+Middlesex,Health_Care,74,0.2535631875611166,Sector
+Middlesex,EnergyExpL_Prod,11,0.7908561267276151,Sector
+Middlesex,Utilities,56,0.009004748226183246,Sector

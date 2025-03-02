@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zamora,576,0.5324123603722504,Overall
+Zamora,HiTech,52,0.04631384976962594,Sector
+Zamora,Agriculture,48,0.28534054241410134,Sector
+Zamora,Transportation,0,0.6431267287341754,Sector
+Zamora,Consumer_Products,10,0.8717072322830776,Sector
+Zamora,Unassigned,20,0.29708819651715435,Sector
+Zamora,Communication,1,0.7852785033321467,Sector
+Zamora,Trade,42,0.3856782156546844,Sector
+Zamora,Business_Services,49,0.4586388149756625,Sector
+Zamora,Business_Products,63,0.8531701234617944,Sector
+Zamora,Construction,11,0.6001620950728844,Sector
+Zamora,Services,36,0.09298815871955257,Sector
+Zamora,Mining,45,0.3855827587691236,Sector
+Zamora,Health_Care,49,0.9810235887420539,Sector
+Zamora,EnergyExpL_Prod,77,0.3994973109087211,Sector
+Zamora,Utilities,73,0.9005892862289983,Sector

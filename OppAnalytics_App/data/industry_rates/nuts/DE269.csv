@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Miltenberg,756,0.5920398556513324,Overall
+Miltenberg,HiTech,48,0.9192760661065851,Sector
+Miltenberg,Agriculture,71,0.6518670284851388,Sector
+Miltenberg,Transportation,42,0.9528811460627407,Sector
+Miltenberg,Consumer_Products,47,0.9798877604950832,Sector
+Miltenberg,Unassigned,54,0.07619413072343584,Sector
+Miltenberg,Communication,22,0.9149340761715321,Sector
+Miltenberg,Trade,10,0.20848475870833283,Sector
+Miltenberg,Business_Services,92,0.8649927442078559,Sector
+Miltenberg,Business_Products,80,0.004822562067977709,Sector
+Miltenberg,Construction,14,0.5675452950119823,Sector
+Miltenberg,Services,2,0.12683137846222547,Sector
+Miltenberg,Mining,5,0.45435992535520076,Sector
+Miltenberg,Health_Care,76,0.6592922860091179,Sector
+Miltenberg,EnergyExpL_Prod,98,0.6858697983408666,Sector
+Miltenberg,Utilities,95,0.8133588785619106,Sector

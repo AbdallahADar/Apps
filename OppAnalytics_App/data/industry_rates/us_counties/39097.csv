@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Madison,782,0.41735941838740664,Overall
+Madison,HiTech,23,0.7590623314550462,Sector
+Madison,Agriculture,89,0.6509400227378467,Sector
+Madison,Transportation,88,0.2761701516600944,Sector
+Madison,Consumer_Products,76,0.9575147673829062,Sector
+Madison,Unassigned,15,0.06181553883913615,Sector
+Madison,Communication,21,0.46543849471040866,Sector
+Madison,Trade,0,0.012333559675324013,Sector
+Madison,Business_Services,80,0.7438603116365604,Sector
+Madison,Business_Products,18,0.15925262318711164,Sector
+Madison,Construction,82,0.8485927472808813,Sector
+Madison,Services,84,0.268923682283278,Sector
+Madison,Mining,60,0.03336681111902251,Sector
+Madison,Health_Care,80,0.27746174807185975,Sector
+Madison,EnergyExpL_Prod,55,0.3854765008738189,Sector
+Madison,Utilities,11,0.3601819848978053,Sector

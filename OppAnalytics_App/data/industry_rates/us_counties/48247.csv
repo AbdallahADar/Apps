@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jim Hogg,738,0.5008739514304117,Overall
+Jim Hogg,HiTech,35,0.030128069536654145,Sector
+Jim Hogg,Agriculture,43,0.8407852524689404,Sector
+Jim Hogg,Transportation,11,0.8614127701332305,Sector
+Jim Hogg,Consumer_Products,69,0.30727134973037107,Sector
+Jim Hogg,Unassigned,58,0.8429243757496122,Sector
+Jim Hogg,Communication,71,0.14274434030979932,Sector
+Jim Hogg,Trade,99,0.538275154453892,Sector
+Jim Hogg,Business_Services,83,0.13210856969359153,Sector
+Jim Hogg,Business_Products,11,0.3741341252301942,Sector
+Jim Hogg,Construction,27,0.379792325130053,Sector
+Jim Hogg,Services,86,0.6290169769294306,Sector
+Jim Hogg,Mining,3,0.7956683383350142,Sector
+Jim Hogg,Health_Care,32,0.3540749036062114,Sector
+Jim Hogg,EnergyExpL_Prod,76,0.8066229317693483,Sector
+Jim Hogg,Utilities,34,0.4781497883798329,Sector

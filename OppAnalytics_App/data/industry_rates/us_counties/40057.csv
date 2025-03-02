@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Harmon,891,0.5957915185686282,Overall
+Harmon,HiTech,59,0.1810657125632884,Sector
+Harmon,Agriculture,45,0.3804859113803102,Sector
+Harmon,Transportation,18,0.8049389678632238,Sector
+Harmon,Consumer_Products,98,0.8311462811437268,Sector
+Harmon,Unassigned,24,0.7842413534999761,Sector
+Harmon,Communication,77,0.7546412527697641,Sector
+Harmon,Trade,22,0.2935203736667804,Sector
+Harmon,Business_Services,61,0.8348260280063956,Sector
+Harmon,Business_Products,36,0.7523445220528587,Sector
+Harmon,Construction,73,0.964862773661143,Sector
+Harmon,Services,69,0.7266501999077741,Sector
+Harmon,Mining,79,0.5342562601568283,Sector
+Harmon,Health_Care,52,0.4427939578162102,Sector
+Harmon,EnergyExpL_Prod,90,0.055534864638997594,Sector
+Harmon,Utilities,88,0.5955643194021459,Sector

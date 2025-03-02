@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cidra,609,0.6228089325640681,Overall
+Cidra,HiTech,1,0.37579381655262656,Sector
+Cidra,Agriculture,17,0.9220327427359857,Sector
+Cidra,Transportation,89,0.8062742610942993,Sector
+Cidra,Consumer_Products,34,0.9951265756465757,Sector
+Cidra,Unassigned,58,0.7250637031749134,Sector
+Cidra,Communication,47,0.9219660193650978,Sector
+Cidra,Trade,51,0.9128027609845466,Sector
+Cidra,Business_Services,12,0.059328446059788265,Sector
+Cidra,Business_Products,90,0.6079237406614529,Sector
+Cidra,Construction,22,0.2334211725082297,Sector
+Cidra,Services,86,0.3304468699596441,Sector
+Cidra,Mining,6,0.04372773553051079,Sector
+Cidra,Health_Care,22,0.9806571638716657,Sector
+Cidra,EnergyExpL_Prod,23,0.5947486194841446,Sector
+Cidra,Utilities,51,0.8328203608315399,Sector

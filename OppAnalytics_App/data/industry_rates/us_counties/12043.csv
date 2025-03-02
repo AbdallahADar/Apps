@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Glades,770,0.637489374353865,Overall
+Glades,HiTech,9,0.48035490026240224,Sector
+Glades,Agriculture,45,0.3108383824030646,Sector
+Glades,Transportation,91,0.7553237543789103,Sector
+Glades,Consumer_Products,33,0.09231300145959476,Sector
+Glades,Unassigned,13,0.9918946619415294,Sector
+Glades,Communication,58,0.2603261764018706,Sector
+Glades,Trade,58,0.3065433011264469,Sector
+Glades,Business_Services,98,0.7009349476094796,Sector
+Glades,Business_Products,58,0.9897467712261848,Sector
+Glades,Construction,74,0.7581360036066389,Sector
+Glades,Services,20,0.9551766188228744,Sector
+Glades,Mining,11,0.7114119960564648,Sector
+Glades,Health_Care,79,0.5440606715366998,Sector
+Glades,EnergyExpL_Prod,60,0.9683933449775232,Sector
+Glades,Utilities,63,0.7368860834982893,Sector

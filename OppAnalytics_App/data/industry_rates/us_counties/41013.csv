@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Crook,722,0.6286364832479409,Overall
+Crook,HiTech,25,0.7618989473039969,Sector
+Crook,Agriculture,45,0.30116606541052815,Sector
+Crook,Transportation,97,0.9052171242981654,Sector
+Crook,Consumer_Products,81,0.9316881171964626,Sector
+Crook,Unassigned,52,0.7950695672596069,Sector
+Crook,Communication,78,0.4433418398211919,Sector
+Crook,Trade,29,0.7943042483702066,Sector
+Crook,Business_Services,19,0.764313476081587,Sector
+Crook,Business_Products,15,0.6814010782018398,Sector
+Crook,Construction,30,0.5565195299194998,Sector
+Crook,Services,56,0.6907007575194257,Sector
+Crook,Mining,99,0.7651476894933238,Sector
+Crook,Health_Care,26,0.6541618256954348,Sector
+Crook,EnergyExpL_Prod,32,0.3549165767419318,Sector
+Crook,Utilities,38,0.0297004054059119,Sector

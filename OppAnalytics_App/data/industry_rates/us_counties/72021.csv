@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bayamón,817,0.3215813182687643,Overall
+Bayamón,HiTech,91,0.11262787731702006,Sector
+Bayamón,Agriculture,17,0.525085448419078,Sector
+Bayamón,Transportation,3,0.22325511247249452,Sector
+Bayamón,Consumer_Products,69,0.19472790799731754,Sector
+Bayamón,Unassigned,76,0.3586245758244977,Sector
+Bayamón,Communication,95,0.19552452397707487,Sector
+Bayamón,Trade,35,0.12065178625443429,Sector
+Bayamón,Business_Services,79,0.6937169224998359,Sector
+Bayamón,Business_Products,28,0.26767707969718446,Sector
+Bayamón,Construction,69,0.35421842389637237,Sector
+Bayamón,Services,76,0.21451249957034224,Sector
+Bayamón,Mining,99,0.8655133374462779,Sector
+Bayamón,Health_Care,25,0.09092322943376907,Sector
+Bayamón,EnergyExpL_Prod,23,0.5043747955427851,Sector
+Bayamón,Utilities,32,0.10228625368298039,Sector

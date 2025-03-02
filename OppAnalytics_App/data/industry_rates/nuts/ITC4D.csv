@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Monza e della Brianza,746,0.5470817397126737,Overall
+Monza e della Brianza,HiTech,15,0.6683985568120228,Sector
+Monza e della Brianza,Agriculture,78,0.5370530159236255,Sector
+Monza e della Brianza,Transportation,96,0.1208522511123491,Sector
+Monza e della Brianza,Consumer_Products,98,0.4123901576080712,Sector
+Monza e della Brianza,Unassigned,45,0.8067243038485669,Sector
+Monza e della Brianza,Communication,43,0.837216069154831,Sector
+Monza e della Brianza,Trade,5,0.08514043298046559,Sector
+Monza e della Brianza,Business_Services,40,0.8293721374896413,Sector
+Monza e della Brianza,Business_Products,52,0.987225031308052,Sector
+Monza e della Brianza,Construction,95,0.193900089573377,Sector
+Monza e della Brianza,Services,14,0.2581728861762983,Sector
+Monza e della Brianza,Mining,2,0.5344180821610774,Sector
+Monza e della Brianza,Health_Care,64,0.7454854839875665,Sector
+Monza e della Brianza,EnergyExpL_Prod,33,0.3469307279723022,Sector
+Monza e della Brianza,Utilities,66,0.8429468695818584,Sector

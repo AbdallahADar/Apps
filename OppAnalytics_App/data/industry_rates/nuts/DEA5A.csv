@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Siegen-Wittgenstein,683,0.5178823476743273,Overall
+Siegen-Wittgenstein,HiTech,42,0.3888542044338442,Sector
+Siegen-Wittgenstein,Agriculture,15,0.5254010672405286,Sector
+Siegen-Wittgenstein,Transportation,32,0.3734948744130865,Sector
+Siegen-Wittgenstein,Consumer_Products,78,0.3627719201684305,Sector
+Siegen-Wittgenstein,Unassigned,70,0.43872877744372507,Sector
+Siegen-Wittgenstein,Communication,40,0.7729357168295725,Sector
+Siegen-Wittgenstein,Trade,21,0.2369272829472464,Sector
+Siegen-Wittgenstein,Business_Services,63,0.9887899652525791,Sector
+Siegen-Wittgenstein,Business_Products,28,0.431370570711048,Sector
+Siegen-Wittgenstein,Construction,46,0.567473407409323,Sector
+Siegen-Wittgenstein,Services,30,0.8941139677062631,Sector
+Siegen-Wittgenstein,Mining,43,0.1726677716608811,Sector
+Siegen-Wittgenstein,Health_Care,57,0.2516222782255857,Sector
+Siegen-Wittgenstein,EnergyExpL_Prod,28,0.7801473682081953,Sector
+Siegen-Wittgenstein,Utilities,90,0.5829360424645996,Sector

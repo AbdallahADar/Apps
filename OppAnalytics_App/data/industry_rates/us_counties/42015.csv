@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bradford,851,0.5524780734478798,Overall
+Bradford,HiTech,92,0.7926311089749932,Sector
+Bradford,Agriculture,27,0.7493529950225742,Sector
+Bradford,Transportation,60,0.8090268165221919,Sector
+Bradford,Consumer_Products,83,0.05352451184815621,Sector
+Bradford,Unassigned,57,0.01055478344548666,Sector
+Bradford,Communication,52,0.8385208081117371,Sector
+Bradford,Trade,91,0.6546456470160213,Sector
+Bradford,Business_Services,3,0.6092973155549724,Sector
+Bradford,Business_Products,94,0.5373518589433536,Sector
+Bradford,Construction,47,0.5154690260862288,Sector
+Bradford,Services,22,0.5479448679498247,Sector
+Bradford,Mining,26,0.823385889068564,Sector
+Bradford,Health_Care,41,0.9075316713510756,Sector
+Bradford,EnergyExpL_Prod,87,0.2360492262953695,Sector
+Bradford,Utilities,69,0.2018845755276476,Sector

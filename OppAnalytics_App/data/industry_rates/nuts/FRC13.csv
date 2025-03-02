@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Saône-et-Loire,728,0.5881267353384803,Overall
+Saône-et-Loire,HiTech,20,0.5551433634372597,Sector
+Saône-et-Loire,Agriculture,53,0.27607304381287723,Sector
+Saône-et-Loire,Transportation,20,0.6654512457723946,Sector
+Saône-et-Loire,Consumer_Products,25,0.8434102389416641,Sector
+Saône-et-Loire,Unassigned,27,0.859516706968008,Sector
+Saône-et-Loire,Communication,28,0.98538344302091,Sector
+Saône-et-Loire,Trade,47,0.2869819987895794,Sector
+Saône-et-Loire,Business_Services,79,0.4792391175655424,Sector
+Saône-et-Loire,Business_Products,83,0.19063022885066494,Sector
+Saône-et-Loire,Construction,57,0.45676481663374413,Sector
+Saône-et-Loire,Services,39,0.7366053802663497,Sector
+Saône-et-Loire,Mining,94,0.7339398599713406,Sector
+Saône-et-Loire,Health_Care,69,0.9476349950662886,Sector
+Saône-et-Loire,EnergyExpL_Prod,21,0.41812423091484896,Sector
+Saône-et-Loire,Utilities,66,0.38700236006573074,Sector

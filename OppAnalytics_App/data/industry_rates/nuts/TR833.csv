@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Çorum,601,0.380019677232193,Overall
+Çorum,HiTech,37,0.39446512123064836,Sector
+Çorum,Agriculture,41,0.8384381098449608,Sector
+Çorum,Transportation,41,0.08475723049223294,Sector
+Çorum,Consumer_Products,30,0.09827822205970371,Sector
+Çorum,Unassigned,45,0.22580785276894266,Sector
+Çorum,Communication,19,0.9407454485070328,Sector
+Çorum,Trade,10,0.7957773158265439,Sector
+Çorum,Business_Services,13,0.20721966214234822,Sector
+Çorum,Business_Products,87,0.15214835845417518,Sector
+Çorum,Construction,20,0.2649250705941173,Sector
+Çorum,Services,33,0.6145784580211286,Sector
+Çorum,Mining,17,0.8119602837548451,Sector
+Çorum,Health_Care,65,0.15767775514802274,Sector
+Çorum,EnergyExpL_Prod,81,0.1102031276350044,Sector
+Çorum,Utilities,62,0.0033131420031878855,Sector

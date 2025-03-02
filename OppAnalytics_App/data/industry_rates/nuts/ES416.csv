@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Segovia,685,0.4649271812832126,Overall
+Segovia,HiTech,5,0.6990753929506747,Sector
+Segovia,Agriculture,57,0.845827940834295,Sector
+Segovia,Transportation,79,0.07925809880710755,Sector
+Segovia,Consumer_Products,3,0.3991144986113788,Sector
+Segovia,Unassigned,52,0.17913876335400913,Sector
+Segovia,Communication,13,0.3634160411083869,Sector
+Segovia,Trade,80,0.5284353009118412,Sector
+Segovia,Business_Services,22,0.8343315617907329,Sector
+Segovia,Business_Products,89,0.8340233246567234,Sector
+Segovia,Construction,28,0.07360645830134982,Sector
+Segovia,Services,69,0.14771580966581432,Sector
+Segovia,Mining,24,0.5210202126824024,Sector
+Segovia,Health_Care,42,0.37360787166799525,Sector
+Segovia,EnergyExpL_Prod,65,0.7494490161099336,Sector
+Segovia,Utilities,57,0.34588742779554427,Sector

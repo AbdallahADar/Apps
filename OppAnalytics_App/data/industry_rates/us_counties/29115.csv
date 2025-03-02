@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Linn,682,0.5236885159940058,Overall
+Linn,HiTech,86,0.37785569895892335,Sector
+Linn,Agriculture,78,0.21692858723200725,Sector
+Linn,Transportation,89,0.18553522898503894,Sector
+Linn,Consumer_Products,41,0.9630463890782295,Sector
+Linn,Unassigned,12,0.8265810172068536,Sector
+Linn,Communication,62,0.4902674365308549,Sector
+Linn,Trade,71,0.10299351244356136,Sector
+Linn,Business_Services,35,0.9188689862823685,Sector
+Linn,Business_Products,8,0.559930167328023,Sector
+Linn,Construction,9,0.5398111277465742,Sector
+Linn,Services,1,0.737193568810672,Sector
+Linn,Mining,56,0.7528803150434094,Sector
+Linn,Health_Care,68,0.34286494397325895,Sector
+Linn,EnergyExpL_Prod,8,0.5676214773747049,Sector
+Linn,Utilities,58,0.27294928291560683,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Barry,975,0.6542296340504544,Overall
+Barry,HiTech,87,0.7663311473175687,Sector
+Barry,Agriculture,61,0.912973831321292,Sector
+Barry,Transportation,42,0.9383101145498498,Sector
+Barry,Consumer_Products,99,0.5463609534945915,Sector
+Barry,Unassigned,56,0.5075119380532732,Sector
+Barry,Communication,50,0.9705514813882012,Sector
+Barry,Trade,87,0.5200790238042772,Sector
+Barry,Business_Services,87,0.8326884161937949,Sector
+Barry,Business_Products,61,0.7202692819813707,Sector
+Barry,Construction,15,0.6683910516886564,Sector
+Barry,Services,33,0.7432890338619578,Sector
+Barry,Mining,71,0.9235680115063182,Sector
+Barry,Health_Care,89,0.2108574241175427,Sector
+Barry,EnergyExpL_Prod,61,0.5421613008868055,Sector
+Barry,Utilities,76,0.010101500591316648,Sector

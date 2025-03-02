@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sandusky,856,0.5639375063624491,Overall
+Sandusky,HiTech,59,0.9997951923322096,Sector
+Sandusky,Agriculture,20,0.9203366062611035,Sector
+Sandusky,Transportation,85,0.6669274590995995,Sector
+Sandusky,Consumer_Products,98,0.6852336711786854,Sector
+Sandusky,Unassigned,37,0.4041920089422818,Sector
+Sandusky,Communication,79,0.6422817494455509,Sector
+Sandusky,Trade,33,0.26904234505893865,Sector
+Sandusky,Business_Services,98,0.22957781536287636,Sector
+Sandusky,Business_Products,92,0.4605169276349287,Sector
+Sandusky,Construction,6,0.5545024317057657,Sector
+Sandusky,Services,68,0.8400678030375422,Sector
+Sandusky,Mining,71,0.1901019909295868,Sector
+Sandusky,Health_Care,9,0.8292363181108955,Sector
+Sandusky,EnergyExpL_Prod,48,0.02127421673506058,Sector
+Sandusky,Utilities,53,0.7459760596017109,Sector

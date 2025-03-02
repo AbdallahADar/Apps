@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Labette,687,0.4374954025327123,Overall
+Labette,HiTech,32,0.255013376616513,Sector
+Labette,Agriculture,15,0.23871632520104413,Sector
+Labette,Transportation,1,0.23017381426999628,Sector
+Labette,Consumer_Products,52,0.32428004284159784,Sector
+Labette,Unassigned,56,0.5438191153964448,Sector
+Labette,Communication,13,0.6761540188838395,Sector
+Labette,Trade,34,0.2524818337411988,Sector
+Labette,Business_Services,72,0.41537215411915673,Sector
+Labette,Business_Products,96,0.5244948964008068,Sector
+Labette,Construction,43,0.7633451894626293,Sector
+Labette,Services,89,0.18104677141532366,Sector
+Labette,Mining,74,0.9041337897694874,Sector
+Labette,Health_Care,85,0.12602837027817826,Sector
+Labette,EnergyExpL_Prod,12,0.21791960919674236,Sector
+Labette,Utilities,13,0.909451730397725,Sector

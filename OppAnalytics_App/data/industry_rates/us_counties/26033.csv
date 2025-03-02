@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chippewa,687,0.43186100390544646,Overall
+Chippewa,HiTech,36,0.4179674944117897,Sector
+Chippewa,Agriculture,53,0.7226766958889198,Sector
+Chippewa,Transportation,96,0.20944031883816494,Sector
+Chippewa,Consumer_Products,86,0.31468466141672813,Sector
+Chippewa,Unassigned,66,0.11248478907049153,Sector
+Chippewa,Communication,20,0.26154671259262385,Sector
+Chippewa,Trade,27,0.037328533635209715,Sector
+Chippewa,Business_Services,16,0.6575282026470356,Sector
+Chippewa,Business_Products,54,0.08234090201350397,Sector
+Chippewa,Construction,54,0.174706436344245,Sector
+Chippewa,Services,26,0.9683894745329056,Sector
+Chippewa,Mining,63,0.6952684638286902,Sector
+Chippewa,Health_Care,25,0.4896889069532713,Sector
+Chippewa,EnergyExpL_Prod,2,0.6655067881048143,Sector
+Chippewa,Utilities,63,0.6683566783033039,Sector

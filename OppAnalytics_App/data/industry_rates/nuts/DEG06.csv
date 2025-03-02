@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Eichsfeld,784,0.4238849810596511,Overall
+Eichsfeld,HiTech,48,0.5379826329666197,Sector
+Eichsfeld,Agriculture,26,0.5870210247559737,Sector
+Eichsfeld,Transportation,56,0.6546159465417044,Sector
+Eichsfeld,Consumer_Products,56,0.7769770139043802,Sector
+Eichsfeld,Unassigned,16,0.02382210783755767,Sector
+Eichsfeld,Communication,28,0.4669310457328131,Sector
+Eichsfeld,Trade,83,0.2540937698341248,Sector
+Eichsfeld,Business_Services,25,0.4975183123348845,Sector
+Eichsfeld,Business_Products,75,0.6034956858739633,Sector
+Eichsfeld,Construction,35,0.11819138901780535,Sector
+Eichsfeld,Services,92,0.333054549560697,Sector
+Eichsfeld,Mining,76,0.9483823280072627,Sector
+Eichsfeld,Health_Care,71,0.10798524925544384,Sector
+Eichsfeld,EnergyExpL_Prod,82,0.34862747703372965,Sector
+Eichsfeld,Utilities,15,0.0995761832378067,Sector

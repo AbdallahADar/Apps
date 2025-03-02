@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Csongrád-Csanád,851,0.5704676342854248,Overall
+Csongrád-Csanád,HiTech,49,0.801943712713178,Sector
+Csongrád-Csanád,Agriculture,26,0.4878160117050764,Sector
+Csongrád-Csanád,Transportation,24,0.8218578609479643,Sector
+Csongrád-Csanád,Consumer_Products,30,0.03941588941913876,Sector
+Csongrád-Csanád,Unassigned,45,0.7840096408299876,Sector
+Csongrád-Csanád,Communication,75,0.13030943909142667,Sector
+Csongrád-Csanád,Trade,59,0.3688014880988829,Sector
+Csongrád-Csanád,Business_Services,96,0.30587867045521544,Sector
+Csongrád-Csanád,Business_Products,88,0.9852856835920648,Sector
+Csongrád-Csanád,Construction,82,0.11958305281862969,Sector
+Csongrád-Csanád,Services,27,0.9887391523312014,Sector
+Csongrád-Csanád,Mining,45,0.9882333292047543,Sector
+Csongrád-Csanád,Health_Care,88,0.6895755748186044,Sector
+Csongrád-Csanád,EnergyExpL_Prod,31,0.29588172300223003,Sector
+Csongrád-Csanád,Utilities,86,0.7496832852530152,Sector

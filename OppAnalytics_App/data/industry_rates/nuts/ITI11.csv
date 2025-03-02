@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Massa-Carrara,783,0.4078680644389082,Overall
+Massa-Carrara,HiTech,50,0.6401938501909465,Sector
+Massa-Carrara,Agriculture,6,0.49185152523643794,Sector
+Massa-Carrara,Transportation,14,0.13344453327448247,Sector
+Massa-Carrara,Consumer_Products,6,0.08798925063948415,Sector
+Massa-Carrara,Unassigned,57,0.546744223633484,Sector
+Massa-Carrara,Communication,38,0.5111182749803127,Sector
+Massa-Carrara,Trade,92,0.1310005212861003,Sector
+Massa-Carrara,Business_Services,90,0.06588584772872785,Sector
+Massa-Carrara,Business_Products,44,0.06688301782187045,Sector
+Massa-Carrara,Construction,55,0.1636607466722897,Sector
+Massa-Carrara,Services,82,0.9601173511861875,Sector
+Massa-Carrara,Mining,29,0.5859328681624133,Sector
+Massa-Carrara,Health_Care,98,0.5650878716480578,Sector
+Massa-Carrara,EnergyExpL_Prod,55,0.6815283897457388,Sector
+Massa-Carrara,Utilities,67,0.48658269437708923,Sector

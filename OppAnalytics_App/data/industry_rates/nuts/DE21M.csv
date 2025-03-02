@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Traunstein,616,0.4323589763912152,Overall
+Traunstein,HiTech,76,0.27826386989814544,Sector
+Traunstein,Agriculture,70,0.38221504961767194,Sector
+Traunstein,Transportation,17,0.08697973815069504,Sector
+Traunstein,Consumer_Products,35,0.14913143173564192,Sector
+Traunstein,Unassigned,5,0.5864419954292536,Sector
+Traunstein,Communication,92,0.6289686714065007,Sector
+Traunstein,Trade,28,0.7213059552134634,Sector
+Traunstein,Business_Services,40,0.8333664237319305,Sector
+Traunstein,Business_Products,18,0.7274640608192271,Sector
+Traunstein,Construction,42,0.352817952221818,Sector
+Traunstein,Services,32,0.4523767702906265,Sector
+Traunstein,Mining,27,0.2080777955004781,Sector
+Traunstein,Health_Care,32,0.13159669747702285,Sector
+Traunstein,EnergyExpL_Prod,99,0.8550774552275964,Sector
+Traunstein,Utilities,3,0.0913007791481566,Sector

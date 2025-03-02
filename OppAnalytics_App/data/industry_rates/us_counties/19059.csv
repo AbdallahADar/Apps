@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dickinson,793,0.5277941816988142,Overall
+Dickinson,HiTech,35,0.8511495011011293,Sector
+Dickinson,Agriculture,43,0.6267638038832627,Sector
+Dickinson,Transportation,94,0.38575000876651167,Sector
+Dickinson,Consumer_Products,60,0.6884844433155048,Sector
+Dickinson,Unassigned,47,0.6613101456532955,Sector
+Dickinson,Communication,0,0.5414642968721689,Sector
+Dickinson,Trade,60,0.962940759776104,Sector
+Dickinson,Business_Services,74,0.115035766767706,Sector
+Dickinson,Business_Products,85,0.3680410731674916,Sector
+Dickinson,Construction,52,0.6592599315666648,Sector
+Dickinson,Services,79,0.6360485175712343,Sector
+Dickinson,Mining,28,0.23110082668299414,Sector
+Dickinson,Health_Care,68,0.2888439608516543,Sector
+Dickinson,EnergyExpL_Prod,19,0.012153314095804335,Sector
+Dickinson,Utilities,49,0.8885663754106855,Sector

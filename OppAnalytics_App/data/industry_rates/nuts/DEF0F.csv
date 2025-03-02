@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stormarn,757,0.48421076985819833,Overall
+Stormarn,HiTech,61,0.7387539949092587,Sector
+Stormarn,Agriculture,75,0.3078445631994693,Sector
+Stormarn,Transportation,6,0.712184079491865,Sector
+Stormarn,Consumer_Products,20,0.5099781861922528,Sector
+Stormarn,Unassigned,75,0.9005999431402748,Sector
+Stormarn,Communication,65,0.4791672256960383,Sector
+Stormarn,Trade,71,0.45386280970972026,Sector
+Stormarn,Business_Services,37,0.6612270050379978,Sector
+Stormarn,Business_Products,60,0.11687299605547441,Sector
+Stormarn,Construction,12,0.13029570257561873,Sector
+Stormarn,Services,99,0.8736437848379012,Sector
+Stormarn,Mining,81,0.7827034390513781,Sector
+Stormarn,Health_Care,8,0.2061546279826605,Sector
+Stormarn,EnergyExpL_Prod,7,0.3439272490793056,Sector
+Stormarn,Utilities,80,0.045945940913760586,Sector

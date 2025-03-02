@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rusk,855,0.39838550161990666,Overall
+Rusk,HiTech,46,0.14835238627294267,Sector
+Rusk,Agriculture,14,0.4204563787804425,Sector
+Rusk,Transportation,32,0.5895331330010583,Sector
+Rusk,Consumer_Products,83,0.6147701324793209,Sector
+Rusk,Unassigned,36,0.001617325762196642,Sector
+Rusk,Communication,70,0.8885316410872651,Sector
+Rusk,Trade,62,0.261295123028902,Sector
+Rusk,Business_Services,76,0.09260492721643088,Sector
+Rusk,Business_Products,24,0.46962635850479506,Sector
+Rusk,Construction,72,0.7454449206131808,Sector
+Rusk,Services,76,0.04524505103015186,Sector
+Rusk,Mining,67,0.16575144536091047,Sector
+Rusk,Health_Care,51,0.11336323072383048,Sector
+Rusk,EnergyExpL_Prod,82,0.9299945749068308,Sector
+Rusk,Utilities,64,0.48919589553034226,Sector

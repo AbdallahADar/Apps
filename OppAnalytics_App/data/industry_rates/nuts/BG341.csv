@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Burgas,677,0.4360328769275127,Overall
+Burgas,HiTech,41,0.2099555793220389,Sector
+Burgas,Agriculture,76,0.8519441694610801,Sector
+Burgas,Transportation,28,0.14737586749752463,Sector
+Burgas,Consumer_Products,13,0.35895495702447855,Sector
+Burgas,Unassigned,40,0.6425679837540658,Sector
+Burgas,Communication,4,0.2129778130973864,Sector
+Burgas,Trade,82,0.019103930718925022,Sector
+Burgas,Business_Services,74,0.5129977477216715,Sector
+Burgas,Business_Products,26,0.05700699548694099,Sector
+Burgas,Construction,90,0.6802662883881547,Sector
+Burgas,Services,9,0.44164362529384527,Sector
+Burgas,Mining,47,0.9004858725726708,Sector
+Burgas,Health_Care,87,0.8486966738760935,Sector
+Burgas,EnergyExpL_Prod,0,0.23581939959784137,Sector
+Burgas,Utilities,60,0.42069625009997336,Sector

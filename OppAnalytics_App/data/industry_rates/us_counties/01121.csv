@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Talladega,667,0.4727828140420957,Overall
+Talladega,HiTech,32,0.13830723087832908,Sector
+Talladega,Agriculture,72,0.7268505798540107,Sector
+Talladega,Transportation,24,0.5389745209266991,Sector
+Talladega,Consumer_Products,44,0.7184098528442532,Sector
+Talladega,Unassigned,51,0.3581020937427173,Sector
+Talladega,Communication,64,0.34845844742656806,Sector
+Talladega,Trade,15,0.9275374607034004,Sector
+Talladega,Business_Services,4,0.4604349474559719,Sector
+Talladega,Business_Products,93,0.20396373635152742,Sector
+Talladega,Construction,87,0.12001223141219242,Sector
+Talladega,Services,40,0.6906687236700827,Sector
+Talladega,Mining,61,0.5555157871587443,Sector
+Talladega,Health_Care,60,0.35594351641765765,Sector
+Talladega,EnergyExpL_Prod,0,0.4050238218753476,Sector
+Talladega,Utilities,20,0.5435392599139345,Sector

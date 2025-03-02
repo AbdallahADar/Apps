@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Waldshut,690,0.4311297975242347,Overall
+Waldshut,HiTech,41,0.09919994718165903,Sector
+Waldshut,Agriculture,31,0.4307483368037195,Sector
+Waldshut,Transportation,30,0.7169405185580607,Sector
+Waldshut,Consumer_Products,30,0.41124661477728586,Sector
+Waldshut,Unassigned,8,0.37779597268526977,Sector
+Waldshut,Communication,33,0.3887136161624064,Sector
+Waldshut,Trade,80,0.335595627609926,Sector
+Waldshut,Business_Services,43,0.5104529159010894,Sector
+Waldshut,Business_Products,36,0.5433534208044101,Sector
+Waldshut,Construction,58,0.769789591119097,Sector
+Waldshut,Services,29,0.30510558394298337,Sector
+Waldshut,Mining,78,0.015906812579961516,Sector
+Waldshut,Health_Care,41,0.2089517432500042,Sector
+Waldshut,EnergyExpL_Prod,83,0.9561224930262384,Sector
+Waldshut,Utilities,69,0.3970237684614094,Sector

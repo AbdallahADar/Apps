@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Randolph,695,0.4918781509736402,Overall
+Randolph,HiTech,0,0.004037199633049715,Sector
+Randolph,Agriculture,68,0.5774092042627407,Sector
+Randolph,Transportation,79,0.37340813186226374,Sector
+Randolph,Consumer_Products,96,0.7284689540091743,Sector
+Randolph,Unassigned,18,0.5665131985460278,Sector
+Randolph,Communication,42,0.04625581439307258,Sector
+Randolph,Trade,66,0.06016961081538552,Sector
+Randolph,Business_Services,67,0.7310190204480769,Sector
+Randolph,Business_Products,28,0.8956525508796475,Sector
+Randolph,Construction,22,0.2399175282780256,Sector
+Randolph,Services,36,0.4003782505129486,Sector
+Randolph,Mining,60,0.27264778261259615,Sector
+Randolph,Health_Care,71,0.83952834994123,Sector
+Randolph,EnergyExpL_Prod,31,0.9659592222825235,Sector
+Randolph,Utilities,11,0.6768074461278397,Sector

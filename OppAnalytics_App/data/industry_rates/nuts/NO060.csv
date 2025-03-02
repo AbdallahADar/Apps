@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Trøndelag/Trööndelage,732,0.6312555889360485,Overall
+Trøndelag/Trööndelage,HiTech,95,0.3144383614090067,Sector
+Trøndelag/Trööndelage,Agriculture,7,0.6666234729490289,Sector
+Trøndelag/Trööndelage,Transportation,71,0.5179741315547141,Sector
+Trøndelag/Trööndelage,Consumer_Products,82,0.8052462275295614,Sector
+Trøndelag/Trööndelage,Unassigned,83,0.4261986472637386,Sector
+Trøndelag/Trööndelage,Communication,49,0.8015729891032825,Sector
+Trøndelag/Trööndelage,Trade,32,0.9996403118989153,Sector
+Trøndelag/Trööndelage,Business_Services,61,0.42182323760301077,Sector
+Trøndelag/Trööndelage,Business_Products,48,0.9834936807434959,Sector
+Trøndelag/Trööndelage,Construction,67,0.809005723362508,Sector
+Trøndelag/Trööndelage,Services,14,0.4586768652866652,Sector
+Trøndelag/Trööndelage,Mining,38,0.5931257604570362,Sector
+Trøndelag/Trööndelage,Health_Care,56,0.4197269088742187,Sector
+Trøndelag/Trööndelage,EnergyExpL_Prod,5,0.3071446550122846,Sector
+Trøndelag/Trööndelage,Utilities,24,0.9441428609932614,Sector

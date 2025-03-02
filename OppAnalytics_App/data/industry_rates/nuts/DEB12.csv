@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ahrweiler,817,0.5743285054045971,Overall
+Ahrweiler,HiTech,87,0.4582709128660165,Sector
+Ahrweiler,Agriculture,2,0.8370442161056769,Sector
+Ahrweiler,Transportation,98,0.9020495235978203,Sector
+Ahrweiler,Consumer_Products,38,0.37747631656550673,Sector
+Ahrweiler,Unassigned,37,0.8235238178195803,Sector
+Ahrweiler,Communication,39,0.35775828728795867,Sector
+Ahrweiler,Trade,15,0.9980264504068884,Sector
+Ahrweiler,Business_Services,86,0.5922185655258222,Sector
+Ahrweiler,Business_Products,55,0.3936068041129668,Sector
+Ahrweiler,Construction,28,0.7434150936735967,Sector
+Ahrweiler,Services,43,0.4367296349682138,Sector
+Ahrweiler,Mining,97,0.5586839316135511,Sector
+Ahrweiler,Health_Care,34,0.39853602580705905,Sector
+Ahrweiler,EnergyExpL_Prod,62,0.1288219608294745,Sector
+Ahrweiler,Utilities,96,0.6087660398888258,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Grant,734,0.5153177053125234,Overall
+Grant,HiTech,22,0.3263137804035021,Sector
+Grant,Agriculture,17,0.7369042913321634,Sector
+Grant,Transportation,56,0.24112429184521622,Sector
+Grant,Consumer_Products,26,0.2318244486112605,Sector
+Grant,Unassigned,76,0.8723621267012296,Sector
+Grant,Communication,58,0.2681108038796768,Sector
+Grant,Trade,25,0.18525723308291253,Sector
+Grant,Business_Services,24,0.5603370308361179,Sector
+Grant,Business_Products,62,0.41857831446868954,Sector
+Grant,Construction,99,0.9119374250403419,Sector
+Grant,Services,83,0.9886695466358429,Sector
+Grant,Mining,9,0.32726137225953666,Sector
+Grant,Health_Care,5,0.8699898939017287,Sector
+Grant,EnergyExpL_Prod,98,0.5772541906946815,Sector
+Grant,Utilities,74,0.21384082999495158,Sector

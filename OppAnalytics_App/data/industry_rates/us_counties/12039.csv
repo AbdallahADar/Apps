@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gadsden,844,0.5510889219468322,Overall
+Gadsden,HiTech,47,0.5994000291841862,Sector
+Gadsden,Agriculture,35,0.08467093874593812,Sector
+Gadsden,Transportation,42,0.28132837621260187,Sector
+Gadsden,Consumer_Products,42,0.6709465275248291,Sector
+Gadsden,Unassigned,49,0.5877790901405474,Sector
+Gadsden,Communication,38,0.4215637974820765,Sector
+Gadsden,Trade,67,0.6920028352961525,Sector
+Gadsden,Business_Services,96,0.8708480579792094,Sector
+Gadsden,Business_Products,69,0.6720972920415161,Sector
+Gadsden,Construction,99,0.7998473272709018,Sector
+Gadsden,Services,47,0.8600453381209836,Sector
+Gadsden,Mining,9,0.10307273794531968,Sector
+Gadsden,Health_Care,18,0.43350026137675,Sector
+Gadsden,EnergyExpL_Prod,88,0.8980912581727288,Sector
+Gadsden,Utilities,98,0.2911399617087431,Sector

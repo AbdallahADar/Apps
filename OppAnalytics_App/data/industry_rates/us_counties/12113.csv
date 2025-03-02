@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Santa Rosa,688,0.38782650673932406,Overall
+Santa Rosa,HiTech,26,0.800651395989655,Sector
+Santa Rosa,Agriculture,9,0.9262153957800142,Sector
+Santa Rosa,Transportation,92,0.02662845170593764,Sector
+Santa Rosa,Consumer_Products,12,0.287615885035025,Sector
+Santa Rosa,Unassigned,53,0.30647805337963063,Sector
+Santa Rosa,Communication,62,0.020305804884460987,Sector
+Santa Rosa,Trade,42,0.10767040020977825,Sector
+Santa Rosa,Business_Services,70,0.656925911743127,Sector
+Santa Rosa,Business_Products,6,0.03441384801371261,Sector
+Santa Rosa,Construction,59,0.2716064104963374,Sector
+Santa Rosa,Services,1,0.8486183927895405,Sector
+Santa Rosa,Mining,68,0.3258613460050602,Sector
+Santa Rosa,Health_Care,66,0.08213661029478425,Sector
+Santa Rosa,EnergyExpL_Prod,23,0.9871468316379366,Sector
+Santa Rosa,Utilities,99,0.13512286312486022,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Buffalo,825,0.4182473302177017,Overall
+Buffalo,HiTech,53,0.3008949029281637,Sector
+Buffalo,Agriculture,65,0.8604136575777479,Sector
+Buffalo,Transportation,62,0.4395425872201819,Sector
+Buffalo,Consumer_Products,41,0.003270291825513638,Sector
+Buffalo,Unassigned,78,0.47172418100352176,Sector
+Buffalo,Communication,44,0.4349863456392351,Sector
+Buffalo,Trade,74,0.41202696373748793,Sector
+Buffalo,Business_Services,38,0.580446253995364,Sector
+Buffalo,Business_Products,65,0.2400723182647363,Sector
+Buffalo,Construction,11,0.7633923452744376,Sector
+Buffalo,Services,61,0.4116441811953089,Sector
+Buffalo,Mining,82,0.060331055711997816,Sector
+Buffalo,Health_Care,81,0.28366388400920384,Sector
+Buffalo,EnergyExpL_Prod,22,0.8453680767274482,Sector
+Buffalo,Utilities,48,0.16593290815517603,Sector

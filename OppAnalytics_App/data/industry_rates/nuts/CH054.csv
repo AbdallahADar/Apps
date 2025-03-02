@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Appenzell Innerrhoden,638,0.4564280813451363,Overall
+Appenzell Innerrhoden,HiTech,39,0.2519125608701033,Sector
+Appenzell Innerrhoden,Agriculture,38,0.5416684061561625,Sector
+Appenzell Innerrhoden,Transportation,13,0.3708810102490857,Sector
+Appenzell Innerrhoden,Consumer_Products,91,0.6763532764571067,Sector
+Appenzell Innerrhoden,Unassigned,54,0.7934670334946653,Sector
+Appenzell Innerrhoden,Communication,90,0.5090830665195376,Sector
+Appenzell Innerrhoden,Trade,58,0.3581564759969331,Sector
+Appenzell Innerrhoden,Business_Services,77,0.11983731083661042,Sector
+Appenzell Innerrhoden,Business_Products,31,0.029163695654518484,Sector
+Appenzell Innerrhoden,Construction,44,0.44369517019415594,Sector
+Appenzell Innerrhoden,Services,4,0.9930144591129003,Sector
+Appenzell Innerrhoden,Mining,44,0.23013474400135991,Sector
+Appenzell Innerrhoden,Health_Care,35,0.7494076988328111,Sector
+Appenzell Innerrhoden,EnergyExpL_Prod,3,0.6592993724925151,Sector
+Appenzell Innerrhoden,Utilities,17,0.12034693930857987,Sector

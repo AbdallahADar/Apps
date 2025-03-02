@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Broadwater,846,0.4798511702155995,Overall
+Broadwater,HiTech,12,0.3854263597641804,Sector
+Broadwater,Agriculture,69,0.320200822603414,Sector
+Broadwater,Transportation,51,0.9539360974160054,Sector
+Broadwater,Consumer_Products,19,0.5121449741953341,Sector
+Broadwater,Unassigned,20,0.5963404171045418,Sector
+Broadwater,Communication,78,0.36477090371806686,Sector
+Broadwater,Trade,72,0.5039985989113933,Sector
+Broadwater,Business_Services,84,0.5986510858202898,Sector
+Broadwater,Business_Products,95,0.7165480221439953,Sector
+Broadwater,Construction,85,0.5858921633403361,Sector
+Broadwater,Services,8,0.8701294520623993,Sector
+Broadwater,Mining,59,0.0023620588103940854,Sector
+Broadwater,Health_Care,60,0.0077600518258573725,Sector
+Broadwater,EnergyExpL_Prod,44,0.4667698982950742,Sector
+Broadwater,Utilities,90,0.3128366472227089,Sector

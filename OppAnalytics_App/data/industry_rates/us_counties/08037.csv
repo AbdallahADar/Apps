@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Eagle,810,0.5024737014122809,Overall
+Eagle,HiTech,3,0.5057013449143705,Sector
+Eagle,Agriculture,68,0.6909461301075772,Sector
+Eagle,Transportation,40,0.16507942171321266,Sector
+Eagle,Consumer_Products,85,0.3074613274663791,Sector
+Eagle,Unassigned,66,0.5915368520591581,Sector
+Eagle,Communication,89,0.3468038687353312,Sector
+Eagle,Trade,17,0.6868522532525031,Sector
+Eagle,Business_Services,76,0.11291305315287192,Sector
+Eagle,Business_Products,63,0.37641415176162296,Sector
+Eagle,Construction,45,0.4637128912755304,Sector
+Eagle,Services,47,0.8975493010938426,Sector
+Eagle,Mining,69,0.6564411686744017,Sector
+Eagle,Health_Care,43,0.9249373525054635,Sector
+Eagle,EnergyExpL_Prod,16,0.6652242755456739,Sector
+Eagle,Utilities,83,0.1455321289262742,Sector

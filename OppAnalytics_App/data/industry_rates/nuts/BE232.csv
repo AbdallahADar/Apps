@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Dendermonde,923,0.564253930456114,Overall
+Arr. Dendermonde,HiTech,54,0.4378026123634011,Sector
+Arr. Dendermonde,Agriculture,79,0.1974191190017499,Sector
+Arr. Dendermonde,Transportation,89,0.8895923810822453,Sector
+Arr. Dendermonde,Consumer_Products,50,0.4314102156567371,Sector
+Arr. Dendermonde,Unassigned,98,0.3626922380001789,Sector
+Arr. Dendermonde,Communication,68,0.8841322664524139,Sector
+Arr. Dendermonde,Trade,89,0.5291665558933637,Sector
+Arr. Dendermonde,Business_Services,75,0.6182394421066543,Sector
+Arr. Dendermonde,Business_Products,48,0.17108930455110027,Sector
+Arr. Dendermonde,Construction,7,0.795838765604325,Sector
+Arr. Dendermonde,Services,15,0.587679541442348,Sector
+Arr. Dendermonde,Mining,79,0.31896668130957195,Sector
+Arr. Dendermonde,Health_Care,51,0.9428948483435972,Sector
+Arr. Dendermonde,EnergyExpL_Prod,91,0.6900248938411421,Sector
+Arr. Dendermonde,Utilities,30,0.6068600911928823,Sector

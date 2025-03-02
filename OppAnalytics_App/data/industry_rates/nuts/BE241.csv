@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Halle-Vilvoorde,925,0.47456067569788035,Overall
+Arr. Halle-Vilvoorde,HiTech,0,0.9261718348895066,Sector
+Arr. Halle-Vilvoorde,Agriculture,32,0.36932547791939163,Sector
+Arr. Halle-Vilvoorde,Transportation,93,0.5638336607737723,Sector
+Arr. Halle-Vilvoorde,Consumer_Products,89,0.1918451392044329,Sector
+Arr. Halle-Vilvoorde,Unassigned,29,0.28693526226626953,Sector
+Arr. Halle-Vilvoorde,Communication,18,0.5941015076253289,Sector
+Arr. Halle-Vilvoorde,Trade,53,0.13842759008431338,Sector
+Arr. Halle-Vilvoorde,Business_Services,65,0.7494950226038791,Sector
+Arr. Halle-Vilvoorde,Business_Products,49,0.2861370175869892,Sector
+Arr. Halle-Vilvoorde,Construction,65,0.8128976192389606,Sector
+Arr. Halle-Vilvoorde,Services,86,0.08763502688242075,Sector
+Arr. Halle-Vilvoorde,Mining,70,0.3310949481837361,Sector
+Arr. Halle-Vilvoorde,Health_Care,95,0.8833151996493376,Sector
+Arr. Halle-Vilvoorde,EnergyExpL_Prod,96,0.22969551891031115,Sector
+Arr. Halle-Vilvoorde,Utilities,85,0.6674993096495558,Sector

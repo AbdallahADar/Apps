@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jura,735,0.3534562351166134,Overall
+Jura,HiTech,78,0.0906502277257526,Sector
+Jura,Agriculture,7,0.7943378420959828,Sector
+Jura,Transportation,72,0.04227541292285397,Sector
+Jura,Consumer_Products,33,0.1699822570961077,Sector
+Jura,Unassigned,30,0.531007475501737,Sector
+Jura,Communication,43,0.960630582471214,Sector
+Jura,Trade,68,0.03433081544042582,Sector
+Jura,Business_Services,97,0.7654553745837133,Sector
+Jura,Business_Products,10,0.02702820630324465,Sector
+Jura,Construction,42,0.8217201589359202,Sector
+Jura,Services,16,0.27471139529919986,Sector
+Jura,Mining,75,0.14871138915981919,Sector
+Jura,Health_Care,45,0.06550703206608133,Sector
+Jura,EnergyExpL_Prod,92,0.30916407923473266,Sector
+Jura,Utilities,27,0.2663312779124153,Sector

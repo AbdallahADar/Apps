@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chattahoochee,565,0.45166368787775396,Overall
+Chattahoochee,HiTech,10,0.2613711384795421,Sector
+Chattahoochee,Agriculture,24,0.5647923568675258,Sector
+Chattahoochee,Transportation,17,0.8612443068862782,Sector
+Chattahoochee,Consumer_Products,7,0.36769626770119823,Sector
+Chattahoochee,Unassigned,44,0.403820714173177,Sector
+Chattahoochee,Communication,3,0.7403864134511133,Sector
+Chattahoochee,Trade,41,0.04352874168945431,Sector
+Chattahoochee,Business_Services,72,0.8047801406019314,Sector
+Chattahoochee,Business_Products,98,0.42684219375996746,Sector
+Chattahoochee,Construction,32,0.20527810230304233,Sector
+Chattahoochee,Services,8,0.27541574030143867,Sector
+Chattahoochee,Mining,63,0.7710112202466578,Sector
+Chattahoochee,Health_Care,61,0.1689787769846689,Sector
+Chattahoochee,EnergyExpL_Prod,24,0.3714984496595447,Sector
+Chattahoochee,Utilities,61,0.5083107550607684,Sector

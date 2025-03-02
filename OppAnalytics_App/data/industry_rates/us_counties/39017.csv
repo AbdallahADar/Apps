@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Butler,749,0.45108875975939455,Overall
+Butler,HiTech,19,0.19024386475589716,Sector
+Butler,Agriculture,23,0.1387504514098341,Sector
+Butler,Transportation,87,0.5855416943454054,Sector
+Butler,Consumer_Products,59,0.1762410968806073,Sector
+Butler,Unassigned,16,0.7372619121465864,Sector
+Butler,Communication,70,0.23223566496176185,Sector
+Butler,Trade,46,0.1619592075331001,Sector
+Butler,Business_Services,32,0.9196871367701844,Sector
+Butler,Business_Products,4,0.8167199623462268,Sector
+Butler,Construction,68,0.6469440896521732,Sector
+Butler,Services,75,0.7148819198533434,Sector
+Butler,Mining,94,0.301757467734715,Sector
+Butler,Health_Care,61,0.6133641702582944,Sector
+Butler,EnergyExpL_Prod,87,0.015458726193490646,Sector
+Butler,Utilities,8,0.5152840315492971,Sector

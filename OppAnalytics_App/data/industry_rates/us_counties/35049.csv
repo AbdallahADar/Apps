@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Santa Fe,762,0.5001416508116413,Overall
+Santa Fe,HiTech,99,0.7790225107374963,Sector
+Santa Fe,Agriculture,97,0.72639802833531,Sector
+Santa Fe,Transportation,2,0.6623976870800485,Sector
+Santa Fe,Consumer_Products,61,0.21799837102656983,Sector
+Santa Fe,Unassigned,2,0.7415591166868557,Sector
+Santa Fe,Communication,41,0.6482967378877252,Sector
+Santa Fe,Trade,27,0.6702416843272062,Sector
+Santa Fe,Business_Services,53,0.1787248919968355,Sector
+Santa Fe,Business_Products,80,0.824603688465008,Sector
+Santa Fe,Construction,49,0.16831556473584264,Sector
+Santa Fe,Services,49,0.02784219620103423,Sector
+Santa Fe,Mining,67,0.1651734676202502,Sector
+Santa Fe,Health_Care,65,0.5327829353846867,Sector
+Santa Fe,EnergyExpL_Prod,58,0.9391036915911053,Sector
+Santa Fe,Utilities,12,0.21966419009864546,Sector

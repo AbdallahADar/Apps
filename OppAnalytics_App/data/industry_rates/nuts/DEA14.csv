@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Krefeld, Kreisfreie Stadt",514,0.5791408476192507,Overall
+"Krefeld, Kreisfreie Stadt",HiTech,70,0.4793764571576903,Sector
+"Krefeld, Kreisfreie Stadt",Agriculture,14,0.07604322879528824,Sector
+"Krefeld, Kreisfreie Stadt",Transportation,23,0.9041787487879211,Sector
+"Krefeld, Kreisfreie Stadt",Consumer_Products,33,0.16910457819323466,Sector
+"Krefeld, Kreisfreie Stadt",Unassigned,20,0.9275419750669619,Sector
+"Krefeld, Kreisfreie Stadt",Communication,23,0.8060254689891535,Sector
+"Krefeld, Kreisfreie Stadt",Trade,65,0.319270645024329,Sector
+"Krefeld, Kreisfreie Stadt",Business_Services,29,0.8355924927685969,Sector
+"Krefeld, Kreisfreie Stadt",Business_Products,42,0.9076124094608414,Sector
+"Krefeld, Kreisfreie Stadt",Construction,9,0.16224330669663967,Sector
+"Krefeld, Kreisfreie Stadt",Services,22,0.7915168769129535,Sector
+"Krefeld, Kreisfreie Stadt",Mining,34,0.8120389777074507,Sector
+"Krefeld, Kreisfreie Stadt",Health_Care,18,0.6618538916139144,Sector
+"Krefeld, Kreisfreie Stadt",EnergyExpL_Prod,81,0.596102563114552,Sector
+"Krefeld, Kreisfreie Stadt",Utilities,31,0.23861109399923353,Sector

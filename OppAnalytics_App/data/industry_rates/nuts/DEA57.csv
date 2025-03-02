@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hochsauerlandkreis,723,0.43420848255232153,Overall
+Hochsauerlandkreis,HiTech,74,0.8242984851907499,Sector
+Hochsauerlandkreis,Agriculture,86,0.17826887454589546,Sector
+Hochsauerlandkreis,Transportation,1,0.25873596536965016,Sector
+Hochsauerlandkreis,Consumer_Products,38,0.6091582014458743,Sector
+Hochsauerlandkreis,Unassigned,68,0.733250448629308,Sector
+Hochsauerlandkreis,Communication,50,0.7298771447385644,Sector
+Hochsauerlandkreis,Trade,0,0.09321654675346436,Sector
+Hochsauerlandkreis,Business_Services,72,0.14049269151023214,Sector
+Hochsauerlandkreis,Business_Products,20,0.40181423432764274,Sector
+Hochsauerlandkreis,Construction,58,0.019505342108966817,Sector
+Hochsauerlandkreis,Services,81,0.48678221331281535,Sector
+Hochsauerlandkreis,Mining,46,0.9513033706962941,Sector
+Hochsauerlandkreis,Health_Care,35,0.2254027399717874,Sector
+Hochsauerlandkreis,EnergyExpL_Prod,41,0.06239796582797985,Sector
+Hochsauerlandkreis,Utilities,53,0.7986230138555973,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bernalillo,979,0.48084317219019457,Overall
+Bernalillo,HiTech,97,0.1584214532353876,Sector
+Bernalillo,Agriculture,45,0.14966415894868867,Sector
+Bernalillo,Transportation,31,0.228331588335006,Sector
+Bernalillo,Consumer_Products,15,0.4424544846297018,Sector
+Bernalillo,Unassigned,35,0.7548463609257691,Sector
+Bernalillo,Communication,54,0.8486214605758422,Sector
+Bernalillo,Trade,26,0.6813761413935758,Sector
+Bernalillo,Business_Services,74,0.760282830085299,Sector
+Bernalillo,Business_Products,89,0.514312520617465,Sector
+Bernalillo,Construction,97,0.4456356124720602,Sector
+Bernalillo,Services,79,0.9419642278261561,Sector
+Bernalillo,Mining,85,0.6871292369350182,Sector
+Bernalillo,Health_Care,99,0.024747609330942444,Sector
+Bernalillo,EnergyExpL_Prod,85,0.4377034914248151,Sector
+Bernalillo,Utilities,68,0.13715640611719104,Sector

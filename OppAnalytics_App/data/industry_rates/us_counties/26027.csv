@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cass,562,0.3808873286273224,Overall
+Cass,HiTech,34,0.40730201975530467,Sector
+Cass,Agriculture,45,0.1480392489772514,Sector
+Cass,Transportation,37,0.07727019474707186,Sector
+Cass,Consumer_Products,3,0.3811300966145492,Sector
+Cass,Unassigned,12,0.05839682999800566,Sector
+Cass,Communication,95,0.6699636450640138,Sector
+Cass,Trade,6,0.014096681571996061,Sector
+Cass,Business_Services,10,0.3701105749549731,Sector
+Cass,Business_Products,63,0.545150892477369,Sector
+Cass,Construction,7,0.5726560761807601,Sector
+Cass,Services,52,0.4721988474771823,Sector
+Cass,Mining,13,0.08523087392742112,Sector
+Cass,Health_Care,38,0.5282167064607286,Sector
+Cass,EnergyExpL_Prod,64,0.7870161076890894,Sector
+Cass,Utilities,83,0.5965311335141195,Sector

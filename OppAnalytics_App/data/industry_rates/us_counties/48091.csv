@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Comal,816,0.47982542306080406,Overall
+Comal,HiTech,17,0.23733777943722123,Sector
+Comal,Agriculture,91,0.09872190356465005,Sector
+Comal,Transportation,87,0.736621781158418,Sector
+Comal,Consumer_Products,3,0.9934889169282071,Sector
+Comal,Unassigned,5,0.7231397952401825,Sector
+Comal,Communication,13,0.6401622424886799,Sector
+Comal,Trade,78,0.08799990156063286,Sector
+Comal,Business_Services,86,0.12778192176739744,Sector
+Comal,Business_Products,45,0.15635436994221275,Sector
+Comal,Construction,64,0.5047073997867901,Sector
+Comal,Services,97,0.718559750836592,Sector
+Comal,Mining,90,0.8668422091307375,Sector
+Comal,Health_Care,31,0.5029238161945048,Sector
+Comal,EnergyExpL_Prod,76,0.22733589030760148,Sector
+Comal,Utilities,33,0.5754036675682322,Sector

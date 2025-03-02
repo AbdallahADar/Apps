@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nye,929,0.4549559065895963,Overall
+Nye,HiTech,25,0.2991889612468829,Sector
+Nye,Agriculture,25,0.3160696963708711,Sector
+Nye,Transportation,27,0.17325690149026907,Sector
+Nye,Consumer_Products,81,0.16962589227268332,Sector
+Nye,Unassigned,78,0.4877323371291623,Sector
+Nye,Communication,77,0.0027358102034227283,Sector
+Nye,Trade,77,0.3140482742131694,Sector
+Nye,Business_Services,95,0.714583237911817,Sector
+Nye,Business_Products,86,0.7554693446594275,Sector
+Nye,Construction,57,0.13563996522102006,Sector
+Nye,Services,4,0.7464438085895089,Sector
+Nye,Mining,84,0.3684359434371487,Sector
+Nye,Health_Care,43,0.6736933972363419,Sector
+Nye,EnergyExpL_Prod,74,0.7356994928500361,Sector
+Nye,Utilities,96,0.9317155360121836,Sector

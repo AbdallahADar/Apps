@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nelson,651,0.4423834629256852,Overall
+Nelson,HiTech,51,0.3307896401432243,Sector
+Nelson,Agriculture,6,0.37264478012640867,Sector
+Nelson,Transportation,43,0.3603062917229296,Sector
+Nelson,Consumer_Products,25,0.34447219973495247,Sector
+Nelson,Unassigned,21,0.9132891009868928,Sector
+Nelson,Communication,92,0.01875170964721251,Sector
+Nelson,Trade,91,0.4412848678877168,Sector
+Nelson,Business_Services,80,0.5050427435638465,Sector
+Nelson,Business_Products,17,0.4264797020780825,Sector
+Nelson,Construction,5,0.5762176880943316,Sector
+Nelson,Services,74,0.7328587751097234,Sector
+Nelson,Mining,50,0.8554830651203928,Sector
+Nelson,Health_Care,56,0.054365844950196474,Sector
+Nelson,EnergyExpL_Prod,23,0.12687689120143586,Sector
+Nelson,Utilities,17,0.5768886435179321,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Harlan,757,0.4505901918435386,Overall
+Harlan,HiTech,41,0.928355871020883,Sector
+Harlan,Agriculture,40,0.11067012994337644,Sector
+Harlan,Transportation,93,0.9305162871949628,Sector
+Harlan,Consumer_Products,48,0.9845095051740396,Sector
+Harlan,Unassigned,15,0.05364251337598358,Sector
+Harlan,Communication,67,0.24839785584164398,Sector
+Harlan,Trade,76,0.014133711435697416,Sector
+Harlan,Business_Services,59,0.9289438929037495,Sector
+Harlan,Business_Products,84,0.3622097238360823,Sector
+Harlan,Construction,2,0.6262418368582734,Sector
+Harlan,Services,22,0.04791856502337588,Sector
+Harlan,Mining,87,0.20054246763863304,Sector
+Harlan,Health_Care,1,0.5772672117522081,Sector
+Harlan,EnergyExpL_Prod,98,0.3757625674725209,Sector
+Harlan,Utilities,24,0.36974073818164876,Sector

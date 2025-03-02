@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rockingham,647,0.5139275260565276,Overall
+Rockingham,HiTech,81,0.04702206847246304,Sector
+Rockingham,Agriculture,1,0.4708553901336531,Sector
+Rockingham,Transportation,62,0.5548354898886246,Sector
+Rockingham,Consumer_Products,78,0.5759463665572838,Sector
+Rockingham,Unassigned,6,0.22354962514490073,Sector
+Rockingham,Communication,45,0.6975362830883028,Sector
+Rockingham,Trade,58,0.02912172096163168,Sector
+Rockingham,Business_Services,18,0.9157718689706356,Sector
+Rockingham,Business_Products,14,0.8554451101486668,Sector
+Rockingham,Construction,22,0.2076555946302917,Sector
+Rockingham,Services,67,0.19586685515212854,Sector
+Rockingham,Mining,58,0.7741765381265306,Sector
+Rockingham,Health_Care,94,0.809776534870295,Sector
+Rockingham,EnergyExpL_Prod,33,0.5418461768318928,Sector
+Rockingham,Utilities,10,0.8095072678706141,Sector

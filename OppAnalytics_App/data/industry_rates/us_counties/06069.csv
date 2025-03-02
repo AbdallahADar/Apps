@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,San Benito,824,0.5089429365028815,Overall
+San Benito,HiTech,27,0.07812609628714995,Sector
+San Benito,Agriculture,60,0.212601689765901,Sector
+San Benito,Transportation,83,0.8815425793295139,Sector
+San Benito,Consumer_Products,15,0.9814557450282618,Sector
+San Benito,Unassigned,30,0.8129341001194469,Sector
+San Benito,Communication,50,0.38940479097457437,Sector
+San Benito,Trade,58,0.4189596878002043,Sector
+San Benito,Business_Services,83,0.6316965892884755,Sector
+San Benito,Business_Products,63,0.07372331786878472,Sector
+San Benito,Construction,99,0.5329029072811386,Sector
+San Benito,Services,78,0.5939277511322487,Sector
+San Benito,Mining,9,0.6689547059879142,Sector
+San Benito,Health_Care,18,0.4094352437308191,Sector
+San Benito,EnergyExpL_Prod,99,0.7658766786401683,Sector
+San Benito,Utilities,52,0.18260216430862009,Sector

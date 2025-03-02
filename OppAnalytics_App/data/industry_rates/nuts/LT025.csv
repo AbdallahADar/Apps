@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Panevėžio apskritis,700,0.3511855740546156,Overall
+Panevėžio apskritis,HiTech,70,0.15195894448918934,Sector
+Panevėžio apskritis,Agriculture,22,0.7856404452814234,Sector
+Panevėžio apskritis,Transportation,3,0.19380691310063947,Sector
+Panevėžio apskritis,Consumer_Products,37,0.8988123820544606,Sector
+Panevėžio apskritis,Unassigned,53,0.12995157982833994,Sector
+Panevėžio apskritis,Communication,28,0.26103872183665233,Sector
+Panevėžio apskritis,Trade,83,0.22015704411127734,Sector
+Panevėžio apskritis,Business_Services,91,0.1588899350765942,Sector
+Panevėžio apskritis,Business_Products,6,0.5086023180536486,Sector
+Panevėžio apskritis,Construction,60,0.6184657640615946,Sector
+Panevėžio apskritis,Services,76,0.5285506701349588,Sector
+Panevėžio apskritis,Mining,14,0.22894350432248267,Sector
+Panevėžio apskritis,Health_Care,58,0.35021001263910134,Sector
+Panevėžio apskritis,EnergyExpL_Prod,75,0.05988137860977416,Sector
+Panevėžio apskritis,Utilities,24,0.1728739972190978,Sector

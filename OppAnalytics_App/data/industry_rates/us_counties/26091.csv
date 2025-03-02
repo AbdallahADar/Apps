@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lenawee,701,0.4798150277694235,Overall
+Lenawee,HiTech,54,0.8778861259365713,Sector
+Lenawee,Agriculture,47,0.501849842532034,Sector
+Lenawee,Transportation,7,0.14044035323401372,Sector
+Lenawee,Consumer_Products,39,0.022680092265949137,Sector
+Lenawee,Unassigned,0,0.21270049431248572,Sector
+Lenawee,Communication,68,0.8685677549987254,Sector
+Lenawee,Trade,73,0.011301370055268656,Sector
+Lenawee,Business_Services,19,0.5085761172423601,Sector
+Lenawee,Business_Products,81,0.4561533656823197,Sector
+Lenawee,Construction,15,0.8873182326529733,Sector
+Lenawee,Services,85,0.7201885860887445,Sector
+Lenawee,Mining,68,0.2267660241229974,Sector
+Lenawee,Health_Care,14,0.7018380389555764,Sector
+Lenawee,EnergyExpL_Prod,67,0.24426003864238832,Sector
+Lenawee,Utilities,64,0.8166989798189435,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Boundary,512,0.4872276893522908,Overall
+Boundary,HiTech,38,0.074549117873286,Sector
+Boundary,Agriculture,45,0.5705053785528899,Sector
+Boundary,Transportation,54,0.7646878918729643,Sector
+Boundary,Consumer_Products,26,0.536171228991854,Sector
+Boundary,Unassigned,30,0.27928522939467404,Sector
+Boundary,Communication,0,0.30006387882566865,Sector
+Boundary,Trade,7,0.8279217974839271,Sector
+Boundary,Business_Services,20,0.5449191237091089,Sector
+Boundary,Business_Products,19,0.6751216466935817,Sector
+Boundary,Construction,63,0.38415714093289843,Sector
+Boundary,Services,54,0.043201539604296735,Sector
+Boundary,Mining,11,0.835288322671141,Sector
+Boundary,Health_Care,6,0.4459865602357229,Sector
+Boundary,EnergyExpL_Prod,50,0.6892400988486147,Sector
+Boundary,Utilities,89,0.3373163845937355,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Juab,732,0.542898003286156,Overall
+Juab,HiTech,75,0.15997131765885875,Sector
+Juab,Agriculture,26,0.21679011633582024,Sector
+Juab,Transportation,1,0.6344776900275233,Sector
+Juab,Consumer_Products,84,0.4875955874493254,Sector
+Juab,Unassigned,47,0.8088854123843454,Sector
+Juab,Communication,95,0.4740325164862119,Sector
+Juab,Trade,4,0.6221164383358887,Sector
+Juab,Business_Services,47,0.5112236871510762,Sector
+Juab,Business_Products,71,0.9760501505800393,Sector
+Juab,Construction,44,0.14112550613889174,Sector
+Juab,Services,39,0.40609773829163165,Sector
+Juab,Mining,78,0.43284972708063496,Sector
+Juab,Health_Care,14,0.5407702281253112,Sector
+Juab,EnergyExpL_Prod,58,0.83767054561428,Sector
+Juab,Utilities,49,0.893813387632502,Sector

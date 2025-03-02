@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Schleswig-Flensburg,843,0.5257352981622224,Overall
+Schleswig-Flensburg,HiTech,8,0.33434930806924434,Sector
+Schleswig-Flensburg,Agriculture,95,0.7912730569059474,Sector
+Schleswig-Flensburg,Transportation,82,0.1430652676106301,Sector
+Schleswig-Flensburg,Consumer_Products,6,0.35781006974832386,Sector
+Schleswig-Flensburg,Unassigned,12,0.5893515889978433,Sector
+Schleswig-Flensburg,Communication,76,0.47514847592812537,Sector
+Schleswig-Flensburg,Trade,62,0.3769879329419781,Sector
+Schleswig-Flensburg,Business_Services,72,0.1263062440431305,Sector
+Schleswig-Flensburg,Business_Products,84,0.9738065691005559,Sector
+Schleswig-Flensburg,Construction,98,0.5714855470035092,Sector
+Schleswig-Flensburg,Services,25,0.9232308785653819,Sector
+Schleswig-Flensburg,Mining,83,0.30780955052093517,Sector
+Schleswig-Flensburg,Health_Care,36,0.9940283174634698,Sector
+Schleswig-Flensburg,EnergyExpL_Prod,79,0.025863475299991223,Sector
+Schleswig-Flensburg,Utilities,25,0.895513190234269,Sector

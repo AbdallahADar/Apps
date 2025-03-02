@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Morgan,936,0.4266057266644093,Overall
+Morgan,HiTech,80,0.5991742758501825,Sector
+Morgan,Agriculture,65,0.39678121339088657,Sector
+Morgan,Transportation,79,0.09329116191191211,Sector
+Morgan,Consumer_Products,99,0.2914189968764832,Sector
+Morgan,Unassigned,68,0.6584202704685482,Sector
+Morgan,Communication,39,0.6694292486223625,Sector
+Morgan,Trade,81,0.16025295768453063,Sector
+Morgan,Business_Services,11,0.4223297341947583,Sector
+Morgan,Business_Products,19,0.43660889512262,Sector
+Morgan,Construction,61,0.7000268253369278,Sector
+Morgan,Services,95,0.5864022812447127,Sector
+Morgan,Mining,98,0.07597200125838743,Sector
+Morgan,Health_Care,64,0.027849705351624565,Sector
+Morgan,EnergyExpL_Prod,47,0.3037807825859714,Sector
+Morgan,Utilities,30,0.9773475500662315,Sector

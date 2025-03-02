@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Freiburg im Breisgau, Stadtkreis",544,0.6048298095434562,Overall
+"Freiburg im Breisgau, Stadtkreis",HiTech,13,0.1396601814538302,Sector
+"Freiburg im Breisgau, Stadtkreis",Agriculture,6,0.7545182617794219,Sector
+"Freiburg im Breisgau, Stadtkreis",Transportation,40,0.900367526207798,Sector
+"Freiburg im Breisgau, Stadtkreis",Consumer_Products,33,0.517497622441578,Sector
+"Freiburg im Breisgau, Stadtkreis",Unassigned,60,0.6775699830436679,Sector
+"Freiburg im Breisgau, Stadtkreis",Communication,95,0.7347061715888941,Sector
+"Freiburg im Breisgau, Stadtkreis",Trade,16,0.9111940394362236,Sector
+"Freiburg im Breisgau, Stadtkreis",Business_Services,33,0.09885640044981536,Sector
+"Freiburg im Breisgau, Stadtkreis",Business_Products,5,0.8360538855804951,Sector
+"Freiburg im Breisgau, Stadtkreis",Construction,14,0.9015783035001248,Sector
+"Freiburg im Breisgau, Stadtkreis",Services,13,0.424159666397371,Sector
+"Freiburg im Breisgau, Stadtkreis",Mining,43,0.6717182145320272,Sector
+"Freiburg im Breisgau, Stadtkreis",Health_Care,20,0.052391620086987944,Sector
+"Freiburg im Breisgau, Stadtkreis",EnergyExpL_Prod,67,0.5725093185451013,Sector
+"Freiburg im Breisgau, Stadtkreis",Utilities,86,0.8796659481085078,Sector

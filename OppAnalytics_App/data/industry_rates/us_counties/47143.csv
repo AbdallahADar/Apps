@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rhea,741,0.5009374774958643,Overall
+Rhea,HiTech,5,0.4019117261189401,Sector
+Rhea,Agriculture,10,0.3994867874820963,Sector
+Rhea,Transportation,45,0.8684590129327132,Sector
+Rhea,Consumer_Products,40,0.577592755049301,Sector
+Rhea,Unassigned,35,0.39847851493677533,Sector
+Rhea,Communication,93,0.26460803693358115,Sector
+Rhea,Trade,72,0.6309548342661788,Sector
+Rhea,Business_Services,0,0.09198061529903889,Sector
+Rhea,Business_Products,77,0.576475708452796,Sector
+Rhea,Construction,67,0.19466839244905043,Sector
+Rhea,Services,98,0.30431809076307625,Sector
+Rhea,Mining,51,0.9956525298648568,Sector
+Rhea,Health_Care,75,0.47338146163791184,Sector
+Rhea,EnergyExpL_Prod,14,0.629068261769542,Sector
+Rhea,Utilities,59,0.7070254344821052,Sector

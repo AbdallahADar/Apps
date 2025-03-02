@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Neu-Ulm,796,0.47565819584475,Overall
+Neu-Ulm,HiTech,78,0.8122069860998968,Sector
+Neu-Ulm,Agriculture,38,0.5608483431782949,Sector
+Neu-Ulm,Transportation,81,0.47339263632330886,Sector
+Neu-Ulm,Consumer_Products,96,0.277276345652657,Sector
+Neu-Ulm,Unassigned,10,0.8312683103415031,Sector
+Neu-Ulm,Communication,72,0.4614356422162501,Sector
+Neu-Ulm,Trade,93,0.6963179882520076,Sector
+Neu-Ulm,Business_Services,48,0.7169620890053843,Sector
+Neu-Ulm,Business_Products,1,0.5848063894142231,Sector
+Neu-Ulm,Construction,74,0.3061151934446865,Sector
+Neu-Ulm,Services,49,0.12855968266753826,Sector
+Neu-Ulm,Mining,86,0.2819023084423643,Sector
+Neu-Ulm,Health_Care,40,0.2607364035375819,Sector
+Neu-Ulm,EnergyExpL_Prod,11,0.7271622358558689,Sector
+Neu-Ulm,Utilities,19,0.015882383239683828,Sector

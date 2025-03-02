@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Redwood,627,0.4203292827643231,Overall
+Redwood,HiTech,77,0.010374363884763427,Sector
+Redwood,Agriculture,20,0.3504422323040848,Sector
+Redwood,Transportation,58,0.4976234230009574,Sector
+Redwood,Consumer_Products,38,0.4040172279419735,Sector
+Redwood,Unassigned,82,0.39323794870045825,Sector
+Redwood,Communication,34,0.1869781987479584,Sector
+Redwood,Trade,17,0.15504460172174794,Sector
+Redwood,Business_Services,11,0.36071416299691095,Sector
+Redwood,Business_Products,37,0.022788816626301833,Sector
+Redwood,Construction,30,0.9735612085619535,Sector
+Redwood,Services,94,0.7871171909643244,Sector
+Redwood,Mining,35,0.6999171497816585,Sector
+Redwood,Health_Care,5,0.6732080141304259,Sector
+Redwood,EnergyExpL_Prod,84,0.5517637659568551,Sector
+Redwood,Utilities,5,0.23815093614447225,Sector

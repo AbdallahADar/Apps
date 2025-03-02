@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Península de Setúbal,694,0.5733050180770621,Overall
+Península de Setúbal,HiTech,3,0.9998658839368846,Sector
+Península de Setúbal,Agriculture,90,0.3297281432200625,Sector
+Península de Setúbal,Transportation,24,0.9815654564968158,Sector
+Península de Setúbal,Consumer_Products,17,0.6941451590011126,Sector
+Península de Setúbal,Unassigned,99,0.7069529702913621,Sector
+Península de Setúbal,Communication,99,0.4621138976314034,Sector
+Península de Setúbal,Trade,41,0.4689810501272378,Sector
+Península de Setúbal,Business_Services,83,0.9287794100569514,Sector
+Península de Setúbal,Business_Products,88,0.5692910816615648,Sector
+Península de Setúbal,Construction,3,0.7753719199385283,Sector
+Península de Setúbal,Services,24,0.6477376744596754,Sector
+Península de Setúbal,Mining,3,0.08748433645084275,Sector
+Península de Setúbal,Health_Care,36,0.10788413001194841,Sector
+Península de Setúbal,EnergyExpL_Prod,30,0.505616993978643,Sector
+Península de Setúbal,Utilities,54,0.3340571638928983,Sector

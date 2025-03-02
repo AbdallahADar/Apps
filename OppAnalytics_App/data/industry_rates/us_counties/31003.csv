@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Antelope,591,0.4234355274844856,Overall
+Antelope,HiTech,6,0.9193944963747945,Sector
+Antelope,Agriculture,8,0.09746139524216213,Sector
+Antelope,Transportation,70,0.645475230131578,Sector
+Antelope,Consumer_Products,38,0.1928627973934579,Sector
+Antelope,Unassigned,9,0.41229090351337594,Sector
+Antelope,Communication,49,0.06505197358376824,Sector
+Antelope,Trade,52,0.5205990017676522,Sector
+Antelope,Business_Services,54,0.06702325514716556,Sector
+Antelope,Business_Products,4,0.14124085134780462,Sector
+Antelope,Construction,60,0.7462813582025096,Sector
+Antelope,Services,42,0.513520145567024,Sector
+Antelope,Mining,86,0.4413818125919565,Sector
+Antelope,Health_Care,34,0.7923043290379612,Sector
+Antelope,EnergyExpL_Prod,52,0.541999375806943,Sector
+Antelope,Utilities,27,0.2546459865591303,Sector

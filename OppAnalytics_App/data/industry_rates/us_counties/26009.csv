@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Antrim,899,0.40685771386020486,Overall
+Antrim,HiTech,21,0.5821188875155857,Sector
+Antrim,Agriculture,63,0.619928070436943,Sector
+Antrim,Transportation,24,0.11185928629958031,Sector
+Antrim,Consumer_Products,96,0.4208027634067011,Sector
+Antrim,Unassigned,9,0.37334680598846304,Sector
+Antrim,Communication,75,0.08103551870458292,Sector
+Antrim,Trade,44,0.4554724887988866,Sector
+Antrim,Business_Services,92,0.9201106318279976,Sector
+Antrim,Business_Products,64,0.6007257563488353,Sector
+Antrim,Construction,75,0.05238481220333824,Sector
+Antrim,Services,13,0.975165103901229,Sector
+Antrim,Mining,90,0.011631072388845864,Sector
+Antrim,Health_Care,92,0.005221901547435737,Sector
+Antrim,EnergyExpL_Prod,56,0.7098679925455446,Sector
+Antrim,Utilities,85,0.1831946159891047,Sector

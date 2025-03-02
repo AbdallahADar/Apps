@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nordburgenland,699,0.5691237093304733,Overall
+Nordburgenland,HiTech,7,0.8012942049829495,Sector
+Nordburgenland,Agriculture,32,0.24990933422316852,Sector
+Nordburgenland,Transportation,53,0.961860795673795,Sector
+Nordburgenland,Consumer_Products,40,0.000179826279441353,Sector
+Nordburgenland,Unassigned,31,0.3340626700209921,Sector
+Nordburgenland,Communication,71,0.449172816163279,Sector
+Nordburgenland,Trade,2,0.8456055184179468,Sector
+Nordburgenland,Business_Services,6,0.7871497216452732,Sector
+Nordburgenland,Business_Products,45,0.6548613598731551,Sector
+Nordburgenland,Construction,94,0.339421494033579,Sector
+Nordburgenland,Services,96,0.5688278661299857,Sector
+Nordburgenland,Mining,71,0.7372214412134608,Sector
+Nordburgenland,Health_Care,48,0.706360578078627,Sector
+Nordburgenland,EnergyExpL_Prod,90,0.2187575978256937,Sector
+Nordburgenland,Utilities,13,0.8821704153957521,Sector

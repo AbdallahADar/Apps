@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Albacete,830,0.3821809380934921,Overall
+Albacete,HiTech,82,0.5670969340774996,Sector
+Albacete,Agriculture,32,0.6077902027988198,Sector
+Albacete,Transportation,85,0.16617400563135987,Sector
+Albacete,Consumer_Products,74,0.3683271409733242,Sector
+Albacete,Unassigned,72,0.2673907113388977,Sector
+Albacete,Communication,63,0.42821650889455043,Sector
+Albacete,Trade,34,0.32922661556789945,Sector
+Albacete,Business_Services,74,0.25877922227441097,Sector
+Albacete,Business_Products,64,0.2572429163284605,Sector
+Albacete,Construction,45,0.7929603845929074,Sector
+Albacete,Services,11,0.8227965757944483,Sector
+Albacete,Mining,3,0.14233885185875517,Sector
+Albacete,Health_Care,93,0.42776262584807545,Sector
+Albacete,EnergyExpL_Prod,90,0.022883628943503154,Sector
+Albacete,Utilities,8,0.2737277464794715,Sector

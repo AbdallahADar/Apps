@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mississippi,815,0.5044091764902005,Overall
+Mississippi,HiTech,9,0.11041781008349472,Sector
+Mississippi,Agriculture,49,0.7683275725987905,Sector
+Mississippi,Transportation,11,0.5691820436699231,Sector
+Mississippi,Consumer_Products,42,0.7212014955516999,Sector
+Mississippi,Unassigned,81,0.07014228992124116,Sector
+Mississippi,Communication,77,0.9191348818788836,Sector
+Mississippi,Trade,26,0.5330162101752617,Sector
+Mississippi,Business_Services,95,0.7606024285838567,Sector
+Mississippi,Business_Products,68,0.64188476672851,Sector
+Mississippi,Construction,67,0.15285843180435665,Sector
+Mississippi,Services,25,0.585625121990946,Sector
+Mississippi,Mining,30,0.7624592736735176,Sector
+Mississippi,Health_Care,98,0.2912162885993058,Sector
+Mississippi,EnergyExpL_Prod,73,0.5945674033636295,Sector
+Mississippi,Utilities,64,0.08550162872959088,Sector

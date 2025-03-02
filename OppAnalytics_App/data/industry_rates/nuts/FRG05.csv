@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vendée,834,0.45216643553575075,Overall
+Vendée,HiTech,1,0.5524858143500514,Sector
+Vendée,Agriculture,31,0.6050387088310741,Sector
+Vendée,Transportation,89,0.2973083910557187,Sector
+Vendée,Consumer_Products,86,0.13231348285997258,Sector
+Vendée,Unassigned,70,0.3375418335383391,Sector
+Vendée,Communication,42,0.6615193511216032,Sector
+Vendée,Trade,31,0.6325900725069545,Sector
+Vendée,Business_Services,95,0.47604525954444865,Sector
+Vendée,Business_Products,97,0.23164041489322595,Sector
+Vendée,Construction,2,0.07070857659800722,Sector
+Vendée,Services,75,0.7428955861211874,Sector
+Vendée,Mining,46,0.17637528965728766,Sector
+Vendée,Health_Care,14,0.6490427921979499,Sector
+Vendée,EnergyExpL_Prod,84,0.6480298293900778,Sector
+Vendée,Utilities,71,0.5689611303703636,Sector

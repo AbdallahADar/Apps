@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Ansbach, Kreisfreie Stadt",726,0.593733796465451,Overall
+"Ansbach, Kreisfreie Stadt",HiTech,34,0.37993550127094344,Sector
+"Ansbach, Kreisfreie Stadt",Agriculture,2,0.7131298413869736,Sector
+"Ansbach, Kreisfreie Stadt",Transportation,57,0.40286135676315404,Sector
+"Ansbach, Kreisfreie Stadt",Consumer_Products,83,0.7081407461205584,Sector
+"Ansbach, Kreisfreie Stadt",Unassigned,48,0.6899720745264004,Sector
+"Ansbach, Kreisfreie Stadt",Communication,93,0.904196990056992,Sector
+"Ansbach, Kreisfreie Stadt",Trade,95,0.1589020328204983,Sector
+"Ansbach, Kreisfreie Stadt",Business_Services,8,0.14607119895017961,Sector
+"Ansbach, Kreisfreie Stadt",Business_Products,16,0.8903587896064304,Sector
+"Ansbach, Kreisfreie Stadt",Construction,56,0.3493657160233583,Sector
+"Ansbach, Kreisfreie Stadt",Services,1,0.18285938050212713,Sector
+"Ansbach, Kreisfreie Stadt",Mining,58,0.7588944602451613,Sector
+"Ansbach, Kreisfreie Stadt",Health_Care,55,0.9806705177077443,Sector
+"Ansbach, Kreisfreie Stadt",EnergyExpL_Prod,35,0.9243358288078711,Sector
+"Ansbach, Kreisfreie Stadt",Utilities,85,0.7163125121933719,Sector

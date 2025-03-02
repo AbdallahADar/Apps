@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chojnicki,920,0.3665121473239337,Overall
+Chojnicki,HiTech,62,0.10128687285289983,Sector
+Chojnicki,Agriculture,78,0.04992232707854127,Sector
+Chojnicki,Transportation,77,0.5639097159417606,Sector
+Chojnicki,Consumer_Products,20,0.7208603785526857,Sector
+Chojnicki,Unassigned,37,0.42678569192223226,Sector
+Chojnicki,Communication,44,0.14949130084454754,Sector
+Chojnicki,Trade,94,0.05408120346830736,Sector
+Chojnicki,Business_Services,94,0.37004470523680777,Sector
+Chojnicki,Business_Products,21,0.5309787896415586,Sector
+Chojnicki,Construction,85,0.4199278193434086,Sector
+Chojnicki,Services,83,0.11975967587675229,Sector
+Chojnicki,Mining,43,0.016457658488962412,Sector
+Chojnicki,Health_Care,43,0.5188545488040552,Sector
+Chojnicki,EnergyExpL_Prod,60,0.7796629911409568,Sector
+Chojnicki,Utilities,79,0.6756585306655298,Sector

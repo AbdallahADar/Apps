@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alto Minho,588,0.47631714453046514,Overall
+Alto Minho,HiTech,37,0.14548334298508048,Sector
+Alto Minho,Agriculture,31,0.8626966007873038,Sector
+Alto Minho,Transportation,39,0.1700004030064396,Sector
+Alto Minho,Consumer_Products,98,0.16681370135172235,Sector
+Alto Minho,Unassigned,30,0.21449514951263982,Sector
+Alto Minho,Communication,54,0.02815006316503843,Sector
+Alto Minho,Trade,62,0.5198055512560226,Sector
+Alto Minho,Business_Services,20,0.8637859351583712,Sector
+Alto Minho,Business_Products,31,0.15055786025749385,Sector
+Alto Minho,Construction,46,0.8619583326207167,Sector
+Alto Minho,Services,16,0.5273547637647167,Sector
+Alto Minho,Mining,4,0.6450100630568378,Sector
+Alto Minho,Health_Care,95,0.6734864303928343,Sector
+Alto Minho,EnergyExpL_Prod,17,0.9189576772942437,Sector
+Alto Minho,Utilities,8,0.39620129334751664,Sector

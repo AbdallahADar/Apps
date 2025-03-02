@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Maramureş,871,0.5582884538210275,Overall
+Maramureş,HiTech,95,0.714799107103142,Sector
+Maramureş,Agriculture,5,0.06415981084826483,Sector
+Maramureş,Transportation,93,0.8960897381042018,Sector
+Maramureş,Consumer_Products,37,0.34616110829280233,Sector
+Maramureş,Unassigned,89,0.809903718065645,Sector
+Maramureş,Communication,54,0.41932865360184723,Sector
+Maramureş,Trade,79,0.30282835487065507,Sector
+Maramureş,Business_Services,79,0.6161971688342565,Sector
+Maramureş,Business_Products,88,0.341271689989494,Sector
+Maramureş,Construction,27,0.9615128610931974,Sector
+Maramureş,Services,27,0.4651335802771768,Sector
+Maramureş,Mining,38,0.5584952207690959,Sector
+Maramureş,Health_Care,88,0.3342480290505949,Sector
+Maramureş,EnergyExpL_Prod,67,0.9175658355156022,Sector
+Maramureş,Utilities,5,0.6266319308994368,Sector

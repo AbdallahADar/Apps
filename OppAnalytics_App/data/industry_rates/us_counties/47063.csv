@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hamblen,973,0.5456396434537677,Overall
+Hamblen,HiTech,67,0.5277286438965421,Sector
+Hamblen,Agriculture,43,0.8571702287342923,Sector
+Hamblen,Transportation,66,0.7190408388763541,Sector
+Hamblen,Consumer_Products,86,0.1199527216642089,Sector
+Hamblen,Unassigned,73,0.7532459312722186,Sector
+Hamblen,Communication,76,0.5017101279530378,Sector
+Hamblen,Trade,87,0.258194524313209,Sector
+Hamblen,Business_Services,97,0.3813055234926267,Sector
+Hamblen,Business_Products,57,0.7066264816267888,Sector
+Hamblen,Construction,26,0.49166083428320795,Sector
+Hamblen,Services,45,0.6365332460724757,Sector
+Hamblen,Mining,62,0.8450878210514418,Sector
+Hamblen,Health_Care,50,0.27223948809058984,Sector
+Hamblen,EnergyExpL_Prod,74,0.5353890237046026,Sector
+Hamblen,Utilities,64,0.5787092167749177,Sector

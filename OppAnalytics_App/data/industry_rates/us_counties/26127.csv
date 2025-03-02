@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oceana,633,0.4352940996622502,Overall
+Oceana,HiTech,73,0.5590696696501509,Sector
+Oceana,Agriculture,63,0.8817365539630394,Sector
+Oceana,Transportation,24,0.5967524821101194,Sector
+Oceana,Consumer_Products,14,0.0829486433543063,Sector
+Oceana,Unassigned,64,0.4250699226273441,Sector
+Oceana,Communication,22,0.6752213730530865,Sector
+Oceana,Trade,55,0.055384760940140554,Sector
+Oceana,Business_Services,83,0.10532797281077322,Sector
+Oceana,Business_Products,55,0.9198950869464315,Sector
+Oceana,Construction,23,0.13268502984741837,Sector
+Oceana,Services,58,0.2494150959679341,Sector
+Oceana,Mining,18,0.8663293367350936,Sector
+Oceana,Health_Care,71,0.3359302932567422,Sector
+Oceana,EnergyExpL_Prod,1,0.32859970193607513,Sector
+Oceana,Utilities,9,0.31504557173509784,Sector

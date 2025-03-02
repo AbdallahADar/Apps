@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Blagoevgrad,532,0.5138227370869137,Overall
+Blagoevgrad,HiTech,45,0.6161153661486568,Sector
+Blagoevgrad,Agriculture,40,0.6210026032124344,Sector
+Blagoevgrad,Transportation,23,0.2518795749733036,Sector
+Blagoevgrad,Consumer_Products,64,0.7987769651000556,Sector
+Blagoevgrad,Unassigned,49,0.38697902271481244,Sector
+Blagoevgrad,Communication,7,0.6368245255812532,Sector
+Blagoevgrad,Trade,43,0.0504223790903221,Sector
+Blagoevgrad,Business_Services,47,0.8270422491563648,Sector
+Blagoevgrad,Business_Products,10,0.4983462355767381,Sector
+Blagoevgrad,Construction,63,0.7413742394831923,Sector
+Blagoevgrad,Services,2,0.03262421130146942,Sector
+Blagoevgrad,Mining,10,0.5095484722078085,Sector
+Blagoevgrad,Health_Care,17,0.8068790338435535,Sector
+Blagoevgrad,EnergyExpL_Prod,78,0.6537058747274274,Sector
+Blagoevgrad,Utilities,34,0.27582030318631356,Sector

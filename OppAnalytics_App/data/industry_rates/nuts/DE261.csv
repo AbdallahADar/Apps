@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Aschaffenburg, Kreisfreie Stadt",618,0.5274807060652006,Overall
+"Aschaffenburg, Kreisfreie Stadt",HiTech,35,0.7152167959769953,Sector
+"Aschaffenburg, Kreisfreie Stadt",Agriculture,94,0.9327605714902795,Sector
+"Aschaffenburg, Kreisfreie Stadt",Transportation,64,0.8112742503931867,Sector
+"Aschaffenburg, Kreisfreie Stadt",Consumer_Products,7,0.4047096353820019,Sector
+"Aschaffenburg, Kreisfreie Stadt",Unassigned,35,0.27530823490317247,Sector
+"Aschaffenburg, Kreisfreie Stadt",Communication,82,0.6380332436105549,Sector
+"Aschaffenburg, Kreisfreie Stadt",Trade,0,0.835828059232901,Sector
+"Aschaffenburg, Kreisfreie Stadt",Business_Services,4,0.21826191234959547,Sector
+"Aschaffenburg, Kreisfreie Stadt",Business_Products,6,0.6900340511884132,Sector
+"Aschaffenburg, Kreisfreie Stadt",Construction,37,0.6577970491041977,Sector
+"Aschaffenburg, Kreisfreie Stadt",Services,35,0.7914901320409119,Sector
+"Aschaffenburg, Kreisfreie Stadt",Mining,15,0.3258776489389663,Sector
+"Aschaffenburg, Kreisfreie Stadt",Health_Care,89,0.06514896933539871,Sector
+"Aschaffenburg, Kreisfreie Stadt",EnergyExpL_Prod,20,0.447438329298127,Sector
+"Aschaffenburg, Kreisfreie Stadt",Utilities,95,0.10303170773330705,Sector

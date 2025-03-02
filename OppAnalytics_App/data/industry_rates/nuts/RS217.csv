@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Raška oblast,691,0.35595959537872507,Overall
+Raška oblast,HiTech,55,0.44827286104840125,Sector
+Raška oblast,Agriculture,48,0.020415043632375562,Sector
+Raška oblast,Transportation,9,0.741002651598516,Sector
+Raška oblast,Consumer_Products,93,0.08282525422335651,Sector
+Raška oblast,Unassigned,25,0.3960411996326415,Sector
+Raška oblast,Communication,4,0.23359866764291615,Sector
+Raška oblast,Trade,84,0.69022816628489,Sector
+Raška oblast,Business_Services,10,0.1386674469578998,Sector
+Raška oblast,Business_Products,58,0.27019934403852164,Sector
+Raška oblast,Construction,2,0.6157298880731291,Sector
+Raška oblast,Services,80,0.7446221564339588,Sector
+Raška oblast,Mining,33,0.20400724712921814,Sector
+Raška oblast,Health_Care,72,0.24288191027789352,Sector
+Raška oblast,EnergyExpL_Prod,26,0.4641347081525736,Sector
+Raška oblast,Utilities,92,0.04676738555458371,Sector

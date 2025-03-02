@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Corson,516,0.6596550572608003,Overall
+Corson,HiTech,48,0.6122845817928279,Sector
+Corson,Agriculture,75,0.9886422382408553,Sector
+Corson,Transportation,7,0.682372380408096,Sector
+Corson,Consumer_Products,27,0.8604401556913124,Sector
+Corson,Unassigned,50,0.7889639561933757,Sector
+Corson,Communication,22,0.6612332824136449,Sector
+Corson,Trade,44,0.3372111495720512,Sector
+Corson,Business_Services,19,0.6157410725382894,Sector
+Corson,Business_Products,31,0.954618015797899,Sector
+Corson,Construction,28,0.4137943871659966,Sector
+Corson,Services,29,0.34112986173258175,Sector
+Corson,Mining,3,0.5788399940878112,Sector
+Corson,Health_Care,20,0.857138903602507,Sector
+Corson,EnergyExpL_Prod,75,0.5991838329898891,Sector
+Corson,Utilities,38,0.6032320466848685,Sector

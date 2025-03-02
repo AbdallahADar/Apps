@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Agrigento,810,0.46032159400378986,Overall
+Agrigento,HiTech,1,0.00229948574801353,Sector
+Agrigento,Agriculture,79,0.9000416653251168,Sector
+Agrigento,Transportation,74,0.29303193635209623,Sector
+Agrigento,Consumer_Products,20,0.5178341969259853,Sector
+Agrigento,Unassigned,70,0.6610899501026314,Sector
+Agrigento,Communication,89,0.37726410641699604,Sector
+Agrigento,Trade,20,0.4398418540510505,Sector
+Agrigento,Business_Services,77,0.5322138655132395,Sector
+Agrigento,Business_Products,92,0.5413091898469381,Sector
+Agrigento,Construction,26,0.1356435804216003,Sector
+Agrigento,Services,67,0.18934310464853998,Sector
+Agrigento,Mining,44,0.7239230507492593,Sector
+Agrigento,Health_Care,22,0.03915184429263008,Sector
+Agrigento,EnergyExpL_Prod,40,0.7911367101819372,Sector
+Agrigento,Utilities,89,0.760699369480815,Sector

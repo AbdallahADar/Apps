@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nordland/Nordlánnda,663,0.5490011515006384,Overall
+Nordland/Nordlánnda,HiTech,25,0.43665839174503895,Sector
+Nordland/Nordlánnda,Agriculture,7,0.307657233789128,Sector
+Nordland/Nordlánnda,Transportation,66,0.6873068189593022,Sector
+Nordland/Nordlánnda,Consumer_Products,4,0.9468713741140314,Sector
+Nordland/Nordlánnda,Unassigned,9,0.2855978158245197,Sector
+Nordland/Nordlánnda,Communication,76,0.6493528996600794,Sector
+Nordland/Nordlánnda,Trade,7,0.9016757027124973,Sector
+Nordland/Nordlánnda,Business_Services,37,0.6684456650750837,Sector
+Nordland/Nordlánnda,Business_Products,27,0.9627287211333277,Sector
+Nordland/Nordlánnda,Construction,96,0.45396025237044224,Sector
+Nordland/Nordlánnda,Services,83,0.4000600134977539,Sector
+Nordland/Nordlánnda,Mining,46,0.6186625179033988,Sector
+Nordland/Nordlánnda,Health_Care,52,0.4424385452718341,Sector
+Nordland/Nordlánnda,EnergyExpL_Prod,50,0.36168864204776874,Sector
+Nordland/Nordlánnda,Utilities,78,0.11191267840537167,Sector

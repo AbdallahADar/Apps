@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Schaumburg,682,0.5031427073732537,Overall
+Schaumburg,HiTech,15,0.14388274783696553,Sector
+Schaumburg,Agriculture,2,0.5420246925235186,Sector
+Schaumburg,Transportation,0,0.6885907647151398,Sector
+Schaumburg,Consumer_Products,71,0.9071364056023781,Sector
+Schaumburg,Unassigned,39,0.35367616800078616,Sector
+Schaumburg,Communication,38,0.0020122271356424193,Sector
+Schaumburg,Trade,96,0.45213972440591044,Sector
+Schaumburg,Business_Services,22,0.9195592819174481,Sector
+Schaumburg,Business_Products,11,0.3716309833115805,Sector
+Schaumburg,Construction,82,0.6592670086198159,Sector
+Schaumburg,Services,71,0.6073243920027008,Sector
+Schaumburg,Mining,66,0.16427541042643234,Sector
+Schaumburg,Health_Care,70,0.8845884440986757,Sector
+Schaumburg,EnergyExpL_Prod,77,0.49724212121608613,Sector
+Schaumburg,Utilities,22,0.35379023878572524,Sector

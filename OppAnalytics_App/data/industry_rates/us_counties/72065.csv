@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hatillo,672,0.46501483634046087,Overall
+Hatillo,HiTech,25,0.9459071247868688,Sector
+Hatillo,Agriculture,8,0.5794918322839846,Sector
+Hatillo,Transportation,42,0.27021847781774466,Sector
+Hatillo,Consumer_Products,77,0.8468209370005376,Sector
+Hatillo,Unassigned,7,0.39447944215575426,Sector
+Hatillo,Communication,83,0.5569371477557483,Sector
+Hatillo,Trade,62,0.5922286270004592,Sector
+Hatillo,Business_Services,25,0.6793822909630485,Sector
+Hatillo,Business_Products,41,0.5573166385154614,Sector
+Hatillo,Construction,77,0.07410169410767364,Sector
+Hatillo,Services,64,0.5753366554173261,Sector
+Hatillo,Mining,99,0.15085529828707323,Sector
+Hatillo,Health_Care,0,0.39624880276802465,Sector
+Hatillo,EnergyExpL_Prod,0,0.237817703414126,Sector
+Hatillo,Utilities,62,0.1180798728330833,Sector

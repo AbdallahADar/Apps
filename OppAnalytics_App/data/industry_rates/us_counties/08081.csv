@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Moffat,785,0.36055881419611396,Overall
+Moffat,HiTech,80,0.28973368585277137,Sector
+Moffat,Agriculture,55,0.5744362455607706,Sector
+Moffat,Transportation,57,0.08345064804233515,Sector
+Moffat,Consumer_Products,67,0.21829557444211367,Sector
+Moffat,Unassigned,42,0.017714939541177754,Sector
+Moffat,Communication,18,0.4571379776175427,Sector
+Moffat,Trade,38,0.8062649801352451,Sector
+Moffat,Business_Services,33,0.16122833369013945,Sector
+Moffat,Business_Products,67,0.46721428682470967,Sector
+Moffat,Construction,60,0.007096024043712124,Sector
+Moffat,Services,55,0.2857999909403097,Sector
+Moffat,Mining,33,0.9108560264218236,Sector
+Moffat,Health_Care,20,0.11493724728781163,Sector
+Moffat,EnergyExpL_Prod,96,0.8426146293932867,Sector
+Moffat,Utilities,64,0.17160162314795946,Sector

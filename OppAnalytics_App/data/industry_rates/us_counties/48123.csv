@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,DeWitt,675,0.3781202158791452,Overall
+DeWitt,HiTech,73,0.40398951972170916,Sector
+DeWitt,Agriculture,0,0.4495915388574441,Sector
+DeWitt,Transportation,81,0.11296256335849097,Sector
+DeWitt,Consumer_Products,92,0.17880113980075873,Sector
+DeWitt,Unassigned,52,0.9447721945210431,Sector
+DeWitt,Communication,29,0.7086789064368113,Sector
+DeWitt,Trade,6,0.3994438888961437,Sector
+DeWitt,Business_Services,49,0.22592687395252342,Sector
+DeWitt,Business_Products,20,0.4172291986071499,Sector
+DeWitt,Construction,3,0.74948565019733,Sector
+DeWitt,Services,95,0.033670054063364874,Sector
+DeWitt,Mining,59,0.022002036259574642,Sector
+DeWitt,Health_Care,35,0.11312826753969374,Sector
+DeWitt,EnergyExpL_Prod,23,0.7845532316395347,Sector
+DeWitt,Utilities,58,0.12756817433560463,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hot Spring,659,0.5554017909342687,Overall
+Hot Spring,HiTech,61,0.4903210745302531,Sector
+Hot Spring,Agriculture,6,0.0637085113076582,Sector
+Hot Spring,Transportation,3,0.5064050171750769,Sector
+Hot Spring,Consumer_Products,99,0.179496423993463,Sector
+Hot Spring,Unassigned,19,0.6350095391126824,Sector
+Hot Spring,Communication,32,0.43855189187051413,Sector
+Hot Spring,Trade,69,0.77541180507642,Sector
+Hot Spring,Business_Services,75,0.8536098557503925,Sector
+Hot Spring,Business_Products,14,0.7453387746425039,Sector
+Hot Spring,Construction,32,0.7533577579050917,Sector
+Hot Spring,Services,19,0.6928638796724188,Sector
+Hot Spring,Mining,76,0.9399704407966283,Sector
+Hot Spring,Health_Care,55,0.16795893539544215,Sector
+Hot Spring,EnergyExpL_Prod,26,0.4808899445512723,Sector
+Hot Spring,Utilities,73,0.608133012234213,Sector

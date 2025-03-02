@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McLeod,865,0.5601625585667965,Overall
+McLeod,HiTech,83,0.40779737630596335,Sector
+McLeod,Agriculture,3,0.2725051445058859,Sector
+McLeod,Transportation,69,0.9559272117250287,Sector
+McLeod,Consumer_Products,84,0.9551692366783453,Sector
+McLeod,Unassigned,91,0.7104162067243613,Sector
+McLeod,Communication,57,0.055409728521497725,Sector
+McLeod,Trade,55,0.6780317467881425,Sector
+McLeod,Business_Services,71,0.5878342060515375,Sector
+McLeod,Business_Products,75,0.9740536512492793,Sector
+McLeod,Construction,83,0.22561506766352013,Sector
+McLeod,Services,77,0.1440178826129156,Sector
+McLeod,Mining,34,0.5934824210401292,Sector
+McLeod,Health_Care,13,0.3995717413969442,Sector
+McLeod,EnergyExpL_Prod,14,0.8077484026953303,Sector
+McLeod,Utilities,56,0.6348583545430677,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hardin,775,0.43619872672648935,Overall
+Hardin,HiTech,66,0.28807983646081914,Sector
+Hardin,Agriculture,87,0.7140583194075026,Sector
+Hardin,Transportation,2,0.4795740316381075,Sector
+Hardin,Consumer_Products,47,0.35465914621162475,Sector
+Hardin,Unassigned,64,0.15807458740104385,Sector
+Hardin,Communication,75,0.038447309891577186,Sector
+Hardin,Trade,28,0.9190026072709371,Sector
+Hardin,Business_Services,24,0.5220301496942741,Sector
+Hardin,Business_Products,7,0.8241267174086623,Sector
+Hardin,Construction,67,0.8669977944739526,Sector
+Hardin,Services,63,0.2006440727449409,Sector
+Hardin,Mining,62,0.2563912503385929,Sector
+Hardin,Health_Care,69,0.6116481532886188,Sector
+Hardin,EnergyExpL_Prod,67,0.014185300854384852,Sector
+Hardin,Utilities,47,0.29506162381230105,Sector

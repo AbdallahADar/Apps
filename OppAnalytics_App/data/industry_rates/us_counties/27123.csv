@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ramsey,783,0.4055450742036194,Overall
+Ramsey,HiTech,58,0.3949006479200423,Sector
+Ramsey,Agriculture,11,0.2199788324114046,Sector
+Ramsey,Transportation,67,0.6293062750258587,Sector
+Ramsey,Consumer_Products,13,0.30423166993785755,Sector
+Ramsey,Unassigned,69,0.9620852391335136,Sector
+Ramsey,Communication,66,0.45077879856258785,Sector
+Ramsey,Trade,56,0.042151495998587585,Sector
+Ramsey,Business_Services,75,0.10320579037314459,Sector
+Ramsey,Business_Products,71,0.11021833238222312,Sector
+Ramsey,Construction,56,0.6215168171520327,Sector
+Ramsey,Services,47,0.5999929475120971,Sector
+Ramsey,Mining,27,0.529999573994971,Sector
+Ramsey,Health_Care,76,0.38312320345391804,Sector
+Ramsey,EnergyExpL_Prod,61,0.06154122269270479,Sector
+Ramsey,Utilities,30,0.6701452665033475,Sector

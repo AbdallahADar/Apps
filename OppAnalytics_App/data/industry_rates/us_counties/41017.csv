@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Deschutes,707,0.6023933318681494,Overall
+Deschutes,HiTech,64,0.8508332792135214,Sector
+Deschutes,Agriculture,23,0.7378119701463233,Sector
+Deschutes,Transportation,40,0.7943354392356872,Sector
+Deschutes,Consumer_Products,49,0.5737674608723845,Sector
+Deschutes,Unassigned,42,0.5006653342553696,Sector
+Deschutes,Communication,62,0.5942930876932074,Sector
+Deschutes,Trade,13,0.2611080530581614,Sector
+Deschutes,Business_Services,61,0.2456030233650981,Sector
+Deschutes,Business_Products,61,0.5204559830364621,Sector
+Deschutes,Construction,62,0.14740361538444746,Sector
+Deschutes,Services,10,0.8083325639066983,Sector
+Deschutes,Mining,73,0.9051981163108495,Sector
+Deschutes,Health_Care,20,0.5446121432261284,Sector
+Deschutes,EnergyExpL_Prod,82,0.9089126072414989,Sector
+Deschutes,Utilities,45,0.6425673010764034,Sector

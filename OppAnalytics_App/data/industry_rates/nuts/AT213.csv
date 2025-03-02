@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Unterkärnten,725,0.590553941933568,Overall
+Unterkärnten,HiTech,14,0.11277233316962887,Sector
+Unterkärnten,Agriculture,89,0.5549256803060308,Sector
+Unterkärnten,Transportation,31,0.7562399126281655,Sector
+Unterkärnten,Consumer_Products,3,0.549133717014856,Sector
+Unterkärnten,Unassigned,1,0.7298021244290998,Sector
+Unterkärnten,Communication,36,0.24908270292195223,Sector
+Unterkärnten,Trade,46,0.30516129385991353,Sector
+Unterkärnten,Business_Services,89,0.9917653997713525,Sector
+Unterkärnten,Business_Products,48,0.8495749795716191,Sector
+Unterkärnten,Construction,51,0.5038950899810692,Sector
+Unterkärnten,Services,14,0.16987208952528177,Sector
+Unterkärnten,Mining,88,0.972259760082957,Sector
+Unterkärnten,Health_Care,38,0.8653750528694268,Sector
+Unterkärnten,EnergyExpL_Prod,96,0.3465309170816483,Sector
+Unterkärnten,Utilities,81,0.9019180757905206,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Surry,688,0.40056983022163967,Overall
+Surry,HiTech,75,0.8868143898709496,Sector
+Surry,Agriculture,61,0.12362439952130455,Sector
+Surry,Transportation,3,0.3583857121992321,Sector
+Surry,Consumer_Products,42,0.2018904088785335,Sector
+Surry,Unassigned,27,0.02411324051510555,Sector
+Surry,Communication,21,0.18763905039891693,Sector
+Surry,Trade,9,0.10471444201932179,Sector
+Surry,Business_Services,35,0.13860886735415356,Sector
+Surry,Business_Products,76,0.15251167620998463,Sector
+Surry,Construction,24,0.09618047243020145,Sector
+Surry,Services,62,0.6503932082020489,Sector
+Surry,Mining,37,0.9341894795646883,Sector
+Surry,Health_Care,61,0.8960209572644461,Sector
+Surry,EnergyExpL_Prod,87,0.36823817169250295,Sector
+Surry,Utilities,68,0.885222977203204,Sector

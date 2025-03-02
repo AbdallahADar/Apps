@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Viersen,939,0.5882803546764696,Overall
+Viersen,HiTech,83,0.7458426533149675,Sector
+Viersen,Agriculture,63,0.6817363647522386,Sector
+Viersen,Transportation,70,0.4236670523648184,Sector
+Viersen,Consumer_Products,18,0.2619966351090337,Sector
+Viersen,Unassigned,46,0.8454473027312516,Sector
+Viersen,Communication,64,0.6932119801089531,Sector
+Viersen,Trade,95,0.7658117971439712,Sector
+Viersen,Business_Services,74,0.6642210844586951,Sector
+Viersen,Business_Products,99,0.7850074163176248,Sector
+Viersen,Construction,98,0.8345626034582295,Sector
+Viersen,Services,60,0.24291499893544655,Sector
+Viersen,Mining,12,0.00481667489919424,Sector
+Viersen,Health_Care,14,0.7679599970120371,Sector
+Viersen,EnergyExpL_Prod,88,0.9283061568742194,Sector
+Viersen,Utilities,55,0.17870260266636384,Sector

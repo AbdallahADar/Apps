@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Freyung-Grafenau,556,0.5244130420921629,Overall
+Freyung-Grafenau,HiTech,37,0.8507116977683561,Sector
+Freyung-Grafenau,Agriculture,14,0.01169649434402531,Sector
+Freyung-Grafenau,Transportation,26,0.3896954874281596,Sector
+Freyung-Grafenau,Consumer_Products,43,0.9657018224211148,Sector
+Freyung-Grafenau,Unassigned,46,0.7343268801576436,Sector
+Freyung-Grafenau,Communication,30,0.5886748540811553,Sector
+Freyung-Grafenau,Trade,81,0.975414281230755,Sector
+Freyung-Grafenau,Business_Services,15,0.6105293244008321,Sector
+Freyung-Grafenau,Business_Products,31,0.3408663433245164,Sector
+Freyung-Grafenau,Construction,38,0.9821160037242569,Sector
+Freyung-Grafenau,Services,46,0.21314044807312404,Sector
+Freyung-Grafenau,Mining,5,0.26338275462904615,Sector
+Freyung-Grafenau,Health_Care,12,0.14215548885261886,Sector
+Freyung-Grafenau,EnergyExpL_Prod,54,0.3642393783253488,Sector
+Freyung-Grafenau,Utilities,78,0.4335443726214887,Sector

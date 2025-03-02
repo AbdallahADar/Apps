@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Gera, Kreisfreie Stadt",889,0.4356707492965237,Overall
+"Gera, Kreisfreie Stadt",HiTech,71,0.38378156999803337,Sector
+"Gera, Kreisfreie Stadt",Agriculture,53,0.003543250924664454,Sector
+"Gera, Kreisfreie Stadt",Transportation,36,0.6189363682161363,Sector
+"Gera, Kreisfreie Stadt",Consumer_Products,26,0.4980184220040561,Sector
+"Gera, Kreisfreie Stadt",Unassigned,96,0.4618425636967818,Sector
+"Gera, Kreisfreie Stadt",Communication,37,0.28072283872784987,Sector
+"Gera, Kreisfreie Stadt",Trade,78,0.6625657568141807,Sector
+"Gera, Kreisfreie Stadt",Business_Services,32,0.009933310332513767,Sector
+"Gera, Kreisfreie Stadt",Business_Products,72,0.2083555893946264,Sector
+"Gera, Kreisfreie Stadt",Construction,89,0.2974671426824812,Sector
+"Gera, Kreisfreie Stadt",Services,62,0.46613228951802055,Sector
+"Gera, Kreisfreie Stadt",Mining,55,0.4953887987496296,Sector
+"Gera, Kreisfreie Stadt",Health_Care,85,0.9257409446784424,Sector
+"Gera, Kreisfreie Stadt",EnergyExpL_Prod,17,0.7117562540781033,Sector
+"Gera, Kreisfreie Stadt",Utilities,80,0.5108761396323359,Sector

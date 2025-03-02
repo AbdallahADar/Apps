@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gaines,754,0.5626839673403464,Overall
+Gaines,HiTech,41,0.31549763490955873,Sector
+Gaines,Agriculture,85,0.19603259317052335,Sector
+Gaines,Transportation,6,0.8071286843578913,Sector
+Gaines,Consumer_Products,75,0.9925158017995609,Sector
+Gaines,Unassigned,21,0.41297668354995243,Sector
+Gaines,Communication,96,0.10137404059886068,Sector
+Gaines,Trade,62,0.7122738337123593,Sector
+Gaines,Business_Services,74,0.6960601848917719,Sector
+Gaines,Business_Products,62,0.4324074527160403,Sector
+Gaines,Construction,9,0.780377761916449,Sector
+Gaines,Services,85,0.21806607754057827,Sector
+Gaines,Mining,64,0.9135307391702195,Sector
+Gaines,Health_Care,54,0.9287631011542768,Sector
+Gaines,EnergyExpL_Prod,6,0.40454435566646896,Sector
+Gaines,Utilities,14,0.5287105649506864,Sector

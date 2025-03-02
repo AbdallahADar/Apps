@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Katowicki,733,0.4885964500883932,Overall
+Katowicki,HiTech,58,0.14088531855445086,Sector
+Katowicki,Agriculture,68,0.6437977904190344,Sector
+Katowicki,Transportation,13,0.5448692225390263,Sector
+Katowicki,Consumer_Products,79,0.6361284613054936,Sector
+Katowicki,Unassigned,72,0.39210436084507005,Sector
+Katowicki,Communication,42,0.18394595107904288,Sector
+Katowicki,Trade,71,0.62215409131638,Sector
+Katowicki,Business_Services,16,0.23551511069047648,Sector
+Katowicki,Business_Products,1,0.9861555743027998,Sector
+Katowicki,Construction,14,0.6553261252859931,Sector
+Katowicki,Services,31,0.22277290067790878,Sector
+Katowicki,Mining,40,0.7669365528154637,Sector
+Katowicki,Health_Care,52,0.2881149992471659,Sector
+Katowicki,EnergyExpL_Prod,88,0.2631615797094561,Sector
+Katowicki,Utilities,88,0.7470787125381363,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kalkaska,798,0.490035124383808,Overall
+Kalkaska,HiTech,76,0.7597034441388363,Sector
+Kalkaska,Agriculture,54,0.025949840101308297,Sector
+Kalkaska,Transportation,20,0.9003559815190897,Sector
+Kalkaska,Consumer_Products,54,0.6517721415362124,Sector
+Kalkaska,Unassigned,52,0.40790104027361074,Sector
+Kalkaska,Communication,28,0.3522861805138783,Sector
+Kalkaska,Trade,73,0.443066797156212,Sector
+Kalkaska,Business_Services,52,0.45666753412729955,Sector
+Kalkaska,Business_Products,23,0.4289895346269086,Sector
+Kalkaska,Construction,74,0.6801761429730798,Sector
+Kalkaska,Services,75,0.20059716948732798,Sector
+Kalkaska,Mining,14,0.939406328618558,Sector
+Kalkaska,Health_Care,95,0.10073861110228421,Sector
+Kalkaska,EnergyExpL_Prod,10,0.9128068285024337,Sector
+Kalkaska,Utilities,98,0.09010929108008003,Sector

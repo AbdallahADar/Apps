@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Aurich,727,0.5307921578703234,Overall
+Aurich,HiTech,43,0.2198531352389429,Sector
+Aurich,Agriculture,63,0.6375958182252832,Sector
+Aurich,Transportation,44,0.7702063053632986,Sector
+Aurich,Consumer_Products,24,0.8496648241102986,Sector
+Aurich,Unassigned,85,0.8387320150881626,Sector
+Aurich,Communication,50,0.021619568551284996,Sector
+Aurich,Trade,35,0.3027261078482191,Sector
+Aurich,Business_Services,51,0.866158184224172,Sector
+Aurich,Business_Products,84,0.4857609795751574,Sector
+Aurich,Construction,34,0.1678852348202211,Sector
+Aurich,Services,21,0.8996636521775822,Sector
+Aurich,Mining,80,0.6576611822140365,Sector
+Aurich,Health_Care,23,0.3900101244698718,Sector
+Aurich,EnergyExpL_Prod,64,0.6275934641090242,Sector
+Aurich,Utilities,26,0.22675177203929553,Sector

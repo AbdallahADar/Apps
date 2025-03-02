@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Podravska,880,0.43936778188557657,Overall
+Podravska,HiTech,30,0.43871219120991867,Sector
+Podravska,Agriculture,87,0.37787434249992446,Sector
+Podravska,Transportation,60,0.4667597098876475,Sector
+Podravska,Consumer_Products,42,0.44099178610277523,Sector
+Podravska,Unassigned,60,0.16684967621880853,Sector
+Podravska,Communication,77,0.2885581346872329,Sector
+Podravska,Trade,40,0.39063302096387886,Sector
+Podravska,Business_Services,47,0.4513856730910356,Sector
+Podravska,Business_Products,91,0.8467984338535117,Sector
+Podravska,Construction,44,0.7468935878990507,Sector
+Podravska,Services,56,0.3455247950130017,Sector
+Podravska,Mining,40,0.741314491281842,Sector
+Podravska,Health_Care,57,0.07376444912376035,Sector
+Podravska,EnergyExpL_Prod,67,0.5071267594763824,Sector
+Podravska,Utilities,82,0.3073296769748789,Sector

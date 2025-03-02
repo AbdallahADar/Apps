@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Calloway,941,0.566356326352966,Overall
+Calloway,HiTech,29,0.8287754904280882,Sector
+Calloway,Agriculture,72,0.6856555434623773,Sector
+Calloway,Transportation,91,0.3770715780545212,Sector
+Calloway,Consumer_Products,98,0.28613383830129324,Sector
+Calloway,Unassigned,69,0.5790550443911214,Sector
+Calloway,Communication,88,0.216090442758749,Sector
+Calloway,Trade,88,0.05820744689168467,Sector
+Calloway,Business_Services,63,0.8349682896511152,Sector
+Calloway,Business_Products,77,0.6880061571355212,Sector
+Calloway,Construction,89,0.8406479030506048,Sector
+Calloway,Services,56,0.9440756794775694,Sector
+Calloway,Mining,0,0.22595554988966626,Sector
+Calloway,Health_Care,70,0.34985599991561256,Sector
+Calloway,EnergyExpL_Prod,0,0.7832794353884261,Sector
+Calloway,Utilities,51,0.7975664964981398,Sector

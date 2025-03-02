@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Svalbard,740,0.3999658013334003,Overall
+Svalbard,HiTech,84,0.1327130128750812,Sector
+Svalbard,Agriculture,69,0.518393848002009,Sector
+Svalbard,Transportation,18,0.4012077127572701,Sector
+Svalbard,Consumer_Products,82,0.3961850938661815,Sector
+Svalbard,Unassigned,35,0.3464756828098313,Sector
+Svalbard,Communication,8,0.5589074026653803,Sector
+Svalbard,Trade,93,0.723556179966957,Sector
+Svalbard,Business_Services,93,0.033186753020391535,Sector
+Svalbard,Business_Products,72,0.9606774477780093,Sector
+Svalbard,Construction,2,0.4752871122411011,Sector
+Svalbard,Services,37,0.3165984209985009,Sector
+Svalbard,Mining,85,0.774833828800216,Sector
+Svalbard,Health_Care,51,0.012445319677760303,Sector
+Svalbard,EnergyExpL_Prod,7,0.028738166134301135,Sector
+Svalbard,Utilities,4,0.3202810384080129,Sector

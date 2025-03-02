@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Seneca,921,0.48507822388079425,Overall
+Seneca,HiTech,19,0.9397787606723152,Sector
+Seneca,Agriculture,76,0.05701738404280521,Sector
+Seneca,Transportation,98,0.817217412592572,Sector
+Seneca,Consumer_Products,81,0.046916187736724235,Sector
+Seneca,Unassigned,94,0.4330812994139125,Sector
+Seneca,Communication,42,0.029234737309759118,Sector
+Seneca,Trade,58,0.620164900862707,Sector
+Seneca,Business_Services,25,0.5071650668395566,Sector
+Seneca,Business_Products,64,0.572969126908421,Sector
+Seneca,Construction,91,0.3194394270493913,Sector
+Seneca,Services,27,0.9832623864068333,Sector
+Seneca,Mining,63,0.8863311053169073,Sector
+Seneca,Health_Care,36,0.2192090736632647,Sector
+Seneca,EnergyExpL_Prod,65,0.3271697808772952,Sector
+Seneca,Utilities,82,0.5172167085194476,Sector

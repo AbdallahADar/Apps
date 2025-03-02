@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Osnabrück, Landkreis",879,0.5885239288796676,Overall
+"Osnabrück, Landkreis",HiTech,97,0.7478431342506124,Sector
+"Osnabrück, Landkreis",Agriculture,71,0.034454462090440785,Sector
+"Osnabrück, Landkreis",Transportation,69,0.6820236432507889,Sector
+"Osnabrück, Landkreis",Consumer_Products,33,0.6564458129078675,Sector
+"Osnabrück, Landkreis",Unassigned,45,0.8886913354053575,Sector
+"Osnabrück, Landkreis",Communication,87,0.5155977426456683,Sector
+"Osnabrück, Landkreis",Trade,14,0.07407929294639015,Sector
+"Osnabrück, Landkreis",Business_Services,88,0.9683994601868638,Sector
+"Osnabrück, Landkreis",Business_Products,83,0.6821081753070177,Sector
+"Osnabrück, Landkreis",Construction,24,0.1451549380733419,Sector
+"Osnabrück, Landkreis",Services,47,0.9795867971523594,Sector
+"Osnabrück, Landkreis",Mining,65,0.993342802691325,Sector
+"Osnabrück, Landkreis",Health_Care,71,0.5293180629249494,Sector
+"Osnabrück, Landkreis",EnergyExpL_Prod,51,0.8602347436462309,Sector
+"Osnabrück, Landkreis",Utilities,34,0.0705785297158017,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Crow Wing,966,0.48050631935084304,Overall
+Crow Wing,HiTech,79,0.8212781922011504,Sector
+Crow Wing,Agriculture,64,0.06749114849557647,Sector
+Crow Wing,Transportation,26,0.2534267545175466,Sector
+Crow Wing,Consumer_Products,57,0.9149799433968536,Sector
+Crow Wing,Unassigned,72,0.1824351378909308,Sector
+Crow Wing,Communication,24,0.7240671116514538,Sector
+Crow Wing,Trade,86,0.3195299209681024,Sector
+Crow Wing,Business_Services,68,0.34287992339204243,Sector
+Crow Wing,Business_Products,28,0.6870733650174953,Sector
+Crow Wing,Construction,96,0.9589233070896669,Sector
+Crow Wing,Services,93,0.7411458209342977,Sector
+Crow Wing,Mining,6,0.42538833734933235,Sector
+Crow Wing,Health_Care,86,0.08698160087881479,Sector
+Crow Wing,EnergyExpL_Prod,82,0.23295736127832456,Sector
+Crow Wing,Utilities,99,0.4490368652010581,Sector

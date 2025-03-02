@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pfaffenhofen a. d. Ilm,622,0.5406405204279671,Overall
+Pfaffenhofen a. d. Ilm,HiTech,55,0.922184698592714,Sector
+Pfaffenhofen a. d. Ilm,Agriculture,10,0.2968855214857321,Sector
+Pfaffenhofen a. d. Ilm,Transportation,9,0.3470530433183633,Sector
+Pfaffenhofen a. d. Ilm,Consumer_Products,98,0.8870104676148624,Sector
+Pfaffenhofen a. d. Ilm,Unassigned,84,0.15203807685037773,Sector
+Pfaffenhofen a. d. Ilm,Communication,1,0.8794411170759884,Sector
+Pfaffenhofen a. d. Ilm,Trade,71,0.764266986978152,Sector
+Pfaffenhofen a. d. Ilm,Business_Services,61,0.6160462630332276,Sector
+Pfaffenhofen a. d. Ilm,Business_Products,67,0.6152689835388726,Sector
+Pfaffenhofen a. d. Ilm,Construction,42,0.6823907878328096,Sector
+Pfaffenhofen a. d. Ilm,Services,3,0.9127695824916418,Sector
+Pfaffenhofen a. d. Ilm,Mining,47,0.011333588196915212,Sector
+Pfaffenhofen a. d. Ilm,Health_Care,44,0.4312138130873091,Sector
+Pfaffenhofen a. d. Ilm,EnergyExpL_Prod,24,0.47023293920299414,Sector
+Pfaffenhofen a. d. Ilm,Utilities,6,0.12147193711954629,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Castellón/Castelló,725,0.5159758241006102,Overall
+Castellón/Castelló,HiTech,4,0.07745010072708725,Sector
+Castellón/Castelló,Agriculture,99,0.30210159505971257,Sector
+Castellón/Castelló,Transportation,45,0.10029227926478901,Sector
+Castellón/Castelló,Consumer_Products,90,0.31825178864258485,Sector
+Castellón/Castelló,Unassigned,24,0.2849180955195818,Sector
+Castellón/Castelló,Communication,55,0.7450341226663175,Sector
+Castellón/Castelló,Trade,43,0.9482438749213138,Sector
+Castellón/Castelló,Business_Services,7,0.8147308729459571,Sector
+Castellón/Castelló,Business_Products,69,0.9644798616843757,Sector
+Castellón/Castelló,Construction,23,0.5340493336659804,Sector
+Castellón/Castelló,Services,84,0.219178176509766,Sector
+Castellón/Castelló,Mining,31,0.02368409951273298,Sector
+Castellón/Castelló,Health_Care,60,0.8524995858392206,Sector
+Castellón/Castelló,EnergyExpL_Prod,22,0.9090718308706941,Sector
+Castellón/Castelló,Utilities,69,0.6456517436790375,Sector

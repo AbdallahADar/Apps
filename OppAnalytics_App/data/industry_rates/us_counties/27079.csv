@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Le Sueur,602,0.4644275853463894,Overall
+Le Sueur,HiTech,37,0.9948172410071734,Sector
+Le Sueur,Agriculture,7,0.2337345274418976,Sector
+Le Sueur,Transportation,30,0.06161957315468125,Sector
+Le Sueur,Consumer_Products,59,0.34671356886128546,Sector
+Le Sueur,Unassigned,14,0.7549028989393962,Sector
+Le Sueur,Communication,26,0.3251979515670683,Sector
+Le Sueur,Trade,76,0.6007108284307248,Sector
+Le Sueur,Business_Services,35,0.05009837758128555,Sector
+Le Sueur,Business_Products,21,0.6162688962814308,Sector
+Le Sueur,Construction,78,0.6017150199518241,Sector
+Le Sueur,Services,51,0.8378980189187709,Sector
+Le Sueur,Mining,67,0.7612252945230126,Sector
+Le Sueur,Health_Care,22,0.09247687414252781,Sector
+Le Sueur,EnergyExpL_Prod,48,0.6178516916124372,Sector
+Le Sueur,Utilities,31,0.07118301778232416,Sector

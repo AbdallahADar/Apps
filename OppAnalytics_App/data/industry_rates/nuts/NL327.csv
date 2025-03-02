@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Het Gooi en Vechtstreek,798,0.526496274125363,Overall
+Het Gooi en Vechtstreek,HiTech,2,0.543364010201028,Sector
+Het Gooi en Vechtstreek,Agriculture,7,0.19039614134301497,Sector
+Het Gooi en Vechtstreek,Transportation,99,0.39354681593867813,Sector
+Het Gooi en Vechtstreek,Consumer_Products,54,0.34237436285891565,Sector
+Het Gooi en Vechtstreek,Unassigned,2,0.39066300654882136,Sector
+Het Gooi en Vechtstreek,Communication,43,0.6389895396558194,Sector
+Het Gooi en Vechtstreek,Trade,84,0.8607197102587957,Sector
+Het Gooi en Vechtstreek,Business_Services,99,0.9725430856997859,Sector
+Het Gooi en Vechtstreek,Business_Products,63,0.1932127802414727,Sector
+Het Gooi en Vechtstreek,Construction,97,0.6979244763500332,Sector
+Het Gooi en Vechtstreek,Services,72,0.24751800590903095,Sector
+Het Gooi en Vechtstreek,Mining,59,0.5147396570138297,Sector
+Het Gooi en Vechtstreek,Health_Care,31,0.4286873109170103,Sector
+Het Gooi en Vechtstreek,EnergyExpL_Prod,59,0.6099170092417179,Sector
+Het Gooi en Vechtstreek,Utilities,27,0.872848199702492,Sector

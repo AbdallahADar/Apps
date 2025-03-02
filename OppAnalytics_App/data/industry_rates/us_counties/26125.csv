@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oakland,814,0.5759880922129087,Overall
+Oakland,HiTech,91,0.8546579220077563,Sector
+Oakland,Agriculture,48,0.8449793090866704,Sector
+Oakland,Transportation,45,0.5042822386989351,Sector
+Oakland,Consumer_Products,51,0.9239989642105113,Sector
+Oakland,Unassigned,83,0.2304950457170326,Sector
+Oakland,Communication,71,0.46892392028820185,Sector
+Oakland,Trade,41,0.5453111656132439,Sector
+Oakland,Business_Services,89,0.637552117262578,Sector
+Oakland,Business_Products,53,0.40920662474151825,Sector
+Oakland,Construction,56,0.1598967775751554,Sector
+Oakland,Services,40,0.7775663432468218,Sector
+Oakland,Mining,30,0.10194251791826436,Sector
+Oakland,Health_Care,77,0.8519681747581896,Sector
+Oakland,EnergyExpL_Prod,11,0.986621551142241,Sector
+Oakland,Utilities,28,0.3424187109265129,Sector

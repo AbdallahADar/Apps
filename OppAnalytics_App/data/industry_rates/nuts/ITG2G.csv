@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oristano,652,0.47947233545555634,Overall
+Oristano,HiTech,96,0.48628417095652277,Sector
+Oristano,Agriculture,30,0.7091437338201891,Sector
+Oristano,Transportation,21,0.5159035653901174,Sector
+Oristano,Consumer_Products,83,0.13425517492474315,Sector
+Oristano,Unassigned,31,0.19129557525438512,Sector
+Oristano,Communication,73,0.6014301421972981,Sector
+Oristano,Trade,44,0.20457319613657876,Sector
+Oristano,Business_Services,17,0.7937676002192007,Sector
+Oristano,Business_Products,24,0.4987224059325607,Sector
+Oristano,Construction,61,0.5300290434630148,Sector
+Oristano,Services,35,0.5298716458030592,Sector
+Oristano,Mining,29,0.16291517751568174,Sector
+Oristano,Health_Care,62,0.9294504826426095,Sector
+Oristano,EnergyExpL_Prod,28,0.4679704092283532,Sector
+Oristano,Utilities,18,0.43647270834903074,Sector

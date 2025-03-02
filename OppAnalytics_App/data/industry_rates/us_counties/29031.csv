@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cape Girardeau,1071,0.4865955816649201,Overall
+Cape Girardeau,HiTech,85,0.5067453136480914,Sector
+Cape Girardeau,Agriculture,88,0.7881782642361097,Sector
+Cape Girardeau,Transportation,98,0.2954730967055853,Sector
+Cape Girardeau,Consumer_Products,77,0.45462816835028086,Sector
+Cape Girardeau,Unassigned,73,0.9338281176300157,Sector
+Cape Girardeau,Communication,35,0.6907093159889178,Sector
+Cape Girardeau,Trade,92,0.5393527581478893,Sector
+Cape Girardeau,Business_Services,88,0.20498854699707914,Sector
+Cape Girardeau,Business_Products,79,0.14883044161598546,Sector
+Cape Girardeau,Construction,51,0.7144174587213883,Sector
+Cape Girardeau,Services,78,0.9465553672979197,Sector
+Cape Girardeau,Mining,31,0.006937828808494251,Sector
+Cape Girardeau,Health_Care,83,0.03735777460305845,Sector
+Cape Girardeau,EnergyExpL_Prod,93,0.49994512054559626,Sector
+Cape Girardeau,Utilities,20,0.5309861516773889,Sector

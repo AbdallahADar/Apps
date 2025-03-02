@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Morris,827,0.6337534440684678,Overall
+Morris,HiTech,66,0.9859808168545183,Sector
+Morris,Agriculture,82,0.18320998780738162,Sector
+Morris,Transportation,38,0.3461375408693269,Sector
+Morris,Consumer_Products,38,0.5198302308000098,Sector
+Morris,Unassigned,57,0.573293896867567,Sector
+Morris,Communication,44,0.45922573842686853,Sector
+Morris,Trade,72,0.48558812948326635,Sector
+Morris,Business_Services,52,0.9826990956227706,Sector
+Morris,Business_Products,94,0.8052734724688857,Sector
+Morris,Construction,29,0.3951383661567289,Sector
+Morris,Services,2,0.7249127231763388,Sector
+Morris,Mining,87,0.9207274453458408,Sector
+Morris,Health_Care,51,0.8997707209116544,Sector
+Morris,EnergyExpL_Prod,63,0.6076678397436871,Sector
+Morris,Utilities,52,0.6168456564921702,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ragusa,750,0.4288321796855203,Overall
+Ragusa,HiTech,96,0.41688889603187507,Sector
+Ragusa,Agriculture,86,0.11199045488273462,Sector
+Ragusa,Transportation,55,0.812524514172221,Sector
+Ragusa,Consumer_Products,66,0.1431009907628571,Sector
+Ragusa,Unassigned,30,0.13679827203962303,Sector
+Ragusa,Communication,8,0.5991076450050915,Sector
+Ragusa,Trade,43,0.05772439001470464,Sector
+Ragusa,Business_Services,35,0.4119832245545867,Sector
+Ragusa,Business_Products,94,0.9880048672119376,Sector
+Ragusa,Construction,72,0.7107023297571109,Sector
+Ragusa,Services,17,0.26107805074622803,Sector
+Ragusa,Mining,2,0.12562527090372055,Sector
+Ragusa,Health_Care,56,0.6090964526952399,Sector
+Ragusa,EnergyExpL_Prod,56,0.3287822313795944,Sector
+Ragusa,Utilities,34,0.7190751051252806,Sector

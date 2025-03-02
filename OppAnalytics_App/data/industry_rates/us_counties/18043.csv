@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Floyd,793,0.5444868027487186,Overall
+Floyd,HiTech,86,0.7444817987474004,Sector
+Floyd,Agriculture,65,0.5277165889782417,Sector
+Floyd,Transportation,88,0.6093039022308542,Sector
+Floyd,Consumer_Products,90,0.3663468887416049,Sector
+Floyd,Unassigned,76,0.32656278957181784,Sector
+Floyd,Communication,69,0.36052855328781486,Sector
+Floyd,Trade,80,0.488989158224041,Sector
+Floyd,Business_Services,10,0.20289697171886656,Sector
+Floyd,Business_Products,0,0.5838692607996798,Sector
+Floyd,Construction,61,0.49767673294623926,Sector
+Floyd,Services,30,0.12319037898647789,Sector
+Floyd,Mining,25,0.992143224379215,Sector
+Floyd,Health_Care,37,0.7124801299192347,Sector
+Floyd,EnergyExpL_Prod,60,0.6748296477750862,Sector
+Floyd,Utilities,16,0.9562860149242071,Sector

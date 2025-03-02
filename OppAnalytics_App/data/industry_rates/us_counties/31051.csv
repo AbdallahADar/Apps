@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dixon,606,0.5024855553016875,Overall
+Dixon,HiTech,7,0.6264861749090141,Sector
+Dixon,Agriculture,3,0.24242901860188926,Sector
+Dixon,Transportation,39,0.622446296325384,Sector
+Dixon,Consumer_Products,76,0.6006710245348044,Sector
+Dixon,Unassigned,89,0.02738021118736378,Sector
+Dixon,Communication,22,0.21192679879447318,Sector
+Dixon,Trade,7,0.602254614265314,Sector
+Dixon,Business_Services,80,0.3723733889986077,Sector
+Dixon,Business_Products,10,0.864694278893877,Sector
+Dixon,Construction,67,0.7983246556651278,Sector
+Dixon,Services,25,0.39217214835493475,Sector
+Dixon,Mining,79,0.5463740551616424,Sector
+Dixon,Health_Care,1,0.27530174329069523,Sector
+Dixon,EnergyExpL_Prod,15,0.48146278119840513,Sector
+Dixon,Utilities,86,0.8729861393437787,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cassia,756,0.5192822281793386,Overall
+Cassia,HiTech,85,0.6660843416896516,Sector
+Cassia,Agriculture,96,0.11530138667402945,Sector
+Cassia,Transportation,18,0.523067321497611,Sector
+Cassia,Consumer_Products,72,0.9317045544456011,Sector
+Cassia,Unassigned,41,0.39819133774414217,Sector
+Cassia,Communication,42,0.19832935811925145,Sector
+Cassia,Trade,38,0.1595347964358007,Sector
+Cassia,Business_Services,19,0.5200996583163996,Sector
+Cassia,Business_Products,77,0.9329203796982997,Sector
+Cassia,Construction,77,0.43957889732487676,Sector
+Cassia,Services,73,0.10905535158626334,Sector
+Cassia,Mining,60,0.785328599299981,Sector
+Cassia,Health_Care,13,0.7868248557577622,Sector
+Cassia,EnergyExpL_Prod,16,0.27751926081924383,Sector
+Cassia,Utilities,29,0.9456933232811644,Sector

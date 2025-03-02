@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pomurska,695,0.472315638415273,Overall
+Pomurska,HiTech,67,0.6093981524893894,Sector
+Pomurska,Agriculture,47,0.9125410883187905,Sector
+Pomurska,Transportation,79,0.021578360768550464,Sector
+Pomurska,Consumer_Products,16,0.21420567306782,Sector
+Pomurska,Unassigned,50,0.7156054357569094,Sector
+Pomurska,Communication,78,0.20845101879181238,Sector
+Pomurska,Trade,38,0.2783892135997261,Sector
+Pomurska,Business_Services,55,0.24176346440579233,Sector
+Pomurska,Business_Products,54,0.6305252034958115,Sector
+Pomurska,Construction,10,0.8894346847733374,Sector
+Pomurska,Services,79,0.39575204153483745,Sector
+Pomurska,Mining,54,0.25783727117259414,Sector
+Pomurska,Health_Care,5,0.5139424327579063,Sector
+Pomurska,EnergyExpL_Prod,50,0.27855262653823676,Sector
+Pomurska,Utilities,13,0.9167579087575815,Sector

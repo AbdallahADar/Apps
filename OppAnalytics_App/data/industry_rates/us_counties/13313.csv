@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Whitfield,810,0.5080327735654903,Overall
+Whitfield,HiTech,6,0.48635535269176133,Sector
+Whitfield,Agriculture,55,0.5117004045503798,Sector
+Whitfield,Transportation,64,0.46814046850964997,Sector
+Whitfield,Consumer_Products,66,0.08448970838678238,Sector
+Whitfield,Unassigned,47,0.2979752808528441,Sector
+Whitfield,Communication,74,0.9282871984294376,Sector
+Whitfield,Trade,86,0.36811588911573034,Sector
+Whitfield,Business_Services,76,0.9283940878102899,Sector
+Whitfield,Business_Products,51,0.7882000285996932,Sector
+Whitfield,Construction,48,0.2822343203917048,Sector
+Whitfield,Services,81,0.27273305679913507,Sector
+Whitfield,Mining,55,0.1188570071891345,Sector
+Whitfield,Health_Care,6,0.6139282834201459,Sector
+Whitfield,EnergyExpL_Prod,55,0.6691234455664584,Sector
+Whitfield,Utilities,40,0.8019570711692064,Sector

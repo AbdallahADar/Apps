@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lowndes,613,0.3912554743867584,Overall
+Lowndes,HiTech,48,0.06316656049352476,Sector
+Lowndes,Agriculture,52,0.6603790462654103,Sector
+Lowndes,Transportation,77,0.361008523433371,Sector
+Lowndes,Consumer_Products,43,0.779296282464261,Sector
+Lowndes,Unassigned,82,0.08779985398814105,Sector
+Lowndes,Communication,37,0.6691591553123465,Sector
+Lowndes,Trade,29,0.4015326112916562,Sector
+Lowndes,Business_Services,25,0.04677616375776905,Sector
+Lowndes,Business_Products,24,0.09032245066509414,Sector
+Lowndes,Construction,20,0.3575630831182063,Sector
+Lowndes,Services,54,0.3058368780660168,Sector
+Lowndes,Mining,51,0.9520561811342958,Sector
+Lowndes,Health_Care,20,0.05467519557344802,Sector
+Lowndes,EnergyExpL_Prod,47,0.8079608879937662,Sector
+Lowndes,Utilities,4,0.2312992422440695,Sector

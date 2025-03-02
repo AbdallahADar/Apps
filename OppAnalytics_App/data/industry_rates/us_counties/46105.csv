@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Perkins,637,0.47934283651113474,Overall
+Perkins,HiTech,14,0.3193908150337581,Sector
+Perkins,Agriculture,5,0.9662018303130065,Sector
+Perkins,Transportation,66,0.7340686326162504,Sector
+Perkins,Consumer_Products,33,0.05087187019886685,Sector
+Perkins,Unassigned,23,0.6225471800318289,Sector
+Perkins,Communication,63,0.7582569260384731,Sector
+Perkins,Trade,87,0.6209585707889504,Sector
+Perkins,Business_Services,11,0.39628291885194566,Sector
+Perkins,Business_Products,99,0.14974717678503535,Sector
+Perkins,Construction,84,0.5913023155165212,Sector
+Perkins,Services,70,0.4278101701974969,Sector
+Perkins,Mining,11,0.21990314779408793,Sector
+Perkins,Health_Care,7,0.1700634412849623,Sector
+Perkins,EnergyExpL_Prod,9,0.20872183770211905,Sector
+Perkins,Utilities,55,0.9540157145137198,Sector

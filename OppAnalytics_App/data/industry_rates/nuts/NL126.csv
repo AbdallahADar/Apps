@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zuidoost-Friesland,795,0.37756606416166355,Overall
+Zuidoost-Friesland,HiTech,91,0.45007267914607096,Sector
+Zuidoost-Friesland,Agriculture,75,0.17441225668157279,Sector
+Zuidoost-Friesland,Transportation,76,0.12360239292594,Sector
+Zuidoost-Friesland,Consumer_Products,12,0.6623951658144912,Sector
+Zuidoost-Friesland,Unassigned,67,0.7801146827647748,Sector
+Zuidoost-Friesland,Communication,25,0.31386073075173326,Sector
+Zuidoost-Friesland,Trade,88,0.6740285073373629,Sector
+Zuidoost-Friesland,Business_Services,66,0.25248451231398894,Sector
+Zuidoost-Friesland,Business_Products,49,0.8462559631153864,Sector
+Zuidoost-Friesland,Construction,52,0.02447040277054846,Sector
+Zuidoost-Friesland,Services,34,0.017300275024749068,Sector
+Zuidoost-Friesland,Mining,83,0.2648357948900083,Sector
+Zuidoost-Friesland,Health_Care,43,0.3171354285523097,Sector
+Zuidoost-Friesland,EnergyExpL_Prod,29,0.4953178716079708,Sector
+Zuidoost-Friesland,Utilities,5,0.2672042987280451,Sector

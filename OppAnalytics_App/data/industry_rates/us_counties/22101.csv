@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,St. Mary,664,0.5860664415424388,Overall
+St. Mary,HiTech,33,0.891814609604725,Sector
+St. Mary,Agriculture,74,0.3380174079689674,Sector
+St. Mary,Transportation,0,0.2902596384199104,Sector
+St. Mary,Consumer_Products,28,0.8474425823618128,Sector
+St. Mary,Unassigned,74,0.3808694767734251,Sector
+St. Mary,Communication,7,0.7878011996915247,Sector
+St. Mary,Trade,32,0.7942548059613556,Sector
+St. Mary,Business_Services,46,0.9329305507292791,Sector
+St. Mary,Business_Products,10,0.6050681327156756,Sector
+St. Mary,Construction,69,0.91957770746553,Sector
+St. Mary,Services,60,0.8741015469281809,Sector
+St. Mary,Mining,59,0.1517308758995497,Sector
+St. Mary,Health_Care,31,0.06645793949638135,Sector
+St. Mary,EnergyExpL_Prod,67,0.8303487952581246,Sector
+St. Mary,Utilities,74,0.08032135386213957,Sector

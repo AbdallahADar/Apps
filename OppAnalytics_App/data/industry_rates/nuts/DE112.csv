@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Böblingen,706,0.4594529443231657,Overall
+Böblingen,HiTech,23,0.40827880707103525,Sector
+Böblingen,Agriculture,63,0.9429258482747218,Sector
+Böblingen,Transportation,23,0.7013915341369265,Sector
+Böblingen,Consumer_Products,69,0.08955660562707812,Sector
+Böblingen,Unassigned,12,0.545303438392651,Sector
+Böblingen,Communication,13,0.9284334377256628,Sector
+Böblingen,Trade,41,0.780635070376826,Sector
+Böblingen,Business_Services,75,0.5830463018886732,Sector
+Böblingen,Business_Products,66,0.5705148556310788,Sector
+Böblingen,Construction,95,0.15278772406194507,Sector
+Böblingen,Services,90,0.38257345790464947,Sector
+Böblingen,Mining,15,0.006775904545866407,Sector
+Böblingen,Health_Care,13,0.2397538721198964,Sector
+Böblingen,EnergyExpL_Prod,65,0.1880530294121422,Sector
+Böblingen,Utilities,43,0.371764277678332,Sector

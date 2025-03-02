@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hubbard,761,0.5741473071022419,Overall
+Hubbard,HiTech,40,0.8721856566396241,Sector
+Hubbard,Agriculture,17,0.346301190227324,Sector
+Hubbard,Transportation,61,0.3245285232741174,Sector
+Hubbard,Consumer_Products,8,0.8023778910137,Sector
+Hubbard,Unassigned,70,0.9573560380135903,Sector
+Hubbard,Communication,46,0.29806827874603137,Sector
+Hubbard,Trade,66,0.7597558088703394,Sector
+Hubbard,Business_Services,54,0.9798353049866094,Sector
+Hubbard,Business_Products,85,0.1417663127442632,Sector
+Hubbard,Construction,49,0.6891670722062091,Sector
+Hubbard,Services,40,0.7253147009555863,Sector
+Hubbard,Mining,68,0.5515670389750469,Sector
+Hubbard,Health_Care,33,0.13492711945796254,Sector
+Hubbard,EnergyExpL_Prod,72,0.05915156104261221,Sector
+Hubbard,Utilities,52,0.9699071093806123,Sector

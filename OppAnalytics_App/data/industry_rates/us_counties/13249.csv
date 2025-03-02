@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Schley,854,0.44974663544957477,Overall
+Schley,HiTech,92,0.24014379898170346,Sector
+Schley,Agriculture,22,0.7422695866391876,Sector
+Schley,Transportation,76,0.03463313642528154,Sector
+Schley,Consumer_Products,69,0.44542707043678054,Sector
+Schley,Unassigned,59,0.8993502793342656,Sector
+Schley,Communication,87,0.7326333416206241,Sector
+Schley,Trade,97,0.10662262818554025,Sector
+Schley,Business_Services,81,0.9128705596393542,Sector
+Schley,Business_Products,36,0.403216602916038,Sector
+Schley,Construction,33,0.46036398652711097,Sector
+Schley,Services,5,0.5983257942408162,Sector
+Schley,Mining,23,0.27660371991304344,Sector
+Schley,Health_Care,81,0.28244576566264934,Sector
+Schley,EnergyExpL_Prod,80,0.023284315654358623,Sector
+Schley,Utilities,13,0.588008945566868,Sector

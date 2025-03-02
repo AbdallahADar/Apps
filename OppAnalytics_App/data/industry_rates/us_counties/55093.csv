@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pierce,1024,0.5334629019999401,Overall
+Pierce,HiTech,65,0.4592622882269486,Sector
+Pierce,Agriculture,66,0.3560766244528042,Sector
+Pierce,Transportation,58,0.468276557069903,Sector
+Pierce,Consumer_Products,87,0.33388289699052265,Sector
+Pierce,Unassigned,96,0.9030844281867765,Sector
+Pierce,Communication,71,0.7987586581038606,Sector
+Pierce,Trade,56,0.6193701887592384,Sector
+Pierce,Business_Services,91,0.2485890291698537,Sector
+Pierce,Business_Products,81,0.3514201598441655,Sector
+Pierce,Construction,40,0.2043531139671012,Sector
+Pierce,Services,99,0.6567845583927997,Sector
+Pierce,Mining,25,0.6650209237214162,Sector
+Pierce,Health_Care,64,0.10096505656451382,Sector
+Pierce,EnergyExpL_Prod,52,0.9961075217588893,Sector
+Pierce,Utilities,73,0.8399915247903091,Sector

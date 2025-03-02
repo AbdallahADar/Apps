@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Williamson,753,0.5247344702669422,Overall
+Williamson,HiTech,83,0.8580369242651567,Sector
+Williamson,Agriculture,14,0.7878103438258417,Sector
+Williamson,Transportation,6,0.7891337446881369,Sector
+Williamson,Consumer_Products,59,0.8153875441257241,Sector
+Williamson,Unassigned,4,0.21490264241998813,Sector
+Williamson,Communication,86,0.700041480250422,Sector
+Williamson,Trade,15,0.26554167584305766,Sector
+Williamson,Business_Services,76,0.16747501991161606,Sector
+Williamson,Business_Products,14,0.9638557418937577,Sector
+Williamson,Construction,13,0.7409922284559971,Sector
+Williamson,Services,93,0.20066499735562482,Sector
+Williamson,Mining,69,0.1385972424479448,Sector
+Williamson,Health_Care,56,0.034552492974355586,Sector
+Williamson,EnergyExpL_Prod,81,0.9759488633976621,Sector
+Williamson,Utilities,84,0.2180761121488488,Sector

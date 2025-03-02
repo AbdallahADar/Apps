@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Noord-Overijssel,752,0.36309864759249455,Overall
+Noord-Overijssel,HiTech,41,0.0005557160898205238,Sector
+Noord-Overijssel,Agriculture,5,0.09578869238873688,Sector
+Noord-Overijssel,Transportation,32,0.19602933192520755,Sector
+Noord-Overijssel,Consumer_Products,15,0.31115274569481455,Sector
+Noord-Overijssel,Unassigned,71,0.8192777802987563,Sector
+Noord-Overijssel,Communication,49,0.1554242222758785,Sector
+Noord-Overijssel,Trade,48,0.6808383909910551,Sector
+Noord-Overijssel,Business_Services,24,0.21382603088477514,Sector
+Noord-Overijssel,Business_Products,23,0.32270263846214253,Sector
+Noord-Overijssel,Construction,93,0.38513588007778676,Sector
+Noord-Overijssel,Services,45,0.7340055182004032,Sector
+Noord-Overijssel,Mining,74,0.402860408357838,Sector
+Noord-Overijssel,Health_Care,76,0.11114377625688876,Sector
+Noord-Overijssel,EnergyExpL_Prod,66,0.041518327059709814,Sector
+Noord-Overijssel,Utilities,90,0.9762202549236041,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Johnson,714,0.5205177569503061,Overall
+Johnson,HiTech,34,0.1677109431250704,Sector
+Johnson,Agriculture,46,0.23654299043718008,Sector
+Johnson,Transportation,12,0.6628360867507308,Sector
+Johnson,Consumer_Products,63,0.21720680826488903,Sector
+Johnson,Unassigned,26,0.38612902215594347,Sector
+Johnson,Communication,22,0.751699346393796,Sector
+Johnson,Trade,20,0.9258919272011823,Sector
+Johnson,Business_Services,28,0.27273100407026774,Sector
+Johnson,Business_Products,66,0.9076705568431058,Sector
+Johnson,Construction,10,0.0005038494871856258,Sector
+Johnson,Services,52,0.9476827756252418,Sector
+Johnson,Mining,81,0.6147338680202334,Sector
+Johnson,Health_Care,80,0.8664448029066203,Sector
+Johnson,EnergyExpL_Prod,81,0.5642972255275297,Sector
+Johnson,Utilities,93,0.2856851474456149,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Thurgau,853,0.4402969142288259,Overall
+Thurgau,HiTech,78,0.19726670297859805,Sector
+Thurgau,Agriculture,26,0.7348150385128234,Sector
+Thurgau,Transportation,85,0.046736807182262696,Sector
+Thurgau,Consumer_Products,25,0.2685218768456402,Sector
+Thurgau,Unassigned,79,0.8180348627930696,Sector
+Thurgau,Communication,91,0.7351306723635532,Sector
+Thurgau,Trade,83,0.9578896736318862,Sector
+Thurgau,Business_Services,10,0.9325700438814679,Sector
+Thurgau,Business_Products,83,0.5836145666083898,Sector
+Thurgau,Construction,84,0.3554200769199075,Sector
+Thurgau,Services,98,0.06973483425046767,Sector
+Thurgau,Mining,65,0.06939355690242766,Sector
+Thurgau,Health_Care,13,0.17609728630369148,Sector
+Thurgau,EnergyExpL_Prod,3,0.055890279985491564,Sector
+Thurgau,Utilities,30,0.6033374342727109,Sector

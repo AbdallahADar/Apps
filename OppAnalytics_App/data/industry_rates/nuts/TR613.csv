@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Burdur,739,0.5473203533409182,Overall
+Burdur,HiTech,29,0.36965357259168996,Sector
+Burdur,Agriculture,10,0.9161202647047825,Sector
+Burdur,Transportation,67,0.2300779343031173,Sector
+Burdur,Consumer_Products,56,0.4555164432727904,Sector
+Burdur,Unassigned,91,0.9245058262171808,Sector
+Burdur,Communication,50,0.7507524685664346,Sector
+Burdur,Trade,41,0.985789307954781,Sector
+Burdur,Business_Services,37,0.8838111433270098,Sector
+Burdur,Business_Products,35,0.05409112863629273,Sector
+Burdur,Construction,53,0.839933314190367,Sector
+Burdur,Services,63,0.5435421551060964,Sector
+Burdur,Mining,55,0.47058536138349283,Sector
+Burdur,Health_Care,23,0.43846634950750496,Sector
+Burdur,EnergyExpL_Prod,72,0.3003171678158142,Sector
+Burdur,Utilities,57,0.04664286253641903,Sector

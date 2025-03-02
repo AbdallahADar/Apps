@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Marion,710,0.5761809349278663,Overall
+Marion,HiTech,93,0.9468675098157867,Sector
+Marion,Agriculture,31,0.25491501580770015,Sector
+Marion,Transportation,17,0.2962409556353105,Sector
+Marion,Consumer_Products,36,0.9594887401466603,Sector
+Marion,Unassigned,82,0.9759674592756877,Sector
+Marion,Communication,39,0.05426687142974418,Sector
+Marion,Trade,25,0.6727263817364298,Sector
+Marion,Business_Services,6,0.5993186480881428,Sector
+Marion,Business_Products,67,0.6912455578599721,Sector
+Marion,Construction,54,0.9000346984508033,Sector
+Marion,Services,53,0.5115214638484399,Sector
+Marion,Mining,98,0.4014694996567949,Sector
+Marion,Health_Care,36,0.657269089050145,Sector
+Marion,EnergyExpL_Prod,33,0.4517135805370408,Sector
+Marion,Utilities,40,0.26966855257933664,Sector

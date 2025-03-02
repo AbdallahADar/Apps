@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Louisa,949,0.4214415463748198,Overall
+Louisa,HiTech,96,0.3527396985694803,Sector
+Louisa,Agriculture,61,0.3640330153521838,Sector
+Louisa,Transportation,84,0.3753117960448339,Sector
+Louisa,Consumer_Products,30,0.3887567991974683,Sector
+Louisa,Unassigned,76,0.6670330955506241,Sector
+Louisa,Communication,95,0.28006854502198053,Sector
+Louisa,Trade,76,0.4525831676564611,Sector
+Louisa,Business_Services,95,0.7196260149953968,Sector
+Louisa,Business_Products,0,0.006045376102480682,Sector
+Louisa,Construction,92,0.23997917305088146,Sector
+Louisa,Services,51,0.12639200428873187,Sector
+Louisa,Mining,36,0.7218274271174494,Sector
+Louisa,Health_Care,51,0.6047449309089803,Sector
+Louisa,EnergyExpL_Prod,72,0.9347268576993898,Sector
+Louisa,Utilities,34,0.08775529406595406,Sector

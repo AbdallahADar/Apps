@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Steyr-Kirchdorf,799,0.6597649414287766,Overall
+Steyr-Kirchdorf,HiTech,41,0.4139817270665911,Sector
+Steyr-Kirchdorf,Agriculture,22,0.6993259348228513,Sector
+Steyr-Kirchdorf,Transportation,63,0.7629342288831074,Sector
+Steyr-Kirchdorf,Consumer_Products,52,0.9460876357425002,Sector
+Steyr-Kirchdorf,Unassigned,29,0.4377479486307774,Sector
+Steyr-Kirchdorf,Communication,21,0.6647758403135164,Sector
+Steyr-Kirchdorf,Trade,28,0.8400710364079711,Sector
+Steyr-Kirchdorf,Business_Services,33,0.5669463863454722,Sector
+Steyr-Kirchdorf,Business_Products,89,0.06825427513007465,Sector
+Steyr-Kirchdorf,Construction,51,0.8406472488435003,Sector
+Steyr-Kirchdorf,Services,94,0.4169298888993095,Sector
+Steyr-Kirchdorf,Mining,41,0.9838687966874693,Sector
+Steyr-Kirchdorf,Health_Care,99,0.6339345487102024,Sector
+Steyr-Kirchdorf,EnergyExpL_Prod,75,0.9929820208153237,Sector
+Steyr-Kirchdorf,Utilities,61,0.6279866041329841,Sector

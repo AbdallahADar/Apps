@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Caroline,691,0.3467626264515559,Overall
+Caroline,HiTech,2,0.03867173070794683,Sector
+Caroline,Agriculture,45,0.03822878201516433,Sector
+Caroline,Transportation,67,0.796378121497115,Sector
+Caroline,Consumer_Products,1,0.6790080153527018,Sector
+Caroline,Unassigned,57,0.9529114114144964,Sector
+Caroline,Communication,54,0.07575224222811294,Sector
+Caroline,Trade,59,0.2490978753034101,Sector
+Caroline,Business_Services,28,0.18285170363830794,Sector
+Caroline,Business_Products,84,0.4596182423560833,Sector
+Caroline,Construction,86,0.3564699655088067,Sector
+Caroline,Services,10,0.06895859849635044,Sector
+Caroline,Mining,55,0.5392833173130196,Sector
+Caroline,Health_Care,74,0.35819881587684377,Sector
+Caroline,EnergyExpL_Prod,3,0.29424578287038605,Sector
+Caroline,Utilities,66,0.11176479219459334,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Kaufbeuren, Kreisfreie Stadt",860,0.36762830665710394,Overall
+"Kaufbeuren, Kreisfreie Stadt",HiTech,74,0.08726996994989089,Sector
+"Kaufbeuren, Kreisfreie Stadt",Agriculture,79,0.44066658199977693,Sector
+"Kaufbeuren, Kreisfreie Stadt",Transportation,46,0.004859604362040915,Sector
+"Kaufbeuren, Kreisfreie Stadt",Consumer_Products,18,0.12368195357921363,Sector
+"Kaufbeuren, Kreisfreie Stadt",Unassigned,82,0.4110336598930947,Sector
+"Kaufbeuren, Kreisfreie Stadt",Communication,32,0.6673730932047459,Sector
+"Kaufbeuren, Kreisfreie Stadt",Trade,18,0.5464021934517714,Sector
+"Kaufbeuren, Kreisfreie Stadt",Business_Services,71,0.7484471165039039,Sector
+"Kaufbeuren, Kreisfreie Stadt",Business_Products,83,0.18039902892540416,Sector
+"Kaufbeuren, Kreisfreie Stadt",Construction,53,0.11201255649196606,Sector
+"Kaufbeuren, Kreisfreie Stadt",Services,91,0.07517952034960962,Sector
+"Kaufbeuren, Kreisfreie Stadt",Mining,47,0.6354268441144586,Sector
+"Kaufbeuren, Kreisfreie Stadt",Health_Care,52,0.8666275648811504,Sector
+"Kaufbeuren, Kreisfreie Stadt",EnergyExpL_Prod,38,0.3523239957741853,Sector
+"Kaufbeuren, Kreisfreie Stadt",Utilities,76,0.262720916375347,Sector

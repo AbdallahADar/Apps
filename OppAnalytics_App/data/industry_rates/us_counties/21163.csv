@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Meade,1044,0.5019393294057932,Overall
+Meade,HiTech,84,0.8182987544394278,Sector
+Meade,Agriculture,88,0.8968512905624321,Sector
+Meade,Transportation,30,0.5567426280770065,Sector
+Meade,Consumer_Products,89,0.23494525375947561,Sector
+Meade,Unassigned,42,0.15616158639720534,Sector
+Meade,Communication,51,0.6087814523000298,Sector
+Meade,Trade,74,0.9707773896153036,Sector
+Meade,Business_Services,34,0.23756010015665419,Sector
+Meade,Business_Products,34,0.034474246271054554,Sector
+Meade,Construction,75,0.867581401360963,Sector
+Meade,Services,74,0.6276558172271568,Sector
+Meade,Mining,99,0.7449119415846586,Sector
+Meade,Health_Care,98,0.17423253779739722,Sector
+Meade,EnergyExpL_Prod,85,0.007330763947002716,Sector
+Meade,Utilities,87,0.5927847775911312,Sector

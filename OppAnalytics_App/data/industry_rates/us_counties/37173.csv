@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Swain,687,0.47904190919602174,Overall
+Swain,HiTech,2,0.12723023361930663,Sector
+Swain,Agriculture,96,0.22721764439007797,Sector
+Swain,Transportation,94,0.03203796749131127,Sector
+Swain,Consumer_Products,41,0.11616832449352854,Sector
+Swain,Unassigned,56,0.8390782356963227,Sector
+Swain,Communication,50,0.8588058987678809,Sector
+Swain,Trade,21,0.5537409824095678,Sector
+Swain,Business_Services,45,0.6047407237139273,Sector
+Swain,Business_Products,18,0.6815249828484293,Sector
+Swain,Construction,27,0.49913743337579464,Sector
+Swain,Services,37,0.9719281286148299,Sector
+Swain,Mining,67,0.002373276973984151,Sector
+Swain,Health_Care,42,0.5344594606779096,Sector
+Swain,EnergyExpL_Prod,31,0.7286210290272757,Sector
+Swain,Utilities,60,0.4085643158401788,Sector

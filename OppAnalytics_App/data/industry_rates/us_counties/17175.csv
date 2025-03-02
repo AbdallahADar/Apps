@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stark,805,0.45455405286936956,Overall
+Stark,HiTech,32,0.01644174005046295,Sector
+Stark,Agriculture,55,0.4780807959777451,Sector
+Stark,Transportation,74,0.5250961021682176,Sector
+Stark,Consumer_Products,68,0.006970511535988377,Sector
+Stark,Unassigned,35,0.8709985476398043,Sector
+Stark,Communication,41,0.9048364966744643,Sector
+Stark,Trade,26,0.013598791703388735,Sector
+Stark,Business_Services,50,0.4977814069265355,Sector
+Stark,Business_Products,85,0.8619081107613954,Sector
+Stark,Construction,69,0.40938427590264326,Sector
+Stark,Services,70,0.23420164800694498,Sector
+Stark,Mining,92,0.13726737675425604,Sector
+Stark,Health_Care,41,0.7392990417819157,Sector
+Stark,EnergyExpL_Prod,4,0.350571956050464,Sector
+Stark,Utilities,63,0.7718739911063179,Sector

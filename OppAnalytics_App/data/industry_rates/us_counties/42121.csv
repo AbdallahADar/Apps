@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Venango,736,0.6211932086838609,Overall
+Venango,HiTech,68,0.777355819314131,Sector
+Venango,Agriculture,45,0.6792093862263153,Sector
+Venango,Transportation,27,0.4858293932602503,Sector
+Venango,Consumer_Products,9,0.9066936685556859,Sector
+Venango,Unassigned,9,0.575734777184904,Sector
+Venango,Communication,39,0.7874900698205235,Sector
+Venango,Trade,91,0.5258848805234683,Sector
+Venango,Business_Services,60,0.3421693307799223,Sector
+Venango,Business_Products,64,0.9452499842895946,Sector
+Venango,Construction,23,0.8033566941928324,Sector
+Venango,Services,53,0.5307509577666505,Sector
+Venango,Mining,93,0.8443232725940873,Sector
+Venango,Health_Care,31,0.6327319185088484,Sector
+Venango,EnergyExpL_Prod,82,0.23976644318288198,Sector
+Venango,Utilities,42,0.24135153405781595,Sector

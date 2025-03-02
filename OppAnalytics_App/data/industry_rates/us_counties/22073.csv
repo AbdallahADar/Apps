@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ouachita,688,0.5237006064848412,Overall
+Ouachita,HiTech,50,0.8756978548370314,Sector
+Ouachita,Agriculture,84,0.14271186252082457,Sector
+Ouachita,Transportation,0,0.027946515314164144,Sector
+Ouachita,Consumer_Products,98,0.7660714640941699,Sector
+Ouachita,Unassigned,39,0.24592978911044416,Sector
+Ouachita,Communication,63,0.9875248363045042,Sector
+Ouachita,Trade,36,0.2703278473492223,Sector
+Ouachita,Business_Services,27,0.2184219724587867,Sector
+Ouachita,Business_Products,6,0.6827065718889691,Sector
+Ouachita,Construction,75,0.12513743208522865,Sector
+Ouachita,Services,38,0.9101366146706595,Sector
+Ouachita,Mining,15,0.7536130923677209,Sector
+Ouachita,Health_Care,80,0.8067259828438521,Sector
+Ouachita,EnergyExpL_Prod,35,0.8994761894138759,Sector
+Ouachita,Utilities,42,0.14308107201316467,Sector

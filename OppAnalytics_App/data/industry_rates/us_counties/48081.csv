@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Coke,755,0.3461716448237031,Overall
+Coke,HiTech,31,0.7376888101506052,Sector
+Coke,Agriculture,68,0.19715227488636622,Sector
+Coke,Transportation,26,0.3927816415421512,Sector
+Coke,Consumer_Products,63,0.10529712916220046,Sector
+Coke,Unassigned,48,0.5245142047001112,Sector
+Coke,Communication,98,0.10656410012534057,Sector
+Coke,Trade,43,0.12495544849528883,Sector
+Coke,Business_Services,79,0.6202084058946418,Sector
+Coke,Business_Products,42,0.514863117719364,Sector
+Coke,Construction,22,0.015883902063873023,Sector
+Coke,Services,81,0.6792600207906159,Sector
+Coke,Mining,0,0.022372032601915448,Sector
+Coke,Health_Care,70,0.06917023175679793,Sector
+Coke,EnergyExpL_Prod,21,0.8909285967320876,Sector
+Coke,Utilities,63,0.19093475573418695,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Klaipėdos apskritis,818,0.5779889109932933,Overall
+Klaipėdos apskritis,HiTech,84,0.6302487202157849,Sector
+Klaipėdos apskritis,Agriculture,18,0.5768175122682426,Sector
+Klaipėdos apskritis,Transportation,40,0.3785126430666059,Sector
+Klaipėdos apskritis,Consumer_Products,97,0.960377110122706,Sector
+Klaipėdos apskritis,Unassigned,64,0.5805967590926524,Sector
+Klaipėdos apskritis,Communication,2,0.804643694663702,Sector
+Klaipėdos apskritis,Trade,66,0.21522332492081087,Sector
+Klaipėdos apskritis,Business_Services,70,0.11599968683943285,Sector
+Klaipėdos apskritis,Business_Products,59,0.9487524198009468,Sector
+Klaipėdos apskritis,Construction,69,0.9868872626130631,Sector
+Klaipėdos apskritis,Services,88,0.24941052748020776,Sector
+Klaipėdos apskritis,Mining,67,0.9606421736983162,Sector
+Klaipėdos apskritis,Health_Care,29,0.10385507014073225,Sector
+Klaipėdos apskritis,EnergyExpL_Prod,28,0.3564847613012091,Sector
+Klaipėdos apskritis,Utilities,37,0.801381998674988,Sector

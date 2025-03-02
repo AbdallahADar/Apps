@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Siirt,781,0.5699280761060002,Overall
+Siirt,HiTech,71,0.008432239701937072,Sector
+Siirt,Agriculture,95,0.9541322312320143,Sector
+Siirt,Transportation,73,0.5482445910006425,Sector
+Siirt,Consumer_Products,29,0.4915369489222339,Sector
+Siirt,Unassigned,62,0.25672077023935613,Sector
+Siirt,Communication,35,0.7901278879968165,Sector
+Siirt,Trade,76,0.6840739953885393,Sector
+Siirt,Business_Services,19,0.37969692172084846,Sector
+Siirt,Business_Products,34,0.8915152786587852,Sector
+Siirt,Construction,89,0.4087574443088008,Sector
+Siirt,Services,27,0.8515934346417857,Sector
+Siirt,Mining,69,0.842661368571073,Sector
+Siirt,Health_Care,56,0.013920976783156291,Sector
+Siirt,EnergyExpL_Prod,45,0.42933238194976087,Sector
+Siirt,Utilities,1,0.9981746704742521,Sector

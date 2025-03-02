@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ardahan,672,0.5281891211902102,Overall
+Ardahan,HiTech,32,0.5205071570052262,Sector
+Ardahan,Agriculture,88,0.6054933393477705,Sector
+Ardahan,Transportation,68,0.7515544151277173,Sector
+Ardahan,Consumer_Products,62,0.8458992123952441,Sector
+Ardahan,Unassigned,66,0.7030734035524651,Sector
+Ardahan,Communication,9,0.3011587908105967,Sector
+Ardahan,Trade,51,0.5897223229407151,Sector
+Ardahan,Business_Services,51,0.06192243275478759,Sector
+Ardahan,Business_Products,12,0.400552536400142,Sector
+Ardahan,Construction,83,0.945122395015363,Sector
+Ardahan,Services,18,0.7989465794493158,Sector
+Ardahan,Mining,27,0.4283588550775299,Sector
+Ardahan,Health_Care,62,0.14416202879690143,Sector
+Ardahan,EnergyExpL_Prod,1,0.283443321507041,Sector
+Ardahan,Utilities,42,0.5429200276723358,Sector

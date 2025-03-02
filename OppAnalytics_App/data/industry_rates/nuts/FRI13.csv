@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Landes,711,0.44120197014744456,Overall
+Landes,HiTech,7,0.29649096339722436,Sector
+Landes,Agriculture,53,0.5428468851904681,Sector
+Landes,Transportation,46,0.4703584055892638,Sector
+Landes,Consumer_Products,14,0.005835315323029944,Sector
+Landes,Unassigned,72,0.11452141372662472,Sector
+Landes,Communication,40,0.7017597876145736,Sector
+Landes,Trade,27,0.09606064162478123,Sector
+Landes,Business_Services,88,0.13433843413401425,Sector
+Landes,Business_Products,2,0.3344338664741766,Sector
+Landes,Construction,43,0.8599125144833889,Sector
+Landes,Services,80,0.17682767500983376,Sector
+Landes,Mining,19,0.8082963666216889,Sector
+Landes,Health_Care,42,0.9855861316735697,Sector
+Landes,EnergyExpL_Prod,87,0.7928816098807077,Sector
+Landes,Utilities,91,0.2978795414683223,Sector

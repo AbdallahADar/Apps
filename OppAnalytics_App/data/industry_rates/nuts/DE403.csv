@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Frankfurt (Oder), Kreisfreie Stadt",997,0.5466951208479477,Overall
+"Frankfurt (Oder), Kreisfreie Stadt",HiTech,84,0.09606280358116925,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Agriculture,10,0.4101627298863305,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Transportation,4,0.3512670610097539,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Consumer_Products,46,0.9692839925453035,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Unassigned,73,0.9065057150425252,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Communication,76,0.9149323157447395,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Trade,91,0.7776496133936237,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Business_Services,93,0.9650506685662074,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Business_Products,60,0.4299661006512153,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Construction,69,0.9105673821849071,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Services,91,0.308210171991688,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Mining,62,0.2978737662874349,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Health_Care,70,0.5761310041199467,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",EnergyExpL_Prod,98,0.0815301799561019,Sector
+"Frankfurt (Oder), Kreisfreie Stadt",Utilities,70,0.20523330775826887,Sector

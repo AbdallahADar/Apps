@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Norfolk,789,0.4914527390742787,Overall
+Norfolk,HiTech,12,0.6001025196370926,Sector
+Norfolk,Agriculture,9,0.14924231034047175,Sector
+Norfolk,Transportation,58,0.4077652373885735,Sector
+Norfolk,Consumer_Products,99,0.630155405775071,Sector
+Norfolk,Unassigned,48,0.5070349722112439,Sector
+Norfolk,Communication,89,0.4516617306542623,Sector
+Norfolk,Trade,69,0.9608910904043899,Sector
+Norfolk,Business_Services,68,0.4955147860268273,Sector
+Norfolk,Business_Products,63,0.6403799056224752,Sector
+Norfolk,Construction,18,0.4140212542344148,Sector
+Norfolk,Services,87,0.40674296505355667,Sector
+Norfolk,Mining,89,0.2862269432497939,Sector
+Norfolk,Health_Care,30,0.5153701639875099,Sector
+Norfolk,EnergyExpL_Prod,0,0.5521125907587928,Sector
+Norfolk,Utilities,50,0.3545692107697044,Sector

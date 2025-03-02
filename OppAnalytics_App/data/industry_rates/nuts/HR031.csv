@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Primorsko-goranska županija,744,0.6441272949275773,Overall
+Primorsko-goranska županija,HiTech,67,0.13462526312594358,Sector
+Primorsko-goranska županija,Agriculture,87,0.8350279097013472,Sector
+Primorsko-goranska županija,Transportation,86,0.8317256633123856,Sector
+Primorsko-goranska županija,Consumer_Products,60,0.13839595264586413,Sector
+Primorsko-goranska županija,Unassigned,10,0.9178908552989898,Sector
+Primorsko-goranska županija,Communication,30,0.8140838222261161,Sector
+Primorsko-goranska županija,Trade,45,0.6958195942067669,Sector
+Primorsko-goranska županija,Business_Services,19,0.7922659513956855,Sector
+Primorsko-goranska županija,Business_Products,40,0.5793675066839015,Sector
+Primorsko-goranska županija,Construction,84,0.30475704942717197,Sector
+Primorsko-goranska županija,Services,45,0.5111993568381785,Sector
+Primorsko-goranska županija,Mining,28,0.3995846430454828,Sector
+Primorsko-goranska županija,Health_Care,7,0.9968048659216717,Sector
+Primorsko-goranska županija,EnergyExpL_Prod,87,0.8711048217383708,Sector
+Primorsko-goranska županija,Utilities,49,0.8392561683457839,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Winston,583,0.4641582037056178,Overall
+Winston,HiTech,34,0.9229970491292018,Sector
+Winston,Agriculture,69,0.5282664287440656,Sector
+Winston,Transportation,19,0.4785390966720605,Sector
+Winston,Consumer_Products,15,0.4967924608845323,Sector
+Winston,Unassigned,13,0.025420811882320815,Sector
+Winston,Communication,21,0.10305939257163454,Sector
+Winston,Trade,18,0.5054483861250094,Sector
+Winston,Business_Services,7,0.3455994386360203,Sector
+Winston,Business_Products,42,0.5303020154730422,Sector
+Winston,Construction,56,0.14021726309668658,Sector
+Winston,Services,86,0.4030657215053115,Sector
+Winston,Mining,56,0.20003100607750113,Sector
+Winston,Health_Care,5,0.6646006860934002,Sector
+Winston,EnergyExpL_Prod,95,0.9991065029983688,Sector
+Winston,Utilities,47,0.6189267956951119,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Norman,664,0.6229154689015943,Overall
+Norman,HiTech,60,0.15482890187500264,Sector
+Norman,Agriculture,0,0.49618157463384027,Sector
+Norman,Transportation,96,0.4035892686163286,Sector
+Norman,Consumer_Products,73,0.8442973144527113,Sector
+Norman,Unassigned,99,0.17818842902198295,Sector
+Norman,Communication,26,0.10349657164926285,Sector
+Norman,Trade,1,0.9507020916355824,Sector
+Norman,Business_Services,24,0.9168440616157735,Sector
+Norman,Business_Products,28,0.5703310892856287,Sector
+Norman,Construction,36,0.7769504949417213,Sector
+Norman,Services,16,0.8996046172148233,Sector
+Norman,Mining,46,0.5215380845040913,Sector
+Norman,Health_Care,24,0.7775818134797866,Sector
+Norman,EnergyExpL_Prod,88,0.7951563391377726,Sector
+Norman,Utilities,47,0.9544413814596061,Sector

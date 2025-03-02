@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Västernorrlands län,754,0.377581729827492,Overall
+Västernorrlands län,HiTech,81,0.06255810442721921,Sector
+Västernorrlands län,Agriculture,42,0.19815990266093753,Sector
+Västernorrlands län,Transportation,66,0.7837465921315406,Sector
+Västernorrlands län,Consumer_Products,73,0.1619048573963634,Sector
+Västernorrlands län,Unassigned,27,0.6471641606586175,Sector
+Västernorrlands län,Communication,62,0.6033224547173938,Sector
+Västernorrlands län,Trade,43,0.10731419107968954,Sector
+Västernorrlands län,Business_Services,19,0.5976533783433345,Sector
+Västernorrlands län,Business_Products,63,0.8075408395325897,Sector
+Västernorrlands län,Construction,32,0.4041937091021375,Sector
+Västernorrlands län,Services,44,0.42041598911667066,Sector
+Västernorrlands län,Mining,84,0.11656189626475355,Sector
+Västernorrlands län,Health_Care,28,0.43865911689108483,Sector
+Västernorrlands län,EnergyExpL_Prod,84,0.1592201247689543,Sector
+Västernorrlands län,Utilities,6,0.15531063032109294,Sector

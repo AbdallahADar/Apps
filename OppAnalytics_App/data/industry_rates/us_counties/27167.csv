@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wilkin,732,0.5825164364826717,Overall
+Wilkin,HiTech,0,0.2438551801837403,Sector
+Wilkin,Agriculture,77,0.7398963820654062,Sector
+Wilkin,Transportation,51,0.9641635306772687,Sector
+Wilkin,Consumer_Products,40,0.8102487176355148,Sector
+Wilkin,Unassigned,17,0.00011850367559196329,Sector
+Wilkin,Communication,68,0.9464815055550659,Sector
+Wilkin,Trade,49,0.9927918853450826,Sector
+Wilkin,Business_Services,88,0.008827496700873572,Sector
+Wilkin,Business_Products,41,0.07690502292571066,Sector
+Wilkin,Construction,93,0.7434474924833363,Sector
+Wilkin,Services,17,0.01836210952753048,Sector
+Wilkin,Mining,17,0.6770683683702403,Sector
+Wilkin,Health_Care,65,0.8203177050711372,Sector
+Wilkin,EnergyExpL_Prod,12,0.7966617803800353,Sector
+Wilkin,Utilities,97,0.8986008666435404,Sector

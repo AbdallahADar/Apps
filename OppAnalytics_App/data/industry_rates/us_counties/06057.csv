@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nevada,772,0.3799440032274891,Overall
+Nevada,HiTech,30,0.21289021204023262,Sector
+Nevada,Agriculture,97,0.00799482438445509,Sector
+Nevada,Transportation,73,0.9394936206237033,Sector
+Nevada,Consumer_Products,96,0.120854659251595,Sector
+Nevada,Unassigned,87,0.4630912697568941,Sector
+Nevada,Communication,44,0.6405229158187784,Sector
+Nevada,Trade,33,0.09166414479185814,Sector
+Nevada,Business_Services,67,0.47050683839444873,Sector
+Nevada,Business_Products,23,0.8870080321536067,Sector
+Nevada,Construction,9,0.4118428377641834,Sector
+Nevada,Services,7,0.2143707301175769,Sector
+Nevada,Mining,27,0.5320235452085333,Sector
+Nevada,Health_Care,63,0.39675094896052177,Sector
+Nevada,EnergyExpL_Prod,60,0.25007838040252295,Sector
+Nevada,Utilities,56,0.060067088743426034,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cerro Gordo,626,0.5807784115274356,Overall
+Cerro Gordo,HiTech,25,0.2742040047089208,Sector
+Cerro Gordo,Agriculture,16,0.6049151494580214,Sector
+Cerro Gordo,Transportation,28,0.9006352454504577,Sector
+Cerro Gordo,Consumer_Products,12,0.7283952863808028,Sector
+Cerro Gordo,Unassigned,5,0.791614786758919,Sector
+Cerro Gordo,Communication,72,0.29373814084214644,Sector
+Cerro Gordo,Trade,16,0.4233314601201621,Sector
+Cerro Gordo,Business_Services,48,0.9866047854520946,Sector
+Cerro Gordo,Business_Products,54,0.22375408353191806,Sector
+Cerro Gordo,Construction,51,0.039252096684095905,Sector
+Cerro Gordo,Services,97,0.897588901772336,Sector
+Cerro Gordo,Mining,54,0.3307597683328021,Sector
+Cerro Gordo,Health_Care,58,0.5588378043417601,Sector
+Cerro Gordo,EnergyExpL_Prod,7,0.9923232709047165,Sector
+Cerro Gordo,Utilities,83,0.6657213881723806,Sector

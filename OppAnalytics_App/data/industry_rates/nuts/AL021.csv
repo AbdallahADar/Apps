@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Elbasan,829,0.40464760444178827,Overall
+Elbasan,HiTech,11,0.9405158121482635,Sector
+Elbasan,Agriculture,55,0.16378235704258826,Sector
+Elbasan,Transportation,96,0.936792084943547,Sector
+Elbasan,Consumer_Products,52,0.06423619498267807,Sector
+Elbasan,Unassigned,23,0.6340802164811716,Sector
+Elbasan,Communication,87,0.13410459442487055,Sector
+Elbasan,Trade,0,0.37551387325247865,Sector
+Elbasan,Business_Services,93,0.1261014935100211,Sector
+Elbasan,Business_Products,73,0.8638922749299558,Sector
+Elbasan,Construction,82,0.08564328723776493,Sector
+Elbasan,Services,37,0.5476518650208949,Sector
+Elbasan,Mining,39,0.12541540839808318,Sector
+Elbasan,Health_Care,50,0.1085412236696367,Sector
+Elbasan,EnergyExpL_Prod,59,0.609769614824411,Sector
+Elbasan,Utilities,72,0.35367376576045906,Sector

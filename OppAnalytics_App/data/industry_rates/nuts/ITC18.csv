@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alessandria,590,0.5906771955766813,Overall
+Alessandria,HiTech,32,0.7459165407093263,Sector
+Alessandria,Agriculture,22,0.9288762674577045,Sector
+Alessandria,Transportation,31,0.16185140492988281,Sector
+Alessandria,Consumer_Products,3,0.9879404893100424,Sector
+Alessandria,Unassigned,24,0.7153789775780788,Sector
+Alessandria,Communication,96,0.7410639978401857,Sector
+Alessandria,Trade,4,0.9961199380369674,Sector
+Alessandria,Business_Services,46,0.09679298417044657,Sector
+Alessandria,Business_Products,52,0.9498875743701726,Sector
+Alessandria,Construction,26,0.6646175831375082,Sector
+Alessandria,Services,30,0.4009194610967477,Sector
+Alessandria,Mining,34,0.003839816576782451,Sector
+Alessandria,Health_Care,70,0.6108197435777556,Sector
+Alessandria,EnergyExpL_Prod,61,0.34940432631974094,Sector
+Alessandria,Utilities,59,0.5067288285388789,Sector

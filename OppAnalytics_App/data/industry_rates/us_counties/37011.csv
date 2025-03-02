@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Avery,694,0.4564451374346584,Overall
+Avery,HiTech,90,0.6222155105735336,Sector
+Avery,Agriculture,43,0.48229387822836123,Sector
+Avery,Transportation,19,0.8652114433645074,Sector
+Avery,Consumer_Products,24,0.395038285267189,Sector
+Avery,Unassigned,29,0.3982052261517053,Sector
+Avery,Communication,92,0.7548056846821307,Sector
+Avery,Trade,5,0.8784704524040103,Sector
+Avery,Business_Services,25,0.042117729655287595,Sector
+Avery,Business_Products,93,0.3698624139905091,Sector
+Avery,Construction,90,0.22212982999779374,Sector
+Avery,Services,19,0.4032500828995438,Sector
+Avery,Mining,23,0.10839555123861733,Sector
+Avery,Health_Care,31,0.11113102325918411,Sector
+Avery,EnergyExpL_Prod,99,0.8236226687507133,Sector
+Avery,Utilities,12,0.36992728105678985,Sector

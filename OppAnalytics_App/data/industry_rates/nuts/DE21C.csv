@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fürstenfeldbruck,688,0.5801579126458374,Overall
+Fürstenfeldbruck,HiTech,66,0.6244616375479064,Sector
+Fürstenfeldbruck,Agriculture,35,0.6142375288348249,Sector
+Fürstenfeldbruck,Transportation,53,0.11947765967157764,Sector
+Fürstenfeldbruck,Consumer_Products,62,0.25618312719814673,Sector
+Fürstenfeldbruck,Unassigned,1,0.9487885029360601,Sector
+Fürstenfeldbruck,Communication,36,0.47408955214087034,Sector
+Fürstenfeldbruck,Trade,10,0.4837719586409207,Sector
+Fürstenfeldbruck,Business_Services,39,0.482114478526271,Sector
+Fürstenfeldbruck,Business_Products,46,0.4115951217579027,Sector
+Fürstenfeldbruck,Construction,97,0.46376835260217164,Sector
+Fürstenfeldbruck,Services,71,0.5445005325523712,Sector
+Fürstenfeldbruck,Mining,34,0.8290816977648685,Sector
+Fürstenfeldbruck,Health_Care,55,0.7127227809692126,Sector
+Fürstenfeldbruck,EnergyExpL_Prod,25,0.970215004683968,Sector
+Fürstenfeldbruck,Utilities,58,0.7673607538604876,Sector

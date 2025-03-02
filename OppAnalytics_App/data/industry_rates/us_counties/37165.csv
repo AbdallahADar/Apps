@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Scotland,588,0.4236246604837179,Overall
+Scotland,HiTech,43,0.4718000609547226,Sector
+Scotland,Agriculture,46,0.2062850083710418,Sector
+Scotland,Transportation,89,0.10684533437523014,Sector
+Scotland,Consumer_Products,28,0.1630975283513102,Sector
+Scotland,Unassigned,17,0.5966633388483383,Sector
+Scotland,Communication,3,0.46712192746797365,Sector
+Scotland,Trade,77,0.7762460845872299,Sector
+Scotland,Business_Services,20,0.699284916152158,Sector
+Scotland,Business_Products,60,0.044507885575091555,Sector
+Scotland,Construction,14,0.13252373406752127,Sector
+Scotland,Services,42,0.716255545609277,Sector
+Scotland,Mining,96,0.011648341489550185,Sector
+Scotland,Health_Care,12,0.7138416418202662,Sector
+Scotland,EnergyExpL_Prod,10,0.5723949069163531,Sector
+Scotland,Utilities,31,0.6758536526697039,Sector

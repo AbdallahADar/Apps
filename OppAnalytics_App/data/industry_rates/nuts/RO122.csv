@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Braşov,587,0.5125425544869459,Overall
+Braşov,HiTech,68,0.31447014273323304,Sector
+Braşov,Agriculture,61,0.19151232658412998,Sector
+Braşov,Transportation,20,0.48173210052889825,Sector
+Braşov,Consumer_Products,18,0.5331809345435966,Sector
+Braşov,Unassigned,2,0.6031189362355142,Sector
+Braşov,Communication,25,0.23025211455523642,Sector
+Braşov,Trade,14,0.6167520077503692,Sector
+Braşov,Business_Services,72,0.31644689351173794,Sector
+Braşov,Business_Products,23,0.9933804917794199,Sector
+Braşov,Construction,52,0.40561202057231416,Sector
+Braşov,Services,63,0.6802154386799216,Sector
+Braşov,Mining,59,0.3424375357158138,Sector
+Braşov,Health_Care,37,0.8062093100433451,Sector
+Braşov,EnergyExpL_Prod,20,0.7700466222862348,Sector
+Braşov,Utilities,53,0.4027714417844236,Sector

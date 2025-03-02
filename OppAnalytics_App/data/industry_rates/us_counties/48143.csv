@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Erath,660,0.5811764728876755,Overall
+Erath,HiTech,77,0.7508846217032749,Sector
+Erath,Agriculture,50,0.8539173146492113,Sector
+Erath,Transportation,30,0.9452903469585882,Sector
+Erath,Consumer_Products,99,0.9202083539983206,Sector
+Erath,Unassigned,26,0.5183064565303132,Sector
+Erath,Communication,48,0.6477914939371139,Sector
+Erath,Trade,4,0.10974827337264903,Sector
+Erath,Business_Services,26,0.38388165521672,Sector
+Erath,Business_Products,12,0.402023511379498,Sector
+Erath,Construction,30,0.10937451553092936,Sector
+Erath,Services,5,0.9149511952852624,Sector
+Erath,Mining,61,0.9078479744800475,Sector
+Erath,Health_Care,77,0.19581139269212477,Sector
+Erath,EnergyExpL_Prod,84,0.7590959436567533,Sector
+Erath,Utilities,31,0.29851404392432856,Sector

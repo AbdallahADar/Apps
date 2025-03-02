@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alexander,725,0.5846625049889252,Overall
+Alexander,HiTech,50,0.7750757057773816,Sector
+Alexander,Agriculture,14,0.09221054935813311,Sector
+Alexander,Transportation,13,0.881434780154838,Sector
+Alexander,Consumer_Products,74,0.8196278543115271,Sector
+Alexander,Unassigned,48,0.772006707027277,Sector
+Alexander,Communication,72,0.6254560723944813,Sector
+Alexander,Trade,77,0.23396175212927983,Sector
+Alexander,Business_Services,8,0.7843313907297451,Sector
+Alexander,Business_Products,18,0.9129425992173632,Sector
+Alexander,Construction,84,0.6696546520638871,Sector
+Alexander,Services,48,0.6783702579907446,Sector
+Alexander,Mining,38,0.10115890678217587,Sector
+Alexander,Health_Care,72,0.7483347665986703,Sector
+Alexander,EnergyExpL_Prod,96,0.14035979816237987,Sector
+Alexander,Utilities,13,0.5350117821359962,Sector

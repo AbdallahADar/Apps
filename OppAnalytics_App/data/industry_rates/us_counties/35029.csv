@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Luna,746,0.5330386242725467,Overall
+Luna,HiTech,88,0.31019237278202794,Sector
+Luna,Agriculture,20,0.27767366834304896,Sector
+Luna,Transportation,25,0.5037099111085898,Sector
+Luna,Consumer_Products,66,0.0566020202373988,Sector
+Luna,Unassigned,15,0.18539279980324763,Sector
+Luna,Communication,43,0.6390952130288347,Sector
+Luna,Trade,83,0.68477855592624,Sector
+Luna,Business_Services,32,0.6040579478908374,Sector
+Luna,Business_Products,22,0.7270123094388536,Sector
+Luna,Construction,89,0.7260360280931438,Sector
+Luna,Services,28,0.9976787634029329,Sector
+Luna,Mining,12,0.5166398557906587,Sector
+Luna,Health_Care,94,0.892987730744053,Sector
+Luna,EnergyExpL_Prod,95,0.30855225038988876,Sector
+Luna,Utilities,34,0.5651699371084439,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Muskegon,815,0.3744228555790065,Overall
+Muskegon,HiTech,87,0.2040130154201628,Sector
+Muskegon,Agriculture,74,0.056506504638658694,Sector
+Muskegon,Transportation,5,0.19495740172162357,Sector
+Muskegon,Consumer_Products,93,0.8251040324257278,Sector
+Muskegon,Unassigned,11,0.0770757261052969,Sector
+Muskegon,Communication,4,0.22477118187320122,Sector
+Muskegon,Trade,60,0.008069118572546219,Sector
+Muskegon,Business_Services,43,0.9689864602949338,Sector
+Muskegon,Business_Products,55,0.5777568280098736,Sector
+Muskegon,Construction,99,0.4512942347548108,Sector
+Muskegon,Services,23,0.34176577589716584,Sector
+Muskegon,Mining,77,0.5674884629988114,Sector
+Muskegon,Health_Care,57,0.22614864554476288,Sector
+Muskegon,EnergyExpL_Prod,76,0.2516800276155621,Sector
+Muskegon,Utilities,51,0.6407254178119595,Sector

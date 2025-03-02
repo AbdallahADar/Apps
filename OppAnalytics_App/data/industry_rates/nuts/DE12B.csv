@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Enzkreis,843,0.42089540474585274,Overall
+Enzkreis,HiTech,28,0.829542962201301,Sector
+Enzkreis,Agriculture,73,0.8226081707224066,Sector
+Enzkreis,Transportation,81,0.14696643835110823,Sector
+Enzkreis,Consumer_Products,36,0.0967028257629996,Sector
+Enzkreis,Unassigned,34,0.2517853124268651,Sector
+Enzkreis,Communication,82,0.06929013286313479,Sector
+Enzkreis,Trade,14,0.8418968193634149,Sector
+Enzkreis,Business_Services,21,0.22602406555237642,Sector
+Enzkreis,Business_Products,24,0.42851689530655823,Sector
+Enzkreis,Construction,63,0.2317841861157932,Sector
+Enzkreis,Services,88,0.8886801833428296,Sector
+Enzkreis,Mining,64,0.30448752581099614,Sector
+Enzkreis,Health_Care,98,0.1966606239977755,Sector
+Enzkreis,EnergyExpL_Prod,77,0.08447839660547063,Sector
+Enzkreis,Utilities,60,0.8940065327647608,Sector

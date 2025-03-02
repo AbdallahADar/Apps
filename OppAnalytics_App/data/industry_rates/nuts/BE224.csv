@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Hasselt,672,0.500287204344847,Overall
+Arr. Hasselt,HiTech,67,0.05227649564418313,Sector
+Arr. Hasselt,Agriculture,40,0.5601355901220584,Sector
+Arr. Hasselt,Transportation,50,0.6851545401006585,Sector
+Arr. Hasselt,Consumer_Products,93,0.1763212627149039,Sector
+Arr. Hasselt,Unassigned,97,0.33094350665010286,Sector
+Arr. Hasselt,Communication,28,0.5642806406624052,Sector
+Arr. Hasselt,Trade,17,0.8786027114638462,Sector
+Arr. Hasselt,Business_Services,11,0.603130987368619,Sector
+Arr. Hasselt,Business_Products,1,0.9258725819367344,Sector
+Arr. Hasselt,Construction,90,0.5362698861478206,Sector
+Arr. Hasselt,Services,23,0.31521796916088074,Sector
+Arr. Hasselt,Mining,72,0.0454230512982321,Sector
+Arr. Hasselt,Health_Care,5,0.9536900294485052,Sector
+Arr. Hasselt,EnergyExpL_Prod,41,0.5490110835984068,Sector
+Arr. Hasselt,Utilities,37,0.3279777288553479,Sector

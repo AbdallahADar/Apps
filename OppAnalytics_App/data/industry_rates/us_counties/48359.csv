@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oldham,639,0.48810438227482983,Overall
+Oldham,HiTech,84,0.25204176944388645,Sector
+Oldham,Agriculture,89,0.6336018450763701,Sector
+Oldham,Transportation,44,0.018057774139984772,Sector
+Oldham,Consumer_Products,45,0.8988767575334636,Sector
+Oldham,Unassigned,77,0.2658162628865032,Sector
+Oldham,Communication,51,0.3665793114890795,Sector
+Oldham,Trade,19,0.13734489411512407,Sector
+Oldham,Business_Services,16,0.5459242888742931,Sector
+Oldham,Business_Products,70,0.8255960440399795,Sector
+Oldham,Construction,12,0.8100744828201103,Sector
+Oldham,Services,18,0.7346637642285351,Sector
+Oldham,Mining,4,0.4908863459700804,Sector
+Oldham,Health_Care,16,0.46480939050004677,Sector
+Oldham,EnergyExpL_Prod,20,0.044565445273051285,Sector
+Oldham,Utilities,74,0.8327273577319398,Sector

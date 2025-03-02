@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,St. Louis,765,0.5571978394812628,Overall
+St. Louis,HiTech,55,0.21795856703664573,Sector
+St. Louis,Agriculture,77,0.7203636451072035,Sector
+St. Louis,Transportation,8,0.5977294264687052,Sector
+St. Louis,Consumer_Products,32,0.040765137549154784,Sector
+St. Louis,Unassigned,39,0.8915584883389777,Sector
+St. Louis,Communication,30,0.18533146096204245,Sector
+St. Louis,Trade,79,0.23528958886525408,Sector
+St. Louis,Business_Services,82,0.9364400414299774,Sector
+St. Louis,Business_Products,95,0.3349188376511536,Sector
+St. Louis,Construction,37,0.873235786761312,Sector
+St. Louis,Services,25,0.6858157640408529,Sector
+St. Louis,Mining,51,0.7777789685788573,Sector
+St. Louis,Health_Care,16,0.6859417251391605,Sector
+St. Louis,EnergyExpL_Prod,87,0.744181061335153,Sector
+St. Louis,Utilities,52,0.4306590929544898,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Edgar,731,0.4711205401947542,Overall
+Edgar,HiTech,44,0.8067388438181204,Sector
+Edgar,Agriculture,83,0.6455036594245782,Sector
+Edgar,Transportation,97,0.8561559960252476,Sector
+Edgar,Consumer_Products,10,0.16392368838849203,Sector
+Edgar,Unassigned,93,0.9630620299928377,Sector
+Edgar,Communication,14,0.22737759977876382,Sector
+Edgar,Trade,32,0.24770625728291062,Sector
+Edgar,Business_Services,33,0.27761731285206226,Sector
+Edgar,Business_Products,61,0.55275587202164,Sector
+Edgar,Construction,48,0.6415322280195022,Sector
+Edgar,Services,63,0.06923364567272083,Sector
+Edgar,Mining,8,0.1270123668332338,Sector
+Edgar,Health_Care,71,0.9605564705462588,Sector
+Edgar,EnergyExpL_Prod,61,0.020182308638424518,Sector
+Edgar,Utilities,13,0.5074498236265208,Sector

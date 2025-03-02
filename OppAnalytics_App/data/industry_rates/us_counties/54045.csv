@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Logan,686,0.4543870966537531,Overall
+Logan,HiTech,31,0.03295216665255385,Sector
+Logan,Agriculture,52,0.12712922048350617,Sector
+Logan,Transportation,17,0.6547897765901319,Sector
+Logan,Consumer_Products,27,0.6987544013026803,Sector
+Logan,Unassigned,35,0.047530801808369216,Sector
+Logan,Communication,83,0.40008397744395596,Sector
+Logan,Trade,18,0.3144374471360337,Sector
+Logan,Business_Services,87,0.7199227570535536,Sector
+Logan,Business_Products,55,0.7448622109000965,Sector
+Logan,Construction,72,0.7555479756134588,Sector
+Logan,Services,45,0.4018020231817552,Sector
+Logan,Mining,20,0.23178777288329833,Sector
+Logan,Health_Care,35,0.9772311112074299,Sector
+Logan,EnergyExpL_Prod,96,0.24023201912814574,Sector
+Logan,Utilities,13,0.4687427884213269,Sector

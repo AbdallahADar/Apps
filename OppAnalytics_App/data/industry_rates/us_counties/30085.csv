@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Roosevelt,827,0.5516059097141432,Overall
+Roosevelt,HiTech,12,0.7942610371749033,Sector
+Roosevelt,Agriculture,90,0.7234685684679008,Sector
+Roosevelt,Transportation,92,0.9642643161093907,Sector
+Roosevelt,Consumer_Products,78,0.0855804118778909,Sector
+Roosevelt,Unassigned,90,0.5102468480307508,Sector
+Roosevelt,Communication,59,0.8630110821176715,Sector
+Roosevelt,Trade,74,0.9020821127087795,Sector
+Roosevelt,Business_Services,41,0.24663105735572854,Sector
+Roosevelt,Business_Products,58,0.49437443225848565,Sector
+Roosevelt,Construction,73,0.37924033056014217,Sector
+Roosevelt,Services,80,0.6335460821850565,Sector
+Roosevelt,Mining,29,0.03872004179009758,Sector
+Roosevelt,Health_Care,23,0.6832980162995306,Sector
+Roosevelt,EnergyExpL_Prod,5,0.5305521697664574,Sector
+Roosevelt,Utilities,23,0.424812139009365,Sector

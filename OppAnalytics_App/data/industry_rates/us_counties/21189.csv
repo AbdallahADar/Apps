@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Owsley,724,0.4387261908641394,Overall
+Owsley,HiTech,72,0.6361275752850452,Sector
+Owsley,Agriculture,19,0.31318430986376944,Sector
+Owsley,Transportation,21,0.34326625580866443,Sector
+Owsley,Consumer_Products,15,0.6722520734630353,Sector
+Owsley,Unassigned,7,0.5240228709328888,Sector
+Owsley,Communication,99,0.08261826514600157,Sector
+Owsley,Trade,59,0.2641705290249218,Sector
+Owsley,Business_Services,40,0.7855068296102959,Sector
+Owsley,Business_Products,24,0.17534939827845064,Sector
+Owsley,Construction,92,0.17466929515698493,Sector
+Owsley,Services,35,0.30720300511497967,Sector
+Owsley,Mining,56,0.9921689933856269,Sector
+Owsley,Health_Care,88,0.37851281733084874,Sector
+Owsley,EnergyExpL_Prod,92,0.005631489670126721,Sector
+Owsley,Utilities,5,0.9262091548904511,Sector

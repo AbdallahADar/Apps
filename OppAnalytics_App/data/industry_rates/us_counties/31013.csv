@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Box Butte,688,0.55529822246632,Overall
+Box Butte,HiTech,23,0.08971327122249906,Sector
+Box Butte,Agriculture,53,0.05042485434910615,Sector
+Box Butte,Transportation,29,0.8713003795169595,Sector
+Box Butte,Consumer_Products,68,0.2942830202808042,Sector
+Box Butte,Unassigned,34,0.8727139083736686,Sector
+Box Butte,Communication,59,0.8752376592427233,Sector
+Box Butte,Trade,48,0.9309285066031862,Sector
+Box Butte,Business_Services,27,0.3808231846296558,Sector
+Box Butte,Business_Products,15,0.32223851973054163,Sector
+Box Butte,Construction,28,0.8633426147694767,Sector
+Box Butte,Services,90,0.10942496247671119,Sector
+Box Butte,Mining,63,0.6648610381198702,Sector
+Box Butte,Health_Care,6,0.8160685819210428,Sector
+Box Butte,EnergyExpL_Prod,88,0.27134498025986586,Sector
+Box Butte,Utilities,57,0.9167678554986882,Sector

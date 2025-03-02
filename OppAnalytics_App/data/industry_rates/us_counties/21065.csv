@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Estill,870,0.40399734876096527,Overall
+Estill,HiTech,97,0.7787881110454741,Sector
+Estill,Agriculture,97,0.011445746311292693,Sector
+Estill,Transportation,71,0.4810968605245788,Sector
+Estill,Consumer_Products,25,0.18806922784018865,Sector
+Estill,Unassigned,30,0.39637777915570094,Sector
+Estill,Communication,66,0.7984707358018952,Sector
+Estill,Trade,93,0.1892481985920086,Sector
+Estill,Business_Services,15,0.7478422771663562,Sector
+Estill,Business_Products,54,0.47227448491789914,Sector
+Estill,Construction,59,0.11380140114914628,Sector
+Estill,Services,99,0.7921306407723707,Sector
+Estill,Mining,47,0.27003888939844123,Sector
+Estill,Health_Care,43,0.26574756087635265,Sector
+Estill,EnergyExpL_Prod,10,0.4598893988777407,Sector
+Estill,Utilities,64,0.09473891898503262,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tom Green,782,0.635100133879803,Overall
+Tom Green,HiTech,78,0.9656522199591443,Sector
+Tom Green,Agriculture,93,0.8549192118112401,Sector
+Tom Green,Transportation,72,0.6562088189590026,Sector
+Tom Green,Consumer_Products,76,0.3442289419179966,Sector
+Tom Green,Unassigned,9,0.45516980855064837,Sector
+Tom Green,Communication,44,0.6842054005098327,Sector
+Tom Green,Trade,80,0.7013192389766005,Sector
+Tom Green,Business_Services,0,0.7340128930478503,Sector
+Tom Green,Business_Products,49,0.7615349297150108,Sector
+Tom Green,Construction,8,0.8122648491006482,Sector
+Tom Green,Services,92,0.08947303803580242,Sector
+Tom Green,Mining,32,0.7777539827820974,Sector
+Tom Green,Health_Care,61,0.8830617010591405,Sector
+Tom Green,EnergyExpL_Prod,44,0.3728111976352644,Sector
+Tom Green,Utilities,44,0.43388577613676516,Sector

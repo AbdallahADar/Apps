@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hancock,610,0.38762362084958796,Overall
+Hancock,HiTech,31,0.9095641883493673,Sector
+Hancock,Agriculture,36,0.6481385005798656,Sector
+Hancock,Transportation,6,0.08363931220796539,Sector
+Hancock,Consumer_Products,79,0.16462404107512618,Sector
+Hancock,Unassigned,54,0.4695661847947388,Sector
+Hancock,Communication,13,0.24796218914499557,Sector
+Hancock,Trade,54,0.6857935431757736,Sector
+Hancock,Business_Services,44,0.20760707680820156,Sector
+Hancock,Business_Products,73,0.4821959576576915,Sector
+Hancock,Construction,64,0.050017793006591704,Sector
+Hancock,Services,19,0.673124768047862,Sector
+Hancock,Mining,9,0.14877657161870872,Sector
+Hancock,Health_Care,26,0.20425996026093884,Sector
+Hancock,EnergyExpL_Prod,17,0.8190597647219436,Sector
+Hancock,Utilities,85,0.020024461294048446,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hajdú-Bihar,742,0.548695958165277,Overall
+Hajdú-Bihar,HiTech,5,0.7731293989145224,Sector
+Hajdú-Bihar,Agriculture,3,0.9178226249823459,Sector
+Hajdú-Bihar,Transportation,51,0.5140200245809016,Sector
+Hajdú-Bihar,Consumer_Products,92,0.9153364422971392,Sector
+Hajdú-Bihar,Unassigned,50,0.9389072141303609,Sector
+Hajdú-Bihar,Communication,79,0.35194617412042906,Sector
+Hajdú-Bihar,Trade,94,0.515796872863192,Sector
+Hajdú-Bihar,Business_Services,66,0.09656024915800432,Sector
+Hajdú-Bihar,Business_Products,2,0.9683367181423922,Sector
+Hajdú-Bihar,Construction,46,0.9461999489720286,Sector
+Hajdú-Bihar,Services,82,0.008951663703112067,Sector
+Hajdú-Bihar,Mining,79,0.4283265855849321,Sector
+Hajdú-Bihar,Health_Care,70,0.030192909826173175,Sector
+Hajdú-Bihar,EnergyExpL_Prod,22,0.5704226883075395,Sector
+Hajdú-Bihar,Utilities,1,0.2544898568960825,Sector

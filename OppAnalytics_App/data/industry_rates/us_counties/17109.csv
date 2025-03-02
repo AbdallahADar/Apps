@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McDonough,503,0.6238088301545013,Overall
+McDonough,HiTech,42,0.8869288008240382,Sector
+McDonough,Agriculture,28,0.13816081949256187,Sector
+McDonough,Transportation,62,0.3799750484077613,Sector
+McDonough,Consumer_Products,46,0.6254864581700293,Sector
+McDonough,Unassigned,36,0.24603660285688345,Sector
+McDonough,Communication,28,0.9814302984125668,Sector
+McDonough,Trade,14,0.5573580031378215,Sector
+McDonough,Business_Services,99,0.7079303007236332,Sector
+McDonough,Business_Products,2,0.978589804406794,Sector
+McDonough,Construction,32,0.1951323664447,Sector
+McDonough,Services,6,0.9091601490059193,Sector
+McDonough,Mining,13,0.6849835378970739,Sector
+McDonough,Health_Care,50,0.7875233602988241,Sector
+McDonough,EnergyExpL_Prod,20,0.8597789256543544,Sector
+McDonough,Utilities,25,0.4186579765845543,Sector

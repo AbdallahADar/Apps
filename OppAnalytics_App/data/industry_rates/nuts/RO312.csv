@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Călăraşi,578,0.6784480937255251,Overall
+Călăraşi,HiTech,79,0.596785821828403,Sector
+Călăraşi,Agriculture,69,0.6393670110785534,Sector
+Călăraşi,Transportation,37,0.5484812861395736,Sector
+Călăraşi,Consumer_Products,63,0.9023131162695989,Sector
+Călăraşi,Unassigned,26,0.6818603480677418,Sector
+Călăraşi,Communication,1,0.7204135648930463,Sector
+Călăraşi,Trade,56,0.825328182155941,Sector
+Călăraşi,Business_Services,7,0.5696634525716887,Sector
+Călăraşi,Business_Products,61,0.46788628992098835,Sector
+Călăraşi,Construction,2,0.5728222989946743,Sector
+Călăraşi,Services,97,0.9844208411843385,Sector
+Călăraşi,Mining,2,0.521389329525405,Sector
+Călăraşi,Health_Care,9,0.6812714134974722,Sector
+Călăraşi,EnergyExpL_Prod,33,0.7165205620494158,Sector
+Călăraşi,Utilities,36,0.7481978877060359,Sector

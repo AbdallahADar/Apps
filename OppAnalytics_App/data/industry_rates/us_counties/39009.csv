@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Athens,708,0.26542371004120385,Overall
+Athens,HiTech,90,0.20940583477832242,Sector
+Athens,Agriculture,39,0.2580898014769092,Sector
+Athens,Transportation,21,0.3420109527188059,Sector
+Athens,Consumer_Products,38,0.5207634012208953,Sector
+Athens,Unassigned,19,0.16729210366267333,Sector
+Athens,Communication,63,0.2083440402895781,Sector
+Athens,Trade,4,0.12685660077251415,Sector
+Athens,Business_Services,26,0.2884306495280228,Sector
+Athens,Business_Products,35,0.029257944860215712,Sector
+Athens,Construction,31,0.5802069038924097,Sector
+Athens,Services,78,0.35547257990089853,Sector
+Athens,Mining,60,0.23993635372372946,Sector
+Athens,Health_Care,65,0.13191522669708922,Sector
+Athens,EnergyExpL_Prod,59,0.22375951989228637,Sector
+Athens,Utilities,80,0.2996137372037072,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Huelva,815,0.42358309336531824,Overall
+Huelva,HiTech,42,0.16246849240586525,Sector
+Huelva,Agriculture,4,0.8116611479921627,Sector
+Huelva,Transportation,29,0.06875604731482987,Sector
+Huelva,Consumer_Products,32,0.48876484088949324,Sector
+Huelva,Unassigned,32,0.21277324601531022,Sector
+Huelva,Communication,64,0.2509821678701961,Sector
+Huelva,Trade,99,0.3032473428757244,Sector
+Huelva,Business_Services,96,0.40864553364205236,Sector
+Huelva,Business_Products,87,0.6893733331080991,Sector
+Huelva,Construction,95,0.83395096662309,Sector
+Huelva,Services,5,0.2964425780086175,Sector
+Huelva,Mining,43,0.7783059539025444,Sector
+Huelva,Health_Care,77,0.4012231206570481,Sector
+Huelva,EnergyExpL_Prod,21,0.3198209117190415,Sector
+Huelva,Utilities,89,0.3273307174556995,Sector

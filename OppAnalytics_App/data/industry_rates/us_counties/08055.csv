@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Huerfano,685,0.3764138858803628,Overall
+Huerfano,HiTech,0,0.03722218387821752,Sector
+Huerfano,Agriculture,40,0.6882621068411651,Sector
+Huerfano,Transportation,43,0.09986761994783289,Sector
+Huerfano,Consumer_Products,39,0.5716432661646327,Sector
+Huerfano,Unassigned,99,0.030741801022851956,Sector
+Huerfano,Communication,57,0.09787935329558461,Sector
+Huerfano,Trade,52,0.20392421626832735,Sector
+Huerfano,Business_Services,55,0.23893175846924775,Sector
+Huerfano,Business_Products,37,0.4224367240747967,Sector
+Huerfano,Construction,45,0.5342492780442037,Sector
+Huerfano,Services,40,0.4036851948085004,Sector
+Huerfano,Mining,4,0.7141162340395122,Sector
+Huerfano,Health_Care,89,0.8204074644585962,Sector
+Huerfano,EnergyExpL_Prod,27,0.5744291505748109,Sector
+Huerfano,Utilities,58,0.20841193631716137,Sector

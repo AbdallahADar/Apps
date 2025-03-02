@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hooker,1005,0.5383148076795533,Overall
+Hooker,HiTech,56,0.0937278456854077,Sector
+Hooker,Agriculture,19,0.6774855700542697,Sector
+Hooker,Transportation,85,0.41550361894100096,Sector
+Hooker,Consumer_Products,82,0.8696963896988287,Sector
+Hooker,Unassigned,8,0.3553617060471723,Sector
+Hooker,Communication,18,0.4008217652972845,Sector
+Hooker,Trade,92,0.9453291420807803,Sector
+Hooker,Business_Services,92,0.299250291907066,Sector
+Hooker,Business_Products,78,0.8557927329827757,Sector
+Hooker,Construction,51,0.5892164201792925,Sector
+Hooker,Services,59,0.3505946044055276,Sector
+Hooker,Mining,89,0.6138369646207337,Sector
+Hooker,Health_Care,90,0.8806039240036752,Sector
+Hooker,EnergyExpL_Prod,96,0.17870843345918264,Sector
+Hooker,Utilities,90,0.5487927058303029,Sector

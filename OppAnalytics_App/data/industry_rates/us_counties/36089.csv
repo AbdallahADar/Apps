@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,St. Lawrence,761,0.5105374048950165,Overall
+St. Lawrence,HiTech,32,0.30613532334379423,Sector
+St. Lawrence,Agriculture,64,0.8400475344043253,Sector
+St. Lawrence,Transportation,59,0.6426417499917342,Sector
+St. Lawrence,Consumer_Products,78,0.025230908389003104,Sector
+St. Lawrence,Unassigned,73,0.44399859405900655,Sector
+St. Lawrence,Communication,34,0.6866941402927996,Sector
+St. Lawrence,Trade,49,0.9030720584860473,Sector
+St. Lawrence,Business_Services,59,0.38952353103583714,Sector
+St. Lawrence,Business_Products,77,0.7183835065970126,Sector
+St. Lawrence,Construction,47,0.04643043161377569,Sector
+St. Lawrence,Services,30,0.1116876375048278,Sector
+St. Lawrence,Mining,48,0.5401106398480874,Sector
+St. Lawrence,Health_Care,25,0.5175043285044584,Sector
+St. Lawrence,EnergyExpL_Prod,35,0.8144193752403782,Sector
+St. Lawrence,Utilities,51,0.6721813141141605,Sector

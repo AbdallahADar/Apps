@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pickett,589,0.37986844880492815,Overall
+Pickett,HiTech,75,0.7349377651396218,Sector
+Pickett,Agriculture,19,0.020706122268070337,Sector
+Pickett,Transportation,37,0.2287632498530846,Sector
+Pickett,Consumer_Products,4,0.11244191738922948,Sector
+Pickett,Unassigned,91,0.3950337819976292,Sector
+Pickett,Communication,42,0.17286862367752653,Sector
+Pickett,Trade,19,0.049109252505980416,Sector
+Pickett,Business_Services,71,0.7593721614141082,Sector
+Pickett,Business_Products,10,0.589380165268663,Sector
+Pickett,Construction,4,0.6050767894424891,Sector
+Pickett,Services,11,0.13479926086275495,Sector
+Pickett,Mining,65,0.19887371796878062,Sector
+Pickett,Health_Care,52,0.4837291887743056,Sector
+Pickett,EnergyExpL_Prod,49,0.7488535028222968,Sector
+Pickett,Utilities,40,0.46408123268938095,Sector

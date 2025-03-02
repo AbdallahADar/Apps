@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Trabzon,779,0.4662626496887098,Overall
+Trabzon,HiTech,33,0.5558798423613459,Sector
+Trabzon,Agriculture,73,0.313763979988799,Sector
+Trabzon,Transportation,67,0.26063955928419014,Sector
+Trabzon,Consumer_Products,33,0.38542486259588926,Sector
+Trabzon,Unassigned,41,0.24110976787763938,Sector
+Trabzon,Communication,34,0.12810394617992527,Sector
+Trabzon,Trade,91,0.3378118717973849,Sector
+Trabzon,Business_Services,37,0.8648682278896617,Sector
+Trabzon,Business_Products,79,0.5662369755745393,Sector
+Trabzon,Construction,12,0.607704296604561,Sector
+Trabzon,Services,86,0.353341989098127,Sector
+Trabzon,Mining,62,0.7032371981466121,Sector
+Trabzon,Health_Care,10,0.6257674300559551,Sector
+Trabzon,EnergyExpL_Prod,55,0.7134539808988097,Sector
+Trabzon,Utilities,66,0.33659581697720664,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arezzo,880,0.6038369331759156,Overall
+Arezzo,HiTech,29,0.8518157263845729,Sector
+Arezzo,Agriculture,12,0.6777997955307212,Sector
+Arezzo,Transportation,79,0.40324929321084413,Sector
+Arezzo,Consumer_Products,98,0.9674404885462993,Sector
+Arezzo,Unassigned,58,0.9116731894567324,Sector
+Arezzo,Communication,84,0.6748277317479104,Sector
+Arezzo,Trade,75,0.7107736548406328,Sector
+Arezzo,Business_Services,85,0.8730676337903093,Sector
+Arezzo,Business_Products,78,0.34096749489743017,Sector
+Arezzo,Construction,96,0.9250483151364091,Sector
+Arezzo,Services,31,0.4046039299561557,Sector
+Arezzo,Mining,60,0.9000221330788044,Sector
+Arezzo,Health_Care,17,0.1238786485287311,Sector
+Arezzo,EnergyExpL_Prod,72,0.266315947644037,Sector
+Arezzo,Utilities,6,0.026070014889142512,Sector

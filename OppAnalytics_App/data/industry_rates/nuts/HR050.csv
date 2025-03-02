@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Grad Zagreb,820,0.47207338744186367,Overall
+Grad Zagreb,HiTech,84,0.5951129954024831,Sector
+Grad Zagreb,Agriculture,71,0.2553256938603268,Sector
+Grad Zagreb,Transportation,6,0.945422736834949,Sector
+Grad Zagreb,Consumer_Products,96,0.1901262748035939,Sector
+Grad Zagreb,Unassigned,92,0.5044632385445628,Sector
+Grad Zagreb,Communication,3,0.3779460568670606,Sector
+Grad Zagreb,Trade,2,0.0960122839923383,Sector
+Grad Zagreb,Business_Services,20,0.3434954637984602,Sector
+Grad Zagreb,Business_Products,93,0.16404742171562658,Sector
+Grad Zagreb,Construction,77,0.8610390109556411,Sector
+Grad Zagreb,Services,73,0.5638252998120893,Sector
+Grad Zagreb,Mining,25,0.33687384308399115,Sector
+Grad Zagreb,Health_Care,9,0.6687240243068278,Sector
+Grad Zagreb,EnergyExpL_Prod,86,0.3720142003960938,Sector
+Grad Zagreb,Utilities,83,0.8066722672539117,Sector

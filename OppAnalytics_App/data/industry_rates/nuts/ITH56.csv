@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ferrara,783,0.491225141981228,Overall
+Ferrara,HiTech,18,0.9543382478764184,Sector
+Ferrara,Agriculture,99,0.3449205052500427,Sector
+Ferrara,Transportation,51,0.5143450417735081,Sector
+Ferrara,Consumer_Products,21,0.8642202091302656,Sector
+Ferrara,Unassigned,75,0.8562048564984878,Sector
+Ferrara,Communication,70,0.08369353735705243,Sector
+Ferrara,Trade,94,0.5866690103474481,Sector
+Ferrara,Business_Services,33,0.49206253828630286,Sector
+Ferrara,Business_Products,55,0.11371494995061804,Sector
+Ferrara,Construction,4,0.6997233200489881,Sector
+Ferrara,Services,52,0.322319547813708,Sector
+Ferrara,Mining,75,0.23279016829140775,Sector
+Ferrara,Health_Care,69,0.5446111643111254,Sector
+Ferrara,EnergyExpL_Prod,13,0.1838482533320428,Sector
+Ferrara,Utilities,54,0.5749157794510052,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vanderburgh,867,0.4047294798324115,Overall
+Vanderburgh,HiTech,55,0.2652635964568498,Sector
+Vanderburgh,Agriculture,28,0.49809653239405716,Sector
+Vanderburgh,Transportation,91,0.5370347808319159,Sector
+Vanderburgh,Consumer_Products,34,0.8722972703856131,Sector
+Vanderburgh,Unassigned,19,0.027275761906043527,Sector
+Vanderburgh,Communication,54,0.4276360273006544,Sector
+Vanderburgh,Trade,84,0.5494004301705427,Sector
+Vanderburgh,Business_Services,21,0.5395299051493865,Sector
+Vanderburgh,Business_Products,56,0.19396304774048012,Sector
+Vanderburgh,Construction,95,0.2937435294234936,Sector
+Vanderburgh,Services,71,0.21496696781654467,Sector
+Vanderburgh,Mining,71,0.4896003172929163,Sector
+Vanderburgh,Health_Care,82,0.9145260672978448,Sector
+Vanderburgh,EnergyExpL_Prod,23,0.19653382226227734,Sector
+Vanderburgh,Utilities,83,0.051074141057552036,Sector

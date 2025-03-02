@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Prince William,853,0.4286325331580279,Overall
+Prince William,HiTech,90,0.4869429468311859,Sector
+Prince William,Agriculture,22,0.15914058635582307,Sector
+Prince William,Transportation,33,0.08016367322535234,Sector
+Prince William,Consumer_Products,23,0.2510034480226234,Sector
+Prince William,Unassigned,73,0.24735737327094076,Sector
+Prince William,Communication,40,0.9932015035729738,Sector
+Prince William,Trade,98,0.5633942312080307,Sector
+Prince William,Business_Services,23,0.10724128130314603,Sector
+Prince William,Business_Products,42,0.7331718197913271,Sector
+Prince William,Construction,87,0.0475605077783936,Sector
+Prince William,Services,35,0.3722501772078928,Sector
+Prince William,Mining,78,0.7736654791334683,Sector
+Prince William,Health_Care,95,0.5475905578974791,Sector
+Prince William,EnergyExpL_Prod,54,0.6654607617978617,Sector
+Prince William,Utilities,60,0.4013436499739196,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fisher,791,0.5278412315634963,Overall
+Fisher,HiTech,1,0.028143018592003077,Sector
+Fisher,Agriculture,15,0.2811928118613827,Sector
+Fisher,Transportation,37,0.4762175579125313,Sector
+Fisher,Consumer_Products,64,0.04390985003691805,Sector
+Fisher,Unassigned,45,0.17090040734610934,Sector
+Fisher,Communication,99,0.48879104106768567,Sector
+Fisher,Trade,76,0.6167291801884723,Sector
+Fisher,Business_Services,77,0.8758899532585552,Sector
+Fisher,Business_Products,11,0.805198172534091,Sector
+Fisher,Construction,61,0.3105962787436727,Sector
+Fisher,Services,74,0.7017884005417931,Sector
+Fisher,Mining,87,0.814841340136124,Sector
+Fisher,Health_Care,96,0.6410034374036141,Sector
+Fisher,EnergyExpL_Prod,15,0.802973048063684,Sector
+Fisher,Utilities,33,0.8594439757658073,Sector

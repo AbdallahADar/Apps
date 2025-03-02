@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Crowley,711,0.4148111655933774,Overall
+Crowley,HiTech,82,0.965372121107771,Sector
+Crowley,Agriculture,16,0.8005502591789347,Sector
+Crowley,Transportation,99,0.13598957870602546,Sector
+Crowley,Consumer_Products,91,0.5286907614993201,Sector
+Crowley,Unassigned,15,0.1470365236572655,Sector
+Crowley,Communication,1,0.029083962832964994,Sector
+Crowley,Trade,90,0.152519462945215,Sector
+Crowley,Business_Services,85,0.3651069240347885,Sector
+Crowley,Business_Products,29,0.5156018760681057,Sector
+Crowley,Construction,82,0.1742272418320424,Sector
+Crowley,Services,15,0.9919438345643233,Sector
+Crowley,Mining,23,0.6913802509824974,Sector
+Crowley,Health_Care,22,0.3898727331205575,Sector
+Crowley,EnergyExpL_Prod,33,0.21533665027152282,Sector
+Crowley,Utilities,28,0.11945530309932595,Sector

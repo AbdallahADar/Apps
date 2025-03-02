@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Charleroi,768,0.5503541363192872,Overall
+Arr. Charleroi,HiTech,19,0.18579706671893526,Sector
+Arr. Charleroi,Agriculture,98,0.6981359452759877,Sector
+Arr. Charleroi,Transportation,15,0.03441526216025059,Sector
+Arr. Charleroi,Consumer_Products,25,0.8697870951434626,Sector
+Arr. Charleroi,Unassigned,98,0.5263740855366226,Sector
+Arr. Charleroi,Communication,71,0.733835553772195,Sector
+Arr. Charleroi,Trade,84,0.8781596754206443,Sector
+Arr. Charleroi,Business_Services,36,0.5537951394217397,Sector
+Arr. Charleroi,Business_Products,48,0.7907205639019091,Sector
+Arr. Charleroi,Construction,5,0.35036414873813826,Sector
+Arr. Charleroi,Services,87,0.5199449133231343,Sector
+Arr. Charleroi,Mining,11,0.7145286302392836,Sector
+Arr. Charleroi,Health_Care,29,0.3909002975982845,Sector
+Arr. Charleroi,EnergyExpL_Prod,81,0.5836001598985631,Sector
+Arr. Charleroi,Utilities,61,0.4249535076401567,Sector

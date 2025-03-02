@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cuenca,742,0.7034663721915926,Overall
+Cuenca,HiTech,44,0.9115891347406414,Sector
+Cuenca,Agriculture,93,0.31515552681421355,Sector
+Cuenca,Transportation,26,0.9520269558478924,Sector
+Cuenca,Consumer_Products,77,0.7164290149166476,Sector
+Cuenca,Unassigned,31,0.9848054784209538,Sector
+Cuenca,Communication,53,0.6753857482912509,Sector
+Cuenca,Trade,17,0.769775969419244,Sector
+Cuenca,Business_Services,76,0.45033128694791913,Sector
+Cuenca,Business_Products,26,0.7592148500878962,Sector
+Cuenca,Construction,3,0.738491711594019,Sector
+Cuenca,Services,52,0.5107641012619816,Sector
+Cuenca,Mining,11,0.5970577369593296,Sector
+Cuenca,Health_Care,78,0.2300749685992678,Sector
+Cuenca,EnergyExpL_Prod,84,0.9459448982446981,Sector
+Cuenca,Utilities,71,0.9949482007279331,Sector

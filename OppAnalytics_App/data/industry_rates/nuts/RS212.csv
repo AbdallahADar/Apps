@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kolubarska oblast,765,0.522633635058386,Overall
+Kolubarska oblast,HiTech,66,0.21630307618248745,Sector
+Kolubarska oblast,Agriculture,54,0.9869991308494542,Sector
+Kolubarska oblast,Transportation,29,0.0628255585886891,Sector
+Kolubarska oblast,Consumer_Products,90,0.5888621282510792,Sector
+Kolubarska oblast,Unassigned,22,0.47574547374755904,Sector
+Kolubarska oblast,Communication,70,0.47700112153364815,Sector
+Kolubarska oblast,Trade,33,0.6606776592881819,Sector
+Kolubarska oblast,Business_Services,30,0.892914955870589,Sector
+Kolubarska oblast,Business_Products,89,0.6099746812345426,Sector
+Kolubarska oblast,Construction,20,0.33475805886663035,Sector
+Kolubarska oblast,Services,52,0.7832290290783172,Sector
+Kolubarska oblast,Mining,82,0.16298897022269032,Sector
+Kolubarska oblast,Health_Care,16,0.8790379230523034,Sector
+Kolubarska oblast,EnergyExpL_Prod,66,0.6226794508497898,Sector
+Kolubarska oblast,Utilities,46,0.08550730825982789,Sector

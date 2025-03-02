@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Blaine,795,0.4489619959946618,Overall
+Blaine,HiTech,75,0.6537044992315619,Sector
+Blaine,Agriculture,55,0.8946280231507168,Sector
+Blaine,Transportation,30,0.25657404843285636,Sector
+Blaine,Consumer_Products,16,0.33172716382814516,Sector
+Blaine,Unassigned,14,0.7700390860703028,Sector
+Blaine,Communication,82,0.0582847106191553,Sector
+Blaine,Trade,60,0.8926747636326418,Sector
+Blaine,Business_Services,87,0.7917216216771236,Sector
+Blaine,Business_Products,32,0.331679167637406,Sector
+Blaine,Construction,44,0.17222804737935826,Sector
+Blaine,Services,86,0.2364263910840162,Sector
+Blaine,Mining,68,0.34127432957257964,Sector
+Blaine,Health_Care,52,0.19497394911340415,Sector
+Blaine,EnergyExpL_Prod,86,0.1634149701586487,Sector
+Blaine,Utilities,8,0.6450791683320111,Sector

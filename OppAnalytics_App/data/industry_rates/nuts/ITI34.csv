@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ascoli Piceno,822,0.5413727391150148,Overall
+Ascoli Piceno,HiTech,96,0.5477214039260112,Sector
+Ascoli Piceno,Agriculture,6,0.9313081428037665,Sector
+Ascoli Piceno,Transportation,50,0.29942600877700587,Sector
+Ascoli Piceno,Consumer_Products,59,0.6724709535869562,Sector
+Ascoli Piceno,Unassigned,31,0.9423928327576722,Sector
+Ascoli Piceno,Communication,98,0.37903138678896664,Sector
+Ascoli Piceno,Trade,66,0.26632184263508274,Sector
+Ascoli Piceno,Business_Services,41,0.8754238122188109,Sector
+Ascoli Piceno,Business_Products,55,0.34510140901722897,Sector
+Ascoli Piceno,Construction,83,0.5866482010354171,Sector
+Ascoli Piceno,Services,5,0.36047914056440034,Sector
+Ascoli Piceno,Mining,85,0.5855259994984451,Sector
+Ascoli Piceno,Health_Care,42,0.8642327963145096,Sector
+Ascoli Piceno,EnergyExpL_Prod,20,0.39862406729916455,Sector
+Ascoli Piceno,Utilities,85,0.06588308950178523,Sector

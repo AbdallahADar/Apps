@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mercer,776,0.4881978058689499,Overall
+Mercer,HiTech,99,0.46531899127341825,Sector
+Mercer,Agriculture,65,0.8809314113367916,Sector
+Mercer,Transportation,96,0.21693016550456767,Sector
+Mercer,Consumer_Products,68,0.8158946649414471,Sector
+Mercer,Unassigned,71,0.2919426425567162,Sector
+Mercer,Communication,27,0.2028967324708264,Sector
+Mercer,Trade,13,0.7096928993946537,Sector
+Mercer,Business_Services,11,0.9039683787347765,Sector
+Mercer,Business_Products,12,0.5197212563224309,Sector
+Mercer,Construction,83,0.23685293616596692,Sector
+Mercer,Services,91,0.27396092247781134,Sector
+Mercer,Mining,82,0.7942168183206991,Sector
+Mercer,Health_Care,7,0.6103290341425295,Sector
+Mercer,EnergyExpL_Prod,43,0.02634530635411092,Sector
+Mercer,Utilities,8,0.3739649280375015,Sector

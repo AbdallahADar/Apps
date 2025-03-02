@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Plaquemines,587,0.3727727086963358,Overall
+Plaquemines,HiTech,27,0.1288048682142392,Sector
+Plaquemines,Agriculture,41,0.033434529143566594,Sector
+Plaquemines,Transportation,22,0.9227895059701817,Sector
+Plaquemines,Consumer_Products,58,0.05324313840217232,Sector
+Plaquemines,Unassigned,17,0.4087076070511495,Sector
+Plaquemines,Communication,80,0.47100050985846476,Sector
+Plaquemines,Trade,13,0.35454486270964647,Sector
+Plaquemines,Business_Services,14,0.8079338546650903,Sector
+Plaquemines,Business_Products,17,0.5592740312470109,Sector
+Plaquemines,Construction,28,0.4430274531430525,Sector
+Plaquemines,Services,58,0.07961663927351492,Sector
+Plaquemines,Mining,74,0.14793625589337578,Sector
+Plaquemines,Health_Care,70,0.0030386742570838177,Sector
+Plaquemines,EnergyExpL_Prod,26,0.3332944211002823,Sector
+Plaquemines,Utilities,42,0.8449442795162052,Sector

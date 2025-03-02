@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Culpeper,703,0.46933357004498194,Overall
+Culpeper,HiTech,34,0.5987566176093877,Sector
+Culpeper,Agriculture,25,0.22126853019399617,Sector
+Culpeper,Transportation,13,0.44857987886649675,Sector
+Culpeper,Consumer_Products,4,0.1428872851222076,Sector
+Culpeper,Unassigned,53,0.18206647633218043,Sector
+Culpeper,Communication,24,0.30621429801836364,Sector
+Culpeper,Trade,73,0.7644847360831699,Sector
+Culpeper,Business_Services,83,0.17674268450994712,Sector
+Culpeper,Business_Products,88,0.52839521646457,Sector
+Culpeper,Construction,91,0.6892301362134753,Sector
+Culpeper,Services,58,0.4013841055908415,Sector
+Culpeper,Mining,45,0.5680634980984556,Sector
+Culpeper,Health_Care,0,0.4123982761336723,Sector
+Culpeper,EnergyExpL_Prod,21,0.7014209554154734,Sector
+Culpeper,Utilities,91,0.8981108560224924,Sector

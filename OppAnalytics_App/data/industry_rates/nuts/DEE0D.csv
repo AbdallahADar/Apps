@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Stendal,1022,0.4078049708013129,Overall
+Stendal,HiTech,31,0.41383217863657884,Sector
+Stendal,Agriculture,95,0.5395276856321402,Sector
+Stendal,Transportation,63,0.6443185848099858,Sector
+Stendal,Consumer_Products,94,0.09536876031552677,Sector
+Stendal,Unassigned,36,0.5172504358566601,Sector
+Stendal,Communication,92,0.337516662023305,Sector
+Stendal,Trade,87,0.5937729665839607,Sector
+Stendal,Business_Services,63,0.24154359823156912,Sector
+Stendal,Business_Products,30,0.5815727938453827,Sector
+Stendal,Construction,53,0.11705886615998462,Sector
+Stendal,Services,67,0.38280645365348187,Sector
+Stendal,Mining,61,0.874497715121798,Sector
+Stendal,Health_Care,89,0.643208774043465,Sector
+Stendal,EnergyExpL_Prod,87,0.11237131871070671,Sector
+Stendal,Utilities,74,0.022427768395147374,Sector

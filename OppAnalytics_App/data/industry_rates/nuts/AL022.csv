@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tiranë,870,0.4841290202223011,Overall
+Tiranë,HiTech,67,0.24810648350839626,Sector
+Tiranë,Agriculture,55,0.3215918846327964,Sector
+Tiranë,Transportation,69,0.40835039355631353,Sector
+Tiranë,Consumer_Products,74,0.9183376555677595,Sector
+Tiranë,Unassigned,62,0.06875696680298071,Sector
+Tiranë,Communication,68,0.4295266620405871,Sector
+Tiranë,Trade,21,0.7201033076820896,Sector
+Tiranë,Business_Services,93,0.3722451215207918,Sector
+Tiranë,Business_Products,89,0.27524437972495874,Sector
+Tiranë,Construction,20,0.8218153426094295,Sector
+Tiranë,Services,51,0.932701864846539,Sector
+Tiranë,Mining,57,0.47623323137035334,Sector
+Tiranë,Health_Care,22,0.14213513112225218,Sector
+Tiranë,EnergyExpL_Prod,70,0.5796037744812366,Sector
+Tiranë,Utilities,52,0.5471831038680308,Sector

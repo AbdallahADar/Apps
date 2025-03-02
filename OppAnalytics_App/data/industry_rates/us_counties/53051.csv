@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pend Oreille,668,0.43046898400944117,Overall
+Pend Oreille,HiTech,14,0.5739913570440465,Sector
+Pend Oreille,Agriculture,22,0.39646090588187843,Sector
+Pend Oreille,Transportation,31,0.1583109067198265,Sector
+Pend Oreille,Consumer_Products,49,0.8311171852358369,Sector
+Pend Oreille,Unassigned,59,0.3725692236447914,Sector
+Pend Oreille,Communication,73,0.5813903436972963,Sector
+Pend Oreille,Trade,4,0.1819533414093768,Sector
+Pend Oreille,Business_Services,98,0.930719740640049,Sector
+Pend Oreille,Business_Products,64,0.5517315825381719,Sector
+Pend Oreille,Construction,56,0.20007070127325965,Sector
+Pend Oreille,Services,17,0.6555984866484844,Sector
+Pend Oreille,Mining,41,0.2848069560288078,Sector
+Pend Oreille,Health_Care,42,0.012595015533911291,Sector
+Pend Oreille,EnergyExpL_Prod,2,0.22242976328935227,Sector
+Pend Oreille,Utilities,96,0.5032892505565283,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chambers,597,0.4661949869192392,Overall
+Chambers,HiTech,39,0.5352998133041554,Sector
+Chambers,Agriculture,32,0.8406784943957014,Sector
+Chambers,Transportation,92,0.9582824838581221,Sector
+Chambers,Consumer_Products,49,0.3657491272799942,Sector
+Chambers,Unassigned,47,0.5178633493186595,Sector
+Chambers,Communication,74,0.47272013916463496,Sector
+Chambers,Trade,37,0.17888264175659063,Sector
+Chambers,Business_Services,9,0.42286514623002047,Sector
+Chambers,Business_Products,15,0.016226988427416766,Sector
+Chambers,Construction,7,0.3829547093740253,Sector
+Chambers,Services,14,0.2582105500948164,Sector
+Chambers,Mining,36,0.5922842941345703,Sector
+Chambers,Health_Care,73,0.7796538608650113,Sector
+Chambers,EnergyExpL_Prod,61,0.3764763369308587,Sector
+Chambers,Utilities,12,0.29477686865401154,Sector

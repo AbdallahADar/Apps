@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Platte,664,0.5327883996581265,Overall
+Platte,HiTech,84,0.9150669660453816,Sector
+Platte,Agriculture,24,0.07796362093821396,Sector
+Platte,Transportation,81,0.28488162785329296,Sector
+Platte,Consumer_Products,23,0.7129033432671583,Sector
+Platte,Unassigned,5,0.3928626820130655,Sector
+Platte,Communication,65,0.8999667203822987,Sector
+Platte,Trade,21,0.38290984038625897,Sector
+Platte,Business_Services,43,0.13507158191070756,Sector
+Platte,Business_Products,50,0.7414563886671216,Sector
+Platte,Construction,4,0.4890716291341267,Sector
+Platte,Services,78,0.22246053590387582,Sector
+Platte,Mining,50,0.5576209613465749,Sector
+Platte,Health_Care,16,0.31862414363765723,Sector
+Platte,EnergyExpL_Prod,57,0.9019511237087535,Sector
+Platte,Utilities,63,0.9590148296774098,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alcona,608,0.43501185528126946,Overall
+Alcona,HiTech,16,0.17291124445508688,Sector
+Alcona,Agriculture,38,0.07319229260587667,Sector
+Alcona,Transportation,14,0.16430726369425552,Sector
+Alcona,Consumer_Products,83,0.43642138627160554,Sector
+Alcona,Unassigned,53,0.13740679122762833,Sector
+Alcona,Communication,18,0.3824934974776576,Sector
+Alcona,Trade,60,0.707595871370934,Sector
+Alcona,Business_Services,55,0.6408067550705486,Sector
+Alcona,Business_Products,99,0.5912430240537314,Sector
+Alcona,Construction,1,0.05276766849959935,Sector
+Alcona,Services,65,0.5800021939982036,Sector
+Alcona,Mining,6,0.8310460500899511,Sector
+Alcona,Health_Care,50,0.38461042365398923,Sector
+Alcona,EnergyExpL_Prod,18,0.9392450159952536,Sector
+Alcona,Utilities,32,0.43112835075471934,Sector

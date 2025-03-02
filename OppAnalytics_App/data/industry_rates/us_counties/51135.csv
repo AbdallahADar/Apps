@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nottoway,646,0.3868772004187803,Overall
+Nottoway,HiTech,79,0.24799053624315415,Sector
+Nottoway,Agriculture,97,0.24032406645185989,Sector
+Nottoway,Transportation,41,0.7299238038880229,Sector
+Nottoway,Consumer_Products,30,0.140193658327449,Sector
+Nottoway,Unassigned,1,0.7862307200353801,Sector
+Nottoway,Communication,23,0.5928264681579126,Sector
+Nottoway,Trade,82,0.040519017245723266,Sector
+Nottoway,Business_Services,0,0.6908606805553149,Sector
+Nottoway,Business_Products,14,0.2777438598505928,Sector
+Nottoway,Construction,19,0.7310733553403329,Sector
+Nottoway,Services,52,0.560736572620319,Sector
+Nottoway,Mining,24,0.24223487328831317,Sector
+Nottoway,Health_Care,81,0.11896880178798519,Sector
+Nottoway,EnergyExpL_Prod,48,0.1294449030877055,Sector
+Nottoway,Utilities,55,0.27408668940164005,Sector

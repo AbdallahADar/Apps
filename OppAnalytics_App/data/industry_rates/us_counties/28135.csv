@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tallahatchie,548,0.5312955602451553,Overall
+Tallahatchie,HiTech,2,0.4909273640264705,Sector
+Tallahatchie,Agriculture,54,0.10428085656119768,Sector
+Tallahatchie,Transportation,33,0.3260494912413405,Sector
+Tallahatchie,Consumer_Products,0,0.07501062885438703,Sector
+Tallahatchie,Unassigned,31,0.765162900832691,Sector
+Tallahatchie,Communication,5,0.2086534859472341,Sector
+Tallahatchie,Trade,10,0.4858432241266969,Sector
+Tallahatchie,Business_Services,97,0.23250641954871343,Sector
+Tallahatchie,Business_Products,85,0.9992970226553239,Sector
+Tallahatchie,Construction,71,0.7401617315340521,Sector
+Tallahatchie,Services,27,0.6229851191510389,Sector
+Tallahatchie,Mining,18,0.7291575799638925,Sector
+Tallahatchie,Health_Care,68,0.8912158816335467,Sector
+Tallahatchie,EnergyExpL_Prod,37,0.5429378094055537,Sector
+Tallahatchie,Utilities,10,0.7552438881951895,Sector

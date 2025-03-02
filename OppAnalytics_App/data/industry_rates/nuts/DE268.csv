@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kitzingen,667,0.5218034476455556,Overall
+Kitzingen,HiTech,26,0.185773413470531,Sector
+Kitzingen,Agriculture,34,0.3447346289442873,Sector
+Kitzingen,Transportation,47,0.4693542682691979,Sector
+Kitzingen,Consumer_Products,32,0.9507959164518348,Sector
+Kitzingen,Unassigned,7,0.7381436759910659,Sector
+Kitzingen,Communication,85,0.6097943775192564,Sector
+Kitzingen,Trade,28,0.5263266252426049,Sector
+Kitzingen,Business_Services,21,0.06939235397059351,Sector
+Kitzingen,Business_Products,30,0.030186438616054967,Sector
+Kitzingen,Construction,27,0.6154781537556588,Sector
+Kitzingen,Services,76,0.9526096010920155,Sector
+Kitzingen,Mining,4,0.6874970236328,Sector
+Kitzingen,Health_Care,92,0.870612315654994,Sector
+Kitzingen,EnergyExpL_Prod,88,0.4656041851233954,Sector
+Kitzingen,Utilities,70,0.31074873694904215,Sector

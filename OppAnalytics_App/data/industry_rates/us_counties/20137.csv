@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Norton,773,0.42662627154131044,Overall
+Norton,HiTech,35,0.5586497350279517,Sector
+Norton,Agriculture,60,0.7200502708669594,Sector
+Norton,Transportation,42,0.10471127946397718,Sector
+Norton,Consumer_Products,71,0.12736222037545175,Sector
+Norton,Unassigned,99,0.7663806610069834,Sector
+Norton,Communication,5,0.2801841691464657,Sector
+Norton,Trade,23,0.6572767157193266,Sector
+Norton,Business_Services,27,0.39524713204329276,Sector
+Norton,Business_Products,89,0.4101378221403512,Sector
+Norton,Construction,28,0.28703935985632956,Sector
+Norton,Services,86,0.5363265479730372,Sector
+Norton,Mining,12,0.17229213691753642,Sector
+Norton,Health_Care,78,0.4930585530340327,Sector
+Norton,EnergyExpL_Prod,78,0.6440773883775522,Sector
+Norton,Utilities,40,0.24660008117040932,Sector

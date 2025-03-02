@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Doña Ana,801,0.5441678452501819,Overall
+Doña Ana,HiTech,7,0.7146569140230441,Sector
+Doña Ana,Agriculture,96,0.3217097332910477,Sector
+Doña Ana,Transportation,86,0.9344152968052122,Sector
+Doña Ana,Consumer_Products,7,0.6890060446112339,Sector
+Doña Ana,Unassigned,68,0.015444556468732995,Sector
+Doña Ana,Communication,1,0.9887279256190573,Sector
+Doña Ana,Trade,3,0.36292616721690285,Sector
+Doña Ana,Business_Services,79,0.32074347563217154,Sector
+Doña Ana,Business_Products,91,0.5784797169459316,Sector
+Doña Ana,Construction,42,0.8500181514633413,Sector
+Doña Ana,Services,33,0.28543927272697756,Sector
+Doña Ana,Mining,86,0.01116517028106434,Sector
+Doña Ana,Health_Care,61,0.7644114776484153,Sector
+Doña Ana,EnergyExpL_Prod,77,0.9717762399181966,Sector
+Doña Ana,Utilities,64,0.3535975361014001,Sector

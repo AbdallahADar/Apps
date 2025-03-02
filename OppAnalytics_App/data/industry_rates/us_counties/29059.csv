@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dallas,965,0.4901867364632853,Overall
+Dallas,HiTech,59,0.6111496631043348,Sector
+Dallas,Agriculture,33,0.8633486974229929,Sector
+Dallas,Transportation,95,0.6519547144167852,Sector
+Dallas,Consumer_Products,92,0.06731668203609176,Sector
+Dallas,Unassigned,93,0.2176397932587848,Sector
+Dallas,Communication,49,0.9432892237425697,Sector
+Dallas,Trade,98,0.4093375123619344,Sector
+Dallas,Business_Services,69,0.5714161415771983,Sector
+Dallas,Business_Products,3,0.37504028963237357,Sector
+Dallas,Construction,75,0.7374866117170534,Sector
+Dallas,Services,53,0.566711454220534,Sector
+Dallas,Mining,73,0.3588993802411473,Sector
+Dallas,Health_Care,64,0.7282075509704533,Sector
+Dallas,EnergyExpL_Prod,51,0.016390546223859714,Sector
+Dallas,Utilities,58,0.23461278602316793,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Columbus,784,0.5451719329894209,Overall
+Columbus,HiTech,61,0.7853350988886555,Sector
+Columbus,Agriculture,89,0.3133846957990116,Sector
+Columbus,Transportation,8,0.41790807236469096,Sector
+Columbus,Consumer_Products,24,0.2751840454875222,Sector
+Columbus,Unassigned,33,0.11255067450442591,Sector
+Columbus,Communication,78,0.2849946054560203,Sector
+Columbus,Trade,41,0.7749344163745119,Sector
+Columbus,Business_Services,52,0.5983326468580896,Sector
+Columbus,Business_Products,27,0.7629972109411296,Sector
+Columbus,Construction,4,0.9226993741227688,Sector
+Columbus,Services,96,0.5360274892387954,Sector
+Columbus,Mining,81,0.7828707582563726,Sector
+Columbus,Health_Care,57,0.4692497864951857,Sector
+Columbus,EnergyExpL_Prod,57,0.9041069460061609,Sector
+Columbus,Utilities,76,0.23700317404797266,Sector

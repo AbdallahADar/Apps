@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lubbock,670,0.4902500155380662,Overall
+Lubbock,HiTech,35,0.21219654162895085,Sector
+Lubbock,Agriculture,38,0.8504762698690521,Sector
+Lubbock,Transportation,77,0.5641665092428544,Sector
+Lubbock,Consumer_Products,39,0.16953260888293975,Sector
+Lubbock,Unassigned,18,0.8407146470864517,Sector
+Lubbock,Communication,18,0.929427424331089,Sector
+Lubbock,Trade,62,0.026486010031518403,Sector
+Lubbock,Business_Services,55,0.8213569931023631,Sector
+Lubbock,Business_Products,68,0.031548805638437205,Sector
+Lubbock,Construction,43,0.12426474445656366,Sector
+Lubbock,Services,32,0.7001355214337011,Sector
+Lubbock,Mining,16,0.5236261327880224,Sector
+Lubbock,Health_Care,86,0.5442981624878542,Sector
+Lubbock,EnergyExpL_Prod,43,0.8627032347029605,Sector
+Lubbock,Utilities,40,0.15281662738823465,Sector

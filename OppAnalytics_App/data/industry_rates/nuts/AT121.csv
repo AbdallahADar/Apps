@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mostviertel-Eisenwurzen,760,0.6035123406235231,Overall
+Mostviertel-Eisenwurzen,HiTech,96,0.24365791444169882,Sector
+Mostviertel-Eisenwurzen,Agriculture,16,0.5803800811701268,Sector
+Mostviertel-Eisenwurzen,Transportation,42,0.767053787109218,Sector
+Mostviertel-Eisenwurzen,Consumer_Products,26,0.5205244228420007,Sector
+Mostviertel-Eisenwurzen,Unassigned,61,0.9492954601826762,Sector
+Mostviertel-Eisenwurzen,Communication,15,0.00364343172893411,Sector
+Mostviertel-Eisenwurzen,Trade,99,0.775209575256643,Sector
+Mostviertel-Eisenwurzen,Business_Services,70,0.8583488967906507,Sector
+Mostviertel-Eisenwurzen,Business_Products,29,0.49244344847817856,Sector
+Mostviertel-Eisenwurzen,Construction,74,0.8018532139354264,Sector
+Mostviertel-Eisenwurzen,Services,76,0.11818590205027035,Sector
+Mostviertel-Eisenwurzen,Mining,10,0.9265817858798873,Sector
+Mostviertel-Eisenwurzen,Health_Care,49,0.46383571890687914,Sector
+Mostviertel-Eisenwurzen,EnergyExpL_Prod,32,0.9084240172979245,Sector
+Mostviertel-Eisenwurzen,Utilities,65,0.6432474532823311,Sector

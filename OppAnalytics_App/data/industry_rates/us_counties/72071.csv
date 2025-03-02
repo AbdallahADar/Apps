@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Isabela,731,0.5001255398689943,Overall
+Isabela,HiTech,67,0.6148528624826382,Sector
+Isabela,Agriculture,39,0.9244333423487737,Sector
+Isabela,Transportation,25,0.03625159849618931,Sector
+Isabela,Consumer_Products,61,0.8111896526385273,Sector
+Isabela,Unassigned,39,0.9331957027599045,Sector
+Isabela,Communication,91,0.8364574570578079,Sector
+Isabela,Trade,3,0.23409860008447525,Sector
+Isabela,Business_Services,19,0.33157733569383685,Sector
+Isabela,Business_Products,22,0.012146184895936218,Sector
+Isabela,Construction,88,0.7576395263062117,Sector
+Isabela,Services,81,0.6533331630288669,Sector
+Isabela,Mining,60,0.5252326302315243,Sector
+Isabela,Health_Care,39,0.417236699042543,Sector
+Isabela,EnergyExpL_Prod,81,0.0408770912915325,Sector
+Isabela,Utilities,16,0.37336125167614787,Sector

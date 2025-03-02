@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ourense,791,0.5569348715497647,Overall
+Ourense,HiTech,8,0.5449487765760745,Sector
+Ourense,Agriculture,63,0.6250805171796713,Sector
+Ourense,Transportation,69,0.9420306281858886,Sector
+Ourense,Consumer_Products,56,0.0247473841768715,Sector
+Ourense,Unassigned,62,0.1932561849860348,Sector
+Ourense,Communication,93,0.8061484044586675,Sector
+Ourense,Trade,2,0.45069074716717095,Sector
+Ourense,Business_Services,95,0.8916719253730053,Sector
+Ourense,Business_Products,29,0.612337558927415,Sector
+Ourense,Construction,79,0.835380084829179,Sector
+Ourense,Services,13,0.08893542985794667,Sector
+Ourense,Mining,58,0.8024411991459566,Sector
+Ourense,Health_Care,81,0.6678401641663787,Sector
+Ourense,EnergyExpL_Prod,79,0.826802068594964,Sector
+Ourense,Utilities,4,0.041711999621248164,Sector

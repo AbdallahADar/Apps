@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cullman,824,0.42286028526841263,Overall
+Cullman,HiTech,55,0.323031224831436,Sector
+Cullman,Agriculture,59,0.2172686610765625,Sector
+Cullman,Transportation,70,0.47740477295639605,Sector
+Cullman,Consumer_Products,38,0.24650761001206767,Sector
+Cullman,Unassigned,29,0.7739997550863436,Sector
+Cullman,Communication,89,0.47812992436722956,Sector
+Cullman,Trade,2,0.2540570337441149,Sector
+Cullman,Business_Services,97,0.46178237235477837,Sector
+Cullman,Business_Products,5,0.6640288572601004,Sector
+Cullman,Construction,78,0.2022369052284425,Sector
+Cullman,Services,67,0.542860527665485,Sector
+Cullman,Mining,69,0.21479035503663957,Sector
+Cullman,Health_Care,55,0.025425621378908136,Sector
+Cullman,EnergyExpL_Prod,76,0.6534100381468142,Sector
+Cullman,Utilities,35,0.8079706198808716,Sector

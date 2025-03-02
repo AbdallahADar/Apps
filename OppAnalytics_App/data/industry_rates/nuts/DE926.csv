@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Holzminden,650,0.5179514682814286,Overall
+Holzminden,HiTech,35,0.6173966292216665,Sector
+Holzminden,Agriculture,46,0.350639242061084,Sector
+Holzminden,Transportation,71,0.2765230350747506,Sector
+Holzminden,Consumer_Products,77,0.4084945576446557,Sector
+Holzminden,Unassigned,1,0.8055174311199397,Sector
+Holzminden,Communication,54,0.39788899361843755,Sector
+Holzminden,Trade,42,0.8750941910051289,Sector
+Holzminden,Business_Services,50,0.44478926946834707,Sector
+Holzminden,Business_Products,74,0.3252609292835821,Sector
+Holzminden,Construction,63,0.3297623276647643,Sector
+Holzminden,Services,0,0.6065538334933843,Sector
+Holzminden,Mining,12,0.7679386138122493,Sector
+Holzminden,Health_Care,68,0.46866030254786173,Sector
+Holzminden,EnergyExpL_Prod,47,0.6533412583558167,Sector
+Holzminden,Utilities,10,0.44141140984976124,Sector

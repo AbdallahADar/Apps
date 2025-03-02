@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Greensville,596,0.49614947830399786,Overall
+Greensville,HiTech,0,0.5883158648702763,Sector
+Greensville,Agriculture,90,0.17962775016141663,Sector
+Greensville,Transportation,76,0.9720959178872033,Sector
+Greensville,Consumer_Products,55,0.0014552953504662902,Sector
+Greensville,Unassigned,76,0.6700790198681507,Sector
+Greensville,Communication,26,0.8950118548503698,Sector
+Greensville,Trade,29,0.5200076370544656,Sector
+Greensville,Business_Services,43,0.36908071950249866,Sector
+Greensville,Business_Products,8,0.4342785539565609,Sector
+Greensville,Construction,28,0.4165217390120718,Sector
+Greensville,Services,3,0.21065868176001312,Sector
+Greensville,Mining,64,0.26413822256623654,Sector
+Greensville,Health_Care,23,0.9616489257711225,Sector
+Greensville,EnergyExpL_Prod,60,0.06886127231262829,Sector
+Greensville,Utilities,15,0.8904607196364877,Sector

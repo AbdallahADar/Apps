@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Borsod-Abaúj-Zemplén,723,0.5860936626507262,Overall
+Borsod-Abaúj-Zemplén,HiTech,91,0.9378463650442092,Sector
+Borsod-Abaúj-Zemplén,Agriculture,73,0.7782616486837741,Sector
+Borsod-Abaúj-Zemplén,Transportation,67,0.8397391135414831,Sector
+Borsod-Abaúj-Zemplén,Consumer_Products,49,0.28895726403513555,Sector
+Borsod-Abaúj-Zemplén,Unassigned,1,0.28893681405820626,Sector
+Borsod-Abaúj-Zemplén,Communication,20,0.7035729051719533,Sector
+Borsod-Abaúj-Zemplén,Trade,89,0.5913927695031143,Sector
+Borsod-Abaúj-Zemplén,Business_Services,5,0.13967228705020607,Sector
+Borsod-Abaúj-Zemplén,Business_Products,35,0.9669037739634795,Sector
+Borsod-Abaúj-Zemplén,Construction,79,0.45101818421634743,Sector
+Borsod-Abaúj-Zemplén,Services,69,0.21694779131307906,Sector
+Borsod-Abaúj-Zemplén,Mining,39,0.13100177188184214,Sector
+Borsod-Abaúj-Zemplén,Health_Care,18,0.6826402106968484,Sector
+Borsod-Abaúj-Zemplén,EnergyExpL_Prod,88,0.9854511481155842,Sector
+Borsod-Abaúj-Zemplén,Utilities,0,0.7890628924856292,Sector

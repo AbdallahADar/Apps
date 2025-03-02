@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Brazos,763,0.4068733130003704,Overall
+Brazos,HiTech,71,0.1826223766052173,Sector
+Brazos,Agriculture,17,0.11049513961785018,Sector
+Brazos,Transportation,82,0.4888398612128365,Sector
+Brazos,Consumer_Products,26,0.008459096767357788,Sector
+Brazos,Unassigned,37,0.5103193280387541,Sector
+Brazos,Communication,28,0.8861737984530236,Sector
+Brazos,Trade,74,0.17182696983647483,Sector
+Brazos,Business_Services,9,0.5677936404610414,Sector
+Brazos,Business_Products,15,0.9347173214208762,Sector
+Brazos,Construction,55,0.7546880817435639,Sector
+Brazos,Services,54,0.8156517182328524,Sector
+Brazos,Mining,44,0.2991750759034032,Sector
+Brazos,Health_Care,92,0.2518990977715544,Sector
+Brazos,EnergyExpL_Prod,99,0.07303119531883351,Sector
+Brazos,Utilities,60,0.04740699362191603,Sector

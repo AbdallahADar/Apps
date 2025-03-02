@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Butte,1020,0.5014342780290951,Overall
+Butte,HiTech,60,0.7025535248545856,Sector
+Butte,Agriculture,80,0.4044780198200496,Sector
+Butte,Transportation,56,0.3200843473249281,Sector
+Butte,Consumer_Products,98,0.6533840633675544,Sector
+Butte,Unassigned,79,0.5855700410398772,Sector
+Butte,Communication,77,0.622548370985778,Sector
+Butte,Trade,84,0.5416353430240938,Sector
+Butte,Business_Services,36,0.9578454477463992,Sector
+Butte,Business_Products,75,0.15273193421969578,Sector
+Butte,Construction,61,0.11838162031012456,Sector
+Butte,Services,85,0.5913147228350286,Sector
+Butte,Mining,55,0.9489704831646363,Sector
+Butte,Health_Care,26,0.2712838402633495,Sector
+Butte,EnergyExpL_Prod,94,0.44764500901898774,Sector
+Butte,Utilities,54,0.20308740246133872,Sector

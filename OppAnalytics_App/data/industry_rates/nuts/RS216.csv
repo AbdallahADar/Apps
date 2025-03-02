@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rasinska oblast,705,0.6256719872770143,Overall
+Rasinska oblast,HiTech,49,0.627279421149057,Sector
+Rasinska oblast,Agriculture,21,0.9287340268656814,Sector
+Rasinska oblast,Transportation,59,0.4846133296921996,Sector
+Rasinska oblast,Consumer_Products,47,0.4690300765519395,Sector
+Rasinska oblast,Unassigned,45,0.43169553290959894,Sector
+Rasinska oblast,Communication,96,0.9585712952182225,Sector
+Rasinska oblast,Trade,85,0.8913529638015975,Sector
+Rasinska oblast,Business_Services,49,0.1279544128950466,Sector
+Rasinska oblast,Business_Products,1,0.6553398365284736,Sector
+Rasinska oblast,Construction,64,0.8894593745947106,Sector
+Rasinska oblast,Services,12,0.6232050143297656,Sector
+Rasinska oblast,Mining,35,0.699048558595946,Sector
+Rasinska oblast,Health_Care,6,0.679404253314451,Sector
+Rasinska oblast,EnergyExpL_Prod,37,0.3652406921739817,Sector
+Rasinska oblast,Utilities,99,0.5541510205345448,Sector

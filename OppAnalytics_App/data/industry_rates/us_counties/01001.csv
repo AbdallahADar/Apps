@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Autauga,857,0.580533654874484,Overall
+Autauga,HiTech,32,0.9992757834765449,Sector
+Autauga,Agriculture,48,0.13384029701160638,Sector
+Autauga,Transportation,45,0.9998636605404926,Sector
+Autauga,Consumer_Products,79,0.1602640043182938,Sector
+Autauga,Unassigned,75,0.4485287515044132,Sector
+Autauga,Communication,77,0.21348544836687855,Sector
+Autauga,Trade,59,0.4459420843386658,Sector
+Autauga,Business_Services,27,0.6291309792395416,Sector
+Autauga,Business_Products,90,0.9136889943032535,Sector
+Autauga,Construction,85,0.9310892514730438,Sector
+Autauga,Services,32,0.9990555728934545,Sector
+Autauga,Mining,17,0.774832228089386,Sector
+Autauga,Health_Care,60,0.16201681732061002,Sector
+Autauga,EnergyExpL_Prod,61,0.5383693580653902,Sector
+Autauga,Utilities,70,0.35862159217568623,Sector

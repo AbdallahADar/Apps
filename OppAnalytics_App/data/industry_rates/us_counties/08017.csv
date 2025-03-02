@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cheyenne,743,0.6247645378366092,Overall
+Cheyenne,HiTech,69,0.8673296487476415,Sector
+Cheyenne,Agriculture,81,0.47532823313446393,Sector
+Cheyenne,Transportation,80,0.19389183887655326,Sector
+Cheyenne,Consumer_Products,65,0.29912111879431524,Sector
+Cheyenne,Unassigned,31,0.6591379092778422,Sector
+Cheyenne,Communication,92,0.09497429005131974,Sector
+Cheyenne,Trade,6,0.5391023737776286,Sector
+Cheyenne,Business_Services,7,0.733906438645925,Sector
+Cheyenne,Business_Products,75,0.7958056181593931,Sector
+Cheyenne,Construction,24,0.7405816448539326,Sector
+Cheyenne,Services,73,0.815729621541336,Sector
+Cheyenne,Mining,45,0.783576454541438,Sector
+Cheyenne,Health_Care,15,0.9189828302458755,Sector
+Cheyenne,EnergyExpL_Prod,24,0.5752820206918793,Sector
+Cheyenne,Utilities,56,0.8787180262095945,Sector

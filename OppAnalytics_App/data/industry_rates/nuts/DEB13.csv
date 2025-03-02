@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Altenkirchen (Westerwald),802,0.49927663661491933,Overall
+Altenkirchen (Westerwald),HiTech,25,0.5563194753083606,Sector
+Altenkirchen (Westerwald),Agriculture,95,0.4851129624950322,Sector
+Altenkirchen (Westerwald),Transportation,48,0.8258826311606542,Sector
+Altenkirchen (Westerwald),Consumer_Products,27,0.41332170205391916,Sector
+Altenkirchen (Westerwald),Unassigned,31,0.24104598832432134,Sector
+Altenkirchen (Westerwald),Communication,48,0.6296419210693053,Sector
+Altenkirchen (Westerwald),Trade,67,0.6106639872416556,Sector
+Altenkirchen (Westerwald),Business_Services,22,0.500246316404298,Sector
+Altenkirchen (Westerwald),Business_Products,96,0.32007768290152583,Sector
+Altenkirchen (Westerwald),Construction,99,0.02026400291832997,Sector
+Altenkirchen (Westerwald),Services,34,0.8127388355041287,Sector
+Altenkirchen (Westerwald),Mining,83,0.41427751456124673,Sector
+Altenkirchen (Westerwald),Health_Care,35,0.9576736485668776,Sector
+Altenkirchen (Westerwald),EnergyExpL_Prod,62,0.6758482933092468,Sector
+Altenkirchen (Westerwald),Utilities,30,0.02603458740488951,Sector

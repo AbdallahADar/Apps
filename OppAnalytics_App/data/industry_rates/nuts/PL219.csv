@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Nowotarski,633,0.5544779795736602,Overall
+Nowotarski,HiTech,13,0.9073270085277136,Sector
+Nowotarski,Agriculture,81,0.6194185553683088,Sector
+Nowotarski,Transportation,18,0.6606038546847885,Sector
+Nowotarski,Consumer_Products,84,0.2941818378488269,Sector
+Nowotarski,Unassigned,45,0.736717510613995,Sector
+Nowotarski,Communication,5,0.9491903609713612,Sector
+Nowotarski,Trade,3,0.17158287679207074,Sector
+Nowotarski,Business_Services,33,0.9383745715126918,Sector
+Nowotarski,Business_Products,49,0.6019321781280069,Sector
+Nowotarski,Construction,61,0.14642360221253792,Sector
+Nowotarski,Services,80,0.5191540219645822,Sector
+Nowotarski,Mining,39,0.1249089463706966,Sector
+Nowotarski,Health_Care,43,0.32860807611867815,Sector
+Nowotarski,EnergyExpL_Prod,32,0.7378341331670929,Sector
+Nowotarski,Utilities,47,0.580912159323551,Sector

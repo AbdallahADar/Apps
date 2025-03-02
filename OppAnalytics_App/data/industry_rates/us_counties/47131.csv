@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Obion,654,0.6095416258054186,Overall
+Obion,HiTech,77,0.5056000231443214,Sector
+Obion,Agriculture,27,0.8679478486943827,Sector
+Obion,Transportation,33,0.5621077610902272,Sector
+Obion,Consumer_Products,81,0.08921120080754419,Sector
+Obion,Unassigned,69,0.9278769142125644,Sector
+Obion,Communication,60,0.8654634829075112,Sector
+Obion,Trade,2,0.34736696130769995,Sector
+Obion,Business_Services,11,0.6030893993419594,Sector
+Obion,Business_Products,18,0.9450705255825643,Sector
+Obion,Construction,41,0.27263645748039533,Sector
+Obion,Services,73,0.40326553600027704,Sector
+Obion,Mining,58,0.9869836079928681,Sector
+Obion,Health_Care,42,0.4992557430014821,Sector
+Obion,EnergyExpL_Prod,7,0.3982665253212496,Sector
+Obion,Utilities,55,0.8689824001962305,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wibaux,657,0.5355223479333724,Overall
+Wibaux,HiTech,50,0.8307708452362466,Sector
+Wibaux,Agriculture,58,0.9183898463659604,Sector
+Wibaux,Transportation,10,0.2650724621964009,Sector
+Wibaux,Consumer_Products,41,0.8589099228365333,Sector
+Wibaux,Unassigned,66,0.6638032999190414,Sector
+Wibaux,Communication,78,0.9404784604001021,Sector
+Wibaux,Trade,11,0.009792128598052341,Sector
+Wibaux,Business_Services,28,0.33862479515809596,Sector
+Wibaux,Business_Products,78,0.2869702838693996,Sector
+Wibaux,Construction,32,0.15312578480689,Sector
+Wibaux,Services,85,0.3681925575854704,Sector
+Wibaux,Mining,31,0.21352851025583142,Sector
+Wibaux,Health_Care,15,0.6470397638882561,Sector
+Wibaux,EnergyExpL_Prod,11,0.8038763422875675,Sector
+Wibaux,Utilities,63,0.7342602155967368,Sector

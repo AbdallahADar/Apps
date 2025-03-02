@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Erding,930,0.4006017755040228,Overall
+Erding,HiTech,72,0.4142681352553934,Sector
+Erding,Agriculture,83,0.04018020353626761,Sector
+Erding,Transportation,64,0.23688442011901734,Sector
+Erding,Consumer_Products,98,0.13567110170127206,Sector
+Erding,Unassigned,57,0.7323987380950219,Sector
+Erding,Communication,90,0.26796996675217444,Sector
+Erding,Trade,37,0.39781405865520036,Sector
+Erding,Business_Services,55,0.37211411914245907,Sector
+Erding,Business_Products,19,0.731441229604787,Sector
+Erding,Construction,23,0.021626762177144654,Sector
+Erding,Services,56,0.1798346724934109,Sector
+Erding,Mining,87,0.5606003682506175,Sector
+Erding,Health_Care,58,0.9518915357019823,Sector
+Erding,EnergyExpL_Prod,51,0.7301445285799605,Sector
+Erding,Utilities,80,0.23618679249563312,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Agglomeratie Leiden en Bollenstreek,787,0.5109886299260666,Overall
+Agglomeratie Leiden en Bollenstreek,HiTech,45,0.8742263720724774,Sector
+Agglomeratie Leiden en Bollenstreek,Agriculture,20,0.721609457411123,Sector
+Agglomeratie Leiden en Bollenstreek,Transportation,15,0.44917201256329053,Sector
+Agglomeratie Leiden en Bollenstreek,Consumer_Products,87,0.0869964160574298,Sector
+Agglomeratie Leiden en Bollenstreek,Unassigned,57,0.11294926183964227,Sector
+Agglomeratie Leiden en Bollenstreek,Communication,61,0.44290778533183595,Sector
+Agglomeratie Leiden en Bollenstreek,Trade,98,0.8313195685360686,Sector
+Agglomeratie Leiden en Bollenstreek,Business_Services,33,0.1163626092557305,Sector
+Agglomeratie Leiden en Bollenstreek,Business_Products,0,0.056341522038452885,Sector
+Agglomeratie Leiden en Bollenstreek,Construction,90,0.9945842331290448,Sector
+Agglomeratie Leiden en Bollenstreek,Services,51,0.6069514818202512,Sector
+Agglomeratie Leiden en Bollenstreek,Mining,99,0.8758415905391254,Sector
+Agglomeratie Leiden en Bollenstreek,Health_Care,89,0.22555599189100006,Sector
+Agglomeratie Leiden en Bollenstreek,EnergyExpL_Prod,33,0.5937847659538569,Sector
+Agglomeratie Leiden en Bollenstreek,Utilities,9,0.6762263804516703,Sector

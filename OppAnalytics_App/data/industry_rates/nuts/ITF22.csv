@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Campobasso,746,0.4788105650337135,Overall
+Campobasso,HiTech,26,0.4856194537160138,Sector
+Campobasso,Agriculture,65,0.9200601933198758,Sector
+Campobasso,Transportation,9,0.30391026221543527,Sector
+Campobasso,Consumer_Products,84,0.350472654281741,Sector
+Campobasso,Unassigned,64,0.3624232890049902,Sector
+Campobasso,Communication,55,0.631387388228266,Sector
+Campobasso,Trade,26,0.019368250353344663,Sector
+Campobasso,Business_Services,3,0.9168305094505458,Sector
+Campobasso,Business_Products,89,0.16696671256906537,Sector
+Campobasso,Construction,28,0.5879034776928641,Sector
+Campobasso,Services,77,0.2500990976349363,Sector
+Campobasso,Mining,57,0.48743791953083093,Sector
+Campobasso,Health_Care,60,0.304864761935139,Sector
+Campobasso,EnergyExpL_Prod,16,0.7502441383212082,Sector
+Campobasso,Utilities,87,0.6445703672514472,Sector

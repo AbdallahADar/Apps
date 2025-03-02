@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vigo,571,0.3479331283993851,Overall
+Vigo,HiTech,17,0.3974300422243906,Sector
+Vigo,Agriculture,30,0.007205079017650773,Sector
+Vigo,Transportation,20,0.16243330638189735,Sector
+Vigo,Consumer_Products,98,0.39462596450328624,Sector
+Vigo,Unassigned,66,0.06232833900097656,Sector
+Vigo,Communication,37,0.9438362286603877,Sector
+Vigo,Trade,14,0.6869228909677033,Sector
+Vigo,Business_Services,2,0.28761885681972266,Sector
+Vigo,Business_Products,23,0.38033220158570324,Sector
+Vigo,Construction,85,0.21875842711744498,Sector
+Vigo,Services,67,0.0011467474615802775,Sector
+Vigo,Mining,46,0.44200456018611134,Sector
+Vigo,Health_Care,21,0.002482634080767543,Sector
+Vigo,EnergyExpL_Prod,34,0.5542636836634391,Sector
+Vigo,Utilities,11,0.6776079643197155,Sector

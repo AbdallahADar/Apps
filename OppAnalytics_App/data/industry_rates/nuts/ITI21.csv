@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Perugia,660,0.5946181892355107,Overall
+Perugia,HiTech,66,0.3215311582934959,Sector
+Perugia,Agriculture,77,0.3477596695546419,Sector
+Perugia,Transportation,64,0.779381036303311,Sector
+Perugia,Consumer_Products,15,0.545204917404964,Sector
+Perugia,Unassigned,13,0.9996897434165999,Sector
+Perugia,Communication,0,0.9644582273709865,Sector
+Perugia,Trade,41,0.13418130330990385,Sector
+Perugia,Business_Services,53,0.5109073095263159,Sector
+Perugia,Business_Products,25,0.6763603296961856,Sector
+Perugia,Construction,96,0.6461771926080196,Sector
+Perugia,Services,22,0.7870517011967217,Sector
+Perugia,Mining,56,0.24798503255324955,Sector
+Perugia,Health_Care,29,0.6545978325424224,Sector
+Perugia,EnergyExpL_Prod,22,0.44147412163268773,Sector
+Perugia,Utilities,81,0.8625132631231528,Sector

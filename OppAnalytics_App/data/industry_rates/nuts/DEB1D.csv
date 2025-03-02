@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rhein-Hunsrück-Kreis,740,0.45302923830185926,Overall
+Rhein-Hunsrück-Kreis,HiTech,59,0.5155874220861619,Sector
+Rhein-Hunsrück-Kreis,Agriculture,67,0.18828009385766709,Sector
+Rhein-Hunsrück-Kreis,Transportation,93,0.32805693148488135,Sector
+Rhein-Hunsrück-Kreis,Consumer_Products,18,0.8721685895094056,Sector
+Rhein-Hunsrück-Kreis,Unassigned,60,0.31211526612769824,Sector
+Rhein-Hunsrück-Kreis,Communication,2,0.6581556986950319,Sector
+Rhein-Hunsrück-Kreis,Trade,4,0.06057295745643765,Sector
+Rhein-Hunsrück-Kreis,Business_Services,26,0.5547795185688709,Sector
+Rhein-Hunsrück-Kreis,Business_Products,23,0.32721791180583604,Sector
+Rhein-Hunsrück-Kreis,Construction,56,0.16269178140356666,Sector
+Rhein-Hunsrück-Kreis,Services,97,0.5064362371081306,Sector
+Rhein-Hunsrück-Kreis,Mining,96,0.43654982439814183,Sector
+Rhein-Hunsrück-Kreis,Health_Care,28,0.1466922132393964,Sector
+Rhein-Hunsrück-Kreis,EnergyExpL_Prod,90,0.8754032007256436,Sector
+Rhein-Hunsrück-Kreis,Utilities,21,0.8507309280610199,Sector

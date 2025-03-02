@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pinneberg,814,0.5693742834112271,Overall
+Pinneberg,HiTech,14,0.6060720889383032,Sector
+Pinneberg,Agriculture,35,0.6831487292320384,Sector
+Pinneberg,Transportation,77,0.32841617907505294,Sector
+Pinneberg,Consumer_Products,42,0.23846890807119814,Sector
+Pinneberg,Unassigned,76,0.5743093925035356,Sector
+Pinneberg,Communication,5,0.519140470991146,Sector
+Pinneberg,Trade,98,0.8842438912719675,Sector
+Pinneberg,Business_Services,97,0.9689280965712297,Sector
+Pinneberg,Business_Products,72,0.6381281993649224,Sector
+Pinneberg,Construction,80,0.6559000097030432,Sector
+Pinneberg,Services,25,0.3305858440648771,Sector
+Pinneberg,Mining,20,0.139751311641093,Sector
+Pinneberg,Health_Care,36,0.2588713817411836,Sector
+Pinneberg,EnergyExpL_Prod,75,0.9189655635527973,Sector
+Pinneberg,Utilities,62,0.795684184446019,Sector

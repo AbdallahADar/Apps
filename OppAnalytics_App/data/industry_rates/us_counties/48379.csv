@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rains,797,0.5184526514362393,Overall
+Rains,HiTech,59,0.45389498471669876,Sector
+Rains,Agriculture,42,0.2980963888766245,Sector
+Rains,Transportation,57,0.1465332440080479,Sector
+Rains,Consumer_Products,17,0.12675531509116977,Sector
+Rains,Unassigned,21,0.32639061986730755,Sector
+Rains,Communication,83,0.09081652915229521,Sector
+Rains,Trade,72,0.49627449408103763,Sector
+Rains,Business_Services,27,0.8485820393366675,Sector
+Rains,Business_Products,82,0.7756949211791079,Sector
+Rains,Construction,42,0.4086254175544557,Sector
+Rains,Services,51,0.9945135245598382,Sector
+Rains,Mining,21,0.9080376431743706,Sector
+Rains,Health_Care,77,0.8738435853691393,Sector
+Rains,EnergyExpL_Prod,89,0.4338396341688031,Sector
+Rains,Utilities,57,0.5948914304080241,Sector

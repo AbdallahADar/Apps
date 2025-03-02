@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Coburg, Kreisfreie Stadt",625,0.5056878576754723,Overall
+"Coburg, Kreisfreie Stadt",HiTech,8,0.5284403637069381,Sector
+"Coburg, Kreisfreie Stadt",Agriculture,91,0.04472396619454588,Sector
+"Coburg, Kreisfreie Stadt",Transportation,50,0.8814717033649171,Sector
+"Coburg, Kreisfreie Stadt",Consumer_Products,12,0.3291624078214871,Sector
+"Coburg, Kreisfreie Stadt",Unassigned,77,0.41904635971462034,Sector
+"Coburg, Kreisfreie Stadt",Communication,96,0.8357235022590327,Sector
+"Coburg, Kreisfreie Stadt",Trade,22,0.6540165460493182,Sector
+"Coburg, Kreisfreie Stadt",Business_Services,54,0.11705265130277909,Sector
+"Coburg, Kreisfreie Stadt",Business_Products,7,0.36072708863335334,Sector
+"Coburg, Kreisfreie Stadt",Construction,1,0.9035333329076023,Sector
+"Coburg, Kreisfreie Stadt",Services,5,0.6390137398352894,Sector
+"Coburg, Kreisfreie Stadt",Mining,19,0.17678923376296163,Sector
+"Coburg, Kreisfreie Stadt",Health_Care,81,0.8181368971256019,Sector
+"Coburg, Kreisfreie Stadt",EnergyExpL_Prod,82,0.22972977950462392,Sector
+"Coburg, Kreisfreie Stadt",Utilities,20,0.6477502929490129,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Red Willow,874,0.3803657179554195,Overall
+Red Willow,HiTech,50,0.27039018948156945,Sector
+Red Willow,Agriculture,61,0.6032800301651036,Sector
+Red Willow,Transportation,0,0.5697568206980934,Sector
+Red Willow,Consumer_Products,95,0.29783044600885966,Sector
+Red Willow,Unassigned,96,0.5490235582437776,Sector
+Red Willow,Communication,24,0.10405859031708076,Sector
+Red Willow,Trade,35,0.14333176869219877,Sector
+Red Willow,Business_Services,95,0.521410868414249,Sector
+Red Willow,Business_Products,1,0.058467839578130065,Sector
+Red Willow,Construction,93,0.543857896232969,Sector
+Red Willow,Services,40,0.12671722324689938,Sector
+Red Willow,Mining,81,0.22142367342502178,Sector
+Red Willow,Health_Care,88,0.4119530018029569,Sector
+Red Willow,EnergyExpL_Prod,52,0.8320401324738027,Sector
+Red Willow,Utilities,63,0.45194373055058024,Sector

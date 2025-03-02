@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Baca,683,0.5506374225956353,Overall
+Baca,HiTech,85,0.24645566490376947,Sector
+Baca,Agriculture,22,0.37095283715096106,Sector
+Baca,Transportation,2,0.8458412169910526,Sector
+Baca,Consumer_Products,27,0.7651909339507478,Sector
+Baca,Unassigned,45,0.042485043260510835,Sector
+Baca,Communication,88,0.6367530890230202,Sector
+Baca,Trade,29,0.9176437934020713,Sector
+Baca,Business_Services,40,0.6998795908501777,Sector
+Baca,Business_Products,65,0.5623819391730273,Sector
+Baca,Construction,62,0.48745961660607384,Sector
+Baca,Services,9,0.30743337494633394,Sector
+Baca,Mining,37,0.33223344418637435,Sector
+Baca,Health_Care,18,0.5253883037748424,Sector
+Baca,EnergyExpL_Prod,94,0.585555502414507,Sector
+Baca,Utilities,60,0.9339069883010593,Sector

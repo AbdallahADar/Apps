@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,La Rioja,683,0.43583083375483983,Overall
+La Rioja,HiTech,91,0.6568107553997623,Sector
+La Rioja,Agriculture,15,0.3075403601720176,Sector
+La Rioja,Transportation,65,0.2320484996001546,Sector
+La Rioja,Consumer_Products,61,0.5021050103211914,Sector
+La Rioja,Unassigned,82,0.3241196817556199,Sector
+La Rioja,Communication,59,0.3650607504607378,Sector
+La Rioja,Trade,1,0.2173944039543274,Sector
+La Rioja,Business_Services,71,0.6772943491518285,Sector
+La Rioja,Business_Products,24,0.3093689046218757,Sector
+La Rioja,Construction,2,0.47032037569438323,Sector
+La Rioja,Services,49,0.40617955144803697,Sector
+La Rioja,Mining,36,0.9402493089911099,Sector
+La Rioja,Health_Care,51,0.11287735463960091,Sector
+La Rioja,EnergyExpL_Prod,48,0.3158831047234475,Sector
+La Rioja,Utilities,28,0.7002100953885049,Sector

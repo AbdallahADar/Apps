@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Miasto Poznań,741,0.40498000433718395,Overall
+Miasto Poznań,HiTech,32,0.6237338141223668,Sector
+Miasto Poznań,Agriculture,50,0.25762513543410326,Sector
+Miasto Poznań,Transportation,25,0.30363673717055695,Sector
+Miasto Poznań,Consumer_Products,40,0.47092890816805844,Sector
+Miasto Poznań,Unassigned,62,0.9470251420069108,Sector
+Miasto Poznań,Communication,87,0.49073025432572115,Sector
+Miasto Poznań,Trade,35,0.09668585338995406,Sector
+Miasto Poznań,Business_Services,63,0.7475476364425453,Sector
+Miasto Poznań,Business_Products,57,0.8692618103508554,Sector
+Miasto Poznań,Construction,59,0.23647321925641296,Sector
+Miasto Poznań,Services,80,0.061122274361936624,Sector
+Miasto Poznań,Mining,1,0.0035243582426393028,Sector
+Miasto Poznań,Health_Care,72,0.0323915624648472,Sector
+Miasto Poznań,EnergyExpL_Prod,29,0.828473184410662,Sector
+Miasto Poznań,Utilities,49,0.10554017491018841,Sector

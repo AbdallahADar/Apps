@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ward,711,0.5071709484397584,Overall
+Ward,HiTech,18,0.404392539906021,Sector
+Ward,Agriculture,56,0.1836974215307483,Sector
+Ward,Transportation,72,0.9753018230184668,Sector
+Ward,Consumer_Products,62,0.683780285949586,Sector
+Ward,Unassigned,65,0.716321712538424,Sector
+Ward,Communication,21,0.6631085309848731,Sector
+Ward,Trade,3,0.7142674282499046,Sector
+Ward,Business_Services,27,0.3391095453311107,Sector
+Ward,Business_Products,32,0.46571402083269986,Sector
+Ward,Construction,95,0.07323212357337638,Sector
+Ward,Services,22,0.8991813718392194,Sector
+Ward,Mining,48,0.03588607578001468,Sector
+Ward,Health_Care,84,0.21428570780170675,Sector
+Ward,EnergyExpL_Prod,68,0.4373925506487186,Sector
+Ward,Utilities,38,0.8018930886115054,Sector

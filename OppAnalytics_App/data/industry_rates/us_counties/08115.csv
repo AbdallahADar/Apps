@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sedgwick,759,0.5879517938249175,Overall
+Sedgwick,HiTech,49,0.6993769748423134,Sector
+Sedgwick,Agriculture,23,0.6329050701753391,Sector
+Sedgwick,Transportation,51,0.8420347614583172,Sector
+Sedgwick,Consumer_Products,89,0.8508422543801311,Sector
+Sedgwick,Unassigned,35,0.33045200910864136,Sector
+Sedgwick,Communication,59,0.014663228435195186,Sector
+Sedgwick,Trade,20,0.08398668538906451,Sector
+Sedgwick,Business_Services,40,0.33396160004227127,Sector
+Sedgwick,Business_Products,95,0.8951583356610738,Sector
+Sedgwick,Construction,47,0.9818252967954013,Sector
+Sedgwick,Services,34,0.7184502387235493,Sector
+Sedgwick,Mining,93,0.637685185973938,Sector
+Sedgwick,Health_Care,55,0.8848651929959143,Sector
+Sedgwick,EnergyExpL_Prod,34,0.12161353123028218,Sector
+Sedgwick,Utilities,35,0.7914565421623321,Sector

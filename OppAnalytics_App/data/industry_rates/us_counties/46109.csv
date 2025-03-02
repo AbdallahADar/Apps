@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Roberts,1009,0.5326743251984174,Overall
+Roberts,HiTech,41,0.03828390019596384,Sector
+Roberts,Agriculture,84,0.3293093766337647,Sector
+Roberts,Transportation,84,0.8026767894394842,Sector
+Roberts,Consumer_Products,97,0.5479725930511026,Sector
+Roberts,Unassigned,99,0.9384649779026877,Sector
+Roberts,Communication,27,0.8853863288838393,Sector
+Roberts,Trade,77,0.1876524258499015,Sector
+Roberts,Business_Services,93,0.6758629334630529,Sector
+Roberts,Business_Products,3,0.07528970548268832,Sector
+Roberts,Construction,52,0.3529260296271193,Sector
+Roberts,Services,95,0.9880115491880002,Sector
+Roberts,Mining,52,0.8201052111087107,Sector
+Roberts,Health_Care,83,0.5827003549010825,Sector
+Roberts,EnergyExpL_Prod,93,0.29132358948441495,Sector
+Roberts,Utilities,29,0.4741491127644478,Sector

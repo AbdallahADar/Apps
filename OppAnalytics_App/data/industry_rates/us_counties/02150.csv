@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kodiak Island,733,0.5071391937658767,Overall
+Kodiak Island,HiTech,78,0.7637885087926786,Sector
+Kodiak Island,Agriculture,66,0.7743910409443352,Sector
+Kodiak Island,Transportation,96,0.42657872894495186,Sector
+Kodiak Island,Consumer_Products,67,0.7181443970510326,Sector
+Kodiak Island,Unassigned,3,0.6039679045572186,Sector
+Kodiak Island,Communication,76,0.2784055361572074,Sector
+Kodiak Island,Trade,4,0.8722922089377317,Sector
+Kodiak Island,Business_Services,73,0.5782511090693957,Sector
+Kodiak Island,Business_Products,3,0.2949561770574768,Sector
+Kodiak Island,Construction,1,0.7054332309777704,Sector
+Kodiak Island,Services,22,0.8859059267000655,Sector
+Kodiak Island,Mining,20,0.165559968583869,Sector
+Kodiak Island,Health_Care,98,0.06579311124388143,Sector
+Kodiak Island,EnergyExpL_Prod,99,0.13793118056362108,Sector
+Kodiak Island,Utilities,27,0.3356888769069143,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Suffolk,642,0.5119265836030603,Overall
+Suffolk,HiTech,89,0.16122579232390954,Sector
+Suffolk,Agriculture,24,0.897037433769376,Sector
+Suffolk,Transportation,85,0.46659144863379576,Sector
+Suffolk,Consumer_Products,18,0.3045278646839139,Sector
+Suffolk,Unassigned,0,0.7214930409716003,Sector
+Suffolk,Communication,29,0.7272527717730194,Sector
+Suffolk,Trade,33,0.3665907298925092,Sector
+Suffolk,Business_Services,86,0.01288958313203914,Sector
+Suffolk,Business_Products,60,0.5191827960536028,Sector
+Suffolk,Construction,43,0.36190782796298127,Sector
+Suffolk,Services,20,0.6907491150485745,Sector
+Suffolk,Mining,64,0.9597558485954832,Sector
+Suffolk,Health_Care,66,0.5425740909122129,Sector
+Suffolk,EnergyExpL_Prod,19,0.13916775364299094,Sector
+Suffolk,Utilities,6,0.8079526566498955,Sector

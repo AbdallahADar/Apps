@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pembina,689,0.42155124705357133,Overall
+Pembina,HiTech,68,0.6339753568806071,Sector
+Pembina,Agriculture,7,0.14258483676238398,Sector
+Pembina,Transportation,42,0.36959507820857074,Sector
+Pembina,Consumer_Products,55,0.914886894438961,Sector
+Pembina,Unassigned,7,0.057248326479009015,Sector
+Pembina,Communication,34,0.035824009579777716,Sector
+Pembina,Trade,17,0.7601967869236966,Sector
+Pembina,Business_Services,22,0.26140139329513545,Sector
+Pembina,Business_Products,57,8.990983500489769e-06,Sector
+Pembina,Construction,74,0.454831543315118,Sector
+Pembina,Services,5,0.5454562149595538,Sector
+Pembina,Mining,79,0.3036912819021731,Sector
+Pembina,Health_Care,43,0.1973866217253455,Sector
+Pembina,EnergyExpL_Prod,80,0.6978105785982267,Sector
+Pembina,Utilities,99,0.9483707917515106,Sector

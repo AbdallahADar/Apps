@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Renville,748,0.6205371779275929,Overall
+Renville,HiTech,29,0.6712517241744378,Sector
+Renville,Agriculture,69,0.7942270949866935,Sector
+Renville,Transportation,30,0.5792277725418261,Sector
+Renville,Consumer_Products,33,0.8068466038424865,Sector
+Renville,Unassigned,67,0.8401166365678059,Sector
+Renville,Communication,0,0.20613726473243288,Sector
+Renville,Trade,96,0.14246805189589007,Sector
+Renville,Business_Services,66,0.4895348963345013,Sector
+Renville,Business_Products,50,0.28208723475507436,Sector
+Renville,Construction,10,0.8219474225732827,Sector
+Renville,Services,78,0.9142560375012277,Sector
+Renville,Mining,40,0.8058890893679276,Sector
+Renville,Health_Care,98,0.7445231478410792,Sector
+Renville,EnergyExpL_Prod,46,0.9635811726336986,Sector
+Renville,Utilities,36,0.2459635191655285,Sector

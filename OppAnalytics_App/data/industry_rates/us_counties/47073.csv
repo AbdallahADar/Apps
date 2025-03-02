@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hawkins,814,0.606085783200309,Overall
+Hawkins,HiTech,17,0.7886880888183843,Sector
+Hawkins,Agriculture,80,0.5313508183768444,Sector
+Hawkins,Transportation,41,0.8479721538791917,Sector
+Hawkins,Consumer_Products,63,0.758313879071109,Sector
+Hawkins,Unassigned,75,0.7335542633253711,Sector
+Hawkins,Communication,16,0.5906291761911007,Sector
+Hawkins,Trade,8,0.6213714724590486,Sector
+Hawkins,Business_Services,34,0.27600043588287715,Sector
+Hawkins,Business_Products,92,0.1908061240195289,Sector
+Hawkins,Construction,26,0.3869151323625485,Sector
+Hawkins,Services,76,0.9076579912964532,Sector
+Hawkins,Mining,64,0.16862534698844256,Sector
+Hawkins,Health_Care,47,0.9616664305762733,Sector
+Hawkins,EnergyExpL_Prod,79,0.7311378298048649,Sector
+Hawkins,Utilities,96,0.5965976049525981,Sector

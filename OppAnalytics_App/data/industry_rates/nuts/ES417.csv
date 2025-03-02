@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Soria,708,0.5776132113189543,Overall
+Soria,HiTech,4,0.44244664189694816,Sector
+Soria,Agriculture,17,0.8016639233684615,Sector
+Soria,Transportation,91,0.9989905475379552,Sector
+Soria,Consumer_Products,50,0.18593044811544535,Sector
+Soria,Unassigned,47,0.5401867294297812,Sector
+Soria,Communication,74,0.04173513586454247,Sector
+Soria,Trade,28,0.739797072144753,Sector
+Soria,Business_Services,4,0.5983878852718175,Sector
+Soria,Business_Products,94,0.758139974852928,Sector
+Soria,Construction,69,0.922595258595705,Sector
+Soria,Services,45,0.9151190102588153,Sector
+Soria,Mining,76,0.06192724623431678,Sector
+Soria,Health_Care,84,0.6756211304796998,Sector
+Soria,EnergyExpL_Prod,23,0.24132182919158962,Sector
+Soria,Utilities,2,0.7403353365415546,Sector

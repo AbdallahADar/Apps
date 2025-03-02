@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Acadia,903,0.5720311926146103,Overall
+Acadia,HiTech,1,0.000580479885583518,Sector
+Acadia,Agriculture,52,0.9381552296402929,Sector
+Acadia,Transportation,34,0.8249195667025093,Sector
+Acadia,Consumer_Products,81,0.8529615520814441,Sector
+Acadia,Unassigned,53,0.28199078857445203,Sector
+Acadia,Communication,56,0.36770278078857666,Sector
+Acadia,Trade,8,0.6992352238949512,Sector
+Acadia,Business_Services,91,0.9682699193935334,Sector
+Acadia,Business_Products,83,0.6740381296129463,Sector
+Acadia,Construction,89,0.8156588553252312,Sector
+Acadia,Services,78,0.5917427528269922,Sector
+Acadia,Mining,58,0.7458838412298047,Sector
+Acadia,Health_Care,89,0.27469065650542135,Sector
+Acadia,EnergyExpL_Prod,84,0.03125696564474045,Sector
+Acadia,Utilities,46,0.5133811471126771,Sector

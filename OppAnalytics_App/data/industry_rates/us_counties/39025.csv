@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Clermont,730,0.5907001292247281,Overall
+Clermont,HiTech,59,0.10583683418618839,Sector
+Clermont,Agriculture,5,0.9232792560175372,Sector
+Clermont,Transportation,45,0.8769434985491575,Sector
+Clermont,Consumer_Products,49,0.011491168035310806,Sector
+Clermont,Unassigned,98,0.08870937308451765,Sector
+Clermont,Communication,3,0.8468218270774176,Sector
+Clermont,Trade,55,0.8274737971743209,Sector
+Clermont,Business_Services,2,0.1424067171208967,Sector
+Clermont,Business_Products,71,0.45913795929478773,Sector
+Clermont,Construction,90,0.8672124548528455,Sector
+Clermont,Services,37,0.8376528719052053,Sector
+Clermont,Mining,75,0.5766362953168006,Sector
+Clermont,Health_Care,54,0.5453218609522097,Sector
+Clermont,EnergyExpL_Prod,9,0.8010652446022565,Sector
+Clermont,Utilities,78,0.9505127802014702,Sector

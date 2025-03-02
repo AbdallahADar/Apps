@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zaanstreek,997,0.444037500307721,Overall
+Zaanstreek,HiTech,60,0.19218578721251756,Sector
+Zaanstreek,Agriculture,84,0.4598096649880946,Sector
+Zaanstreek,Transportation,79,0.13648697070291227,Sector
+Zaanstreek,Consumer_Products,79,0.5744560368013543,Sector
+Zaanstreek,Unassigned,33,0.9862007498150218,Sector
+Zaanstreek,Communication,6,0.7201164868829757,Sector
+Zaanstreek,Trade,81,0.5599149362292318,Sector
+Zaanstreek,Business_Services,86,0.4966971417899916,Sector
+Zaanstreek,Business_Products,88,0.213320615707149,Sector
+Zaanstreek,Construction,95,0.18126939714867019,Sector
+Zaanstreek,Services,73,0.2476353777844451,Sector
+Zaanstreek,Mining,65,0.15691817992888313,Sector
+Zaanstreek,Health_Care,9,0.35700419171667985,Sector
+Zaanstreek,EnergyExpL_Prod,75,0.4820045924626615,Sector
+Zaanstreek,Utilities,84,0.8965423754452273,Sector

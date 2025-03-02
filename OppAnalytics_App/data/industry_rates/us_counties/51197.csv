@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wythe,633,0.5543392054095262,Overall
+Wythe,HiTech,15,0.20805020563171206,Sector
+Wythe,Agriculture,36,0.9654935909713775,Sector
+Wythe,Transportation,6,0.7251410319231408,Sector
+Wythe,Consumer_Products,11,0.6677869369490265,Sector
+Wythe,Unassigned,58,0.3404938919613175,Sector
+Wythe,Communication,30,0.5137565256237799,Sector
+Wythe,Trade,22,0.8484596604739243,Sector
+Wythe,Business_Services,80,0.7554434846517067,Sector
+Wythe,Business_Products,41,0.5560207214123047,Sector
+Wythe,Construction,52,0.7265369287827709,Sector
+Wythe,Services,85,0.7207263954382372,Sector
+Wythe,Mining,41,0.04507608764171489,Sector
+Wythe,Health_Care,52,0.0726404406875556,Sector
+Wythe,EnergyExpL_Prod,52,0.8746467488505203,Sector
+Wythe,Utilities,52,0.2948154301438033,Sector

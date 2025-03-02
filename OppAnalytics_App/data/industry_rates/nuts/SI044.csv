@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Obalno-kraška,583,0.49814082266864074,Overall
+Obalno-kraška,HiTech,22,0.6714475073953289,Sector
+Obalno-kraška,Agriculture,8,0.11932967870101174,Sector
+Obalno-kraška,Transportation,68,0.7963048925469352,Sector
+Obalno-kraška,Consumer_Products,35,0.12606928596882172,Sector
+Obalno-kraška,Unassigned,5,0.5520595714855644,Sector
+Obalno-kraška,Communication,60,0.9491802204030273,Sector
+Obalno-kraška,Trade,58,0.7847853355585177,Sector
+Obalno-kraška,Business_Services,35,0.5597250331236499,Sector
+Obalno-kraška,Business_Products,21,0.35289430354480933,Sector
+Obalno-kraška,Construction,16,0.49260144598200495,Sector
+Obalno-kraška,Services,66,0.07232888320051845,Sector
+Obalno-kraška,Mining,66,0.1802930608134382,Sector
+Obalno-kraška,Health_Care,51,0.738187280893708,Sector
+Obalno-kraška,EnergyExpL_Prod,9,0.22974997895221216,Sector
+Obalno-kraška,Utilities,63,0.8471558614600634,Sector

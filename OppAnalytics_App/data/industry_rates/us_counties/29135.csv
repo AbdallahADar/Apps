@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Moniteau,813,0.5754258157359681,Overall
+Moniteau,HiTech,98,0.17068103753154829,Sector
+Moniteau,Agriculture,77,0.6923117471793189,Sector
+Moniteau,Transportation,47,0.8202527160060229,Sector
+Moniteau,Consumer_Products,80,0.725314068343714,Sector
+Moniteau,Unassigned,26,0.7581260441125974,Sector
+Moniteau,Communication,26,0.30425648691429175,Sector
+Moniteau,Trade,39,0.33047774510356387,Sector
+Moniteau,Business_Services,77,0.7230744178242136,Sector
+Moniteau,Business_Products,93,0.8264016383730404,Sector
+Moniteau,Construction,17,0.5555860096032301,Sector
+Moniteau,Services,83,0.7391328116414233,Sector
+Moniteau,Mining,38,0.46011423873484747,Sector
+Moniteau,Health_Care,11,0.42806534714739375,Sector
+Moniteau,EnergyExpL_Prod,12,0.50722858856331,Sector
+Moniteau,Utilities,89,0.5903643389610039,Sector

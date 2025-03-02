@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Calumet,682,0.5831082629425661,Overall
+Calumet,HiTech,4,0.7558822999137125,Sector
+Calumet,Agriculture,64,0.7857912300959374,Sector
+Calumet,Transportation,14,0.9160848913917324,Sector
+Calumet,Consumer_Products,12,0.7270872829574168,Sector
+Calumet,Unassigned,53,0.07067442275275904,Sector
+Calumet,Communication,77,0.3297312703144627,Sector
+Calumet,Trade,24,0.20896098886769698,Sector
+Calumet,Business_Services,85,0.9235734837182296,Sector
+Calumet,Business_Products,96,0.38511810719705053,Sector
+Calumet,Construction,18,0.9991392388766223,Sector
+Calumet,Services,4,0.800027896549354,Sector
+Calumet,Mining,36,0.9146896622722916,Sector
+Calumet,Health_Care,77,0.46665200244751126,Sector
+Calumet,EnergyExpL_Prod,59,0.16113153034853445,Sector
+Calumet,Utilities,59,0.30207963643518077,Sector

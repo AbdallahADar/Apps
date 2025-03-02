@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hutchinson,561,0.5966547838880084,Overall
+Hutchinson,HiTech,41,0.4025855694973508,Sector
+Hutchinson,Agriculture,30,0.5922410223948211,Sector
+Hutchinson,Transportation,75,0.5477804791510839,Sector
+Hutchinson,Consumer_Products,73,0.5672198085470885,Sector
+Hutchinson,Unassigned,14,0.8792163597076461,Sector
+Hutchinson,Communication,4,0.9401786302319736,Sector
+Hutchinson,Trade,23,0.3618372905930419,Sector
+Hutchinson,Business_Services,17,0.971342168600465,Sector
+Hutchinson,Business_Products,59,0.3025063307699545,Sector
+Hutchinson,Construction,32,0.6033486740004285,Sector
+Hutchinson,Services,71,0.4884032330909849,Sector
+Hutchinson,Mining,41,0.6641199894564476,Sector
+Hutchinson,Health_Care,45,0.9994395402888568,Sector
+Hutchinson,EnergyExpL_Prod,22,0.3321464849335509,Sector
+Hutchinson,Utilities,14,0.29745617705643235,Sector

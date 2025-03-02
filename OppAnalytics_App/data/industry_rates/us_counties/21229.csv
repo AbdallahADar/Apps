@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Washington,784,0.40210887567454906,Overall
+Washington,HiTech,96,0.0010285414330183373,Sector
+Washington,Agriculture,11,0.5637164106802757,Sector
+Washington,Transportation,96,0.5531837009714189,Sector
+Washington,Consumer_Products,14,0.10760000743099185,Sector
+Washington,Unassigned,81,0.4443635662182073,Sector
+Washington,Communication,42,0.4540056921378256,Sector
+Washington,Trade,96,0.14520742959210053,Sector
+Washington,Business_Services,91,0.8843148703274714,Sector
+Washington,Business_Products,73,0.5297296925960935,Sector
+Washington,Construction,80,0.6372229313523302,Sector
+Washington,Services,3,0.8897846377565916,Sector
+Washington,Mining,39,0.21050150620657848,Sector
+Washington,Health_Care,3,0.21857625805852376,Sector
+Washington,EnergyExpL_Prod,54,0.27109943749963283,Sector
+Washington,Utilities,5,0.12129845285717689,Sector

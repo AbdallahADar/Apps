@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Champaign,579,0.554356812128072,Overall
+Champaign,HiTech,42,0.2888448268530148,Sector
+Champaign,Agriculture,66,0.6327690637158124,Sector
+Champaign,Transportation,59,0.8979903839105149,Sector
+Champaign,Consumer_Products,36,0.1326782102171914,Sector
+Champaign,Unassigned,27,0.24761573721204744,Sector
+Champaign,Communication,28,0.6654137626398806,Sector
+Champaign,Trade,8,0.5505672336400534,Sector
+Champaign,Business_Services,9,0.2990762125714457,Sector
+Champaign,Business_Products,74,0.7367308835413283,Sector
+Champaign,Construction,29,0.4553005519212062,Sector
+Champaign,Services,41,0.7402370699850671,Sector
+Champaign,Mining,56,0.9580216706456627,Sector
+Champaign,Health_Care,57,0.6231922488566309,Sector
+Champaign,EnergyExpL_Prod,46,0.18835301601676246,Sector
+Champaign,Utilities,1,0.8985613101944613,Sector

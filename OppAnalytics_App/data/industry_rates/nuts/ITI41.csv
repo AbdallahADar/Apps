@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Viterbo,707,0.4471210332612735,Overall
+Viterbo,HiTech,0,0.16026953878535066,Sector
+Viterbo,Agriculture,79,0.49571298435150835,Sector
+Viterbo,Transportation,46,0.5134963542852724,Sector
+Viterbo,Consumer_Products,30,0.4975741269438577,Sector
+Viterbo,Unassigned,4,0.7387374868734938,Sector
+Viterbo,Communication,87,0.2723649863731199,Sector
+Viterbo,Trade,41,0.0597309622623452,Sector
+Viterbo,Business_Services,65,0.7104549444093302,Sector
+Viterbo,Business_Products,36,0.6130362926174339,Sector
+Viterbo,Construction,9,0.8088263119145142,Sector
+Viterbo,Services,78,0.8823817410454746,Sector
+Viterbo,Mining,85,0.1980825551513471,Sector
+Viterbo,Health_Care,84,0.3715207860999392,Sector
+Viterbo,EnergyExpL_Prod,54,0.0894706146467239,Sector
+Viterbo,Utilities,9,0.2951558131593903,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Russell,812,0.4410696289029413,Overall
+Russell,HiTech,41,0.8697034479555434,Sector
+Russell,Agriculture,73,0.8285809635633489,Sector
+Russell,Transportation,54,0.022179285608313948,Sector
+Russell,Consumer_Products,24,0.9142768823714661,Sector
+Russell,Unassigned,23,0.7078789910617143,Sector
+Russell,Communication,73,0.6256061810702352,Sector
+Russell,Trade,72,0.5295553019800744,Sector
+Russell,Business_Services,45,0.8453678953604178,Sector
+Russell,Business_Products,18,0.02346141209150565,Sector
+Russell,Construction,23,0.7487773854545459,Sector
+Russell,Services,34,0.022799781831744803,Sector
+Russell,Mining,98,0.07172520696829321,Sector
+Russell,Health_Care,91,0.12415239345234375,Sector
+Russell,EnergyExpL_Prod,97,0.1384886279227464,Sector
+Russell,Utilities,46,0.14349067685182548,Sector

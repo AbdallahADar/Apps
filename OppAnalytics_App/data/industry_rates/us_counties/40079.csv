@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Le Flore,784,0.49215231864831566,Overall
+Le Flore,HiTech,94,0.23206597136398033,Sector
+Le Flore,Agriculture,75,0.10689904562114039,Sector
+Le Flore,Transportation,40,0.3516407826859719,Sector
+Le Flore,Consumer_Products,61,0.9108636178229189,Sector
+Le Flore,Unassigned,73,0.7281351429597734,Sector
+Le Flore,Communication,16,0.8999905737949359,Sector
+Le Flore,Trade,57,0.8264661939455494,Sector
+Le Flore,Business_Services,12,0.7297464846918489,Sector
+Le Flore,Business_Products,64,0.4538729041544628,Sector
+Le Flore,Construction,48,0.6269066706834732,Sector
+Le Flore,Services,47,0.21080608916580812,Sector
+Le Flore,Mining,47,0.14677514720010365,Sector
+Le Flore,Health_Care,21,0.23546711472938853,Sector
+Le Flore,EnergyExpL_Prod,80,0.33648775462944935,Sector
+Le Flore,Utilities,49,0.5861612862759296,Sector

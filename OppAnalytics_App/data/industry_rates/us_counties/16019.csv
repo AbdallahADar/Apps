@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bonneville,841,0.6016133330718193,Overall
+Bonneville,HiTech,3,0.022593870146582207,Sector
+Bonneville,Agriculture,83,0.5094913122604238,Sector
+Bonneville,Transportation,6,0.6628982177585206,Sector
+Bonneville,Consumer_Products,47,0.9767024930047115,Sector
+Bonneville,Unassigned,32,0.4844313348394649,Sector
+Bonneville,Communication,75,0.728766409390088,Sector
+Bonneville,Trade,2,0.9396117120211886,Sector
+Bonneville,Business_Services,84,0.08524971090122535,Sector
+Bonneville,Business_Products,68,0.7408803493030562,Sector
+Bonneville,Construction,78,0.6715132878859607,Sector
+Bonneville,Services,47,0.6341759905645935,Sector
+Bonneville,Mining,92,0.4001954052420976,Sector
+Bonneville,Health_Care,97,0.34469054825824186,Sector
+Bonneville,EnergyExpL_Prod,30,0.9741841830004906,Sector
+Bonneville,Utilities,97,0.8488151715006429,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Glynn,821,0.47038413645380334,Overall
+Glynn,HiTech,10,0.5674788177338032,Sector
+Glynn,Agriculture,32,0.5310341923767261,Sector
+Glynn,Transportation,49,0.32327233652326315,Sector
+Glynn,Consumer_Products,77,0.8607078630884476,Sector
+Glynn,Unassigned,69,0.0869612338049447,Sector
+Glynn,Communication,24,0.2724976557021934,Sector
+Glynn,Trade,64,0.046837566936000385,Sector
+Glynn,Business_Services,90,0.7484752510206581,Sector
+Glynn,Business_Products,46,0.3614615399844543,Sector
+Glynn,Construction,90,0.7103171786743624,Sector
+Glynn,Services,85,0.927370064968342,Sector
+Glynn,Mining,60,0.11598104692470934,Sector
+Glynn,Health_Care,78,0.5233733690625119,Sector
+Glynn,EnergyExpL_Prod,46,0.5079840068625939,Sector
+Glynn,Utilities,1,0.47200992314404144,Sector

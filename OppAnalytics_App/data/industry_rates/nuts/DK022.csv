@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vest- og Sydsjælland,661,0.5269112190587018,Overall
+Vest- og Sydsjælland,HiTech,85,0.01891367387224474,Sector
+Vest- og Sydsjælland,Agriculture,16,0.6798564789722139,Sector
+Vest- og Sydsjælland,Transportation,8,0.23824313640185513,Sector
+Vest- og Sydsjælland,Consumer_Products,1,0.9658918667509644,Sector
+Vest- og Sydsjælland,Unassigned,55,0.8712166744261519,Sector
+Vest- og Sydsjælland,Communication,47,0.7406876298037304,Sector
+Vest- og Sydsjælland,Trade,96,0.7080804872914945,Sector
+Vest- og Sydsjælland,Business_Services,39,0.3884202180190087,Sector
+Vest- og Sydsjælland,Business_Products,27,0.44510258597731,Sector
+Vest- og Sydsjælland,Construction,41,0.600508169983112,Sector
+Vest- og Sydsjælland,Services,19,0.7794229482482302,Sector
+Vest- og Sydsjælland,Mining,34,0.6678529634459116,Sector
+Vest- og Sydsjælland,Health_Care,82,0.03918223712716884,Sector
+Vest- og Sydsjælland,EnergyExpL_Prod,87,0.03258959085464874,Sector
+Vest- og Sydsjælland,Utilities,24,0.7276996247064825,Sector

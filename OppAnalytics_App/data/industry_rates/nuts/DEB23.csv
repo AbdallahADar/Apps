@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Eifelkreis Bitburg-Prüm,635,0.537908400471441,Overall
+Eifelkreis Bitburg-Prüm,HiTech,61,0.5214479525071878,Sector
+Eifelkreis Bitburg-Prüm,Agriculture,90,0.12208120129633271,Sector
+Eifelkreis Bitburg-Prüm,Transportation,68,0.7326020755140168,Sector
+Eifelkreis Bitburg-Prüm,Consumer_Products,14,0.6350568048031064,Sector
+Eifelkreis Bitburg-Prüm,Unassigned,44,0.9992458795146488,Sector
+Eifelkreis Bitburg-Prüm,Communication,53,0.3092534147358357,Sector
+Eifelkreis Bitburg-Prüm,Trade,15,0.5546457741090031,Sector
+Eifelkreis Bitburg-Prüm,Business_Services,36,0.9917871007464009,Sector
+Eifelkreis Bitburg-Prüm,Business_Products,19,0.2978841643237118,Sector
+Eifelkreis Bitburg-Prüm,Construction,18,0.6913252471044806,Sector
+Eifelkreis Bitburg-Prüm,Services,8,0.08358095178490843,Sector
+Eifelkreis Bitburg-Prüm,Mining,72,0.4883842384963524,Sector
+Eifelkreis Bitburg-Prüm,Health_Care,59,0.8804429888080849,Sector
+Eifelkreis Bitburg-Prüm,EnergyExpL_Prod,50,0.3387155900590083,Sector
+Eifelkreis Bitburg-Prüm,Utilities,28,0.42217262326853655,Sector

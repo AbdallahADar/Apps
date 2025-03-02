@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Anderson,701,0.49584296667631145,Overall
+Anderson,HiTech,75,0.05301631798543893,Sector
+Anderson,Agriculture,69,0.4791085928940326,Sector
+Anderson,Transportation,27,0.030248043137618308,Sector
+Anderson,Consumer_Products,75,0.05951939466505085,Sector
+Anderson,Unassigned,24,0.9566303694413124,Sector
+Anderson,Communication,53,0.5879919747939296,Sector
+Anderson,Trade,30,0.14225063136626026,Sector
+Anderson,Business_Services,6,0.5198700162873724,Sector
+Anderson,Business_Products,22,0.5969106491881931,Sector
+Anderson,Construction,75,0.634771642542519,Sector
+Anderson,Services,48,0.7539382284345315,Sector
+Anderson,Mining,61,0.5076499295763889,Sector
+Anderson,Health_Care,60,0.6244069122565423,Sector
+Anderson,EnergyExpL_Prod,69,0.9078191986320666,Sector
+Anderson,Utilities,7,0.5835125989434149,Sector

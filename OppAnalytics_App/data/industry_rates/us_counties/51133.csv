@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Northumberland,605,0.29019118497039625,Overall
+Northumberland,HiTech,30,0.5706112768230875,Sector
+Northumberland,Agriculture,53,0.8190281161826352,Sector
+Northumberland,Transportation,1,0.04699800912624241,Sector
+Northumberland,Consumer_Products,25,0.5687121725486901,Sector
+Northumberland,Unassigned,9,0.2384189184378429,Sector
+Northumberland,Communication,13,0.05864030609169313,Sector
+Northumberland,Trade,14,0.08942318298635132,Sector
+Northumberland,Business_Services,67,0.6487906454652506,Sector
+Northumberland,Business_Products,62,0.1621996467132577,Sector
+Northumberland,Construction,31,0.16168169300918933,Sector
+Northumberland,Services,51,0.44162519140629486,Sector
+Northumberland,Mining,49,0.005878129531638798,Sector
+Northumberland,Health_Care,79,0.14197911237108518,Sector
+Northumberland,EnergyExpL_Prod,78,0.07790409528606479,Sector
+Northumberland,Utilities,43,0.32097727857661973,Sector

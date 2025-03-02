@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Napoli,655,0.48723630800241774,Overall
+Napoli,HiTech,62,0.7678713055376657,Sector
+Napoli,Agriculture,46,0.9737927366804194,Sector
+Napoli,Transportation,28,0.1762452633457301,Sector
+Napoli,Consumer_Products,77,0.06004685900555262,Sector
+Napoli,Unassigned,17,0.07975772168792461,Sector
+Napoli,Communication,53,0.32395297059051964,Sector
+Napoli,Trade,40,0.5462233807370733,Sector
+Napoli,Business_Services,7,0.6440503774247214,Sector
+Napoli,Business_Products,62,0.9951523338329906,Sector
+Napoli,Construction,4,0.8899297852265124,Sector
+Napoli,Services,77,0.3701523010940949,Sector
+Napoli,Mining,44,0.497451832220292,Sector
+Napoli,Health_Care,38,0.8160990492536603,Sector
+Napoli,EnergyExpL_Prod,34,0.05177008943370709,Sector
+Napoli,Utilities,66,0.11604861396540322,Sector

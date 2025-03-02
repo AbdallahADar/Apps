@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Finistère,689,0.3973425197853326,Overall
+Finistère,HiTech,46,0.9461418299691027,Sector
+Finistère,Agriculture,59,0.01704083361204034,Sector
+Finistère,Transportation,17,0.5481775021548662,Sector
+Finistère,Consumer_Products,30,0.804793088713426,Sector
+Finistère,Unassigned,1,0.040778121762648945,Sector
+Finistère,Communication,93,0.2971905646751958,Sector
+Finistère,Trade,54,0.05755334900489073,Sector
+Finistère,Business_Services,34,0.36812298120464315,Sector
+Finistère,Business_Products,2,0.16910694531279524,Sector
+Finistère,Construction,58,0.5037532255937262,Sector
+Finistère,Services,68,0.32311528100228015,Sector
+Finistère,Mining,42,0.8970939935852419,Sector
+Finistère,Health_Care,9,0.38332396010493053,Sector
+Finistère,EnergyExpL_Prod,89,0.33581175812241637,Sector
+Finistère,Utilities,87,0.2681343619617854,Sector

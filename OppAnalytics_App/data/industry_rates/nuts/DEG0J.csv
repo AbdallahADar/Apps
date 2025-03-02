@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Saale-Holzland-Kreis,748,0.44520311068706725,Overall
+Saale-Holzland-Kreis,HiTech,75,0.1785970974143608,Sector
+Saale-Holzland-Kreis,Agriculture,5,0.2523605013517203,Sector
+Saale-Holzland-Kreis,Transportation,29,0.8118536716934776,Sector
+Saale-Holzland-Kreis,Consumer_Products,32,0.41902888597270127,Sector
+Saale-Holzland-Kreis,Unassigned,40,0.6400210793772807,Sector
+Saale-Holzland-Kreis,Communication,51,0.9935270240218755,Sector
+Saale-Holzland-Kreis,Trade,22,0.9647459715439463,Sector
+Saale-Holzland-Kreis,Business_Services,81,0.4909446710502412,Sector
+Saale-Holzland-Kreis,Business_Products,64,0.3514199744258434,Sector
+Saale-Holzland-Kreis,Construction,52,0.2847762131492305,Sector
+Saale-Holzland-Kreis,Services,89,0.445445613418351,Sector
+Saale-Holzland-Kreis,Mining,30,0.0768694089880555,Sector
+Saale-Holzland-Kreis,Health_Care,24,0.3366087939352914,Sector
+Saale-Holzland-Kreis,EnergyExpL_Prod,69,0.36434984926195246,Sector
+Saale-Holzland-Kreis,Utilities,85,0.06749790470168171,Sector

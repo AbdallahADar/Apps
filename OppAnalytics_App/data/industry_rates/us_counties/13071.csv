@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Colquitt,882,0.38148461039645426,Overall
+Colquitt,HiTech,89,0.1435912510135171,Sector
+Colquitt,Agriculture,41,0.0666024676998257,Sector
+Colquitt,Transportation,22,0.547165071009853,Sector
+Colquitt,Consumer_Products,87,0.1581996074114983,Sector
+Colquitt,Unassigned,23,0.937080928180893,Sector
+Colquitt,Communication,88,0.6754917906907685,Sector
+Colquitt,Trade,48,0.1427884768295029,Sector
+Colquitt,Business_Services,61,0.08358004428588406,Sector
+Colquitt,Business_Products,68,0.31839838846812074,Sector
+Colquitt,Construction,83,0.9599107748476726,Sector
+Colquitt,Services,37,0.1815678772797258,Sector
+Colquitt,Mining,81,0.2758589783022962,Sector
+Colquitt,Health_Care,59,0.3252577642575383,Sector
+Colquitt,EnergyExpL_Prod,45,0.6481871227350453,Sector
+Colquitt,Utilities,50,0.2585886129346715,Sector

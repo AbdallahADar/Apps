@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Erzincan,749,0.5646653734877158,Overall
+Erzincan,HiTech,23,0.7413098281479777,Sector
+Erzincan,Agriculture,73,0.9936155572268826,Sector
+Erzincan,Transportation,68,0.7521366380352017,Sector
+Erzincan,Consumer_Products,86,0.4448335949925244,Sector
+Erzincan,Unassigned,4,0.8694122502578753,Sector
+Erzincan,Communication,15,0.6276915128490844,Sector
+Erzincan,Trade,87,0.35972060485249935,Sector
+Erzincan,Business_Services,73,0.9229540411794938,Sector
+Erzincan,Business_Products,60,0.17533160591134178,Sector
+Erzincan,Construction,49,0.40716899322943767,Sector
+Erzincan,Services,9,0.7838894440966837,Sector
+Erzincan,Mining,24,0.0825960610404789,Sector
+Erzincan,Health_Care,79,0.10206182540681918,Sector
+Erzincan,EnergyExpL_Prod,65,0.7148313098925694,Sector
+Erzincan,Utilities,34,0.492427335196869,Sector

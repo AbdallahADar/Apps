@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Forsyth,709,0.41750079364953163,Overall
+Forsyth,HiTech,98,0.4269683434290866,Sector
+Forsyth,Agriculture,31,0.9902520555343516,Sector
+Forsyth,Transportation,90,0.1909259913798026,Sector
+Forsyth,Consumer_Products,44,0.7440994062662951,Sector
+Forsyth,Unassigned,8,0.4738019324695124,Sector
+Forsyth,Communication,39,0.03072745506601282,Sector
+Forsyth,Trade,89,0.6886616841726871,Sector
+Forsyth,Business_Services,24,0.21283142237253438,Sector
+Forsyth,Business_Products,65,0.602123365763374,Sector
+Forsyth,Construction,45,0.26921128444239906,Sector
+Forsyth,Services,5,0.4646014266934234,Sector
+Forsyth,Mining,70,0.09331424784505571,Sector
+Forsyth,Health_Care,32,0.08379136683770527,Sector
+Forsyth,EnergyExpL_Prod,38,0.5076309247276255,Sector
+Forsyth,Utilities,31,0.48357099774310763,Sector

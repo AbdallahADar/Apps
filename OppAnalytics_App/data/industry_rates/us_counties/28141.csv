@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tishomingo,632,0.5715296080984902,Overall
+Tishomingo,HiTech,42,0.9641681210879142,Sector
+Tishomingo,Agriculture,31,0.33009821805321227,Sector
+Tishomingo,Transportation,57,0.850611459829404,Sector
+Tishomingo,Consumer_Products,10,0.30148334011237954,Sector
+Tishomingo,Unassigned,2,0.2470689505323953,Sector
+Tishomingo,Communication,76,0.4333776433061859,Sector
+Tishomingo,Trade,29,0.9467812603233201,Sector
+Tishomingo,Business_Services,60,0.9458989431237204,Sector
+Tishomingo,Business_Products,18,0.8930145834532311,Sector
+Tishomingo,Construction,35,0.659838980827209,Sector
+Tishomingo,Services,26,0.024818862955377274,Sector
+Tishomingo,Mining,6,0.46892940107799974,Sector
+Tishomingo,Health_Care,91,0.25680030085973715,Sector
+Tishomingo,EnergyExpL_Prod,93,0.6736643995452563,Sector
+Tishomingo,Utilities,56,0.5763896563900094,Sector

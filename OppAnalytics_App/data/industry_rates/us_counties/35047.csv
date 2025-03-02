@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,San Miguel,678,0.4053921506254222,Overall
+San Miguel,HiTech,45,0.138468991786877,Sector
+San Miguel,Agriculture,60,0.865024242117882,Sector
+San Miguel,Transportation,37,0.3542527079905464,Sector
+San Miguel,Consumer_Products,19,0.19380700197160394,Sector
+San Miguel,Unassigned,16,0.5911458972888198,Sector
+San Miguel,Communication,45,0.08392659860285212,Sector
+San Miguel,Trade,89,0.24059611874721232,Sector
+San Miguel,Business_Services,33,0.036489446781667545,Sector
+San Miguel,Business_Products,3,0.3294739176308956,Sector
+San Miguel,Construction,58,0.5605391153295834,Sector
+San Miguel,Services,62,0.6884454690819855,Sector
+San Miguel,Mining,98,0.9978003137116997,Sector
+San Miguel,Health_Care,62,0.071469611434136,Sector
+San Miguel,EnergyExpL_Prod,25,0.9030927585357654,Sector
+San Miguel,Utilities,26,0.02635006836980547,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Houston,747,0.5716048688553673,Overall
+Houston,HiTech,21,0.4320282339013811,Sector
+Houston,Agriculture,34,0.49832573370030775,Sector
+Houston,Transportation,46,0.9402413618472238,Sector
+Houston,Consumer_Products,96,0.7560276398821064,Sector
+Houston,Unassigned,12,0.6840208471143704,Sector
+Houston,Communication,96,0.4582391090192687,Sector
+Houston,Trade,53,0.9891003753273377,Sector
+Houston,Business_Services,89,0.07019517595966995,Sector
+Houston,Business_Products,18,0.418976711045457,Sector
+Houston,Construction,27,0.09663949489579093,Sector
+Houston,Services,51,0.696138350351505,Sector
+Houston,Mining,30,0.8084181181757103,Sector
+Houston,Health_Care,20,0.9440964195609325,Sector
+Houston,EnergyExpL_Prod,91,0.06432501869819962,Sector
+Houston,Utilities,63,0.7173004433512488,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alpena,795,0.4937774426495281,Overall
+Alpena,HiTech,88,0.6275660278942354,Sector
+Alpena,Agriculture,76,0.7717671374489857,Sector
+Alpena,Transportation,22,0.06891307894450338,Sector
+Alpena,Consumer_Products,83,0.44256422067409273,Sector
+Alpena,Unassigned,88,0.3328140287658532,Sector
+Alpena,Communication,89,0.6277496078882064,Sector
+Alpena,Trade,28,0.4253748624932152,Sector
+Alpena,Business_Services,65,0.8424291091312304,Sector
+Alpena,Business_Products,2,0.20909237404522618,Sector
+Alpena,Construction,85,0.8942801239124556,Sector
+Alpena,Services,55,0.39877203806152706,Sector
+Alpena,Mining,20,0.2121830544906521,Sector
+Alpena,Health_Care,42,0.6177912006559443,Sector
+Alpena,EnergyExpL_Prod,43,0.7207294869492572,Sector
+Alpena,Utilities,9,0.21463528838753598,Sector

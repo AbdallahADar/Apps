@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Brugge,854,0.3524976106675003,Overall
+Arr. Brugge,HiTech,74,0.48577947697623614,Sector
+Arr. Brugge,Agriculture,69,0.5252879841459335,Sector
+Arr. Brugge,Transportation,11,0.41797144140922926,Sector
+Arr. Brugge,Consumer_Products,99,0.4911157824559086,Sector
+Arr. Brugge,Unassigned,61,0.056768452846959305,Sector
+Arr. Brugge,Communication,69,0.35943739708803224,Sector
+Arr. Brugge,Trade,45,0.15882499922103144,Sector
+Arr. Brugge,Business_Services,61,0.20735704534568866,Sector
+Arr. Brugge,Business_Products,61,0.37636298640203314,Sector
+Arr. Brugge,Construction,26,0.4152070348474466,Sector
+Arr. Brugge,Services,81,0.6391675670239345,Sector
+Arr. Brugge,Mining,83,0.12001193352014716,Sector
+Arr. Brugge,Health_Care,32,0.3878636801853259,Sector
+Arr. Brugge,EnergyExpL_Prod,43,0.25874513126942833,Sector
+Arr. Brugge,Utilities,39,0.3875632472751688,Sector

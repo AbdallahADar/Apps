@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mid-East,616,0.4883631238396598,Overall
+Mid-East,HiTech,4,0.3268172987551695,Sector
+Mid-East,Agriculture,22,0.4817174273603555,Sector
+Mid-East,Transportation,6,0.8706556456266542,Sector
+Mid-East,Consumer_Products,78,0.6344055609279798,Sector
+Mid-East,Unassigned,27,0.2692658822320453,Sector
+Mid-East,Communication,33,0.7304128280371452,Sector
+Mid-East,Trade,69,0.34071265045962207,Sector
+Mid-East,Business_Services,93,0.7057049932898415,Sector
+Mid-East,Business_Products,22,0.7347941129692581,Sector
+Mid-East,Construction,24,0.6896564482127442,Sector
+Mid-East,Services,40,0.12845231515131172,Sector
+Mid-East,Mining,83,0.8772847907027743,Sector
+Mid-East,Health_Care,11,0.4873134617030641,Sector
+Mid-East,EnergyExpL_Prod,11,0.032406061342905246,Sector
+Mid-East,Utilities,93,0.015847380824027035,Sector

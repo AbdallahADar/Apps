@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Jönköpings län,800,0.4782681063581923,Overall
+Jönköpings län,HiTech,8,0.3555869462290364,Sector
+Jönköpings län,Agriculture,71,0.14042509541247405,Sector
+Jönköpings län,Transportation,42,0.5712923542776494,Sector
+Jönköpings län,Consumer_Products,33,0.9809534321612673,Sector
+Jönköpings län,Unassigned,82,0.5676902427334273,Sector
+Jönköpings län,Communication,43,0.9955688502782776,Sector
+Jönköpings län,Trade,76,0.05735089627809331,Sector
+Jönköpings län,Business_Services,97,0.26320460669734413,Sector
+Jönköpings län,Business_Products,18,0.8944412900222666,Sector
+Jönköpings län,Construction,36,0.9869909583592733,Sector
+Jönköpings län,Services,9,0.28302189065213,Sector
+Jönköpings län,Mining,98,0.5251566513058307,Sector
+Jönköpings län,Health_Care,97,0.40183227220158846,Sector
+Jönköpings län,EnergyExpL_Prod,24,0.06425331309296367,Sector
+Jönköpings län,Utilities,66,0.08625279567126232,Sector

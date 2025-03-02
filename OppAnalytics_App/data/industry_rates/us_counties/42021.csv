@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cambria,692,0.5108081354474496,Overall
+Cambria,HiTech,35,0.2307077491255185,Sector
+Cambria,Agriculture,55,0.6297481478306423,Sector
+Cambria,Transportation,62,0.9678444769261236,Sector
+Cambria,Consumer_Products,48,0.34225165605011965,Sector
+Cambria,Unassigned,35,0.2534404764647683,Sector
+Cambria,Communication,51,0.6221592059424549,Sector
+Cambria,Trade,18,0.17508730753408486,Sector
+Cambria,Business_Services,77,0.839387253928556,Sector
+Cambria,Business_Products,29,0.22695802892029815,Sector
+Cambria,Construction,0,0.5548775381682641,Sector
+Cambria,Services,9,0.7940302398104581,Sector
+Cambria,Mining,35,0.5101008354644994,Sector
+Cambria,Health_Care,62,0.8796242670027955,Sector
+Cambria,EnergyExpL_Prod,81,0.1874006291950373,Sector
+Cambria,Utilities,95,0.44850421934812446,Sector

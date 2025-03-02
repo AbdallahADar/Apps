@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,DuPage,739,0.51480459808037,Overall
+DuPage,HiTech,65,0.09170847414905747,Sector
+DuPage,Agriculture,80,0.5975698441308469,Sector
+DuPage,Transportation,34,0.3082074347948188,Sector
+DuPage,Consumer_Products,88,0.4798987417850453,Sector
+DuPage,Unassigned,22,0.9192165122813784,Sector
+DuPage,Communication,62,0.2439253463991894,Sector
+DuPage,Trade,98,0.34577750205074687,Sector
+DuPage,Business_Services,58,0.7856539053794152,Sector
+DuPage,Business_Products,19,0.017269418946774584,Sector
+DuPage,Construction,25,0.7979812011023993,Sector
+DuPage,Services,3,0.7014696952963702,Sector
+DuPage,Mining,39,0.20190670157092905,Sector
+DuPage,Health_Care,74,0.8577618459522925,Sector
+DuPage,EnergyExpL_Prod,42,0.479521888252881,Sector
+DuPage,Utilities,30,0.8942004591134057,Sector

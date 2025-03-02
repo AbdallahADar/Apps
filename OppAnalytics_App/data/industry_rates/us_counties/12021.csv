@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Collier,559,0.4768108780993142,Overall
+Collier,HiTech,44,0.6640510286771698,Sector
+Collier,Agriculture,19,0.16763322301487937,Sector
+Collier,Transportation,64,0.561042617863344,Sector
+Collier,Consumer_Products,6,0.3120767145763802,Sector
+Collier,Unassigned,27,0.9593418538522528,Sector
+Collier,Communication,87,0.6030223854889523,Sector
+Collier,Trade,51,0.5716712257687909,Sector
+Collier,Business_Services,1,0.3824842501090875,Sector
+Collier,Business_Products,14,0.3986662143793638,Sector
+Collier,Construction,43,0.24968226691002438,Sector
+Collier,Services,24,0.8627217690491372,Sector
+Collier,Mining,54,0.6852755901816819,Sector
+Collier,Health_Care,1,0.5337913714835033,Sector
+Collier,EnergyExpL_Prod,63,0.15809758183931555,Sector
+Collier,Utilities,61,0.04260507829583038,Sector

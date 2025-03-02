@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tillman,568,0.6195228685105483,Overall
+Tillman,HiTech,30,0.8659037390789653,Sector
+Tillman,Agriculture,38,0.8300590516892349,Sector
+Tillman,Transportation,14,0.6316025427144771,Sector
+Tillman,Consumer_Products,99,0.900928289276355,Sector
+Tillman,Unassigned,47,0.8363391825026669,Sector
+Tillman,Communication,4,0.3793369442582819,Sector
+Tillman,Trade,53,0.7237517395886751,Sector
+Tillman,Business_Services,16,0.811108288133757,Sector
+Tillman,Business_Products,14,0.25768071175624585,Sector
+Tillman,Construction,23,0.5686181380706551,Sector
+Tillman,Services,9,0.09156589507492074,Sector
+Tillman,Mining,90,0.7735287623218475,Sector
+Tillman,Health_Care,34,0.9661262035219496,Sector
+Tillman,EnergyExpL_Prod,69,0.4793338774820346,Sector
+Tillman,Utilities,28,0.1769596621881585,Sector

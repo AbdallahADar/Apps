@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Elbe-Elster,708,0.4667488708232454,Overall
+Elbe-Elster,HiTech,87,0.09731567961925569,Sector
+Elbe-Elster,Agriculture,37,0.41795522354180425,Sector
+Elbe-Elster,Transportation,85,0.7500993298851656,Sector
+Elbe-Elster,Consumer_Products,45,0.9155705396121934,Sector
+Elbe-Elster,Unassigned,25,0.6276271579738756,Sector
+Elbe-Elster,Communication,63,0.34659009053477674,Sector
+Elbe-Elster,Trade,75,0.2519621517551902,Sector
+Elbe-Elster,Business_Services,75,0.6259126979142297,Sector
+Elbe-Elster,Business_Products,8,0.7649526013019159,Sector
+Elbe-Elster,Construction,35,0.15912231689629142,Sector
+Elbe-Elster,Services,47,0.028475904742095715,Sector
+Elbe-Elster,Mining,48,0.6167013757066959,Sector
+Elbe-Elster,Health_Care,1,0.6783574975390847,Sector
+Elbe-Elster,EnergyExpL_Prod,31,0.4592100097737808,Sector
+Elbe-Elster,Utilities,46,0.2613804855523254,Sector

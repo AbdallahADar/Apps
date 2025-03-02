@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Utrecht,815,0.6033347702214625,Overall
+Utrecht,HiTech,66,0.9557538312966274,Sector
+Utrecht,Agriculture,30,0.4100375230688229,Sector
+Utrecht,Transportation,82,0.30323138221904267,Sector
+Utrecht,Consumer_Products,31,0.4298982079105077,Sector
+Utrecht,Unassigned,85,0.88761586822693,Sector
+Utrecht,Communication,13,0.7218799433962241,Sector
+Utrecht,Trade,69,0.5519978289151308,Sector
+Utrecht,Business_Services,12,0.5535977991391582,Sector
+Utrecht,Business_Products,71,0.8378495585541592,Sector
+Utrecht,Construction,78,0.9503355043231769,Sector
+Utrecht,Services,1,0.21450003889148617,Sector
+Utrecht,Mining,78,0.6821265785751988,Sector
+Utrecht,Health_Care,74,0.16005683516738234,Sector
+Utrecht,EnergyExpL_Prod,72,0.5084633973741517,Sector
+Utrecht,Utilities,53,0.8826772562639416,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Yuma,723,0.4972939640897476,Overall
+Yuma,HiTech,63,0.4840575258792206,Sector
+Yuma,Agriculture,42,0.9944385774161255,Sector
+Yuma,Transportation,95,0.2653091586991617,Sector
+Yuma,Consumer_Products,10,0.9743742568932071,Sector
+Yuma,Unassigned,72,0.1788217164368321,Sector
+Yuma,Communication,56,0.015553402646520054,Sector
+Yuma,Trade,96,0.8963852208385749,Sector
+Yuma,Business_Services,14,0.897613761945387,Sector
+Yuma,Business_Products,4,0.40318304634299595,Sector
+Yuma,Construction,7,0.2519660849789289,Sector
+Yuma,Services,85,0.6553623084324971,Sector
+Yuma,Mining,51,0.14862512695937502,Sector
+Yuma,Health_Care,44,0.9477936785625948,Sector
+Yuma,EnergyExpL_Prod,37,0.14262187044170438,Sector
+Yuma,Utilities,47,0.203303724873089,Sector

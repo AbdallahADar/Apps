@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lonoke,688,0.531868890474215,Overall
+Lonoke,HiTech,77,0.4304291709753092,Sector
+Lonoke,Agriculture,82,0.2596555906494661,Sector
+Lonoke,Transportation,11,0.2591728592352789,Sector
+Lonoke,Consumer_Products,74,0.9226670642523565,Sector
+Lonoke,Unassigned,89,0.11088021525863467,Sector
+Lonoke,Communication,30,0.911393753624237,Sector
+Lonoke,Trade,9,0.5994910485276307,Sector
+Lonoke,Business_Services,62,0.8269191219938665,Sector
+Lonoke,Business_Products,58,0.6269825771049139,Sector
+Lonoke,Construction,22,0.08481516539810419,Sector
+Lonoke,Services,27,0.3832937487923903,Sector
+Lonoke,Mining,22,0.7584951595906316,Sector
+Lonoke,Health_Care,77,0.8453781348625533,Sector
+Lonoke,EnergyExpL_Prod,33,0.12113575198390125,Sector
+Lonoke,Utilities,15,0.8373239948639519,Sector

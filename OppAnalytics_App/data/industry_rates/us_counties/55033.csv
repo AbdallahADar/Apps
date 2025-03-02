@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dunn,798,0.5251669099301928,Overall
+Dunn,HiTech,45,0.8252291120934996,Sector
+Dunn,Agriculture,14,0.9735395876629108,Sector
+Dunn,Transportation,74,0.927085846736341,Sector
+Dunn,Consumer_Products,77,0.3638438495126626,Sector
+Dunn,Unassigned,96,0.6453384911484712,Sector
+Dunn,Communication,9,0.408080638501891,Sector
+Dunn,Trade,49,0.2795081265957313,Sector
+Dunn,Business_Services,23,0.3563399189566455,Sector
+Dunn,Business_Products,91,0.16497277819244183,Sector
+Dunn,Construction,98,0.00718638454931575,Sector
+Dunn,Services,4,0.43122993977201707,Sector
+Dunn,Mining,80,0.47171561720053257,Sector
+Dunn,Health_Care,77,0.6189194011181097,Sector
+Dunn,EnergyExpL_Prod,0,0.9696918732781078,Sector
+Dunn,Utilities,61,0.4348220836342157,Sector

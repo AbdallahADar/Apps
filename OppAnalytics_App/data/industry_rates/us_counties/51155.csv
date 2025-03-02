@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pulaski,743,0.6262757480189299,Overall
+Pulaski,HiTech,91,0.270537104960906,Sector
+Pulaski,Agriculture,6,0.8327793848080691,Sector
+Pulaski,Transportation,31,0.9385604184936371,Sector
+Pulaski,Consumer_Products,55,0.6349583583893026,Sector
+Pulaski,Unassigned,76,0.40019834786823705,Sector
+Pulaski,Communication,52,0.8067322815334007,Sector
+Pulaski,Trade,47,0.3039564542283065,Sector
+Pulaski,Business_Services,91,0.4678771385565881,Sector
+Pulaski,Business_Products,50,0.7763182613978508,Sector
+Pulaski,Construction,84,0.49361899108735197,Sector
+Pulaski,Services,25,0.9783751894180275,Sector
+Pulaski,Mining,94,0.5650051743701457,Sector
+Pulaski,Health_Care,3,0.621905130821594,Sector
+Pulaski,EnergyExpL_Prod,0,0.6575088080752848,Sector
+Pulaski,Utilities,38,0.6458051762752457,Sector

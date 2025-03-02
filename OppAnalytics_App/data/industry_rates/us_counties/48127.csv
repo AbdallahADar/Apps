@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dimmit,959,0.6437512873558191,Overall
+Dimmit,HiTech,72,0.8775753563244411,Sector
+Dimmit,Agriculture,28,0.8309735213500994,Sector
+Dimmit,Transportation,89,0.8931713200091362,Sector
+Dimmit,Consumer_Products,29,0.8601528894521907,Sector
+Dimmit,Unassigned,20,0.4423477499265045,Sector
+Dimmit,Communication,90,0.5711026823383036,Sector
+Dimmit,Trade,71,0.6061940794809401,Sector
+Dimmit,Business_Services,12,0.08442606536629271,Sector
+Dimmit,Business_Products,63,0.9793055142506315,Sector
+Dimmit,Construction,88,0.9868186644977677,Sector
+Dimmit,Services,90,0.63816883828733,Sector
+Dimmit,Mining,72,0.22798926939898745,Sector
+Dimmit,Health_Care,55,0.7421337399926397,Sector
+Dimmit,EnergyExpL_Prod,96,0.5395520471696453,Sector
+Dimmit,Utilities,84,0.37635757249237667,Sector

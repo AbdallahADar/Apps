@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bristol,669,0.5021753855999505,Overall
+Bristol,HiTech,54,0.1872318745697642,Sector
+Bristol,Agriculture,32,0.14478148416374315,Sector
+Bristol,Transportation,56,0.4674010046673881,Sector
+Bristol,Consumer_Products,14,0.38003870817325813,Sector
+Bristol,Unassigned,51,0.3025340306808624,Sector
+Bristol,Communication,49,0.5727145497315317,Sector
+Bristol,Trade,80,0.7250000285039326,Sector
+Bristol,Business_Services,4,0.9349882361555755,Sector
+Bristol,Business_Products,57,0.038751405158303553,Sector
+Bristol,Construction,94,0.1186325916517531,Sector
+Bristol,Services,70,0.7205503296089052,Sector
+Bristol,Mining,7,0.5155050598731511,Sector
+Bristol,Health_Care,70,0.8633294644985363,Sector
+Bristol,EnergyExpL_Prod,5,0.5751145672314677,Sector
+Bristol,Utilities,26,0.9860574493310837,Sector

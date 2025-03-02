@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cloppenburg,666,0.3987306751479704,Overall
+Cloppenburg,HiTech,93,0.29856985949380865,Sector
+Cloppenburg,Agriculture,30,0.7163040260106159,Sector
+Cloppenburg,Transportation,65,0.3630294494377563,Sector
+Cloppenburg,Consumer_Products,53,0.06336654850204215,Sector
+Cloppenburg,Unassigned,58,0.9306918488396418,Sector
+Cloppenburg,Communication,36,0.10870280862781656,Sector
+Cloppenburg,Trade,25,0.3849235374762251,Sector
+Cloppenburg,Business_Services,78,0.7146926115308215,Sector
+Cloppenburg,Business_Products,15,0.2121181425673504,Sector
+Cloppenburg,Construction,34,0.07188008703036963,Sector
+Cloppenburg,Services,64,0.45725385704217447,Sector
+Cloppenburg,Mining,38,0.2535573407804954,Sector
+Cloppenburg,Health_Care,52,0.7195429170678179,Sector
+Cloppenburg,EnergyExpL_Prod,14,0.4572337200767559,Sector
+Cloppenburg,Utilities,11,0.22909337273586483,Sector

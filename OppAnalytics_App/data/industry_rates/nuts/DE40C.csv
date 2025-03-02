@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oder-Spree,762,0.5008986925356724,Overall
+Oder-Spree,HiTech,64,0.9034981162281802,Sector
+Oder-Spree,Agriculture,88,0.9139272950744806,Sector
+Oder-Spree,Transportation,36,0.2941511883645177,Sector
+Oder-Spree,Consumer_Products,57,0.7438266440740774,Sector
+Oder-Spree,Unassigned,38,0.5621601263635383,Sector
+Oder-Spree,Communication,65,0.11693369789329577,Sector
+Oder-Spree,Trade,14,0.22023652515111725,Sector
+Oder-Spree,Business_Services,48,0.02191655139276949,Sector
+Oder-Spree,Business_Products,90,0.9811929137524488,Sector
+Oder-Spree,Construction,23,0.8994695059947457,Sector
+Oder-Spree,Services,31,0.12108902134474075,Sector
+Oder-Spree,Mining,64,0.5804187597924798,Sector
+Oder-Spree,Health_Care,81,0.1222256152059279,Sector
+Oder-Spree,EnergyExpL_Prod,61,0.2536743836300853,Sector
+Oder-Spree,Utilities,2,0.7787600437726825,Sector

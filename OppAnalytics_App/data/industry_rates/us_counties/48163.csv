@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Frio,683,0.5596257564558447,Overall
+Frio,HiTech,22,0.01567925462730546,Sector
+Frio,Agriculture,49,0.11444989403475936,Sector
+Frio,Transportation,35,0.868643843245164,Sector
+Frio,Consumer_Products,61,0.6268233197103702,Sector
+Frio,Unassigned,91,0.5211280304414709,Sector
+Frio,Communication,11,0.7378253583707048,Sector
+Frio,Trade,47,0.7774911931383459,Sector
+Frio,Business_Services,79,0.37662959446755684,Sector
+Frio,Business_Products,28,0.8553136147508514,Sector
+Frio,Construction,11,0.8652354529390628,Sector
+Frio,Services,16,0.18402061792269098,Sector
+Frio,Mining,87,0.9173641472003701,Sector
+Frio,Health_Care,28,0.7809136072482404,Sector
+Frio,EnergyExpL_Prod,88,0.46263666590632735,Sector
+Frio,Utilities,30,0.2902317528344499,Sector

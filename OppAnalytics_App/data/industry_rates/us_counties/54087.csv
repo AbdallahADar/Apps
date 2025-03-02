@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Roane,556,0.4624291588026089,Overall
+Roane,HiTech,90,0.009879477047853413,Sector
+Roane,Agriculture,3,0.68094526853389,Sector
+Roane,Transportation,24,0.20215459415096904,Sector
+Roane,Consumer_Products,15,0.11506336729920852,Sector
+Roane,Unassigned,28,0.8001898452457907,Sector
+Roane,Communication,41,0.7468461684868175,Sector
+Roane,Trade,7,0.2641243196314286,Sector
+Roane,Business_Services,18,0.04508514338607039,Sector
+Roane,Business_Products,34,0.33693688210919226,Sector
+Roane,Construction,90,0.9035900443579111,Sector
+Roane,Services,23,0.8108133985523363,Sector
+Roane,Mining,62,0.23248086295219572,Sector
+Roane,Health_Care,59,0.6607272701169381,Sector
+Roane,EnergyExpL_Prod,17,0.7257526866228571,Sector
+Roane,Utilities,45,0.4018480535456742,Sector

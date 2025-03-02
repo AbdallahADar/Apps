@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Coamo,827,0.5031828517325933,Overall
+Coamo,HiTech,90,0.11649499587471812,Sector
+Coamo,Agriculture,96,0.6440260906719739,Sector
+Coamo,Transportation,14,0.4815055204267622,Sector
+Coamo,Consumer_Products,64,0.9777508427725708,Sector
+Coamo,Unassigned,83,0.19497745384037612,Sector
+Coamo,Communication,35,0.06799825781303603,Sector
+Coamo,Trade,92,0.8065840839734233,Sector
+Coamo,Business_Services,38,0.4964752458681577,Sector
+Coamo,Business_Products,16,0.9312315704354961,Sector
+Coamo,Construction,47,0.13154789554485047,Sector
+Coamo,Services,96,0.23325279079125116,Sector
+Coamo,Mining,26,0.8263024508381217,Sector
+Coamo,Health_Care,60,0.5459233553176913,Sector
+Coamo,EnergyExpL_Prod,54,0.46249228247373997,Sector
+Coamo,Utilities,16,0.631179939346731,Sector

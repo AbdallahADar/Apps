@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Broomfield,655,0.6593738265486432,Overall
+Broomfield,HiTech,68,0.3342724603839913,Sector
+Broomfield,Agriculture,77,0.7996148237737529,Sector
+Broomfield,Transportation,9,0.22174216554763326,Sector
+Broomfield,Consumer_Products,22,0.037877097990474895,Sector
+Broomfield,Unassigned,23,0.4639905796792786,Sector
+Broomfield,Communication,73,0.543774830532871,Sector
+Broomfield,Trade,67,0.9743014262432564,Sector
+Broomfield,Business_Services,82,0.48102448511802887,Sector
+Broomfield,Business_Products,22,0.9967641672095015,Sector
+Broomfield,Construction,33,0.9857983354924186,Sector
+Broomfield,Services,51,0.9865813500437238,Sector
+Broomfield,Mining,13,0.5259895098444539,Sector
+Broomfield,Health_Care,13,0.8690476113048101,Sector
+Broomfield,EnergyExpL_Prod,36,0.9822736898834473,Sector
+Broomfield,Utilities,66,0.687554865182005,Sector

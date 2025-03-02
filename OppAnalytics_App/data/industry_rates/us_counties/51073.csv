@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gloucester,766,0.37968697182951416,Overall
+Gloucester,HiTech,15,0.1473943020500783,Sector
+Gloucester,Agriculture,68,0.41121392915812627,Sector
+Gloucester,Transportation,74,0.713714078310534,Sector
+Gloucester,Consumer_Products,50,0.4316175641568808,Sector
+Gloucester,Unassigned,64,0.30718594738956084,Sector
+Gloucester,Communication,46,0.2069806770751813,Sector
+Gloucester,Trade,49,0.17693872309361636,Sector
+Gloucester,Business_Services,53,0.17059310259946725,Sector
+Gloucester,Business_Products,23,0.31309903343623946,Sector
+Gloucester,Construction,7,0.8388164921031792,Sector
+Gloucester,Services,55,0.27662074381100843,Sector
+Gloucester,Mining,32,0.8890073987716623,Sector
+Gloucester,Health_Care,85,0.1018958916096111,Sector
+Gloucester,EnergyExpL_Prod,60,0.1862909432794032,Sector
+Gloucester,Utilities,85,0.5239357505981643,Sector

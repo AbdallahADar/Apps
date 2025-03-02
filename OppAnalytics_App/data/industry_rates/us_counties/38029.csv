@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Emmons,693,0.5184904141752283,Overall
+Emmons,HiTech,11,0.44049395326474317,Sector
+Emmons,Agriculture,86,0.8015325950483613,Sector
+Emmons,Transportation,97,0.1785355364428194,Sector
+Emmons,Consumer_Products,87,0.5314666496106136,Sector
+Emmons,Unassigned,32,0.8609306153450433,Sector
+Emmons,Communication,52,0.8811603913808517,Sector
+Emmons,Trade,22,0.4571551777145617,Sector
+Emmons,Business_Services,7,0.5107121608255946,Sector
+Emmons,Business_Products,50,0.8346542858199216,Sector
+Emmons,Construction,58,0.8029396275881655,Sector
+Emmons,Services,46,0.3801373992015905,Sector
+Emmons,Mining,7,0.5511765905573511,Sector
+Emmons,Health_Care,68,0.016539319077870762,Sector
+Emmons,EnergyExpL_Prod,15,0.3384319536257383,Sector
+Emmons,Utilities,55,0.19148995712519779,Sector

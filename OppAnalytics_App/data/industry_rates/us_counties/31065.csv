@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Furnas,781,0.45088099418066346,Overall
+Furnas,HiTech,22,0.9569803408607768,Sector
+Furnas,Agriculture,88,0.7561126170040653,Sector
+Furnas,Transportation,88,0.5353730413989222,Sector
+Furnas,Consumer_Products,96,0.19338671701042798,Sector
+Furnas,Unassigned,97,0.21974101065321117,Sector
+Furnas,Communication,80,0.4974865480395093,Sector
+Furnas,Trade,8,0.8122918603170907,Sector
+Furnas,Business_Services,81,0.4919226162671181,Sector
+Furnas,Business_Products,59,0.5389820779366723,Sector
+Furnas,Construction,1,0.05762778603889218,Sector
+Furnas,Services,8,0.02176535060853091,Sector
+Furnas,Mining,16,0.06662809307521689,Sector
+Furnas,Health_Care,43,0.21132842850319933,Sector
+Furnas,EnergyExpL_Prod,37,0.9558564632607011,Sector
+Furnas,Utilities,57,0.44773196173561913,Sector

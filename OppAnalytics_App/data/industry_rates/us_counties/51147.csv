@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Prince Edward,662,0.47340895590012744,Overall
+Prince Edward,HiTech,38,0.7110446649276495,Sector
+Prince Edward,Agriculture,30,0.26724096963985755,Sector
+Prince Edward,Transportation,86,0.3010873910584597,Sector
+Prince Edward,Consumer_Products,44,0.09971492763872802,Sector
+Prince Edward,Unassigned,64,0.6384080474506103,Sector
+Prince Edward,Communication,33,0.10183854424955863,Sector
+Prince Edward,Trade,44,0.9801522989767422,Sector
+Prince Edward,Business_Services,17,0.01394226161027945,Sector
+Prince Edward,Business_Products,55,0.5899586602613064,Sector
+Prince Edward,Construction,27,0.9597681598949027,Sector
+Prince Edward,Services,41,0.16343251923057311,Sector
+Prince Edward,Mining,20,0.7320326905351784,Sector
+Prince Edward,Health_Care,86,0.5470425369888533,Sector
+Prince Edward,EnergyExpL_Prod,51,0.8562496077786648,Sector
+Prince Edward,Utilities,26,0.13922105826054687,Sector

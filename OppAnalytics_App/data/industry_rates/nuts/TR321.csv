@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Aydın,486,0.5902533141663914,Overall
+Aydın,HiTech,33,0.9177187411329096,Sector
+Aydın,Agriculture,32,0.7508012797993008,Sector
+Aydın,Transportation,9,0.5497421315645324,Sector
+Aydın,Consumer_Products,1,0.05978782689857132,Sector
+Aydın,Unassigned,36,0.7337770337919938,Sector
+Aydın,Communication,16,0.5026723232857663,Sector
+Aydın,Trade,45,0.7325486177963484,Sector
+Aydın,Business_Services,66,0.7766607829493954,Sector
+Aydın,Business_Products,28,0.19618978841066137,Sector
+Aydın,Construction,29,0.09369874954544999,Sector
+Aydın,Services,8,0.5178333425490819,Sector
+Aydın,Mining,75,0.689427891259138,Sector
+Aydın,Health_Care,6,0.8669268494599418,Sector
+Aydın,EnergyExpL_Prod,56,0.7067286057534868,Sector
+Aydın,Utilities,46,0.7592857482992939,Sector

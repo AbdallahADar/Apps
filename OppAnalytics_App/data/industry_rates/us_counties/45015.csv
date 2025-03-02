@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Berkeley,819,0.5980518420428773,Overall
+Berkeley,HiTech,92,0.48526420507494095,Sector
+Berkeley,Agriculture,84,0.683842353702008,Sector
+Berkeley,Transportation,70,0.8649333457444904,Sector
+Berkeley,Consumer_Products,3,0.8575283117039115,Sector
+Berkeley,Unassigned,86,0.9670013183979562,Sector
+Berkeley,Communication,73,0.48647718384151195,Sector
+Berkeley,Trade,13,0.6728531196443874,Sector
+Berkeley,Business_Services,31,0.41755432108916146,Sector
+Berkeley,Business_Products,65,0.303738897587834,Sector
+Berkeley,Construction,37,0.4300801497219249,Sector
+Berkeley,Services,43,0.443166388156672,Sector
+Berkeley,Mining,21,0.3287766086211331,Sector
+Berkeley,Health_Care,84,0.858086442326867,Sector
+Berkeley,EnergyExpL_Prod,57,0.6785852575222505,Sector
+Berkeley,Utilities,60,0.49288972750810944,Sector

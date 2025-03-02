@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hale,838,0.5629384617408392,Overall
+Hale,HiTech,0,0.13140482566771128,Sector
+Hale,Agriculture,76,0.8654561873675495,Sector
+Hale,Transportation,94,0.680400686863884,Sector
+Hale,Consumer_Products,32,0.8737451193229747,Sector
+Hale,Unassigned,4,0.13832947958147124,Sector
+Hale,Communication,28,0.5532256746112947,Sector
+Hale,Trade,89,0.3345600392282785,Sector
+Hale,Business_Services,70,0.882144781074398,Sector
+Hale,Business_Products,35,0.29767244620433453,Sector
+Hale,Construction,99,0.4507861768339303,Sector
+Hale,Services,30,0.8174740960666605,Sector
+Hale,Mining,58,0.49198673336028453,Sector
+Hale,Health_Care,80,0.617997043749884,Sector
+Hale,EnergyExpL_Prod,95,0.508914008576489,Sector
+Hale,Utilities,48,0.7999796276034449,Sector

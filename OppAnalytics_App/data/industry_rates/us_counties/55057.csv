@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Juneau,765,0.5598183158928527,Overall
+Juneau,HiTech,43,0.20843185454976942,Sector
+Juneau,Agriculture,8,0.5007381431992515,Sector
+Juneau,Transportation,45,0.7126784998103136,Sector
+Juneau,Consumer_Products,65,0.5375245471338462,Sector
+Juneau,Unassigned,59,0.03645266928876867,Sector
+Juneau,Communication,84,0.8975589848563632,Sector
+Juneau,Trade,83,0.9842759843246713,Sector
+Juneau,Business_Services,88,0.6596715052367667,Sector
+Juneau,Business_Products,33,0.6223639748130572,Sector
+Juneau,Construction,60,0.47275736799480117,Sector
+Juneau,Services,3,0.9192116153270036,Sector
+Juneau,Mining,22,0.05338821642571456,Sector
+Juneau,Health_Care,41,0.7677253351112096,Sector
+Juneau,EnergyExpL_Prod,34,0.15216892162502105,Sector
+Juneau,Utilities,97,0.8723271186962319,Sector

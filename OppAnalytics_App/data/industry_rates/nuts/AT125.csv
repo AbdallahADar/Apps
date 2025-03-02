@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Weinviertel,689,0.6049951802654471,Overall
+Weinviertel,HiTech,15,0.744460275633782,Sector
+Weinviertel,Agriculture,76,0.9153431979073586,Sector
+Weinviertel,Transportation,5,0.33606772289845155,Sector
+Weinviertel,Consumer_Products,67,0.20429656979683264,Sector
+Weinviertel,Unassigned,13,0.6535015149314638,Sector
+Weinviertel,Communication,19,0.9312477345956738,Sector
+Weinviertel,Trade,35,0.026767346022843364,Sector
+Weinviertel,Business_Services,38,0.8191570346904049,Sector
+Weinviertel,Business_Products,32,0.6594587684979556,Sector
+Weinviertel,Construction,62,0.47995087953619375,Sector
+Weinviertel,Services,96,0.7528615818625964,Sector
+Weinviertel,Mining,31,0.5227874649304879,Sector
+Weinviertel,Health_Care,92,0.6532126092864297,Sector
+Weinviertel,EnergyExpL_Prod,96,0.8178882470193156,Sector
+Weinviertel,Utilities,12,0.5579267563719159,Sector

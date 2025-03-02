@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Chełmsko-zamojski,771,0.49054813365856975,Overall
+Chełmsko-zamojski,HiTech,12,0.7157553607290714,Sector
+Chełmsko-zamojski,Agriculture,40,0.3927630898433545,Sector
+Chełmsko-zamojski,Transportation,86,0.8413795702877817,Sector
+Chełmsko-zamojski,Consumer_Products,46,0.7159773815696712,Sector
+Chełmsko-zamojski,Unassigned,45,0.91170815922042,Sector
+Chełmsko-zamojski,Communication,48,0.2534258683140783,Sector
+Chełmsko-zamojski,Trade,11,0.4551142793778681,Sector
+Chełmsko-zamojski,Business_Services,79,0.8766393004959175,Sector
+Chełmsko-zamojski,Business_Products,98,0.32198084379181335,Sector
+Chełmsko-zamojski,Construction,98,0.08737065559882606,Sector
+Chełmsko-zamojski,Services,71,0.12923233607183826,Sector
+Chełmsko-zamojski,Mining,29,0.572659200855556,Sector
+Chełmsko-zamojski,Health_Care,1,0.37190086491595864,Sector
+Chełmsko-zamojski,EnergyExpL_Prod,11,0.021183776530851794,Sector
+Chełmsko-zamojski,Utilities,96,0.6911313172755402,Sector

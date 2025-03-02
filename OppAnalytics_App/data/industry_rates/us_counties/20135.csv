@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ness,794,0.49748495489437167,Overall
+Ness,HiTech,79,0.6606773599445322,Sector
+Ness,Agriculture,75,0.8224472966143886,Sector
+Ness,Transportation,0,0.22254270211525173,Sector
+Ness,Consumer_Products,86,0.08445980871462411,Sector
+Ness,Unassigned,85,0.7511072292836781,Sector
+Ness,Communication,71,0.8065476923724187,Sector
+Ness,Trade,6,0.666279769257142,Sector
+Ness,Business_Services,20,0.045223088336171835,Sector
+Ness,Business_Products,17,0.4154599399397614,Sector
+Ness,Construction,3,0.7151115781303158,Sector
+Ness,Services,84,0.373176314192161,Sector
+Ness,Mining,81,0.47110772087744734,Sector
+Ness,Health_Care,61,0.6927437428505167,Sector
+Ness,EnergyExpL_Prod,88,0.2544860395734482,Sector
+Ness,Utilities,38,0.4809040412137169,Sector

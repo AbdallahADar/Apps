@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Effingham,729,0.5743816202156717,Overall
+Effingham,HiTech,97,0.5266702394995479,Sector
+Effingham,Agriculture,53,0.3779717370942238,Sector
+Effingham,Transportation,91,0.6892526595507141,Sector
+Effingham,Consumer_Products,5,0.8147258696260539,Sector
+Effingham,Unassigned,59,0.2825782027737065,Sector
+Effingham,Communication,88,0.536681704583748,Sector
+Effingham,Trade,66,0.34425521793541425,Sector
+Effingham,Business_Services,17,0.22545264314048763,Sector
+Effingham,Business_Products,0,0.6188294270080339,Sector
+Effingham,Construction,20,0.8721643004348543,Sector
+Effingham,Services,84,0.6811675298743803,Sector
+Effingham,Mining,22,0.6985813936501205,Sector
+Effingham,Health_Care,72,0.43791454944853814,Sector
+Effingham,EnergyExpL_Prod,0,0.9047655593225913,Sector
+Effingham,Utilities,55,0.6047132692926606,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Avellino,755,0.5049467944399136,Overall
+Avellino,HiTech,57,0.5298985724777847,Sector
+Avellino,Agriculture,92,0.5453764700376448,Sector
+Avellino,Transportation,59,0.034128749642462264,Sector
+Avellino,Consumer_Products,45,0.9211414540646257,Sector
+Avellino,Unassigned,90,0.6607532766369846,Sector
+Avellino,Communication,3,0.8260653203478331,Sector
+Avellino,Trade,33,0.9593956468807165,Sector
+Avellino,Business_Services,71,0.3312549340131653,Sector
+Avellino,Business_Products,9,0.2257473911258968,Sector
+Avellino,Construction,56,0.12928157123346773,Sector
+Avellino,Services,42,0.11976327949079357,Sector
+Avellino,Mining,23,0.3359933794685014,Sector
+Avellino,Health_Care,85,0.8743361191642234,Sector
+Avellino,EnergyExpL_Prod,14,0.35423614744400356,Sector
+Avellino,Utilities,76,0.7268296045706018,Sector

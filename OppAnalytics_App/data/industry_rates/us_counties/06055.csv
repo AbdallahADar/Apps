@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Napa,777,0.5254987431627837,Overall
+Napa,HiTech,19,0.22109829823056304,Sector
+Napa,Agriculture,41,0.8446698267518333,Sector
+Napa,Transportation,67,0.6132460730349022,Sector
+Napa,Consumer_Products,93,0.0373982182474234,Sector
+Napa,Unassigned,96,0.38193080889089626,Sector
+Napa,Communication,52,0.7144260600211351,Sector
+Napa,Trade,11,0.2947181948660036,Sector
+Napa,Business_Services,10,0.8599945685494996,Sector
+Napa,Business_Products,52,0.37315353796355755,Sector
+Napa,Construction,47,0.9636215295363402,Sector
+Napa,Services,65,0.43316250210270624,Sector
+Napa,Mining,52,0.058025126811528605,Sector
+Napa,Health_Care,82,0.6195587678483845,Sector
+Napa,EnergyExpL_Prod,12,0.5570581412050559,Sector
+Napa,Utilities,78,0.9104194933819253,Sector

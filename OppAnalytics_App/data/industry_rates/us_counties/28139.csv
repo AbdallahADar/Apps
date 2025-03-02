@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tippah,905,0.47808487338391265,Overall
+Tippah,HiTech,72,0.5080969732245879,Sector
+Tippah,Agriculture,52,0.13971791420265722,Sector
+Tippah,Transportation,55,0.4462931389734872,Sector
+Tippah,Consumer_Products,49,0.03079664504333335,Sector
+Tippah,Unassigned,77,0.4350531835564385,Sector
+Tippah,Communication,17,0.20167889897085634,Sector
+Tippah,Trade,65,0.3367341814292121,Sector
+Tippah,Business_Services,78,0.9295573180924045,Sector
+Tippah,Business_Products,28,0.3655133610939727,Sector
+Tippah,Construction,94,0.9301763502428266,Sector
+Tippah,Services,38,0.7547415742947026,Sector
+Tippah,Mining,49,0.5438619001916554,Sector
+Tippah,Health_Care,96,0.9128898448378941,Sector
+Tippah,EnergyExpL_Prod,86,0.2915306661952095,Sector
+Tippah,Utilities,49,0.344631150409453,Sector

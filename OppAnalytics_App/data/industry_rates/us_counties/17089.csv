@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kane,866,0.5238061432008418,Overall
+Kane,HiTech,96,0.9758182374868434,Sector
+Kane,Agriculture,88,0.4431578116795557,Sector
+Kane,Transportation,84,0.6747731644167604,Sector
+Kane,Consumer_Products,54,0.6181674623845335,Sector
+Kane,Unassigned,66,0.7891023561909292,Sector
+Kane,Communication,43,0.5034755256459955,Sector
+Kane,Trade,9,0.6400428758182776,Sector
+Kane,Business_Services,46,0.6497543599321802,Sector
+Kane,Business_Products,84,0.8640882364000733,Sector
+Kane,Construction,6,0.1248333409671526,Sector
+Kane,Services,87,0.01839613661755435,Sector
+Kane,Mining,84,0.06846509803903789,Sector
+Kane,Health_Care,19,0.32023805528407434,Sector
+Kane,EnergyExpL_Prod,16,0.5248843383799352,Sector
+Kane,Utilities,84,0.6418951487697243,Sector

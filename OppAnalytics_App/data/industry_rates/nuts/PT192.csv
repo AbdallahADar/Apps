@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Região de Coimbra,763,0.4883232868338387,Overall
+Região de Coimbra,HiTech,56,0.30071490805407985,Sector
+Região de Coimbra,Agriculture,31,0.11587452005816934,Sector
+Região de Coimbra,Transportation,24,0.8027088612703426,Sector
+Região de Coimbra,Consumer_Products,80,0.42186881194792913,Sector
+Região de Coimbra,Unassigned,68,0.28777514032821494,Sector
+Região de Coimbra,Communication,22,0.09667718654913271,Sector
+Região de Coimbra,Trade,98,0.37231035327738804,Sector
+Região de Coimbra,Business_Services,6,0.9588449848589693,Sector
+Região de Coimbra,Business_Products,36,0.3430977656236385,Sector
+Região de Coimbra,Construction,21,0.8939057754865521,Sector
+Região de Coimbra,Services,31,0.5004269493093471,Sector
+Região de Coimbra,Mining,32,0.5252088885701521,Sector
+Região de Coimbra,Health_Care,91,0.5780688572094432,Sector
+Região de Coimbra,EnergyExpL_Prod,75,0.13269151775824817,Sector
+Região de Coimbra,Utilities,92,0.9946747822059739,Sector

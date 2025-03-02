@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wartburgkreis,696,0.45879592621089316,Overall
+Wartburgkreis,HiTech,77,0.6161842373170063,Sector
+Wartburgkreis,Agriculture,89,0.06555266126434811,Sector
+Wartburgkreis,Transportation,10,0.5597563024623139,Sector
+Wartburgkreis,Consumer_Products,15,0.7692738235839671,Sector
+Wartburgkreis,Unassigned,95,0.8535427533349133,Sector
+Wartburgkreis,Communication,2,0.6146537738459581,Sector
+Wartburgkreis,Trade,47,0.15396695834264018,Sector
+Wartburgkreis,Business_Services,34,0.6952045505488583,Sector
+Wartburgkreis,Business_Products,52,0.23266169997601271,Sector
+Wartburgkreis,Construction,15,0.02491826115291451,Sector
+Wartburgkreis,Services,67,0.022351799332510747,Sector
+Wartburgkreis,Mining,27,0.9724268233875976,Sector
+Wartburgkreis,Health_Care,24,0.15301800853830227,Sector
+Wartburgkreis,EnergyExpL_Prod,90,0.9474605920374957,Sector
+Wartburgkreis,Utilities,52,0.20096664803855857,Sector

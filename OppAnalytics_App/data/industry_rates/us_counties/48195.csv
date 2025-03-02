@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hansford,677,0.5140542905777848,Overall
+Hansford,HiTech,28,0.04253338916318716,Sector
+Hansford,Agriculture,13,0.591353178035091,Sector
+Hansford,Transportation,73,0.9160601399591635,Sector
+Hansford,Consumer_Products,82,0.3265220798421742,Sector
+Hansford,Unassigned,68,0.954776166666721,Sector
+Hansford,Communication,61,0.7334995749914365,Sector
+Hansford,Trade,45,0.8834187983061372,Sector
+Hansford,Business_Services,12,0.44764549311017576,Sector
+Hansford,Business_Products,8,0.6370406589012028,Sector
+Hansford,Construction,67,0.3648913875401719,Sector
+Hansford,Services,29,0.1303109313405273,Sector
+Hansford,Mining,20,0.3775179118611848,Sector
+Hansford,Health_Care,99,0.24416041854284665,Sector
+Hansford,EnergyExpL_Prod,65,0.6954860249715034,Sector
+Hansford,Utilities,7,0.36559820543524946,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pisa,783,0.43580831054087543,Overall
+Pisa,HiTech,1,0.25303478059271733,Sector
+Pisa,Agriculture,27,0.25331564136094953,Sector
+Pisa,Transportation,85,0.5691796990788537,Sector
+Pisa,Consumer_Products,8,0.7421038129789872,Sector
+Pisa,Unassigned,64,0.08915509906576302,Sector
+Pisa,Communication,40,0.3596167797715504,Sector
+Pisa,Trade,26,0.983205712964775,Sector
+Pisa,Business_Services,46,0.17471667824455483,Sector
+Pisa,Business_Products,99,0.08271697804574629,Sector
+Pisa,Construction,57,0.9376407006791098,Sector
+Pisa,Services,92,0.07915174102859646,Sector
+Pisa,Mining,16,0.8789834849162729,Sector
+Pisa,Health_Care,67,0.4963894136209547,Sector
+Pisa,EnergyExpL_Prod,64,0.29185665378926295,Sector
+Pisa,Utilities,91,0.3460574819750366,Sector

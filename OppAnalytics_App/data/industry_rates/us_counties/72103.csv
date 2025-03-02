@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Naguabo,664,0.598038662374181,Overall
+Naguabo,HiTech,84,0.17243252287708444,Sector
+Naguabo,Agriculture,5,0.2001488419464259,Sector
+Naguabo,Transportation,91,0.6960177960965505,Sector
+Naguabo,Consumer_Products,33,0.2646801932700057,Sector
+Naguabo,Unassigned,4,0.15015023236385028,Sector
+Naguabo,Communication,59,0.9946862721175345,Sector
+Naguabo,Trade,98,0.9634501965085447,Sector
+Naguabo,Business_Services,40,0.772565784994512,Sector
+Naguabo,Business_Products,71,0.7018135657446278,Sector
+Naguabo,Construction,50,0.8211090992156571,Sector
+Naguabo,Services,7,0.31373069851011937,Sector
+Naguabo,Mining,4,0.8545088634646092,Sector
+Naguabo,Health_Care,8,0.8777073801308756,Sector
+Naguabo,EnergyExpL_Prod,70,0.3243618896301482,Sector
+Naguabo,Utilities,40,0.8632165987421693,Sector

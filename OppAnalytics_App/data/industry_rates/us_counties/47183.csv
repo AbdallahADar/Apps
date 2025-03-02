@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Weakley,721,0.4408173895894107,Overall
+Weakley,HiTech,24,0.3641348482456803,Sector
+Weakley,Agriculture,24,0.3799061750083522,Sector
+Weakley,Transportation,72,0.12582658527177681,Sector
+Weakley,Consumer_Products,43,0.39488546266917224,Sector
+Weakley,Unassigned,4,0.28218513823947733,Sector
+Weakley,Communication,85,0.5920993981600678,Sector
+Weakley,Trade,70,0.5545395370272342,Sector
+Weakley,Business_Services,72,0.35995081086910996,Sector
+Weakley,Business_Products,68,0.04658137541198948,Sector
+Weakley,Construction,68,0.11008372781479425,Sector
+Weakley,Services,17,0.30603993609570634,Sector
+Weakley,Mining,28,0.9780627957064701,Sector
+Weakley,Health_Care,78,0.7717712379588518,Sector
+Weakley,EnergyExpL_Prod,46,0.5966008850375545,Sector
+Weakley,Utilities,22,0.7495929303249224,Sector

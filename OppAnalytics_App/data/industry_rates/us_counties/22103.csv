@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,St. Tammany,745,0.43900673553324837,Overall
+St. Tammany,HiTech,54,0.07644791653132832,Sector
+St. Tammany,Agriculture,66,0.9666388805111946,Sector
+St. Tammany,Transportation,80,0.03981901569664692,Sector
+St. Tammany,Consumer_Products,0,0.9154760592182194,Sector
+St. Tammany,Unassigned,49,0.5467182241478901,Sector
+St. Tammany,Communication,12,0.26926999480748093,Sector
+St. Tammany,Trade,34,0.7250327938429014,Sector
+St. Tammany,Business_Services,0,0.13217112227501926,Sector
+St. Tammany,Business_Products,94,0.062108536282427185,Sector
+St. Tammany,Construction,62,0.46234274590409097,Sector
+St. Tammany,Services,55,0.8271155070380228,Sector
+St. Tammany,Mining,33,0.5926386959728794,Sector
+St. Tammany,Health_Care,32,0.3656686100302263,Sector
+St. Tammany,EnergyExpL_Prod,92,0.0652454326497911,Sector
+St. Tammany,Utilities,82,0.5384074980906061,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gwinnett,826,0.5655029159901596,Overall
+Gwinnett,HiTech,72,0.7195057203060705,Sector
+Gwinnett,Agriculture,7,0.7123581781677427,Sector
+Gwinnett,Transportation,67,0.6804664800154777,Sector
+Gwinnett,Consumer_Products,48,0.19575291422913188,Sector
+Gwinnett,Unassigned,89,0.6661954514118845,Sector
+Gwinnett,Communication,99,0.3337112553718494,Sector
+Gwinnett,Trade,17,0.9824295434815781,Sector
+Gwinnett,Business_Services,34,0.7350897369002007,Sector
+Gwinnett,Business_Products,12,0.7267113187897108,Sector
+Gwinnett,Construction,90,0.8292814365170427,Sector
+Gwinnett,Services,68,0.7561053354386269,Sector
+Gwinnett,Mining,70,0.23690341862132958,Sector
+Gwinnett,Health_Care,13,0.46694401191190427,Sector
+Gwinnett,EnergyExpL_Prod,89,0.1824263290247975,Sector
+Gwinnett,Utilities,51,0.2586626096650455,Sector

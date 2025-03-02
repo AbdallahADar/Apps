@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Mecosta,901,0.4276493449662792,Overall
+Mecosta,HiTech,65,0.1723678659075848,Sector
+Mecosta,Agriculture,64,0.8012013622700757,Sector
+Mecosta,Transportation,83,0.2636007921964154,Sector
+Mecosta,Consumer_Products,10,0.33416513943672355,Sector
+Mecosta,Unassigned,75,0.34759337269965374,Sector
+Mecosta,Communication,93,0.9627810477350599,Sector
+Mecosta,Trade,98,0.12643204546730547,Sector
+Mecosta,Business_Services,15,0.44065725682319634,Sector
+Mecosta,Business_Products,76,0.0034944834756446275,Sector
+Mecosta,Construction,25,0.1908763520958161,Sector
+Mecosta,Services,29,0.34657781779925967,Sector
+Mecosta,Mining,92,0.47239706147653093,Sector
+Mecosta,Health_Care,5,0.5792385528886381,Sector
+Mecosta,EnergyExpL_Prod,86,0.5180047540616248,Sector
+Mecosta,Utilities,85,0.855352270160658,Sector

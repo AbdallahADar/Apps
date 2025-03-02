@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Plön,687,0.5074610021368888,Overall
+Plön,HiTech,66,0.4112227473876211,Sector
+Plön,Agriculture,11,0.9515347188444979,Sector
+Plön,Transportation,9,0.39118767836137047,Sector
+Plön,Consumer_Products,72,0.6737342966441979,Sector
+Plön,Unassigned,63,0.48903257741472306,Sector
+Plön,Communication,69,0.8542713673013005,Sector
+Plön,Trade,9,0.7065269598278012,Sector
+Plön,Business_Services,60,0.4453659327547198,Sector
+Plön,Business_Products,43,0.15344523732731985,Sector
+Plön,Construction,62,0.26206854445407346,Sector
+Plön,Services,69,0.781772312678004,Sector
+Plön,Mining,20,0.2660296590829708,Sector
+Plön,Health_Care,41,0.17657414330746146,Sector
+Plön,EnergyExpL_Prod,71,0.3824186749689803,Sector
+Plön,Utilities,22,0.6667301816982922,Sector

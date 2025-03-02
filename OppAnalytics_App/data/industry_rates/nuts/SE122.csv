@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Södermanlands län,717,0.5338108610505865,Overall
+Södermanlands län,HiTech,63,0.1993517957588975,Sector
+Södermanlands län,Agriculture,94,0.20030930164174388,Sector
+Södermanlands län,Transportation,69,0.9797866111920923,Sector
+Södermanlands län,Consumer_Products,45,0.7094713882776442,Sector
+Södermanlands län,Unassigned,12,0.1648073983434839,Sector
+Södermanlands län,Communication,63,0.8008943004532973,Sector
+Södermanlands län,Trade,12,0.3990229956093275,Sector
+Södermanlands län,Business_Services,5,0.9952608441484031,Sector
+Södermanlands län,Business_Products,4,0.016032807301043728,Sector
+Södermanlands län,Construction,55,0.7619258301192947,Sector
+Södermanlands län,Services,86,0.7471111977067008,Sector
+Södermanlands län,Mining,2,0.9757353990317004,Sector
+Södermanlands län,Health_Care,48,0.17241865374745113,Sector
+Södermanlands län,EnergyExpL_Prod,97,0.07493565845363004,Sector
+Södermanlands län,Utilities,62,0.8100987339740853,Sector

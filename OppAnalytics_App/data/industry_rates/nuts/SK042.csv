@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Košický kraj,883,0.5108810970895309,Overall
+Košický kraj,HiTech,67,0.2619952037097396,Sector
+Košický kraj,Agriculture,65,0.09911782319354645,Sector
+Košický kraj,Transportation,7,0.25350374308763535,Sector
+Košický kraj,Consumer_Products,13,0.2982441140496247,Sector
+Košický kraj,Unassigned,57,0.7553945459053862,Sector
+Košický kraj,Communication,62,0.8798858875229675,Sector
+Košický kraj,Trade,24,0.8754159629018653,Sector
+Košický kraj,Business_Services,92,0.405499529013872,Sector
+Košický kraj,Business_Products,70,0.7503268292282244,Sector
+Košický kraj,Construction,65,0.4222527250450715,Sector
+Košický kraj,Services,16,0.9199367727324514,Sector
+Košický kraj,Mining,81,0.26453385113534156,Sector
+Košický kraj,Health_Care,91,0.7451878479297925,Sector
+Košický kraj,EnergyExpL_Prod,87,0.10866601201501402,Sector
+Košický kraj,Utilities,86,0.6232556088724304,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Howard,729,0.45693905164240495,Overall
+Howard,HiTech,14,0.22849409461383197,Sector
+Howard,Agriculture,68,0.47131981781926535,Sector
+Howard,Transportation,87,0.7287453966586531,Sector
+Howard,Consumer_Products,87,0.5626096091810598,Sector
+Howard,Unassigned,84,0.37837737441455666,Sector
+Howard,Communication,49,0.4566187214992854,Sector
+Howard,Trade,36,0.8963197831353269,Sector
+Howard,Business_Services,29,0.24386525501992729,Sector
+Howard,Business_Products,55,0.34500082129913456,Sector
+Howard,Construction,77,0.47493364541145444,Sector
+Howard,Services,50,0.6487775553396408,Sector
+Howard,Mining,10,0.14902714910292603,Sector
+Howard,Health_Care,54,0.2527685727020549,Sector
+Howard,EnergyExpL_Prod,24,0.28724195628936555,Sector
+Howard,Utilities,5,0.7299860221495907,Sector

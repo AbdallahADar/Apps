@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bucureşti,742,0.48026173843635006,Overall
+Bucureşti,HiTech,96,0.4631439904881596,Sector
+Bucureşti,Agriculture,51,0.9873324889722428,Sector
+Bucureşti,Transportation,21,0.5513872846552716,Sector
+Bucureşti,Consumer_Products,56,0.5124735904314525,Sector
+Bucureşti,Unassigned,41,0.33425132112052414,Sector
+Bucureşti,Communication,1,0.072596132697333,Sector
+Bucureşti,Trade,38,0.3371060003004752,Sector
+Bucureşti,Business_Services,69,0.39681728382616566,Sector
+Bucureşti,Business_Products,2,0.7406752420644809,Sector
+Bucureşti,Construction,28,0.15580887868722126,Sector
+Bucureşti,Services,91,0.06287264896955524,Sector
+Bucureşti,Mining,92,0.539876121417762,Sector
+Bucureşti,Health_Care,20,0.6546743558784855,Sector
+Bucureşti,EnergyExpL_Prod,66,0.8813382720178687,Sector
+Bucureşti,Utilities,70,0.5135724650182528,Sector

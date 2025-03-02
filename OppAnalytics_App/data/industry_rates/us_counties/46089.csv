@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,McPherson,726,0.529321899153558,Overall
+McPherson,HiTech,54,0.5387406448652311,Sector
+McPherson,Agriculture,71,0.07463883542289307,Sector
+McPherson,Transportation,37,0.18891706618707405,Sector
+McPherson,Consumer_Products,24,0.7678778571354473,Sector
+McPherson,Unassigned,83,0.3800975346443686,Sector
+McPherson,Communication,82,0.5946683547576862,Sector
+McPherson,Trade,33,0.6941352711612793,Sector
+McPherson,Business_Services,38,0.7958107894885096,Sector
+McPherson,Business_Products,15,0.9134733799272189,Sector
+McPherson,Construction,43,0.5024470009243642,Sector
+McPherson,Services,52,0.9689958996545677,Sector
+McPherson,Mining,11,0.23975085963801945,Sector
+McPherson,Health_Care,42,0.02681662477407476,Sector
+McPherson,EnergyExpL_Prod,50,0.3967638263979367,Sector
+McPherson,Utilities,91,0.8566945423246992,Sector

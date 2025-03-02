@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Quitman,686,0.48902606092216666,Overall
+Quitman,HiTech,49,0.8179871587273502,Sector
+Quitman,Agriculture,20,0.4118707640496192,Sector
+Quitman,Transportation,69,0.25404893411838625,Sector
+Quitman,Consumer_Products,24,0.11669925685642035,Sector
+Quitman,Unassigned,39,0.27828868851905897,Sector
+Quitman,Communication,20,0.7995889481736134,Sector
+Quitman,Trade,10,0.7090155825692187,Sector
+Quitman,Business_Services,60,0.3391737080236539,Sector
+Quitman,Business_Products,76,0.14938731669838878,Sector
+Quitman,Construction,17,0.8481559388866232,Sector
+Quitman,Services,45,0.7811470526861083,Sector
+Quitman,Mining,69,0.1355273097233276,Sector
+Quitman,Health_Care,84,0.0709483600455314,Sector
+Quitman,EnergyExpL_Prod,33,0.7626174035880898,Sector
+Quitman,Utilities,71,0.8609344911671095,Sector

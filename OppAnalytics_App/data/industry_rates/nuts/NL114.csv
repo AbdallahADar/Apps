@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oost-Groningen,557,0.6184541339523794,Overall
+Oost-Groningen,HiTech,0,0.8666800151304669,Sector
+Oost-Groningen,Agriculture,48,0.2675816654761167,Sector
+Oost-Groningen,Transportation,26,0.8569303368120255,Sector
+Oost-Groningen,Consumer_Products,35,0.9669004157310972,Sector
+Oost-Groningen,Unassigned,6,0.6600575431767353,Sector
+Oost-Groningen,Communication,4,0.20897114663962257,Sector
+Oost-Groningen,Trade,5,0.7258033889083209,Sector
+Oost-Groningen,Business_Services,44,0.8805802082350959,Sector
+Oost-Groningen,Business_Products,97,0.11810796794318179,Sector
+Oost-Groningen,Construction,57,0.1625700441745267,Sector
+Oost-Groningen,Services,97,0.8921923297350279,Sector
+Oost-Groningen,Mining,48,0.7661452654382572,Sector
+Oost-Groningen,Health_Care,3,0.6037836650227515,Sector
+Oost-Groningen,EnergyExpL_Prod,7,0.46074741483156345,Sector
+Oost-Groningen,Utilities,80,0.8397606020308994,Sector

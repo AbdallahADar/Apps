@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zwickau,770,0.5284489675122735,Overall
+Zwickau,HiTech,26,0.8357717075369696,Sector
+Zwickau,Agriculture,4,0.49546916422976095,Sector
+Zwickau,Transportation,88,0.2945097357173029,Sector
+Zwickau,Consumer_Products,56,0.9536076687575084,Sector
+Zwickau,Unassigned,7,0.9595367541851924,Sector
+Zwickau,Communication,61,0.04513693897090332,Sector
+Zwickau,Trade,88,0.768060020871516,Sector
+Zwickau,Business_Services,52,0.9398928296426577,Sector
+Zwickau,Business_Products,38,0.4827304395999673,Sector
+Zwickau,Construction,88,0.08601904483661704,Sector
+Zwickau,Services,4,0.8132703071970664,Sector
+Zwickau,Mining,95,0.24970164778624848,Sector
+Zwickau,Health_Care,47,0.03919618499335331,Sector
+Zwickau,EnergyExpL_Prod,70,0.8807073851569621,Sector
+Zwickau,Utilities,46,0.08312468320207711,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Florence,1058,0.3659536477104895,Overall
+Florence,HiTech,73,0.010388253521020241,Sector
+Florence,Agriculture,69,0.3494904773862989,Sector
+Florence,Transportation,81,0.026200022494250463,Sector
+Florence,Consumer_Products,88,0.9445150304362077,Sector
+Florence,Unassigned,41,0.19920204069422764,Sector
+Florence,Communication,75,0.35395961851624524,Sector
+Florence,Trade,91,0.35420298656131666,Sector
+Florence,Business_Services,94,0.04958871445877322,Sector
+Florence,Business_Products,88,0.07414252725150128,Sector
+Florence,Construction,52,0.8116345093915527,Sector
+Florence,Services,90,0.19835183652656796,Sector
+Florence,Mining,50,0.46858873662191747,Sector
+Florence,Health_Care,59,0.7095685707240359,Sector
+Florence,EnergyExpL_Prod,96,0.38850202146309476,Sector
+Florence,Utilities,11,0.5509693696103319,Sector

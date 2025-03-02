@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tuscola,894,0.47496513369253335,Overall
+Tuscola,HiTech,44,0.16810103913585994,Sector
+Tuscola,Agriculture,20,0.11876411405781417,Sector
+Tuscola,Transportation,39,0.5490068902842623,Sector
+Tuscola,Consumer_Products,16,0.9283673152106107,Sector
+Tuscola,Unassigned,94,0.16093171852744126,Sector
+Tuscola,Communication,15,0.4111343645875305,Sector
+Tuscola,Trade,76,0.5212046070393184,Sector
+Tuscola,Business_Services,99,0.40189693131734094,Sector
+Tuscola,Business_Products,61,0.8775817067137649,Sector
+Tuscola,Construction,77,0.16120515905004207,Sector
+Tuscola,Services,98,0.9066845106500037,Sector
+Tuscola,Mining,30,0.5940787022693157,Sector
+Tuscola,Health_Care,99,0.3480205955675626,Sector
+Tuscola,EnergyExpL_Prod,75,0.8719690744057847,Sector
+Tuscola,Utilities,51,0.10553027657134817,Sector

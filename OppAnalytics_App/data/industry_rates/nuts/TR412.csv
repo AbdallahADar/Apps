@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Eskişehir,641,0.4606376783440852,Overall
+Eskişehir,HiTech,38,0.35174185956451776,Sector
+Eskişehir,Agriculture,43,0.24533300296226979,Sector
+Eskişehir,Transportation,64,0.07281762943235037,Sector
+Eskişehir,Consumer_Products,92,0.2814300317682644,Sector
+Eskişehir,Unassigned,22,0.6845829226843178,Sector
+Eskişehir,Communication,88,0.6961535830734803,Sector
+Eskişehir,Trade,41,0.08161917737308677,Sector
+Eskişehir,Business_Services,18,0.43138879556939924,Sector
+Eskişehir,Business_Products,32,0.8293098074913144,Sector
+Eskişehir,Construction,49,0.060897913223992295,Sector
+Eskişehir,Services,43,0.9717018080605782,Sector
+Eskişehir,Mining,17,0.23325792421017,Sector
+Eskişehir,Health_Care,16,0.7300400020332816,Sector
+Eskişehir,EnergyExpL_Prod,1,0.4208794124023967,Sector
+Eskişehir,Utilities,77,0.8184113053118575,Sector

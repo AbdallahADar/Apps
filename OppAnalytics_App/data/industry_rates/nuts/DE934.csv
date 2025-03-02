@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lüchow-Dannenberg,606,0.542402093745249,Overall
+Lüchow-Dannenberg,HiTech,31,0.41534874078445216,Sector
+Lüchow-Dannenberg,Agriculture,11,0.5583719052930095,Sector
+Lüchow-Dannenberg,Transportation,89,0.7179207817661343,Sector
+Lüchow-Dannenberg,Consumer_Products,69,0.969343645573945,Sector
+Lüchow-Dannenberg,Unassigned,69,0.426389216774558,Sector
+Lüchow-Dannenberg,Communication,4,0.7504540717565267,Sector
+Lüchow-Dannenberg,Trade,11,0.015035608357250263,Sector
+Lüchow-Dannenberg,Business_Services,69,0.6050641189224322,Sector
+Lüchow-Dannenberg,Business_Products,1,0.18843920408967896,Sector
+Lüchow-Dannenberg,Construction,48,0.5112687572241896,Sector
+Lüchow-Dannenberg,Services,60,0.5429979026642112,Sector
+Lüchow-Dannenberg,Mining,32,0.7980736801368093,Sector
+Lüchow-Dannenberg,Health_Care,51,0.43810967957070834,Sector
+Lüchow-Dannenberg,EnergyExpL_Prod,58,0.47809701674133565,Sector
+Lüchow-Dannenberg,Utilities,3,0.7211170765234934,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cottle,633,0.3580441771187998,Overall
+Cottle,HiTech,29,0.25747591148085025,Sector
+Cottle,Agriculture,73,0.3464569407553686,Sector
+Cottle,Transportation,73,0.2544423957119669,Sector
+Cottle,Consumer_Products,59,0.14250734323830572,Sector
+Cottle,Unassigned,1,0.6799671816103167,Sector
+Cottle,Communication,78,0.16847860137578552,Sector
+Cottle,Trade,19,0.7617744349305864,Sector
+Cottle,Business_Services,74,0.28615710533682803,Sector
+Cottle,Business_Products,65,0.5631378014164365,Sector
+Cottle,Construction,84,0.610676336841359,Sector
+Cottle,Services,22,0.23239844540150645,Sector
+Cottle,Mining,11,0.28131544556358257,Sector
+Cottle,Health_Care,14,0.6534690249809189,Sector
+Cottle,EnergyExpL_Prod,26,0.09476017338300569,Sector
+Cottle,Utilities,5,0.03764551475517963,Sector

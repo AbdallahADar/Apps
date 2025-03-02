@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Frosinone,817,0.5087586748197335,Overall
+Frosinone,HiTech,22,0.6163788631339706,Sector
+Frosinone,Agriculture,56,0.14734195279136209,Sector
+Frosinone,Transportation,80,0.25512046561318913,Sector
+Frosinone,Consumer_Products,52,0.3231060921795873,Sector
+Frosinone,Unassigned,84,0.13604468900307642,Sector
+Frosinone,Communication,95,0.49969175523365794,Sector
+Frosinone,Trade,82,0.6120421319340442,Sector
+Frosinone,Business_Services,85,0.7983995205331351,Sector
+Frosinone,Business_Products,7,0.4617781880483671,Sector
+Frosinone,Construction,1,0.7501507024266902,Sector
+Frosinone,Services,47,0.9394718200053838,Sector
+Frosinone,Mining,86,0.920398820914958,Sector
+Frosinone,Health_Care,72,0.6395111952359448,Sector
+Frosinone,EnergyExpL_Prod,24,0.3201104491334533,Sector
+Frosinone,Utilities,24,0.2118334761091828,Sector

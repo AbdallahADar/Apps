@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wheeler,853,0.6017176668422041,Overall
+Wheeler,HiTech,62,0.842798128177524,Sector
+Wheeler,Agriculture,74,0.68729257016613,Sector
+Wheeler,Transportation,3,0.5980730314877021,Sector
+Wheeler,Consumer_Products,30,0.5516516613637502,Sector
+Wheeler,Unassigned,88,0.7744158829750237,Sector
+Wheeler,Communication,85,0.5090797405725874,Sector
+Wheeler,Trade,84,0.91433481226326,Sector
+Wheeler,Business_Services,63,0.45590433149551024,Sector
+Wheeler,Business_Products,59,0.8105353432770155,Sector
+Wheeler,Construction,9,0.5334616143521336,Sector
+Wheeler,Services,75,0.7632784456463378,Sector
+Wheeler,Mining,83,0.1070523690621954,Sector
+Wheeler,Health_Care,74,0.7787057748199865,Sector
+Wheeler,EnergyExpL_Prod,61,0.12721958589529847,Sector
+Wheeler,Utilities,3,0.5719617110786048,Sector

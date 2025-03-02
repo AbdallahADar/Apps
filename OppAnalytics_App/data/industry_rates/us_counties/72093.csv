@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Maricao,861,0.5320251332937872,Overall
+Maricao,HiTech,95,0.11363927883687652,Sector
+Maricao,Agriculture,19,0.41799598132505245,Sector
+Maricao,Transportation,82,0.5111233150195662,Sector
+Maricao,Consumer_Products,81,0.7946954228441095,Sector
+Maricao,Unassigned,89,0.0727828122683184,Sector
+Maricao,Communication,33,0.1894450614710821,Sector
+Maricao,Trade,35,0.7775033825589026,Sector
+Maricao,Business_Services,43,0.6251929981878057,Sector
+Maricao,Business_Products,49,0.4142893408720283,Sector
+Maricao,Construction,7,0.9744345098491402,Sector
+Maricao,Services,72,0.8512686830240411,Sector
+Maricao,Mining,87,0.7059075294234337,Sector
+Maricao,Health_Care,91,0.7542181128962495,Sector
+Maricao,EnergyExpL_Prod,66,0.35142857049588383,Sector
+Maricao,Utilities,12,0.42645200033431874,Sector

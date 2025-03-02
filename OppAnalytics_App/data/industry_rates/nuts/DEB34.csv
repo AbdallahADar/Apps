@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Ludwigshafen am Rhein, Kreisfreie Stadt",635,0.4427539364898703,Overall
+"Ludwigshafen am Rhein, Kreisfreie Stadt",HiTech,35,0.824574141960202,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Agriculture,10,0.9089462306300483,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Transportation,33,0.23069759595199513,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Consumer_Products,34,0.21672532866108452,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Unassigned,77,0.893954446180829,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Communication,11,0.11572101679525826,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Trade,58,0.15187503983514816,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Business_Services,36,0.16913741402300575,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Business_Products,19,0.7268793743202039,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Construction,3,0.500771017968564,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Services,6,0.00037502554537816035,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Mining,53,0.016984274775906583,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Health_Care,95,0.8554529323070116,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",EnergyExpL_Prod,75,0.45169193186318024,Sector
+"Ludwigshafen am Rhein, Kreisfreie Stadt",Utilities,90,0.5775232765302386,Sector

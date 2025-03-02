@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Noord-Friesland,817,0.5108583260961342,Overall
+Noord-Friesland,HiTech,90,0.3385640445948538,Sector
+Noord-Friesland,Agriculture,87,0.9601303621976092,Sector
+Noord-Friesland,Transportation,8,0.22122118305567584,Sector
+Noord-Friesland,Consumer_Products,79,0.5818702627137567,Sector
+Noord-Friesland,Unassigned,26,0.3121893526842576,Sector
+Noord-Friesland,Communication,35,0.6876892659087601,Sector
+Noord-Friesland,Trade,77,0.42263104612603963,Sector
+Noord-Friesland,Business_Services,71,0.1777087699855595,Sector
+Noord-Friesland,Business_Products,48,0.1318068782572036,Sector
+Noord-Friesland,Construction,26,0.8192320367784298,Sector
+Noord-Friesland,Services,36,0.17653273693892513,Sector
+Noord-Friesland,Mining,58,0.8941854258763368,Sector
+Noord-Friesland,Health_Care,60,0.6665196406327283,Sector
+Noord-Friesland,EnergyExpL_Prod,22,0.772232334741338,Sector
+Noord-Friesland,Utilities,94,0.5003615509505391,Sector

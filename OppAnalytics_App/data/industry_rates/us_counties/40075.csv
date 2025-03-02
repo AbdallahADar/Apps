@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kiowa,616,0.46459844407629886,Overall
+Kiowa,HiTech,35,0.27943465311970206,Sector
+Kiowa,Agriculture,96,0.30894518303312823,Sector
+Kiowa,Transportation,93,0.3170684841430771,Sector
+Kiowa,Consumer_Products,3,0.838059407138834,Sector
+Kiowa,Unassigned,56,0.358572165047064,Sector
+Kiowa,Communication,93,0.5960409670435741,Sector
+Kiowa,Trade,87,0.9849662984237454,Sector
+Kiowa,Business_Services,8,0.01045303138451037,Sector
+Kiowa,Business_Products,9,0.39914662521072786,Sector
+Kiowa,Construction,18,0.6871205858867143,Sector
+Kiowa,Services,11,0.00854068086117954,Sector
+Kiowa,Mining,41,0.9166967745521947,Sector
+Kiowa,Health_Care,16,0.6646018215516482,Sector
+Kiowa,EnergyExpL_Prod,12,0.3724865289898004,Sector
+Kiowa,Utilities,38,0.22684345475858125,Sector

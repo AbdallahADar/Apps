@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,San Juan,791,0.5570665866725731,Overall
+San Juan,HiTech,69,0.24921074263073206,Sector
+San Juan,Agriculture,27,0.8503821550215593,Sector
+San Juan,Transportation,32,0.9884487981128917,Sector
+San Juan,Consumer_Products,64,0.5400878464150715,Sector
+San Juan,Unassigned,44,0.7769134327565399,Sector
+San Juan,Communication,64,0.8357832089255531,Sector
+San Juan,Trade,15,0.971576084219061,Sector
+San Juan,Business_Services,26,0.26403262219692314,Sector
+San Juan,Business_Products,81,0.5420147927895346,Sector
+San Juan,Construction,44,0.6721682577607874,Sector
+San Juan,Services,47,0.42406703589442096,Sector
+San Juan,Mining,74,0.21498084013930396,Sector
+San Juan,Health_Care,31,0.45130940218831384,Sector
+San Juan,EnergyExpL_Prod,78,0.22529815640339412,Sector
+San Juan,Utilities,95,0.3497254246345126,Sector

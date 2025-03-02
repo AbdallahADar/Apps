@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Manitowoc,755,0.3565805234884833,Overall
+Manitowoc,HiTech,5,0.3505216398739728,Sector
+Manitowoc,Agriculture,47,0.1324680304697341,Sector
+Manitowoc,Transportation,78,0.04659022353019515,Sector
+Manitowoc,Consumer_Products,4,0.1630181506565942,Sector
+Manitowoc,Unassigned,44,0.015974015741708314,Sector
+Manitowoc,Communication,99,0.2947390037120421,Sector
+Manitowoc,Trade,66,0.29779200921731985,Sector
+Manitowoc,Business_Services,2,0.3958973442824356,Sector
+Manitowoc,Business_Products,59,0.6523537300674067,Sector
+Manitowoc,Construction,79,0.010328861088440444,Sector
+Manitowoc,Services,28,0.5217501847423306,Sector
+Manitowoc,Mining,91,0.6539198026582538,Sector
+Manitowoc,Health_Care,24,0.7992294485499947,Sector
+Manitowoc,EnergyExpL_Prod,37,0.11135511482297289,Sector
+Manitowoc,Utilities,92,0.9027702929138478,Sector

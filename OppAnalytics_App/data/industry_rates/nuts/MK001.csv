@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vardarski,710,0.4561775720800526,Overall
+Vardarski,HiTech,18,0.2667688603504663,Sector
+Vardarski,Agriculture,30,0.7215854704422378,Sector
+Vardarski,Transportation,86,0.31894518103564784,Sector
+Vardarski,Consumer_Products,62,0.6657718537720567,Sector
+Vardarski,Unassigned,31,0.8718317503033567,Sector
+Vardarski,Communication,71,0.3633402464763197,Sector
+Vardarski,Trade,23,0.6237772678099665,Sector
+Vardarski,Business_Services,90,0.23887636566503134,Sector
+Vardarski,Business_Products,29,0.20491851361017754,Sector
+Vardarski,Construction,33,0.7191699501473227,Sector
+Vardarski,Services,41,0.3010668290521743,Sector
+Vardarski,Mining,34,0.048534349671395804,Sector
+Vardarski,Health_Care,89,0.38867432174335526,Sector
+Vardarski,EnergyExpL_Prod,31,0.3314428176495121,Sector
+Vardarski,Utilities,42,0.7779598034717683,Sector

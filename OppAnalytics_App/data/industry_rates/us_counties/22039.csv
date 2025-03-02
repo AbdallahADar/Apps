@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Evangeline,634,0.413760072180394,Overall
+Evangeline,HiTech,69,0.5742204342257432,Sector
+Evangeline,Agriculture,11,0.9703723751094099,Sector
+Evangeline,Transportation,11,0.3518903615428214,Sector
+Evangeline,Consumer_Products,87,0.15745236529966655,Sector
+Evangeline,Unassigned,73,0.26534058369269653,Sector
+Evangeline,Communication,83,0.6490088602220674,Sector
+Evangeline,Trade,24,0.160393667977637,Sector
+Evangeline,Business_Services,51,0.41416552119674466,Sector
+Evangeline,Business_Products,69,0.2855154236613572,Sector
+Evangeline,Construction,9,0.28296578572554876,Sector
+Evangeline,Services,4,0.5983177087162965,Sector
+Evangeline,Mining,18,0.10091003948210953,Sector
+Evangeline,Health_Care,35,0.6383907135175894,Sector
+Evangeline,EnergyExpL_Prod,85,0.2552534153512771,Sector
+Evangeline,Utilities,5,0.5022038269849455,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kronach,592,0.5715212278293909,Overall
+Kronach,HiTech,16,0.9112763509124183,Sector
+Kronach,Agriculture,56,0.6665345888909513,Sector
+Kronach,Transportation,47,0.6804288106400096,Sector
+Kronach,Consumer_Products,19,0.8891262037946188,Sector
+Kronach,Unassigned,8,0.5727912775647059,Sector
+Kronach,Communication,33,0.695269510186304,Sector
+Kronach,Trade,53,0.16589337842588925,Sector
+Kronach,Business_Services,37,0.917259592344474,Sector
+Kronach,Business_Products,4,0.22153581243084863,Sector
+Kronach,Construction,67,0.20824508236357908,Sector
+Kronach,Services,46,0.553006717642041,Sector
+Kronach,Mining,15,0.6394039362989591,Sector
+Kronach,Health_Care,42,0.6132836796849853,Sector
+Kronach,EnergyExpL_Prod,78,0.1885012805132551,Sector
+Kronach,Utilities,71,0.6502621957478233,Sector

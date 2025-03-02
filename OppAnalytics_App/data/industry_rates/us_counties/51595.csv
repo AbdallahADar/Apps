@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Emporia,961,0.6845979865157878,Overall
+Emporia,HiTech,96,0.8506130244015904,Sector
+Emporia,Agriculture,69,0.9646957476524389,Sector
+Emporia,Transportation,1,0.08118635374305205,Sector
+Emporia,Consumer_Products,93,0.6685086490713774,Sector
+Emporia,Unassigned,71,0.7537800339035423,Sector
+Emporia,Communication,80,0.4992508938434397,Sector
+Emporia,Trade,95,0.9736236244245916,Sector
+Emporia,Business_Services,63,0.2696139714659279,Sector
+Emporia,Business_Products,70,0.9355457569540928,Sector
+Emporia,Construction,70,0.8978862844619765,Sector
+Emporia,Services,65,0.6800262770395414,Sector
+Emporia,Mining,91,0.057065496328611354,Sector
+Emporia,Health_Care,19,0.8570386644054327,Sector
+Emporia,EnergyExpL_Prod,65,0.840726230916111,Sector
+Emporia,Utilities,13,0.9394087891250908,Sector

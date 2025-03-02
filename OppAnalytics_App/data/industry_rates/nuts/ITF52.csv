@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Matera,737,0.43977947430331404,Overall
+Matera,HiTech,25,0.28263615164741196,Sector
+Matera,Agriculture,90,0.6421790056781286,Sector
+Matera,Transportation,67,0.4876957620239475,Sector
+Matera,Consumer_Products,24,0.4150753536572489,Sector
+Matera,Unassigned,28,0.878382173490645,Sector
+Matera,Communication,89,0.27016100473993554,Sector
+Matera,Trade,31,0.7954033399587046,Sector
+Matera,Business_Services,26,0.31490341020748736,Sector
+Matera,Business_Products,59,0.08009699335518405,Sector
+Matera,Construction,35,0.837800482084856,Sector
+Matera,Services,45,0.3609845003417609,Sector
+Matera,Mining,44,0.5133359978773414,Sector
+Matera,Health_Care,42,0.14535196029337305,Sector
+Matera,EnergyExpL_Prod,78,0.4071956382713744,Sector
+Matera,Utilities,54,0.16549034092231207,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Dordogne,883,0.5450652353287915,Overall
+Dordogne,HiTech,33,0.1708381088251819,Sector
+Dordogne,Agriculture,57,0.9876633737312811,Sector
+Dordogne,Transportation,59,0.12444231455234045,Sector
+Dordogne,Consumer_Products,93,0.2628876899310031,Sector
+Dordogne,Unassigned,63,0.9892794915650096,Sector
+Dordogne,Communication,71,0.7840230149462378,Sector
+Dordogne,Trade,33,0.5689184818671935,Sector
+Dordogne,Business_Services,72,0.4236904092827376,Sector
+Dordogne,Business_Products,43,0.8825844134002485,Sector
+Dordogne,Construction,72,0.14094937246580652,Sector
+Dordogne,Services,49,0.14675733711060568,Sector
+Dordogne,Mining,17,0.6496429933974204,Sector
+Dordogne,Health_Care,52,0.6559323364151485,Sector
+Dordogne,EnergyExpL_Prod,78,0.835235073228173,Sector
+Dordogne,Utilities,91,0.5531341192134849,Sector

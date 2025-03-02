@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rawlins,795,0.4929456525529851,Overall
+Rawlins,HiTech,11,0.36648897906982103,Sector
+Rawlins,Agriculture,63,0.48610358660618636,Sector
+Rawlins,Transportation,77,0.20566686685721547,Sector
+Rawlins,Consumer_Products,31,0.585045509319191,Sector
+Rawlins,Unassigned,91,0.3736904145788379,Sector
+Rawlins,Communication,40,0.13154442995139637,Sector
+Rawlins,Trade,39,0.5462633710705614,Sector
+Rawlins,Business_Services,55,0.9716667820790595,Sector
+Rawlins,Business_Products,69,0.11558906938610203,Sector
+Rawlins,Construction,0,0.6818131443551193,Sector
+Rawlins,Services,70,0.7421126093826593,Sector
+Rawlins,Mining,45,0.06815626113315065,Sector
+Rawlins,Health_Care,91,0.24637917465577863,Sector
+Rawlins,EnergyExpL_Prod,51,0.986665921185519,Sector
+Rawlins,Utilities,62,0.8869986686641781,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Potter,649,0.5452369932508604,Overall
+Potter,HiTech,4,0.7572435918861733,Sector
+Potter,Agriculture,12,0.34181465578268344,Sector
+Potter,Transportation,8,0.8860619967485518,Sector
+Potter,Consumer_Products,97,0.6865643977223137,Sector
+Potter,Unassigned,48,0.5930849128927899,Sector
+Potter,Communication,24,0.5912184221302218,Sector
+Potter,Trade,16,0.5429838831019683,Sector
+Potter,Business_Services,0,0.4958437120682381,Sector
+Potter,Business_Products,75,0.03435635924541858,Sector
+Potter,Construction,99,0.8737763458199158,Sector
+Potter,Services,52,0.256658027806382,Sector
+Potter,Mining,43,0.8633079643153806,Sector
+Potter,Health_Care,70,0.24069631368704003,Sector
+Potter,EnergyExpL_Prod,41,0.5202903260047013,Sector
+Potter,Utilities,60,0.4946539895511278,Sector

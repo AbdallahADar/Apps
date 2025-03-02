@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Phelps,814,0.4236383941119109,Overall
+Phelps,HiTech,71,0.9651927819971116,Sector
+Phelps,Agriculture,34,0.9343960667650526,Sector
+Phelps,Transportation,35,0.37600788988459266,Sector
+Phelps,Consumer_Products,23,0.10270028282554944,Sector
+Phelps,Unassigned,50,0.5776207698449173,Sector
+Phelps,Communication,38,0.2137575189038653,Sector
+Phelps,Trade,64,0.6560348395146691,Sector
+Phelps,Business_Services,89,0.058384649983802106,Sector
+Phelps,Business_Products,39,0.6443723730509724,Sector
+Phelps,Construction,81,0.31550190623817187,Sector
+Phelps,Services,56,0.2976304185178207,Sector
+Phelps,Mining,84,0.7975329312969691,Sector
+Phelps,Health_Care,28,0.3404406831850171,Sector
+Phelps,EnergyExpL_Prod,79,0.013670005391069107,Sector
+Phelps,Utilities,43,0.06133279427908489,Sector

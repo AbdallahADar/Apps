@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Laurens,928,0.5248263328317493,Overall
+Laurens,HiTech,88,0.578415298126993,Sector
+Laurens,Agriculture,71,0.8618962946934415,Sector
+Laurens,Transportation,60,0.9984299783054743,Sector
+Laurens,Consumer_Products,52,0.9653955669673212,Sector
+Laurens,Unassigned,65,0.0495234595905546,Sector
+Laurens,Communication,74,0.01798354302775307,Sector
+Laurens,Trade,55,0.7508695217727787,Sector
+Laurens,Business_Services,91,0.6690918188288575,Sector
+Laurens,Business_Products,18,0.02787774840124635,Sector
+Laurens,Construction,84,0.582402826141541,Sector
+Laurens,Services,58,0.05347481048610092,Sector
+Laurens,Mining,50,0.9496318216658054,Sector
+Laurens,Health_Care,47,0.3256413161020175,Sector
+Laurens,EnergyExpL_Prod,53,0.3337809716645126,Sector
+Laurens,Utilities,62,0.7079800167018425,Sector

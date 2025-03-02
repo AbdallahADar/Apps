@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Pemiscot,699,0.5412676296906367,Overall
+Pemiscot,HiTech,65,0.7268088562760516,Sector
+Pemiscot,Agriculture,89,0.7427317410515735,Sector
+Pemiscot,Transportation,48,0.07404078622671073,Sector
+Pemiscot,Consumer_Products,32,0.7756533126531028,Sector
+Pemiscot,Unassigned,7,0.13245407976667634,Sector
+Pemiscot,Communication,74,0.6762423373862819,Sector
+Pemiscot,Trade,75,0.9373771224949807,Sector
+Pemiscot,Business_Services,65,0.10412419983513588,Sector
+Pemiscot,Business_Products,67,0.6408801367648779,Sector
+Pemiscot,Construction,52,0.31768973029891956,Sector
+Pemiscot,Services,64,0.49403988479347527,Sector
+Pemiscot,Mining,31,0.9322934255036216,Sector
+Pemiscot,Health_Care,1,0.3618691727975375,Sector
+Pemiscot,EnergyExpL_Prod,8,0.5024909100382466,Sector
+Pemiscot,Utilities,21,0.700318749472359,Sector

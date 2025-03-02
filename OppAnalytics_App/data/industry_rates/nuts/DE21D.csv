@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Garmisch-Partenkirchen,757,0.44769679793305683,Overall
+Garmisch-Partenkirchen,HiTech,37,0.6625722817000099,Sector
+Garmisch-Partenkirchen,Agriculture,85,0.4562523941964468,Sector
+Garmisch-Partenkirchen,Transportation,98,0.10661419087310042,Sector
+Garmisch-Partenkirchen,Consumer_Products,78,0.2454602788559589,Sector
+Garmisch-Partenkirchen,Unassigned,36,0.7275407100286211,Sector
+Garmisch-Partenkirchen,Communication,43,0.378809654314615,Sector
+Garmisch-Partenkirchen,Trade,55,0.3419654318545816,Sector
+Garmisch-Partenkirchen,Business_Services,23,0.5915500572013391,Sector
+Garmisch-Partenkirchen,Business_Products,29,0.6472681759531196,Sector
+Garmisch-Partenkirchen,Construction,35,0.6489630891815068,Sector
+Garmisch-Partenkirchen,Services,54,0.1790798744613784,Sector
+Garmisch-Partenkirchen,Mining,54,0.8108007947332845,Sector
+Garmisch-Partenkirchen,Health_Care,17,0.3059108313353244,Sector
+Garmisch-Partenkirchen,EnergyExpL_Prod,39,0.21206963573718896,Sector
+Garmisch-Partenkirchen,Utilities,74,0.4005945685693768,Sector

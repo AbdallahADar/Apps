@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Vernon,798,0.38959732087168863,Overall
+Vernon,HiTech,90,0.6471838954738046,Sector
+Vernon,Agriculture,95,0.39724457258361723,Sector
+Vernon,Transportation,70,0.32110484941999584,Sector
+Vernon,Consumer_Products,67,0.7460038506813338,Sector
+Vernon,Unassigned,7,0.06851270362638895,Sector
+Vernon,Communication,81,0.8267210769512694,Sector
+Vernon,Trade,52,0.018514206043645176,Sector
+Vernon,Business_Services,26,0.4402591606860964,Sector
+Vernon,Business_Products,12,0.2875483270893139,Sector
+Vernon,Construction,42,0.30065905058001274,Sector
+Vernon,Services,35,0.24912949736981316,Sector
+Vernon,Mining,62,0.6330723153171832,Sector
+Vernon,Health_Care,84,0.028529910393461866,Sector
+Vernon,EnergyExpL_Prod,59,0.3038089194008402,Sector
+Vernon,Utilities,16,0.5756674774585538,Sector

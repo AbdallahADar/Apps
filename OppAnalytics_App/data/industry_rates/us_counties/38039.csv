@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Griggs,770,0.40602920044290325,Overall
+Griggs,HiTech,84,0.3406041389761596,Sector
+Griggs,Agriculture,80,0.5487437553360724,Sector
+Griggs,Transportation,46,0.11222665985808111,Sector
+Griggs,Consumer_Products,94,0.40445960486466914,Sector
+Griggs,Unassigned,30,0.85998983613338,Sector
+Griggs,Communication,87,0.2734211588404548,Sector
+Griggs,Trade,7,0.635307400397372,Sector
+Griggs,Business_Services,3,0.6914563920555452,Sector
+Griggs,Business_Products,31,0.3254530316434716,Sector
+Griggs,Construction,88,0.7261629699075883,Sector
+Griggs,Services,23,0.12359927020175465,Sector
+Griggs,Mining,21,0.1576558937364011,Sector
+Griggs,Health_Care,63,0.2932906756256234,Sector
+Griggs,EnergyExpL_Prod,28,0.4374332686880271,Sector
+Griggs,Utilities,85,0.1606339503789479,Sector

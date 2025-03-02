@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Duisburg, Kreisfreie Stadt",758,0.5250251136514076,Overall
+"Duisburg, Kreisfreie Stadt",HiTech,84,0.33338650912222134,Sector
+"Duisburg, Kreisfreie Stadt",Agriculture,87,0.1507739539038958,Sector
+"Duisburg, Kreisfreie Stadt",Transportation,16,0.6196535930933701,Sector
+"Duisburg, Kreisfreie Stadt",Consumer_Products,64,0.48636857886200646,Sector
+"Duisburg, Kreisfreie Stadt",Unassigned,70,0.8551753630811081,Sector
+"Duisburg, Kreisfreie Stadt",Communication,72,0.7010626218981778,Sector
+"Duisburg, Kreisfreie Stadt",Trade,72,0.07549464070090162,Sector
+"Duisburg, Kreisfreie Stadt",Business_Services,94,0.3319483630590201,Sector
+"Duisburg, Kreisfreie Stadt",Business_Products,43,0.9417333971594851,Sector
+"Duisburg, Kreisfreie Stadt",Construction,6,0.5110438276564467,Sector
+"Duisburg, Kreisfreie Stadt",Services,30,0.3366450591623088,Sector
+"Duisburg, Kreisfreie Stadt",Mining,24,0.6607048920916091,Sector
+"Duisburg, Kreisfreie Stadt",Health_Care,27,0.6207226638733534,Sector
+"Duisburg, Kreisfreie Stadt",EnergyExpL_Prod,30,0.7101944548479545,Sector
+"Duisburg, Kreisfreie Stadt",Utilities,39,0.5404687862592558,Sector

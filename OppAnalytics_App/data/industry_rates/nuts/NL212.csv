@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Zuidwest-Overijssel,864,0.5416906997712182,Overall
+Zuidwest-Overijssel,HiTech,74,0.27256784819018354,Sector
+Zuidwest-Overijssel,Agriculture,79,0.8205144438390202,Sector
+Zuidwest-Overijssel,Transportation,77,0.9322805982272137,Sector
+Zuidwest-Overijssel,Consumer_Products,5,0.1533562509717128,Sector
+Zuidwest-Overijssel,Unassigned,50,0.423905856498202,Sector
+Zuidwest-Overijssel,Communication,84,0.5189381734254317,Sector
+Zuidwest-Overijssel,Trade,19,0.7578850539105707,Sector
+Zuidwest-Overijssel,Business_Services,55,0.15503800718507843,Sector
+Zuidwest-Overijssel,Business_Products,53,0.469087195008004,Sector
+Zuidwest-Overijssel,Construction,12,0.8661378881653243,Sector
+Zuidwest-Overijssel,Services,49,0.7044258177094208,Sector
+Zuidwest-Overijssel,Mining,96,0.4102580221559152,Sector
+Zuidwest-Overijssel,Health_Care,44,0.7243928472129827,Sector
+Zuidwest-Overijssel,EnergyExpL_Prod,70,0.4342092440906018,Sector
+Zuidwest-Overijssel,Utilities,97,0.4823632499786097,Sector

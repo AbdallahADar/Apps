@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Spencer,797,0.46698881852946256,Overall
+Spencer,HiTech,61,0.7456150220454177,Sector
+Spencer,Agriculture,98,0.8832818387194143,Sector
+Spencer,Transportation,8,0.04136218536322189,Sector
+Spencer,Consumer_Products,66,0.34705389033164835,Sector
+Spencer,Unassigned,59,0.7014572730662159,Sector
+Spencer,Communication,24,0.3080870366149925,Sector
+Spencer,Trade,48,0.6709095007030983,Sector
+Spencer,Business_Services,11,0.5246895752649,Sector
+Spencer,Business_Products,97,0.5420260997294813,Sector
+Spencer,Construction,80,0.4410489597259897,Sector
+Spencer,Services,88,0.1723030926507404,Sector
+Spencer,Mining,83,0.8443744510304529,Sector
+Spencer,Health_Care,49,0.5097228872020927,Sector
+Spencer,EnergyExpL_Prod,20,0.0012332945930945138,Sector
+Spencer,Utilities,5,0.2716671709011771,Sector

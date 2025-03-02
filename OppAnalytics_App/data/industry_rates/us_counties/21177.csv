@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Muhlenberg,820,0.4695528637217593,Overall
+Muhlenberg,HiTech,58,0.5583714420728146,Sector
+Muhlenberg,Agriculture,36,0.050904896567990576,Sector
+Muhlenberg,Transportation,85,0.058635738150671246,Sector
+Muhlenberg,Consumer_Products,60,0.6803890015484363,Sector
+Muhlenberg,Unassigned,98,0.5565336482909923,Sector
+Muhlenberg,Communication,7,0.9772663440048179,Sector
+Muhlenberg,Trade,43,0.5306004160338171,Sector
+Muhlenberg,Business_Services,69,0.5454434078070991,Sector
+Muhlenberg,Business_Products,9,0.8563039662955884,Sector
+Muhlenberg,Construction,31,0.3809339623524207,Sector
+Muhlenberg,Services,98,0.42427604867358004,Sector
+Muhlenberg,Mining,48,0.2580192264448278,Sector
+Muhlenberg,Health_Care,69,0.42123967765488834,Sector
+Muhlenberg,EnergyExpL_Prod,46,0.021824558490108115,Sector
+Muhlenberg,Utilities,63,0.7225506214383373,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Smith,828,0.5294030294915084,Overall
+Smith,HiTech,93,0.19757883353953243,Sector
+Smith,Agriculture,11,0.03881879633721019,Sector
+Smith,Transportation,72,0.6123591634379452,Sector
+Smith,Consumer_Products,20,0.4803417161234763,Sector
+Smith,Unassigned,51,0.23507707255784316,Sector
+Smith,Communication,84,0.8961089992940376,Sector
+Smith,Trade,77,0.44621553043423123,Sector
+Smith,Business_Services,63,0.9200512261789718,Sector
+Smith,Business_Products,59,0.774072482878382,Sector
+Smith,Construction,14,0.6956321706389285,Sector
+Smith,Services,4,0.6333192590106229,Sector
+Smith,Mining,98,0.20195571936542756,Sector
+Smith,Health_Care,83,0.3030461023301475,Sector
+Smith,EnergyExpL_Prod,94,0.9555534665698858,Sector
+Smith,Utilities,5,0.550914903675984,Sector

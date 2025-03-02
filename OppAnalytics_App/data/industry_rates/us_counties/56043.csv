@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Washakie,716,0.42481413817125796,Overall
+Washakie,HiTech,67,0.9949715447934886,Sector
+Washakie,Agriculture,94,0.4420566495886513,Sector
+Washakie,Transportation,8,0.2446106772694916,Sector
+Washakie,Consumer_Products,84,0.5921042753584658,Sector
+Washakie,Unassigned,42,0.8879685028276625,Sector
+Washakie,Communication,73,0.021348001037437503,Sector
+Washakie,Trade,20,0.3063998302391884,Sector
+Washakie,Business_Services,43,0.5786414775827214,Sector
+Washakie,Business_Products,46,0.3262961027907013,Sector
+Washakie,Construction,46,0.28708226667551184,Sector
+Washakie,Services,14,0.3082779996921643,Sector
+Washakie,Mining,25,0.3565037721568197,Sector
+Washakie,Health_Care,68,0.39460056655780396,Sector
+Washakie,EnergyExpL_Prod,79,0.5731218155735542,Sector
+Washakie,Utilities,7,0.058228590425208226,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Ludwigsburg,768,0.300941604910316,Overall
+Ludwigsburg,HiTech,15,0.27276797915744,Sector
+Ludwigsburg,Agriculture,17,0.6817541104387427,Sector
+Ludwigsburg,Transportation,49,0.23582321636386827,Sector
+Ludwigsburg,Consumer_Products,44,0.222386157740593,Sector
+Ludwigsburg,Unassigned,0,0.08764519066582477,Sector
+Ludwigsburg,Communication,89,0.31262464931067857,Sector
+Ludwigsburg,Trade,24,0.023593228118573895,Sector
+Ludwigsburg,Business_Services,57,0.9119152128888435,Sector
+Ludwigsburg,Business_Products,95,0.042538258636887205,Sector
+Ludwigsburg,Construction,61,0.8184579452776996,Sector
+Ludwigsburg,Services,93,0.2063646206763292,Sector
+Ludwigsburg,Mining,62,0.4763554691696694,Sector
+Ludwigsburg,Health_Care,90,0.019779682725673098,Sector
+Ludwigsburg,EnergyExpL_Prod,55,0.03014161830773232,Sector
+Ludwigsburg,Utilities,17,0.1719767341761842,Sector

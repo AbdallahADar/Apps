@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Passaic,652,0.469465598317531,Overall
+Passaic,HiTech,17,0.08794556248612373,Sector
+Passaic,Agriculture,3,0.798095834467897,Sector
+Passaic,Transportation,38,0.34704927558218923,Sector
+Passaic,Consumer_Products,68,0.9133963755661448,Sector
+Passaic,Unassigned,87,0.04700810878628503,Sector
+Passaic,Communication,42,0.12484582318324522,Sector
+Passaic,Trade,8,0.42565131841774206,Sector
+Passaic,Business_Services,61,0.7775057949078875,Sector
+Passaic,Business_Products,3,0.5773790409528842,Sector
+Passaic,Construction,59,0.3480032639329623,Sector
+Passaic,Services,75,0.9768532404975254,Sector
+Passaic,Mining,82,0.026821911406102572,Sector
+Passaic,Health_Care,91,0.949431947390203,Sector
+Passaic,EnergyExpL_Prod,15,0.31660951568752427,Sector
+Passaic,Utilities,3,0.32538696149824775,Sector

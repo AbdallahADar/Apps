@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Tulsa,835,0.6060924969491656,Overall
+Tulsa,HiTech,83,0.02646045519641571,Sector
+Tulsa,Agriculture,38,0.2761253312385773,Sector
+Tulsa,Transportation,94,0.667714806020434,Sector
+Tulsa,Consumer_Products,40,0.8170415691422028,Sector
+Tulsa,Unassigned,99,0.904543785544441,Sector
+Tulsa,Communication,52,0.6226616614372738,Sector
+Tulsa,Trade,10,0.9362650087075474,Sector
+Tulsa,Business_Services,43,0.6753389218593961,Sector
+Tulsa,Business_Products,34,0.32634604665359,Sector
+Tulsa,Construction,62,0.7429707432955419,Sector
+Tulsa,Services,89,0.679084112994636,Sector
+Tulsa,Mining,17,0.9046092193554973,Sector
+Tulsa,Health_Care,47,0.1997348464204557,Sector
+Tulsa,EnergyExpL_Prod,51,0.7706308695911945,Sector
+Tulsa,Utilities,76,0.5418600767802794,Sector

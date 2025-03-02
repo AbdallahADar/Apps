@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Elmore,762,0.39147629171404325,Overall
+Elmore,HiTech,30,0.3538791358354525,Sector
+Elmore,Agriculture,71,0.5351557861045154,Sector
+Elmore,Transportation,52,0.1625829962607931,Sector
+Elmore,Consumer_Products,50,0.14956005082217727,Sector
+Elmore,Unassigned,29,0.5480983147882326,Sector
+Elmore,Communication,95,0.36815718770802475,Sector
+Elmore,Trade,24,0.5482025470106264,Sector
+Elmore,Business_Services,76,0.3583498521387767,Sector
+Elmore,Business_Products,85,0.21947016636346783,Sector
+Elmore,Construction,86,0.603046422514696,Sector
+Elmore,Services,56,0.2726491711760528,Sector
+Elmore,Mining,19,0.8281664165554375,Sector
+Elmore,Health_Care,38,0.3935071920540364,Sector
+Elmore,EnergyExpL_Prod,39,0.5275627093222592,Sector
+Elmore,Utilities,12,0.0037564270561012414,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cattaraugus,890,0.42993320506854704,Overall
+Cattaraugus,HiTech,35,0.7971706446864649,Sector
+Cattaraugus,Agriculture,97,0.06066420193747013,Sector
+Cattaraugus,Transportation,1,0.862708662031374,Sector
+Cattaraugus,Consumer_Products,63,0.10310878487022235,Sector
+Cattaraugus,Unassigned,71,0.7819281065934285,Sector
+Cattaraugus,Communication,91,0.49457556678608194,Sector
+Cattaraugus,Trade,55,0.4278039083092311,Sector
+Cattaraugus,Business_Services,70,0.8444251603108806,Sector
+Cattaraugus,Business_Products,39,0.9826780126566845,Sector
+Cattaraugus,Construction,94,0.1794166106604108,Sector
+Cattaraugus,Services,8,0.037024910516720966,Sector
+Cattaraugus,Mining,68,0.19018535924470192,Sector
+Cattaraugus,Health_Care,57,0.26261943598870874,Sector
+Cattaraugus,EnergyExpL_Prod,82,0.18462730150514128,Sector
+Cattaraugus,Utilities,59,0.24006140993068203,Sector

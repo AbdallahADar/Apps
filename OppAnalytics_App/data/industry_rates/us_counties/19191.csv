@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Winneshiek,820,0.5765417754871007,Overall
+Winneshiek,HiTech,16,0.43152815791716836,Sector
+Winneshiek,Agriculture,54,0.15317973983588495,Sector
+Winneshiek,Transportation,89,0.9046971242346503,Sector
+Winneshiek,Consumer_Products,24,0.802561417127734,Sector
+Winneshiek,Unassigned,80,0.7602062590864342,Sector
+Winneshiek,Communication,31,0.6044580596495364,Sector
+Winneshiek,Trade,78,0.6281480622369214,Sector
+Winneshiek,Business_Services,63,0.043044851046964094,Sector
+Winneshiek,Business_Products,39,0.6154603203566112,Sector
+Winneshiek,Construction,68,0.17831991848233986,Sector
+Winneshiek,Services,65,0.7735384586754921,Sector
+Winneshiek,Mining,40,0.8262854960933349,Sector
+Winneshiek,Health_Care,57,0.2136980599206395,Sector
+Winneshiek,EnergyExpL_Prod,32,0.8044992747499305,Sector
+Winneshiek,Utilities,84,0.9085014328928702,Sector

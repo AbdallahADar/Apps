@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Piacenza,887,0.3606495519621596,Overall
+Piacenza,HiTech,74,0.5577159349335128,Sector
+Piacenza,Agriculture,35,0.426417470859765,Sector
+Piacenza,Transportation,81,0.14825670106241717,Sector
+Piacenza,Consumer_Products,94,0.701063239948671,Sector
+Piacenza,Unassigned,44,0.5327850293969894,Sector
+Piacenza,Communication,90,0.3080364566312338,Sector
+Piacenza,Trade,87,0.31693776174287047,Sector
+Piacenza,Business_Services,42,0.3630075754881238,Sector
+Piacenza,Business_Products,53,0.3361670282316668,Sector
+Piacenza,Construction,26,0.6677458398688888,Sector
+Piacenza,Services,59,0.4601642820334031,Sector
+Piacenza,Mining,44,0.005092416608617811,Sector
+Piacenza,Health_Care,67,0.41564892395922903,Sector
+Piacenza,EnergyExpL_Prod,87,0.005083745765240177,Sector
+Piacenza,Utilities,4,0.1656208729017632,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Bergamo,884,0.6888091965191683,Overall
+Bergamo,HiTech,83,0.9134180389635673,Sector
+Bergamo,Agriculture,65,0.7146293795379763,Sector
+Bergamo,Transportation,1,0.9734274553774577,Sector
+Bergamo,Consumer_Products,46,0.8450364324080051,Sector
+Bergamo,Unassigned,81,0.3756631963591138,Sector
+Bergamo,Communication,73,0.3395890059081752,Sector
+Bergamo,Trade,48,0.8357069757367216,Sector
+Bergamo,Business_Services,57,0.7409486857146496,Sector
+Bergamo,Business_Products,59,0.09455740528268919,Sector
+Bergamo,Construction,84,0.8971743525632061,Sector
+Bergamo,Services,42,0.4838999069369051,Sector
+Bergamo,Mining,73,0.9902529443257813,Sector
+Bergamo,Health_Care,87,0.5858286125011762,Sector
+Bergamo,EnergyExpL_Prod,67,0.8732555535598265,Sector
+Bergamo,Utilities,18,0.6687500026122745,Sector

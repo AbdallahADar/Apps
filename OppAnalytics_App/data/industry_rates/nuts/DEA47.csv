@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Paderborn,1006,0.4577043413073993,Overall
+Paderborn,HiTech,96,0.1740627210647251,Sector
+Paderborn,Agriculture,93,0.9828351593797798,Sector
+Paderborn,Transportation,85,0.47554437742503,Sector
+Paderborn,Consumer_Products,40,0.544092464253044,Sector
+Paderborn,Unassigned,99,0.4914063327965965,Sector
+Paderborn,Communication,56,0.6418696491525906,Sector
+Paderborn,Trade,77,0.9224891186070853,Sector
+Paderborn,Business_Services,69,0.0389275675260371,Sector
+Paderborn,Business_Products,32,0.4110797707017898,Sector
+Paderborn,Construction,70,0.2794645049599619,Sector
+Paderborn,Services,42,0.6929020646638283,Sector
+Paderborn,Mining,88,0.030820033290781534,Sector
+Paderborn,Health_Care,83,0.3826204218973115,Sector
+Paderborn,EnergyExpL_Prod,13,0.19635364928647814,Sector
+Paderborn,Utilities,63,0.6010972846059514,Sector

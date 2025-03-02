@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gibson,893,0.36483064754920297,Overall
+Gibson,HiTech,87,0.3711066756182282,Sector
+Gibson,Agriculture,19,0.01212366780538765,Sector
+Gibson,Transportation,84,0.16905283901967438,Sector
+Gibson,Consumer_Products,9,0.16026118218364227,Sector
+Gibson,Unassigned,70,0.05602861862402564,Sector
+Gibson,Communication,91,0.4525920281440535,Sector
+Gibson,Trade,56,0.8356049732821543,Sector
+Gibson,Business_Services,85,0.0058149752250766795,Sector
+Gibson,Business_Products,16,0.474388409935534,Sector
+Gibson,Construction,87,0.7194856700111342,Sector
+Gibson,Services,8,0.27923562160738336,Sector
+Gibson,Mining,79,0.10281124575499978,Sector
+Gibson,Health_Care,51,0.300484384190297,Sector
+Gibson,EnergyExpL_Prod,71,0.7268328447310601,Sector
+Gibson,Utilities,80,0.806636577105393,Sector

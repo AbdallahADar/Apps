@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Středočeský kraj,836,0.5477556587993853,Overall
+Středočeský kraj,HiTech,11,0.771257731975872,Sector
+Středočeský kraj,Agriculture,64,0.9929428880268075,Sector
+Středočeský kraj,Transportation,50,0.13963319027266496,Sector
+Středočeský kraj,Consumer_Products,71,0.1592683863732164,Sector
+Středočeský kraj,Unassigned,60,0.04433037682438301,Sector
+Středočeský kraj,Communication,49,0.045780961213047755,Sector
+Středočeský kraj,Trade,34,0.14966291356950545,Sector
+Středočeský kraj,Business_Services,25,0.9727373987236552,Sector
+Středočeský kraj,Business_Products,87,0.5450070337442295,Sector
+Středočeský kraj,Construction,60,0.7785538823497176,Sector
+Středočeský kraj,Services,54,0.4200145667325431,Sector
+Středočeský kraj,Mining,98,0.6962038454926189,Sector
+Středočeský kraj,Health_Care,67,0.9838381027854523,Sector
+Středočeský kraj,EnergyExpL_Prod,50,0.6258007110254236,Sector
+Středočeský kraj,Utilities,56,0.8913028928816421,Sector

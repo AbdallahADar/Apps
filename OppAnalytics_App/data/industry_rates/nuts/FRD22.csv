@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Seine-Maritime,820,0.4595005772059509,Overall
+Seine-Maritime,HiTech,54,0.44568740819928376,Sector
+Seine-Maritime,Agriculture,77,0.65274365699492,Sector
+Seine-Maritime,Transportation,1,0.7359574494273197,Sector
+Seine-Maritime,Consumer_Products,17,0.17377865363581424,Sector
+Seine-Maritime,Unassigned,92,0.2620670164289354,Sector
+Seine-Maritime,Communication,65,0.0821065802590818,Sector
+Seine-Maritime,Trade,71,0.5749995924051119,Sector
+Seine-Maritime,Business_Services,22,0.6574826109580219,Sector
+Seine-Maritime,Business_Products,89,0.48213739397187416,Sector
+Seine-Maritime,Construction,47,0.8105491074856774,Sector
+Seine-Maritime,Services,21,0.38944429087259724,Sector
+Seine-Maritime,Mining,67,0.34739776230639496,Sector
+Seine-Maritime,Health_Care,30,0.024258992878357533,Sector
+Seine-Maritime,EnergyExpL_Prod,69,0.8611481498797824,Sector
+Seine-Maritime,Utilities,98,0.3927499923860912,Sector

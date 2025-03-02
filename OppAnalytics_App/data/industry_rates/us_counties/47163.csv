@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sullivan,759,0.32985448701904746,Overall
+Sullivan,HiTech,70,0.47007593234935896,Sector
+Sullivan,Agriculture,64,0.4313667520173535,Sector
+Sullivan,Transportation,7,0.0041913324288546105,Sector
+Sullivan,Consumer_Products,25,0.062002052202154934,Sector
+Sullivan,Unassigned,58,0.32932163608355447,Sector
+Sullivan,Communication,25,0.027090976471763728,Sector
+Sullivan,Trade,13,0.21371719460467686,Sector
+Sullivan,Business_Services,93,0.8702088814009459,Sector
+Sullivan,Business_Products,88,0.8987818075799269,Sector
+Sullivan,Construction,23,0.20702453260492049,Sector
+Sullivan,Services,97,0.6842795408231059,Sector
+Sullivan,Mining,33,0.15228153626522045,Sector
+Sullivan,Health_Care,79,0.5325709396413817,Sector
+Sullivan,EnergyExpL_Prod,51,0.05318117607096595,Sector
+Sullivan,Utilities,33,0.011723014741527815,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wittmund,667,0.604119658845682,Overall
+Wittmund,HiTech,12,0.7466364462909195,Sector
+Wittmund,Agriculture,25,0.7822837152142806,Sector
+Wittmund,Transportation,43,0.438242412884021,Sector
+Wittmund,Consumer_Products,81,0.09945756792360061,Sector
+Wittmund,Unassigned,18,0.6421249212337989,Sector
+Wittmund,Communication,9,0.7465091220564847,Sector
+Wittmund,Trade,95,0.3861980744321448,Sector
+Wittmund,Business_Services,78,0.6138758743935856,Sector
+Wittmund,Business_Products,93,0.3901235837794278,Sector
+Wittmund,Construction,8,0.24070361252308758,Sector
+Wittmund,Services,14,0.9914068602600322,Sector
+Wittmund,Mining,50,0.9888407455128316,Sector
+Wittmund,Health_Care,19,0.9023591932458431,Sector
+Wittmund,EnergyExpL_Prod,74,0.9784479824539,Sector
+Wittmund,Utilities,48,0.1145847704812708,Sector

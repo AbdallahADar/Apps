@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Okaloosa,884,0.4203763409576594,Overall
+Okaloosa,HiTech,69,0.5431441667274561,Sector
+Okaloosa,Agriculture,86,0.5520289757976454,Sector
+Okaloosa,Transportation,98,0.09539968835706636,Sector
+Okaloosa,Consumer_Products,48,0.07639387889166838,Sector
+Okaloosa,Unassigned,23,0.7985671673621892,Sector
+Okaloosa,Communication,78,0.08651601343792148,Sector
+Okaloosa,Trade,8,0.21234161013185238,Sector
+Okaloosa,Business_Services,83,0.36111465661948816,Sector
+Okaloosa,Business_Products,50,0.775744706665402,Sector
+Okaloosa,Construction,42,0.20883039557087846,Sector
+Okaloosa,Services,20,0.6402373535818171,Sector
+Okaloosa,Mining,99,0.29633189032846297,Sector
+Okaloosa,Health_Care,38,0.2794922542962942,Sector
+Okaloosa,EnergyExpL_Prod,84,0.8287229189646307,Sector
+Okaloosa,Utilities,58,0.550779437632118,Sector

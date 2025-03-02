@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Beaufort,647,0.46019052465480953,Overall
+Beaufort,HiTech,42,0.18475641637492268,Sector
+Beaufort,Agriculture,56,0.13453647262542912,Sector
+Beaufort,Transportation,24,0.2769305323751703,Sector
+Beaufort,Consumer_Products,18,0.5193057510466118,Sector
+Beaufort,Unassigned,21,0.9847129660801591,Sector
+Beaufort,Communication,9,0.10021675013337716,Sector
+Beaufort,Trade,87,0.44904385640993383,Sector
+Beaufort,Business_Services,69,0.6602483299096404,Sector
+Beaufort,Business_Products,52,0.5601828006051128,Sector
+Beaufort,Construction,85,0.32101069040979546,Sector
+Beaufort,Services,35,0.31548535780737486,Sector
+Beaufort,Mining,47,0.26155083938777024,Sector
+Beaufort,Health_Care,27,0.9772892745438837,Sector
+Beaufort,EnergyExpL_Prod,60,0.5451846251843463,Sector
+Beaufort,Utilities,15,0.6124032069286159,Sector

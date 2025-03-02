@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Severnobačka oblast,696,0.5940993618015143,Overall
+Severnobačka oblast,HiTech,36,0.9969365248757474,Sector
+Severnobačka oblast,Agriculture,75,0.4240767051381129,Sector
+Severnobačka oblast,Transportation,60,0.7173730782697398,Sector
+Severnobačka oblast,Consumer_Products,94,0.7366462059337908,Sector
+Severnobačka oblast,Unassigned,57,0.48544768200293065,Sector
+Severnobačka oblast,Communication,67,0.4078878264289614,Sector
+Severnobačka oblast,Trade,35,0.10989183671904701,Sector
+Severnobačka oblast,Business_Services,40,0.9781057578347432,Sector
+Severnobačka oblast,Business_Products,29,0.8598600295677741,Sector
+Severnobačka oblast,Construction,31,0.5501006438190248,Sector
+Severnobačka oblast,Services,84,0.8793881458281592,Sector
+Severnobačka oblast,Mining,11,0.23862459574250072,Sector
+Severnobačka oblast,Health_Care,48,0.4848227377564277,Sector
+Severnobačka oblast,EnergyExpL_Prod,23,0.6686522840820587,Sector
+Severnobačka oblast,Utilities,6,0.3736763730236975,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Grimes,611,0.41813243217464724,Overall
+Grimes,HiTech,79,0.9700756933195255,Sector
+Grimes,Agriculture,68,0.01259288326269803,Sector
+Grimes,Transportation,7,0.4748967696964217,Sector
+Grimes,Consumer_Products,0,0.5541328301987747,Sector
+Grimes,Unassigned,62,0.4073656900527802,Sector
+Grimes,Communication,7,0.28358701223112603,Sector
+Grimes,Trade,37,0.1576611501329086,Sector
+Grimes,Business_Services,95,0.6739345051790533,Sector
+Grimes,Business_Products,88,0.7803214346823141,Sector
+Grimes,Construction,31,0.23122678783483452,Sector
+Grimes,Services,30,0.17009940848334215,Sector
+Grimes,Mining,85,0.5713136371389765,Sector
+Grimes,Health_Care,8,0.23799147840784285,Sector
+Grimes,EnergyExpL_Prod,0,0.12590774479961064,Sector
+Grimes,Utilities,14,0.6208794571995009,Sector

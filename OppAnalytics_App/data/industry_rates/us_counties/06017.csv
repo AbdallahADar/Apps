@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,El Dorado,721,0.37726273421386264,Overall
+El Dorado,HiTech,80,0.396780182836279,Sector
+El Dorado,Agriculture,5,0.07343039756415881,Sector
+El Dorado,Transportation,4,0.03124540963548561,Sector
+El Dorado,Consumer_Products,54,0.12310026349855774,Sector
+El Dorado,Unassigned,96,0.7964612123891384,Sector
+El Dorado,Communication,36,0.10136039160918953,Sector
+El Dorado,Trade,8,0.4308280501290157,Sector
+El Dorado,Business_Services,53,0.5739720857813784,Sector
+El Dorado,Business_Products,94,0.21878129060004947,Sector
+El Dorado,Construction,76,0.5400676398364614,Sector
+El Dorado,Services,32,0.12499485904809271,Sector
+El Dorado,Mining,67,0.836841593890779,Sector
+El Dorado,Health_Care,57,0.5867332930445478,Sector
+El Dorado,EnergyExpL_Prod,9,0.19455583285783284,Sector
+El Dorado,Utilities,50,0.6297885104869734,Sector

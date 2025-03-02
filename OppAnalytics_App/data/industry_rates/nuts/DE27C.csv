@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Unterallgäu,825,0.45172775210997185,Overall
+Unterallgäu,HiTech,5,0.2054083278374842,Sector
+Unterallgäu,Agriculture,42,0.4993590779469086,Sector
+Unterallgäu,Transportation,32,0.09807935680317303,Sector
+Unterallgäu,Consumer_Products,85,0.12530839306410613,Sector
+Unterallgäu,Unassigned,46,0.6439289499759165,Sector
+Unterallgäu,Communication,71,0.07294557724668294,Sector
+Unterallgäu,Trade,55,0.9250671658245114,Sector
+Unterallgäu,Business_Services,2,0.8605814861497264,Sector
+Unterallgäu,Business_Products,78,0.1937604370641569,Sector
+Unterallgäu,Construction,66,0.9024976514474697,Sector
+Unterallgäu,Services,69,0.11990847163057616,Sector
+Unterallgäu,Mining,53,0.9190470216820643,Sector
+Unterallgäu,Health_Care,61,0.14516422647116234,Sector
+Unterallgäu,EnergyExpL_Prod,72,0.6533781339205199,Sector
+Unterallgäu,Utilities,88,0.4114820045851191,Sector

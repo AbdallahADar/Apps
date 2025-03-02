@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Fairbanks North Star,699,0.5297384776126525,Overall
+Fairbanks North Star,HiTech,9,0.8966060498300559,Sector
+Fairbanks North Star,Agriculture,94,0.051923095695934784,Sector
+Fairbanks North Star,Transportation,24,0.4468913783405144,Sector
+Fairbanks North Star,Consumer_Products,48,0.9209178780383009,Sector
+Fairbanks North Star,Unassigned,37,0.6901549687953011,Sector
+Fairbanks North Star,Communication,49,0.43664181272212377,Sector
+Fairbanks North Star,Trade,13,0.8081136035208794,Sector
+Fairbanks North Star,Business_Services,6,0.45316585779638574,Sector
+Fairbanks North Star,Business_Products,56,0.3351109657849599,Sector
+Fairbanks North Star,Construction,88,0.49505033658099873,Sector
+Fairbanks North Star,Services,61,0.7706169586528995,Sector
+Fairbanks North Star,Mining,4,0.35232083317059726,Sector
+Fairbanks North Star,Health_Care,98,0.8623784086162642,Sector
+Fairbanks North Star,EnergyExpL_Prod,90,0.3470955491925034,Sector
+Fairbanks North Star,Utilities,22,0.07908946745206902,Sector

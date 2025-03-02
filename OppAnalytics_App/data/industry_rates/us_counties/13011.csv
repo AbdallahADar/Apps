@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Banks,775,0.5172764022080503,Overall
+Banks,HiTech,66,0.14517640094896622,Sector
+Banks,Agriculture,66,0.2508730389134549,Sector
+Banks,Transportation,30,0.10267823582504942,Sector
+Banks,Consumer_Products,0,0.9435118629608225,Sector
+Banks,Unassigned,60,0.4957366190697088,Sector
+Banks,Communication,73,0.9180861870427077,Sector
+Banks,Trade,53,0.6400863984883205,Sector
+Banks,Business_Services,83,0.001464115781386388,Sector
+Banks,Business_Products,70,0.5840181742289691,Sector
+Banks,Construction,10,0.5774699739394923,Sector
+Banks,Services,46,0.6399779468762345,Sector
+Banks,Mining,88,0.03485456451090785,Sector
+Banks,Health_Care,79,0.9088812470612252,Sector
+Banks,EnergyExpL_Prod,46,0.8724695847275935,Sector
+Banks,Utilities,5,0.6438616827459162,Sector

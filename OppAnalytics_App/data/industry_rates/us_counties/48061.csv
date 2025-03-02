@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Cameron,686,0.4774612794826469,Overall
+Cameron,HiTech,67,0.4752618199466736,Sector
+Cameron,Agriculture,88,0.8883893517142628,Sector
+Cameron,Transportation,40,0.5968016241479256,Sector
+Cameron,Consumer_Products,1,0.47992541267799327,Sector
+Cameron,Unassigned,8,0.42596914403689234,Sector
+Cameron,Communication,85,0.913964121366126,Sector
+Cameron,Trade,33,0.28373903608591977,Sector
+Cameron,Business_Services,31,0.363215976574219,Sector
+Cameron,Business_Products,0,0.571171060684585,Sector
+Cameron,Construction,27,0.25308500184115856,Sector
+Cameron,Services,31,0.34386881007545966,Sector
+Cameron,Mining,82,0.6421859047397394,Sector
+Cameron,Health_Care,47,0.8060136955075151,Sector
+Cameron,EnergyExpL_Prod,66,0.06345691484912175,Sector
+Cameron,Utilities,80,0.05487131799211231,Sector

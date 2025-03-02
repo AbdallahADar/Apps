@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gulf,794,0.44648601560755685,Overall
+Gulf,HiTech,87,0.12117843496697778,Sector
+Gulf,Agriculture,50,0.16509529097186004,Sector
+Gulf,Transportation,52,0.1502331571329094,Sector
+Gulf,Consumer_Products,99,0.8468482773817647,Sector
+Gulf,Unassigned,25,0.8810463013883655,Sector
+Gulf,Communication,46,0.24831377817766653,Sector
+Gulf,Trade,71,0.7251383136340143,Sector
+Gulf,Business_Services,32,0.1286276296034804,Sector
+Gulf,Business_Products,44,0.22583154379410897,Sector
+Gulf,Construction,20,0.9207901342915331,Sector
+Gulf,Services,38,0.2417748962053774,Sector
+Gulf,Mining,9,0.2881760706009795,Sector
+Gulf,Health_Care,86,0.6632044919544594,Sector
+Gulf,EnergyExpL_Prod,74,0.20738313967412747,Sector
+Gulf,Utilities,61,0.8836487743357292,Sector

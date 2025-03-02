@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Grenada,898,0.471575096641104,Overall
+Grenada,HiTech,28,0.38479429872709503,Sector
+Grenada,Agriculture,92,0.31852864641229217,Sector
+Grenada,Transportation,83,0.24395701267536152,Sector
+Grenada,Consumer_Products,79,0.7969559864914869,Sector
+Grenada,Unassigned,32,0.6992692103160472,Sector
+Grenada,Communication,69,0.6869710778769139,Sector
+Grenada,Trade,42,0.8905117285891057,Sector
+Grenada,Business_Services,84,0.19771505329148842,Sector
+Grenada,Business_Products,69,0.9239951586376413,Sector
+Grenada,Construction,4,0.2704592721939899,Sector
+Grenada,Services,85,0.0025872765243060147,Sector
+Grenada,Mining,39,0.10225306215711483,Sector
+Grenada,Health_Care,54,0.46108951690033395,Sector
+Grenada,EnergyExpL_Prod,44,0.6460549633385752,Sector
+Grenada,Utilities,94,0.44848418548480806,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sarasota,581,0.4194628484373959,Overall
+Sarasota,HiTech,27,0.16958727924077643,Sector
+Sarasota,Agriculture,85,0.27303599382458255,Sector
+Sarasota,Transportation,1,0.6483108635046674,Sector
+Sarasota,Consumer_Products,97,0.2602172446608405,Sector
+Sarasota,Unassigned,29,0.5585434251570888,Sector
+Sarasota,Communication,1,0.18332409847377573,Sector
+Sarasota,Trade,28,0.2920850693989111,Sector
+Sarasota,Business_Services,98,0.3426601420828371,Sector
+Sarasota,Business_Products,69,0.15544139629921638,Sector
+Sarasota,Construction,12,0.29199470803604555,Sector
+Sarasota,Services,15,0.9443075094433779,Sector
+Sarasota,Mining,43,0.6646287274275056,Sector
+Sarasota,Health_Care,6,0.411488258650929,Sector
+Sarasota,EnergyExpL_Prod,1,0.825910438308971,Sector
+Sarasota,Utilities,69,0.27040757205141386,Sector

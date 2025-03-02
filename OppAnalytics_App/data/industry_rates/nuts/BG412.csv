@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sofia,815,0.5579392695343671,Overall
+Sofia,HiTech,67,0.8892641289758082,Sector
+Sofia,Agriculture,63,0.8076156093844548,Sector
+Sofia,Transportation,44,0.21891629862002715,Sector
+Sofia,Consumer_Products,17,0.8793829320758212,Sector
+Sofia,Unassigned,13,0.10386422424966368,Sector
+Sofia,Communication,90,0.27737079876698423,Sector
+Sofia,Trade,99,0.7007188304074001,Sector
+Sofia,Business_Services,96,0.4437252330493151,Sector
+Sofia,Business_Products,53,0.4491492349659728,Sector
+Sofia,Construction,93,0.18559850776794773,Sector
+Sofia,Services,46,0.8379970670568364,Sector
+Sofia,Mining,12,0.3108210268054068,Sector
+Sofia,Health_Care,3,0.9178304409330538,Sector
+Sofia,EnergyExpL_Prod,58,0.9164398272270781,Sector
+Sofia,Utilities,61,0.4303948827297369,Sector

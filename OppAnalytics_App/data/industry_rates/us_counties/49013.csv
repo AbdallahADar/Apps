@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Duchesne,731,0.4799641735765076,Overall
+Duchesne,HiTech,58,0.660506357413871,Sector
+Duchesne,Agriculture,46,0.518646038940268,Sector
+Duchesne,Transportation,50,0.852122534192195,Sector
+Duchesne,Consumer_Products,91,0.002886072193445055,Sector
+Duchesne,Unassigned,32,0.9621989780284202,Sector
+Duchesne,Communication,25,0.6185740535768738,Sector
+Duchesne,Trade,11,0.9174364437753805,Sector
+Duchesne,Business_Services,55,0.6708329306479972,Sector
+Duchesne,Business_Products,26,0.8192482277062499,Sector
+Duchesne,Construction,20,0.19073512239409096,Sector
+Duchesne,Services,99,0.0455855232343958,Sector
+Duchesne,Mining,53,0.06471430454778004,Sector
+Duchesne,Health_Care,19,0.09670757796895402,Sector
+Duchesne,EnergyExpL_Prod,99,0.5021788495449852,Sector
+Duchesne,Utilities,47,0.2770895894827071,Sector

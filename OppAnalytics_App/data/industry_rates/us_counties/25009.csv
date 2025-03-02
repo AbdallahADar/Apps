@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Essex,614,0.5523608233255792,Overall
+Essex,HiTech,41,0.23279366950521496,Sector
+Essex,Agriculture,41,0.45571323013410403,Sector
+Essex,Transportation,30,0.326936009976305,Sector
+Essex,Consumer_Products,68,0.32610694141292085,Sector
+Essex,Unassigned,37,0.850692874730324,Sector
+Essex,Communication,59,0.7368909988389782,Sector
+Essex,Trade,49,0.8455575063282071,Sector
+Essex,Business_Services,35,0.834879158062399,Sector
+Essex,Business_Products,20,0.15968396220640846,Sector
+Essex,Construction,90,0.3367590651811587,Sector
+Essex,Services,5,0.7512776339565168,Sector
+Essex,Mining,87,0.4783765270962914,Sector
+Essex,Health_Care,20,0.775487604721484,Sector
+Essex,EnergyExpL_Prod,31,0.5994886700287182,Sector
+Essex,Utilities,1,0.5747684977046593,Sector

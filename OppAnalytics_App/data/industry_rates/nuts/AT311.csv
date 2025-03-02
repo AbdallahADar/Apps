@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Innviertel,859,0.537613767853031,Overall
+Innviertel,HiTech,52,0.9563610403942406,Sector
+Innviertel,Agriculture,20,0.28707641028617936,Sector
+Innviertel,Transportation,94,0.011838475260881554,Sector
+Innviertel,Consumer_Products,16,0.21308746643157184,Sector
+Innviertel,Unassigned,48,0.9660788921925485,Sector
+Innviertel,Communication,70,0.5185887004560377,Sector
+Innviertel,Trade,64,0.10952465389520372,Sector
+Innviertel,Business_Services,97,0.8360172850126493,Sector
+Innviertel,Business_Products,99,0.7136493144801952,Sector
+Innviertel,Construction,98,0.6199855479796125,Sector
+Innviertel,Services,52,0.6262497422006843,Sector
+Innviertel,Mining,73,0.798754661411379,Sector
+Innviertel,Health_Care,3,0.7431937204606565,Sector
+Innviertel,EnergyExpL_Prod,38,0.05694865158004547,Sector
+Innviertel,Utilities,35,0.6068519557535799,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sarpy,824,0.509627348850671,Overall
+Sarpy,HiTech,68,0.8869032337907213,Sector
+Sarpy,Agriculture,98,0.6529846020460616,Sector
+Sarpy,Transportation,19,0.5127513092893776,Sector
+Sarpy,Consumer_Products,38,0.09711442696535844,Sector
+Sarpy,Unassigned,80,0.09178334634650431,Sector
+Sarpy,Communication,65,0.31823875886274944,Sector
+Sarpy,Trade,0,0.4987840442603432,Sector
+Sarpy,Business_Services,83,0.7457396324551656,Sector
+Sarpy,Business_Products,92,0.9979803409372402,Sector
+Sarpy,Construction,84,0.32098084159257434,Sector
+Sarpy,Services,4,0.586816702694568,Sector
+Sarpy,Mining,21,0.6931686156466098,Sector
+Sarpy,Health_Care,10,0.4968919736541081,Sector
+Sarpy,EnergyExpL_Prod,67,0.4412697131783059,Sector
+Sarpy,Utilities,95,0.30300269104037614,Sector

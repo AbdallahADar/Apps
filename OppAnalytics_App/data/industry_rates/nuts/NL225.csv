@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Achterhoek,773,0.5037889580098075,Overall
+Achterhoek,HiTech,11,0.794898362890689,Sector
+Achterhoek,Agriculture,38,0.7360955380146738,Sector
+Achterhoek,Transportation,19,0.4263969993332606,Sector
+Achterhoek,Consumer_Products,21,0.338459152540978,Sector
+Achterhoek,Unassigned,62,0.8494133865370195,Sector
+Achterhoek,Communication,54,0.19247935813608863,Sector
+Achterhoek,Trade,62,0.01591163900425885,Sector
+Achterhoek,Business_Services,88,0.18990574987321374,Sector
+Achterhoek,Business_Products,25,0.2503592754889181,Sector
+Achterhoek,Construction,95,0.9499659019127126,Sector
+Achterhoek,Services,91,0.5528641378158176,Sector
+Achterhoek,Mining,68,0.6091294112080569,Sector
+Achterhoek,Health_Care,82,0.1330718859829907,Sector
+Achterhoek,EnergyExpL_Prod,7,0.706515977495253,Sector
+Achterhoek,Utilities,50,0.8113675939131808,Sector

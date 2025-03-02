@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Københavns omegn,752,0.4961885304541165,Overall
+Københavns omegn,HiTech,3,0.23153500265965055,Sector
+Københavns omegn,Agriculture,50,0.5737573741783483,Sector
+Københavns omegn,Transportation,12,0.6764572955199888,Sector
+Københavns omegn,Consumer_Products,7,0.21716696692124915,Sector
+Københavns omegn,Unassigned,94,0.33181624720235925,Sector
+Københavns omegn,Communication,88,0.40369743677934233,Sector
+Københavns omegn,Trade,47,0.8438335968543641,Sector
+Københavns omegn,Business_Services,30,0.8558128801578526,Sector
+Københavns omegn,Business_Products,20,0.9508926456121389,Sector
+Københavns omegn,Construction,70,0.39072978941724645,Sector
+Københavns omegn,Services,91,0.5824403562133398,Sector
+Københavns omegn,Mining,32,0.13715994786257302,Sector
+Københavns omegn,Health_Care,66,0.6870803833447434,Sector
+Københavns omegn,EnergyExpL_Prod,52,0.09003967036314842,Sector
+Københavns omegn,Utilities,90,0.47040836372540273,Sector

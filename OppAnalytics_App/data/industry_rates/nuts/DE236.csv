@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Neumarkt i. d. OPf.,828,0.3958373328369354,Overall
+Neumarkt i. d. OPf.,HiTech,8,0.6554329991748281,Sector
+Neumarkt i. d. OPf.,Agriculture,54,0.3052224682782454,Sector
+Neumarkt i. d. OPf.,Transportation,5,0.29676790245090146,Sector
+Neumarkt i. d. OPf.,Consumer_Products,74,0.2410844733256866,Sector
+Neumarkt i. d. OPf.,Unassigned,68,0.16329542364468286,Sector
+Neumarkt i. d. OPf.,Communication,61,0.5655296534004364,Sector
+Neumarkt i. d. OPf.,Trade,92,0.6733819436605604,Sector
+Neumarkt i. d. OPf.,Business_Services,93,0.6853039501687401,Sector
+Neumarkt i. d. OPf.,Business_Products,99,0.7848451021117385,Sector
+Neumarkt i. d. OPf.,Construction,42,0.23854102251038578,Sector
+Neumarkt i. d. OPf.,Services,28,0.7150502863960279,Sector
+Neumarkt i. d. OPf.,Mining,47,0.05085910602412502,Sector
+Neumarkt i. d. OPf.,Health_Care,88,0.4408975085673701,Sector
+Neumarkt i. d. OPf.,EnergyExpL_Prod,4,0.05092817743475009,Sector
+Neumarkt i. d. OPf.,Utilities,65,0.07041997540555156,Sector

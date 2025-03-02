@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Wright,774,0.4270076748100032,Overall
+Wright,HiTech,66,0.025745862250660112,Sector
+Wright,Agriculture,79,0.7339719344309673,Sector
+Wright,Transportation,93,0.8393630231003949,Sector
+Wright,Consumer_Products,77,0.025606871827346778,Sector
+Wright,Unassigned,71,0.9155968117461972,Sector
+Wright,Communication,10,0.7317008959648436,Sector
+Wright,Trade,94,0.09368385136762236,Sector
+Wright,Business_Services,43,0.98617500784092,Sector
+Wright,Business_Products,33,0.21464454101310515,Sector
+Wright,Construction,0,0.26065373261915403,Sector
+Wright,Services,57,0.21633701058584165,Sector
+Wright,Mining,68,0.15802431952727192,Sector
+Wright,Health_Care,26,0.8568757574651267,Sector
+Wright,EnergyExpL_Prod,6,0.3263299759780005,Sector
+Wright,Utilities,51,0.020405526432594412,Sector

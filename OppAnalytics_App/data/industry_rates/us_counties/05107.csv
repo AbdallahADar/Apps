@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Phillips,859,0.45509101733319746,Overall
+Phillips,HiTech,85,0.5565357371856801,Sector
+Phillips,Agriculture,6,0.7938195160653853,Sector
+Phillips,Transportation,81,0.09777968230436995,Sector
+Phillips,Consumer_Products,0,0.7254065654919156,Sector
+Phillips,Unassigned,43,0.49969323783230246,Sector
+Phillips,Communication,24,0.14389450055721453,Sector
+Phillips,Trade,63,0.5333231082634279,Sector
+Phillips,Business_Services,91,0.7929538837584686,Sector
+Phillips,Business_Products,63,0.34386203952355454,Sector
+Phillips,Construction,49,0.8399155082191074,Sector
+Phillips,Services,60,0.05188057432289017,Sector
+Phillips,Mining,97,0.1969590676571642,Sector
+Phillips,Health_Care,89,0.0006594701713722451,Sector
+Phillips,EnergyExpL_Prod,41,0.4791575195975267,Sector
+Phillips,Utilities,67,0.7705248490475828,Sector

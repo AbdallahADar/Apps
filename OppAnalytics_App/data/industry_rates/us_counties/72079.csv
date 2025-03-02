@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Lajas,498,0.5970523857312979,Overall
+Lajas,HiTech,44,0.2960653826963613,Sector
+Lajas,Agriculture,13,0.49064291754070344,Sector
+Lajas,Transportation,1,0.9070963551292617,Sector
+Lajas,Consumer_Products,77,0.917204392564489,Sector
+Lajas,Unassigned,16,0.9411646936524888,Sector
+Lajas,Communication,64,0.93700901374276,Sector
+Lajas,Trade,21,0.1766826124574944,Sector
+Lajas,Business_Services,1,0.3743760348318588,Sector
+Lajas,Business_Products,20,0.0019521481910039773,Sector
+Lajas,Construction,12,0.36574504520546525,Sector
+Lajas,Services,17,0.4597121651689472,Sector
+Lajas,Mining,38,0.7585042108736042,Sector
+Lajas,Health_Care,60,0.7725108898058956,Sector
+Lajas,EnergyExpL_Prod,99,0.5848541266133527,Sector
+Lajas,Utilities,15,0.9722657974957835,Sector

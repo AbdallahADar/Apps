@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Saalfeld-Rudolstadt,924,0.522712778741973,Overall
+Saalfeld-Rudolstadt,HiTech,10,0.8143542116944813,Sector
+Saalfeld-Rudolstadt,Agriculture,36,0.17572206294086268,Sector
+Saalfeld-Rudolstadt,Transportation,93,0.414619734481933,Sector
+Saalfeld-Rudolstadt,Consumer_Products,74,0.8961947795009823,Sector
+Saalfeld-Rudolstadt,Unassigned,44,0.48848745808118743,Sector
+Saalfeld-Rudolstadt,Communication,69,0.7139963332232419,Sector
+Saalfeld-Rudolstadt,Trade,98,0.052687725593278945,Sector
+Saalfeld-Rudolstadt,Business_Services,78,0.39256114736941916,Sector
+Saalfeld-Rudolstadt,Business_Products,92,0.7251164702391247,Sector
+Saalfeld-Rudolstadt,Construction,84,0.04593616103327347,Sector
+Saalfeld-Rudolstadt,Services,96,0.2403016444258912,Sector
+Saalfeld-Rudolstadt,Mining,42,0.3367004382560579,Sector
+Saalfeld-Rudolstadt,Health_Care,34,0.9296937557670029,Sector
+Saalfeld-Rudolstadt,EnergyExpL_Prod,44,0.9468356770076671,Sector
+Saalfeld-Rudolstadt,Utilities,30,0.6674840815151913,Sector

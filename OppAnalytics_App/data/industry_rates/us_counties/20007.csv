@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Barber,792,0.45364802318509495,Overall
+Barber,HiTech,35,0.6356209753569956,Sector
+Barber,Agriculture,72,0.48600569191187615,Sector
+Barber,Transportation,69,0.8172765236093658,Sector
+Barber,Consumer_Products,36,0.28607012084491923,Sector
+Barber,Unassigned,72,0.39917798674264837,Sector
+Barber,Communication,16,0.13020685502937002,Sector
+Barber,Trade,84,0.38416655700624525,Sector
+Barber,Business_Services,66,0.8807755775576089,Sector
+Barber,Business_Products,88,0.15263279870899593,Sector
+Barber,Construction,24,0.30912111676098697,Sector
+Barber,Services,75,0.8918038069163464,Sector
+Barber,Mining,67,0.12493466722948054,Sector
+Barber,Health_Care,79,0.10118816928793217,Sector
+Barber,EnergyExpL_Prod,7,0.2293094975910478,Sector
+Barber,Utilities,2,0.9764300032226053,Sector

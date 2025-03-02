@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sisačko-moslavačka županija,773,0.4637106055851775,Overall
+Sisačko-moslavačka županija,HiTech,92,0.12440862711874112,Sector
+Sisačko-moslavačka županija,Agriculture,58,0.25200234084103024,Sector
+Sisačko-moslavačka županija,Transportation,55,0.2927847194501013,Sector
+Sisačko-moslavačka županija,Consumer_Products,3,0.7278208218868173,Sector
+Sisačko-moslavačka županija,Unassigned,11,0.07531571060785258,Sector
+Sisačko-moslavačka županija,Communication,86,0.9193019425987359,Sector
+Sisačko-moslavačka županija,Trade,98,0.13525781433919537,Sector
+Sisačko-moslavačka županija,Business_Services,10,0.3720003602156947,Sector
+Sisačko-moslavačka županija,Business_Products,58,0.8823823095486121,Sector
+Sisačko-moslavačka županija,Construction,91,0.5161917367639167,Sector
+Sisačko-moslavačka županija,Services,18,0.09741792282827821,Sector
+Sisačko-moslavačka županija,Mining,63,0.8190343006614886,Sector
+Sisačko-moslavačka županija,Health_Care,36,0.44097524252986176,Sector
+Sisačko-moslavačka županija,EnergyExpL_Prod,52,0.9501391671222454,Sector
+Sisačko-moslavačka županija,Utilities,42,0.35062606726509105,Sector

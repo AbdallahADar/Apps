@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,DeSoto,810,0.4159874683679566,Overall
+DeSoto,HiTech,39,0.39670989549482827,Sector
+DeSoto,Agriculture,97,0.6393209789367533,Sector
+DeSoto,Transportation,46,0.20723325553856298,Sector
+DeSoto,Consumer_Products,24,0.8726118708731148,Sector
+DeSoto,Unassigned,42,0.5150871355284198,Sector
+DeSoto,Communication,62,0.6878411824912534,Sector
+DeSoto,Trade,15,0.06263953612848572,Sector
+DeSoto,Business_Services,87,0.7067803423391235,Sector
+DeSoto,Business_Products,33,0.12370017223585095,Sector
+DeSoto,Construction,8,0.5888736022058927,Sector
+DeSoto,Services,45,0.20362160484907454,Sector
+DeSoto,Mining,93,0.06863781242153089,Sector
+DeSoto,Health_Care,81,0.5662901712314267,Sector
+DeSoto,EnergyExpL_Prod,53,0.058174907662904674,Sector
+DeSoto,Utilities,85,0.5422895575821263,Sector

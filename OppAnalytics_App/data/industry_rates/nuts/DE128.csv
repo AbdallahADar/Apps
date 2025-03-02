@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Rhein-Neckar-Kreis,745,0.5202960952330838,Overall
+Rhein-Neckar-Kreis,HiTech,3,0.2814466342498064,Sector
+Rhein-Neckar-Kreis,Agriculture,43,0.5601288326817592,Sector
+Rhein-Neckar-Kreis,Transportation,75,0.12190998593589819,Sector
+Rhein-Neckar-Kreis,Consumer_Products,25,0.885916912663932,Sector
+Rhein-Neckar-Kreis,Unassigned,78,0.5105321626179385,Sector
+Rhein-Neckar-Kreis,Communication,75,0.6183686962295369,Sector
+Rhein-Neckar-Kreis,Trade,26,0.49638026853148376,Sector
+Rhein-Neckar-Kreis,Business_Services,73,0.36248077778674004,Sector
+Rhein-Neckar-Kreis,Business_Products,0,0.24761827782452372,Sector
+Rhein-Neckar-Kreis,Construction,33,0.9403789088245887,Sector
+Rhein-Neckar-Kreis,Services,14,0.6843079507804808,Sector
+Rhein-Neckar-Kreis,Mining,63,0.23777712232016102,Sector
+Rhein-Neckar-Kreis,Health_Care,58,0.5354125614053177,Sector
+Rhein-Neckar-Kreis,EnergyExpL_Prod,94,0.6478567452424306,Sector
+Rhein-Neckar-Kreis,Utilities,85,0.6739255914016598,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Geary,887,0.3532442675079865,Overall
+Geary,HiTech,39,0.09743549887667602,Sector
+Geary,Agriculture,77,0.14688713513509677,Sector
+Geary,Transportation,22,0.8677853634820752,Sector
+Geary,Consumer_Products,44,0.790696231637861,Sector
+Geary,Unassigned,85,0.25781678587577816,Sector
+Geary,Communication,56,0.0835624973442689,Sector
+Geary,Trade,93,0.08772830454778324,Sector
+Geary,Business_Services,40,0.023573740393812548,Sector
+Geary,Business_Products,86,0.3320107543046341,Sector
+Geary,Construction,48,0.6374096349601501,Sector
+Geary,Services,77,0.1769863762720174,Sector
+Geary,Mining,89,0.12454296440302537,Sector
+Geary,Health_Care,69,0.8304654194384102,Sector
+Geary,EnergyExpL_Prod,55,0.522975011036642,Sector
+Geary,Utilities,7,0.3187882949115671,Sector

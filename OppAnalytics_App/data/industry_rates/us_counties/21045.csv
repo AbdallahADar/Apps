@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Casey,940,0.5243377099858979,Overall
+Casey,HiTech,70,0.5208835338768535,Sector
+Casey,Agriculture,28,0.7213469133612888,Sector
+Casey,Transportation,81,0.5751187615378058,Sector
+Casey,Consumer_Products,75,0.635239492056608,Sector
+Casey,Unassigned,29,0.21951820860641347,Sector
+Casey,Communication,53,0.5850076550989161,Sector
+Casey,Trade,55,0.6695153566968122,Sector
+Casey,Business_Services,62,0.37790184208173516,Sector
+Casey,Business_Products,78,0.5537663702304565,Sector
+Casey,Construction,66,0.5633540462261644,Sector
+Casey,Services,90,0.6280082890324128,Sector
+Casey,Mining,81,0.13462678613760037,Sector
+Casey,Health_Care,32,0.4818859718620322,Sector
+Casey,EnergyExpL_Prod,73,0.8269206250784394,Sector
+Casey,Utilities,67,0.37197179790493007,Sector

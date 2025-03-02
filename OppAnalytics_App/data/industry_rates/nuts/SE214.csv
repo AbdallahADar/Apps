@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Gotlands län,668,0.6209715434129542,Overall
+Gotlands län,HiTech,11,0.7013711283674711,Sector
+Gotlands län,Agriculture,76,0.6395885587524803,Sector
+Gotlands län,Transportation,75,0.6067303345122834,Sector
+Gotlands län,Consumer_Products,46,0.5720451987417641,Sector
+Gotlands län,Unassigned,86,0.4809050518511302,Sector
+Gotlands län,Communication,46,0.9483246054852223,Sector
+Gotlands län,Trade,29,0.5019225208283176,Sector
+Gotlands län,Business_Services,60,0.1479229458064255,Sector
+Gotlands län,Business_Products,3,0.5727702725479925,Sector
+Gotlands län,Construction,0,0.9565573703429384,Sector
+Gotlands län,Services,92,0.42266351288533555,Sector
+Gotlands län,Mining,73,0.9667756451840472,Sector
+Gotlands län,Health_Care,51,0.869529999571729,Sector
+Gotlands län,EnergyExpL_Prod,14,0.9100707433209394,Sector
+Gotlands län,Utilities,6,0.017395262996236283,Sector

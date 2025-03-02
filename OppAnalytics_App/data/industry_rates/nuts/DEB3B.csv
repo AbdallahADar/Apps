@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Alzey-Worms,947,0.48251735882174956,Overall
+Alzey-Worms,HiTech,46,0.6568785286637271,Sector
+Alzey-Worms,Agriculture,83,0.9589520622980262,Sector
+Alzey-Worms,Transportation,12,0.6686028976203835,Sector
+Alzey-Worms,Consumer_Products,92,0.4314471460257878,Sector
+Alzey-Worms,Unassigned,98,0.3106658111908964,Sector
+Alzey-Worms,Communication,83,0.1716334862428377,Sector
+Alzey-Worms,Trade,67,0.051578402762674336,Sector
+Alzey-Worms,Business_Services,45,0.0518333547855413,Sector
+Alzey-Worms,Business_Products,91,0.6405603774184411,Sector
+Alzey-Worms,Construction,57,0.9436265930546911,Sector
+Alzey-Worms,Services,22,0.5825711945089793,Sector
+Alzey-Worms,Mining,98,0.6495330117790522,Sector
+Alzey-Worms,Health_Care,39,0.8618266318023796,Sector
+Alzey-Worms,EnergyExpL_Prod,34,0.1298151684721507,Sector
+Alzey-Worms,Utilities,80,0.12823571570067482,Sector

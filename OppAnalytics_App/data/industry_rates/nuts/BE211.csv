@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Arr. Antwerpen,957,0.46412420707310964,Overall
+Arr. Antwerpen,HiTech,55,0.16641259253638518,Sector
+Arr. Antwerpen,Agriculture,52,0.1981584549095451,Sector
+Arr. Antwerpen,Transportation,93,0.5928330789007266,Sector
+Arr. Antwerpen,Consumer_Products,65,0.8749079425563073,Sector
+Arr. Antwerpen,Unassigned,90,0.7196929643722902,Sector
+Arr. Antwerpen,Communication,70,0.2008090922610144,Sector
+Arr. Antwerpen,Trade,94,0.6381980388181454,Sector
+Arr. Antwerpen,Business_Services,98,0.645355610236004,Sector
+Arr. Antwerpen,Business_Products,13,0.33253951320945796,Sector
+Arr. Antwerpen,Construction,33,0.4099728709331574,Sector
+Arr. Antwerpen,Services,85,0.07283513757570026,Sector
+Arr. Antwerpen,Mining,86,0.0918366348410441,Sector
+Arr. Antwerpen,Health_Care,91,0.5741042125483452,Sector
+Arr. Antwerpen,EnergyExpL_Prod,8,0.875347242167896,Sector
+Arr. Antwerpen,Utilities,24,0.5688597202306239,Sector

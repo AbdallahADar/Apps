@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Oktibbeha,651,0.5175742711900655,Overall
+Oktibbeha,HiTech,14,0.4289912046608202,Sector
+Oktibbeha,Agriculture,68,0.6434995520203065,Sector
+Oktibbeha,Transportation,47,0.9287909279688563,Sector
+Oktibbeha,Consumer_Products,18,0.36324453305771165,Sector
+Oktibbeha,Unassigned,74,0.2995571309320856,Sector
+Oktibbeha,Communication,64,0.8758223293880046,Sector
+Oktibbeha,Trade,78,0.5765689214820836,Sector
+Oktibbeha,Business_Services,44,0.4120518124106478,Sector
+Oktibbeha,Business_Products,32,0.23137487561606773,Sector
+Oktibbeha,Construction,58,0.4955375911658506,Sector
+Oktibbeha,Services,2,0.04912229706710336,Sector
+Oktibbeha,Mining,48,0.1512519891298667,Sector
+Oktibbeha,Health_Care,18,0.5588285237923698,Sector
+Oktibbeha,EnergyExpL_Prod,41,0.9454399230671483,Sector
+Oktibbeha,Utilities,45,0.80353245609206,Sector

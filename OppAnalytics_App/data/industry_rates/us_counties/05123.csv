@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,St. Francis,680,0.3292122793818353,Overall
+St. Francis,HiTech,52,0.3655066939825382,Sector
+St. Francis,Agriculture,18,0.009470648509436908,Sector
+St. Francis,Transportation,58,0.4480919154445775,Sector
+St. Francis,Consumer_Products,59,0.44639669514129987,Sector
+St. Francis,Unassigned,65,0.14453843496704233,Sector
+St. Francis,Communication,84,0.32529752019246405,Sector
+St. Francis,Trade,11,0.4340948946326354,Sector
+St. Francis,Business_Services,14,0.27928581924194706,Sector
+St. Francis,Business_Products,19,0.2841651610336615,Sector
+St. Francis,Construction,90,0.24173408242969785,Sector
+St. Francis,Services,38,0.2320072564102258,Sector
+St. Francis,Mining,60,0.15924111734115332,Sector
+St. Francis,Health_Care,21,0.5191747228977687,Sector
+St. Francis,EnergyExpL_Prod,37,0.7340068852764358,Sector
+St. Francis,Utilities,54,0.31517234322664456,Sector

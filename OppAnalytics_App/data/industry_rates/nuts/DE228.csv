@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,"Passau, Landkreis",714,0.5775464786785806,Overall
+"Passau, Landkreis",HiTech,30,0.8093735253968335,Sector
+"Passau, Landkreis",Agriculture,48,0.09225408112399969,Sector
+"Passau, Landkreis",Transportation,43,0.9473843848609808,Sector
+"Passau, Landkreis",Consumer_Products,68,0.607349272687815,Sector
+"Passau, Landkreis",Unassigned,42,0.4832239214363352,Sector
+"Passau, Landkreis",Communication,11,0.7867641577554735,Sector
+"Passau, Landkreis",Trade,57,0.3393277026634637,Sector
+"Passau, Landkreis",Business_Services,37,0.9106783333504724,Sector
+"Passau, Landkreis",Business_Products,68,0.07692588667400391,Sector
+"Passau, Landkreis",Construction,18,0.004245053608582516,Sector
+"Passau, Landkreis",Services,48,0.9338543851139294,Sector
+"Passau, Landkreis",Mining,47,0.6214484658136605,Sector
+"Passau, Landkreis",Health_Care,41,0.28849103135338494,Sector
+"Passau, Landkreis",EnergyExpL_Prod,62,0.8189969432706597,Sector
+"Passau, Landkreis",Utilities,94,0.9428800350691134,Sector

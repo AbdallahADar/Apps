@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hillsborough,815,0.4018616076124424,Overall
+Hillsborough,HiTech,51,0.34837322693256223,Sector
+Hillsborough,Agriculture,48,0.5908791300853837,Sector
+Hillsborough,Transportation,67,0.20436742688494625,Sector
+Hillsborough,Consumer_Products,84,0.7084258295419146,Sector
+Hillsborough,Unassigned,90,0.5495584588086322,Sector
+Hillsborough,Communication,53,0.9336810165447744,Sector
+Hillsborough,Trade,34,0.1481526192055136,Sector
+Hillsborough,Business_Services,67,0.2582021685868985,Sector
+Hillsborough,Business_Products,43,0.8752580839944808,Sector
+Hillsborough,Construction,52,0.17056408608948181,Sector
+Hillsborough,Services,21,0.2173779602246083,Sector
+Hillsborough,Mining,50,0.4140790111876901,Sector
+Hillsborough,Health_Care,51,0.09096515664097071,Sector
+Hillsborough,EnergyExpL_Prod,10,0.3302518160677831,Sector
+Hillsborough,Utilities,94,0.18778812339099515,Sector

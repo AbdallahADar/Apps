@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Patrick,888,0.6564436917589842,Overall
+Patrick,HiTech,50,0.36119477609508144,Sector
+Patrick,Agriculture,81,0.6595043008605621,Sector
+Patrick,Transportation,61,0.7698925059824694,Sector
+Patrick,Consumer_Products,50,0.8134095934879338,Sector
+Patrick,Unassigned,88,0.547332109811341,Sector
+Patrick,Communication,76,0.5992681936850878,Sector
+Patrick,Trade,35,0.8931495822502947,Sector
+Patrick,Business_Services,17,0.5272921894320901,Sector
+Patrick,Business_Products,76,0.687079721285157,Sector
+Patrick,Construction,75,0.8257367173771807,Sector
+Patrick,Services,38,0.9526614445056749,Sector
+Patrick,Mining,58,0.43770524005066014,Sector
+Patrick,Health_Care,55,0.452810253649338,Sector
+Patrick,EnergyExpL_Prod,43,0.38881377081490465,Sector
+Patrick,Utilities,85,0.9308049770969893,Sector

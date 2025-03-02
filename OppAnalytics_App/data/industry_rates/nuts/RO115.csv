@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Satu Mare,683,0.47292947641221184,Overall
+Satu Mare,HiTech,38,0.4332479339785268,Sector
+Satu Mare,Agriculture,92,0.46702103675550666,Sector
+Satu Mare,Transportation,69,0.5822460339039592,Sector
+Satu Mare,Consumer_Products,0,0.8842063565795173,Sector
+Satu Mare,Unassigned,13,0.3974146139864274,Sector
+Satu Mare,Communication,24,0.011314155017300154,Sector
+Satu Mare,Trade,71,0.8123642138138203,Sector
+Satu Mare,Business_Services,94,0.4290335020983874,Sector
+Satu Mare,Business_Products,46,0.19316075654957687,Sector
+Satu Mare,Construction,46,0.5528131984032155,Sector
+Satu Mare,Services,5,0.726859814842862,Sector
+Satu Mare,Mining,77,0.2996804268801436,Sector
+Satu Mare,Health_Care,9,0.30915529282849774,Sector
+Satu Mare,EnergyExpL_Prod,98,0.9896041797063297,Sector
+Satu Mare,Utilities,1,0.005820630839106999,Sector

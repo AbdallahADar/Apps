@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Anoka,650,0.48544245725781027,Overall
+Anoka,HiTech,65,0.1210592440730599,Sector
+Anoka,Agriculture,92,0.254799611751066,Sector
+Anoka,Transportation,70,0.6103887535458787,Sector
+Anoka,Consumer_Products,64,0.6292946816377171,Sector
+Anoka,Unassigned,56,0.09067713744114103,Sector
+Anoka,Communication,8,0.1379220527123184,Sector
+Anoka,Trade,43,0.5668424319149155,Sector
+Anoka,Business_Services,24,0.7409882755115473,Sector
+Anoka,Business_Products,60,0.9406257649275995,Sector
+Anoka,Construction,13,0.2821211038533382,Sector
+Anoka,Services,30,0.6925607354555249,Sector
+Anoka,Mining,51,0.3147322502764358,Sector
+Anoka,Health_Care,24,0.77722205144019,Sector
+Anoka,EnergyExpL_Prod,10,0.5170122010359666,Sector
+Anoka,Utilities,40,0.6053905632904537,Sector

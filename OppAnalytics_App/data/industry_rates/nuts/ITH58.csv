@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Forlì-Cesena,768,0.5438530084282384,Overall
+Forlì-Cesena,HiTech,27,0.0459297106195623,Sector
+Forlì-Cesena,Agriculture,16,0.8006540848263951,Sector
+Forlì-Cesena,Transportation,78,0.6208587170037666,Sector
+Forlì-Cesena,Consumer_Products,25,0.832980157681551,Sector
+Forlì-Cesena,Unassigned,68,0.15970445919530474,Sector
+Forlì-Cesena,Communication,90,0.3395075879350178,Sector
+Forlì-Cesena,Trade,17,0.8333834721705089,Sector
+Forlì-Cesena,Business_Services,89,0.17577018242746634,Sector
+Forlì-Cesena,Business_Products,38,0.3111472680358385,Sector
+Forlì-Cesena,Construction,44,0.5718530094628238,Sector
+Forlì-Cesena,Services,97,0.7786710308435245,Sector
+Forlì-Cesena,Mining,22,0.7963838826702276,Sector
+Forlì-Cesena,Health_Care,81,0.18499101692472197,Sector
+Forlì-Cesena,EnergyExpL_Prod,44,0.9997697344657108,Sector
+Forlì-Cesena,Utilities,32,0.7061908121611556,Sector

@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Uvalde,851,0.5259454801640345,Overall
+Uvalde,HiTech,27,0.6454280033679969,Sector
+Uvalde,Agriculture,87,0.5780400673478665,Sector
+Uvalde,Transportation,29,0.5484590780373231,Sector
+Uvalde,Consumer_Products,34,0.31645899481999207,Sector
+Uvalde,Unassigned,42,0.8966884683493337,Sector
+Uvalde,Communication,86,0.45528508499907816,Sector
+Uvalde,Trade,66,0.14904929352768992,Sector
+Uvalde,Business_Services,20,0.7639879194461784,Sector
+Uvalde,Business_Products,75,0.24780199311584905,Sector
+Uvalde,Construction,96,0.7610487198715038,Sector
+Uvalde,Services,66,0.9677748873923638,Sector
+Uvalde,Mining,19,0.18032791526999858,Sector
+Uvalde,Health_Care,60,0.9897550766191179,Sector
+Uvalde,EnergyExpL_Prod,55,0.16440505014336193,Sector
+Uvalde,Utilities,89,0.22467165015286583,Sector

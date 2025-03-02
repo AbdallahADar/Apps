@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Hartley,694,0.5278361148543634,Overall
+Hartley,HiTech,11,0.8261071014688037,Sector
+Hartley,Agriculture,35,0.6775129962555418,Sector
+Hartley,Transportation,57,0.5138457880258741,Sector
+Hartley,Consumer_Products,51,0.926548558356212,Sector
+Hartley,Unassigned,59,0.7113421691841758,Sector
+Hartley,Communication,23,0.3586136551137774,Sector
+Hartley,Trade,29,0.6117647111651625,Sector
+Hartley,Business_Services,78,0.2338294606717688,Sector
+Hartley,Business_Products,54,0.5210000293314935,Sector
+Hartley,Construction,10,0.5451405393246411,Sector
+Hartley,Services,72,0.16244460584146214,Sector
+Hartley,Mining,35,0.6136390240677698,Sector
+Hartley,Health_Care,75,0.02948260630772792,Sector
+Hartley,EnergyExpL_Prod,98,0.41931892099783197,Sector
+Hartley,Utilities,7,0.766951556703208,Sector

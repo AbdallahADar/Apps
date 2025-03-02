@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Van,821,0.5238508077196525,Overall
+Van,HiTech,41,0.12400568085076957,Sector
+Van,Agriculture,28,0.8581972226533032,Sector
+Van,Transportation,97,0.3003676488700533,Sector
+Van,Consumer_Products,0,0.8165047902778981,Sector
+Van,Unassigned,23,0.380699415740795,Sector
+Van,Communication,54,0.557262922033899,Sector
+Van,Trade,50,0.32717265206604484,Sector
+Van,Business_Services,24,0.6259419758708689,Sector
+Van,Business_Products,72,0.6942174668960482,Sector
+Van,Construction,95,0.6994539414309693,Sector
+Van,Services,97,0.4323676770742757,Sector
+Van,Mining,66,0.6608136318337737,Sector
+Van,Health_Care,47,0.7957740108729495,Sector
+Van,EnergyExpL_Prod,54,0.0027391323205562257,Sector
+Van,Utilities,73,0.5822439470025823,Sector

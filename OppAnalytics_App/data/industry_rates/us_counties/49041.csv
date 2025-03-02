@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Sevier,732,0.41905983339270725,Overall
+Sevier,HiTech,66,0.7107617034453744,Sector
+Sevier,Agriculture,32,0.30936402307693045,Sector
+Sevier,Transportation,80,0.35330217270010444,Sector
+Sevier,Consumer_Products,71,0.8356576216310676,Sector
+Sevier,Unassigned,67,0.395135563476823,Sector
+Sevier,Communication,26,0.2035645259864588,Sector
+Sevier,Trade,91,0.1699919028559087,Sector
+Sevier,Business_Services,19,0.1767948436564699,Sector
+Sevier,Business_Products,15,0.3091823346092466,Sector
+Sevier,Construction,41,0.7262795639995235,Sector
+Sevier,Services,9,0.2449271666610594,Sector
+Sevier,Mining,42,0.5355123651692619,Sector
+Sevier,Health_Care,66,0.30978492413848846,Sector
+Sevier,EnergyExpL_Prod,44,0.47896890650656365,Sector
+Sevier,Utilities,63,0.5266698829773274,Sector

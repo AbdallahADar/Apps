@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Charente-Maritime,715,0.5440020407235592,Overall
+Charente-Maritime,HiTech,67,0.9320107149686695,Sector
+Charente-Maritime,Agriculture,30,0.507426046652026,Sector
+Charente-Maritime,Transportation,30,0.9898918960337638,Sector
+Charente-Maritime,Consumer_Products,17,0.9228610577505364,Sector
+Charente-Maritime,Unassigned,70,0.06965175953746527,Sector
+Charente-Maritime,Communication,38,0.46985517278594424,Sector
+Charente-Maritime,Trade,65,0.9230333003974162,Sector
+Charente-Maritime,Business_Services,75,0.3263575681664683,Sector
+Charente-Maritime,Business_Products,49,0.3995027457456283,Sector
+Charente-Maritime,Construction,98,0.45957194860640915,Sector
+Charente-Maritime,Services,40,0.3910374384132279,Sector
+Charente-Maritime,Mining,58,0.6951824538606828,Sector
+Charente-Maritime,Health_Care,10,0.27166841242333895,Sector
+Charente-Maritime,EnergyExpL_Prod,11,0.23462238987952422,Sector
+Charente-Maritime,Utilities,57,0.5673577056322879,Sector

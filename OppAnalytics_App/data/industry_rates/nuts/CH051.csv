@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Glarus,896,0.40383346802464876,Overall
+Glarus,HiTech,6,0.0033209778680677315,Sector
+Glarus,Agriculture,98,0.03580447890095917,Sector
+Glarus,Transportation,62,0.11021485332229441,Sector
+Glarus,Consumer_Products,33,0.27315981828872493,Sector
+Glarus,Unassigned,29,0.7932714888190874,Sector
+Glarus,Communication,68,0.07427741370833219,Sector
+Glarus,Trade,48,0.22708107610261008,Sector
+Glarus,Business_Services,58,0.7339642668469852,Sector
+Glarus,Business_Products,30,0.9940722730951103,Sector
+Glarus,Construction,98,0.5345098052777537,Sector
+Glarus,Services,69,0.9902399190706037,Sector
+Glarus,Mining,66,0.23464262901488164,Sector
+Glarus,Health_Care,85,0.8246322435448568,Sector
+Glarus,EnergyExpL_Prod,71,0.08562257266798301,Sector
+Glarus,Utilities,75,0.14268820384148084,Sector

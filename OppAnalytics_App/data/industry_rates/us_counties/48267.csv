@@ -1,0 +1,17 @@
+parent,child,Count,Growth_Rate,Type
+,Kimble,670,0.5008377198429461,Overall
+Kimble,HiTech,23,0.6796279859676281,Sector
+Kimble,Agriculture,58,0.47498707794108663,Sector
+Kimble,Transportation,42,0.22865902249263603,Sector
+Kimble,Consumer_Products,16,0.3917185947421238,Sector
+Kimble,Unassigned,23,0.14945558310002183,Sector
+Kimble,Communication,12,0.18751759644087285,Sector
+Kimble,Trade,82,0.9547036641703295,Sector
+Kimble,Business_Services,87,0.4773575816216715,Sector
+Kimble,Business_Products,2,0.8795819838328153,Sector
+Kimble,Construction,60,0.01427138396254668,Sector
+Kimble,Services,91,0.42647240762162253,Sector
+Kimble,Mining,47,0.3091019504054102,Sector
+Kimble,Health_Care,23,0.983194713184862,Sector
+Kimble,EnergyExpL_Prod,64,0.75349608486339,Sector
+Kimble,Utilities,40,0.6024201672971736,Sector
