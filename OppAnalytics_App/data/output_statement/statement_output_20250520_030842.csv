@@ -1,0 +1,2 @@
+entityID,date,country,industry,assets,liabilities,sales,income,int_expense,inventory,cost_of_goods_sold,operating_expense,capex
+q,2020-12-31,u,N01,10,05,1,8,9,12,5,8,9

@@ -9,7 +9,7 @@ from utils.ids import DETAILS_GRID_IDS, DETAILS_POP_UP_IDS
 
 details_grid = html.Div(
     id = DETAILS_GRID_IDS["overall-container"],
-    style = {'display':'hidden'},
+    style = {'display':'none'},
     children = [
         html.Div(
             style = {

@@ -1,0 +1,1001 @@
+ID,Size,Industry,Country,Sector,Propensity,Reason1,Reason2,Reason3
+C001,Mid,Farming,ITA,Agriculture,1,Recurring Revenue,Experienced Team,Favorable FX Trends
+C002,Micro,Oil & Gas,FRA,Energy,4,Dividend Growth,Sector Tailwinds,Strong Management
+C003,Mid,Asset Management,ITA,Finance,2,Global Expansion,Cost Efficiency,Rising Demand
+C004,Mid,Retail,JPN,Consumer,4,Global Expansion,Turnaround Plan,Favorable FX Trends
+C005,Micro,Apparel,USA,Consumer,2,High Free Cash Flow,Undervalued,Low Leverage
+C006,Mid,Biotech,USA,Healthcare,3,Recurring Revenue,High Free Cash Flow,Growing TAM
+C007,Micro,Aerospace,USA,Industrials,3,Rising Demand,Low Capex,Low Leverage
+C008,Mid,Software,JPN,Technology,4,Undervalued,Recurring Revenue,Positive Guidance
+C009,Micro,Machinery,ITA,Industrials,1,New Product Launch,Undervalued,Cost Efficiency
+C010,Small,Hardware,ITA,Technology,1,Sticky Customers,High Growth,Share Buyback
+C011,Mid,Oil & Gas,ITA,Energy,1,Global Expansion,Low Leverage,Regulatory Approval
+C012,Mid,Insurance,USA,Finance,1,Regulatory Approval,Diversified Revenue,Share Buyback
+C013,Micro,Banking,JPN,Finance,1,High Free Cash Flow,Low Customer Churn,M&A Potential
+C014,Large,Airlines,USA,Transportation,3,Market Leader,Share Buyback,Improving Margins
+C015,Micro,Packaging,ITA,Materials,1,Diversified Revenue,Global Expansion,Capital Light Model
+C016,Micro,Farming,JPN,Agriculture,2,Share Buyback,Undervalued,Global Expansion
+C017,Large,Metals & Mining,USA,Materials,1,Dividend Growth,High Growth,Sticky Customers
+C018,Micro,Packaging,JPN,Materials,4,Strong Management,Diversified Revenue,M&A Potential
+C019,Micro,Apparel,ITA,Consumer,2,Sticky Customers,Global Expansion,Positive Guidance
+C020,Small,EV Manufacturers,JPN,Automotive,4,Market Leader,Share Buyback,Turnaround Plan
+C021,Small,Publishing,FRA,Media,3,Favorable FX Trends,Technological Edge,Sector Tailwinds
+C022,Micro,Broadcasting,USA,Media,2,Rising Demand,Technological Edge,Capital Light Model
+C023,Large,Utilities,ITA,Energy,2,Low Leverage,Diversified Revenue,Experienced Team
+C024,Small,Medical Devices,USA,Healthcare,1,Share Buyback,Cost Efficiency,M&A Potential
+C025,Large,Wireless Services,USA,Telecommunications,2,Low Customer Churn,Patent Portfolio,Positive Guidance
+C026,Large,Wireless Services,USA,Telecommunications,3,Sector Tailwinds,New Product Launch,Market Leader
+C027,Mid,Parts Suppliers,JPN,Automotive,1,Low Competition,Share Buyback,Strong Brand
+C028,Small,Streaming,ITA,Media,4,Global Expansion,Technological Edge,Market Leader
+C029,Mid,Tutoring,USA,Education,1,Low Customer Churn,High Growth,M&A Potential
+C030,Large,Residential RE,USA,Real Estate,2,Undervalued,M&A Potential,High Growth
+C031,Micro,Renewables,ITA,Energy,2,Sticky Customers,Patent Portfolio,Global Expansion
+C032,Large,Parts Suppliers,FRA,Automotive,3,Sector Tailwinds,Undervalued,High Growth
+C033,Small,Retail,FRA,Consumer,3,Patent Portfolio,Undervalued,M&A Potential
+C034,Micro,Insurance,USA,Finance,3,M&A Potential,Undervalued,Low Competition
+C035,Micro,Residential RE,USA,Real Estate,3,High Growth,Dividend Growth,Operational Leverage
+C036,Small,Hardware,FRA,Technology,3,Dividend Growth,Regulatory Approval,Favorable FX Trends
+C037,Micro,Software,JPN,Technology,4,Experienced Team,New Product Launch,Turnaround Plan
+C038,Large,Construction,USA,Industrials,4,Sticky Customers,New Product Launch,Growing TAM
+C039,Small,Asset Management,USA,Finance,1,Market Leader,Improving Margins,M&A Potential
+C040,Small,Broadband,FRA,Telecommunications,2,Sticky Customers,Growing TAM,Dividend Growth
+C041,Micro,Renewables,JPN,Energy,1,M&A Potential,Cost Efficiency,Low Capex
+C042,Mid,EV Manufacturers,ITA,Automotive,3,Favorable FX Trends,Sticky Customers,Low Leverage
+C043,Micro,Asset Management,USA,Finance,2,Diversified Revenue,Technological Edge,Recurring Revenue
+C044,Small,Streaming,USA,Media,3,Turnaround Plan,Rising Demand,Sector Tailwinds
+C045,Mid,Insurance,ITA,Finance,3,Favorable FX Trends,Rising Demand,Patent Portfolio
+C046,Small,Pharmaceuticals,ITA,Healthcare,1,Growing TAM,Improving Margins,Share Buyback
+C047,Large,Banking,JPN,Finance,2,Sticky Customers,Positive Guidance,Recurring Revenue
+C048,Mid,Commercial RE,JPN,Real Estate,2,Growing TAM,Global Expansion,M&A Potential
+C049,Large,Pharmaceuticals,FRA,Healthcare,2,Rising Demand,High Growth,Strong Brand
+C050,Micro,Medical Devices,USA,Healthcare,2,Turnaround Plan,Low Capex,Regulatory Approval
+C051,Large,Broadband,ITA,Telecommunications,1,Technological Edge,Recurring Revenue,Capital Light Model
+C052,Large,Oil & Gas,FRA,Energy,4,Low Customer Churn,Strong Management,New Product Launch
+C053,Large,Logistics,JPN,Transportation,2,Cost Efficiency,Growing TAM,Strong Brand
+C054,Micro,Machinery,ITA,Industrials,2,Low Capex,M&A Potential,High Free Cash Flow
+C055,Small,Parts Suppliers,FRA,Automotive,1,Experienced Team,Sticky Customers,Rising Demand
+C056,Micro,Metals & Mining,USA,Materials,4,Low Capex,Cost Efficiency,Strong Brand
+C057,Micro,Aerospace,JPN,Industrials,3,Low Leverage,Cost Efficiency,Favorable FX Trends
+C058,Mid,Software,FRA,Technology,4,Low Leverage,Regulatory Approval,Share Buyback
+C059,Large,Medical Devices,JPN,Healthcare,2,Share Buyback,Regulatory Approval,Strong Management
+C060,Micro,Airlines,USA,Transportation,3,Share Buyback,Sector Tailwinds,Regulatory Approval
+C061,Large,Hotels,FRA,Hospitality,4,Patent Portfolio,Global Expansion,Capital Light Model
+C062,Large,Wireless Services,ITA,Telecommunications,4,M&A Potential,Low Competition,High Free Cash Flow
+C063,Large,Insurance,FRA,Finance,2,M&A Potential,Global Expansion,Share Buyback
+C064,Micro,Logistics,JPN,Transportation,3,Dividend Growth,Turnaround Plan,New Product Launch
+C065,Micro,Airlines,USA,Transportation,2,Rising Demand,Market Leader,Technological Edge
+C066,Micro,OEMs,ITA,Automotive,2,Patent Portfolio,Favorable FX Trends,Strong Brand
+C067,Mid,Residential RE,FRA,Real Estate,2,Positive Guidance,Growing TAM,Rising Demand
+C068,Mid,Retail,ITA,Consumer,2,Strong Brand,Cost Efficiency,Low Leverage
+C069,Large,Pharmaceuticals,JPN,Healthcare,1,Share Buyback,Strong Brand,Undervalued
+C070,Micro,AgTech,FRA,Agriculture,3,Low Leverage,Strong Management,High Free Cash Flow
+C071,Large,Wireless Services,FRA,Telecommunications,3,Undervalued,Sector Tailwinds,High Growth
+C072,Micro,Travel,FRA,Hospitality,2,Diversified Revenue,Undervalued,Global Expansion
+C073,Mid,Rail,USA,Transportation,3,Cost Efficiency,Share Buyback,Low Customer Churn
+C074,Mid,Farming,FRA,Agriculture,1,New Product Launch,Low Competition,Rising Demand
+C075,Mid,Chemicals,JPN,Materials,4,Recurring Revenue,Improving Margins,Global Expansion
+C076,Micro,Agribusiness,FRA,Agriculture,4,Favorable FX Trends,Rising Demand,Strong Management
+C077,Small,Asset Management,USA,Finance,4,Regulatory Approval,Sector Tailwinds,Turnaround Plan
+C078,Mid,Tutoring,ITA,Education,3,Strong Brand,Dividend Growth,Undervalued
+C079,Large,Hotels,JPN,Hospitality,3,Sticky Customers,High Free Cash Flow,Strong Management
+C080,Micro,Food & Beverage,USA,Consumer,1,High Free Cash Flow,Positive Guidance,Regulatory Approval
+C081,Mid,Wireless Services,FRA,Telecommunications,1,Favorable FX Trends,Diversified Revenue,Undervalued
+C082,Mid,Aerospace,USA,Industrials,4,Low Competition,Undervalued,Share Buyback
+C083,Large,Wireless Services,JPN,Telecommunications,3,Favorable FX Trends,Turnaround Plan,High Growth
+C084,Small,Airlines,ITA,Transportation,2,Sticky Customers,Cost Efficiency,Capital Light Model
+C085,Mid,Insurance,FRA,Finance,4,Low Leverage,Strong Management,Market Leader
+C086,Large,Publishing,USA,Media,2,Low Leverage,Diversified Revenue,Improving Margins
+C087,Small,Food & Beverage,JPN,Consumer,1,Capital Light Model,M&A Potential,Strong Brand
+C088,Micro,Tutoring,JPN,Education,1,Undervalued,High Growth,Regulatory Approval
+C089,Mid,Broadband,ITA,Telecommunications,4,New Product Launch,Recurring Revenue,High Free Cash Flow
+C090,Small,Wireless Services,ITA,Telecommunications,1,Favorable FX Trends,Rising Demand,Dividend Growth
+C091,Mid,Hardware,JPN,Technology,1,Undervalued,Strong Brand,Low Customer Churn
+C092,Micro,Renewables,FRA,Energy,3,Global Expansion,Rising Demand,Recurring Revenue
+C093,Mid,Pharmaceuticals,JPN,Healthcare,2,Rising Demand,Low Customer Churn,Favorable FX Trends
+C094,Micro,Software,ITA,Technology,4,High Free Cash Flow,M&A Potential,Growing TAM
+C095,Mid,Renewables,JPN,Energy,3,Improving Margins,Market Leader,Cost Efficiency
+C096,Small,Banking,FRA,Finance,1,Improving Margins,Experienced Team,Strong Brand
+C097,Micro,Commercial RE,FRA,Real Estate,1,Capital Light Model,Strong Brand,New Product Launch
+C098,Small,Banking,USA,Finance,1,Capital Light Model,Share Buyback,Favorable FX Trends
+C099,Micro,Semiconductors,FRA,Technology,4,Rising Demand,Diversified Revenue,M&A Potential
+C100,Large,Oil & Gas,USA,Energy,2,Dividend Growth,Share Buyback,Patent Portfolio
+C101,Micro,Rail,JPN,Transportation,3,Operational Leverage,Market Leader,Dividend Growth
+C102,Mid,Commercial RE,USA,Real Estate,4,Positive Guidance,Recurring Revenue,Diversified Revenue
+C103,Mid,Apparel,ITA,Consumer,2,Turnaround Plan,Technological Edge,Patent Portfolio
+C104,Mid,Insurance,ITA,Finance,2,M&A Potential,Turnaround Plan,Diversified Revenue
+C105,Micro,Renewables,ITA,Energy,4,Strong Management,Global Expansion,Experienced Team
+C106,Mid,Asset Management,FRA,Finance,4,Strong Brand,Undervalued,Market Leader
+C107,Mid,Apparel,FRA,Consumer,1,Regulatory Approval,Share Buyback,Patent Portfolio
+C108,Small,Oil & Gas,JPN,Energy,4,Low Leverage,Recurring Revenue,Diversified Revenue
+C109,Small,Packaging,USA,Materials,2,High Growth,Turnaround Plan,Patent Portfolio
+C110,Small,Streaming,ITA,Media,4,Dividend Growth,Experienced Team,Positive Guidance
+C111,Micro,Travel,ITA,Hospitality,2,Global Expansion,Recurring Revenue,Strong Management
+C112,Mid,AgTech,FRA,Agriculture,2,Cost Efficiency,Favorable FX Trends,Low Capex
+C113,Micro,Insurance,FRA,Finance,4,High Growth,Low Customer Churn,Cost Efficiency
+C114,Small,Medical Devices,USA,Healthcare,4,Growing TAM,Cost Efficiency,Undervalued
+C115,Mid,Metals & Mining,FRA,Materials,4,Low Capex,High Growth,Strong Management
+C116,Mid,Tutoring,ITA,Education,1,Sector Tailwinds,M&A Potential,Operational Leverage
+C117,Large,Renewables,ITA,Energy,1,Regulatory Approval,Operational Leverage,Dividend Growth
+C118,Small,Food & Beverage,JPN,Consumer,4,Regulatory Approval,Diversified Revenue,Cost Efficiency
+C119,Small,Wireless Services,ITA,Telecommunications,4,Strong Management,Cost Efficiency,Recurring Revenue
+C120,Mid,Construction,ITA,Industrials,4,Global Expansion,Positive Guidance,New Product Launch
+C121,Mid,Insurance,USA,Finance,1,High Growth,Operational Leverage,Rising Demand
+C122,Large,Broadband,USA,Telecommunications,4,Growing TAM,Low Customer Churn,Improving Margins
+C123,Mid,Food & Beverage,JPN,Consumer,3,Sector Tailwinds,Patent Portfolio,High Free Cash Flow
+C124,Large,Publishing,ITA,Media,1,Cost Efficiency,Low Capex,Sector Tailwinds
+C125,Micro,Packaging,ITA,Materials,1,Positive Guidance,Sticky Customers,High Growth
+C126,Small,Tutoring,USA,Education,2,Positive Guidance,Low Competition,Regulatory Approval
+C127,Small,Oil & Gas,JPN,Energy,3,Positive Guidance,High Free Cash Flow,Technological Edge
+C128,Large,Hardware,FRA,Technology,1,Dividend Growth,Regulatory Approval,Share Buyback
+C129,Mid,Streaming,JPN,Media,2,Dividend Growth,Rising Demand,Growing TAM
+C130,Large,Parts Suppliers,FRA,Automotive,1,Cost Efficiency,Technological Edge,Positive Guidance
+C131,Large,Broadband,USA,Telecommunications,2,Operational Leverage,Experienced Team,Strong Management
+C132,Micro,Metals & Mining,USA,Materials,3,Experienced Team,Regulatory Approval,Sector Tailwinds
+C133,Small,Institutions,USA,Education,2,Share Buyback,Cost Efficiency,M&A Potential
+C134,Small,Semiconductors,JPN,Technology,2,Strong Brand,Growing TAM,Favorable FX Trends
+C135,Small,Publishing,JPN,Media,3,Low Leverage,Capital Light Model,Share Buyback
+C136,Mid,AgTech,USA,Agriculture,4,Dividend Growth,Experienced Team,Recurring Revenue
+C137,Micro,Hotels,JPN,Hospitality,2,Strong Brand,Recurring Revenue,High Growth
+C138,Large,Food & Beverage,ITA,Consumer,4,Global Expansion,Market Leader,Dividend Growth
+C139,Mid,Tutoring,ITA,Education,2,Patent Portfolio,Operational Leverage,High Growth
+C140,Small,Parts Suppliers,ITA,Automotive,4,Global Expansion,Sticky Customers,High Growth
+C141,Micro,Metals & Mining,ITA,Materials,1,Recurring Revenue,Low Customer Churn,Sector Tailwinds
+C142,Micro,Residential RE,ITA,Real Estate,2,Undervalued,Global Expansion,Improving Margins
+C143,Micro,Banking,USA,Finance,1,Experienced Team,Recurring Revenue,Capital Light Model
+C144,Micro,Semiconductors,JPN,Technology,3,High Free Cash Flow,Sticky Customers,Cost Efficiency
+C145,Mid,Insurance,FRA,Finance,2,Capital Light Model,Regulatory Approval,Low Competition
+C146,Micro,AgTech,FRA,Agriculture,1,Capital Light Model,Global Expansion,Low Competition
+C147,Mid,Aerospace,JPN,Industrials,2,Cost Efficiency,New Product Launch,Operational Leverage
+C148,Mid,Biotech,JPN,Healthcare,1,New Product Launch,Sector Tailwinds,Improving Margins
+C149,Micro,Construction,JPN,Industrials,4,Rising Demand,Operational Leverage,Low Competition
+C150,Small,EV Manufacturers,ITA,Automotive,1,Dividend Growth,High Growth,Operational Leverage
+C151,Large,Packaging,ITA,Materials,4,Technological Edge,High Growth,Patent Portfolio
+C152,Large,Residential RE,JPN,Real Estate,3,Low Competition,Technological Edge,Operational Leverage
+C153,Small,Farming,USA,Agriculture,1,Patent Portfolio,Low Customer Churn,Improving Margins
+C154,Large,Renewables,FRA,Energy,1,High Growth,Growing TAM,Market Leader
+C155,Mid,Institutions,USA,Education,2,Patent Portfolio,Regulatory Approval,Undervalued
+C156,Small,Packaging,FRA,Materials,1,Low Capex,Rising Demand,Experienced Team
+C157,Large,Food & Beverage,ITA,Consumer,2,Undervalued,M&A Potential,Operational Leverage
+C158,Mid,Tutoring,ITA,Education,2,Experienced Team,Global Expansion,Growing TAM
+C159,Mid,Airlines,ITA,Transportation,4,Growing TAM,Positive Guidance,Strong Management
+C160,Small,Commercial RE,JPN,Real Estate,1,Global Expansion,Technological Edge,Experienced Team
+C161,Mid,AgTech,FRA,Agriculture,3,Regulatory Approval,M&A Potential,Global Expansion
+C162,Large,Tutoring,JPN,Education,4,Patent Portfolio,Positive Guidance,Experienced Team
+C163,Mid,Chemicals,JPN,Materials,3,Operational Leverage,Technological Edge,Share Buyback
+C164,Mid,Airlines,JPN,Transportation,2,Undervalued,Operational Leverage,Share Buyback
+C165,Micro,Utilities,FRA,Energy,2,Improving Margins,Positive Guidance,New Product Launch
+C166,Micro,Renewables,JPN,Energy,1,Low Competition,Positive Guidance,Growing TAM
+C167,Large,Packaging,FRA,Materials,3,Rising Demand,Low Leverage,Capital Light Model
+C168,Small,Banking,ITA,Finance,3,High Growth,Sticky Customers,Dividend Growth
+C169,Micro,Renewables,USA,Energy,3,Patent Portfolio,Growing TAM,High Free Cash Flow
+C170,Large,Aerospace,JPN,Industrials,4,Low Competition,Recurring Revenue,Diversified Revenue
+C171,Large,Broadband,USA,Telecommunications,4,Operational Leverage,Rising Demand,Improving Margins
+C172,Small,Retail,USA,Consumer,4,Positive Guidance,Sticky Customers,Growing TAM
+C173,Small,Semiconductors,JPN,Technology,2,Turnaround Plan,Favorable FX Trends,High Free Cash Flow
+C174,Mid,Insurance,JPN,Finance,4,Low Competition,Regulatory Approval,Cost Efficiency
+C175,Mid,Biotech,JPN,Healthcare,4,Diversified Revenue,Strong Brand,Capital Light Model
+C176,Large,Travel,ITA,Hospitality,2,Global Expansion,New Product Launch,Low Capex
+C177,Small,Farming,FRA,Agriculture,1,Cost Efficiency,Market Leader,Undervalued
+C178,Mid,Commercial RE,USA,Real Estate,3,Cost Efficiency,Diversified Revenue,Strong Management
+C179,Micro,OEMs,JPN,Automotive,4,High Free Cash Flow,Growing TAM,M&A Potential
+C180,Micro,Renewables,FRA,Energy,1,Diversified Revenue,Sticky Customers,Low Customer Churn
+C181,Large,Rail,JPN,Transportation,3,Sector Tailwinds,Turnaround Plan,Operational Leverage
+C182,Small,Renewables,JPN,Energy,4,Turnaround Plan,Global Expansion,Technological Edge
+C183,Mid,OEMs,USA,Automotive,2,Low Competition,Dividend Growth,Experienced Team
+C184,Mid,Utilities,FRA,Energy,2,Favorable FX Trends,Global Expansion,High Free Cash Flow
+C185,Small,Wireless Services,ITA,Telecommunications,4,Strong Brand,Rising Demand,Sector Tailwinds
+C186,Mid,Machinery,ITA,Industrials,3,Low Leverage,Experienced Team,Recurring Revenue
+C187,Mid,Publishing,USA,Media,2,Positive Guidance,Strong Brand,Diversified Revenue
+C188,Small,EV Manufacturers,FRA,Automotive,2,Capital Light Model,Turnaround Plan,Sector Tailwinds
+C189,Mid,Pharmaceuticals,USA,Healthcare,2,High Free Cash Flow,Rising Demand,Low Competition
+C190,Large,Semiconductors,ITA,Technology,3,Operational Leverage,Low Competition,Diversified Revenue
+C191,Micro,Utilities,FRA,Energy,3,Turnaround Plan,Undervalued,Favorable FX Trends
+C192,Micro,Software,FRA,Technology,2,Low Leverage,Undervalued,Turnaround Plan
+C193,Large,Broadcasting,USA,Media,2,Sticky Customers,Strong Management,Global Expansion
+C194,Large,Apparel,JPN,Consumer,2,Low Leverage,Rising Demand,Low Customer Churn
+C195,Large,Restaurants,ITA,Hospitality,4,Low Capex,Regulatory Approval,Technological Edge
+C196,Large,Broadcasting,ITA,Media,1,New Product Launch,High Growth,Share Buyback
+C197,Mid,Institutions,FRA,Education,1,Patent Portfolio,Rising Demand,Global Expansion
+C198,Small,Semiconductors,JPN,Technology,1,Rising Demand,Experienced Team,Market Leader
+C199,Micro,Packaging,ITA,Materials,3,Growing TAM,Share Buyback,Improving Margins
+C200,Mid,Chemicals,JPN,Materials,4,Improving Margins,Technological Edge,Sector Tailwinds
+C201,Mid,Tutoring,JPN,Education,3,Experienced Team,M&A Potential,Low Capex
+C202,Small,Publishing,FRA,Media,4,Regulatory Approval,Sector Tailwinds,Experienced Team
+C203,Small,Metals & Mining,ITA,Materials,2,Diversified Revenue,Dividend Growth,M&A Potential
+C204,Micro,EdTech,FRA,Education,1,Dividend Growth,Diversified Revenue,New Product Launch
+C205,Large,Publishing,JPN,Media,4,Global Expansion,Cost Efficiency,Dividend Growth
+C206,Mid,Streaming,USA,Media,1,Regulatory Approval,Low Capex,Strong Management
+C207,Small,Food & Beverage,ITA,Consumer,3,New Product Launch,Cost Efficiency,Diversified Revenue
+C208,Large,Asset Management,FRA,Finance,3,Growing TAM,Dividend Growth,Rising Demand
+C209,Small,Restaurants,USA,Hospitality,2,Sticky Customers,Experienced Team,Low Competition
+C210,Large,Tutoring,JPN,Education,4,Growing TAM,Share Buyback,High Free Cash Flow
+C211,Small,Asset Management,FRA,Finance,2,Technological Edge,Low Leverage,Cost Efficiency
+C212,Micro,Packaging,USA,Materials,2,Technological Edge,Cost Efficiency,Share Buyback
+C213,Large,Renewables,ITA,Energy,2,Operational Leverage,Patent Portfolio,Improving Margins
+C214,Large,Aerospace,ITA,Industrials,4,Low Competition,Market Leader,Recurring Revenue
+C215,Small,Parts Suppliers,USA,Automotive,2,Sticky Customers,Low Leverage,High Growth
+C216,Large,Software,ITA,Technology,2,Market Leader,Experienced Team,High Growth
+C217,Mid,Chemicals,JPN,Materials,2,Capital Light Model,Patent Portfolio,Growing TAM
+C218,Large,Broadband,FRA,Telecommunications,2,Favorable FX Trends,Capital Light Model,Low Capex
+C219,Small,EV Manufacturers,USA,Automotive,2,Recurring Revenue,Favorable FX Trends,Sticky Customers
+C220,Large,Packaging,JPN,Materials,1,Recurring Revenue,Favorable FX Trends,Sector Tailwinds
+C221,Small,Aerospace,USA,Industrials,2,Cost Efficiency,Sector Tailwinds,Positive Guidance
+C222,Large,Streaming,FRA,Media,2,Regulatory Approval,Rising Demand,Sticky Customers
+C223,Small,Rail,USA,Transportation,1,Turnaround Plan,Patent Portfolio,Cost Efficiency
+C224,Large,Utilities,JPN,Energy,1,Rising Demand,Experienced Team,Low Leverage
+C225,Large,Chemicals,USA,Materials,3,Low Capex,Patent Portfolio,Dividend Growth
+C226,Micro,Logistics,ITA,Transportation,4,Share Buyback,Regulatory Approval,Global Expansion
+C227,Mid,Residential RE,USA,Real Estate,2,Diversified Revenue,Experienced Team,Technological Edge
+C228,Large,Insurance,JPN,Finance,2,Global Expansion,Favorable FX Trends,Positive Guidance
+C229,Micro,Restaurants,FRA,Hospitality,4,Capital Light Model,Strong Management,Experienced Team
+C230,Small,Hotels,ITA,Hospitality,4,Cost Efficiency,Dividend Growth,Positive Guidance
+C231,Mid,Travel,FRA,Hospitality,2,Dividend Growth,Global Expansion,Regulatory Approval
+C232,Small,Travel,JPN,Hospitality,1,Technological Edge,Diversified Revenue,Low Capex
+C233,Large,Tutoring,JPN,Education,4,New Product Launch,Turnaround Plan,Improving Margins
+C234,Micro,Chemicals,ITA,Materials,4,Low Leverage,Sector Tailwinds,Share Buyback
+C235,Mid,Pharmaceuticals,JPN,Healthcare,2,Low Customer Churn,Experienced Team,Positive Guidance
+C236,Small,Broadband,JPN,Telecommunications,3,Technological Edge,Capital Light Model,Global Expansion
+C237,Mid,Chemicals,ITA,Materials,3,Sector Tailwinds,Strong Brand,Global Expansion
+C238,Small,Farming,USA,Agriculture,1,Positive Guidance,Improving Margins,Rising Demand
+C239,Mid,Streaming,FRA,Media,1,Dividend Growth,Share Buyback,Technological Edge
+C240,Micro,Agribusiness,FRA,Agriculture,1,Positive Guidance,M&A Potential,New Product Launch
+C241,Large,AgTech,FRA,Agriculture,1,Favorable FX Trends,Technological Edge,Recurring Revenue
+C242,Large,Biotech,ITA,Healthcare,1,Regulatory Approval,High Free Cash Flow,Undervalued
+C243,Small,Aerospace,JPN,Industrials,4,Sticky Customers,High Growth,Turnaround Plan
+C244,Large,Wireless Services,JPN,Telecommunications,1,Positive Guidance,Undervalued,Diversified Revenue
+C245,Small,Tutoring,JPN,Education,3,Low Leverage,New Product Launch,Diversified Revenue
+C246,Micro,EV Manufacturers,USA,Automotive,4,Strong Brand,Low Capex,Low Competition
+C247,Mid,Food & Beverage,ITA,Consumer,3,Positive Guidance,Low Capex,Dividend Growth
+C248,Mid,Semiconductors,FRA,Technology,1,Diversified Revenue,Undervalued,Favorable FX Trends
+C249,Small,Broadband,JPN,Telecommunications,4,Market Leader,High Free Cash Flow,Global Expansion
+C250,Mid,Hotels,JPN,Hospitality,4,Global Expansion,Rising Demand,Patent Portfolio
+C251,Large,Streaming,FRA,Media,1,High Free Cash Flow,Strong Brand,Low Customer Churn
+C252,Mid,Construction,JPN,Industrials,4,Low Customer Churn,Technological Edge,Turnaround Plan
+C253,Large,Medical Devices,FRA,Healthcare,2,Undervalued,Experienced Team,Favorable FX Trends
+C254,Mid,Software,USA,Technology,1,Cost Efficiency,M&A Potential,Technological Edge
+C255,Large,Utilities,USA,Energy,3,Operational Leverage,New Product Launch,Diversified Revenue
+C256,Large,Construction,JPN,Industrials,4,Share Buyback,Experienced Team,Improving Margins
+C257,Small,AgTech,FRA,Agriculture,3,Capital Light Model,Market Leader,Sticky Customers
+C258,Large,Restaurants,ITA,Hospitality,3,Recurring Revenue,Dividend Growth,High Growth
+C259,Mid,Construction,USA,Industrials,4,Improving Margins,New Product Launch,Low Customer Churn
+C260,Micro,Publishing,FRA,Media,3,M&A Potential,Improving Margins,Undervalued
+C261,Large,Residential RE,JPN,Real Estate,4,Turnaround Plan,Share Buyback,Strong Brand
+C262,Mid,Agribusiness,USA,Agriculture,4,Undervalued,Regulatory Approval,Positive Guidance
+C263,Mid,Parts Suppliers,JPN,Automotive,1,Growing TAM,Low Leverage,Sticky Customers
+C264,Micro,Food & Beverage,USA,Consumer,2,Dividend Growth,Strong Brand,Cost Efficiency
+C265,Large,Renewables,JPN,Energy,1,High Growth,M&A Potential,Rising Demand
+C266,Micro,Banking,USA,Finance,2,Share Buyback,Low Capex,Experienced Team
+C267,Mid,Airlines,FRA,Transportation,2,High Growth,Dividend Growth,Global Expansion
+C268,Large,Agribusiness,JPN,Agriculture,4,Low Leverage,Diversified Revenue,Sector Tailwinds
+C269,Large,Parts Suppliers,ITA,Automotive,3,New Product Launch,Global Expansion,Patent Portfolio
+C270,Micro,Software,ITA,Technology,2,Regulatory Approval,Positive Guidance,Strong Brand
+C271,Small,Residential RE,FRA,Real Estate,1,Capital Light Model,Improving Margins,Sector Tailwinds
+C272,Large,Machinery,FRA,Industrials,1,Low Capex,Patent Portfolio,High Growth
+C273,Mid,Chemicals,USA,Materials,3,New Product Launch,Patent Portfolio,M&A Potential
+C274,Mid,Retail,USA,Consumer,3,High Free Cash Flow,Strong Brand,Operational Leverage
+C275,Mid,Publishing,USA,Media,4,Dividend Growth,Low Competition,Growing TAM
+C276,Large,Food & Beverage,FRA,Consumer,1,New Product Launch,Growing TAM,Improving Margins
+C277,Large,Medical Devices,JPN,Healthcare,1,Diversified Revenue,Dividend Growth,Positive Guidance
+C278,Large,Wireless Services,FRA,Telecommunications,4,Undervalued,Growing TAM,Recurring Revenue
+C279,Micro,Utilities,USA,Energy,2,Positive Guidance,Capital Light Model,Low Competition
+C280,Mid,Commercial RE,USA,Real Estate,4,Favorable FX Trends,Strong Management,Strong Brand
+C281,Micro,Pharmaceuticals,USA,Healthcare,4,Growing TAM,Sector Tailwinds,Rising Demand
+C282,Micro,Broadband,FRA,Telecommunications,3,M&A Potential,Low Leverage,Improving Margins
+C283,Large,Machinery,ITA,Industrials,2,Capital Light Model,Technological Edge,Diversified Revenue
+C284,Micro,Aerospace,FRA,Industrials,4,Strong Brand,Diversified Revenue,Low Customer Churn
+C285,Mid,Insurance,FRA,Finance,3,Low Leverage,Low Customer Churn,M&A Potential
+C286,Mid,Utilities,USA,Energy,1,Cost Efficiency,Growing TAM,Share Buyback
+C287,Mid,Renewables,FRA,Energy,1,Operational Leverage,Dividend Growth,Improving Margins
+C288,Small,Aerospace,FRA,Industrials,4,Cost Efficiency,Positive Guidance,High Growth
+C289,Mid,Airlines,FRA,Transportation,4,Positive Guidance,Global Expansion,Sticky Customers
+C290,Micro,Packaging,USA,Materials,4,New Product Launch,Patent Portfolio,Growing TAM
+C291,Mid,Commercial RE,JPN,Real Estate,4,Sticky Customers,High Growth,Market Leader
+C292,Small,Broadcasting,USA,Media,2,Improving Margins,Low Capex,High Free Cash Flow
+C293,Large,Farming,JPN,Agriculture,2,Patent Portfolio,High Growth,Recurring Revenue
+C294,Large,Residential RE,USA,Real Estate,1,High Growth,Favorable FX Trends,Low Customer Churn
+C295,Micro,Rail,FRA,Transportation,1,New Product Launch,Technological Edge,Low Customer Churn
+C296,Large,Oil & Gas,ITA,Energy,3,Recurring Revenue,Undervalued,Regulatory Approval
+C297,Micro,Oil & Gas,ITA,Energy,1,Recurring Revenue,Rising Demand,Favorable FX Trends
+C298,Micro,Logistics,JPN,Transportation,3,Sticky Customers,Dividend Growth,Low Leverage
+C299,Large,Oil & Gas,USA,Energy,2,Improving Margins,Global Expansion,Low Leverage
+C300,Large,Insurance,JPN,Finance,4,Turnaround Plan,M&A Potential,High Growth
+C301,Mid,Wireless Services,FRA,Telecommunications,1,Market Leader,Capital Light Model,Recurring Revenue
+C302,Mid,AgTech,USA,Agriculture,1,New Product Launch,Undervalued,Market Leader
+C303,Large,Oil & Gas,FRA,Energy,2,Growing TAM,Undervalued,Low Competition
+C304,Small,Agribusiness,JPN,Agriculture,4,Market Leader,Turnaround Plan,High Growth
+C305,Micro,Rail,FRA,Transportation,4,Strong Management,Low Competition,Low Leverage
+C306,Large,Biotech,ITA,Healthcare,4,Capital Light Model,Strong Brand,Market Leader
+C307,Small,Hotels,JPN,Hospitality,3,Favorable FX Trends,Dividend Growth,Strong Management
+C308,Micro,Institutions,ITA,Education,1,Recurring Revenue,Sector Tailwinds,Patent Portfolio
+C309,Micro,Logistics,JPN,Transportation,4,Favorable FX Trends,Growing TAM,Low Capex
+C310,Large,Biotech,USA,Healthcare,2,Experienced Team,High Growth,Strong Brand
+C311,Large,Retail,FRA,Consumer,3,Recurring Revenue,Favorable FX Trends,Low Competition
+C312,Small,Airlines,USA,Transportation,4,Sticky Customers,Rising Demand,Turnaround Plan
+C313,Mid,Rail,ITA,Transportation,4,M&A Potential,Favorable FX Trends,Undervalued
+C314,Micro,Hardware,ITA,Technology,1,New Product Launch,Market Leader,Experienced Team
+C315,Mid,Metals & Mining,JPN,Materials,3,High Free Cash Flow,M&A Potential,Favorable FX Trends
+C316,Mid,Streaming,JPN,Media,3,Improving Margins,Sector Tailwinds,Strong Management
+C317,Micro,Tutoring,ITA,Education,4,M&A Potential,Recurring Revenue,Strong Brand
+C318,Small,Logistics,JPN,Transportation,2,High Growth,Cost Efficiency,Strong Brand
+C319,Micro,Packaging,USA,Materials,3,Market Leader,New Product Launch,Undervalued
+C320,Small,Streaming,JPN,Media,3,Undervalued,Strong Management,Sticky Customers
+C321,Mid,AgTech,USA,Agriculture,4,Favorable FX Trends,Low Customer Churn,Market Leader
+C322,Small,Software,FRA,Technology,4,Low Capex,Operational Leverage,Cost Efficiency
+C323,Large,Residential RE,USA,Real Estate,3,Share Buyback,Sector Tailwinds,Recurring Revenue
+C324,Mid,Hotels,ITA,Hospitality,2,Strong Brand,Positive Guidance,Rising Demand
+C325,Micro,Pharmaceuticals,ITA,Healthcare,1,Experienced Team,Turnaround Plan,M&A Potential
+C326,Large,Banking,USA,Finance,3,Share Buyback,Positive Guidance,Turnaround Plan
+C327,Mid,Oil & Gas,FRA,Energy,1,Technological Edge,Sticky Customers,Experienced Team
+C328,Large,AgTech,JPN,Agriculture,3,Sticky Customers,Sector Tailwinds,Low Capex
+C329,Micro,Agribusiness,JPN,Agriculture,3,Low Competition,Sticky Customers,Strong Management
+C330,Small,Chemicals,ITA,Materials,3,Diversified Revenue,Turnaround Plan,Regulatory Approval
+C331,Large,Banking,JPN,Finance,4,Turnaround Plan,High Free Cash Flow,Strong Management
+C332,Small,Renewables,USA,Energy,1,Low Capex,Regulatory Approval,Low Leverage
+C333,Large,Travel,JPN,Hospitality,1,Share Buyback,Favorable FX Trends,Experienced Team
+C334,Micro,Wireless Services,FRA,Telecommunications,4,Rising Demand,Low Capex,M&A Potential
+C335,Large,Residential RE,USA,Real Estate,3,Low Competition,Undervalued,Patent Portfolio
+C336,Large,Semiconductors,ITA,Technology,3,Strong Brand,New Product Launch,Capital Light Model
+C337,Mid,Publishing,ITA,Media,2,Share Buyback,Growing TAM,Capital Light Model
+C338,Small,EV Manufacturers,FRA,Automotive,1,High Free Cash Flow,Strong Brand,Technological Edge
+C339,Large,EdTech,JPN,Education,1,Turnaround Plan,Technological Edge,Low Leverage
+C340,Small,Retail,ITA,Consumer,4,Patent Portfolio,Strong Management,Regulatory Approval
+C341,Small,Parts Suppliers,JPN,Automotive,2,Low Customer Churn,Recurring Revenue,Strong Management
+C342,Large,Broadband,FRA,Telecommunications,2,Sticky Customers,Growing TAM,Rising Demand
+C343,Mid,Broadcasting,JPN,Media,4,Rising Demand,High Free Cash Flow,Technological Edge
+C344,Micro,Oil & Gas,FRA,Energy,1,Diversified Revenue,Market Leader,Cost Efficiency
+C345,Mid,Metals & Mining,USA,Materials,3,Operational Leverage,High Free Cash Flow,Improving Margins
+C346,Small,EV Manufacturers,ITA,Automotive,3,Low Leverage,Cost Efficiency,Market Leader
+C347,Mid,Apparel,ITA,Consumer,4,Dividend Growth,High Growth,Recurring Revenue
+C348,Micro,Parts Suppliers,JPN,Automotive,2,Turnaround Plan,Global Expansion,Low Customer Churn
+C349,Large,Travel,FRA,Hospitality,3,Operational Leverage,Growing TAM,Low Leverage
+C350,Micro,Machinery,JPN,Industrials,2,Favorable FX Trends,Low Capex,Cost Efficiency
+C351,Mid,Streaming,USA,Media,2,High Growth,Undervalued,Regulatory Approval
+C352,Small,EV Manufacturers,USA,Automotive,3,Regulatory Approval,High Free Cash Flow,Sticky Customers
+C353,Mid,Packaging,JPN,Materials,4,Undervalued,Diversified Revenue,Turnaround Plan
+C354,Large,Restaurants,ITA,Hospitality,4,Strong Management,Capital Light Model,Experienced Team
+C355,Small,Parts Suppliers,JPN,Automotive,2,Sector Tailwinds,Low Leverage,Experienced Team
+C356,Large,Construction,FRA,Industrials,3,Low Leverage,Global Expansion,Operational Leverage
+C357,Large,Semiconductors,USA,Technology,2,Experienced Team,Market Leader,M&A Potential
+C358,Large,Commercial RE,JPN,Real Estate,1,Undervalued,Diversified Revenue,Positive Guidance
+C359,Mid,Broadcasting,ITA,Media,3,Low Capex,Technological Edge,Sector Tailwinds
+C360,Mid,Travel,JPN,Hospitality,4,High Growth,Turnaround Plan,Technological Edge
+C361,Mid,Machinery,FRA,Industrials,2,Patent Portfolio,Undervalued,Favorable FX Trends
+C362,Small,Rail,ITA,Transportation,3,Positive Guidance,Turnaround Plan,Strong Management
+C363,Micro,Asset Management,JPN,Finance,4,Low Leverage,Low Customer Churn,Technological Edge
+C364,Small,Publishing,JPN,Media,4,Share Buyback,Low Customer Churn,Turnaround Plan
+C365,Large,Semiconductors,ITA,Technology,2,New Product Launch,Low Capex,Rising Demand
+C366,Mid,Restaurants,JPN,Hospitality,2,Market Leader,High Growth,Favorable FX Trends
+C367,Small,Renewables,USA,Energy,3,High Growth,Operational Leverage,Diversified Revenue
+C368,Micro,Parts Suppliers,FRA,Automotive,1,Market Leader,Operational Leverage,Strong Brand
+C369,Mid,Travel,JPN,Hospitality,4,Strong Management,Capital Light Model,Positive Guidance
+C370,Mid,Travel,JPN,Hospitality,4,Growing TAM,Low Leverage,Capital Light Model
+C371,Large,OEMs,JPN,Automotive,4,Strong Management,Positive Guidance,Favorable FX Trends
+C372,Micro,Metals & Mining,JPN,Materials,2,New Product Launch,Capital Light Model,Positive Guidance
+C373,Micro,Institutions,ITA,Education,3,Growing TAM,Positive Guidance,Patent Portfolio
+C374,Mid,Agribusiness,FRA,Agriculture,2,Turnaround Plan,Diversified Revenue,Favorable FX Trends
+C375,Large,OEMs,USA,Automotive,4,High Free Cash Flow,Strong Brand,Patent Portfolio
+C376,Large,Airlines,USA,Transportation,4,Capital Light Model,Diversified Revenue,Favorable FX Trends
+C377,Small,AgTech,ITA,Agriculture,3,High Growth,Recurring Revenue,Sticky Customers
+C378,Large,Farming,FRA,Agriculture,2,Diversified Revenue,Experienced Team,Rising Demand
+C379,Micro,Semiconductors,USA,Technology,2,New Product Launch,Experienced Team,Dividend Growth
+C380,Mid,Hotels,USA,Hospitality,1,Recurring Revenue,Share Buyback,Sticky Customers
+C381,Micro,Publishing,FRA,Media,4,Sector Tailwinds,Recurring Revenue,Experienced Team
+C382,Large,Utilities,JPN,Energy,3,Regulatory Approval,Growing TAM,Favorable FX Trends
+C383,Micro,Apparel,FRA,Consumer,2,Dividend Growth,Patent Portfolio,Diversified Revenue
+C384,Mid,EV Manufacturers,ITA,Automotive,2,Low Customer Churn,Capital Light Model,Improving Margins
+C385,Mid,Logistics,JPN,Transportation,3,Strong Brand,Improving Margins,Positive Guidance
+C386,Micro,OEMs,USA,Automotive,1,New Product Launch,Favorable FX Trends,Low Competition
+C387,Large,Commercial RE,ITA,Real Estate,4,Growing TAM,New Product Launch,Market Leader
+C388,Large,Machinery,USA,Industrials,2,Diversified Revenue,Low Competition,Patent Portfolio
+C389,Small,Publishing,ITA,Media,1,Share Buyback,Undervalued,Sticky Customers
+C390,Small,Farming,ITA,Agriculture,4,High Growth,Share Buyback,M&A Potential
+C391,Micro,Parts Suppliers,FRA,Automotive,3,Share Buyback,Technological Edge,Recurring Revenue
+C392,Large,OEMs,USA,Automotive,2,High Growth,Rising Demand,High Free Cash Flow
+C393,Mid,EV Manufacturers,JPN,Automotive,2,Low Leverage,New Product Launch,Capital Light Model
+C394,Large,Apparel,JPN,Consumer,1,Experienced Team,Patent Portfolio,Market Leader
+C395,Mid,Residential RE,JPN,Real Estate,3,Diversified Revenue,Share Buyback,M&A Potential
+C396,Small,Banking,FRA,Finance,4,Dividend Growth,Diversified Revenue,Strong Brand
+C397,Mid,Tutoring,FRA,Education,1,Sticky Customers,Market Leader,Diversified Revenue
+C398,Mid,Utilities,JPN,Energy,4,Undervalued,Low Competition,Experienced Team
+C399,Micro,Travel,ITA,Hospitality,4,Recurring Revenue,Low Customer Churn,Operational Leverage
+C400,Large,Wireless Services,FRA,Telecommunications,2,Low Competition,Recurring Revenue,Turnaround Plan
+C401,Small,Apparel,JPN,Consumer,4,Positive Guidance,Low Customer Churn,Experienced Team
+C402,Large,Restaurants,ITA,Hospitality,3,Low Leverage,Diversified Revenue,Undervalued
+C403,Small,Tutoring,JPN,Education,2,Sticky Customers,Regulatory Approval,Dividend Growth
+C404,Small,Rail,USA,Transportation,4,Low Leverage,M&A Potential,New Product Launch
+C405,Mid,Agribusiness,ITA,Agriculture,1,High Free Cash Flow,Experienced Team,Low Capex
+C406,Small,Software,ITA,Technology,2,Technological Edge,New Product Launch,Cost Efficiency
+C407,Large,Residential RE,FRA,Real Estate,3,Positive Guidance,Improving Margins,Growing TAM
+C408,Small,Institutions,ITA,Education,3,Improving Margins,Dividend Growth,Strong Management
+C409,Micro,Banking,FRA,Finance,4,Low Capex,Market Leader,Favorable FX Trends
+C410,Small,Travel,ITA,Hospitality,1,Technological Edge,Operational Leverage,M&A Potential
+C411,Large,Metals & Mining,FRA,Materials,3,Rising Demand,High Free Cash Flow,Recurring Revenue
+C412,Large,Rail,USA,Transportation,3,M&A Potential,Dividend Growth,Global Expansion
+C413,Mid,Publishing,USA,Media,2,Regulatory Approval,Recurring Revenue,Growing TAM
+C414,Mid,Farming,FRA,Agriculture,3,Strong Management,Strong Brand,Global Expansion
+C415,Micro,Agribusiness,USA,Agriculture,2,Low Competition,Strong Brand,Operational Leverage
+C416,Mid,Streaming,ITA,Media,2,Low Competition,Low Customer Churn,Low Capex
+C417,Large,Insurance,FRA,Finance,2,Operational Leverage,High Free Cash Flow,Improving Margins
+C418,Mid,Commercial RE,JPN,Real Estate,4,Strong Management,Low Competition,Low Capex
+C419,Mid,Machinery,ITA,Industrials,3,Regulatory Approval,Sticky Customers,Growing TAM
+C420,Large,AgTech,JPN,Agriculture,4,Rising Demand,Global Expansion,Strong Management
+C421,Micro,Broadcasting,USA,Media,3,Turnaround Plan,Cost Efficiency,Low Capex
+C422,Large,Apparel,USA,Consumer,2,Strong Brand,Low Leverage,Diversified Revenue
+C423,Large,Utilities,USA,Energy,3,Capital Light Model,Recurring Revenue,Global Expansion
+C424,Mid,OEMs,FRA,Automotive,2,Recurring Revenue,Favorable FX Trends,Patent Portfolio
+C425,Large,Streaming,JPN,Media,2,Market Leader,Sector Tailwinds,Regulatory Approval
+C426,Large,Asset Management,FRA,Finance,1,Low Customer Churn,Strong Management,Growing TAM
+C427,Large,OEMs,FRA,Automotive,1,Strong Brand,Strong Management,Technological Edge
+C428,Micro,Streaming,ITA,Media,4,High Free Cash Flow,Share Buyback,Low Customer Churn
+C429,Micro,Wireless Services,USA,Telecommunications,1,Recurring Revenue,High Growth,Regulatory Approval
+C430,Mid,Semiconductors,ITA,Technology,4,Strong Management,Recurring Revenue,Undervalued
+C431,Large,Publishing,USA,Media,2,Technological Edge,Patent Portfolio,Positive Guidance
+C432,Mid,Software,JPN,Technology,1,Turnaround Plan,Undervalued,Favorable FX Trends
+C433,Small,AgTech,USA,Agriculture,4,Strong Brand,Low Competition,Patent Portfolio
+C434,Large,Oil & Gas,USA,Energy,2,Global Expansion,Low Customer Churn,Sector Tailwinds
+C435,Micro,Construction,FRA,Industrials,2,Improving Margins,Share Buyback,Growing TAM
+C436,Mid,Institutions,USA,Education,1,Undervalued,New Product Launch,Strong Management
+C437,Large,Food & Beverage,USA,Consumer,2,Low Capex,High Growth,Favorable FX Trends
+C438,Small,Publishing,USA,Media,3,Patent Portfolio,Low Competition,Diversified Revenue
+C439,Mid,Parts Suppliers,USA,Automotive,3,Recurring Revenue,Low Leverage,Sector Tailwinds
+C440,Large,Apparel,JPN,Consumer,3,New Product Launch,Global Expansion,Sector Tailwinds
+C441,Small,Biotech,JPN,Healthcare,3,Dividend Growth,High Growth,Patent Portfolio
+C442,Mid,Construction,ITA,Industrials,1,Recurring Revenue,Favorable FX Trends,Low Customer Churn
+C443,Micro,Biotech,USA,Healthcare,4,High Growth,Favorable FX Trends,Regulatory Approval
+C444,Large,EV Manufacturers,FRA,Automotive,2,Operational Leverage,Undervalued,High Growth
+C445,Small,Residential RE,JPN,Real Estate,4,Capital Light Model,Positive Guidance,Operational Leverage
+C446,Micro,Utilities,ITA,Energy,1,Sticky Customers,Favorable FX Trends,High Free Cash Flow
+C447,Large,Wireless Services,JPN,Telecommunications,2,Low Leverage,Patent Portfolio,High Free Cash Flow
+C448,Micro,Construction,FRA,Industrials,3,Capital Light Model,Regulatory Approval,M&A Potential
+C449,Large,Food & Beverage,USA,Consumer,1,Turnaround Plan,Share Buyback,Improving Margins
+C450,Mid,Asset Management,FRA,Finance,3,Market Leader,Growing TAM,M&A Potential
+C451,Mid,Chemicals,FRA,Materials,2,Turnaround Plan,Favorable FX Trends,Recurring Revenue
+C452,Mid,Oil & Gas,JPN,Energy,3,Low Customer Churn,Dividend Growth,Strong Management
+C453,Small,Airlines,ITA,Transportation,1,Positive Guidance,Strong Management,High Growth
+C454,Small,Renewables,ITA,Energy,2,Patent Portfolio,Operational Leverage,Experienced Team
+C455,Micro,Machinery,USA,Industrials,3,Turnaround Plan,Low Competition,Recurring Revenue
+C456,Micro,Medical Devices,JPN,Healthcare,3,Technological Edge,High Free Cash Flow,Improving Margins
+C457,Large,Broadband,JPN,Telecommunications,4,Rising Demand,Positive Guidance,Growing TAM
+C458,Mid,Rail,USA,Transportation,3,Capital Light Model,Low Competition,Undervalued
+C459,Micro,Medical Devices,FRA,Healthcare,1,Strong Management,Patent Portfolio,Sticky Customers
+C460,Small,Pharmaceuticals,FRA,Healthcare,2,Market Leader,New Product Launch,Sticky Customers
+C461,Large,Oil & Gas,JPN,Energy,2,Sticky Customers,Favorable FX Trends,Sector Tailwinds
+C462,Mid,Semiconductors,ITA,Technology,4,Global Expansion,Cost Efficiency,Low Customer Churn
+C463,Large,Oil & Gas,JPN,Energy,1,Low Capex,Capital Light Model,Undervalued
+C464,Mid,Tutoring,JPN,Education,3,M&A Potential,High Free Cash Flow,High Growth
+C465,Micro,Tutoring,FRA,Education,1,Dividend Growth,Favorable FX Trends,Cost Efficiency
+C466,Mid,Aerospace,JPN,Industrials,2,Turnaround Plan,New Product Launch,Low Customer Churn
+C467,Small,Travel,USA,Hospitality,4,Improving Margins,Rising Demand,Strong Management
+C468,Micro,Food & Beverage,ITA,Consumer,1,Share Buyback,Growing TAM,Diversified Revenue
+C469,Micro,Oil & Gas,FRA,Energy,1,Global Expansion,Improving Margins,Operational Leverage
+C470,Micro,Metals & Mining,FRA,Materials,1,Share Buyback,Global Expansion,New Product Launch
+C471,Micro,Streaming,FRA,Media,1,Strong Management,Turnaround Plan,Low Customer Churn
+C472,Small,Biotech,FRA,Healthcare,4,Dividend Growth,Strong Brand,Positive Guidance
+C473,Small,Machinery,ITA,Industrials,1,Rising Demand,M&A Potential,Patent Portfolio
+C474,Large,EdTech,ITA,Education,2,Undervalued,M&A Potential,Low Competition
+C475,Mid,Tutoring,FRA,Education,4,Capital Light Model,Global Expansion,Market Leader
+C476,Mid,EdTech,JPN,Education,4,Technological Edge,New Product Launch,Strong Brand
+C477,Micro,Restaurants,USA,Hospitality,1,Share Buyback,Undervalued,Recurring Revenue
+C478,Mid,Broadband,FRA,Telecommunications,3,Improving Margins,Strong Management,Rising Demand
+C479,Small,Aerospace,USA,Industrials,4,Share Buyback,Low Leverage,Low Competition
+C480,Micro,Commercial RE,USA,Real Estate,1,Diversified Revenue,Global Expansion,Favorable FX Trends
+C481,Mid,Chemicals,USA,Materials,4,Strong Management,Low Customer Churn,Regulatory Approval
+C482,Large,Renewables,FRA,Energy,4,Market Leader,M&A Potential,Strong Management
+C483,Large,Institutions,JPN,Education,4,Sector Tailwinds,Low Leverage,Capital Light Model
+C484,Large,Medical Devices,ITA,Healthcare,1,Market Leader,Improving Margins,High Free Cash Flow
+C485,Small,AgTech,JPN,Agriculture,2,Low Customer Churn,Diversified Revenue,Patent Portfolio
+C486,Mid,Pharmaceuticals,FRA,Healthcare,1,Global Expansion,Strong Management,Operational Leverage
+C487,Micro,Hotels,FRA,Hospitality,4,Patent Portfolio,Low Capex,High Growth
+C488,Small,Hotels,JPN,Hospitality,2,New Product Launch,Patent Portfolio,Share Buyback
+C489,Mid,EV Manufacturers,ITA,Automotive,4,Improving Margins,Sector Tailwinds,Operational Leverage
+C490,Micro,Utilities,ITA,Energy,4,Sticky Customers,Diversified Revenue,Low Leverage
+C491,Large,Metals & Mining,FRA,Materials,4,Dividend Growth,Strong Management,Regulatory Approval
+C492,Small,Agribusiness,ITA,Agriculture,3,Low Competition,Undervalued,Experienced Team
+C493,Mid,Agribusiness,ITA,Agriculture,2,Low Leverage,Sticky Customers,Improving Margins
+C494,Micro,Construction,JPN,Industrials,2,High Free Cash Flow,Experienced Team,Undervalued
+C495,Mid,Biotech,ITA,Healthcare,1,Sector Tailwinds,Patent Portfolio,Sticky Customers
+C496,Micro,Agribusiness,JPN,Agriculture,1,Growing TAM,Recurring Revenue,Share Buyback
+C497,Micro,Rail,JPN,Transportation,4,Experienced Team,Operational Leverage,Positive Guidance
+C498,Mid,Asset Management,JPN,Finance,1,Patent Portfolio,Low Capex,New Product Launch
+C499,Micro,OEMs,FRA,Automotive,4,New Product Launch,Low Competition,Global Expansion
+C500,Small,Biotech,ITA,Healthcare,1,New Product Launch,Favorable FX Trends,Global Expansion
+C501,Large,Biotech,ITA,Healthcare,3,Cost Efficiency,Share Buyback,Dividend Growth
+C502,Large,Insurance,JPN,Finance,1,Growing TAM,Patent Portfolio,Undervalued
+C503,Small,Utilities,ITA,Energy,1,M&A Potential,Low Leverage,Sector Tailwinds
+C504,Small,Farming,FRA,Agriculture,4,Improving Margins,Sector Tailwinds,Technological Edge
+C505,Large,Parts Suppliers,FRA,Automotive,3,Low Capex,Low Competition,Regulatory Approval
+C506,Micro,Utilities,USA,Energy,2,M&A Potential,Operational Leverage,Strong Management
+C507,Large,Institutions,FRA,Education,4,Operational Leverage,Share Buyback,Sector Tailwinds
+C508,Micro,Rail,JPN,Transportation,3,Low Leverage,Rising Demand,M&A Potential
+C509,Large,Renewables,USA,Energy,1,Sticky Customers,Recurring Revenue,Experienced Team
+C510,Mid,Streaming,USA,Media,4,Patent Portfolio,Global Expansion,Strong Brand
+C511,Mid,Retail,ITA,Consumer,4,Experienced Team,Technological Edge,Share Buyback
+C512,Large,Pharmaceuticals,FRA,Healthcare,2,Global Expansion,Rising Demand,Sector Tailwinds
+C513,Micro,Pharmaceuticals,JPN,Healthcare,1,Sector Tailwinds,High Growth,Regulatory Approval
+C514,Micro,Pharmaceuticals,FRA,Healthcare,4,Sticky Customers,Capital Light Model,Dividend Growth
+C515,Small,Institutions,USA,Education,4,Low Leverage,Low Capex,Share Buyback
+C516,Micro,Restaurants,FRA,Hospitality,2,Strong Brand,Low Customer Churn,Global Expansion
+C517,Mid,Machinery,FRA,Industrials,4,High Growth,Strong Brand,Undervalued
+C518,Micro,Publishing,FRA,Media,4,New Product Launch,Positive Guidance,Capital Light Model
+C519,Micro,Farming,FRA,Agriculture,3,Sticky Customers,Strong Management,Regulatory Approval
+C520,Micro,Software,FRA,Technology,3,Low Leverage,Favorable FX Trends,High Growth
+C521,Mid,Farming,JPN,Agriculture,4,Positive Guidance,Low Capex,Sector Tailwinds
+C522,Large,Broadcasting,JPN,Media,3,Regulatory Approval,Diversified Revenue,Patent Portfolio
+C523,Mid,Metals & Mining,JPN,Materials,2,Sector Tailwinds,Regulatory Approval,Operational Leverage
+C524,Micro,Utilities,JPN,Energy,4,New Product Launch,Regulatory Approval,M&A Potential
+C525,Large,AgTech,FRA,Agriculture,3,Share Buyback,Undervalued,Technological Edge
+C526,Micro,Banking,JPN,Finance,1,Favorable FX Trends,Experienced Team,Improving Margins
+C527,Large,Publishing,ITA,Media,1,Strong Management,Patent Portfolio,Sticky Customers
+C528,Micro,Food & Beverage,USA,Consumer,3,Recurring Revenue,Rising Demand,Strong Management
+C529,Mid,Tutoring,JPN,Education,1,Sector Tailwinds,Rising Demand,Recurring Revenue
+C530,Large,Broadcasting,JPN,Media,4,Cost Efficiency,Operational Leverage,Share Buyback
+C531,Small,Metals & Mining,ITA,Materials,3,Favorable FX Trends,Patent Portfolio,Improving Margins
+C532,Small,Travel,FRA,Hospitality,4,Diversified Revenue,Market Leader,Operational Leverage
+C533,Micro,Broadcasting,USA,Media,1,Experienced Team,Low Competition,Sector Tailwinds
+C534,Small,AgTech,USA,Agriculture,2,Low Capex,Regulatory Approval,Recurring Revenue
+C535,Large,Publishing,JPN,Media,2,Low Leverage,Share Buyback,Technological Edge
+C536,Large,Broadcasting,USA,Media,1,M&A Potential,Experienced Team,High Growth
+C537,Micro,AgTech,ITA,Agriculture,2,Capital Light Model,Market Leader,Low Customer Churn
+C538,Micro,Logistics,USA,Transportation,3,Growing TAM,Regulatory Approval,Capital Light Model
+C539,Mid,Rail,JPN,Transportation,4,Undervalued,Cost Efficiency,Sticky Customers
+C540,Large,EV Manufacturers,JPN,Automotive,1,Low Capex,Share Buyback,Diversified Revenue
+C541,Micro,Oil & Gas,USA,Energy,3,Share Buyback,Global Expansion,Growing TAM
+C542,Large,Construction,JPN,Industrials,1,Sticky Customers,Share Buyback,New Product Launch
+C543,Large,Insurance,USA,Finance,3,Diversified Revenue,Regulatory Approval,Global Expansion
+C544,Mid,Rail,ITA,Transportation,4,Favorable FX Trends,Market Leader,High Free Cash Flow
+C545,Micro,Insurance,USA,Finance,2,Diversified Revenue,Technological Edge,Growing TAM
+C546,Micro,Chemicals,FRA,Materials,3,Positive Guidance,Capital Light Model,Market Leader
+C547,Micro,Tutoring,JPN,Education,4,Experienced Team,Market Leader,Favorable FX Trends
+C548,Small,Oil & Gas,ITA,Energy,3,Cost Efficiency,Market Leader,Recurring Revenue
+C549,Micro,Agribusiness,USA,Agriculture,4,Sector Tailwinds,Market Leader,Strong Brand
+C550,Micro,Tutoring,JPN,Education,1,M&A Potential,Regulatory Approval,Rising Demand
+C551,Micro,Streaming,FRA,Media,3,Diversified Revenue,Regulatory Approval,Operational Leverage
+C552,Large,Residential RE,ITA,Real Estate,3,High Growth,Regulatory Approval,New Product Launch
+C553,Large,Biotech,FRA,Healthcare,3,Favorable FX Trends,Diversified Revenue,Experienced Team
+C554,Mid,Rail,ITA,Transportation,1,Operational Leverage,M&A Potential,Market Leader
+C555,Mid,EdTech,USA,Education,2,Cost Efficiency,Regulatory Approval,Dividend Growth
+C556,Small,Parts Suppliers,JPN,Automotive,4,Strong Brand,Sticky Customers,Share Buyback
+C557,Mid,Residential RE,JPN,Real Estate,4,High Growth,Improving Margins,Cost Efficiency
+C558,Micro,Oil & Gas,USA,Energy,3,Experienced Team,Positive Guidance,Market Leader
+C559,Mid,Residential RE,USA,Real Estate,3,Favorable FX Trends,Technological Edge,Low Capex
+C560,Small,Agribusiness,FRA,Agriculture,2,Patent Portfolio,Sector Tailwinds,Dividend Growth
+C561,Large,Metals & Mining,ITA,Materials,4,Low Competition,Undervalued,Favorable FX Trends
+C562,Mid,Broadcasting,USA,Media,2,Undervalued,High Growth,Dividend Growth
+C563,Large,Broadcasting,JPN,Media,2,Low Capex,Low Leverage,High Free Cash Flow
+C564,Large,Metals & Mining,USA,Materials,2,Dividend Growth,High Growth,Positive Guidance
+C565,Micro,EdTech,USA,Education,1,Favorable FX Trends,Positive Guidance,Regulatory Approval
+C566,Large,Hotels,JPN,Hospitality,1,Low Leverage,Sector Tailwinds,Dividend Growth
+C567,Micro,Chemicals,USA,Materials,4,Experienced Team,Global Expansion,Strong Brand
+C568,Large,Broadcasting,ITA,Media,4,Diversified Revenue,New Product Launch,Patent Portfolio
+C569,Large,Residential RE,FRA,Real Estate,2,Favorable FX Trends,Strong Brand,Technological Edge
+C570,Large,Aerospace,USA,Industrials,4,Favorable FX Trends,Global Expansion,Growing TAM
+C571,Large,Insurance,USA,Finance,1,Technological Edge,Global Expansion,Strong Brand
+C572,Small,Publishing,ITA,Media,4,Diversified Revenue,Improving Margins,Operational Leverage
+C573,Large,Chemicals,ITA,Materials,1,Market Leader,High Growth,Experienced Team
+C574,Mid,Rail,USA,Transportation,4,Regulatory Approval,Improving Margins,Strong Brand
+C575,Large,Chemicals,USA,Materials,1,Technological Edge,Strong Management,Improving Margins
+C576,Small,Aerospace,USA,Industrials,2,Low Customer Churn,Sector Tailwinds,Low Competition
+C577,Micro,Banking,FRA,Finance,1,High Free Cash Flow,Positive Guidance,Low Leverage
+C578,Large,Broadband,FRA,Telecommunications,4,Strong Management,Sector Tailwinds,Rising Demand
+C579,Micro,Residential RE,FRA,Real Estate,4,Diversified Revenue,Cost Efficiency,Patent Portfolio
+C580,Large,Apparel,USA,Consumer,3,Cost Efficiency,M&A Potential,Sector Tailwinds
+C581,Small,Farming,ITA,Agriculture,2,Capital Light Model,Cost Efficiency,Strong Management
+C582,Small,Hardware,FRA,Technology,1,Undervalued,Technological Edge,Patent Portfolio
+C583,Micro,Broadcasting,USA,Media,2,Cost Efficiency,Recurring Revenue,Patent Portfolio
+C584,Micro,Aerospace,USA,Industrials,3,Recurring Revenue,Cost Efficiency,Low Competition
+C585,Large,Hotels,FRA,Hospitality,4,Growing TAM,Experienced Team,Market Leader
+C586,Mid,Residential RE,USA,Real Estate,1,Technological Edge,Growing TAM,Low Competition
+C587,Micro,EV Manufacturers,FRA,Automotive,3,Favorable FX Trends,Diversified Revenue,Growing TAM
+C588,Small,Residential RE,JPN,Real Estate,4,Strong Management,Strong Brand,Experienced Team
+C589,Small,AgTech,USA,Agriculture,2,Low Capex,Market Leader,Rising Demand
+C590,Micro,Metals & Mining,JPN,Materials,2,Low Capex,Low Customer Churn,Turnaround Plan
+C591,Mid,OEMs,ITA,Automotive,3,Operational Leverage,High Growth,Recurring Revenue
+C592,Micro,Machinery,JPN,Industrials,4,New Product Launch,High Free Cash Flow,Growing TAM
+C593,Micro,Construction,USA,Industrials,2,Improving Margins,Regulatory Approval,High Growth
+C594,Mid,Broadband,ITA,Telecommunications,1,Share Buyback,Low Competition,Dividend Growth
+C595,Mid,Agribusiness,ITA,Agriculture,1,Technological Edge,Patent Portfolio,High Growth
+C596,Micro,Software,FRA,Technology,1,Low Customer Churn,Strong Brand,Dividend Growth
+C597,Mid,Institutions,USA,Education,1,High Growth,Cost Efficiency,Positive Guidance
+C598,Micro,Metals & Mining,FRA,Materials,3,Low Competition,Share Buyback,Growing TAM
+C599,Large,Insurance,ITA,Finance,1,Positive Guidance,Dividend Growth,Recurring Revenue
+C600,Micro,Utilities,USA,Energy,3,Operational Leverage,Rising Demand,New Product Launch
+C601,Micro,Travel,ITA,Hospitality,2,Market Leader,Growing TAM,New Product Launch
+C602,Micro,Logistics,USA,Transportation,2,Improving Margins,Dividend Growth,Global Expansion
+C603,Mid,Tutoring,USA,Education,3,Market Leader,Dividend Growth,Patent Portfolio
+C604,Mid,Hardware,USA,Technology,2,Technological Edge,Patent Portfolio,M&A Potential
+C605,Micro,Broadband,USA,Telecommunications,4,Positive Guidance,New Product Launch,Favorable FX Trends
+C606,Small,Residential RE,USA,Real Estate,3,Operational Leverage,Improving Margins,Patent Portfolio
+C607,Large,Hotels,USA,Hospitality,4,Regulatory Approval,Recurring Revenue,Favorable FX Trends
+C608,Small,Streaming,JPN,Media,4,Sticky Customers,Regulatory Approval,Recurring Revenue
+C609,Large,Commercial RE,FRA,Real Estate,3,Low Competition,New Product Launch,Cost Efficiency
+C610,Small,Medical Devices,FRA,Healthcare,1,Recurring Revenue,New Product Launch,Experienced Team
+C611,Large,Pharmaceuticals,JPN,Healthcare,3,Experienced Team,Favorable FX Trends,Market Leader
+C612,Mid,Metals & Mining,ITA,Materials,1,Market Leader,M&A Potential,Strong Brand
+C613,Large,Institutions,JPN,Education,1,Dividend Growth,Diversified Revenue,Low Customer Churn
+C614,Mid,Apparel,JPN,Consumer,1,Global Expansion,Sticky Customers,New Product Launch
+C615,Small,Apparel,FRA,Consumer,3,Sector Tailwinds,Patent Portfolio,Growing TAM
+C616,Small,Oil & Gas,JPN,Energy,3,Recurring Revenue,Turnaround Plan,Capital Light Model
+C617,Micro,Medical Devices,JPN,Healthcare,4,High Growth,Positive Guidance,Improving Margins
+C618,Mid,Software,FRA,Technology,4,Low Customer Churn,Global Expansion,Undervalued
+C619,Small,Airlines,FRA,Transportation,3,High Growth,Positive Guidance,New Product Launch
+C620,Large,OEMs,USA,Automotive,4,Growing TAM,Capital Light Model,Market Leader
+C621,Large,Insurance,FRA,Finance,1,Share Buyback,Market Leader,Strong Management
+C622,Small,Insurance,ITA,Finance,2,Experienced Team,Low Competition,Favorable FX Trends
+C623,Small,Institutions,ITA,Education,3,Operational Leverage,Capital Light Model,Low Leverage
+C624,Large,Insurance,JPN,Finance,4,Strong Management,High Growth,Technological Edge
+C625,Small,Hotels,FRA,Hospitality,1,Operational Leverage,Experienced Team,New Product Launch
+C626,Small,Medical Devices,FRA,Healthcare,4,Operational Leverage,Cost Efficiency,Low Leverage
+C627,Large,Biotech,USA,Healthcare,4,Rising Demand,Undervalued,Sticky Customers
+C628,Mid,AgTech,USA,Agriculture,4,Share Buyback,Diversified Revenue,Capital Light Model
+C629,Mid,Oil & Gas,ITA,Energy,2,Low Competition,Low Leverage,Diversified Revenue
+C630,Small,Tutoring,USA,Education,2,Rising Demand,M&A Potential,Cost Efficiency
+C631,Large,Commercial RE,FRA,Real Estate,3,Improving Margins,Share Buyback,New Product Launch
+C632,Large,Publishing,ITA,Media,3,Market Leader,Cost Efficiency,Positive Guidance
+C633,Small,Insurance,ITA,Finance,4,Sticky Customers,Share Buyback,Low Customer Churn
+C634,Mid,Publishing,JPN,Media,2,Operational Leverage,Sticky Customers,Share Buyback
+C635,Large,Airlines,JPN,Transportation,4,Rising Demand,Favorable FX Trends,Capital Light Model
+C636,Micro,Parts Suppliers,ITA,Automotive,4,Diversified Revenue,Rising Demand,Cost Efficiency
+C637,Large,Institutions,USA,Education,1,Regulatory Approval,Cost Efficiency,Strong Management
+C638,Large,Hardware,JPN,Technology,2,Recurring Revenue,Strong Brand,M&A Potential
+C639,Large,Renewables,FRA,Energy,4,Low Competition,High Free Cash Flow,Regulatory Approval
+C640,Micro,Agribusiness,USA,Agriculture,2,Undervalued,High Growth,Rising Demand
+C641,Small,Commercial RE,USA,Real Estate,2,Regulatory Approval,Strong Management,Low Capex
+C642,Micro,Rail,ITA,Transportation,4,Improving Margins,Undervalued,Share Buyback
+C643,Mid,Agribusiness,FRA,Agriculture,1,Strong Brand,Global Expansion,Low Leverage
+C644,Small,Packaging,ITA,Materials,2,Low Customer Churn,Technological Edge,Strong Management
+C645,Small,Institutions,FRA,Education,1,Sticky Customers,M&A Potential,Share Buyback
+C646,Micro,Hardware,ITA,Technology,3,Sector Tailwinds,Regulatory Approval,Low Leverage
+C647,Large,EdTech,USA,Education,4,Low Capex,Low Customer Churn,Market Leader
+C648,Large,Agribusiness,JPN,Agriculture,1,Regulatory Approval,Share Buyback,Capital Light Model
+C649,Micro,Publishing,USA,Media,3,New Product Launch,Improving Margins,Low Competition
+C650,Micro,Apparel,USA,Consumer,3,Sector Tailwinds,Sticky Customers,Market Leader
+C651,Mid,Restaurants,USA,Hospitality,2,Sector Tailwinds,Growing TAM,High Free Cash Flow
+C652,Micro,EdTech,FRA,Education,4,Turnaround Plan,Growing TAM,Low Competition
+C653,Micro,Semiconductors,JPN,Technology,4,Global Expansion,Undervalued,Sticky Customers
+C654,Mid,Pharmaceuticals,ITA,Healthcare,4,Operational Leverage,Low Capex,Cost Efficiency
+C655,Mid,Tutoring,USA,Education,3,Low Leverage,Cost Efficiency,Growing TAM
+C656,Micro,Food & Beverage,FRA,Consumer,3,Regulatory Approval,Market Leader,Diversified Revenue
+C657,Mid,Tutoring,JPN,Education,2,Turnaround Plan,Strong Brand,New Product Launch
+C658,Mid,Institutions,ITA,Education,2,Growing TAM,Undervalued,Favorable FX Trends
+C659,Large,Biotech,ITA,Healthcare,3,Turnaround Plan,Recurring Revenue,High Free Cash Flow
+C660,Large,Software,JPN,Technology,3,Technological Edge,Improving Margins,Experienced Team
+C661,Large,Farming,USA,Agriculture,3,Favorable FX Trends,High Growth,Low Capex
+C662,Micro,Asset Management,JPN,Finance,2,Low Leverage,Patent Portfolio,Low Competition
+C663,Mid,Broadband,USA,Telecommunications,2,High Growth,Low Leverage,Low Capex
+C664,Mid,Machinery,JPN,Industrials,2,Diversified Revenue,Low Competition,Global Expansion
+C665,Small,Tutoring,JPN,Education,2,High Growth,Rising Demand,Growing TAM
+C666,Large,Tutoring,JPN,Education,4,Low Capex,Growing TAM,Favorable FX Trends
+C667,Mid,Parts Suppliers,JPN,Automotive,1,Diversified Revenue,Market Leader,M&A Potential
+C668,Mid,Broadband,ITA,Telecommunications,3,High Free Cash Flow,Market Leader,Low Leverage
+C669,Mid,Commercial RE,FRA,Real Estate,3,Sector Tailwinds,Low Competition,Technological Edge
+C670,Large,Rail,USA,Transportation,4,Technological Edge,High Free Cash Flow,Strong Management
+C671,Small,Restaurants,USA,Hospitality,2,Regulatory Approval,Operational Leverage,Dividend Growth
+C672,Small,Medical Devices,USA,Healthcare,3,Rising Demand,Low Customer Churn,Cost Efficiency
+C673,Large,Tutoring,USA,Education,4,Sector Tailwinds,Global Expansion,Dividend Growth
+C674,Small,Broadband,JPN,Telecommunications,2,Operational Leverage,Market Leader,New Product Launch
+C675,Small,Agribusiness,ITA,Agriculture,1,Share Buyback,Favorable FX Trends,Global Expansion
+C676,Micro,EV Manufacturers,FRA,Automotive,4,Positive Guidance,Regulatory Approval,High Growth
+C677,Small,Airlines,JPN,Transportation,2,Technological Edge,Dividend Growth,Global Expansion
+C678,Small,Tutoring,FRA,Education,2,Positive Guidance,Capital Light Model,Sticky Customers
+C679,Micro,OEMs,ITA,Automotive,4,Strong Management,Low Capex,Regulatory Approval
+C680,Micro,Institutions,FRA,Education,2,Strong Brand,Undervalued,Diversified Revenue
+C681,Mid,Banking,FRA,Finance,1,Global Expansion,Operational Leverage,Growing TAM
+C682,Small,Hardware,JPN,Technology,1,Global Expansion,M&A Potential,Regulatory Approval
+C683,Large,EdTech,ITA,Education,2,Strong Management,Growing TAM,Rising Demand
+C684,Small,Insurance,JPN,Finance,4,Low Competition,Rising Demand,Low Capex
+C685,Micro,Renewables,ITA,Energy,1,Share Buyback,Low Capex,Technological Edge
+C686,Micro,Pharmaceuticals,USA,Healthcare,3,Share Buyback,Low Customer Churn,Sector Tailwinds
+C687,Small,Publishing,USA,Media,4,Experienced Team,Low Competition,Favorable FX Trends
+C688,Mid,Aerospace,ITA,Industrials,4,Global Expansion,Rising Demand,Low Competition
+C689,Mid,Broadcasting,JPN,Media,3,Strong Management,Improving Margins,Favorable FX Trends
+C690,Mid,Semiconductors,ITA,Technology,4,Operational Leverage,Share Buyback,New Product Launch
+C691,Micro,Chemicals,JPN,Materials,1,Strong Brand,High Free Cash Flow,Global Expansion
+C692,Mid,Tutoring,USA,Education,1,Regulatory Approval,Undervalued,Growing TAM
+C693,Mid,Metals & Mining,ITA,Materials,1,Turnaround Plan,Growing TAM,New Product Launch
+C694,Micro,OEMs,FRA,Automotive,2,Share Buyback,Strong Management,Dividend Growth
+C695,Micro,Hotels,JPN,Hospitality,2,Rising Demand,High Growth,M&A Potential
+C696,Micro,Streaming,FRA,Media,1,New Product Launch,Low Customer Churn,Dividend Growth
+C697,Micro,Tutoring,FRA,Education,2,Share Buyback,High Free Cash Flow,Favorable FX Trends
+C698,Small,Chemicals,USA,Materials,3,Growing TAM,Sticky Customers,High Growth
+C699,Micro,Parts Suppliers,JPN,Automotive,1,Operational Leverage,New Product Launch,Recurring Revenue
+C700,Small,Packaging,USA,Materials,3,Regulatory Approval,Strong Brand,Cost Efficiency
+C701,Mid,OEMs,ITA,Automotive,3,Favorable FX Trends,Improving Margins,Dividend Growth
+C702,Micro,Medical Devices,USA,Healthcare,2,Recurring Revenue,Operational Leverage,High Growth
+C703,Mid,Retail,FRA,Consumer,2,Growing TAM,Favorable FX Trends,Sticky Customers
+C704,Large,Software,FRA,Technology,3,Cost Efficiency,Low Capex,Share Buyback
+C705,Mid,Logistics,JPN,Transportation,2,Global Expansion,Share Buyback,Regulatory Approval
+C706,Micro,Commercial RE,ITA,Real Estate,4,Strong Management,Experienced Team,Dividend Growth
+C707,Large,Food & Beverage,USA,Consumer,1,M&A Potential,Undervalued,Technological Edge
+C708,Large,Commercial RE,USA,Real Estate,2,New Product Launch,High Growth,Technological Edge
+C709,Mid,Institutions,ITA,Education,3,Capital Light Model,Regulatory Approval,Recurring Revenue
+C710,Small,Agribusiness,ITA,Agriculture,2,Patent Portfolio,New Product Launch,Share Buyback
+C711,Large,Farming,FRA,Agriculture,2,Recurring Revenue,Turnaround Plan,Growing TAM
+C712,Small,AgTech,FRA,Agriculture,2,Positive Guidance,Low Capex,Regulatory Approval
+C713,Large,Institutions,ITA,Education,4,Technological Edge,Strong Brand,High Free Cash Flow
+C714,Large,EdTech,FRA,Education,2,Sticky Customers,Recurring Revenue,New Product Launch
+C715,Large,Parts Suppliers,JPN,Automotive,2,Technological Edge,Global Expansion,Turnaround Plan
+C716,Mid,Insurance,USA,Finance,4,Rising Demand,New Product Launch,Low Competition
+C717,Mid,Biotech,JPN,Healthcare,2,Patent Portfolio,Sector Tailwinds,Sticky Customers
+C718,Mid,Banking,USA,Finance,2,Turnaround Plan,Recurring Revenue,Technological Edge
+C719,Large,Wireless Services,JPN,Telecommunications,1,Cost Efficiency,Capital Light Model,Diversified Revenue
+C720,Small,Residential RE,USA,Real Estate,2,Cost Efficiency,Operational Leverage,Experienced Team
+C721,Small,EV Manufacturers,FRA,Automotive,3,Strong Brand,Low Capex,Diversified Revenue
+C722,Mid,AgTech,FRA,Agriculture,3,Market Leader,Share Buyback,Cost Efficiency
+C723,Mid,EdTech,FRA,Education,1,High Growth,Strong Brand,Sticky Customers
+C724,Mid,Farming,JPN,Agriculture,1,Low Leverage,Strong Management,Technological Edge
+C725,Micro,Agribusiness,JPN,Agriculture,4,Rising Demand,Growing TAM,Diversified Revenue
+C726,Mid,Wireless Services,JPN,Telecommunications,1,Diversified Revenue,Operational Leverage,Technological Edge
+C727,Small,Publishing,USA,Media,4,Strong Brand,Rising Demand,Undervalued
+C728,Small,Travel,JPN,Hospitality,3,Rising Demand,Market Leader,High Growth
+C729,Small,Semiconductors,FRA,Technology,2,Sector Tailwinds,Dividend Growth,Low Customer Churn
+C730,Small,Food & Beverage,JPN,Consumer,3,Low Capex,Favorable FX Trends,Recurring Revenue
+C731,Micro,Packaging,FRA,Materials,3,Favorable FX Trends,New Product Launch,Dividend Growth
+C732,Micro,Software,JPN,Technology,3,Sticky Customers,Cost Efficiency,Sector Tailwinds
+C733,Micro,Machinery,USA,Industrials,4,Global Expansion,Low Leverage,Strong Brand
+C734,Mid,Streaming,JPN,Media,3,Capital Light Model,Operational Leverage,Low Leverage
+C735,Large,Pharmaceuticals,FRA,Healthcare,4,Growing TAM,Turnaround Plan,Improving Margins
+C736,Mid,Utilities,USA,Energy,2,Cost Efficiency,Technological Edge,Rising Demand
+C737,Large,Biotech,ITA,Healthcare,4,New Product Launch,Regulatory Approval,Market Leader
+C738,Large,Food & Beverage,FRA,Consumer,4,High Free Cash Flow,Rising Demand,Low Customer Churn
+C739,Micro,Rail,FRA,Transportation,1,Global Expansion,M&A Potential,Share Buyback
+C740,Small,Institutions,USA,Education,3,Strong Brand,Sector Tailwinds,Capital Light Model
+C741,Mid,Asset Management,JPN,Finance,1,Regulatory Approval,High Growth,Diversified Revenue
+C742,Micro,Medical Devices,FRA,Healthcare,2,Positive Guidance,Growing TAM,Low Competition
+C743,Mid,AgTech,FRA,Agriculture,2,Patent Portfolio,Low Competition,High Free Cash Flow
+C744,Small,Tutoring,ITA,Education,1,Market Leader,Low Capex,Low Leverage
+C745,Micro,Institutions,ITA,Education,4,Undervalued,Cost Efficiency,Experienced Team
+C746,Mid,Insurance,JPN,Finance,4,Market Leader,Capital Light Model,Turnaround Plan
+C747,Micro,Institutions,ITA,Education,3,Low Competition,New Product Launch,Turnaround Plan
+C748,Large,Utilities,USA,Energy,2,High Growth,Diversified Revenue,M&A Potential
+C749,Large,Renewables,ITA,Energy,4,Experienced Team,M&A Potential,Dividend Growth
+C750,Micro,Commercial RE,FRA,Real Estate,3,Positive Guidance,Market Leader,Undervalued
+C751,Large,Travel,USA,Hospitality,1,Regulatory Approval,Global Expansion,High Growth
+C752,Large,Oil & Gas,ITA,Energy,4,Low Customer Churn,High Growth,Low Capex
+C753,Micro,Logistics,USA,Transportation,4,High Growth,Experienced Team,Operational Leverage
+C754,Small,Metals & Mining,FRA,Materials,1,Favorable FX Trends,Cost Efficiency,Positive Guidance
+C755,Mid,Farming,ITA,Agriculture,1,Recurring Revenue,Positive Guidance,Rising Demand
+C756,Large,Restaurants,USA,Hospitality,1,Growing TAM,Diversified Revenue,Low Competition
+C757,Mid,Oil & Gas,JPN,Energy,2,High Free Cash Flow,Operational Leverage,Regulatory Approval
+C758,Micro,Parts Suppliers,FRA,Automotive,4,Global Expansion,Rising Demand,Experienced Team
+C759,Micro,Restaurants,FRA,Hospitality,2,Growing TAM,Low Customer Churn,Cost Efficiency
+C760,Micro,Airlines,JPN,Transportation,4,Global Expansion,New Product Launch,High Growth
+C761,Mid,Farming,FRA,Agriculture,2,Dividend Growth,Low Customer Churn,Market Leader
+C762,Micro,Hardware,ITA,Technology,3,Operational Leverage,Cost Efficiency,Global Expansion
+C763,Small,Parts Suppliers,ITA,Automotive,4,Strong Brand,Sector Tailwinds,Low Capex
+C764,Mid,Software,USA,Technology,3,Patent Portfolio,Low Capex,Technological Edge
+C765,Micro,Aerospace,USA,Industrials,1,Low Customer Churn,Experienced Team,Sector Tailwinds
+C766,Micro,Publishing,FRA,Media,1,Sector Tailwinds,Low Leverage,Sticky Customers
+C767,Micro,OEMs,JPN,Automotive,2,Favorable FX Trends,Sector Tailwinds,Share Buyback
+C768,Mid,Banking,FRA,Finance,3,Sticky Customers,Cost Efficiency,High Growth
+C769,Small,Tutoring,USA,Education,4,Positive Guidance,Sector Tailwinds,High Growth
+C770,Small,Logistics,USA,Transportation,4,Technological Edge,Share Buyback,Favorable FX Trends
+C771,Small,Packaging,USA,Materials,2,Cost Efficiency,Improving Margins,Dividend Growth
+C772,Micro,Agribusiness,ITA,Agriculture,1,High Growth,Growing TAM,Low Capex
+C773,Micro,Hardware,FRA,Technology,3,Undervalued,Diversified Revenue,Rising Demand
+C774,Micro,Machinery,FRA,Industrials,3,Low Leverage,Recurring Revenue,Turnaround Plan
+C775,Micro,Airlines,ITA,Transportation,3,Improving Margins,Favorable FX Trends,Regulatory Approval
+C776,Small,Chemicals,FRA,Materials,3,Sticky Customers,Low Leverage,High Growth
+C777,Large,Streaming,JPN,Media,1,Patent Portfolio,Recurring Revenue,Regulatory Approval
+C778,Mid,Software,JPN,Technology,4,Share Buyback,Low Capex,Low Customer Churn
+C779,Large,EV Manufacturers,ITA,Automotive,3,Growing TAM,Capital Light Model,Turnaround Plan
+C780,Small,Commercial RE,USA,Real Estate,3,Favorable FX Trends,Undervalued,Rising Demand
+C781,Small,Institutions,USA,Education,4,Operational Leverage,High Free Cash Flow,Experienced Team
+C782,Mid,Hardware,FRA,Technology,3,New Product Launch,Positive Guidance,Low Capex
+C783,Mid,Airlines,JPN,Transportation,3,Patent Portfolio,Rising Demand,Regulatory Approval
+C784,Mid,Agribusiness,USA,Agriculture,2,Improving Margins,Dividend Growth,Positive Guidance
+C785,Large,Oil & Gas,ITA,Energy,4,Low Competition,Rising Demand,High Free Cash Flow
+C786,Mid,Metals & Mining,ITA,Materials,1,Diversified Revenue,Cost Efficiency,Patent Portfolio
+C787,Small,Renewables,JPN,Energy,1,Recurring Revenue,Favorable FX Trends,Undervalued
+C788,Micro,Renewables,JPN,Energy,3,Positive Guidance,Operational Leverage,Recurring Revenue
+C789,Mid,Broadband,FRA,Telecommunications,3,Cost Efficiency,Global Expansion,Patent Portfolio
+C790,Small,Logistics,USA,Transportation,3,Undervalued,Sector Tailwinds,Strong Management
+C791,Mid,Chemicals,ITA,Materials,1,Experienced Team,Regulatory Approval,Technological Edge
+C792,Small,AgTech,JPN,Agriculture,3,Low Competition,Low Customer Churn,Sticky Customers
+C793,Small,Hotels,ITA,Hospitality,1,Low Capex,Cost Efficiency,Diversified Revenue
+C794,Micro,Aerospace,FRA,Industrials,1,Patent Portfolio,Sticky Customers,New Product Launch
+C795,Small,Farming,JPN,Agriculture,3,Undervalued,Share Buyback,Global Expansion
+C796,Large,Agribusiness,ITA,Agriculture,1,Share Buyback,Low Capex,Recurring Revenue
+C797,Small,Tutoring,FRA,Education,1,Turnaround Plan,Capital Light Model,Experienced Team
+C798,Mid,Travel,ITA,Hospitality,4,Low Leverage,New Product Launch,Turnaround Plan
+C799,Mid,Hotels,ITA,Hospitality,2,High Free Cash Flow,Regulatory Approval,Recurring Revenue
+C800,Large,Hardware,USA,Technology,3,Dividend Growth,High Growth,Strong Brand
+C801,Micro,Tutoring,JPN,Education,4,Market Leader,Low Leverage,Global Expansion
+C802,Large,Streaming,USA,Media,4,M&A Potential,Global Expansion,Market Leader
+C803,Micro,Farming,ITA,Agriculture,4,Positive Guidance,Diversified Revenue,Low Capex
+C804,Micro,Insurance,ITA,Finance,4,Market Leader,High Free Cash Flow,Low Leverage
+C805,Small,Tutoring,USA,Education,4,Experienced Team,Recurring Revenue,M&A Potential
+C806,Micro,Parts Suppliers,FRA,Automotive,2,Rising Demand,Operational Leverage,Sector Tailwinds
+C807,Small,Biotech,ITA,Healthcare,2,Global Expansion,Cost Efficiency,Rising Demand
+C808,Mid,Hardware,ITA,Technology,3,Technological Edge,Cost Efficiency,Turnaround Plan
+C809,Large,Institutions,FRA,Education,4,Strong Brand,Experienced Team,Improving Margins
+C810,Large,Streaming,USA,Media,4,Strong Management,Sticky Customers,Undervalued
+C811,Mid,Metals & Mining,FRA,Materials,3,Dividend Growth,Strong Brand,Favorable FX Trends
+C812,Micro,Construction,USA,Industrials,2,New Product Launch,Strong Brand,Market Leader
+C813,Micro,Metals & Mining,FRA,Materials,1,M&A Potential,Experienced Team,Strong Management
+C814,Small,EdTech,ITA,Education,1,Regulatory Approval,Low Competition,Low Leverage
+C815,Micro,Insurance,JPN,Finance,2,Rising Demand,New Product Launch,Cost Efficiency
+C816,Large,Commercial RE,JPN,Real Estate,4,Diversified Revenue,Operational Leverage,Positive Guidance
+C817,Mid,Metals & Mining,ITA,Materials,3,Low Leverage,Favorable FX Trends,M&A Potential
+C818,Small,Rail,ITA,Transportation,2,High Growth,Diversified Revenue,Favorable FX Trends
+C819,Micro,Retail,FRA,Consumer,2,High Free Cash Flow,Capital Light Model,Rising Demand
+C820,Micro,Medical Devices,JPN,Healthcare,1,Strong Management,Recurring Revenue,M&A Potential
+C821,Large,Renewables,USA,Energy,3,Market Leader,Patent Portfolio,Dividend Growth
+C822,Small,Wireless Services,ITA,Telecommunications,4,Capital Light Model,Operational Leverage,Experienced Team
+C823,Small,EdTech,USA,Education,3,Sticky Customers,Rising Demand,High Growth
+C824,Small,Farming,ITA,Agriculture,4,Capital Light Model,Patent Portfolio,Technological Edge
+C825,Large,Software,FRA,Technology,4,Global Expansion,Strong Management,Share Buyback
+C826,Micro,Metals & Mining,ITA,Materials,2,Sector Tailwinds,Global Expansion,Low Leverage
+C827,Large,EdTech,JPN,Education,4,Low Customer Churn,Undervalued,Global Expansion
+C828,Mid,Hardware,ITA,Technology,4,Dividend Growth,Growing TAM,Diversified Revenue
+C829,Micro,Packaging,USA,Materials,1,High Growth,Strong Management,Improving Margins
+C830,Small,Utilities,ITA,Energy,4,Operational Leverage,Low Leverage,Global Expansion
+C831,Small,Parts Suppliers,FRA,Automotive,4,Dividend Growth,Recurring Revenue,Sector Tailwinds
+C832,Mid,Medical Devices,FRA,Healthcare,4,Low Leverage,Undervalued,Market Leader
+C833,Mid,Airlines,USA,Transportation,4,High Free Cash Flow,Sticky Customers,Diversified Revenue
+C834,Small,Chemicals,FRA,Materials,1,Operational Leverage,Technological Edge,Global Expansion
+C835,Mid,Rail,JPN,Transportation,2,Positive Guidance,Undervalued,Low Competition
+C836,Large,Publishing,JPN,Media,2,Undervalued,Operational Leverage,Diversified Revenue
+C837,Mid,Asset Management,FRA,Finance,1,Strong Management,Dividend Growth,Growing TAM
+C838,Micro,Oil & Gas,FRA,Energy,4,Capital Light Model,Growing TAM,Sector Tailwinds
+C839,Small,Apparel,JPN,Consumer,1,New Product Launch,Market Leader,Patent Portfolio
+C840,Large,Asset Management,USA,Finance,2,Improving Margins,Sticky Customers,Rising Demand
+C841,Large,Food & Beverage,FRA,Consumer,1,Strong Management,Capital Light Model,High Free Cash Flow
+C842,Large,Wireless Services,JPN,Telecommunications,2,Turnaround Plan,Experienced Team,Undervalued
+C843,Micro,Broadband,ITA,Telecommunications,3,Undervalued,Capital Light Model,Sector Tailwinds
+C844,Small,Airlines,USA,Transportation,4,Patent Portfolio,Low Capex,New Product Launch
+C845,Small,Metals & Mining,JPN,Materials,1,Rising Demand,Dividend Growth,M&A Potential
+C846,Mid,Metals & Mining,FRA,Materials,2,Experienced Team,Growing TAM,Regulatory Approval
+C847,Large,Biotech,USA,Healthcare,4,Patent Portfolio,Sector Tailwinds,Low Capex
+C848,Small,EV Manufacturers,FRA,Automotive,4,Growing TAM,Strong Management,Favorable FX Trends
+C849,Micro,Commercial RE,USA,Real Estate,1,Improving Margins,Low Customer Churn,Global Expansion
+C850,Mid,Retail,FRA,Consumer,4,Rising Demand,Regulatory Approval,Sector Tailwinds
+C851,Mid,EV Manufacturers,ITA,Automotive,4,Patent Portfolio,Improving Margins,Dividend Growth
+C852,Micro,Renewables,JPN,Energy,4,Low Leverage,Sticky Customers,Undervalued
+C853,Large,Metals & Mining,USA,Materials,1,Low Competition,Market Leader,Strong Brand
+C854,Micro,Wireless Services,USA,Telecommunications,3,Growing TAM,Dividend Growth,Low Customer Churn
+C855,Micro,EdTech,ITA,Education,3,Global Expansion,Sector Tailwinds,Dividend Growth
+C856,Micro,Institutions,USA,Education,2,Technological Edge,Low Leverage,Dividend Growth
+C857,Small,Utilities,USA,Energy,3,Dividend Growth,Improving Margins,Positive Guidance
+C858,Small,OEMs,JPN,Automotive,4,Recurring Revenue,Dividend Growth,Rising Demand
+C859,Large,Asset Management,JPN,Finance,4,Growing TAM,Dividend Growth,Strong Brand
+C860,Micro,Hardware,USA,Technology,4,Technological Edge,Dividend Growth,High Growth
+C861,Micro,Residential RE,FRA,Real Estate,1,Dividend Growth,Favorable FX Trends,Share Buyback
+C862,Mid,Semiconductors,JPN,Technology,1,High Growth,Low Customer Churn,Improving Margins
+C863,Small,Residential RE,JPN,Real Estate,4,Sticky Customers,Operational Leverage,Improving Margins
+C864,Small,Hardware,ITA,Technology,4,Technological Edge,Turnaround Plan,Low Capex
+C865,Small,Asset Management,USA,Finance,1,M&A Potential,Sticky Customers,Share Buyback
+C866,Large,Insurance,USA,Finance,3,Favorable FX Trends,Global Expansion,Operational Leverage
+C867,Micro,Wireless Services,ITA,Telecommunications,3,New Product Launch,Experienced Team,Strong Brand
+C868,Large,Renewables,USA,Energy,3,Technological Edge,Sector Tailwinds,Market Leader
+C869,Micro,Software,ITA,Technology,3,Improving Margins,Turnaround Plan,Recurring Revenue
+C870,Large,EV Manufacturers,JPN,Automotive,3,Undervalued,Cost Efficiency,Patent Portfolio
+C871,Large,AgTech,FRA,Agriculture,3,Low Leverage,Diversified Revenue,Favorable FX Trends
+C872,Large,Pharmaceuticals,ITA,Healthcare,3,New Product Launch,Recurring Revenue,Diversified Revenue
+C873,Mid,Food & Beverage,ITA,Consumer,2,Low Leverage,Dividend Growth,Patent Portfolio
+C874,Mid,Hotels,ITA,Hospitality,1,Turnaround Plan,High Free Cash Flow,Experienced Team
+C875,Mid,Institutions,ITA,Education,4,Rising Demand,Sticky Customers,M&A Potential
+C876,Small,Apparel,USA,Consumer,2,Low Competition,Strong Management,Turnaround Plan
+C877,Mid,Semiconductors,FRA,Technology,4,Capital Light Model,M&A Potential,Improving Margins
+C878,Mid,Food & Beverage,ITA,Consumer,2,Strong Brand,Favorable FX Trends,Improving Margins
+C879,Small,Rail,FRA,Transportation,1,Recurring Revenue,Low Leverage,New Product Launch
+C880,Small,Biotech,ITA,Healthcare,2,Cost Efficiency,Favorable FX Trends,Growing TAM
+C881,Large,Logistics,USA,Transportation,4,Capital Light Model,Diversified Revenue,Patent Portfolio
+C882,Small,Pharmaceuticals,FRA,Healthcare,1,Favorable FX Trends,Low Competition,Sector Tailwinds
+C883,Small,EdTech,FRA,Education,1,Patent Portfolio,Low Capex,Experienced Team
+C884,Large,Apparel,JPN,Consumer,1,Low Competition,Capital Light Model,Undervalued
+C885,Mid,Pharmaceuticals,ITA,Healthcare,3,Share Buyback,Technological Edge,Strong Brand
+C886,Large,Hardware,USA,Technology,4,Improving Margins,Cost Efficiency,M&A Potential
+C887,Large,Renewables,FRA,Energy,3,Global Expansion,Undervalued,Low Customer Churn
+C888,Large,Construction,FRA,Industrials,2,Turnaround Plan,Sticky Customers,Low Leverage
+C889,Large,Asset Management,ITA,Finance,3,Cost Efficiency,Low Capex,Turnaround Plan
+C890,Large,Agribusiness,USA,Agriculture,2,Positive Guidance,Operational Leverage,Market Leader
+C891,Micro,Medical Devices,ITA,Healthcare,3,Sticky Customers,Strong Management,High Growth
+C892,Small,Banking,FRA,Finance,3,Strong Brand,Low Capex,New Product Launch
+C893,Small,Oil & Gas,JPN,Energy,4,New Product Launch,Low Customer Churn,Technological Edge
+C894,Large,Retail,USA,Consumer,4,Undervalued,Technological Edge,Strong Brand
+C895,Large,Biotech,JPN,Healthcare,2,Low Capex,Diversified Revenue,Growing TAM
+C896,Small,Aerospace,USA,Industrials,2,Patent Portfolio,Improving Margins,Dividend Growth
+C897,Micro,Packaging,JPN,Materials,1,Turnaround Plan,Experienced Team,Cost Efficiency
+C898,Mid,EdTech,USA,Education,3,Diversified Revenue,Improving Margins,Positive Guidance
+C899,Mid,Logistics,JPN,Transportation,4,Positive Guidance,Global Expansion,Undervalued
+C900,Micro,Insurance,JPN,Finance,3,M&A Potential,Rising Demand,Low Competition
+C901,Large,Semiconductors,ITA,Technology,4,Low Capex,Low Customer Churn,Patent Portfolio
+C902,Small,Tutoring,FRA,Education,1,Sector Tailwinds,Strong Management,High Growth
+C903,Mid,Apparel,FRA,Consumer,1,Technological Edge,Recurring Revenue,Dividend Growth
+C904,Small,Metals & Mining,ITA,Materials,3,High Growth,Market Leader,Low Leverage
+C905,Large,Software,USA,Technology,3,Patent Portfolio,Market Leader,Technological Edge
+C906,Small,Farming,ITA,Agriculture,2,Regulatory Approval,Strong Management,Favorable FX Trends
+C907,Small,Retail,FRA,Consumer,2,Strong Management,Sector Tailwinds,Global Expansion
+C908,Mid,Logistics,ITA,Transportation,1,Cost Efficiency,Low Customer Churn,Diversified Revenue
+C909,Mid,Packaging,ITA,Materials,1,Low Capex,Diversified Revenue,Share Buyback
+C910,Small,Aerospace,JPN,Industrials,1,Rising Demand,Low Competition,Share Buyback
+C911,Micro,Hardware,JPN,Technology,2,Positive Guidance,M&A Potential,Recurring Revenue
+C912,Mid,Biotech,ITA,Healthcare,1,Growing TAM,Rising Demand,Sector Tailwinds
+C913,Mid,Semiconductors,FRA,Technology,3,Growing TAM,Improving Margins,Capital Light Model
+C914,Large,Airlines,JPN,Transportation,3,Experienced Team,Positive Guidance,Market Leader
+C915,Large,Publishing,JPN,Media,1,Regulatory Approval,Sector Tailwinds,Growing TAM
+C916,Mid,Chemicals,ITA,Materials,2,Sector Tailwinds,Operational Leverage,Experienced Team
+C917,Micro,Construction,ITA,Industrials,2,Regulatory Approval,Diversified Revenue,Operational Leverage
+C918,Large,Biotech,USA,Healthcare,4,Undervalued,Rising Demand,M&A Potential
+C919,Large,Aerospace,ITA,Industrials,4,Low Customer Churn,Global Expansion,Dividend Growth
+C920,Large,Food & Beverage,USA,Consumer,2,Share Buyback,Sticky Customers,Low Competition
+C921,Mid,Broadcasting,FRA,Media,4,Patent Portfolio,Growing TAM,Regulatory Approval
+C922,Micro,Construction,USA,Industrials,4,Low Capex,Sticky Customers,Recurring Revenue
+C923,Small,Construction,FRA,Industrials,2,Undervalued,Technological Edge,New Product Launch
+C924,Micro,Insurance,FRA,Finance,4,Undervalued,Sticky Customers,Low Customer Churn
+C925,Micro,Construction,FRA,Industrials,3,Favorable FX Trends,M&A Potential,Diversified Revenue
+C926,Large,Residential RE,ITA,Real Estate,3,Recurring Revenue,Dividend Growth,Undervalued
+C927,Micro,Software,FRA,Technology,4,Recurring Revenue,Undervalued,Positive Guidance
+C928,Mid,Insurance,ITA,Finance,4,Low Competition,Favorable FX Trends,M&A Potential
+C929,Mid,Broadcasting,FRA,Media,4,Recurring Revenue,Operational Leverage,Turnaround Plan
+C930,Mid,Publishing,USA,Media,3,Operational Leverage,Positive Guidance,New Product Launch
+C931,Micro,Restaurants,FRA,Hospitality,1,Sector Tailwinds,Experienced Team,Growing TAM
+C932,Small,Hotels,FRA,Hospitality,1,Low Leverage,Market Leader,Sector Tailwinds
+C933,Micro,OEMs,FRA,Automotive,2,Operational Leverage,Low Capex,Regulatory Approval
+C934,Small,Biotech,USA,Healthcare,3,Diversified Revenue,Rising Demand,Low Leverage
+C935,Mid,Publishing,ITA,Media,4,Diversified Revenue,Recurring Revenue,Rising Demand
+C936,Small,Parts Suppliers,JPN,Automotive,2,Low Leverage,Rising Demand,Undervalued
+C937,Mid,Hotels,ITA,Hospitality,1,Cost Efficiency,Strong Management,Turnaround Plan
+C938,Mid,Hotels,ITA,Hospitality,2,Market Leader,Operational Leverage,Recurring Revenue
+C939,Small,Chemicals,USA,Materials,2,Cost Efficiency,Turnaround Plan,Market Leader
+C940,Small,Renewables,ITA,Energy,4,Rising Demand,Low Customer Churn,Experienced Team
+C941,Micro,Farming,USA,Agriculture,1,Technological Edge,Capital Light Model,Low Leverage
+C942,Mid,Airlines,USA,Transportation,1,High Growth,Patent Portfolio,Dividend Growth
+C943,Small,Medical Devices,JPN,Healthcare,4,Cost Efficiency,Regulatory Approval,Sticky Customers
+C944,Mid,Apparel,USA,Consumer,4,Low Competition,Cost Efficiency,Turnaround Plan
+C945,Micro,Broadcasting,JPN,Media,4,Share Buyback,Dividend Growth,Strong Brand
+C946,Small,Oil & Gas,FRA,Energy,2,Sector Tailwinds,Share Buyback,Low Customer Churn
+C947,Large,Airlines,USA,Transportation,4,Positive Guidance,Improving Margins,Patent Portfolio
+C948,Mid,Tutoring,JPN,Education,3,Recurring Revenue,Low Leverage,Low Customer Churn
+C949,Mid,OEMs,USA,Automotive,3,Dividend Growth,Growing TAM,Rising Demand
+C950,Mid,EV Manufacturers,ITA,Automotive,4,Low Capex,Sticky Customers,Dividend Growth
+C951,Small,Wireless Services,JPN,Telecommunications,1,Sector Tailwinds,Turnaround Plan,Diversified Revenue
+C952,Micro,Airlines,USA,Transportation,1,Turnaround Plan,Regulatory Approval,Improving Margins
+C953,Large,OEMs,JPN,Automotive,3,Low Leverage,High Free Cash Flow,Experienced Team
+C954,Mid,Broadband,ITA,Telecommunications,2,Low Customer Churn,Turnaround Plan,Regulatory Approval
+C955,Large,EdTech,FRA,Education,2,Sticky Customers,Cost Efficiency,High Free Cash Flow
+C956,Micro,Publishing,ITA,Media,1,Strong Brand,Low Customer Churn,Favorable FX Trends
+C957,Mid,Software,JPN,Technology,4,Undervalued,Cost Efficiency,Patent Portfolio
+C958,Small,Residential RE,FRA,Real Estate,3,High Free Cash Flow,Global Expansion,Dividend Growth
+C959,Large,Broadband,FRA,Telecommunications,3,Low Customer Churn,Technological Edge,Market Leader
+C960,Mid,Residential RE,ITA,Real Estate,3,Low Leverage,Recurring Revenue,Strong Management
+C961,Micro,Food & Beverage,FRA,Consumer,3,New Product Launch,Global Expansion,Recurring Revenue
+C962,Mid,EdTech,USA,Education,2,Positive Guidance,Strong Management,Patent Portfolio
+C963,Small,Retail,JPN,Consumer,3,Low Customer Churn,Technological Edge,Market Leader
+C964,Mid,AgTech,ITA,Agriculture,3,Favorable FX Trends,Capital Light Model,Patent Portfolio
+C965,Large,Banking,ITA,Finance,2,Turnaround Plan,Growing TAM,Low Leverage
+C966,Micro,Streaming,JPN,Media,2,Sector Tailwinds,Low Competition,Dividend Growth
+C967,Small,Pharmaceuticals,FRA,Healthcare,4,Regulatory Approval,Sector Tailwinds,Operational Leverage
+C968,Mid,Metals & Mining,USA,Materials,3,Low Capex,Favorable FX Trends,Low Competition
+C969,Small,Oil & Gas,FRA,Energy,1,High Growth,Patent Portfolio,Positive Guidance
+C970,Small,Retail,FRA,Consumer,1,Low Leverage,Improving Margins,Patent Portfolio
+C971,Mid,Food & Beverage,JPN,Consumer,4,Rising Demand,Regulatory Approval,Share Buyback
+C972,Mid,Rail,ITA,Transportation,2,Sticky Customers,Experienced Team,M&A Potential
+C973,Mid,Hardware,USA,Technology,1,Rising Demand,Recurring Revenue,Technological Edge
+C974,Mid,Commercial RE,USA,Real Estate,4,Operational Leverage,Market Leader,Cost Efficiency
+C975,Small,EV Manufacturers,JPN,Automotive,2,Strong Management,Cost Efficiency,Global Expansion
+C976,Large,Banking,ITA,Finance,1,Diversified Revenue,Undervalued,Turnaround Plan
+C977,Small,Retail,ITA,Consumer,1,Sticky Customers,Cost Efficiency,M&A Potential
+C978,Large,Travel,JPN,Hospitality,3,High Free Cash Flow,M&A Potential,Improving Margins
+C979,Micro,Wireless Services,FRA,Telecommunications,4,Dividend Growth,Technological Edge,Cost Efficiency
+C980,Large,Asset Management,JPN,Finance,1,Rising Demand,Low Leverage,Undervalued
+C981,Large,Wireless Services,FRA,Telecommunications,4,Low Competition,Patent Portfolio,Turnaround Plan
+C982,Micro,Metals & Mining,ITA,Materials,4,Low Competition,Experienced Team,Market Leader
+C983,Mid,EV Manufacturers,USA,Automotive,3,Low Customer Churn,Patent Portfolio,Strong Management
+C984,Large,Commercial RE,JPN,Real Estate,1,Low Customer Churn,Market Leader,Undervalued
+C985,Mid,Pharmaceuticals,FRA,Healthcare,4,Low Leverage,Technological Edge,Growing TAM
+C986,Micro,Utilities,FRA,Energy,3,Diversified Revenue,Dividend Growth,M&A Potential
+C987,Large,Packaging,JPN,Materials,2,Global Expansion,High Free Cash Flow,Strong Brand
+C988,Small,Commercial RE,USA,Real Estate,2,Turnaround Plan,M&A Potential,Operational Leverage
+C989,Large,Retail,USA,Consumer,2,Turnaround Plan,Low Customer Churn,Rising Demand
+C990,Small,EV Manufacturers,ITA,Automotive,4,Low Competition,Dividend Growth,Technological Edge
+C991,Mid,Semiconductors,USA,Technology,3,Sector Tailwinds,Rising Demand,Improving Margins
+C992,Micro,Packaging,FRA,Materials,1,Recurring Revenue,Improving Margins,Low Customer Churn
+C993,Mid,Machinery,ITA,Industrials,1,New Product Launch,Sector Tailwinds,Growing TAM
+C994,Large,Renewables,USA,Energy,4,Improving Margins,Cost Efficiency,Positive Guidance
+C995,Micro,EV Manufacturers,USA,Automotive,3,M&A Potential,Growing TAM,Low Customer Churn
+C996,Micro,Restaurants,USA,Hospitality,4,High Growth,Low Customer Churn,Low Competition
+C997,Micro,Apparel,JPN,Consumer,4,Operational Leverage,Growing TAM,Global Expansion
+C998,Large,Publishing,USA,Media,1,Improving Margins,Low Leverage,Low Competition
+C999,Large,EV Manufacturers,ITA,Automotive,2,Dividend Growth,Low Capex,Undervalued
+C1000,Micro,Commercial RE,USA,Real Estate,2,Dividend Growth,Patent Portfolio,Undervalued

@@ -20,6 +20,12 @@ index_string = '''
                 display: flex;
                 flex-direction: column;
             }
+            .Select-menu-outer {
+                display: block !important;
+            }
+            .dash-spinner {
+                transform: scale(2.5);
+            }
         </style>
     </head>
     <body>
@@ -102,13 +108,39 @@ EXPLORATORY_SELECTION_HEADER = {
 TARGETED_SELECTION_HALF = {
     'flex': '1', 
     'display': 'flex', 
+    'flex-direction': 'column',
+    'align-items': 'center', 
+    'justify-content': 'center',
+    'cursor': 'pointer', 
+    'transition': 'flex 0.6s ease',
+    'position': 'relative', 
+    'height': '100%'
+}
+
+TARGETED_SELECTION_QUARTER = {
+    'flex': '1', 
+    'display': 'flex', 
     'align-items': 'center', 
     'justify-content': 'center',
     'background-color': COLORS["targeted_block"], 
     'cursor': 'pointer', 
     'transition': 'flex 0.6s ease',
     'position': 'relative', 
-    'height': '100%'
+    'height': '100%',
+    'width' : '100%',
+}
+
+CALCULATE_SELECTION_QUARTER = {
+    'flex': '1', 
+    'display': 'flex', 
+    'align-items': 'center', 
+    'justify-content': 'center',
+    'background-color': COLORS["calculate_block"], 
+    'cursor': 'pointer', 
+    'transition': 'flex 0.6s ease',
+    'position': 'relative', 
+    'height': '100%',
+    'width' : '100%',
 }
 
 TARGETED_SELECTION_HEADER = {
@@ -173,6 +205,87 @@ DATA_EXPORT_BUTTON = {
     "display": "inline-block",
     "vertical-align": "middle"
     }
+
+########### Statements Page ###########
+
+STATEMENT_CONTAINER = {
+    'display': 'flex',
+    'alignItems': 'flex-start',
+    'justifyContent': 'flex-start',  # Critical for avoiding left cutoff
+    'flexDirection': 'column',
+    'width': '100vw',
+    'height': '100vh',
+    'margin': '0',
+    'padding': '0',
+    'minWidth': '0',
+    'position': 'relative',
+    'overflow': 'visible',
+    'overflowX': 'auto'  # allow table to overflow horizontally if needed
+}
+
+STATEMENT_TABLE_HEADER_STYLE = {
+    'backgroundColor': '#f4f4f4',
+    'fontWeight': 'bold',
+    'textAlign': 'center'
+}
+
+STATEMENT_TABLE_CELLS = {
+    'padding': '10px',
+    'textAlign': 'center',
+    'minWidth': '100px',
+    'fontFamily': 'Arial',
+    'fontSize': '16px',
+    'whiteSpace': 'normal',         # Allow wrapping
+    'overflow': 'visible',          # Prevent clipping
+}
+
+STATEMENT_TABLE_ADD_ROW = {
+    'backgroundColor': '#6C757D',
+    'color': 'white',
+    'border': 'none',
+    'padding': '10px 20px 10px 20px',  # top, right, bottom, left
+    'borderRadius': '5px',
+    'fontSize': '16px',
+    'cursor': 'pointer',
+    'width': '190px',
+    # 'marginRight': '10px'
+}
+
+STATEMENT_TABLE_CALCULATE = {
+    'backgroundColor': '#28a745',
+    'color': 'white',
+    'border': 'none',
+    'padding': '10px 20px 10px 20px',  # top, right, bottom, left
+    'borderRadius': '5px',
+    'fontSize': '16px',
+    'cursor': 'pointer',
+    'width': '190px',
+}
+
+STATEMENT_TABLE_DOWNLOAD = {
+    'backgroundColor': '#3C6382',
+    'color': 'white',
+    'border': 'none',
+    'padding': '10px 20px 10px 20px',  # top, right, bottom, left
+    'borderRadius': '5px',
+    'fontSize': '16px',
+    'cursor': 'pointer',
+    'width': '190px',
+}
+
+STATEMENT_TABLE_UPLOAD = {
+    'backgroundColor': '#007B8A',
+    'color': 'white',
+    'border': 'none',
+    'padding': '10px 20px 10px 20px',  # top, right, bottom, left
+    'borderRadius': '5px',
+    'fontSize': '16px',
+    'cursor': 'pointer',
+    'display': 'inline-block',
+    'width': '190px',
+}
+
+########### Details Grids Page ###########
 
 DETAILS_GRID_MAIN_CONTAINER = {
     "display": "grid",

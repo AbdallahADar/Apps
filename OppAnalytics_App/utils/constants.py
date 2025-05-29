@@ -1,5 +1,6 @@
 import dash
 from dash import html
+import pandas as pd
 
 ## Define path
 PATH = ""
@@ -7,12 +8,13 @@ PATH = ""
 ## Define color dictionary used by the app
 COLORS = {
     "background" : "white",
-    "demo_block" : "black", # Azure Radiance Blue
-    "details_block" : "white", # Azure Radiance Blue
+    "demo_block" : "black", 
+    "details_block" : "white",
     "demo_text" : "white",
     "details_text" : "black",
     "exploratory_block" : "#007BFF", # Azure Radiance Blue
     "targeted_block" : "#28A745", # Eucalyptus Green
+    "calculate_block": "#DC3545",  # Crimson Red
     "exploratory_text" : "white",
     "targeted_text" : "white",
 }
@@ -35,6 +37,7 @@ FONT_SIZES = {
     "details_text" : "3em",
     "exploratory_text" : "2.5em",
     "targeted_text" : "2.5em",
+    "calculate_text" : "2.5em",
 }
 
 ## Define Background color
@@ -165,3 +168,30 @@ GRID_CONTENT = {
         f"G{i}" : html.Div("Coming Soon Content", style={"textAlign": "center"}) for i in range(len(GRID_CONTENT)+2, TOTAL_CELLS+1)
     }
 }
+
+## Statements Info
+
+# Get column naming
+TEMPLATE = pd.read_csv(f"{PATH}data/statement_template/template.csv")
+
+# Statement date column
+STATEMENT_DATE = "date"
+
+# Columns with drop downs
+DROPDOWN_COLS = ["industry"]
+
+# Drop down values
+DROPDOWN_VALS = {}
+DROPDOWN_VALS["industry"] = [f"N{str(i).zfill(2)}" for i in range(1, 63)]
+
+DROPDOWN = {
+    i: {
+        'options': [{'label': j, 'value': j} for j in DROPDOWN_VALS[i]]
+        }
+    for i in DROPDOWN_COLS
+}
+
+## Statements calculated
+
+# Get column naming
+TEMPLATE_OUT = pd.read_csv(f"{PATH}data/statement_template/template_out.csv")

@@ -18,6 +18,7 @@ class StateManager:
         self.geo_fig = PLACEHOLDER
         self.tree_fig = PLACEHOLDER
         self.selected_rows = []
+        self.statement_output_name = ""
 
     # To dict function defined
     def to_dict(self):

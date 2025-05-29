@@ -6,6 +6,7 @@ import dash_bootstrap_components as dbc
 
 # Initialize the Dash app
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+# app = Dash(__name__)
 
 # Customize app index string
 app.index_string = index_string

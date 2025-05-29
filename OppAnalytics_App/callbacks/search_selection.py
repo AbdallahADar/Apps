@@ -2,9 +2,9 @@ import pandas as pd
 import numpy as np
 import dash
 from dash import html, Input, Output, State
-from utils.ids import SEARCH_SELECTION_IDS, GEO_FIGURE_IDS, STATE_DATA_ID, TABLE_COLUMNS, TABLE_IDS
+from utils.ids import SEARCH_SELECTION_IDS, GEO_FIGURE_IDS, STATE_DATA_ID, TABLE_COLUMNS, TABLE_IDS, STATEMENT_IDS
 from utils.constants import APP_BACKGROUND_COLOR, PATH
-from utils.styles import GEO_FIGURE, TABLES_CONTAINER
+from utils.styles import GEO_FIGURE, TABLES_CONTAINER, STATEMENT_CONTAINER
 from plots.geo_plot import geo_plot, geo_plot_risk
 from data.StateManager import StateManager
 
@@ -21,16 +21,18 @@ def register_callbacks(app):
             Output(GEO_FIGURE_IDS["geo-figure-risk"], "figure", allow_duplicate=True),
             Output(TABLE_IDS["overall-container"], "style", allow_duplicate=True),
             Output(TABLE_IDS["full-table"], "rowData", allow_duplicate=True),
+            Output(STATEMENT_IDS["overall-container"], "style", allow_duplicate=True),
             Output(STATE_DATA_ID, 'data', allow_duplicate=True)
         ],
         [
             Input(SEARCH_SELECTION_IDS["exploratory-block"], "n_clicks"),
-            Input(SEARCH_SELECTION_IDS["targeted-block"], "n_clicks"),
+            Input(SEARCH_SELECTION_IDS["target-sub-block"], "n_clicks"),
+            Input(SEARCH_SELECTION_IDS["calculate-sub-block"], "n_clicks"),
             State(STATE_DATA_ID, 'data')
         ],
         prevent_initial_call = True
     )
-    def update(exploratory, target, state):
+    def update(exploratory, target, calculate,state):
 
         print("search-selection")
 
@@ -44,6 +46,7 @@ def register_callbacks(app):
             return [{'display':'none'}, [], 
                     GEO_FIGURE, SM.geo_fig,SM.geo_fig_risk,
                     dash.no_update, [],
+                    dash.no_update,
                     SM.to_dict()]
         elif target:
             
@@ -64,6 +67,14 @@ def register_callbacks(app):
                     dash.no_update, {},{},
                     TABLES_CONTAINER,
                     df[list(TABLE_COLUMNS.values())[:-3]].to_dict("records"),
+                    dash.no_update,
+                    SM.to_dict()]
+
+        elif calculate:
+            return [{'display':'none'}, [],
+                    dash.no_update, {},{},
+                    dash.no_update, [],
+                    STATEMENT_CONTAINER,
                     SM.to_dict()]
 
         return []

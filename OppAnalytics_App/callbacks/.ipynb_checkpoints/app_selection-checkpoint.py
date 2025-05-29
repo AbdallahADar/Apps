@@ -16,7 +16,8 @@ def register_callbacks(app):
             Output(APP_SELECTION_IDS["overall-container"], "style", allow_duplicate=True),
             Output(APP_SELECTION_IDS["overall-container"], "children", allow_duplicate=True),
             Output(SEARCH_SELECTION_IDS["overall-container"], "style", allow_duplicate=True),
-            Output(DETAILS_GRID_IDS["overall-container"], "style", allow_duplicate=True)
+            Output(DETAILS_GRID_IDS["overall-container"], "style", allow_duplicate=True),
+            Output(STATE_DATA_ID, 'data', allow_duplicate=True)
         ],
         [
             Input(APP_SELECTION_IDS["demo-block"], "n_clicks"),
@@ -36,10 +37,12 @@ def register_callbacks(app):
             SM.step = "demo"
             # Hide the app mode selection page and display the search selection page
             return [{'display':'none'}, [], 
-                    SELECTION_CONTAINER, {'display':'none'}]
+                    SELECTION_CONTAINER, {'display':'none'},
+                   SM.to_dict()]
         elif details:
             SM.step = "details"
             return [{'display':'none'}, [],
-                    dash.no_update, {'display':'flex'}]
+                    dash.no_update, {'display':'flex'},
+                   SM.to_dict()]
 
         return []

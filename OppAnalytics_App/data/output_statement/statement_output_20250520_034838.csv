@@ -1,0 +1,5 @@
+entityID,date,country,industry,assets,liabilities,sales,income,int_expense,inventory,cost_of_goods_sold,operating_expense,capex
+A,2020-12-14,USA,N01,10,20,30,40,50,60,7,8,9
+B,2020-12-14,USA,N04,20,34,12,3,4,5,6,7,89
+C,2020-12-14,USA,N30,30,50,1,2,3,4,5,6,7
+D,2020-12-14,USA,N52,40,8,2,3,4,5,6,7,8

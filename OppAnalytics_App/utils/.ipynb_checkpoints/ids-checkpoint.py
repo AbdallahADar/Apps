@@ -12,6 +12,8 @@ SEARCH_SELECTION_IDS = {
     'overall-container' : 'seearch-selection-page',
     'exploratory-block' : 'exploratory-half',
     'targeted-block' : 'taregeted-half',
+    'target-sub-block' : 'target-sub-block',
+    'calculate-sub-block' : 'calculate-sub-block'
 }
 
 GEO_FIGURE_IDS = {
@@ -54,7 +56,8 @@ TABLE_COLUMNS = {
 }
 
 DATA_EXPORT_ID = {
-    "portfolio-button" : "portfolio-selection-button"
+    "portfolio-button" : "portfolio-selection-button",
+    "output-statements" : "output-statements-button"
 }
 
 DETAILS_GRID_IDS = {f"G{i}":f"grid-{i}" for i in range(1, TOTAL_CELLS+1)}
@@ -64,4 +67,22 @@ DETAILS_POP_UP_IDS = {
     "overall-container":"pop-up-container",
     "body":"pop-up-body",
     "button":"pop-up-close-button",
+}
+
+STATEMENT_IDS = {
+    'overall-container' : 'statement-page',
+    'input-statements' : 'input-statements',
+    'add-row-button' : 'add-row-button',
+    'calculate-button' : 'calculate-button',
+    'loading-screen' : 'loading-screen',
+    'loading-out' : 'loading-out',
+    'loading-trigger' : 'loading-trigger',
+    "download-button" : 'download-template-button',
+    "download" : "download-template",
+    "upload" : "upload-template",
+}
+
+STATEMENT_OUT_IDS = {
+    'overall-container' : 'statement-out-page',
+    'output-statements' : 'output-statements',
 }
